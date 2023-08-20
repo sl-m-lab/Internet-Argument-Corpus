@@ -1,0 +1,66 @@
+#project specific
+sql_auth.json
+
+#SQL DB dumps - very big...
+/sql_backup/*
+!/sql_backup/README.txt
+
+#Resources exclude all except whitelist...
+/resources/*
+!/resources/README.txt
+!/resources/resources_index.json
+!/resources/stanford_parser_reference/*
+
+#temp dir
+/tmp/*
+!/tmp/README.txt
+
+
+
+# -----------------------------------
+# -----------------------------------
+
+#Python
+*.py[cod]
+__pycache__
+dist/
+*.egg-info
+MANIFEST
+
+#IDE
+.project
+.pydevproject
+.idea/
+*.iml
+
+#really...?
+.svn/
+
+#Mac....
+.DS_Store
+*.swp
+__MACOSX/
+
+#KDE...
+.directory
+
+#Various
+*.lock
+
+#LaTeX
+#There are a lot more LaTeX generated junk file types out there, add as needed
+*.aux
+*.bbl
+*.blg
+*.toc
+
+#I'm a little torn on the following, comment out if you have an opinion
+#*.out and *.log show up with LaTeX
+*.out
+*.log
+
+#OpenOffice
+.~lock.*
+
+#Kate (KDE text editor) temp
+.*.kate-swp

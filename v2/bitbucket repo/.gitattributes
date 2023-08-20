@@ -1,0 +1,2 @@
+#Ensures Windows doesn't add CRLF newlines
+* text=auto
