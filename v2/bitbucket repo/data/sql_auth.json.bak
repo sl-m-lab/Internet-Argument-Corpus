@@ -1,0 +1,21 @@
+{
+    "comments":[
+        "This is designed so that you can have multiple configurations and easily switch between them",
+        "Instructions:",
+            "Copy, removing the .bak from the filename.",
+            "Change password and/or user.",
+        "'default_configuration' should indicate which set of settings you want to use",
+        "dbapi is for sqlalchemy, modify to suit your preferences.",
+            "see: http://docs.sqlalchemy.org/en/rel_0_7/core/engines.html#supported-databases"
+    ],
+
+    "default_configuration":"local",
+
+    "local":{
+        "host":"localhost",
+        "port":"3306",
+        "username":"iacuser",
+        "password":"Change Me!",
+        "dbapi":"mysql+mysqldb"
+    }
+}
