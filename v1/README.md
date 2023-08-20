@@ -1,4 +1,5 @@
-If you use this data in your research, please refer to and cite: Marilyn A. Walker, Pranav Anand, Jean E. Fox Tree, Rob Abbott, Joseph King. "A Corpus for Research on Deliberation and Debate." In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC), Istanbul, Turkey, 2012.
+If you use this data in your research, please refer to and cite: M**arilyn A. Walker, Pranav Anand, Jean E. Fox Tree, Rob Abbott, Joseph King. "A Corpus for Research on Deliberation and Debate." In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC), Istanbul, Turkey, 2012.**
+
 
 Overview: The Internet Argument Corpus (IAC) is a corpus for research in political debate on internet forums. It consists of ~11,000 disscussions, ~390,000 posts, and some ~73,000,000 words. Subsets of the data have been annotated for topic, stance, agreement, sarcasm, and nastiness among others.
 
