@@ -1,0 +1,232 @@
+[
+ [
+  [
+   309980, 
+   null, 
+   "jim's trucking", 
+   "If I requested from you a high resolution picture of the moon and a sworn statement regarding what time the picture was taken (presumably from a location on earth), could I tell you from where it was taken? (assuming I have quality optical instruments at my disposal)", 
+   {
+    "post_info": {
+     "post_title": "A simple question for scientists and wannabeese..."
+    }
+   }, 
+   null, 
+   null, 
+   1209349020.0
+  ], 
+  [
+   309998, 
+   null, 
+   "Jo Bennett", 
+   "I would think so, yes, because you would be able to see what phase the moon was in, and with sufficiently accurate data that would correspond to a particular date and time at a point on the Earth's surface. More directly you could look at the angle between the Sun, Moon and Earth (assuming the time is an observational one based on sun rise and sunset), again based on how much of the moon is visible.", 
+   {}, 
+   309980, 
+   null, 
+   1209363180.0
+  ], 
+  [
+   310000, 
+   null, 
+   "obvious_child", 
+   "How exact are we talking about?\n \n Like region? City? Square block?", 
+   {}, 
+   309980, 
+   null, 
+   1209376260.0
+  ], 
+  [
+   310018, 
+   null, 
+   "jim's trucking", 
+   "How exact are we talking about?\n \n Like region? City? Square block?\nThat would depend on the resolution and magnification of the optics that produced and studied the photo, the accuracy of the clock used to record the time/date stamp and the visual acuteness of my cute assistant.\n \n Maximize the above and the accuracy will be enhanced. Fuzzy up any one of them and the accuracy suffers.\n \n Let me see if I can get admin to turn on the IMG code here and I'll post a picture of the moon to discuss with these ramblings.", 
+   {}, 
+   310000, 
+   null, 
+   1209400800.0
+  ], 
+  [
+   310024, 
+   null, 
+   "jim's trucking", 
+   "This photo was taken using a handheld digital zoomed out to 19.1x\n \n http://i3.photobucket.com/albums/y86/jimstrucking/moonatmyhouse010.jpg", 
+   {
+    "post_info": {
+     "post_title": "Take a look at this image of the moon...."
+    }
+   }, 
+   310018, 
+   null, 
+   1209402180.0
+  ], 
+  [
+   310031, 
+   null, 
+   "jim's trucking", 
+   "Can you explain in 100 words (or fewer) how a photo such as above, coupled with knowledge of the exact time it was taken and the use of high resolution viewing techniques can be used to determine where the camera was when the photo was taken?\n \n The most concise, 100% correct answer will win a small insignificant cyber-prize and recognition of excellence in the understanding of elementary physics.\n \n (This will also work to determine what time the photo was taken if we already know the location exactly.)", 
+   {}, 
+   310024, 
+   null, 
+   1209403860.0
+  ], 
+  [
+   310035, 
+   null, 
+   "Kronus", 
+   "First, assumptions. When you say where, you mean a location on Earth, and when you say time, you also mean date.\n \n It would take some work to prove it mathematically, but my instinct says no. Yes, someone on one side of the Earth sees a very slightly different view of the moon then someone on the other side. But is the difference enough to make one pixel's difference on a digital photo of the whole moon? My intuition says no. If you zoomed in on just one edge of the moon then maybe you could tell, but if your photo includes the whole moon then I doubt you would have the necessary resolution to pinpoint where the photo was taken from. You could of course say it had to be the half of the Earth that was facing the moon at the time the photo was taken, but beyond that I think you would be out of luck.", 
+   {}, 
+   310024, 
+   null, 
+   1209404460.0
+  ], 
+  [
+   310038, 
+   null, 
+   "jim's trucking", 
+   "First, assumptions. When you say where, you mean a location on Earth, and when you say time, you also mean date.\n \n It would take some work to prove it mathematically, but my instinct says no. Yes, someone on one side of the Earth sees a very slightly different view of the moon then someone on the other side. But is the difference enough to make one pixel's difference on a digital photo of the whole moon? My intuition says no. If you zoomed in on just one edge of the moon then maybe you could tell, but if your photo includes the whole moon then I doubt you would have the necessary resolution to pinpoint where the photo was taken from. You could of course say it had to be the half of the Earth that was facing the moon at the time the photo was taken, but beyond that I think you would be out of luck.\nYou're quite right in that assumptions should be given. Assume you have an extremely high quality camera, (can be digital or film), an exact time/date stamp and extremely high quality viewing glasses (magnifiers) such that the high resolution of the photo can be detected. Hypothetically, just take the resolution capabilities to infinite.\n \n That the location has to be on that half of the earth facing the moon at the time the picture was taken is obvious since we have restricted the location to a point on the surface of the earth. There has to have been an unobstructed view of the moon.\n \n All entries must be submitted prior to the closing bell for the NYSE on May 13, 2008. I will be out of the country until then.", 
+   {}, 
+   310035, 
+   null, 
+   1209405300.0
+  ], 
+  [
+   310057, 
+   null, 
+   "Kronus", 
+   " Hypothetically, just take the resolution capabilities to infinite.\n \n\n \n So we're going into the realm of the impossible then. Type of camera really doesn't matter then, right? Just assume you have a \"perfect\" picture.", 
+   {}, 
+   310038, 
+   null, 
+   1209410760.0
+  ], 
+  [
+   310070, 
+   null, 
+   "jim's trucking", 
+   "So we're going into the realm of the impossible then. Type of camera really doesn't matter then, right? Just assume you have a \"perfect\" picture.\nNot impossible...theoretical. A digital study would likely make it easier to discern the small details it takes to determine the centerline needed, but theoretically either would work.", 
+   {}, 
+   310057, 
+   null, 
+   1209415080.0
+  ], 
+  [
+   310094, 
+   null, 
+   "Kronus", 
+   "Not impossible...theoretical. A digital study would likely make it easier to discern the small details it takes to determine the centerline needed, but theoretically either would work.\n\n \n You said infinite resolution; that's impossible. And I'm not just picking nits here. If you're talking about digital pictures as the term is meant today than pixel size is a critical factor and something you need to specify if we're to say how accurately the photographer's position can be fixed. If you want to pretend that we can achieve perfect accuracy via infinite resolution that's fine, I enjoy thought problems even if they have no real world applications, but please make that assumption explicit.", 
+   {}, 
+   310070, 
+   null, 
+   1209423180.0
+  ], 
+  [
+   310096, 
+   null, 
+   "jim's trucking", 
+   "You said infinite resolution; that's impossible. And I'm not just picking nits here. If you're talking about digital pictures as the term is meant today than pixel size is a critical factor and something you need to specify if we're to say how accurately the photographer's position can be fixed. If you want to pretend that we can achieve perfect accuracy via infinite resolution that's fine, I enjoy thought problems even if they have no real world applications, but please make that assumption explicit.\nYou're quite right.\n \n You could theoretically have the number of pixels available in a photo approach infinity. Suppose we say that there is available a perfectly transmissive zoom lens on a camera with multiple-giga-pixel resolution...enough to detect a particle of dust on the moon...and the magnification is more than enough to make the moon fill the frame...say even we might be able to break the moon's surface in a thousand or so full frame pictures by zooming in even more.\n \n Is that sufficient?", 
+   {}, 
+   310094, 
+   null, 
+   1209423780.0
+  ], 
+  [
+   310099, 
+   null, 
+   "Kronus", 
+   " You're quite right.\n \n You could theoretically have the number of pixels available in a photo approach infinity.\n\n No we couldn't. If nothing else, a pixel can't be smaller than a single atom. \n \n \nSuppose we say that there is available a perfectly transmissive zoom lens on a camera with multiple-giga-pixel resolution...enough to detect a particle of dust on the moon...and the magnification is more than enough to make the moon fill the frame...say even we might be able to break the moon's surface in a thousand or so full frame pictures by zooming in even more.\n \n Is that sufficient? \n\n \n It's silly. If you want to say infinite resolution, even though such a thing is impossible, just go ahead and say it. It's a puzzle, a thought problem. It doesn't have to follow real world rules. Math does it all the time, and it's fine. If you're trying to pose a mathematical puzzle, rather than one that deals with real world limitaitons, that's ok. Just come out and actually say it, if that's what you mean. So which is it? Are you posing a theoretically possible puzzle, or a more mathematical one where things like infinite resolution exist?", 
+   {}, 
+   310096, 
+   null, 
+   1209425760.0
+  ], 
+  [
+   310150, 
+   null, 
+   "jim's trucking", 
+   "No we couldn't. If nothing else, a pixel can't be smaller than a single atom. \nIs this really so?\n \n Atoms come in several sizes. A hydrogen atom is much smaller than a Unimbium atom. Boron is somewhere in between the two.\n \n check this:\n http://www.ornl.gov/info/ornlreview/rev28-4/text/atoms.htm\n \n about midway down the page there's a photo of some boron atoms, each being quite large enough to require several hundreds of pixels, depending on the picture size.\n \n Resolutions such as described in that article are quite sufficient to say that the problem proposed (of figuring out where the camera was) is not limited to a mathmatical study. It could happen...with extremely high resolution equipment. It is true that we do not have equipment that can view an object 225,000 miles away with the resolution required to measure atomic sized variations. Rather than fight with you about the equipment and the concept of infinite resolution, let me just say that the resolution could be high enough to discern any change in the appearance of an object due to that object's movement to another position or orientation, no matter how slight the move.\n \n Would that suffice for you?\n \n \n \n\n It's silly. If you want to say infinite resolution, even though such a thing is impossible, just go ahead and say it. It's a puzzle, a thought problem. It doesn't have to follow real world rules. Math does it all the time, and it's fine. If you're trying to pose a mathematical puzzle, rather than one that deals with real world limitations, that's ok. Just come out and actually say it, if that's what you mean. So which is it? Are you posing a theoretically possible puzzle, or a more mathematical one where things like infinite resolution exist?\nSince the problem deals with the actual moon and the actual earth and our ability to actually take a clear photograph of the moon with equipment that actually has extremely high resolution and your only negative point is that resolution cannot be infinite, let me try saying that the resolution available will be whatever it takes to discern any difference in the appearance of photos regarding the exact position and orientation of an object when compared with other photos of that object taken under similar physical circumstances.", 
+   {}, 
+   310099, 
+   null, 
+   1209499800.0
+  ], 
+  [
+   310155, 
+   null, 
+   "Kronus", 
+   " \n Rather than fight with you about the equipment and the concept of infinite resolution, let me just say that the resolution could be high enough to discern any change in the appearance of an object due to that object's movement to another position or orientation, no matter how slight the move.\n \n Would that suffice for you?\n \n\n \n I'm really not trying to fight with you. I'm just trying to get you to specify if you're defining a mathematical problem or a physical problem. You don't seem sure yourself, so when you figure it out let us know.", 
+   {}, 
+   310150, 
+   null, 
+   1209509400.0
+  ], 
+  [
+   310188, 
+   null, 
+   "jim's trucking", 
+   "I'm really not trying to fight with you. I'm just trying to get you to specify if you're defining a mathematical problem or a physical problem. You don't seem sure yourself, so when you figure it out let us know.\nOh, I fully understand the problem. It is truly physical, can be explained in terms of mathmatics and with terms used in physics, is completely plausible as a doable thing assuming one has the sense to realize how high resolution can be these days.\n \n If we can look at a black hole some 960million light years away and determine that the particles spewing out are doing so in a spiral pattern, we can surely look at the moon and tell where we are on earth.\n \n You've probably problems expressing the proof that it can be done. So be it. I'll try to come up with something simpler for you.", 
+   {}, 
+   310155, 
+   null, 
+   1209568140.0
+  ], 
+  [
+   310205, 
+   null, 
+   "Kronus", 
+   "Oh, I fully understand the problem. It is truly physical, can be explained in terms of mathmatics and with terms used in physics, is completely plausible as a doable thing assuming one has the sense to realize how high resolution can be these days.\n \n If we can look at a black hole some 960million light years away and determine that the particles spewing out are doing so in a spiral pattern, we can surely look at the moon and tell where we are on earth.\n \n You've probably problems expressing the proof that it can be done. So be it. I'll try to come up with something simpler for you.\n\n \n It's pretty clear you don't understand the issues here. Why don't you just post your solution, and I'll expain to you why it wouldn't work in the real world.", 
+   {}, 
+   310188, 
+   null, 
+   1209584280.0
+  ], 
+  [
+   310251, 
+   null, 
+   "Peeling", 
+   "If I requested from you a high resolution picture of the moon and a sworn statement regarding what time the picture was taken (presumably from a location on earth), could I tell you from where it was taken? (assuming I have quality optical instruments at my disposal)\n\n \n Yes. Actually, you don't even need the time (assuming it was within the last lunar cycle) because the lighting on the moon's surface (rough estimate from phase, refined using shadow details within the terminator - won't work if it's a full moon) can provide that information. A reference point in the centre of the moon's face provides parallax and the rest is just geometry (although you do have to interpolate the moon edge that's too dark to see, which adds to the error margin). Based on the picture you've provided, I put the cameraman somewhere near here.", 
+   {}, 
+   309980, 
+   null, 
+   1209645540.0
+  ], 
+  [
+   310257, 
+   null, 
+   "jim's trucking", 
+   "It's pretty clear you don't understand the issues here. Why don't you just post your solution, and I'll expain to you why it wouldn't work in the real world.\nIt works better in the real world than it does on paper. It' easily undertstandable also...which is what makes me wonder why you don't have it yet.\n \n \nYes. Actually, you don't even need the time (assuming it was within the last lunar cycle) because the lighting on the moon's surface (rough estimate from phase, refined using shadow details within the terminator - won't work if it's a full moon) can provide that information. A reference point in the centre of the moon's face provides parallax and the rest is just geometry (although you do have to interpolate the moon edge that's too dark to see, which adds to the error margin). Based on the picture you've provided, I put the cameraman somewhere near here.\nI think the time stamp is required.\n \n Consider this:\n \n Imagine that the moon and the earth are each yoyos tethered on a long string attached to their center pins. The moon is not spinning relative to the string. it is much like a real yoyo that's been \"walkin' the dog\" and then held still so long that it stopped spinning with its string being fully extended and is now being slung around in a large circular orbit around the earth. (Yes, Kronus...I know it's not exactly a circular orbit.) The same face of the yoyo is always looking straight along the string toward the center of the yoyo's orbit.\n \n The center of the yoyo moon's orbit is the center of the yoyo earth. The yoyo earth is still spinning on the string.\n \n Now imagine yourself being extremely small compared to yoyo earth and that you are perched on the edge of yoyo earth near the string slot trying to look at the yoyo moon. As you ride around in circles on the edge of yoyo earth, you will be able to see the yoyo moon for something less than half the time. As you move, the angle between the two lines formed by a) your line of sight and b) the string holding yoyo moon to yoyo earth will continuously change from Xdeg when you first sight the yoyo moon, decreasing to zero when you pass the string.)and then going to -Xdeg just before losing sightline again.\n \n Since the real moon is irregular and not slick like a cue ball, each view from a different angle will vary from the one next to it. Since the moon is not turning, it is quite simple to determine where the \"string\" comes out.", 
+   {}, 
+   310251, 
+   null, 
+   1209659700.0
+  ], 
+  [
+   310260, 
+   null, 
+   "Peeling", 
+   "You still don't need the timestamp. The lighting on the moon's surface theoretically provides that information.\n \n So, how good optics do you need? Draw a line from someone on the surface of the earth, through the surface of the moon and down to its core. Do the same for everyone on earth. All those lines will pass through a circle on the surface of the moon - a projection of the earth onto that surface, if you will. That circle will be approx 57.6km across, or 57613m.\n \n The largest earth-bound telescope in development, the VLT, can resolve down to objects 3ft across, giving you an effective resolution within that circle of around 60000 pixels, translating to a maximum theoretical accuracy of the telescope's location back here on earth of around 210 metres (if the moon is overhead - far worse if it is near the horizon).\n \n If you infer the time from the lighting on the moon's surface rather than knowing it exactly, your longitudinal margin of error, given the same optical quality, increases to just under 1 degree (at best, given an ideal half-moon visible terminator), which could be anything up to a hundred kilometres.\n \n Of course, to actually fit the whole moon into the picture, so that you could tell where the overhead 'middle' was, you would need a 13,110,434 megapixel CCD, which at current levels of technology would measure 35 metres across - making the whole process redundant because it would be far easier to spot the camera itself from space than to work backwards from the images of the moon it produces.", 
+   {}, 
+   310257, 
+   null, 
+   1209662340.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  A simple question for scientists and wannabeese...", 
+  "url": "http://www.4forums.com/political/science-math-debates/11182-simple-question-scientists-wannabeese.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 11182, 
+  "discussion_files": [
+   [
+    "669.html", 
+    "http://www.4forums.com/political/science-math-debates/11182-simple-question-scientists-wannabeese-print.html"
+   ], 
+   [
+    "670.html", 
+    "http://www.4forums.com/political/science-math-debates/11182-simple-question-scientists-wannabeese-2-print.html"
+   ]
+  ], 
+  "identifier": 11182
+ }
+]

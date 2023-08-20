@@ -1,0 +1,430 @@
+[
+ [
+  [
+   307931, 
+   null, 
+   "Peeling", 
+   "If it's OK with everyone, could we avoid posting any hints for a while? I'd like to see how many people give which answer before the explanation is given. Thanks!\n \n Here's the scenario:\n \n In a game show you are presented with three doors, one of which conceals a prize. You are asked to choose one. The host then opens one of the doors you didn't choose to show it is empty. You then get the option to change your mind and switch to the other closed door, or stick with your original choice.\n \n What should you do, and does it matter?", 
+   {
+    "post_info": {
+     "post_title": "Statistical puzzle"
+    }
+   }, 
+   null, 
+   null, 
+   1207670820.0
+  ], 
+  [
+   307932, 
+   null, 
+   "smiley", 
+   "You should switch.", 
+   {}, 
+   307931, 
+   null, 
+   1207671420.0
+  ], 
+  [
+   307940, 
+   null, 
+   "Jo Bennett", 
+   "You should switch and yes it does matter.", 
+   {}, 
+   307932, 
+   null, 
+   1207676400.0
+  ], 
+  [
+   307946, 
+   null, 
+   "pandion", 
+   "Switch. So you went to see the movie 21? Some co-workers and I batted that problem around back in the late 80's. Some weren't convinced and it took a computer simulation to show them that you win 2/3 of the time if you switch.\n \n Both of my sons gave the correct answer after a few seconds thought. One is a nuclear engineer (lots of math) and the other actually has a degree in math.", 
+   {}, 
+   307940, 
+   null, 
+   1207680000.0
+  ], 
+  [
+   307947, 
+   null, 
+   "Peeling", 
+   "Switch. So you went to see the movie 21?\n\n \n Actually no; is it mentioned there? I got it from somewhere else entirely. If it's now widely known about that spoils the fun somewhat :)", 
+   {}, 
+   307946, 
+   null, 
+   1207682160.0
+  ], 
+  [
+   307948, 
+   null, 
+   "isly ilwott", 
+   "Actually no; is it mentioned there? I got it from somewhere else entirely. If it's now widely known about that spoils the fun somewhat :)\n\n I've heard the explanation several times. I'm interested in your wording of it...and how you account for the probability of the host's actions.", 
+   {}, 
+   307947, 
+   null, 
+   1207682700.0
+  ], 
+  [
+   307960, 
+   null, 
+   "Kronus", 
+   "I posted this same puzzle a while back. It's fascinating to see which arguments will finally convince someone who got the wrong answer originally.", 
+   {}, 
+   307948, 
+   null, 
+   1207698900.0
+  ], 
+  [
+   307965, 
+   null, 
+   "pandion", 
+   "I posted this same puzzle a while back. It's fascinating to see which arguments will finally convince someone who got the wrong answer originally.\nAs I recall, we went round and round with some who just couldn't see why the answer is what it is in that thread.", 
+   {}, 
+   307960, 
+   null, 
+   1207699740.0
+  ], 
+  [
+   308160, 
+   null, 
+   "Kronus", 
+   "As I recall, we went round and round with some who just couldn't see why the answer is what it is in that thread.\n\n \n Well, this is the internet. There will always be someone who refuses to get it. :)", 
+   {}, 
+   307965, 
+   null, 
+   1207847520.0
+  ], 
+  [
+   308283, 
+   null, 
+   "SoupNazi", 
+   "If it's OK with everyone, could we avoid posting any hints for a while? I'd like to see how many people give which answer before the explanation is given. Thanks!\n \n Here's the scenario:\n \n In a game show you are presented with three doors, one of which conceals a prize. You are asked to choose one. The host then opens one of the doors you didn't choose to show it is empty. You then get the option to change your mind and switch to the other closed door, or stick with your original choice.\n \n What should you do, and does it matter?\n\n \n I'd switch, and yes it does matter.", 
+   {}, 
+   307931, 
+   null, 
+   1207938240.0
+  ], 
+  [
+   308419, 
+   null, 
+   "Kronus", 
+   "Peeling, everyone so far has been in agreement. Maybe if you post the answer, including the perecentages, someone might disagree and we'll get a little action here. :)", 
+   {}, 
+   308283, 
+   null, 
+   1208044740.0
+  ], 
+  [
+   310832, 
+   null, 
+   "iangb", 
+   "Yes, you should switch, to double your chances of success. As this thread has been dead for a month, I'm going to post up the reasoning. I've been tempted to do this for a while...\n \n Consider the possible outcomes of the first choice. Because there is only one prize but three doors, you must have a 1 in 3 chance of picking the right door and a corresponding 2 in 3 chance of picking the incorrect door.\n \n However, the host then removes an 'empty' door. This means that there are only two doors left, one of which has a prize and one of which doesn't. As such, if you switch doors then you are guaranteed to go from prize to not-prize, or vice versa, from not-prize to prize. This means that, should you switch, the 1/3 chance of picking the prize door from the first choice becomes a 1/3 chance that you will switch to an empty door. Equally, the 2/3 chance that you miss the prize door on your first choice becomes a 2/3 chance that you will switch from that empty door to the prize one.\n \n Thus if you switch you have a 2/3 chance of getting the correct door, compared to the 1/3 chance of failure. However, if you decide to stick with the same door then all you have is the 1/3 chance of success from your first choice - halving your chances.\n \n A more diagrammatical approach is shown below. In it, 'P' indicates a door with a prize, 'E' indicates an empty door, and the bolded letter indicates your currently selected door.\n \n SWITCH\n \n PEE ------< one E removed -----< PE\n EPE ------< one E removed -----< EP\n EEP ------< one E removed -----< EP\n \n 2/3 chance of winning.\n \n STICK\n \n PEE ------< one E removed -----< PE\n EPE ------< one E removed -----< EP\n EEP ------< one E removed -----< EP\n \n 1/3 chance of winning.", 
+   {
+    "post_info": {
+     "post_title": "The working!"
+    }
+   }, 
+   308419, 
+   null, 
+   1210608360.0
+  ], 
+  [
+   310868, 
+   null, 
+   "snakespit", 
+   "I guess I'm the retard. I didn't read the answer at the bottom prior to voting...but even after I did, I still can't see what difference it makes to switch. I admit that math is not my strongest subject...but seriously...how does it matter?", 
+   {}, 
+   310832, 
+   null, 
+   1210651620.0
+  ], 
+  [
+   310876, 
+   null, 
+   "Kronus", 
+   "I guess I'm the retard. I didn't read the answer at the bottom prior to voting...but even after I did, I still can't see what difference it makes to switch. I admit that math is not my strongest subject...but seriously...how does it matter?\n\n \n Iangb's analysis was pretty good, have you read it? Post just above yours.", 
+   {}, 
+   310868, 
+   null, 
+   1210691220.0
+  ], 
+  [
+   310878, 
+   null, 
+   "Steeeeve", 
+   "I've heard this before but I've always wondered if it worked in real life. \n \n Also, if you have three doors and one is already open and then you are asked to pick one then what are the chances you pick right? \n \n I've also wondered why...in the explanation given...are those the three choices.\n Seems like the solution implies switching doors. You have door 1, door 2, door 3 so if door 3 is opened and empty then your choices are \"PEE\" and \"EPE\" if you say the three letters are 1,2,3 respectively. Seems if you added \"EEP\" then you assume a different door has now been opened. So the way I see it is the solution assumes one door has been opened yet but the question states one already has been open.\n \n Basically it seems the only way this is true is because the host knows what door contains the prize. If he/she didn't then it would be 50/50.", 
+   {}, 
+   310876, 
+   null, 
+   1210692960.0
+  ], 
+  [
+   310879, 
+   null, 
+   "smiley", 
+   "I've heard this before but I've always wondered if it worked in real life. \n \n Also, if you have three doors and one is already open and then you are asked to pick one then what are the chances you pick right? \n \n I've also wondered why...in the explanation given...are those the three choices.\n Seems like the solution implies switching doors. You have door 1, door 2, door 3 so if door 3 is opened and empty then your choices are \"PEE\" and \"EPE\" if you say the three letters are 1,2,3 respectively. Seems if you added \"EEP\" then you assume a different door has now been opened. So the way I see it is the solution assumes one door has been opened yet but the question states one already has been open. Can someone explain that to me?\n\n I think you're just getting a bit confused.\n \n When you start out, there are 3 doors (or boxes or whatever). When you make your first choice you have a 1 in 3 chance of picking the door with the prize, and a 2 in 3 chance of picking a door without a prize. That is pretty much all you need to know. If you have a 2 in 3 chance of picking a door without a prize, then switching doors when given the chance will give you a 2 in 3 chance of ending up with the prize.\n \n The part where the host opens one of the doors to reveal no prize actually changes nothing.\n \n Diagramatical explanation\n \n 1 2 3 - If prize is behind door 1 and you pick door 1 then staying would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 3 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then staying would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 3 then staying would win you the prize\n \n Note that switching doors would win you the prize 6 times out of the nine possibilities, whereas staying with your original choice would only win you the prize 3 times out of the nine possibilities.\n \n Recap\n \n Switching wins you the prize 6 out of 9 times (losing 3 out of 9).\n Staying wins you the prize 3 out of 9 times (losing 6 out of 9).\n \n Switch! You know it makes sense.\n \n Smiley", 
+   {}, 
+   310878, 
+   null, 
+   1210694460.0
+  ], 
+  [
+   310884, 
+   null, 
+   "iangb", 
+   "Basically it seems the only way this is true is because the host knows what door contains the prize. If he/she didn't then it would be 50/50.\n\n Absolutely. If the host doesn't know which door contained the prize then there would be a chance that the host themselves would accidentally reveal the prize when you open the door.\n \n The interaction with the host is key.\n \n For a more obvious version, imagine a pack of cards, all laid out face down. The aim of the game is to find the ten of hearts. You pick a card - here you obviously have a 1 in 52 chance of getting the right one. The host then turns over 50 of the cards, leaving the card you picked and one other remaining face down. It's much more obvious, in this example, that switching is the best thing to do - but the principle is exactly the same, because when you switch you declare that you were more likely to be wrong with your first choice, so you are more likely to win by switching from that wrong choice to the correct one, which after interaction with the host is the only possible option.", 
+   {
+    "post_info": {
+     "post_title": "Common sense version..."
+    }
+   }, 
+   310879, 
+   null, 
+   1210699200.0
+  ], 
+  [
+   310887, 
+   null, 
+   "Steeeeve", 
+   "I think the explanation is poor because it does matter that one door is already open. Your explanation assumes the door that is open has or can switch. This isn't the case because when asked to switch you already have an open door. \n \n The problem I was having (or rather I should state the most confusing part of the problem) is that when asked to switch you know what door is open. So if it is door 3 then door 3 can't be the one you picked. The explanation you provide below is pretty much going to be wrong then. \n \n \n1 2 3 - If prize is behind door 1 and you pick door 1 then staying would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 3 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then staying would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 3 then staying would win you the prize \n\n \n Now what makes it so the Monty Hall Dilemma is right is the fact that the host KNOWS what door has the car. If he/she didn't then it would be 50/50. Basically it is because the host has to pick a goat that your chances increase. There is a 2/3rds chance you will get a goat when you first pick which means you have the ability to switch you have a 2/3rds chance of winning. Why? Because there was a 66% chance you are on a goat...one goat is shown because the car couldn't be picked. Only in the 1/3 of the time that you first picked the car would you not win. \n \n All the other explanations don't make sense.", 
+   {}, 
+   310879, 
+   null, 
+   1210699920.0
+  ], 
+  [
+   310888, 
+   null, 
+   "Steeeeve", 
+   "Absolutely. If the host doesn't know which door contained the prize then there would be a chance that the host themselves would accidentally reveal the prize when you open the door.\n \n The interaction with the host is key.\n \n For a more obvious version, imagine a pack of cards, all laid out face down. The aim of the game is to find the ten of hearts. You pick a card - here you obviously have a 1 in 52 chance of getting the right one. The host then turns over 50 of the cards, leaving the card you picked and one other remaining face down. It's much more obvious, in this example, that switching is the best thing to do - but the principle is exactly the same, because when you switch you declare that you were more likely to be wrong with your first choice, so you are more likely to win by switching from that wrong choice to the correct one, which after interaction with the host is the only possible option.\nOnly if the card dealer knows where the card is. Otherwise there is the exact same chance like you said :). That piece of information is really the key because your added knowledge is what gains you the logical advantage.", 
+   {}, 
+   310884, 
+   null, 
+   1210700040.0
+  ], 
+  [
+   310899, 
+   null, 
+   "iangb", 
+   "Absolutely. If the host doesn't know which door contained the prize then there would be a chance that the host themselves would accidentally reveal the prize when you open the door.\n\n Well... yes. I said that.", 
+   {}, 
+   310888, 
+   null, 
+   1210705620.0
+  ], 
+  [
+   310918, 
+   null, 
+   "foundit66", 
+   "Diagramatical explanation\n \n 1 2 3 - If prize is behind door 1 and you pick door 1 then staying would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 3 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then staying would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 2 then switching would win you the prize\n 1 2 3 - If prize is behind door 3 and you pick door 3 then staying would win you the prize\n \n Note that switching doors would win you the prize 6 times out of the nine possibilities, whereas staying with your original choice would only win you the prize 3 times out of the nine possibilities.\n \n Recap\n \n Switching wins you the prize 6 out of 9 times (losing 3 out of 9).\n Staying wins you the prize 3 out of 9 times (losing 6 out of 9).\n \n Switch! You know it makes sense.\n \n Smiley\n\n \n I've got a problem in this because at one stage we're counting \"three doors\", but counting only \"two doors\" as options in the \"switch\".\n We count \"three doors\" as options as to what we could have the prize behind and switch to, but that isn't the scenario we actually have.\n It presents a false count.\n \n Suppose we have chosen Door #1, and the host eliminates Door #3.\n We can't count \"door #3\" options in our diagram because that choice is no longer valid. It has been proven that the prize is not behind door #3. Our \"new\" options are suddenly including a door which has been eliminated from the game?\n \n Therefore, I present that we have the following:\n \n 1 2 3 - If prize is behind door 1 and you pick door 1 then staying would win you the prize\n 1 2 3 - If prize is behind door 1 and you pick door 2 then switching would win you the prize\n \n 1 2 3 - If prize is behind door 2 and you pick door 1 then switching would win you the prize\n 1 2 3 - If prize is behind door 2 and you pick door 2 then staying would win you the prize\n \n You have a 50-50 chance.\n \n Look at it another way.\n Suppose you were originally given TWO choices, and then you pick a door.\n The host comes along and says \"Oh. By the way, we were originally going to give you THREE door options, and here is the third door. The prize is not behind door #3.\"\n Does that mean you should switch your choice now? \n \n Or how about we take another turn at this?\n If I suddenly revealed the other door as not having the prize (so you now have only one door there), and presented the option of changing your choice, would you now be counting the second door as being a possible source for the prize?\n \n The prize was never behind the now excluded door. That is new knowledge that you gain, which does change your chances but the re-calculated chances should not count now excluded door.\n \n =======================================================\n \n Incidentally, I remember going through this in an Information Science class, and I was skeptical at first but the professor's explanation persuaded me. (If I remember right, his explanation lead to \"switch\".)\n Unfortunately, I can't remember what he said, and I'm stuck with my previous skepticism at the moment.", 
+   {}, 
+   310879, 
+   null, 
+   1210730700.0
+  ], 
+  [
+   310922, 
+   null, 
+   "iangb", 
+   "I've got a problem in this because at one stage we're counting \"three doors\", but counting only \"two doors\" as options in the \"switch\".\n We count \"three doors\" as options as to what we could have the prize behind and switch to, but that isn't the scenario we actually have.\n It presents a false count.\n\n The thing is that here you aren't making two completely separate decisions. Instead, you are making one stretched out decision with additional information half-way through the decision-making process - so the initial number of doors is important.\n \n Look at it a different way - assume that you have decided, pre-game, that you are going to pick an arbitrary door and then switch. If you initially get the prize door then you will switch away from it, so you will lose. If, however, you arbitrarily pick either of the two empty doors then when you switch it will be to the prize door, as the other empty door is guaranteed to have been removed. Thus you have a 2/3 chance of winning, as you have a 2/3 chance of initially picking an empty door.\n \n Obviously, if you decide pre-game not to switch then you will have an initial 1/3 chance of getting the prize door, and this will not change because the extra information provided by the host will not have affected your decision.\n \n Now, does it really matter at what point during the game you decide how to act? The important thing is the two-way interaction between you and the host, not when you decide whether to switch or not.\n \n \nSuppose you were originally given TWO choices, and then you pick a door.\n The host comes along and says \"Oh. By the way, we were originally going to give you THREE door options, and here is the third door. The prize is not behind door #3.\"\n Does that mean you should switch your choice now? \n\n This scenario is different, in that the hosts interaction is irrelevant. The host is not giving you any new information here - you could just imagine him as having said that and nothing would have changed.\n \n The host's interaction in the original scenario is important, however, because it is guided by you. If you pick one of the empty doors then the host must remove the other empty door, regardless of what his original intentions were. This changes the odds from a 1/2 chance described by you here to the 1/3 and 2/3 chances calculated in the original situation.", 
+   {}, 
+   310918, 
+   null, 
+   1210736340.0
+  ], 
+  [
+   310923, 
+   null, 
+   "Kronus", 
+   " \n The prize was never behind the now excluded door. That is new knowledge that you gain, which does change your chances but the re-calculated chances should not count now excluded door.\n \n\n \n The reason you need to include the excluded door is that you don't know which door is going to be excluded when you make your first choice. Thus, your first choice has a 2/3 of being wrong. And IF your first choice was wrong, then switching will always lead to victory, right? So if you always switch then 2/3 of the time you will start with the wrong door, but then switch to the right one and win.", 
+   {}, 
+   310918, 
+   null, 
+   1210736460.0
+  ], 
+  [
+   310924, 
+   null, 
+   "electrolyte", 
+   "... because when you switch you declare that you were more likely to be wrong with your first choice, so you are more likely to win by switching from that [more likely] wrong choice to the [more likely] correct one, which after interaction with the host is the only possible option.\n\n An excellent explanation. The card illustration was pretty good, too. Mind if I steal it whenever I discuss this \"puzzle\"? (I don't actually care if you mind, I'm using it under educational fair use guidelines. :p)", 
+   {}, 
+   310923, 
+   null, 
+   1210740300.0
+  ], 
+  [
+   310949, 
+   null, 
+   "snakespit", 
+   "I agree with Steve 100%. 50/50 chance. Just to be sure...I am going to set up my own experiment with 3 margerine dishes and a grain of rice. Or does it only work with doors and prizes bigger than toasters?", 
+   {}, 
+   310924, 
+   null, 
+   1210805760.0
+  ], 
+  [
+   310950, 
+   null, 
+   "smiley", 
+   "I agree with Steve 100%. 50/50 chance. Just to be sure...I am going to set up my own experiment with 3 margerine dishes and a grain of rice. Or does it only work with doors and prizes bigger than toasters?\n\n Yep, afraid you'll have to look round the house for 3 doors that are close together (or run between them). See if you can fit a car behind one of them.\n \n Then you'll find that the switcharoonie is the way to go.\n \n Smiley", 
+   {}, 
+   310949, 
+   null, 
+   1210805940.0
+  ], 
+  [
+   310954, 
+   null, 
+   "pandion", 
+   "I've really never been able to figure out why it is so difficult for some people. Three doors, one prize. Pick one. You have a one in three chance that you are correct. That won't change unless you change some parameter of the problem as stated.\n \n Like I said, several of us wrote programs that simulated this. It always came out that you win about 2/3 of the time if you switch.", 
+   {}, 
+   310950, 
+   null, 
+   1210806960.0
+  ], 
+  [
+   310956, 
+   null, 
+   "Kronus", 
+   "I agree with Steve 100%. 50/50 chance.\n\n \n I'm going to provide a list of numbered statements about the solution. Please say which ones you either A) don't follow or B) disagree with. Please specify which it is.\n \n 1) You have a 1/3 chance of picking the right door at the start.\n 2) You have a 2/3 chance of picking the wrong door at the start.\n 3) If you never switch, you have a 1/3 chance of winning.\n \n 4) IF you picked the wrong door, THEN the door left once the host opens one must have the prize.\n 5) If you always switch, then if you didn't have the right door to start, you will always switch to the right door.\n 6) Since you only had a 1/3 chance of picking the right door to start, switching has a 2/3 chance of giving you the right door.", 
+   {}, 
+   310949, 
+   null, 
+   1210810200.0
+  ], 
+  [
+   310957, 
+   null, 
+   "Kronus", 
+   "I've really never been able to figure out why it is so difficult for some people.\n\n \n Exactly, that's what makes the problem so interesting. The math of this problem is dull, it's the human factor that has me intrigued.", 
+   {}, 
+   310954, 
+   null, 
+   1210810260.0
+  ], 
+  [
+   311005, 
+   null, 
+   "snakespit", 
+   "6) Since you only had a 1/3 chance of picking the right door to start, switching has a 2/3 chance of giving you the right door.\n\n \n NO! One of the doors has been taken away, it is now a 1/2 chance...which by my calculations is 50/50.", 
+   {}, 
+   310956, 
+   null, 
+   1210887780.0
+  ], 
+  [
+   311007, 
+   null, 
+   "smiley", 
+   "NO! One of the doors has been taken away, it is now a 1/2 chance...which by my calculations is 50/50.\n\n Afraid not.\n \n Putting it as simply as possible.\n \n Let's assume that the prize is behind door 1. And let's also assume that you are going to do the switch.\n \n If you pick door 1 you lose.\n If you pick door 2 you win.\n If you pick door 3 you win.\n \n Tadaaaaah!!!\n \n However, if you are going to stick with your original choice (prize behind door 1 still).\n \n If you pick door 1 you win.\n If you pick door 2 you lose.\n If you pick door 3 you lose.\n \n Oops!\n \n The same can be said for the prize being behind doors 2 and 3 (if you swap the numbers around).\n \n Smiley", 
+   {}, 
+   311005, 
+   null, 
+   1210888680.0
+  ], 
+  [
+   311010, 
+   null, 
+   "iangb", 
+   "Snakespit: That 1/2 chance would only be true if you had had no prior interaction with the doors. Since you already have some information about them (that choosing door X results in the removal of door Y), the probabilities are altered. Knowledge can alter probability, with the mos obvious example being that if you knew which door to open then you would have a 1/1 chance of getting the prize regardless of how many doors there were.\n \n \n I think next we're going to have to look at the proof that 0.999... = 1. That's always an interesting debate, too...", 
+   {}, 
+   311007, 
+   null, 
+   1210894020.0
+  ], 
+  [
+   311014, 
+   null, 
+   "Kronus", 
+   "NO! One of the doors has been taken away, it is now a 1/2 chance...which by my calculations is 50/50.\n\n \n Ok, I think I see why you're confused now. What you're not taking into account is that once you have A) decided your strategy and B) chosen your door everything else is set in stone. The host always opens a door, are you saying that if you don't switch you'll still win half the time? If you only had a 1/3 chance of picking the right door on your first guess, how can that suddenly become 1/2 just because another door was opened? Think of it this way. Instead of 3 doors, go with 100. You pick one, host opens 98 to show that they're empty. At the start you had a 1/100 chance of having picked the right door, can you really say that it's a 1/2 shot that you picked the right door at the end? Remeber, there will always be at least 98 blank doors for the host to open; you're not forcing his hand in the least.", 
+   {}, 
+   311005, 
+   null, 
+   1210897080.0
+  ], 
+  [
+   311019, 
+   null, 
+   "foundit66", 
+   "Kronus and Iangb said some very helpful things to remind me why I previously understood the answer as \"switch\".\n \n I went to the Wikipedia web-site and saw the Bayesian analysis for it.\n http://en.wikipedia.org/wiki/Monty_hall_problem\n Woah! Flashbacks!\n \n I loved this comment: \"When first presented with the Monty Hall problem an overwhelming majority of people assume that each door has an equal probability and conclude that switching does not matter (Mueser and Granberg, 1999). Out of 228 subjects in one study, only 13% chose to switch (Granberg and Brown, 1995:713). In her book The Power of Logical Thinking, vos Savant (1996:15) quotes cognitive psychologist Massimo Piattelli-Palmarini as saying \"... no other statistical puzzle comes so close to fooling all the people all the time\" and \"[realize] that even Nobel physicists systematically give the wrong answer, and that they insist on it, and they are ready to berate in print those who propose the right answer.\"\"\n \n I think the biggest help was this statement: Kronus: \"If you only had a 1/3 chance of picking the right door on your first guess, how can that suddenly become 1/2 just because another door was opened?\"\n \n There are some simulation web-sites for this at the bottom of this web-page\n http://www.decisionhelper.com/montyhall.htm\n If you try it, you WILL find that you are right 1/3 of the time by \"staying\".\n \n \n Incidentally, if you want to go for the bonus round, try wrapping your head around understanding why \"If the host doesn't know where the prize is, switching has no advantage\". emoticon_xgood", 
+   {}, 
+   311014, 
+   null, 
+   1210900680.0
+  ], 
+  [
+   311021, 
+   null, 
+   "Kronus", 
+   " \n I think the biggest help was this statement: Kronus: \"If you only had a 1/3 chance of picking the right door on your first guess, how can that suddenly become 1/2 just because another door was opened?\"\n \n\n \n Yay, I'm helping!", 
+   {}, 
+   311019, 
+   null, 
+   1210902840.0
+  ], 
+  [
+   311250, 
+   null, 
+   "Steeeeve", 
+   "The reason you need to include the excluded door is that you don't know which door is going to be excluded when you make your first choice. Thus, your first choice has a 2/3 of being wrong. And IF your first choice was wrong, then switching will always lead to victory, right? So if you always switch then 2/3 of the time you will start with the wrong door, but then switch to the right one and win.\n\n \n This is really the greatest way to explain it. Choosing wrong really means a win if you can switch. Great job explaining this one :)", 
+   {}, 
+   310923, 
+   null, 
+   1211213100.0
+  ], 
+  [
+   311252, 
+   null, 
+   "Steeeeve", 
+   "You could have a scenario where you have 2 people and 3 doors. The first guy picks one door and the other guy gets to remove a door randomly (without opening). So now you have two doors left and you can switch...what should you do? \n \n This is fairly easy but shows the importance of the hosts knowledge.", 
+   {}, 
+   311250, 
+   null, 
+   1211213220.0
+  ], 
+  [
+   311253, 
+   null, 
+   "Kronus", 
+   "This is really the greatest way to explain it. Choosing wrong really means a win if you can switch. Great job explaining this one :)\n\n \n Thanks, although I've had this fall flat with some people. It's really interesting to see which approaches work with which people and which don't.", 
+   {}, 
+   311250, 
+   null, 
+   1211213700.0
+  ], 
+  [
+   311254, 
+   null, 
+   "pandion", 
+   "You could have a scenario where you have 2 people and 3 doors. The first guy picks one door and the other guy gets to remove a door randomly (without opening). So now you have two doors left and you can switch...what should you do? \n \n This is fairly easy but shows the importance of the hosts knowledge.\nRight. If the host doesn't know where the prize is and randomly removes one door, then each door has a 1/3 chance of being correct. No matter what you do, you will lose 2/3 of the time.", 
+   {}, 
+   311252, 
+   null, 
+   1211214240.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Statistical puzzle", 
+  "url": "http://www.4forums.com/political/science-math-debates/11125-statistical-puzzle.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 11125, 
+  "discussion_files": [
+   [
+    "17473.html", 
+    "http://www.4forums.com/political/science-math-debates/11125-statistical-puzzle-print.html"
+   ], 
+   [
+    "17474.html", 
+    "http://www.4forums.com/political/science-math-debates/11125-statistical-puzzle-3-print.html"
+   ], 
+   [
+    "17475.html", 
+    "http://www.4forums.com/political/science-math-debates/11125-statistical-puzzle-2-print.html"
+   ]
+  ], 
+  "identifier": 11125
+ }
+]

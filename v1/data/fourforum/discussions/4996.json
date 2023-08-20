@@ -1,0 +1,174 @@
+[
+ [
+  [
+   114391, 
+   null, 
+   "Duo_Maxwell", 
+   "It seems the top 5 reasons of microsoft don't apply to 99% of its users.", 
+   {
+    "post_info": {
+     "post_title": "What's the big deal about XP 64?"
+    }
+   }, 
+   null, 
+   null, 
+   1114828980.0
+  ], 
+  [
+   114392, 
+   null, 
+   "Symbiote", 
+   "It may be, for the home user, that it runs better due to utilising the 64 bit architecture of the newer processors. I'm not sure how much difference that would make, but you know how the high-end PC users are, they'll spend $500 to get an extra 5% out of their rig.", 
+   {}, 
+   114391, 
+   null, 
+   1114829580.0
+  ], 
+  [
+   114398, 
+   null, 
+   "Duo_Maxwell", 
+   "Well, let's go over the list\n \n 1) How many 64 bit apps does the average user use? emoticon_rolleyes \n 2) 128 gigs of memory? If you can even use more then 4 gigs you have a server and are using windows 2000 server or something similar. \n 3) 64 bit to 32 bit? How much of a difference can a 32 bit get out of something it's not designed to run on?\n 4) More then two processors? Who actually had a multi-processor motherboard that isn't a server? \n 5) Developers? C'mon!\n \n How dumb does microsoft think people are?", 
+   {}, 
+   114392, 
+   null, 
+   1114835880.0
+  ], 
+  [
+   114401, 
+   null, 
+   "Symbiote", 
+   "1) How many 64 bit apps does the average user use? \n\n \n What I mean is, the OS itself seems to be 64 bit, and therefore the OS should run better. At a guess.\n \n And there is an expectation that many future apps will come to take advantage of the 64 bit architecture, maybe not yet, but OSs hang around for a while.", 
+   {}, 
+   114398, 
+   null, 
+   1114836720.0
+  ], 
+  [
+   114406, 
+   null, 
+   "daewoo", 
+   "I don't know....my main personal computer (at home) is a sun...15 64 bit 800 mhz processors, 200 GB ram, 4 terabyte storage.\n \n Microsoft does not offer a product that will support that kind of hardware, so I run linux on it, with VMware running windows 2000 pro. VMware takes care of the multi processor, so it runs win2k at 64 bit, 15 processor speed.", 
+   {}, 
+   114401, 
+   null, 
+   1114838940.0
+  ], 
+  [
+   114410, 
+   null, 
+   "Duo_Maxwell", 
+   "you mean server! \n \n Do you actually use all of that power?", 
+   {}, 
+   114406, 
+   null, 
+   1114839720.0
+  ], 
+  [
+   114418, 
+   null, 
+   "daewoo", 
+   "you mean server! \n \n Do you actually use all of that power?\n\n \n Actually, my server at home is a module from an old Cray MTA that I picked up at a government auction for next to nothing. The processors are only 400 mhz, but since there are 700 of them, that seems to be plenty.\n \n I run engineering and motion simulation programs on the sun, and have locked it up a time or two because processors were at capacity. \n \n I think you will see a lot more 64 bit applications and dual processor setups in the future. Unix systems have been 64 bit for a long time, which is why an old sun system with a 300 mhz processor runs faster than a 1ghz athalon. The downside to 64 bit has always been cost, biut hat is coming down as well.\n \n We will have to wait and see how the new XP handles multiple processors. Traditionally, multiple processors for windows has been a waste of money, even at the server level because their support just wasn't great. In windows, you have to have every application written to run 2 processors. In a *nix environment you can generally set up your kernel to handle all processor interaction, so it handles it on its won. \n \n I can certainly see why microsoft would like to grab a piece of the multi processsor pie, but I personally doubt their ability to do so. They just have too bad a reputation for it.", 
+   {}, 
+   114410, 
+   null, 
+   1114840800.0
+  ], 
+  [
+   114424, 
+   null, 
+   "Duo_Maxwell", 
+   "I don't even know what to say to that.\n \n Words fail me.", 
+   {}, 
+   114418, 
+   null, 
+   1114841580.0
+  ], 
+  [
+   114431, 
+   null, 
+   "daewoo", 
+   "I don't even know what to say to that.\n \n Words fail me.\n\n \n What can I say? I like my toys....a lot.\n \n The cray I paid $1500. I could not believe it. Took it home, connected it to power (and coolant) and it fired right up. It was a sealed bid auction, and I didn't think there was even a chance I would get it. I learned a long time ago that it pays to put in a bid if you are even mildly interested, since I had seen stuff like that go unsold for ack of a bid. \n \n Turned out there was only 1 other bid....$5 (apparently from somebody thinking along the same lines as me). I have seen a couple more since then go unsold. I probably should have bid ont hem, but a guy can only use so many supercomputers for personal use (we have an X-1 at the office, it was a LOT more than $1500).\n \n I definatly have the fastest computer on my road.", 
+   {}, 
+   114424, 
+   null, 
+   1114842240.0
+  ], 
+  [
+   121087, 
+   null, 
+   "witzelcheck", 
+   "What can I say? I like my toys....a lot.\n \n The cray I paid $1500. I could not believe it. Took it home, connected it to power (and coolant) and it fired right up. It was a sealed bid auction, and I didn't think there was even a chance I would get it. I learned a long time ago that it pays to put in a bid if you are even mildly interested, since I had seen stuff like that go unsold for ack of a bid. \n \n Turned out there was only 1 other bid....$5 (apparently from somebody thinking along the same lines as me). I have seen a couple more since then go unsold. I probably should have bid ont hem, but a guy can only use so many supercomputers for personal use (we have an X-1 at the office, it was a LOT more than $1500).\n \n I definatly have the fastest computer on my road.\n\n \n dang...\n I want one", 
+   {}, 
+   114431, 
+   null, 
+   1115865660.0
+  ], 
+  [
+   121129, 
+   null, 
+   "daewoo", 
+   "dang...\n I want one\n\n \n Check around. They are out there. The MTA is obsolete. Businesses do not want them (too slow) and individuals generally do not buy them. Keep an eye on government or industrial auctions and acquant yourself with them so you know what you are looking at when you find one (or parts of one). \n \n Unless you have a forklift and a real use for a cray, though, I would recommend against picking one up. Something slightly smaller, say 10 or 15 processors, should do your average user just fine.", 
+   {}, 
+   121087, 
+   null, 
+   1115871780.0
+  ], 
+  [
+   126067, 
+   null, 
+   "JordanF", 
+   "Home users do not need 64-bit technology unless they will be using CAD or video editing software.", 
+   {}, 
+   121129, 
+   null, 
+   1116702180.0
+  ], 
+  [
+   126071, 
+   null, 
+   "daewoo", 
+   "Home users do not need 64-bit technology unless they will be using CAD or video editing software.\n\n \n Or they are hardcore gamers", 
+   {}, 
+   126067, 
+   null, 
+   1116702540.0
+  ], 
+  [
+   126537, 
+   null, 
+   "JordanF", 
+   "Or they are hardcore gamers\n\n Hehe, can't forget about those guys. :D \n It won't be much benefit unless the game is compiled for a 64-bit instruction set though.", 
+   {}, 
+   126071, 
+   null, 
+   1116777480.0
+  ], 
+  [
+   132974, 
+   null, 
+   "Steeeeve", 
+   "64bit is not that expensive since AMD owns...however, AMD has dual core out which is expensive :)\n \n As for Daewoo and others, college campuses normally hold an auction every month for random XXXX. You can get really good deals on things from cars to computers. I remember here at VT we sold off the supercomputer we had to pay for a better one (by the way our supercomputer has over 2000 recordable parts which are parts over 2000 bucks....what a pain to account for). So a good place to start looking is your local big college if you want some cheap computer stuff", 
+   {}, 
+   126537, 
+   null, 
+   1117949580.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  What's the big deal about XP 64?", 
+  "url": "http://www.4forums.com/political/computers/4996-whats-big-deal-about-xp-64-a.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 4996, 
+  "discussion_files": [
+   [
+    "14904.html", 
+    "http://www.4forums.com/political/computers/4996-whats-big-deal-about-xp-64-a-print.html"
+   ]
+  ], 
+  "identifier": 4996
+ }
+]

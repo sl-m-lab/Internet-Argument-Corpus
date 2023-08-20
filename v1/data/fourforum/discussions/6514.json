@@ -1,0 +1,420 @@
+[
+ [
+  [
+   167199, 
+   null, 
+   "simone", 
+   "I don't know very much about physics but I find the physics of water to be fascinating.\n \n When water is in a solid state, its mass is lessened because the space in between its molecules are increased upon freezing by the crystalline structure of water.\n \n My question is, do all elements and combinations of elements in do the same thing? Is it a factor of crystallization that the process of creating such formal structures increases the space between molecules? Expansion of the mass and a lesser weight for the same spatial amount of such a substance in the solid state as opposed to the liquid state?", 
+   {
+    "post_info": {
+     "post_title": "Crystals, water and stuff"
+    }
+   }, 
+   null, 
+   null, 
+   1128123360.0
+  ], 
+  [
+   167200, 
+   null, 
+   "simone", 
+   "Oh yeah, and I think I have a kind of fuzzy understanding of mass as opposed to a substance's weight and volume.", 
+   {}, 
+   167199, 
+   null, 
+   1128123420.0
+  ], 
+  [
+   167205, 
+   null, 
+   "Wez", 
+   "I was under the impression that the mass stayed the same, but the volume increased, which decreased the density. Water's special like that. I can't remember the exact reasons for this, but I'm sure wikipedia or google will enlighten you.\n \n Normally, I think, substances increase in volume as they heat up, as the particles gain more energy, so use up more volume (think of it like tennis balls; you hit it hard, give it more energy, and it goes further).\n \n It's late though, and my knowledge of the subject isn't great, so I hope that that makes sense and is correct.\n \n :)\n \n -Wez", 
+   {}, 
+   167200, 
+   null, 
+   1128124080.0
+  ], 
+  [
+   167207, 
+   null, 
+   "simone", 
+   "Thanks, Wes. And, oops, I forgot the factor of density.\n \n Hmm, weight, mass, volume, density. I will sort these out.", 
+   {}, 
+   167205, 
+   null, 
+   1128124200.0
+  ], 
+  [
+   167208, 
+   null, 
+   "Wez", 
+   "Thanks, Wes. And, oops, I forgot the factor of density.\n \n Hmm, weight, mass, volume, density. I will sort these out.\n\n Weight= don't use it;)\n \n Volume= space it uses\n \n Density= how much stuff there is in the space\n \n Mass= how heavy it is\n \n Hope that's not patronising... wasn't meant to be.:)\n \n -Wez", 
+   {}, 
+   167207, 
+   null, 
+   1128124320.0
+  ], 
+  [
+   167218, 
+   null, 
+   "Jo Bennett", 
+   "Most materials the solid is more dense than the liquid. Water is special due to the lattice bonds the water molecules form on freezing. Imagine it as the difference between a box of matchsticks and a framework made from those matchsticks attached end to end. A bit crude but that's the general idea. Bear in mind my marks on solid state physics are pretty mediocre :p", 
+   {}, 
+   167208, 
+   null, 
+   1128126840.0
+  ], 
+  [
+   167268, 
+   null, 
+   "Kronus", 
+   "Thanks, Wes. And, oops, I forgot the factor of density.\n \n Hmm, weight, mass, volume, density. I will sort these out.\n\n \n These I can answer quickly. Mass is a measure of how much \"stuff\" something has. Weight is how hard gravity is pulling on that stuff. In a constant gravitational field, like on the surface of Earth, mass and weight are almost interchangable. Take something into space though and it has no weight, but it still has mass, since it still has all its stuff.\n \n Volume is just how much space something takes up, and density is how much mass is in a given space.\n \n I'll check into how many things other than water become less dense as they freeze. I'm pretty sure it's a short list. Get back to you soon.", 
+   {}, 
+   167207, 
+   null, 
+   1128141360.0
+  ], 
+  [
+   168937, 
+   null, 
+   "simone", 
+   "Weight= don't use it;)\n \n Volume= space it uses\n \n Density= how much stuff there is in the space\n \n Mass= how heavy it is\n \n Hope that's not patronising... wasn't meant to be.:)\n \n -Wez\nWez, it works for me. That's how I like my physics, down and dirty.", 
+   {}, 
+   167208, 
+   null, 
+   1128703020.0
+  ], 
+  [
+   168938, 
+   null, 
+   "simone", 
+   "Most materials the solid is more dense than the liquid. Water is special due to the lattice bonds the water molecules form on freezing. Imagine it as the difference between a box of matchsticks and a framework made from those matchsticks attached end to end. A bit crude but that's the general idea. Bear in mind my marks on solid state physics are pretty mediocre :p\nLattices and matchsticks. I like it!\n \n Does that generally work for crystalline structure or is it specific only to water?", 
+   {}, 
+   167218, 
+   null, 
+   1128703140.0
+  ], 
+  [
+   168939, 
+   null, 
+   "simone", 
+   "These I can answer quickly. Mass is a measure of how much \"stuff\" something has. Weight is how hard gravity is pulling on that stuff. In a constant gravitational field, like on the surface of Earth, mass and weight are almost interchangable. Take something into space though and it has no weight, but it still has mass, since it still has all its stuff.\n \n Volume is just how much space something takes up, and density is how much mass is in a given space.\n \n I'll check into how many things other than water become less dense as they freeze. I'm pretty sure it's a short list. Get back to you soon.\nOops, forgot about the factor of gravity and relative gravity.\n \n OK, I think I have a ground level understanding about physics.\n \n Now, about those quark thingies. . . .", 
+   {}, 
+   167268, 
+   null, 
+   1128703260.0
+  ], 
+  [
+   168940, 
+   null, 
+   "simone", 
+   "Oh, and thank you every one! :)", 
+   {}, 
+   168939, 
+   null, 
+   1128703320.0
+  ], 
+  [
+   195118, 
+   null, 
+   "jim's trucking", 
+   "Let me reopen this can of worms.\n \n \n \n \n \nWeight= don't use it;)\nweight=the force exerted by gravity on a volume of matter.\n \n \n \n\n Volume= space it uses\nClose enough.\n \n \n\n Density= how much stuff there is in the space\ndensity=weight per unit of volume.\n \n \n\n Mass= how heavy it is\nNo...that's weight. Mass is weight divided by the acceleration due to gravity.\n \n \n \n\n Hope that's not patronising... wasn't meant to be.:)\n \n -Wez\nNeither was my belated response.", 
+   {}, 
+   168940, 
+   null, 
+   1138399740.0
+  ], 
+  [
+   195169, 
+   null, 
+   "DamEtel", 
+   "Let me reopen this can of worms.\n \n ***********************************\n Wez: Density= how much stuff there is in the space \n ***********************************\n \n density=weight per unit of volume.\n \n\n \n No, density is mass per unit volume.", 
+   {}, 
+   195118, 
+   null, 
+   1138418760.0
+  ], 
+  [
+   195245, 
+   null, 
+   "simone", 
+   "Are black holes hot?\n \n Does any of the mass move in a black hole?\n \n Do black holes explode? I guess they imploded at one point but . . .\n \n Actually, what DO we know about black holes?\n \n We kinda think they exist, right?", 
+   {
+    "post_info": {
+     "post_title": "Lattices and black holes and stuff, heat, cold, gravity, hmmm"
+    }
+   }, 
+   195169, 
+   null, 
+   1138472940.0
+  ], 
+  [
+   195248, 
+   null, 
+   "simone", 
+   "Oh, and I guess lattice structures would have to be a goodly distance away from black holes. Else they would collapse.", 
+   {}, 
+   195245, 
+   null, 
+   1138473060.0
+  ], 
+  [
+   195249, 
+   null, 
+   "pickleweaseler", 
+   "http://dictionary.reference.com/search?q=density\n \n 1. The quantity of something per unit measure, especially per unit length, area, or volume.\n 2. The mass per unit volume of a substance under specified conditions of pressure and temperature.\n \n\n \n Though frequently used to mean mass per volume, it doesn't have to. (As in the case of population density.)", 
+   {}, 
+   195169, 
+   null, 
+   1138473120.0
+  ], 
+  [
+   195258, 
+   null, 
+   "Jo Bennett", 
+   "Are black holes hot?\n \n Does any of the mass move in a black hole?\n \n Do black holes explode? I guess they imploded at one point but . . .\n \n Actually, what DO we know about black holes?\n \n We kinda think they exist, right?\n\n \n We know they exist, or at least we know that things which meet the characteristics of black holes. What happens inside a black hole ie beyond the event horizon, we don't know. Black holes don't explode, but they do evaporate over time via hawking radiation. The accretion discs of black holes are hot, in the sense of emitting radiation, the black hole iself, once again, it is difficult to say.", 
+   {}, 
+   195245, 
+   null, 
+   1138474500.0
+  ], 
+  [
+   195277, 
+   null, 
+   "simone", 
+   "Hmmm, radioactive decay.\n \n And the densest elements are, without fail, radioactive.\n \n I will go up in the trees for a while to see what farfarelle I can concoct regarding radioactivity. Radioactive farfarelle for lunch coming up.", 
+   {}, 
+   195258, 
+   null, 
+   1138485960.0
+  ], 
+  [
+   195286, 
+   null, 
+   "JPSartre12", 
+   "Hmmm, radioactive decay.\n \n And the densest elements are, without fail, radioactive.\n\n \n Not necessarily. There are \"islands of stability\" that exist as you get higher and higher up in Atomic Weight. The key factor is the ratio of protons/neutrons.\n \n http://www.europhysicsnews.com/full/13/article2/article2.html\n \n I will go up in the trees for a while to see what farfarelle I can concoct regarding radioactivity. Radioactive farfarelle for lunch coming up.[/QUOTE]", 
+   {}, 
+   195277, 
+   null, 
+   1138492020.0
+  ], 
+  [
+   195367, 
+   null, 
+   "DamEtel", 
+   "http://dictionary.reference.com/search?q=density\n \n \n Though frequently used to mean mass per volume, it doesn't have to. (As in the case of population density.)\n\n \n I have one word for you .... context.", 
+   {}, 
+   195249, 
+   null, 
+   1138517280.0
+  ], 
+  [
+   195436, 
+   null, 
+   "simone", 
+   "On the extreme right hand side of your handy dandy Periodic Table of the Elelments reside the certain gases, the noble or inert gases, including helium, neon, argon, krypton, xenon, radon.\n \n The first named gases are relatively harmless unless that is all that one has to breathe and there is no oxygen available.\n \n Radon, however, is a noble horse of a different color. It is dangerously radioactive and has been responsible for a number of deaths from lung cancer throughout human history. It is to be presumed that if more elements were to be discovered, eventually another so-called inert or noble gas would follow along in the proper place but it, too, would be radioactive, very likely even more so than radon.", 
+   {
+    "post_info": {
+     "post_title": "Referencing the narrow isle of stability"
+    }
+   }, 
+   195367, 
+   null, 
+   1138561800.0
+  ], 
+  [
+   195478, 
+   null, 
+   "JPSartre12", 
+   "On the extreme right hand side of your handy dandy Periodic Table of the Elelments reside the certain gases, the noble or inert gases, including helium, neon, argon, krypton, xenon, radon.\n \n The first named gases are relatively harmless unless that is all that one has to breathe and there is no oxygen available.\n \n Radon, however, is a noble horse of a different color. It is dangerously radioactive and has been responsible for a number of deaths from lung cancer throughout human history. It is to be presumed that if more elements were to be discovered, eventually another so-called inert or noble gas would follow along in the proper place but it, too, would be radioactive, very likely even more so than radon.\n\n \n Are you just now learning about the Periodic Table? emoticon_confused emoticon_wow \n Inert gases are inert because they have filled electron shells. As I pointed out in my earlier post, there exist islands of stability as you project Atomic Weights out past those currently known (or created). It is very possible that there could be a stable inert element of very high Atomic Number and Weight.", 
+   {}, 
+   195436, 
+   null, 
+   1138580400.0
+  ], 
+  [
+   195534, 
+   null, 
+   "simone", 
+   "I didn't say that there wouldn't be. I just think it will be radioactive.", 
+   {}, 
+   195478, 
+   null, 
+   1138596360.0
+  ], 
+  [
+   195538, 
+   null, 
+   "Symbiote", 
+   "What Satre means by \"stable\" is \"non-radioactive\", so when you say \"I agree there could be stable inert elements, but I believe that they would be radioactive\" you do seem in fact to be disagreeing with him on this point.\n \n Why do you believe further inert elements would neccessarily be radioactive, or \"unstable\"?", 
+   {}, 
+   195534, 
+   null, 
+   1138597500.0
+  ], 
+  [
+   195661, 
+   null, 
+   "lord tammerlain", 
+   "What Satre means by \"stable\" is \"non-radioactive\", so when you say \"I agree there could be stable inert elements, but I believe that they would be radioactive\" you do seem in fact to be disagreeing with him on this point.\n \n Why do you believe further inert elements would neccessarily be radioactive, or \"unstable\"?\n\n \n \n Stable in this case means chemically inert, Noble gases do not easily react with other elements. Radioactivity is different in this regard as the atom itself is not stable, but from a chemical standpoint it would be.", 
+   {}, 
+   195538, 
+   null, 
+   1138659780.0
+  ], 
+  [
+   196194, 
+   null, 
+   "JPSartre12", 
+   "Stable in this case means chemically inert, Noble gases do not easily react with other elements. Radioactivity is different in this regard as the atom itself is not stable, but from a chemical standpoint it would be.\n\n \n My words were \"It is very possible that there could be a stable inert element of very high Atomic Number and Weight.\" Symbiote was correct. In this instance, stable meant non-radioactive. To say \"stable inert\" and mean otherwise would be redundant.emoticon_confused", 
+   {}, 
+   195661, 
+   null, 
+   1138848240.0
+  ], 
+  [
+   196739, 
+   null, 
+   "Liminus", 
+   "Are black holes hot?\n \n Does any of the mass move in a black hole?\n \n Do black holes explode? I guess they imploded at one point but . . .\n \n Actually, what DO we know about black holes?\n \n We kinda think they exist, right?\n\n \n Black holes are formed when a massive star reaches the point when its fuel for fusion has run out. This happens when most of the core is made of iron. \n When fusion stops, there is no enormous heat being generated to counter the star's enormous gravity so it collapses upon itself.\n As the star becomes smaller and smaller, denser and denser, its gravity increases and warps the space around it more and more. Eventually the gravity is so strong that light itself cannot escape and the event horizon forms, inside which all the matter that was the star collapses into a single infinitely small point, the singularity.\n Actually, it's not all the matter because only the core collapses, the rest explodes outwards in a supernova. The final stage of this colossal event takes place in a fraction of a second! \n A black hole would also be formed if enough matter is squeezed into a tiny enough space, but the only way nature does it is stellar collapse. For example, if we could squeeze the sun down to 3km wide (from 1.4m km) it would become a black hole, but it's not massive enough to do this naturally and will only become a white dwarf, a pale imitation of its present glory.\n We can detect black holes (or whatever they are, Hawking's theories are only the best theory we have for describing these real but weird objects) in three ways:\n \n 1) Stars that seem to be orbiting a space where there is no visible matter\n \n 2) Gravitational lensing, where the light from objects further behind the black hole is bent around it producing multiple images of the object\n \n 3) The light from the accretion disk; matter falling into a black hole which becomes very energetic (hence light-emitting) due to the extreme acceleration it undergoes as it falls towards the event horizon. Sometimes we even see high-energy \"jets\" of particles spewing out along the axis of the accretion disk at near-lightspeed! \n \n OK, this is where it gets really weird, and I quote straight from Wikipedia:\n \n \n\n Objects in a gravitational field experience a slowing down of time, called time dilation. This phenomenon has been verified experimentally in the Scout rocket experiment of 1976 [6], and is, for example, taken into account in the GPS system. Near the event horizon, the time dilation increases rapidly. From the point of view of an external observer, it takes an infinite amount of time for an object to approach the event horizon, at which point the light coming from it is infinitely red-shifted. To the distant observer, the object, falling slower and slower, approaches but never reaches the event horizon. However, the object itself might not even notice the point at which it crosses the event horizon, and will do so in a finite amount of proper time....\n \n\n \n And, as has already been mentioned, black holes do decay via \"Hawking radiation\" although I have never understood how this radiation escapes, as light (and seemingly therefore anything else) cannot.\n Eventually, according to Hawking, the black hole gets really small, decays faster and vanishes in a burst of radiation. This process takes hundreds of times longer than the current age of the universe!\n \n There's even more about primordial black holes, micro-black holes, supermassive black holes that lurk in the center of every galaxy....what I love about it is that because we can't see them, all of this has been worked out by nutters like Hawking doing genius maths in their heads!\n \n Sorry to go on about this at such length but basically I find it fascinating!", 
+   {}, 
+   195245, 
+   null, 
+   1139116080.0
+  ], 
+  [
+   196771, 
+   null, 
+   "simone", 
+   "Thanks! Nice!", 
+   {}, 
+   196739, 
+   null, 
+   1139158680.0
+  ], 
+  [
+   196781, 
+   null, 
+   "Truthsayer", 
+   "I was under the impression that the mass stayed the same, but the volume increased, which decreased the density. Water's special like that. I can't remember the exact reasons for this, but I'm sure wikipedia or google will enlighten you.\n \n Normally, I think, substances increase in volume as they heat up, as the particles gain more energy, so use up more volume (think of it like tennis balls; you hit it hard, give it more energy, and it goes further).\n \n It's late though, and my knowledge of the subject isn't great, so I hope that that makes sense and is correct.\n \n :)\n \n -Wez\n\n \n Simply put, that is pretty much my understanding as well. Water is truly a curious element. It can exist in multiple states, (liquid, gas, solid,) and it's uses are endless. We, ourselves, are 97% water I am told.\n \n It also mixes well with Scotch in liquid and solid form.emoticon_xhoho", 
+   {}, 
+   167205, 
+   null, 
+   1139161680.0
+  ], 
+  [
+   196817, 
+   null, 
+   "JPSartre12", 
+   "Simply put, that is pretty much my understanding as well. Water is truly a curious element. It can exist in multiple states, (liquid, gas, solid,) and it's uses are endless. We, ourselves, are 97% water I am told.\n \n It also mixes well with Scotch in liquid and solid form.emoticon_xhoho\n\n \n One of its more unusual attributes is that it can melt from solid to liquid or sublime right from a solid to a gas. That makes it possible for snow to disappear without ever melting. I don't know of any other materials that behave similarly. emoticon_xgood", 
+   {}, 
+   196781, 
+   null, 
+   1139175360.0
+  ], 
+  [
+   196823, 
+   null, 
+   "Jo Bennett", 
+   "hawking radiation occurs due to particle-antiparticle pair production. If this production occurs near the event horizon, then one of the particles can escape while the other is sucked in. The energy \"hole\" left behind allows quantum tunneling to become likely, ie energy escapes the black hole. The key thing is to remember that standard theory on black holes is based on relativity, the inability of anything to escape is the finding of general relativity, it does not account for Quantum Mechanics. QM is important because of the very small scales and high energies at the event horizon, with the high gravity of general relativity. In short, hawking radiation is a building block of the long attempted theory of everything, unifying general relativity with QM.", 
+   {}, 
+   196817, 
+   null, 
+   1139176200.0
+  ], 
+  [
+   196868, 
+   null, 
+   "DamEtel", 
+   "One of its more unusual attributes is that it can melt from solid to liquid or sublime right from a solid to a gas. That makes it possible for snow to disappear without ever melting. I don't know of any other materials that behave similarly. emoticon_xgood\n\n \n Here are two.\n \n Carbon dioxide. At 1 atm and -80 degrees Celsius carbon dioxide is a solid. Change only the temperature, raising it to -75 degrees C, and it will change from a solid into a gas: it will sublime. At 10 atm and -60 C it is a solid, and changing only the temperature, raising it to -55 degrees C, will change the solid into a liquid: it will melt.\n \n Mercury (II) iodide will likewise either sublime or melt, depending upon the combination of pressure and temperature. At 1 atm and 255 degrees C it is a solid, but raising the temperature to 265 degree C will cause it to melt. Lower the pressure the appropriate amount, and moving from 130 degrees C to 140 degrees C will cause it to sublime.", 
+   {}, 
+   196817, 
+   null, 
+   1139198880.0
+  ], 
+  [
+   196878, 
+   null, 
+   "JPSartre12", 
+   "Here are two.\n \n Carbon dioxide. At 1 atm and -80 degrees Celsius carbon dioxide is a solid. Change only the temperature, raising it to -75 degrees C, and it will change from a solid into a gas: it will sublime. At 10 atm and -60 C it is a solid, and changing only the temperature, raising it to -55 degrees C, will change the solid into a liquid: it will melt.\n \n Mercury (II) iodide will likewise either sublime or melt, depending upon the combination of pressure and temperature. At 1 atm and 255 degrees C it is a solid, but raising the temperature to 265 degree C will cause it to melt. Lower the pressure the appropriate amount, and moving from 130 degrees C to 140 degrees C will cause it to sublime.\n\n \n Maybe I should have been more specific. I don't know of any other compound that can melt or sublime at 1 atmosphere and normal temperatures.", 
+   {}, 
+   196868, 
+   null, 
+   1139204520.0
+  ], 
+  [
+   196903, 
+   null, 
+   "beervolcano", 
+   "Simply put, that is pretty much my understanding as well. Water is truly a curious element. It can exist in multiple states, (liquid, gas, solid,) and it's uses are endless. We, ourselves, are 97% water I am told.\n \n It also mixes well with Scotch in liquid and solid form.emoticon_xhoho\n\n \n Well, joo know, water is like a compound, maine, and not an element, maine.\n \n And joo other cats know that all kinds of stuff sublimes, maine, but dey are not your usual stuff lying around naturally, maine.\n \n Iodine, dough, is some stuff that will sublime at ambient conditions and stuff, maine.", 
+   {}, 
+   196781, 
+   null, 
+   1139223600.0
+  ], 
+  [
+   196938, 
+   null, 
+   "simone", 
+   "Beer, is this from your notable paper on the chemistry and physics of malted and fermented beverages?", 
+   {}, 
+   196903, 
+   null, 
+   1139252820.0
+  ], 
+  [
+   198031, 
+   null, 
+   "omega", 
+   "One of its more unusual attributes is that it can melt from solid to liquid or sublime right from a solid to a gas. That makes it possible for snow to disappear without ever melting. I don't know of any other materials that behave similarly. emoticon_xgood\n\n \n Carbon dioxide. It can sublime. Infact it has no liquid form as far as i understand.:)", 
+   {}, 
+   196817, 
+   null, 
+   1139810220.0
+  ], 
+  [
+   198036, 
+   null, 
+   "JPSartre12", 
+   "Carbon dioxide. It can sublime. Infact it has no liquid form as far as i understand.:)\n\n \n Liquid CO2 is very common......at higher pressures. That's what's in fire extinguishers and \"liquid carbonic\" tankers.\n http://www.co2clean.com/snowform.htm", 
+   {}, 
+   198031, 
+   null, 
+   1139811180.0
+  ], 
+  [
+   202599, 
+   null, 
+   "skybolt", 
+   "[\"Birth is just a change of address and a pregnant woman is just a house! How can you violate the civil rights of a house? It has none!\" Phoenix the Greatest \n \n Can you explain just exactly what you mean by your signoff message?\n Thank You,", 
+   {}, 
+   167200, 
+   null, 
+   1142323980.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Crystals, water and stuff", 
+  "url": "http://www.4forums.com/political/science-math-debates/6514-crystals-water-stuff.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 6514, 
+  "discussion_files": [
+   [
+    "14486.html", 
+    "http://www.4forums.com/political/science-math-debates/6514-crystals-water-stuff-print.html"
+   ], 
+   [
+    "14487.html", 
+    "http://www.4forums.com/political/science-math-debates/6514-crystals-water-stuff-3-print.html"
+   ], 
+   [
+    "14488.html", 
+    "http://www.4forums.com/political/science-math-debates/6514-crystals-water-stuff-2-print.html"
+   ]
+  ], 
+  "identifier": 6514
+ }
+]

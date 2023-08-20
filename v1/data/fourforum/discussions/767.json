@@ -1,0 +1,74 @@
+[
+ [
+  [
+   11302, 
+   null, 
+   "Stormin Norman", 
+   "Recently, I was insulted by a communist on another message board. He claimed he had his Ph.D. and that he had an intellect superior to mine. So, I asked him to give me explanations of various theories in physics and mathematics. The conversation soon turned toward the kinetic theory of gases. He gave me this description, which was not to bad. However, I had to clarify some of the ideas, and see if Comrade RAF was up to the challenge of using the knowledge that he claimed he had to answer some simple questions. If you would like to know about this physical principle, I suggest reading my work. \n \n \nKinetic theory of gasses- \n \n Bernoulli's theory is what is considered the Kinetic theory of gasses. It states that in any given confined space molecules that are moving at different speeds and direction will crash into the walls of the confined space creating pressure. The more gas there is in the space the more pressure there is. -Comrade RAF, Ph.D.\n\n \n Comrade RAF is correct in some respects, and has given a simple definition of the kinetic theory of gases, but in no way has he covered all avenues. In fact, he left out the most important aspect of this fundamental principle. Although RAF's definition is an important one, relating the kinetic energy to pressure, more important is the relation between kinetic energy and the temperature of the system. To be fair to the argument, I will mention that kinetic theory is the analysis of matter, at an atomic level, where the momentum of the system occurs randomly. \n \n In addition, RAF suggests that this is Bernoulli's theory. This is only partially correct, as Bernoulli was probably the first to begin understanding air pressure from an atomic perspective. He created the famous billiard ball analogy used so often to break this subject down for incoming freshmen needing General Physics to fill a requirement. However, James C. Maxwell advanced the field with his distribution of speeds. Even still, our understanding of kinetics has greatly improved with the advent of quantum mechanics, thanks to work done by Schrodinger and Heisenburg.\n \n To begin to understand the kinetic theory of gases we must make a few simple assumptions. These are the postulates used for this particular theory.\n \n 1.) There are numerous molecules moving randomly, with varying speeds\n \n 2.) The molecules are far apart (the average distance is greater than the diameter of the molecule)\n \n 3.) All molecules behave classically (meaning they only interact when they collide, and intermolecular forces can be ignored)\n \n 4.) Collisions between the molecules or the wall of the vessel are assumed to be completely elastic\n \n These assumptions help describe Boyle's Law, which noted that volume was inversely proportional to pressure.\n \n Now if we use a box model with sides of area (A) and length (l), we can quantify the pressure of the gas based on kinetic theory, like RAF suggests. For now we will only look at on side of the box. Using Newton's second law we can calculate the force:\n \n eq. 1\n F = dp/dt (force equals change in momentum)\n \n or simply put\n \n eq. 2\n F = del(mv)/del(t) (force equals the change in mass times the change in velocity all over the change in time)\n \n Assuming elastic behavior, a collision will only create a change in the x direction, giving us an initial state of mv(x), and a final state of -mv(x).\n \n Thus, the change is equal to:\n \n eq. 3\n del(mv) = mv(x)-(-mv(x)) = 2mv(x)\n \n Velocity is equal to the distance over the change in time:\n \n eq. 4\n v(x) = 2l/dt or dt = 2l/v(x)\n \n Getting back to the second law, the force due to one molecule is given by:\n \n eq. 5\n F = del(mv)/del(t) = (mv(x)^2)/(l)\n \n This one molecule may collide with all sides of the vessel, but the x component of the velocity will not change, because of the elastic behavior we are attributing to the system. Furthermore, the molecule may collide with other molecules, changing its v(x), but the acquired or lost momentum of the other molecule will make up for this loss or gain. It is easy to see how the very important statistical principle of averaging will allow us to calculate the overall average force on the vessel.\n \n eq. 6\n F = (m/l)*(v(x1)^2+v(x2)^2+...+v(xn)^2)\n \n eq. 7\n avg(v^2(x)) = (v(x1)^2+v(x2)^2+...+v(xn)^2)/N\n \n where N is the number of molecules\n \n eq. 8\n F = (m/l)*N*avg(v^2(x))\n \n Using pythagoras theorem\n \n eq. 9\n avg(v^2) = avg(v^2(x))+avg(v^2(y))+avg(v^2(z))\n \n Since the velocities are random we can say that there is no preference between one component of the vector or the other and thus:\n \n eq. 10\n avg(v^2(x)) = avg(v^2(y)) = avg(v^2(z))\n \n From both eq. 9 and eq. 10 we get the relation:\n \n eq. 11\n avg(v^2) = 3(v^2(x))\n \n Substitution into eq. 8 we get:\n \n eq. 12\n F=(m/l)*N*(avg(v^2)/3)\n \n From the simple equation for pressure we know that the pressure is equal to the force over the area.\n \n eq. 13\n P = F/A = (1/3)*(((N*m*avg(v^2))/(A*l))\n \n or\n \n eq. 14\n P = (1/3)*(((N*m*avg(v^2))/(V))\n \n where V is the volume of the vessel\n \n With a little rearrangement we get the ideal gas law:\n \n eq. 15\n PV = NkT\n \n where k is the Bolztman constant (1.38x10^-23(J/K))\n \n Comparing the two gives us a marvelous revelation about kinetic theory.\n \n eq. 16\n (PV/N) = (2/3)(.5*m*avg(v^2))\n \n From basic physics we know that .5*m*v^2 is kinetic energy. Hence, we have relation between kinetic energy and temperature.\n \n eq. 17\n Ek = .5*m*avg(v^2) = (2/3)*k*T\n \n Where T is the absolute temperature.\n \n Other useful equations:\n \n eq. 18\n v(rms) = sqrt(avg(v^2)) = sqrt((3*k*T)/m)\n \n Questions for Comrade RAF, Ph.D.:\n \n 1.) What is the average translational kinetic energy of a system, like the one described above, if the temperature of the gas is 375 deg. Celsius?\n \n 2.) At the beginning of the derivation, I described four assumptions, in two words what was I describing?\n \n 3.) 10 particles have the following speeds 122, 10, 25, 32, 54, 44, 32, 44, 88, and 47, in meters per second. Calculate the mean speed and the root mean square speed.\n \n 4.) What is the rms speed of air molecules (O2 and N2), at room temperature? \n \n mass of a proton = 1.66x10^-27 \n mass of a nuetron = 1.67x10^-27\n \n [/b]Hint: Consult your Periodic Table of the Elements.[/b]\n \n 5.) What implication does eq. 17 have for the thermodynamic property known as entropy?", 
+   {
+    "post_info": {
+     "post_title": "Kinetic Theory of Gases"
+    }
+   }, 
+   null, 
+   null, 
+   1056972060.0
+  ], 
+  [
+   188998, 
+   null, 
+   "DMick", 
+   " He claimed he had his Ph.D. and that he had an intellect superior to mine. \n\n \n Sadly typical. Insults are hardly a sign of intelligent thought. Experts have been known to be wrong and put right by amateurs.\n \n I'm no expert on the bahaviour of gases and I've been wanting to know for a while whether a gas in the vacuum of space would expand as it would if let into a vacuum on Earth (like in a carburettor) or would clump together thanks to each atom or molecules' gravitation.", 
+   {}, 
+   11302, 
+   null, 
+   1135993380.0
+  ], 
+  [
+   189078, 
+   null, 
+   "Kronus", 
+   "\n I'm no expert on the bahaviour of gases and I've been wanting to know for a while whether a gas in the vacuum of space would expand as it would if let into a vacuum on Earth (like in a carburettor) or would clump together thanks to each atom or molecules' gravitation.\n\n \n Their momentum would fling them away from each other, giving you a rapidly expanding cloud. You need a planet sized cloud of gas before their collective gravity would start to have any significant effect.", 
+   {}, 
+   188998, 
+   null, 
+   1136040540.0
+  ], 
+  [
+   189143, 
+   null, 
+   "beervolcano", 
+   "\"The more gas there is in the space the more pressure there is.\"\n \n This statement should begin with \"At a given temperature...\"\n \n \n And are you making Comrade do your homework? ;)", 
+   {}, 
+   189078, 
+   null, 
+   1136072580.0
+  ], 
+  [
+   189258, 
+   null, 
+   "DMick", 
+   "I know you're only kidding about the homework but these are questions I never got to ask at school, which I left long ago.", 
+   {}, 
+   189143, 
+   null, 
+   1136156940.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Kinetic Theory of Gases", 
+  "url": "http://www.4forums.com/political/science-math-debates/767-kinetic-theory-gases.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 767, 
+  "discussion_files": [
+   [
+    "26863.html", 
+    "http://www.4forums.com/political/science-math-debates/767-kinetic-theory-gases-print.html"
+   ]
+  ], 
+  "identifier": 767
+ }
+]

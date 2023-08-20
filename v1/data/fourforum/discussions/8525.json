@@ -1,0 +1,104 @@
+[
+ [
+  [
+   222807, 
+   null, 
+   "billsco", 
+   "Our TV reception at home has markedly deteriorated over the years. I attribute the fickle reception due to the fact that the antenna is in the attic and trees have matured on the property, obscuring a good signal. \n \n We're considering subscription dish service, but I'm thinking that an antenna will still be needed to access the local channels without incurring an extra monthly fee. (We have three TVs, one on each level, and would like good reception on them all.) \n \n My thought, if it becomes necessary, is to move the antenna outside, extended above the roofline. My initial question is this: What kind of wire should be run from the antenna to the splitter--300 ohm flat wire or coaxial cable?", 
+   {
+    "post_info": {
+     "post_title": "TV Antenna"
+    }
+   }, 
+   null, 
+   null, 
+   1153145100.0
+  ], 
+  [
+   222933, 
+   null, 
+   "Ooaman", 
+   "I would suggest skipping satellite and going with cable. Local channels come in fine without any extra fee.", 
+   {}, 
+   222807, 
+   null, 
+   1153169220.0
+  ], 
+  [
+   222945, 
+   null, 
+   "billsco", 
+   "Cable isn't offered out here in the sticks.", 
+   {}, 
+   222933, 
+   null, 
+   1153172700.0
+  ], 
+  [
+   222979, 
+   null, 
+   "Ooaman", 
+   "Cable isn't offered out here in the sticks.\n\n emoticon_wow Wow, really?! That sucks.\n \n Sorry my advise wasn't helpful.", 
+   {}, 
+   222945, 
+   null, 
+   1153180260.0
+  ], 
+  [
+   254493, 
+   null, 
+   "Yossarian", 
+   "Use the coax. Better signal integrity. More abrasion-resistant. There's lotsa reasons.\n (I'm a Mstr. electrician)", 
+   {}, 
+   222807, 
+   null, 
+   1174008900.0
+  ], 
+  [
+   254636, 
+   null, 
+   "billsco", 
+   "We ended up not using the antenna, and pay a small monthly fee for local TV access. It's kind of irritating, but what can you do.\n \n The dish installer had his own theory why we were experiencing poor reception. He said the coax cable running from the antenna and through the walls was probably worn out, seeing that it was installed over twenty years ago. What do you think of that?", 
+   {}, 
+   254493, 
+   null, 
+   1174074720.0
+  ], 
+  [
+   256397, 
+   null, 
+   "Yossarian", 
+   "The coax itself wouldn't necessarily \"wear out\", not to a point where you'd suffer noticeably. By that I mean that unless it were subjected to severe stress or abrasion it's essentially only the outer jacket that will change, due to sunlight, etc. That wouldn't affect the inner, conductive part of the cable at all.\n \n In general, the less connections/splices made the better. Coax can be purchased in huge lengths, so it's always best to make single runs out of it. One outlet (tv jack) = one wire feeding it from the source.\n \n While I'm not trying to disparage the dish installer, or his judgement since I don't know the man, I'd still point out that he stands to make money replacing your \"worn out\" cable. It's a job you can easily do yourself w/a minimum of physical fitness and some simple tools.", 
+   {}, 
+   254636, 
+   null, 
+   1175491680.0
+  ], 
+  [
+   256422, 
+   null, 
+   "jim's trucking", 
+   "Our TV reception at home has markedly deteriorated over the years. I attribute the fickle reception due to the fact that the antenna is in the attic and trees have matured on the property, obscuring a good signal. \n \n We're considering subscription dish service, but I'm thinking that an antenna will still be needed to access the local channels without incurring an extra monthly fee. (We have three TVs, one on each level, and would like good reception on them all.) \n \n My thought, if it becomes necessary, is to move the antenna outside, extended above the roofline. My initial question is this: What kind of wire should be run from the antenna to the splitter--300 ohm flat wire or coaxial cable?\n\n Even though you've solved your problem, do remember in the future that antenna cabling should be impedance matched. There's 300 ohm twin lead, 75 ohm coax, blah blah blah. You need to match the impedance of the antenna.", 
+   {}, 
+   222807, 
+   null, 
+   1175525760.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  TV Antenna", 
+  "url": "http://www.4forums.com/political/home-projects/8525-tv-antenna.html", 
+  "breadcrumbs": [
+   "Home Projects"
+  ], 
+  "id_number": 8525, 
+  "discussion_files": [
+   [
+    "8243.html", 
+    "http://www.4forums.com/political/home-projects/8525-tv-antenna-print.html"
+   ]
+  ], 
+  "identifier": 8525
+ }
+]

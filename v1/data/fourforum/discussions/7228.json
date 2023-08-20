@@ -1,0 +1,248 @@
+[
+ [
+  [
+   189475, 
+   null, 
+   "cs-comm", 
+   "When discussing the possibility of alien life the Drake equation is my favourite tool.\n \n For those of you who don't know what I'm talking about, the Drake equation is used to calculate the number of communicating civillisations in the galaxy.\n \n It is as follows:\n # of star in the galaxy * fraction of stars with planets * fraction of planets capable of supporting life * fraction of planets capable of supporting life where life actually arises * fracton of that life that evolves intelligence * fraction of that life reaches the level of technology to communicate on an intersteller level * the fraction of a planets lifetime that that civillisation survives for. \n \n If you assume that\n 1) There are 3e11 stars in the galaxy (estimates range from 1e11 to 5e11)\n 2) That 80% of stars have planets orbiting them.\n 3) That 10% of those planets are capable of supporting life.\n 4) That on half of those planets, life actually arises.\n 5) That out of that life 90% evolve intelligence\n 6) That out that life only 20% achieve intersteller communication like us.\n and:\n 7)Those civilisations only maintain their ability to communicate for 100 years before their civilisation comes to an end...\n \n That gives us the firgure of 216 communicating civillisations in our galaxy.\n \n Our galaxy has a diameter of 100,000 ly giving it a simplified area of ~8e9 ly^2. Thus the \"civillisation density\" for our galaxy is ~ 1 civilisation for every 4e7 ly.\n \n However* \n 1) I assumed that the galaxy was 2d\n 2) The factors I used in the Drake equation could be wrong.\n and:\n 3) Assumed uniform distribution of stars which is also not accurate.\n \n *These assumtions were made to simplify this calculation.\n \n Furthermore if we apply the first part of my calculation to the entire universe (ie billions of galaxies) then we get the approxamite number of civillisations in the galaxy:\n 216* one hundred billion galaxies = 2.16e14\n \n Therefore there are approx. 21.6 trillion communicating civillisations at any one moment in the universe.\n \n I'd like to ask:\n 1)Do you agree with my estimate.\n and:\n 2)What values would you give the seven factors in the Drake equation and why?", 
+   {
+    "post_info": {
+     "post_title": "Number of communicating civillisations in the galaxy"
+    }
+   }, 
+   null, 
+   null, 
+   1136246580.0
+  ], 
+  [
+   190365, 
+   null, 
+   "DamEtel", 
+   "cs-comm: I'd like to ask:\n 1)Do you agree with my estimate.\n \n\n \n No...\n \n \ncs-comm: ... and:\n 2)What values would you give the seven factors in the Drake equation and why?\n\n \n That's the real problem. If you've got accurate numbers you get the correct answer. But the most unsure value is probably the one dealing with the likelihood of life arising, for which you said:\n \n \ncs-comm: If you assume that \n ...\n 4) That on half of those planets, life actually arises.\n \n\n \n Why 1/2? Why not 1/1000000? Why not 1/1000000000? Why not 1/1000000000000? Why not...\n \n We have no good estimate, so essentially, any number could be used, but one couldn't support it. The value chosen shows more about the GOAL of the person plugging in the number than it does about reality.", 
+   {}, 
+   189475, 
+   null, 
+   1136604720.0
+  ], 
+  [
+   190367, 
+   null, 
+   "pandion", 
+   "Why 1/2? Why not 1/1000000? Why not 1/1000000000? Why not 1/1000000000000? Why not...\nAnd why not 1/1? The idea has been expressed that since life arose so quickly after this planet became capable of supporting it, that life may be inevitable where conditions permit.", 
+   {}, 
+   190365, 
+   null, 
+   1136606340.0
+  ], 
+  [
+   190382, 
+   null, 
+   "DamEtel", 
+   "pandion: And why not 1/1?\n\n \n Because of the improbability of abiogenesis. There's no known process to get life from non-life that doesn't rely upon a huge amount of 'luck'. (Even Richard Dawkins argues along these lines, so no, this isn't a Creationist position) And the number of shots a single planet can muster, given only a few hundred million years at most, doesn't seem likely to be able to 'cover the odds against'. As a rough analogy, one wouldn't expect to win the lottery if he bought only 1000 tickets: but given millions of people, each being 1000 tickets, success is virtually certain. Similarly, relying on a vast number of other planets with conditions similar to ours helps to 'cover the odds against'.\n \n \npandion: The idea has been expressed that since life arose so quickly after this planet became capable of supporting it, that life may be inevitable where conditions permit.\n\n \n I've seen many ASTRONOMERS say that, but their field of study isn't the origin of life.\n \n And their conclusion could easily be explained as a selection effect. If there were trillions of planets similar to Earth, then that life might arise on one of them quickly is increased. And anyone finding themselves on that planet would wrongly conclude that life must be easy to arise since it had arisen so quickly on their own. \n \n Again, as an analogy, it would be like playing the lottery the first time, buying 1000 tickets, and winning. That doesn't mean the probability of winning the lottery on the first shot is 100%, or that the probability of winning the lottery is 1 in 1000 (the empirical probablity that one person experienced). It's a selection effect: it ignores the many thousands of people who have failed to win the lottery even though they've been playing all their lives.", 
+   {}, 
+   190367, 
+   null, 
+   1136614860.0
+  ], 
+  [
+   190422, 
+   null, 
+   "daewoo", 
+   "Because of the improbability of abiogenesis. There's no known process to get life from non-life that doesn't rely upon a huge amount of 'luck'. (Even Richard Dawkins argues along these lines, so no, this isn't a Creationist position) And the number of shots a single planet can muster, given only a few hundred million years at most, doesn't seem likely to be able to 'cover the odds against'. As a rough analogy, one wouldn't expect to win the lottery if he bought only 1000 tickets: but given millions of people, each being 1000 tickets, success is virtually certain. Similarly, relying on a vast number of other planets with conditions similar to ours helps to 'cover the odds against'.\n\n \n There is no known process to get life from non life even with a huge amount of luck. We do not understand enough about how that particular process works to make any kind of determination regarding the likelyhood of its occurence. In order to understand this, we would have to create life in a lab, and even then, we might not recognize it if we suceeded becuase all we have to work from is our current definition of \"life\" which is primarily based on assumptions and observations of modern life and modern proteins. We might not even recognize life if we did create it if it did not fit our pre concieved notion of what life is.\n \n That said, the odds of a random event occuring increase with time. While the probability of an event occuring does not tell you where in a sequence it is likely to occur, the longer the sequence, the more likely it is that the event WILL occur.\n \n The earth cooled, and BOOM, there was life. In cosmic terms, it was the snap of a finger. Life formed almost immediatly. That being the case, it is far more likely that the odds of abiogenesis occuring is high, maybe even very high. \n \n Even if you look at things the other way, and say that the odds of abiogenisis occuring are small, the earth is a very young planet...an infant in planetary terms, orbiting a very young star. Other planets are hundrds of millions of years older than the earth. We have found meteor fragments that are over a billion years older than the earth. Since the odds of a random even occurring increase with time, these planets have had a much better chance of seeing the generation of life than the earth has, even if the earth did spawn life extraordinarily early.\n \n All said, Pandions number is much more likely to be correct than yours.", 
+   {}, 
+   190382, 
+   null, 
+   1136646780.0
+  ], 
+  [
+   190427, 
+   null, 
+   "jim's trucking", 
+   "There is no known process to get life from non life even with a huge amount of luck. We do not understand enough about how that particular process works to make any kind of determination regarding the likelyhood of its occurence. In order to understand this, we would have to create life in a lab, and even then, we might not recognize it if we suceeded becuase all we have to work from is our current definition of \"life\" which is primarily based on assumptions and observations of modern life and modern proteins. We might not even recognize life if we did create it if it did not fit our pre concieved notion of what life is.\n \n That said, the odds of a random event occuring increase with time. While the probability of an event occuring does not tell you where in a sequence it is likely to occur, the longer the sequence, the more likely it is that the event WILL occur.\n \n The earth cooled, and BOOM, there was life. In cosmic terms, it was the snap of a finger. Life formed almost immediatly. That being the case, it is far more likely that the odds of abiogenesis occuring is high, maybe even very high. \n \n Even if you look at things the other way, and say that the odds of abiogenisis occuring are small, the earth is a very young planet...an infant in planetary terms, orbiting a very young star. Other planets are hundrds of millions of years older than the earth. We have found meteor fragments that are over a billion years older than the earth. Since the odds of a random even occurring increase with time, these planets have had a much better chance of seeing the generation of life than the earth has, even if the earth did spawn life extraordinarily early.\n \n All said, Pandions number is much more likely to be correct than yours.\n\n I agree, accept with the following:\n \n \nEven if you look at things the other way, and say that the odds of abiogenisis occuring are small, the earth is a very young planet...an infant in planetary terms, orbiting a very young star. Other planets are hundreds of millions of years older than the earth. We have found meteor fragments that are over a billion years older than the earth. Since the odds of a random even occurring increase with time, these planets have had a much better chance of seeing the generation of life than the earth has, even if the earth did spawn life extraordinarily early.\nThe inference is that this argues there's been enough time since the big bang for planets such as earth to have come and gone many times over, simply because they had the time to do it.\n \n There was likely a long time, possibly even a span of billions of years after t=0 when there was too much heat everywhere for any cycles of life/death (as developed as intelligence would require)", 
+   {}, 
+   190422, 
+   null, 
+   1136649600.0
+  ], 
+  [
+   190436, 
+   null, 
+   "daewoo", 
+   "I agree, accept with the following:\n \n The inference is that this argues there's been enough time since the big bang for planets such as earth to have come and gone many times over, simply because they had the time to do it.\n \n There was likely a long time, possibly even a span of billions of years after t=0 when there was too much heat everywhere for any cycles of life/death (as developed as intelligence would require)\n\n \n We don't know how much heat there was, we can only speculate. Our sun, though, is only about 4.5 billion years old. The closest star, V645 Cen, only 4.2 light years away, is estimated to be nearly 6 billion years old. Other nearby stars are estimated at up to 8 billion years old. \n \n We are not certain exactly how stars and other celestial bodies form, but one primary motivator is believe to be the cooling of space. This would imply that for some reason, the little speck of space where our solar system sits cooled more slowly than some other areas. \n \n That is assuming that there WAS any heat to begin with. The big bang does not necessarily require presence of heat to have occurred. It is possible that all the heat in the universe currently has been caused by nuclear reaction AFTER the big bang. We tend to associate heat with the big bang because we view it as an explosion, and explosions tend to have heat. Explosions, however, only generally have heat due to the fuel. It is possible that the big bang was caused not by a fueled explosion such as we see here on earth, but by more of a gravitational explosion.", 
+   {}, 
+   190427, 
+   null, 
+   1136651400.0
+  ], 
+  [
+   190439, 
+   null, 
+   "jim's trucking", 
+   "We don't know how much heat there was, we can only speculate. Our sun, though, is only about 4.5 billion years old. The closest star, V645 Cen, only 4.2 light years away, is estimated to be nearly 6 billion years old. Other nearby stars are estimated at up to 8 billion years old. \n \n We are not certain exactly how stars and other celestial bodies form, but one primary motivator is believe to be the cooling of space. This would imply that for some reason, the little speck of space where our solar system sits cooled more slowly than some other areas. \n \n That is assuming that there WAS any heat to begin with. The big bang does not necessarily require presence of heat to have occurred. It is possible that all the heat in the universe currently has been caused by nuclear reaction AFTER the big bang. We tend to associate heat with the big bang because we view it as an explosion, and explosions tend to have heat. Explosions, however, only generally have heat due to the fuel. It is possible that the big bang was caused not by a fueled explosion such as we see here on earth, but by more of a gravitational explosion.\nFirst, my only implication in the first post was to scale back the estimate of the number of possible intelligent life civilisations possible between now and the big bang by allowing for a long cooling off period before any life began.\n \n ...and now you want to deny there was much HEAT!", 
+   {}, 
+   190436, 
+   null, 
+   1136651880.0
+  ], 
+  [
+   190442, 
+   null, 
+   "daewoo", 
+   "First, my only implication in the first post was to scale back the estimate of the number of possible intelligent life civilisations possible between now and the big bang by allowing for a long cooling off period before any life began.\n \n ...and now you want to deny there was much HEAT!\n\n \n I am not necessarily denying heat was there, merely suggesting that it may not have been and we really have no conclusive evidence that it was.\n \n I am not necessarily disagreeing with you here. I was just trying to discuss different theories. In this case, I am essentially playing the devils advocate :)", 
+   {}, 
+   190439, 
+   null, 
+   1136654100.0
+  ], 
+  [
+   190469, 
+   null, 
+   "jim's trucking", 
+   "I am not necessarily denying heat was there, merely suggesting that it may not have been and we really have no conclusive evidence that it was.\n \n I am not necessarily disagreeing with you here. I was just trying to discuss different theories. In this case, I am essentially playing the devils advocate :)\nYour statement that we don't KNOW if there was heat goes against widely accepted knowledge that there was tremendous heat at and after the big bang. It likely took millions and millions of years for the expanding superheated elemental clouds to even coagulate into molten masses and form the very first stars...and likely billions more for intelligent life to develop anywhere in the universe. Civilisations did not immediately begin to pop up and die.\n \n Since we are our only known example of intelligent life in our existence, one could logically assume that there can be intelligent life on planets that have an age similar to ours. There could be hundreds of them in the universe. There could be thousands.\n \n More interesting to find would be the reaction of the second round of intelligent life on a planet finding the remains of a previous form of intelligent life on the same planet...like maybe some catastrophic event wipes out all mammals in one fell swoop...all humans and other mammals die leaving only reptiles, birds, bugs, fish, plants, bi-valves, (all existing underwater creatures[except for the mammals]).\n \n It might take a few million years, but I propose that intelligent life would resurface and pollute the earth again.", 
+   {}, 
+   190442, 
+   null, 
+   1136661360.0
+  ], 
+  [
+   190471, 
+   null, 
+   "Jo Bennett", 
+   "1st generation stars didn't have planets, as it is within stars that the heavier elements (ie everything beyond hydrogen and helium) are created. Hence we have a period of probably 5 billion years before we start to see widespread formation of planets, and perhaps longer before we see the heavier elements formed in quantity, gas giants may have been the first to form.", 
+   {}, 
+   190469, 
+   null, 
+   1136663160.0
+  ], 
+  [
+   190484, 
+   null, 
+   "daewoo", 
+   "Your statement that we don't KNOW if there was heat goes against widely accepted knowledge that there was tremendous heat at and after the big bang. It likely took millions and millions of years for the expanding superheated elemental clouds to even coagulate into molten masses and form the very first stars...and likely billions more for intelligent life to develop anywhere in the universe. Civilisations did not immediately begin to pop up and die.\n\n \n Like I said...devils advocate. None of our creationists took the bait emoticon_mad I figured surely one of them sould have jumped on it. \n \n \n\n More interesting to find would be the reaction of the second round of intelligent life on a planet finding the remains of a previous form of intelligent life on the same planet...like maybe some catastrophic event wipes out all mammals in one fell swoop...all humans and other mammals die leaving only reptiles, birds, bugs, fish, plants, bi-valves, (all existing underwater creatures[except for the mammals]).\n \n It might take a few million years, but I propose that intelligent life would resurface and pollute the earth again.\n\n \n We read a book like thay in high school :-)\n \n I would imagine that intelligent life would return almost immediatly (cosmic terms....a few million years maybe). I wpuld even argue that were life completely wiped out on th earth, it would arise once again if conditions ever became suitable. \n \n I simply do not believe that abiogenisis is an unlikely or dificult event. The only \"evidence\" I have for this is the relatively short period of time that it took for life to arise on earth, and the absence of any evidence that anything particularly special happened here on earth.", 
+   {}, 
+   190469, 
+   null, 
+   1136668200.0
+  ], 
+  [
+   190486, 
+   null, 
+   "DamEtel", 
+   "daewoo: There is no known process to get life from non life even with a huge amount of luck.\n\n \n Even the Creationists have calculated that for a complete cell to form all at once the probability is 1 in 10^(some big number). No matter how big (some big number) is, it doesn't reduce the probability to 0, so that's not impossible: just astronomically improbable.\n \n Now, considering that real scientists don't look for a complete cell to form all at once, but instead look for just a self-replicating RNA (or some other)molecule to form, the probability is astronomicaly larger (farther away from 0) than the Creationist's 1 in 10^(some big number). \n \n Here is some of the Richard Dawkins material I was referring to:\n \n \nWe can accept a certain amount of luck in our explanations, but not too much. The question is, how much? The immensity of geological time entitles us to postulate more improbable coincidences than a court of law would allow but, even so, there are limits. Cumulative selection is the key to all our modern explanations of life. It strings a series of acceptably lucky events [random mutations] together in a nonrandom sequence so that, at the end of the sequence, the finished product carries the illusion of being very very lucky indeed, far too improbable to have come about by chance alone, even given a timespan millions of times longer than the age of the universe so far. Cumulative selection is the key but it had to get started, and we cannot escape the need to postulate a single-step chance event in the origin of cumulative selection itself....\n \n The more we can get away from miracles, major improbabilities, fantastic coincidences, large chance events, and the more thoroughly we can break large chance events up into a cumulative series of small chance events, the more satisfying to rational minds our explanations will be. But in this chapter we are asking how improbable, how miraculous, a single event we are allowed to postulate. What is the largest single event of sheer naked coincidence, sheer unadulterated miraculous luck, that we are allowed to get away with in our theories, and still say that we have a satisfactory explanation of life?\n So, there are some levels of sheer luck, not only too great for puny human imaginations, but too great to be allowed in our hard-headed calculations about the origin of life. But, to repeat the question, how great a level of luck, how much of a miracle, are we allowed to postulate?...The answer to our question - of how much luck we are allowed to postulate - depends upon whether our planet is the only one that has life, or whether life abounds all around the universe. ... There are probably at least 10^20 (i.e. 100 billion billion) roughly suitable planets in the universe.\n \n It is entirely possible that our backwater of a planet is literally the only one that has ever borne life. ... If the origin of life is such an improbable event that it happened on only one planet in the universe, then our planet has to be that planet.\n \n Our question was, how much luck are we allowed to assume in a theory of the origin of life on Earth? ... Begin by giving a name to the probability, however low it is, that life will originate on any randomly designated planet of some particular type. Call this number the spontaneous generation probability or SGP. It is the SGP that we shall arrive at if we sit down with our chemistry textbooks, or strike sparks through plausible mixtures of atmospheric gases in our laboratory, and calculate the odds of replicating molecules springing spontaneously into existence in a typical planetary atmosphere. Suppose that our best guess of the SGP is some very very small number, say one in a billion....if we assume, as we are perfectly entitled to do for the sake of argument, that life has originated only once in the universe, it follows that we are allowed to postulate a very large amount of luck in a theory, because there are so many planets in the universe where life could have originated. If, as one estimate has it, there are 100 billion billion planets, this is 100 billion times greater than even the very low SGP that we postulated. To conclude this argument, the maximum amount of luck that we are allowed to assume, before we reject a particular theory of the origin of life, has odds of one in N, where N is the number of suitable planets in the universe. There is a lot hidden in that word 'suitable', but let us put an upper limit of 1 in 100 billion billion for the maximum amount of luck that this argument entitles us to assume\n \n We go to a chemist and say, .fill your head with formulae, and your flasks with methane and ammonia and hydrogen and carbon dioxide and all the other gases that a primeval nonliving planet can be expected to have; cook them all up together; pass strokes of lightning through your simulated atmospheres, and strokes of inspiration through your brain; bring all your clever chemist's methods to bear, and give us your best chemist's estimate of the probability that a typical planet will spontaneously generate a self-replicating molecule. Or, to put it another way, how long would we have to wait before random chemical events on the planet, random thermal jostling of atoms and molecules, resulted in a self- replicating molecule?...we'd have to wait a long time by the standards of a human lifetime, but perhaps not all that long by the standards of cosmological time....even if the chemist said that we'd have to wait for a 'miracle', have to wait a billion billion years - far longer than the universe has existed, we can still accept this verdict with equanimity. There are probably more than a billion billion available planets in the universe. If each of them lasts as long as Earth, that gives us about a billion billion billion planet-years to play with. That will do nicely! A miracle is translated into practical politics by a multiplication sum.\" (Richard Dawkins, The Blind Watchmaker, Penguin, 1991, p139-145) \n", 
+   {}, 
+   190422, 
+   null, 
+   1136668440.0
+  ], 
+  [
+   190608, 
+   null, 
+   "simone", 
+   "Odds are that in the enormous randomness of the vast universe, there are a number of times that substances have clumped together to form something that lives, that there was an environment available to sustain and enable life forms to increase.\n \n Odds are that a limited number of points in the vast universe with all its enormous randomness have clumped together to form an environment with water, oxygen, a goodly bit of carbon to cause things to clump together, all of this and some other stuff, to cause a life form to happen.\n \n Let the randomness dice of the vast universe roll.", 
+   {}, 
+   190486, 
+   null, 
+   1136751000.0
+  ], 
+  [
+   199889, 
+   null, 
+   "Cheesejoff", 
+   "I don't agree with the \"Planets supporting life\" part.\n \n Firstly, how do we know that alien life can only survive on a planet with Earth's conditions? After all, we evolved to suit our own planet's conditions, not the other way around. It is reasonable to assume that alien life can survive in alien conditions.\n \n Secondly, surely is possible for an advanced civilisation to use technology to live in a normally uninhabitable place? After all, we can create artificial climates, why not extra-terrestrials?\n \n Also, didn't scientists find fossilised bacteria on Mars? And isn't Mars inhospitable to us?", 
+   {}, 
+   190608, 
+   null, 
+   1140727080.0
+  ], 
+  [
+   199903, 
+   null, 
+   "Jo Bennett", 
+   "Also, didn't scientists find fossilised bacteria on Mars? And isn't Mars inhospitable to us?\n\n \n The answers are possibly (it's subject to debate) and yes, but it wasn't always. In the past Mars has almost certainly been warmer, had a thicker atmosphere and had liquid water on the surface.", 
+   {}, 
+   199889, 
+   null, 
+   1140732600.0
+  ], 
+  [
+   199931, 
+   null, 
+   "JPSartre12", 
+   "Odds are that in the enormous randomness of the vast universe, there are a number of times that substances have clumped together to form something that lives, that there was an environment available to sustain and enable life forms to increase.\n \n Odds are that a limited number of points in the vast universe with all its enormous randomness have clumped together to form an environment with water, oxygen, a goodly bit of carbon to cause things to clump together, all of this and some other stuff, to cause a life form to happen.\n \n Let the randomness dice of the vast universe roll.\n\n \n You know what, Simone. I can clump all sorts of carbon-based matter together until the cows come home, but I'll bet you that I never create life doing so. Life doesn't just happen. I've been waiting for a good scientific explanation all of my life, but have yet to hear one. Yours doesn't even come close, sorry.", 
+   {}, 
+   190608, 
+   null, 
+   1140744900.0
+  ], 
+  [
+   199938, 
+   null, 
+   "daewoo", 
+   "You know what, Simone. I can clump all sorts of carbon-based matter together until the cows come home, but I'll bet you that I never create life doing so. Life doesn't just happen. I've been waiting for a good scientific explanation all of my life, but have yet to hear one. Yours doesn't even come close, sorry.\n\n \n How about this one-\n \n We don't really know...BUT, the fact we are all here proves it can and has happened.", 
+   {}, 
+   199931, 
+   null, 
+   1140746220.0
+  ], 
+  [
+   199944, 
+   null, 
+   "OccamsRazor", 
+   "How about this one-\n \n We don't really know...BUT, the fact we are all here proves it can and has happened.\n\n \n Yes and on the randomness point I don't see anything \"random\" in a process that took a few billion years just to get past the single celled stage.\n \n I'd think of it more in terms of life evolving being inevitable, given the right environment.", 
+   {}, 
+   199938, 
+   null, 
+   1140748320.0
+  ], 
+  [
+   200136, 
+   null, 
+   "Cheesejoff", 
+   "The answers are possibly (it's subject to debate) and yes, but it wasn't always. In the past Mars has almost certainly been warmer, had a thicker atmosphere and had liquid water on the surface.\n\n \n Right, so a planet that is inhospitable now may have been hospitable in the past. \n \n So there's a chance that a planet used to be hospitable, then a species was created, but then when the climate became inhospitable the species worked out a way to survive - by going underground or whatever. So potentially all planets have life, unless we know they were never hospitable.", 
+   {}, 
+   199903, 
+   null, 
+   1140873120.0
+  ], 
+  [
+   200138, 
+   null, 
+   "Jo Bennett", 
+   "Gas giants are unlikely to support life, though their moons may be.", 
+   {}, 
+   200136, 
+   null, 
+   1140877980.0
+  ], 
+  [
+   200143, 
+   null, 
+   "Kronus", 
+   "Yes and on the randomness point I don't see anything \"random\" in a process that took a few billion years just to get past the single celled stage.\n \n I'd think of it more in terms of life evolving being inevitable, given the right environment.\n\n \n Your second line answers the first. The reason it took so long for things to evolve into multi-celled creatures was the environment, specifically oxygen. If you're multi-celled, but don't yet have things like hearts and lungs, then the oxygen content of your environment must be high enough that diffusion will be sufficient to bring oxygen to all your cells. It took billions of years, but alga eventually got the oxygen concentrations high enough, and once they did there was an explosion of new life forms that evolved to take advantage of this new resource.", 
+   {}, 
+   199944, 
+   null, 
+   1140880920.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Number of communicating civillisations in the galaxy", 
+  "url": "http://www.4forums.com/political/science-math-debates/7228-number-communicating-civillisations-galaxy.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 7228, 
+  "discussion_files": [
+   [
+    "28524.html", 
+    "http://www.4forums.com/political/science-math-debates/7228-number-communicating-civillisations-galaxy-print.html"
+   ], 
+   [
+    "28525.html", 
+    "http://www.4forums.com/political/science-math-debates/7228-number-communicating-civillisations-galaxy-2-print.html"
+   ]
+  ], 
+  "identifier": 7228
+ }
+]

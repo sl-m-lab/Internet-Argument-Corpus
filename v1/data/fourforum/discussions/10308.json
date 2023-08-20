@@ -1,0 +1,34 @@
+[
+ [
+  [
+   281689, 
+   null, 
+   "daewoo", 
+   "This has never happened before. My setup is actually pretty simple. I have a honeypot witting out front that acts as a gateway. Usually I just buy the honeypot at either a garage sale or on Ebay and then recover the hard drive (that way it looks like a computer somebody actually uses as opposed to...well...a honeypot). Then I load it up with all manner of viral goodies for potential hackers to enjoy.\n \n That is connected directly (via crossover cable) to a secondary card in a dedicated linux firewall machine when is then connected to a cisco router and there is a Dlink WAP. \n \n Until a coupel of months ago I was on a T-1. Now I am dial up until wildblue manages to get around to installing my new sattelite service (great customer service there).\n \n Anyway, somebody blew through my honeypot without even taking time to look around, logged into the firewall using root, and accesses (oddly enough) only my media machine...the computer hooked up to the entertainment center, They used MY ID and password to log onto the media machine, but with that they could have logged onto any machine in the network including the server.\n \n This HAS to be somebody I know....right??? I mean, all they did was download a Filter song (take a picture) and left a note on my media machine that says:\n \n PWNED\n \n There is no way that could be a complete stranger is there?????", 
+   {
+    "post_info": {
+     "post_title": "My network has been compromised"
+    }
+   }, 
+   null, 
+   null, 
+   1188577320.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  My network has been compromised", 
+  "url": "http://www.4forums.com/political/technology/10308-my-network-has-been-compromised.html", 
+  "breadcrumbs": [
+   "Technology"
+  ], 
+  "id_number": 10308, 
+  "discussion_files": [
+   [
+    "8153.html", 
+    "http://www.4forums.com/political/technology/10308-my-network-has-been-compromised-print.html"
+   ]
+  ], 
+  "identifier": 10308
+ }
+]

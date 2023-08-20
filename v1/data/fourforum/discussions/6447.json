@@ -1,0 +1,44 @@
+[
+ [
+  [
+   164008, 
+   null, 
+   "yuszz", 
+   "Can someone help me to find the sample solution of Network Circuit Analysis , including the step by step derivation answer like Kirchoff's Law, Thevenin Networks.\n \n Thanx for your contribution", 
+   {
+    "post_info": {
+     "post_title": "Electrical Network Analysis"
+    }
+   }, 
+   null, 
+   null, 
+   1127209380.0
+  ], 
+  [
+   236565, 
+   null, 
+   "mik60487", 
+   "Net work analysis can be verified experimently. Start with a simple wire loop, some energy source and a load oh yeh a electreical meter that measures voltage and amperage Measure the amperage anywhere on the loop, what do you find? Add another order of complexity a compund circuit and make measurements of current and voltage and see what you will find. You may be pleasantly surprised to learn that some of the mystery and fog clear. Good luck!", 
+   {}, 
+   164008, 
+   null, 
+   1161827820.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Electrical Network Analysis", 
+  "url": "http://www.4forums.com/political/science-math-debates/6447-electrical-network-analysis.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 6447, 
+  "discussion_files": [
+   [
+    "3570.html", 
+    "http://www.4forums.com/political/science-math-debates/6447-electrical-network-analysis-print.html"
+   ]
+  ], 
+  "identifier": 6447
+ }
+]

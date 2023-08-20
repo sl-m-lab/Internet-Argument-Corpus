@@ -1,0 +1,35 @@
+[
+ [
+  [
+   273766, 
+   null, 
+   "Big_Bear_Scot", 
+   "Hi guys,\n \n At the moment I have purchased some websapce to hold my portfolio. Basically it has mysql database and runs an Apache server with support for php. \n \n I have never created a web site before and I have never really done any server side scripting. At the moment it is very basic just displays a table of the work I have done.\n \n This is an example of what it looks like at the moment\n \n http://www.bmdportfolio.com/display.php\n \n It basically query's the database and returns the information and displays it in a table. What I really need from you guys is to check to see if I have made any spelling mistakes or it does not look good in your browser.\n \n I am also going to add more interactivity to display the information to the user, basically a drop down box which allow someone to query the database for a specific technology demo that I have created.\n \n I will add Cascading Style sheets to improve the look of the display, so any general hints on creating a website or XHTML will be greatly appreciated.\n \n Thanks,\n Brian\n \n PS. I only started learning PHP two days ago so any tips on PHP coding would be greatly appreciated as well.\n \n Edit... Added filter", 
+   {
+    "post_info": {
+     "post_title": "Portfolio website WIP"
+    }, 
+    "unicode_changes_made": true
+   }, 
+   null, 
+   null, 
+   1184599680.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Portfolio website WIP", 
+  "url": "http://www.4forums.com/political/high-tech-art/10134-portfolio-website-wip.html", 
+  "breadcrumbs": [
+   "High Tech Art"
+  ], 
+  "id_number": 10134, 
+  "discussion_files": [
+   [
+    "24585.html", 
+    "http://www.4forums.com/political/high-tech-art/10134-portfolio-website-wip-print.html"
+   ]
+  ], 
+  "identifier": 10134
+ }
+]

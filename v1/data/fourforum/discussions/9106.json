@@ -1,0 +1,408 @@
+[
+ [
+  [
+   237289, 
+   null, 
+   "Hi_Its_Me", 
+   "I would like to know what you think:\n Is 0/0 undefined?\n Is 0/0 zero?\n Or, is 0/0 any number?\n \n To start: I think that 0/0 is zero.\n This is because of the way I understand division: for A/B, you have a set of A objects which you take B objects away from. This is repeated until you reach 0=A. If A<B, you may take a portion of B objects away.\n Therefore, with 0/0, you can take exactly 0 objects away zero times before reaching A=0.\n \n \n By the way, The American Heritage Dictionary defines division as:\n \nThe operation of determining how many times one quantity is contained in another; the inverse of multiplication.\n", 
+   {
+    "post_info": {
+     "post_title": "Zero divided by zero"
+    }
+   }, 
+   null, 
+   null, 
+   1162174020.0
+  ], 
+  [
+   237836, 
+   null, 
+   "Inyx", 
+   "Dividing with zero (= nothing) is absurd. You can not divide something with nothing. It has no meaning.\n Just a question, did you put this here intentionally or you missed the science sub-forum?", 
+   {}, 
+   237289, 
+   null, 
+   1162578180.0
+  ], 
+  [
+   237853, 
+   null, 
+   "Steeeeve", 
+   "what about .9 repeating? What is the fraction for this? for .1 repeating it is 1/9 for .2 repeating it is 2/9 for .3 repeating it is 3/9 and so on...when you get to .9 repeating it is 9/9 or 1. So does .9 repeating = 1?\n \n I love that one :)", 
+   {}, 
+   237836, 
+   null, 
+   1162586220.0
+  ], 
+  [
+   237863, 
+   null, 
+   "Kronus", 
+   "what about .9 repeating? What is the fraction for this? for .1 repeating it is 1/9 for .2 repeating it is 2/9 for .3 repeating it is 3/9 and so on...when you get to .9 repeating it is 9/9 or 1. So does .9 repeating = 1?\n \n I love that one :)\n\n \n I've seen more silly arguments over this than any other simple math concept. It's amazing how many people simply won't except, no matter how it's explained, that .9 repeating is exactly equal to 1.", 
+   {}, 
+   237853, 
+   null, 
+   1162592220.0
+  ], 
+  [
+   237868, 
+   null, 
+   "doG", 
+   "Undefined. See Division by Zero...", 
+   {}, 
+   237863, 
+   null, 
+   1162593360.0
+  ], 
+  [
+   237923, 
+   null, 
+   "Steeeeve", 
+   "I've seen more silly arguments over this than any other simple math concept. It's amazing how many people simply won't except, no matter how it's explained, that .9 repeating is exactly equal to 1.\n\n \n Really? It isn't a hard concept if you are past the 6th grade. You can look at it another way too. 1/9 + 8/9 = 9/9 right? 9/9 = 1. Well, 1/9 = .1111 repeating and 8/9 = .8888 repeating and you add the repeating decimals together you get .9999 repeating. I saw another example using apples. If you give someone 1 apple and you have 9 then you have them .111111 repeating of your apples. Normally that example helps understand the \"infinity\" concept of it all.", 
+   {}, 
+   237863, 
+   null, 
+   1162609320.0
+  ], 
+  [
+   237956, 
+   null, 
+   "electrolyte", 
+   "We seem to have strayed a bit from the original question. Dividing by zero cannot be done. (Except in calculus -- and even then not really -- I always provocatively tell my algebra students.)\n \n However, since we've brought up the cool repeating nine problem, and since I can't find the really good webpage on it, I'll give a couple more proofs and a couple more not-quite-so-proofs...\n \n ------------------------------------------\n \n c = 0.999...\n 10c = 9.999...\n 10c &#8722; c = 9.999... &#8722; 0.999...\n 9c = 9\n c = 1\n \n --------------------------------------------\n \n Using the idea that the number 3456.78 is really:\n 3(10^3) + 4(10^2) +5(10^1) + 6(10^0) + 7(10^-1) + 8(10^-2), we know that 0.999... = 9(10^-1) + 9(10^-2) + 9(10^-3) + ..., therefore:\n \n 0.9999... =\n \n &#931; 9/10^n \n (n=1 -< Infinity)\n \n = lim &#931; 9/10^n\n (m -< Infinity) (n=1 -< m)\n \n = lim .9(1-10^-(m+1))/(1-1/10)\n (m -< Infinity) \n \n = lim .9(1-10^-(m+1))/(9/10)\n (m -< Infinity) \n \n = .9/(9/10)\n \n = 1\n \n \n ----------------------------------------\n \n For any numbers a and c such that a != c, there must be some number b between a and c in value. If a=0.999... and c=1, what is b? In other words, 1 - 0.999...= ???\n \n ------------------\n \n There are numerous proofs that 0.999... = 1. There are no proofs that 0.999... < 1.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   237923, 
+   null, 
+   1162618020.0
+  ], 
+  [
+   237962, 
+   null, 
+   "zachvac", 
+   "what about .9 repeating? What is the fraction for this? for .1 repeating it is 1/9 for .2 repeating it is 2/9 for .3 repeating it is 3/9 and so on...when you get to .9 repeating it is 9/9 or 1. So does .9 repeating = 1?\n \n I love that one :)\n\n \n Yes it does.", 
+   {}, 
+   237853, 
+   null, 
+   1162620360.0
+  ], 
+  [
+   237963, 
+   null, 
+   "zachvac", 
+   "I would like to know what you think:\n Is 0/0 undefined?\n Is 0/0 zero?\n Or, is 0/0 any number?\n \n To start: I think that 0/0 is zero.\n This is because of the way I understand division: for A/B, you have a set of A objects which you take B objects away from. This is repeated until you reach 0=A. If A<B, you may take a portion of B objects away.\n Therefore, with 0/0, you can take exactly 0 objects away zero times before reaching A=0.\n \n \n By the way, The American Heritage Dictionary defines division as:\n\n \n But your analysis fails with negative numbers.\n \n Anyway, I think this is right, correct me if I'm wrong someone.\n \n If A/B = C, then A = CB\n \n Replace with numbers: 0/0 = X, then 0X = 0\n \n Similarly, A/0 = X, then 0X = A\n \n There is no real X that satisfies the equation.\n \n You can see pretty easily this can be replaced with any X and still be true. But we have not defined it, because the concept simply doesn't make any sense, and we have no clear way of actually doing it.\n \n We can take the limit as something approaches 0/0 and get a finite answer, but not do the actual division 0/0.\n \n With the second example when we take the limit we get infinity, simply because as the first number (simply written as 0 in the problem) gets closer and closer to 0, we need a bigger and bigger number to multiply it by to get A. We can get as close to we want to 0, so the limit increases to infinity without bound.", 
+   {}, 
+   237289, 
+   null, 
+   1162620720.0
+  ], 
+  [
+   237965, 
+   null, 
+   "Hi_Its_Me", 
+   "Dividing with zero (= nothing) is absurd. You can not divide something with nothing. It has no meaning.\n\n It is fairly obvious that one (or any other nonzero number) cannot be divided by zero.\n However, could you divide zero by zero? It appears to be possible according to the definition of division.\n \n This one isn't quite as obvious...\n \nJust a question, did you put this here intentionally or you missed the science sub-forum?\n\n I missed the forum. I haven't explored this site fully yet.\n \n Do you think I should make a thread there and drop this?", 
+   {}, 
+   237836, 
+   null, 
+   1162621140.0
+  ], 
+  [
+   237999, 
+   null, 
+   "doG", 
+   "This one isn't quite as obvious...\n\n \n What's not obvious? By definition, division by 0 is undefined.", 
+   {}, 
+   237965, 
+   null, 
+   1162653180.0
+  ], 
+  [
+   238043, 
+   null, 
+   "Hi_Its_Me", 
+   "What's not obvious? By definition, division by 0 is undefined.\n\n Zero is contained infinite (and more) times within one. There is no number of times (in standard math) that you can take zero from one with a result of zero.\n \n However, zero is contained within itself a certain number of times: zero.\n \n Remember the definition of division?\n \nThe operation of determining how many times one quantity is contained in another; the inverse of multiplication.\n", 
+   {}, 
+   237999, 
+   null, 
+   1162669980.0
+  ], 
+  [
+   238044, 
+   null, 
+   "electrolyte", 
+   "Zero is contained infinite (and more) times within one. There is no number of times (in standard math) that you can take zero from one with a result of zero.\n \n However, zero is contained within itself a certain number of times: zero.\n \n Remember the definition of division?\n\n zachvac's demonstration should have been good enough, but let's try this:\n \n Dividing say, ten, by, say, two gives us the size of each piece that results when ten is halved: two pieces each of size five.\n Dividing zero by two gives us the size of each piece that results: both pieces are of size zero.\n Likewise, dividing zero into one piece gives us one piece of zero.\n Now try dividing any number by zero: What's the size of each of those zero pieces? Even when dividing by zero, the question is nonsensical; the sizes of nonexistent pieces cannot be measured. Therefore, this nonsensical question can't be asked mathematically.", 
+   {}, 
+   238043, 
+   null, 
+   1162671180.0
+  ], 
+  [
+   238045, 
+   null, 
+   "doG", 
+   "Sometimes you just can't help those that are determined to be dense.....", 
+   {}, 
+   238044, 
+   null, 
+   1162672200.0
+  ], 
+  [
+   238062, 
+   null, 
+   "Hi_Its_Me", 
+   "zachvac's demonstration should have been good enough, but let's try this:\n \n Dividing say, ten, by, say, two gives us the size of each piece that results when ten is halved: two pieces each of size five.\n Dividing zero by two gives us the size of each piece that results: both pieces are of size zero.\n Likewise, dividing zero into one piece gives us one piece of zero.\n Now try dividing any number by zero: What's the size of each of those zero pieces? Even when dividing by zero, the question is nonsensical; the sizes of nonexistent pieces cannot be measured.\n\n If the sizes of nonexistant pieces cannot be measured, how can you measure zero divided by two? Is zero nonexistant in one case and existant in the other?\n \n Also, remember that you are not dividing \"any number\" by zero; you are dividing zero by zero. I know that nonzero numbers cannot be divided by zero. Zero, on the other hand, can be divided into 0 pieces with nothing left over.\n \n As for zachvac's demonstration, let's see how it applies to 0/0:\n \nIf A/B = C, then A = CB\n \n Replace with numbers: 0/0 = X, then 0X = 0\n \n Similarly, A/0 = X, then 0X = A\n \n There is no real X that satisfies the equation.\n\n If A/0 = X (with A = 0), then 0X = 0.\n \n There are a number of values which satisfy this equation, but a counterexample exists for 0/0 = 1 (or any other nonzero number).\n I know of no counterexample for 0/0 = 0, and the definition of division doesn't seem to indicate that it is impossible.\n \n \n Again, I realize that the definition of division does indicate that 1/0 is unsolvable. You can remove 0 from 1 infinite times and you will not reach 0. Please stop refuting that strawman.\n \n However, with 0/0, 0 can be reached. Similarly, with 0/1, 0 can be reached.\n In both scenerios, you remove the denominator from the numerator 0 times before reaching 0.", 
+   {}, 
+   238044, 
+   null, 
+   1162679520.0
+  ], 
+  [
+   238069, 
+   null, 
+   "doG", 
+   "If the sizes of nonexistant pieces cannot be measured, how can you measure zero divided by two? Is zero nonexistant in one case and existant in the other?\n\n \n 2 goes into 0 zero times. Zero represents nothing and if you have nothing to start with, you certainly can't divide it into pieces, 2, 3, or any number. \n \n The reciprocal equation, 2/0 is quite another issue. Choose some number greater than 0 like 0.1. 2/0.1 is 20. Now try 2/.01. 200 2/.001=2000 etc.. Carry this out and you will see that as the denominator approaches 0 the quotient approaches infinity. This is true no matter what numerator is chosen. That's why division by 0 is defined as \"undefined\" in the world of math.", 
+   {}, 
+   238062, 
+   null, 
+   1162682220.0
+  ], 
+  [
+   238089, 
+   null, 
+   "electrolyte", 
+   "Also, remember that you are not dividing \"any number\" by zero; you are dividing zero by zero. I know that nonzero numbers cannot be divided by zero. Zero, on the other hand, can be divided into 0 pieces with nothing left over.\n\n There is nothing that can be divided into zero pieces. That's like making something disappear into nothingness. Zero is a number; nothingness is not. This is the distinction.\n \n You're not grasping zachvac's point.\n For any number x, x*0 = 0. Therefore, dividing 0 by 0 should yield x. Clearly, it doesn't.\n \n If that still doesn't float your boat, use limits. The limit of x/0 as x approaches 0 from the positive side is infinity. The limit of x/0 as x approaches 0 from the negative side is negative infinity. Because the two limits are not identical, there is no real limit of x/0 as x approaches zero, and thus no real solution to x/0.\n \n (Now, any of you mathematicians out there are welcome to jump on me to explain why the limit of x/0 really is infinity...)", 
+   {}, 
+   238062, 
+   null, 
+   1162690800.0
+  ], 
+  [
+   238096, 
+   null, 
+   "Hi_Its_Me", 
+   "There is nothing that can be divided into zero pieces. That's like making something disappear into nothingness. Zero is a number; nothingness is not. This is the distinction.\n\n I agree that one cannot be divided like that. I do not see why zero could not be divided into zero pieces (with no remainder).\n \nYou're not grasping zachvac's point.\n For any number x, x*0 = 0. Therefore, dividing 0 by 0 should yield x. Clearly, it doesn't.\n\n If X*0 = 0,\n (X*0)/0 = (0)/0\n X*(0/0) = 0/0\n Therefore, if the first (0/0) = 1, then X = 0/0.\n \n Don't skip steps. You will miss things if you do.\n \nIf that still doesn't float your boat, use limits. The limit of x/0 as x approaches 0 from the positive side is infinity. The limit of x/0 as x approaches 0 from the negative side is negative infinity. Because the two limits are not identical, there is no real limit of x/0 as x approaches zero, and thus no real solution to x/0.\n\n I don't follow... Is there a real solution to x+5?\n \n(Now, any of you mathematicians out there are welcome to jump on me to explain why the limit of x/0 really is infinity...)\n\n I doubt it...\n I would say that 1/0 is greater than infinity.\n This is because 1/(1/2) = 2, 1/(1/10) = 10, 1/(1/1000) = 1000, and 1/(1/infinity) = infinity. 1/infinity is greater than zero, so 1/0 should be greater than infinity.", 
+   {}, 
+   238089, 
+   null, 
+   1162692300.0
+  ], 
+  [
+   238118, 
+   null, 
+   "electrolyte", 
+   "If X*0 = 0,\n (X*0)/0 = (0)/0\n X*(0/0) = 0/0\n Therefore, if the first (0/0) = 1, then X = 0/0.\n\n What the hell are you talking about? If 0/0 = 1, then 0/0 wouldn't equal 0, would it?\n Watch this: I've picked a number real number; we'll call it x.\n x * 0 = 0\n Please divide 0 by 0 and tell me which real number x is.\n x may be zero, it may be not zero. You can't tell, even if your fantasy mathematics are right. That's the problem.\n \n \nI don't follow... Is there a real solution to x+5?\n\n Of course you don't follow. You're not grasping sixth grade math. Why did I expect you to understand limits?\n \n \nI would say that 1/0 is greater than infinity.\n\n Then you would be wrong by definition (again). There is nothing greater than infinity.\n \n \n1/infinity is greater than zero...\n\n No, it's not. lim 1/x (as x -< inf) = 0. But you don't get that either, do you?", 
+   {}, 
+   238096, 
+   null, 
+   1162704660.0
+  ], 
+  [
+   238192, 
+   null, 
+   "zachvac", 
+   "\n If that still doesn't float your boat, use limits. The limit of x/0 as x approaches 0 from the positive side is infinity. The limit of x/0 as x approaches 0 from the negative side is negative infinity. Because the two limits are not identical, there is no real limit of x/0 as x approaches zero, and thus no real solution to x/0.\n \n\n \n Mathematically, how can you take the limit of x/0 as x approaches 0? No matter what x is it's undefined. Did you mistype that here? Did you perhaps mean 1/x as x approaches 0? I actually hadn't thought about that, it's pretty interesting. Instincively if we had to pick we'd pick 0 as a positive number, but if we take the limit from the right side we get a different answer than a limit from the left. When defining the limit to 0 as taking really small positive numbers, the limit being infinity makes perfect sense. You'd have to take 0 an infinite amount of times to get 1 (or 2, 3, etc.).", 
+   {}, 
+   238089, 
+   null, 
+   1162757460.0
+  ], 
+  [
+   238196, 
+   null, 
+   "zachvac", 
+   "I agree that one cannot be divided like that. I do not see why zero could not be divided into zero pieces (with no remainder).\n \n\n \n Take a look at a pie. There are 6 slices and 2 people. You divide 6 by 2 and get 3 so each person gets 3 slices. Now there are 0 slices left. 2 more peoplee come and want pie. There are 0 slices and 2 people. Divide 0/2 and get 0 so each person gets 0 slices. 0/2 is perfectly logical. Now everyone's gone. There are 0 slices left and 0 people who want pie. How much does each of those 0 people get? We could say 0, because that would work, but we could also say 10. If each of the 0 people get 10 slices that still means 0 are eaten because there are 0 people doing the eating of the 10 slices. Does that make sense?\n \n \n\n If X*0 = 0,\n (X*0)/0 = (0)/0\n X*(0/0) = 0/0\n Therefore, if the first (0/0) = 1, then X = 0/0.\n \n Don't skip steps. You will miss things if you do.\n \n\n Skip steps? Like the dividing by zero step? You can not divide by 0 when doing algebra such as this, otherwise I could do this.\n \n 4*x = 5*x\n 4x/0 = 5x/0\n infinity = infinity\n this is true so true for any x\n 4*1 = 5*1\n 4 = 5\n You can't divide by 0. That's the basis for all the \"proofs\" that 1=0, only they are better at hiding behind variables. You just straight up divided by 0.\n \n \n\n I don't follow... Is there a real solution to x+5?\n \n\n no. There's a real solution to a = x+5 (where a is any real number)\n \n For example:\n 0 = x+5\n x = -5.\n \n If you take the limit of x+5 as x approaches -5 from both sides you will get 0.\n \n\n I doubt it...\n I would say that 1/0 is greater than infinity.\n This is because 1/(1/2) = 2, 1/(1/10) = 10, 1/(1/1000) = 1000, and 1/(1/infinity) = infinity. 1/infinity is greater than zero, so 1/0 should be greater than infinity.\n\n \n Infinity is not a number you can do simple operations with. For example infinity+infinity = infinity\n infinity*infinity = infinity\n infinity-infinity does NOT equal 0 because they are not necessarily the same number. If something equals infinity basically it means its limit increases without bound. for 1/x as x gets close to 0, give me any number and I can get x small enough to make 1/x equal that number. A billion, a trillion, 999999999999999999999999999999999999999999999999999999999999999999999999999999999999. I can do it. That's what it means for a limit to increase without bound which we say that expression equals infinity. Infinity is not a number, it's a concept.", 
+   {}, 
+   238096, 
+   null, 
+   1162758060.0
+  ], 
+  [
+   238197, 
+   null, 
+   "electrolyte", 
+   "Mathematically, how can you take the limit of x/0 as x approaches 0?\n\n Whoops. Yes, I meant 1/x as x approaches 0. My mistake. Sorry for the confusion.\n \n Listen to what I mean, regardless of what I actually type...", 
+   {}, 
+   238192, 
+   null, 
+   1162758180.0
+  ], 
+  [
+   238200, 
+   null, 
+   "Hi_Its_Me", 
+   "What the hell are you talking about? If 0/0 = 1, then 0/0 wouldn't equal 0, would it?\n\n If a = b, then (a/c) = (b/c). This is known as the division property of equality.\n \n Now, if a = x*0, b = 0, and c = 0, then (x*0)/0 = 0/0.\n For the first term, (x*0)/0 = x*(0/0).\n Therefore, instead of the equation x = 0/0, the correct equation is x*(0/0) = 0/0, not x = 0/0.\n \n Remember that for the next section.\n \nWatch this: I've picked a number real number; we'll call it x.\n x * 0 = 0\n Please divide 0 by 0 and tell me which real number x is.\n x may be zero, it may be not zero. You can't tell, even if your fantasy mathematics are right. That's the problem.\n\n I cannot tell you what x is, because x is multiplied by (0/0). This either makes that side of the equation undefined or zero. x(0/0) does not equal x unless 0/0 = 1.\n \n Assuming 0/0 = 1 (or any other nonzero real number), I can show that 1 = 2. This will show that 0/0 is not equal to 1.\n x(squared)-x(squared) = (x*x)-(x*x)\n (x-x)(x+x) = x(x-x)\n x-x = 0\n (x-x)(x+x)/(x-x) = x(x-x)/(x-x)\n (x+x)(0/0) = x(0/0)\n If 0/0 = 1, then x+x = x\n 2x = x\n 2 = 1\n \n Therefore, 0/0 cannot be any nonzero real number.\n \nOf course you don't follow. You're not grasping sixth grade math. Why did I expect you to understand limits?\n\n I can understand it better in terms of 1/x. I've played with that particular hyperbola a bunch, and I know that when x = 0, it is unsolvable.\n \n By the way, what exact definiton do you use for division? That would be useful to know...\n \nThere is nothing greater than infinity.\n\n Bingo. My logic was that if 1/0 would have to be greater than infinity, it does not exist.\n \nNo, it's not. lim 1/x (as x -< inf) = 0. But you don't get that either, do you?\n\n I think I do now. Anyway, my point was to show that 1/0 was unsolvable. Can we accept that and move on?\n \nTake a look at a pie. There are 6 slices and 2 people. You divide 6 by 2 and get 3 so each person gets 3 slices. Now there are 0 slices left. 2 more peoplee come and want pie. There are 0 slices and 2 people. Divide 0/2 and get 0 so each person gets 0 slices. 0/2 is perfectly logical. Now everyone's gone. There are 0 slices left and 0 people who want pie. How much does each of those 0 people get? We could say 0, because that would work, but we could also say 10. If each of the 0 people get 10 slices that still means 0 are eaten because there are 0 people doing the eating of the 10 slices. Does that make sense?\n\n Yes, and that does seem to indicate that 0/0 could equal 10. However, assuming that can lead to proofs which indicate that 1 = 2. See above.\n \nSkip steps? Like the dividing by zero step? You can not divide by 0 when doing algebra such as this, otherwise I could do this.\n \n 4*x = 5*x\n 4x/0 = 5x/0\n infinity = infinity\n this is true so true for any x\n 4*1 = 5*1\n 4 = 5\n\n Therefore you can't multiply by zero, either. Watch:\n 4*x = 5*x\n 4x*0 = 5x*0\n 0 = 0\n So, for any x:\n 4*1 = 5*1\n 4 = 5\n \nYou can't divide by 0. That's the basis for all the \"proofs\" that 1=0, only they are better at hiding behind variables. \n\n I have not found such a proof that assumes that 0/0 = 0. I made one myself that assumes that it equals both 0 and 1, though.\n If you could show me such a proof that assumed that 0/0 = 0, I would stop arguing.\n \nYou just straight up divided by 0.\n\n I was quoting electrolyte:\n \nFor any number x, x*0 = 0. Therefore, dividing 0 by 0 should yield x. Clearly, it doesn't.\n\n My point was that dividing both sides by zero does not leave x alone in the first part. It leaves x(0/0).\n \nno. There's a real solution to a = x+5 (where a is any real number)\n \n For example:\n 0 = x+5\n x = -5.\n \n If you take the limit of x+5 as x approaches -5 from both sides you will get 0.\n\n My confusion was with two things: first, his using 0/x, and second, his asking for a solution for 1/x (updated). If x = 1, there is a solution. If x = 0, there is none. There is also a solution to x=5 when x = 42 (or any actual value).\n \n Anyway, that has been cleared up, so we can move on from that, too.\n \nInfinity is not a number you can do simple operations with. For example infinity+infinity = infinity\n infinity*infinity = infinity\n infinity-infinity does NOT equal 0 because they are not necessarily the same number. \n\n I know. Depending on various things, infinity-infinity can equal 2. That is fairly arbitrary.\n \nIf something equals infinity basically it means its limit increases without bound. for 1/x as x gets close to 0, give me any number and I can get x small enough to make 1/x equal that number. A billion, a trillion, 999999999999999999999999999999999999999999999999999999999999999999999999999999999999. I can do it. That's what it means for a limit to increase without bound which we say that expression equals infinity. Infinity is not a number, it's a concept.\n\n Yeah, electrolyte already made this point, and I think I will stop arguing about exactly why 1/0 is undefined. I am just trying to say that it makes sense to say that 0/0 = 0.", 
+   {}, 
+   238118, 
+   null, 
+   1162760640.0
+  ], 
+  [
+   238205, 
+   null, 
+   "electrolyte", 
+   "Therefore, instead of the equation x = 0/0, the correct equation is x*(0/0) = 0/0, not x = 0/0.\n\n No, see, I follow you, but you're not showing anything.\n \n \nI cannot tell you what x is, because x is multiplied by (0/0).\n\n No it's not. It's multiplied by plain zero.\n \n \nx(0/0) does not equal x unless 0/0 = 1.\n\n You had: x*(0/0) = 0/0\n Set z = 0/0.\n xz = z. Divide by z.\n x = 1.\n \n \nAssuming 0/0 = 1 (or any other nonzero real number), I can show that 1 = 2. This will show that 0/0 is not equal to 1.\n\n Oh, I agree. But your above \"proof\" showed that 0/0 is equal to one. In other words, by dividing by zero, you can prove that 0/0 is anything you want it to be. See below.\n \n \nI can understand it better in terms of 1/x. I've played with that particular hyperbola a bunch, and I know that when x = 0, it is unsolvable.\n\n Then you'll be able to work with 1/x and 2*(1/x):\n Assign f(x)=(1/x).\n Assign g(x)=(2/x).\n \n The limit of f(x) as x approaches infinity is 0.\n The limit of g(x) as x approaches infinity is 0.\n \n Now lets take the limit of f(x)/g(x) as x approaches infinity.\n \n lim (x app inf) 1/x = 0\n -------------------- ---\n lim (x app inf) 2/x = 0\n \n This is 0/0. Yet for any real value of x, our quotient is 1/2. Therefore, 0/0 = 1/2.\n \n Now let's do it again, with h(x)=1/x, and i(x)=3/x. Divide, and we get 0/0 = 1/3.\n \n Therefore, 1/2 = 1/3.\n \n j(x)=a/x, k(x)=b/x. Do it again, and we get 0/0 = a/b for any real numbers a and b. Therefore 0/0 = whatever you want it to be.\nBy the way, what exact definiton do you use for division? That would be useful to know...\n\n Division is inverse multiplication.\n \n \nBingo. My logic was that if 1/0 would have to be greater than infinity, it does not exist.\n\n But 1/0 doesn't have to be greater than infinity. Nothing does, and nothing can be.\n \n \nYes, and that does seem to indicate that 0/0 could equal 10.\n\n Or any other chosen number a/b.\n \n \nHowever, assuming that can lead to proofs which indicate that 1 = 2.\n\n Assuming what? That there is anything that can be divided by zero? Yes, it does! That's why you can't do it!\n \n \nI have not found such a proof that assumes that 0/0 = 0. I made one myself that assumes that it equals both 0 and 1, though. If you could show me such a proof that assumed that 0/0 = 0, I would stop arguing.\n\n The fact that the bolded part doesn't throw up a red flag big enough to make you stop arguing is absolutely astounding.\n \n \nI was quoting electrolyte:\n\n Yes, it was an effective demonstration of why one cannot divide by zero.\n \n \nMy point was that dividing both sides by zero does not leave x alone in the first part.\n\n It does when division is inverse multiplication, unless you have two different meanings of zero.\n \n \nYeah, electrolyte already made this point, and I think I will stop arguing about exactly why 1/0 is undefined. I am just trying to say that it makes sense to say that 0/0 = 0.\n\n But it doesn't make sense to say that 0/0 = 0, or anything, because there are an infinite number of counterexamples to any one chosen solution. See above.", 
+   {}, 
+   238200, 
+   null, 
+   1162764660.0
+  ], 
+  [
+   238215, 
+   null, 
+   "doG", 
+   "This thread reminds me of a phrase I've seen before:\n \n \n\"Better to keep your mouth closed and be thought a fool than to open it and remove all doubt\"\n", 
+   {}, 
+   238205, 
+   null, 
+   1162770180.0
+  ], 
+  [
+   238259, 
+   null, 
+   "Hi_Its_Me", 
+   "No, see, I follow you, but you're not showing anything.\n\n My point is that 0x = 0 cannot be used to show that 0/0 = any number.\n \nNo it's not. It's multiplied by plain zero.\n\n If you divide both sides of the equation 0x = 0 by zero, then x is multiplied by plain zero if 0/0 = 0. I thought you said you followed...\n \nYou had: x*(0/0) = 0/0\n Set z = 0/0.\n xz = z. Divide by z.\n x = 1.\n\n Let's see: would you agree that (0/0)/(0/0) = 1?\n That is required for z/z to equal 1, which is required for your conclusion (see multiplicative identity).\n \nOh, I agree. But your above \"proof\" showed that 0/0 is equal to one. In other words, by dividing by zero, you can prove that 0/0 is anything you want it to be. See below.\n\n It did not show that 0/0 = 1; it assumed that.\n The proof also showed that if 0/0 is a nonzero real number, 1 = 2.\n We know that 1 does not equal 2, so therefore 0/0 is not a nonzero real number.\n \nThen you'll be able to work with 1/x and 2*(1/x):\n Assign f(x)=(1/x).\n Assign g(x)=(2/x).\n \n The limit of f(x) as x approaches infinity is 0.\n The limit of g(x) as x approaches infinity is 0.\n \n Now lets take the limit of f(x)/g(x) as x approaches infinity.\n \n lim (x app inf) 1/x = 0\n -------------------- ---\n lim (x app inf) 2/x = 0\n \n This is 0/0. Yet for any real value of x, our quotient is 1/2. Therefore, 0/0 = 1/2.\n \n Now let's do it again, with h(x)=1/x, and i(x)=3/x. Divide, and we get 0/0 = 1/3.\n \n Therefore, 1/2 = 1/3.\n \n j(x)=a/x, k(x)=b/x. Do it again, and we get 0/0 = a/b for any real numbers a and b. Therefore 0/0 = whatever you want it to be.\n\n And most numbers that 0/0 could equal can be shown to produce a contradiction. As far as I know, assuming only that 0/0 = 0 cannot produce a contradiction.\n \nDivision is inverse multiplication.\n\n That isn't very useful in discussing a topic which is not taken into account for standard proofs and properties of equality.\n Because almost every number divided by zero undeniably results in an impossibility, 0/0 tends to be ignored. However, I see nothing contradictory in 0/0.\n \nOr any other chosen number a/b.\n\n I know. However, reaching a contradiction is considered a proof that a given situation (0/0 is not equal to a nonzero real number, in this case) is true.\n \nAssuming what? That there is anything that can be divided by zero? Yes, it does! That's why you can't do it!\n\n Actually, assuming that 0/0 = 1 leads to contradictions. Again, assuming that 0/0 can only equal zero does not lead to such contradictions.\n \nThe fact that the bolded part doesn't throw up a red flag big enough to make you stop arguing is absolutely astounding.\n\n My \"proof\" requires that 0/0 equal both zero and one. If a contradiction can be found that assumes only that 0/0 = 0, that will be enough. A \"proof\" assuming that 0 = 0/0 = 1 is no good as a counterexample for 0/0 = 0.\n \nYes, it was an effective demonstration of why one cannot divide by zero.\n\n Usually, if you divide a number by itself, you end up with one. That is not the case with zero.\n I have shown that dividing 0x = 0 by zero does not result in 0/0 = x.\n \nMy point was that dividing both sides by zero does not leave x alone in the first part.\n\n It does when division is inverse multiplication, unless you have two different meanings of zero.\n\n I thought you said you understood this:1) Begin with 0x = 0.\n 2) Divide both sides of the equation by 0: 0x/0 = 0/0.\n 3) Simplify: x(0/0) = 0/0.Note that x(0/0) is not equal to x unless you assume that 0/0 = 1.\n Also, 0/0 does not equal 1. I have already shown that.\n \nBut it doesn't make sense to say that 0/0 = 0, or anything, because there are an infinite number of counterexamples to any one chosen solution. See above.\n\n And a simple counterexample exists for all but 0/0 = 0.\n \nThis thread reminds me of a phrase I've seen before:\n \n\"Better to keep your mouth closed and be thought a fool than to open it and remove all doubt\"\n\n\n Talking to me, I assume?\n Personally, I don't think I've reached that point yet. I have some valid arguments, and a contradiction has not been shown for 0/0 = 0.\n \n By the way, did you think of me as a fool before I \"opened my mouth?\"", 
+   {}, 
+   238215, 
+   null, 
+   1162786440.0
+  ], 
+  [
+   238285, 
+   null, 
+   "electrolyte", 
+   "As far as I know, assuming only that 0/0 = 0 cannot produce a contradiction.\n\n Let us wade through the sludge and get right to the point, since rather than address my major point at all, you simply repeated your assertion:\n \n 0/0 \"can\" equal anything. If you pick an x and assume that 0/0 = x, then there are an infinite number of counterexamples to disprove the assumption.\n \n You want x to be zero. You say this assumption leads to no contradictions, but you are demonstrably wrong. The limits approach clearly allows me to pick any number and show that 0/0 is equal to that number; I did so with 1/2 and 1/3. This is contradictory to your assumption, and no amount of whining will change that.\n If, as you desire, we assume that 0/0 = 0, then f(x)/g(x) in my previous example must equal 0. It didn't. This is a contradiction. Thus your special pleading begins: You use an approach that shows that 2=1, then reject the conclusion because two is obviously not equal to one. But you ignore the very same concept when I use it: Just as 2 is not equal to 1, 0 is not equal to one-half, and 0 is not equal to one-third.\n \n Worse, your own \"proofs\" show that you're wrong. First you \"prove\" that 0/0 must equal one. Then you \"prove\" that 0/0 must not equal one, and therefore it is zero. As 1 is not equal to 0, there is clearly something wrong with your proofs (namely that you're dividing by zero). As I said before, the fact that you seem to be blind to this is astounding.\n \n I'm done with you concerning this topic, Hi. You're starting to sound like marc or EZ, and that should be the biggest red flag of them all.", 
+   {}, 
+   238259, 
+   null, 
+   1162795020.0
+  ], 
+  [
+   238393, 
+   null, 
+   "unkerpaulie", 
+   "0/0=X, where X is any and every number that exists. the exact value of X can never be expressed. all values of X satisfy this equation, including zero and infinity. you guys are ALL correct!", 
+   {}, 
+   238285, 
+   null, 
+   1162850820.0
+  ], 
+  [
+   238402, 
+   null, 
+   "Jo Bennett", 
+   "Saying 0/0 doesn't mean very much, you can only deal with it in terms of limits, as has already been pointed out. What 0/0 is depends on where you got those 0s from.", 
+   {}, 
+   238393, 
+   null, 
+   1162853400.0
+  ], 
+  [
+   238411, 
+   null, 
+   "Inyx", 
+   "It is fairly obvious that one (or any other nonzero number) cannot be divided by zero.\n However, could you divide zero by zero? It appears to be possible according to the definition of division.\n\n \n I'm sorry, I was sloppy at reading your post. emoticon_xangel Still, I still think that dividing nothing with nothing is absurd or as mathmoths ;) say: undefined.\n \n \n\n \n I missed the forum. I haven't explored this site fully yet.\n Do you think I should make a thread there and drop this?\n\n \n No, but you can ask the admin to move it, if you want.", 
+   {}, 
+   237965, 
+   null, 
+   1162857420.0
+  ], 
+  [
+   238432, 
+   null, 
+   "Hi_Its_Me", 
+   "I'm done with you concerning this topic, Hi.\n\n It isn't really getting anywhere, I suppose...\n I will back down on this one.\n \n I might change my mind sometime (I'm a bit confused now), but I will tell you if I do.\n \nYou're starting to sound like marc or EZ, and that should be the biggest red flag of them all.\n\n Don't forget SS.\n Or did it not get that bad from your perspective?", 
+   {}, 
+   238285, 
+   null, 
+   1162860720.0
+  ], 
+  [
+   238469, 
+   null, 
+   "zachvac", 
+   "OK, a lot of people are getting on the OP for continuing to argue. That's a good way to learn. I hope he understood that according to the rules of math he was wrong. I do that a lot. \"I know I'm wrong, here's my reasoning, where am I wrong\". Then try to back up my position and usually we get to the flaw in my reasoning pretty quickly. 0/0 does not equal 0 (as in we can't replace 0/0 with 0 in an equation) and I've done my best so far to explain to him why, so that he understands it rather than just is told \"you're wrong, just accept it\". That is a horrible way to learn and you won't learn anything if that's the way you're taught. If you are still confused, feel free to ask questions. This is a debate site, but this is not a debate, but a mathematical discussion. Feel free to ask more if you still don't understand, and I'll do my best to explain. The basic concept is that it's not possible to divide 0 pieces of anything among 0 people. It's pretty much impossible to grasp, it really doesn't matter how many pieces each 0 people have, there's still a total of 0. So we've decided to label it as undefined. Hopefully you understand at least the basics of the reason division by 0 is undefined. It just doesn't make sense dividing stuff into 0 parts. You can take limits of values that approach 0/0 or a/0, but never take the actual value of 0/0 or a/0, those are simply undefined.", 
+   {}, 
+   238432, 
+   null, 
+   1162870320.0
+  ], 
+  [
+   238471, 
+   null, 
+   "zachvac", 
+   "\n Therefore you can't multiply by zero, either. Watch:\n 4*x = 5*x\n 4x*0 = 5x*0\n 0 = 0\n So, for any x:\n 4*1 = 5*1\n 4 = 5\n \n\n Sorry, I made a mistake. The reason this is true is that 0*a is equal to 0*b for any real a or b. To perform an operation on an equation it must be one-to-one (the reason why we must check for extraneous solutions when squaring both sides). So in an equation you can't multiply both sides by 0 either and maintain the equality. All I've proven is that division by 0 is not one-to-one. Which is why when we examine division by 0 the only way to do it is to use limits. You can multiply by a number infinitely close to 0, just not 0. So you get (something really close to 0)/(something really close to 0), but they are not necessarily the same number, otherwise you would have 1. Or you could do 0/(something really close to 0) in which case you would get 0. But if they are different they could be any number on the number line. The problem is this is fuzzy, it depends how you approach the problem as to what answer you will get, which is the primary reason we have just said that 0/0 is undefined, but when we examine 2 unique numbers infinitely close to 0 we could get any real number, which is why we say it is an indeterminate form.", 
+   {}, 
+   238411, 
+   null, 
+   1162870800.0
+  ], 
+  [
+   238540, 
+   null, 
+   "jim's trucking", 
+   "Zero divided by zero equals one.\n \n Zero is contained within itself one time.", 
+   {}, 
+   238471, 
+   null, 
+   1162925880.0
+  ], 
+  [
+   238582, 
+   null, 
+   "zachvac", 
+   "and 2 times and 3 times and 4 times, etc.", 
+   {}, 
+   238540, 
+   null, 
+   1162937340.0
+  ], 
+  [
+   243311, 
+   null, 
+   "senior_defender", 
+   "0= nothing\n \n nothing by nothing = neant", 
+   {
+    "post_info": {
+     "post_title": "0+0"
+    }
+   }, 
+   238062, 
+   null, 
+   1166115720.0
+  ], 
+  [
+   243332, 
+   null, 
+   "jim's trucking", 
+   "0= nothing\n \n nothing by nothing = neant\nIf nothing is to be divided by nothing, no division can take place. Therefore,", 
+   {}, 
+   243311, 
+   null, 
+   1166119980.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Zero divided by zero", 
+  "url": "http://www.4forums.com/political/fun-debates/9106-zero-divided-zero.html", 
+  "breadcrumbs": [
+   "Fun"
+  ], 
+  "id_number": 9106, 
+  "discussion_files": [
+   [
+    "25769.html", 
+    "http://www.4forums.com/political/fun-debates/9106-zero-divided-zero-print.html"
+   ], 
+   [
+    "25770.html", 
+    "http://www.4forums.com/political/fun-debates/9106-zero-divided-zero-3-print.html"
+   ], 
+   [
+    "25771.html", 
+    "http://www.4forums.com/political/fun-debates/9106-zero-divided-zero-2-print.html"
+   ]
+  ], 
+  "identifier": 9106
+ }
+]

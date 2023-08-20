@@ -1,0 +1,412 @@
+[
+ [
+  [
+   125720, 
+   null, 
+   "Missouri Mule", 
+   "I am looking to get a centrino based notebook? I'm a cheapskate. What's the best deal for a quality unit? What brands?\n \n The other day we had a storm and somehow, someway, my wife's computer got its operating system messed up even though it was turned off. I guess something came in through the ethernet connection. I can't turn it off. I am reduced to pulling the plug. I tried to reinstall the operating system but it won't let me because it says I have a later version installed. I am not going to do a reformat or anything like that. Other than that it seems to work normally, although it seems to take a little longer to boot up. What's the best, quick and dirty way to fix this problem? It has XP Pro. It's a Dell 2400.", 
+   {
+    "post_info": {
+     "post_title": "Two questions"
+    }
+   }, 
+   null, 
+   null, 
+   1116631260.0
+  ], 
+  [
+   125807, 
+   null, 
+   "Duo_Maxwell", 
+   "First: $749\n http://www.toshibadirect.com/td/b2c/cmod.to?seg=HHO&coid=-28721&sel=0&rcid=-26367&ccid=1291021\n \n Toshiba is a decent brand. \n \n The cheapest Laptop on Dell is the $649 with centrino\n http://www1.us.dell.com/content/products/compare.aspx/inspn?c=us&cs=04&l=en&s=bsd\n \n The cheapest sony notebook period is running at a minuum $1000. \n \n What exactly do you want to do with it?\n \n Second: Try this: Start - Programs - Accessories - System Tools - System Restore. Then pick a date when your computer was working properly and restore to that date's settings. That usually solves most things. If that doesn't work, I don't think it's your OS that's the issue, it's likely something with the motherboard that got messed up. More on that later if that is the issue.", 
+   {}, 
+   125720, 
+   null, 
+   1116640140.0
+  ], 
+  [
+   125867, 
+   null, 
+   "Missouri Mule", 
+   "First: $749\n http://www.toshibadirect.com/td/b2c/cmod.to?seg=HHO&coid=-28721&sel=0&rcid=-26367&ccid=1291021\n \n Toshiba is a decent brand. \n \n The cheapest Laptop on Dell is the $649 with centrino\n http://www1.us.dell.com/content/products/compare.aspx/inspn?c=us&cs=04&l=en&s=bsd\n \n The cheapest sony notebook period is running at a minuum $1000. \n \n What exactly do you want to do with it?\n \n Second: Try this: Start - Programs - Accessories - System Tools - System Restore. Then pick a date when your computer was working properly and restore to that date's settings. That usually solves most things. If that doesn't work, I don't think it's your OS that's the issue, it's likely something with the motherboard that got messed up. More on that later if that is the issue.\n\n \n I just want something about six pounds with good battery life that I can look at the internet while I am watching the tube; mainly. Occasionally outside the home. Nothing heavy duty. \n \n I've already done that. The system works fine except it won't shut down properly. That would the motherboard?????\n \n I would like to take a stab at reinstalling the OS but as I say it won't because it says I have a later edition (the SP-2). I'd just like a quick and dirty way to fix this minor problem. I can keep shutting it down by pulling the plug (has no on/off switch) but I would rather it shut down properly.", 
+   {}, 
+   125807, 
+   null, 
+   1116651900.0
+  ], 
+  [
+   125878, 
+   null, 
+   "Duo_Maxwell", 
+   "You might be able to get something decent off Ebay. still though, everything under $700 for the most part is garbage. \n \n hmmm. try this. Right click anywhere on the screen so you get to display properties. Then go to screen saver - power. Then click on the \"advance\" tab and change the power button setting to \"when I press the power buttom on my computer\" change that to shutdown. \n \n but there's likely a very simple problem. you likely have some independent program running in the background that is interfering with shutdown. http://www.processlibrary.com, go to that site and type in your running processes from the Task Manager. Sure it's tedious but its likely to reveal the problem.\n \n How far back did you go with the system restore? It could be a hardware problem.", 
+   {}, 
+   125867, 
+   null, 
+   1116653580.0
+  ], 
+  [
+   125882, 
+   null, 
+   "Redratio1", 
+   "\n The other day we had a storm and somehow, someway, my wife's computer got its operating system messed up even though it was turned off. I guess something came in through the ethernet connection. I can't turn it off. I am reduced to pulling the plug. I tried to reinstall the operating system but it won't let me because it says I have a later version installed. I am not going to do a reformat or anything like that. Other than that it seems to work normally, although it seems to take a little longer to boot up. What's the best, quick and dirty way to fix this problem? It has XP Pro. It's a Dell 2400.\n\n \n 1. Boot from the windowsXP install CD (make sure you boot from it).\n 2. When it asks you to install a new version or repair an existing one, chose the install.\n 3. When it asks where to put the install, choose the disk with the OS on it. \n 4. It will give you a warning, but ignore it.\n 5. It will ask you whether to format or delete a partition. Try formating the partition (you'll lose all info on disk), if that doesn't work delete the partition all together and then format.\n 6. Re-install OS.\n \n If you still can't make the OS stick, make a new partition and load the OS onto that, then reformat your HD.\n \n If you think it is the BIOS, try re-flashing your BIOS. Look at the manufacturer's website for detail on that.\n \n Hope that helps.", 
+   {}, 
+   125720, 
+   null, 
+   1116653940.0
+  ], 
+  [
+   126001, 
+   null, 
+   "Missouri Mule", 
+   "1. Boot from the windowsXP install CD (make sure you boot from it).\n 2. When it asks you to install a new version or repair an existing one, chose the install.\n 3. When it asks where to put the install, choose the disk with the OS on it. \n 4. It will give you a warning, but ignore it.\n 5. It will ask you whether to format or delete a partition. Try formating the partition (you'll lose all info on disk), if that doesn't work delete the partition all together and then format.\n 6. Re-install OS.\n \n If you still can't make the OS stick, make a new partition and load the OS onto that, then reformat your HD.\n \n If you think it is the BIOS, try re-flashing your BIOS. Look at the manufacturer's website for detail on that.\n \n Hope that helps.\n\n \n OK, this is where I am dumb, dumb, dumb. I inserted the CD into the computer at startup but it didn't boot from it. What should I have done? Do I like hit F12 or something like that?", 
+   {}, 
+   125882, 
+   null, 
+   1116693840.0
+  ], 
+  [
+   126004, 
+   null, 
+   "Missouri Mule", 
+   "You might be able to get something decent off Ebay. still though, everything under $700 for the most part is garbage. \n \n hmmm. try this. Right click anywhere on the screen so you get to display properties. Then go to screen saver - power. Then click on the \"advance\" tab and change the power button setting to \"when I press the power buttom on my computer\" change that to shutdown. \n \n but there's likely a very simple problem. you likely have some independent program running in the background that is interfering with shutdown. http://www.processlibrary.com, go to that site and type in your running processes from the Task Manager. Sure it's tedious but its likely to reveal the problem.\n \n How far back did you go with the system restore? It could be a hardware problem.\n\n \n That's another problem. It only allows me to restore from the highlighted dates. Usually just a couple of recent dates The other dates do nothing. What's that all about? I don't have that problem with this computer (Dell 4600). It has several available restore points. This one is working fine.", 
+   {}, 
+   125878, 
+   null, 
+   1116694200.0
+  ], 
+  [
+   126009, 
+   null, 
+   "Redratio1", 
+   "OK, this is where I am dumb, dumb, dumb. I inserted the CD into the computer at startup but it didn't boot from it. What should I have done? Do I like hit F12 or something like that?\n\n \n When your computer boot, right after the beep, press F2 or Del. \n \n This will send you into the BIOS for your motherboard.\n \n Hunt around for the option \"boot order\" or some such thing. \n \n Choose the order: 1. Floppy, 2. CD-Rom, 3. HD\n \n Save the settings and exit the BIOS.\n \n Insert the CD and boot from it.", 
+   {}, 
+   126001, 
+   null, 
+   1116695220.0
+  ], 
+  [
+   126029, 
+   null, 
+   "Missouri Mule", 
+   "When your computer boot, right after the beep, press F2 or Del. \n \n This will send you into the BIOS for your motherboard.\n \n Hunt around for the option \"boot order\" or some such thing. \n \n Choose the order: 1. Floppy, 2. CD-Rom, 3. HD\n \n Save the settings and exit the BIOS.\n \n Insert the CD and boot from it.\n\n \n OK, I have done that. But will it also reformat the entire drive and will I lose all the data on the drive contained therein and all the settings? Remember, I only want to get it turn off properly. I can still do that by pulling the plug.", 
+   {}, 
+   126009, 
+   null, 
+   1116697500.0
+  ], 
+  [
+   126034, 
+   null, 
+   "Redratio1", 
+   "OK, I have done that. But will it also reformat the entire drive and will I lose all the data on the drive contained therein and all the settings? Remember, I only want to get it turn off properly. I can still do that by pulling the plug.\n\n \n Well this will successfully reformat your drive.\n \n Another option other than reformat on that disk is to repair Windows. That should be an option. That will only copy over windows files, but you will have to reinstall all updates.", 
+   {}, 
+   126029, 
+   null, 
+   1116698040.0
+  ], 
+  [
+   126040, 
+   null, 
+   "Missouri Mule", 
+   "Well this will successfully reformat your drive.\n \n Another option other than reformat on that disk is to repair Windows. That should be an option. That will only copy over windows files, but you will have to reinstall all updates.\n\n \n I'm glad I asked. I can reinstall the updates easily enough.\n \n Ok, an update. I booted off the CD and it worked, but slowly. However, I could shut down the computer so the hard disk file must be corrupted. I attempted to repair the files but then it asked me for something that didn't work. Asked me for what windows to repair. I typed c and then it gave me an error message. No explanation. This is a DOS screen. What now?\n \n Ok, I think I may have stumbled onto a fix. Don't know exactly how I did it but I believe it is now reinstalling the Windows files. I do know it had to be a corrupted file as it would shut off from the CD disk. \n \n My advice to anyone from my own experience is to assume that if the DSL modem is on during a lightning storm and even if your computer is shut off, assume it is possible to screw up your hard drive files. From here on out, I intend to shut down the modem along with the computers during a storm and to shut it down in the evening.", 
+   {}, 
+   126034, 
+   null, 
+   1116698520.0
+  ], 
+  [
+   126117, 
+   null, 
+   "Duo_Maxwell", 
+   "it might be even possible if the modem is off for a eletrical current to ride up the CAT5E and cause problems. Just detach your computer from every external input.", 
+   {}, 
+   126040, 
+   null, 
+   1116707340.0
+  ], 
+  [
+   126142, 
+   null, 
+   "Redratio1", 
+   "Tell us how it went MM.", 
+   {}, 
+   126117, 
+   null, 
+   1116709920.0
+  ], 
+  [
+   126152, 
+   null, 
+   "Missouri Mule", 
+   "OK, here is the latest. Now the computer will shut down properly, but it is taking \"forever\" to boot up. I was testing a program (Registry Mechanic} to see if I had any registry entry problems and it fixed one but left some 76 others to fix after I paid $30. It may well be a terrific program but what I don\\'t understand is how all of these problems got on the hard drive. Should I just go ahead and pay for it or is there another way or some freeware out there? I doubt I will need to do this very often.", 
+   {}, 
+   126142, 
+   null, 
+   1116710820.0
+  ], 
+  [
+   126153, 
+   null, 
+   "Missouri Mule", 
+   "it might be even possible if the modem is off for a eletrical current to ride up the CAT5E and cause problems. Just detach your computer from every external input.\n\n \n Hmmmm. That\\'s interesting and it does tend to confirm my suspicions that something happened to the hard drive files even though the computer was off. Thanks for the advice. I thought I had everything covered.", 
+   {}, 
+   126117, 
+   null, 
+   1116711000.0
+  ], 
+  [
+   126159, 
+   null, 
+   "Redratio1", 
+   "OK, here is the latest. Now the computer will shut down properly, but it is taking \"forever\" to boot up. I was testing a program (Registry Mechanic} to see if I had any registry entry problems and it fixed one but left some 76 others to fix after I paid $30. It may well be a terrific program but what I don't understand is how all of these problems got on the hard drive. Should I just go ahead and pay for it or is there another way or some freeware out there? I doubt I will need to do this very often.\n\n \n Go to \"Run\" on your start menu and type msconfig\n \n Goto the last tab that says start up.\n \n If you have a lot of stuff checked, uncheck the stuff you know you won't need. Reboot.\n \n Next defrag your drive.\n \n If that still doesn't work, you might have other issues...", 
+   {}, 
+   126152, 
+   null, 
+   1116711600.0
+  ], 
+  [
+   126169, 
+   null, 
+   "Redratio1", 
+   "I forgot to add: When you reinstalled windows you lost all you device drivers. So you either have to get the Dell disk with the missing ones windows doesn't automatically provide you with, or download them from Dell's website.", 
+   {}, 
+   126159, 
+   null, 
+   1116712380.0
+  ], 
+  [
+   126175, 
+   null, 
+   "Missouri Mule", 
+   "Go to \"Run\" on your start menu and type msconfig\n \n Goto the last tab that says start up.\n \n If you have a lot of stuff checked, uncheck the stuff you know you won't need. Reboot.\n \n Next defrag your drive.\n \n If that still doesn't work, you might have other issues...\n\n \n I've done that. I really didn't find all that much there that looked like it could cause the slow boot-up.", 
+   {}, 
+   126159, 
+   null, 
+   1116712980.0
+  ], 
+  [
+   126177, 
+   null, 
+   "Missouri Mule", 
+   "I forgot to add: When you reinstalled windows you lost all you device drivers. So you either have to get the Dell disk with the missing ones windows doesn't automatically provide you with, or download them from Dell's website.\n\n \n This is one area that I really don't understand all that well; the business about \"drivers.\" What about those 76 registry entries that apparently don't need to be there. Wouldn't the computer be looking at those and slowing down as a result?", 
+   {}, 
+   126169, 
+   null, 
+   1116713100.0
+  ], 
+  [
+   126178, 
+   null, 
+   "Redratio1", 
+   "This is one area that I really don't understand all that well; the business about \"drivers.\" What about those 76 registry entries that apparently don't need to be there. Wouldn't the computer be looking at those and slowing down as a result?\n\n \n You can back up your registry, then delete those 76. See what happens.\n \n Anyway, the drivers are libraries of code that allow the OS to speak to devices. Check the device manager for any missing stuff.", 
+   {}, 
+   126177, 
+   null, 
+   1116713220.0
+  ], 
+  [
+   126181, 
+   null, 
+   "Missouri Mule", 
+   "You can back up your registry, then delete those 76. See what happens.\n \n Anyway, the drivers are libraries of code that allow the OS to speak to devices. Check the device manager for any missing stuff.\n\n \n 1) How do you back up the registry?\n \n 2) How do I check the device manager for any missing stuff?\n \n I generally understand the need to do this but have never fully understood how to do this. So I've relied on third party software to take care of these tasks.", 
+   {}, 
+   126178, 
+   null, 
+   1116713400.0
+  ], 
+  [
+   126186, 
+   null, 
+   "Redratio1", 
+   "1) How do you back up the registry?\n \n Goto Run in the start menu and type regedit.\n Goto File menu on regedit and choose export..\n \n 2) How do I check the device manager for any missing stuff?\n \n Right click 'my comp' and click hardware tab, device manager is there.", 
+   {}, 
+   126181, 
+   null, 
+   1116713640.0
+  ], 
+  [
+   126191, 
+   null, 
+   "Missouri Mule", 
+   "1) How do you back up the registry?\n \n Goto Run in the start menu and type regedit.\n Goto File menu on regedit and choose export..\n \n 2) How do I check the device manager for any missing stuff?\n \n Right click 'my comp' and click hardware tab, device manager is there.\n\n \n Thanks. I'll give it a try later. Right now my wife is working at her computer and it is otherwise working fine.", 
+   {}, 
+   126186, 
+   null, 
+   1116714480.0
+  ], 
+  [
+   126317, 
+   null, 
+   "Duo_Maxwell", 
+   "Hmmmm. That's interesting and it does tend to confirm my suspicions that something happened to the hard drive files even though the computer was off. Thanks for the advice. I thought I had everything covered.\n\n \n The staistically probabiltiy of that is astronomically small, but it could happen. And if it did happen, since the CAT5E is plugged directly into your motherboard that would fry first before it hit anything else, but there may be a even smaller possibility that the current ran along the board and didn't cause damage. \n \n You're going to have to consult a eletrical engineer for that one.", 
+   {}, 
+   126153, 
+   null, 
+   1116727680.0
+  ], 
+  [
+   126430, 
+   null, 
+   "Missouri Mule", 
+   "Well, the latest is that it is up to its old tricks. It won't shut down. Yet it shut down earlier. This time the machine sat idly for several hours. It almost makes me wonder if the power management settings were messed up. \n \n BTW, anyone know about the software mentioned above?\n \n I suppose that the final solution would be to reformat the drive and reinstall everything but that makes me ill to think about it. There has to be an easier way.", 
+   {}, 
+   126317, 
+   null, 
+   1116742560.0
+  ], 
+  [
+   126740, 
+   null, 
+   "Duo_Maxwell", 
+   "when was the last time you ran a adware scan or a virus scan? \n \n Did you run any Xp updates? \n \n What does your power options say? (under screen saver - power)", 
+   {}, 
+   126430, 
+   null, 
+   1116795240.0
+  ], 
+  [
+   126764, 
+   null, 
+   "daewoo", 
+   "If it is an electrical problem, it may well be amain board problem. You cannot turn modern computers \"off\" unless they are either unplugged or the switch ont he power supply is in the \"off\" positon (ont heback of the ocmputer). The rest fo the time the computer is always pulling some current. A lightning strik to the line or somethign similar can still fry the machine.\n \n Do you have it plugged into a good surge protector? the things you buy at walk mart for $6 are not good surge protectors. A good surge protector will cost you about $100. Also (I know it sounds stupid), is the computefr crounded? have you ever used a plug tester to ensure that the outlet the computer is plussged into has a solid ground? fro most things it does not matter. With computers, it does.\n \n If it is not a hardware problem, your best bet is probably to make backups of your files then do a fromat and re-install. That is just the price of running windows. A better solution than burning CDs or DVDs may be (depending on the amout of data to back up) to get an extra hard drive. You can pick up a 20-30 gb drive on Ebay for song and a dance. Install it in your amchine, format it witha fat32 file system (NOT NTFS, which can only be read by NT based machines or linux).\n \n Backup your files to your new, small hard drive. Load windows ME, THEN load windows XP. You will end up with a dual boot machine. A menu will pop up for a second each time you boot with the option of booting to either XP or windows ME. That way when XP crashes you still have a graphical OS to work from in repairing it.", 
+   {}, 
+   126740, 
+   null, 
+   1116797280.0
+  ], 
+  [
+   127046, 
+   null, 
+   "Missouri Mule", 
+   "I'm just now getting back to this board and I was doing some checking on that hard drive and up popped a message about a bad surface on the hard drive. This tends to confirm my suspicions that some of the files there are corrupted and preventing it from working properly. Now the machine is oddly shutting down but taking forever to boot up. What is also interesting is how the hard drive light doesn't light for a long time and then it will start to work again. It's late and I'll look at again tomorrow. Many thanks to everyone for their assistance and suggestions.", 
+   {}, 
+   126764, 
+   null, 
+   1116833220.0
+  ], 
+  [
+   127049, 
+   null, 
+   "Missouri Mule", 
+   "If it is an electrical problem, it may well be amain board problem. You cannot turn modern computers \"off\" unless they are either unplugged or the switch ont he power supply is in the \"off\" positon (ont heback of the ocmputer). The rest fo the time the computer is always pulling some current. A lightning strik to the line or somethign similar can still fry the machine.\n \n Do you have it plugged into a good surge protector? the things you buy at walk mart for $6 are not good surge protectors. A good surge protector will cost you about $100. Also (I know it sounds stupid), is the computefr crounded? have you ever used a plug tester to ensure that the outlet the computer is plussged into has a solid ground? fro most things it does not matter. With computers, it does.\n \n If it is not a hardware problem, your best bet is probably to make backups of your files then do a fromat and re-install. That is just the price of running windows. A better solution than burning CDs or DVDs may be (depending on the amout of data to back up) to get an extra hard drive. You can pick up a 20-30 gb drive on Ebay for song and a dance. Install it in your amchine, format it witha fat32 file system (NOT NTFS, which can only be read by NT based machines or linux).\n \n Backup your files to your new, small hard drive. Load windows ME, THEN load windows XP. You will end up with a dual boot machine. A menu will pop up for a second each time you boot with the option of booting to either XP or windows ME. That way when XP crashes you still have a graphical OS to work from in repairing it.\n\n \n Yes, I do have it hooked up to a good surge protector but at the time the computer wasn't even on. However, the DSL telephone cable was hooked into the modem and the ethernet cable was attached. We had what I believe was a tornado that passed overhead and the power was surging something terrible at the time. Afterwards I had to contact Sprint to get this computer back up and on the internet. Some settings were changed but it is working fine. It is my wife's computer that otherwise works OK except for the shutting down (original problem) and now the slow booting up situation. Is it possible to do a scanddisk on XP Pro? All I see is defragmentation and not a scandisk. ????\n \n BTW, it booted up just fine off the CD although that is a slow process.", 
+   {}, 
+   126764, 
+   null, 
+   1116833400.0
+  ], 
+  [
+   127050, 
+   null, 
+   "daewoo", 
+   "BACKUP BACKUP BACKUP.\n \n Your drive might be frying (they often fry slowly).", 
+   {}, 
+   127046, 
+   null, 
+   1116833460.0
+  ], 
+  [
+   127059, 
+   null, 
+   "Duo_Maxwell", 
+   "yes the drive is going. My advice. Turn your computer off. Get a new drive, external if possible, copy your files over and the replace the internal drive. \n \n Mule, follow these directions.\n \n Start - Adminstrative Tools - Computer Management - Under Storage click on \"disk management.\" That should tell you the health of your drive. \n \n If adminstrative tools are not there, go to taskbar and start menu properties, start menu, customize and then check the box that says \"display adminstrative tools.\"", 
+   {}, 
+   127050, 
+   null, 
+   1116834540.0
+  ], 
+  [
+   127265, 
+   null, 
+   "Missouri Mule", 
+   "Says \"healthy.\" Now what? \n \n If I have a bad section of the physical hard drive that is damaged and I need to move that part of the operating system that isn't working to another part of the drive (I have tons of room), how do I do that? In the old days of DOS I just did a chkdsk /f and it would be taken care of. Can I still do that by going into DOS while having XP Pro as my operating system?", 
+   {}, 
+   127059, 
+   null, 
+   1116870120.0
+  ], 
+  [
+   127422, 
+   null, 
+   "Redratio1", 
+   "Says \"healthy.\" Now what? \n \n If I have a bad section of the physical hard drive that is damaged and I need to move that part of the operating system that isn't working to another part of the drive (I have tons of room), how do I do that? In the old days of DOS I just did a chkdsk /f and it would be taken care of. Can I still do that by going into DOS while having XP Pro as my operating system?\n\n \n Chkdsk is a disk tool in XP. Once you run it you will have to reboot for it run. It requires control of the OS to run a thorough disk check.\n \n Have you checked your BIOS setting on you power settings?", 
+   {}, 
+   127265, 
+   null, 
+   1116883320.0
+  ], 
+  [
+   127465, 
+   null, 
+   "Missouri Mule", 
+   "Chkdsk is a disk tool in XP. Once you run it you will have to reboot for it run. It requires control of the OS to run a thorough disk check.\n \n Have you checked your BIOS setting on you power settings?\n\n \n Assume for the purposes of this question that I am a blooming idiot. Walk me through the steps here exactly what I am to do. I want to run something that will tell me for sure whether or not there is a physical problem with the disk. That's the first step I need to do before I attempt any repair. I was doing a defragmenting and I was told by \"System Mechanic 5\" that I needed to do a scandisk but I can't even find it listed as an executable file in XP. And if there is a physical problem in the \"boot sector\" can it even be repaired?\n \n All that I know for a certainty is that it is slow to boot up. Much too long and for lenghty periods the HD light doesn't come on and then it mysteriously completes the process and the windows screen comes up with the icons. Then it works normally. Previously it didn't close down. Now that problem went away and this new problem that didn't exist originally has taken its place.", 
+   {}, 
+   127422, 
+   null, 
+   1116891840.0
+  ], 
+  [
+   127542, 
+   null, 
+   "Big_Bear_Scot", 
+   "All that I know for a certainty is that it is slow to boot up. Much too long and for lenghty periods the HD light doesn't come on and then it mysteriously completes the process and the windows screen comes up with the icons. Then it works normally. Previously it didn't close down. Now that problem went away and this new problem that didn't exist originally has taken its place.\n \n \n Is this problem at very start of boot up process ? or is it at the stage when Windows loads up ?", 
+   {}, 
+   127465, 
+   null, 
+   1116899100.0
+  ], 
+  [
+   127765, 
+   null, 
+   "Redratio1", 
+   "Assume for the purposes of this question that I am a blooming idiot. Walk me through the steps here exactly what I am to do. I want to run something that will tell me for sure whether or not there is a physical problem with the disk. That's the first step I need to do before I attempt any repair. I was doing a defragmenting and I was told by \"System Mechanic 5\" that I needed to do a scandisk but I can't even find it listed as an executable file in XP. And if there is a physical problem in the \"boot sector\" can it even be repaired?\n\n \n \n Ok, next time I'm charging you! HA! Just kidding.\n \n Ok, double click 'my comp' on your OS HD right click and choose the 'tools' tab. There should be a scan disk. Chose it, and check all tests. Click 'ok' and it will ask you if you want to reboot.\n \n If it is not your disk after that, you can try 4 things.\n 1. Reset you BIOS to defaults.\n 2. Reflash your BIOS\n 3. Check your drivers\n 4. typing fdisk /mbr to fix the master boot record. Unfortunately you will need a Windows 95/98/Me boot floppy for that. If you ask nice I might be able to e-mail you a boot file! Heh...ya got to beg though!", 
+   {}, 
+   127465, 
+   null, 
+   1116936960.0
+  ], 
+  [
+   128063, 
+   null, 
+   "daewoo", 
+   "Or go to www.bootdisk.com and save groveling for a later time", 
+   {}, 
+   127765, 
+   null, 
+   1116974820.0
+  ], 
+  [
+   128640, 
+   null, 
+   "Missouri Mule", 
+   "It's fixed. Reformatted and reinstalled. Learned a good deal and I'll know what to do the next time. I can't explain it but it appears that there was about 16 copies of the operating system installed. That was what was slowing down the start-up. Now it is humming like a fine tuned engine. Still have to install the latest video driver but it is fine now. Thanks to everyone for their advice.", 
+   {}, 
+   128063, 
+   null, 
+   1117091760.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Two questions", 
+  "url": "http://www.4forums.com/political/computers/5326-two-questions.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 5326, 
+  "discussion_files": [
+   [
+    "2508.html", 
+    "http://www.4forums.com/political/computers/5326-two-questions-print.html"
+   ], 
+   [
+    "2509.html", 
+    "http://www.4forums.com/political/computers/5326-two-questions-3-print.html"
+   ], 
+   [
+    "2510.html", 
+    "http://www.4forums.com/political/computers/5326-two-questions-2-print.html"
+   ]
+  ], 
+  "identifier": 5326
+ }
+]

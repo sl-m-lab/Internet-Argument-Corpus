@@ -1,0 +1,634 @@
+[
+ [
+  [
+   193874, 
+   null, 
+   "Kronus", 
+   "Here's a little math puzzle.\n \n You're on the Price is Right. You're shown three doors, and told that behind one is a fabulous prize, while beind the other two are nothing. You pick one of the doors. After you've picked Bob Barker opens one of the two remaining doors, showing you that there's nothing behind it, and gives you the option to change your pick. If you want to win the prize is your best strategy:\n \n A) Stick with your original pick\n B) Choose the other unopened door\n C) Doesn't matter", 
+   {
+    "post_info": {
+     "post_title": "The Price is Right"
+    }
+   }, 
+   null, 
+   null, 
+   1137946440.0
+  ], 
+  [
+   193875, 
+   null, 
+   "Symbiote", 
+   "Doesn't matter, either way your chances are 1/2?", 
+   {}, 
+   193874, 
+   null, 
+   1137946680.0
+  ], 
+  [
+   193880, 
+   null, 
+   "pandion", 
+   "Doesn't matter, either way your chances are 1/2?\nNope. Statistically speaking, your best bet is to switch doors.", 
+   {}, 
+   193875, 
+   null, 
+   1137947280.0
+  ], 
+  [
+   193883, 
+   null, 
+   "Wez", 
+   "Nope. Statistically speaking, your best bet is to switch doors.\n\n I don't follow.emoticon_wow \n \n I'd have thought it's 50-50, IF Bob Barker knows which door the prize is behind.\n \n -Wez", 
+   {}, 
+   193880, 
+   null, 
+   1137947940.0
+  ], 
+  [
+   193885, 
+   null, 
+   "Kronus", 
+   "I don't follow.emoticon_wow \n \n I'd have thought it's 50-50, IF Bob Barker knows which door the prize is behind.\n \n -Wez\n\n \n Bob does know where the prize is. He will always open an empty door.", 
+   {}, 
+   193883, 
+   null, 
+   1137949140.0
+  ], 
+  [
+   193952, 
+   null, 
+   "JPSartre12", 
+   "Stick with your original pick or switch. It doesn't matter. You have a 50/50 chance either way.\n Prior events have no effect on future choices. If you got 20 heads in a row on a coin flip, the probability of getting a heads on the 21st flip is still 50/50.", 
+   {}, 
+   193885, 
+   null, 
+   1137961440.0
+  ], 
+  [
+   193953, 
+   null, 
+   "Wez", 
+   "Bob does know where the prize is. He will always open an empty door.\n\n Surely it's a 50/50 chance then regardles of whether you stick or switch?\n \n -Wez", 
+   {}, 
+   193885, 
+   null, 
+   1137961560.0
+  ], 
+  [
+   193957, 
+   null, 
+   "lord tammerlain", 
+   "Choose the other unopened door.\n \n There is a 1 in three chance that each door has the prise.\n \n When one of the doors without the prise is opened, it's 1/3 chance of having the prise moves to the other unopend and un chosen door, providing a 2/3 chance of being the door with the prise vs a 1/3 chance of the door you picked of having the prise.", 
+   {}, 
+   193953, 
+   null, 
+   1137962340.0
+  ], 
+  [
+   193974, 
+   null, 
+   "JPSartre12", 
+   "Choose the other unopened door.\n \n There is a 1 in three chance that each door has the prise.\n \n When one of the doors without the prise is opened, it's 1/3 chance of having the prise moves to the other unopend and un chosen door, providing a 2/3 chance of being the door with the prise vs a 1/3 chance of the door you picked of having the prise.\n\n \n The probability of an event occurring is independent from past events.", 
+   {}, 
+   193957, 
+   null, 
+   1137966360.0
+  ], 
+  [
+   193979, 
+   null, 
+   "Kronus", 
+   "Surely it's a 50/50 chance then regardles of whether you stick or switch?\n \n -Wez\n\n \n Nope, you have a 2 in 3 chance of winning if you switch. \n \n The chances of you choosing correctly the first time are 1 in 3, right? That means there's a 2 in 3 chance the prize is actually behind one of the other doors. Bob shows you which of those other two doesn't have the prize, so there's a 2 in 3 chance that the prize is behind the other one. Switching is your best bet.", 
+   {}, 
+   193953, 
+   null, 
+   1137967380.0
+  ], 
+  [
+   193985, 
+   null, 
+   "lord tammerlain", 
+   "The probability of an event occurring is independent from past events.\n\n \n \n Right\n \n The probablity of each door having the prise is 1/3rd and that does not change. The probability of just switches over to the other unopened door providing a 2/3 rd change", 
+   {}, 
+   193974, 
+   null, 
+   1137968340.0
+  ], 
+  [
+   193992, 
+   null, 
+   "JPSartre12", 
+   "Right\n \n The probablity of each door having the prise is 1/3rd and that does not change. The probability of just switches over to the other unopened door providing a 2/3 rd change\n\n \n The probability of any single door having the prize is .33 BEFORE one of the doors is opened. After that point, there are two possibilities, equally probable, hence 50/50.", 
+   {}, 
+   193985, 
+   null, 
+   1137969180.0
+  ], 
+  [
+   193995, 
+   null, 
+   "Jo Bennett", 
+   "The probability of any single door having the prize is .33 BEFORE one of the doors is opened. After that point, there are two possibilities, equally probable, hence 50/50.\n\n \n That seems logical but any statistician will tell you that's not the case (it was one of the questions asked of us in our first year probability course)", 
+   {}, 
+   193992, 
+   null, 
+   1137970620.0
+  ], 
+  [
+   193996, 
+   null, 
+   "Wez", 
+   "The probability of any single door having the prize is .33 BEFORE one of the doors is opened. After that point, there are two possibilities, equally probable, hence 50/50.\n\n Kronus is right.\n \n [links removed]\n \n -Wez", 
+   {}, 
+   193992, 
+   null, 
+   1137970800.0
+  ], 
+  [
+   194008, 
+   null, 
+   "Kronus", 
+   "The probability of any single door having the prize is .33 BEFORE one of the doors is opened. After that point, there are two possibilities, equally probable, hence 50/50.\n\n \n But the two possibilities aren't equally probable. Two thirds of the time Bob is forced to open one door, leaving the prize behind the other. Only one third of the time does Bob have a choice on which door to open. If Bob opened a door before you chose one, then your analysis would be correct. Since he opens one after you choose, you're forcing his choice 2 out of 3 times.", 
+   {}, 
+   193992, 
+   null, 
+   1137972900.0
+  ], 
+  [
+   194009, 
+   null, 
+   "Kronus", 
+   "Kronus is right.\n \n \n -Wez\n\n \n Could I prevail upon you to delete those links for now? I'd like to see how the various arguments play out without outside interference, as it were.\n \n Thanks. :)", 
+   {}, 
+   193996, 
+   null, 
+   1137973020.0
+  ], 
+  [
+   194019, 
+   null, 
+   "Ooaman", 
+   "If you did pick the right door, wouldn't Bob still remove one that you didn't mention and therefor which ever one he opens didn't have the prize while you still picked the correct one? Why would the one that Bob removes change the chances you had of being correct in the first place. It's also like Who Wants To Be A Millionaire. Say this was your question and choices...\n \nWhat is a Microsoft program that allows you to show slides?\n \n A. Word.......................................................B. Excel\n C. PowerPoint...............................................D. Flight Simulator\n\n \n Even if you choose C, Regis (or now the woman who they have on their now who I don't know her name) would still say \"Is that your final answer?\"\n \n You have it right with C. PowerPoint and the phrase \"Is that your final answer?\" while it would a lot of times cause the contestants to want to change thier mind, it doesn't mean that you were wrong.", 
+   {}, 
+   194009, 
+   null, 
+   1137975480.0
+  ], 
+  [
+   194024, 
+   null, 
+   "Kronus", 
+   "If you did pick the right door, wouldn't Bob still remove one that you didn't mention and therefor which ever one he opens didn't have the prize while you still picked the correct one? Why would the one that Bob removes change the chances you had of being correct in the first place. \n \n\n \n The fact that Bob opens another door doesn't change the odds that you were right the first time. Those odds are still 1 in 3. Which means your odds of being wrong were 2 in 3. In other words, your first choice was probably wrong. And since Bob has opened one of the other doors, there's only one other choice at that point. Your first choice is wrong 2/3 of the time, and there's only one other option once Bob opens a door, so you should take that option.", 
+   {}, 
+   194019, 
+   null, 
+   1137977100.0
+  ], 
+  [
+   194046, 
+   null, 
+   "Symbiote", 
+   "Yeh you're right it's better to switch.", 
+   {}, 
+   194024, 
+   null, 
+   1137979980.0
+  ], 
+  [
+   194048, 
+   null, 
+   "DamEtel", 
+   "About 10 years ago when I was first presented this 'riddle' (except that it's not Bob Barker and The Price is Right, it's supposed to be Monty Hall and Let's Make a Deal, which actually fits the setup), I didn't believe that switching was the best bet: it seemed 50/50 to me. So I wrote a program that iterated through the process one million times, to get an empirical probability: it came out winning 66.66.. percent of the time when switching and so only 33.33.. percent of the time when sticking with the original choice. That convinced me. \n \n But I looked deeper and found what someone in this thread already stated. Each door starts off with 1/3 chance of having the prize. You pick one, meaning your one door has 1/3 chance of having the prize and the other two doors, combined, have 2/3 chance of having it. Finding out that one of those two other doors does NOT have the prize does not change the probability that your door was right: you still have 1/3 chance of being right, but now the other door has 2/3 chance of having the prize behind it. So you should switch your choice.", 
+   {}, 
+   194024, 
+   null, 
+   1137980160.0
+  ], 
+  [
+   194049, 
+   null, 
+   "pandion", 
+   "My son brought this problem home from school one day. Since the answer seemed so obvious (50/50) I assumed that it must be wrong and worked it out. I also presented the problem to a guy at work and he came to the correct answer the same way that I did. Since we were both experienced computer programmers, each of us verified our answer by writing a simulation program that would run for many iterations.", 
+   {}, 
+   194048, 
+   null, 
+   1137982440.0
+  ], 
+  [
+   194054, 
+   null, 
+   "Kronus", 
+   "My son brought this problem home from school one day. Since the answer seemed so obvious (50/50) I assumed that it must be wrong and worked it out. I also presented the problem to a guy at work and he came to the correct answer the same way that I did. Since we were both experienced computer programmers, each of us verified our answer by writing a simulation program that would run for many iterations.\n\n \n A psychological study was done of this problem. Those who get it wrong are very difficult to convince otherwise. My father in law, a very smart man, required 4 different approaches before he could be convinced. I was curious to see which arguments people here would find most convincing.", 
+   {}, 
+   194049, 
+   null, 
+   1137983940.0
+  ], 
+  [
+   194055, 
+   null, 
+   "Kronus", 
+   "About 10 years ago when I was first presented this 'riddle' (except that it's not Bob Barker and The Price is Right, it's supposed to be Monty Hall and Let's Make a Deal, which actually fits the setup)\n\n \n Doh! I knew I was getting the names wrong, but I couldn't think of the right ones. Thanks for the correction; now it won't gnaw at me!", 
+   {}, 
+   194048, 
+   null, 
+   1137984000.0
+  ], 
+  [
+   194135, 
+   null, 
+   "Gator", 
+   "The fact that Bob opens another door doesn't change the odds that you were right the first time. Those odds are still 1 in 3. Which means your odds of being wrong were 2 in 3. In other words, your first choice was probably wrong. And since Bob has opened one of the other doors, there's only one other choice at that point. Your first choice is wrong 2/3 of the time, and there's only one other option once Bob opens a door, so you should take that option.\nNot necessarily. I don't think the problem, as presented, provides enough information to conclude that one should always switch.\n \n I follow your reasoning, but it assumes that certain unstated conditions exist. Since those conditions are not made explicit, I do not think they can automatically be inferred. If we don't assume certain conditions as a given, then one cannot conclude that switching is advantageous.\n \n Your reasoning is correct only if one assumes that you are always given the offer to switch, but in fact that's not the way the game is played, since it's Monty's prerogative to offer a switch... or not. The probability of winning two-thirds of the time will hold true only if Monty must always open an empty door and offer the switch.\n \n In any event, your initial conditions do not explicitly state that there will always be an offer to switch, so it's surely a mistake to think one should always switch when such offer is made. The question cannot be answered without more information.", 
+   {}, 
+   194024, 
+   null, 
+   1138038900.0
+  ], 
+  [
+   194143, 
+   null, 
+   "Kronus", 
+   "\n In any event, your initial conditions do not explicitly state that there will always be an offer to switch, so it's surely a mistake to think one should always switch when such offer is made. The question cannot be answered without more information.\n\n \n Sorry, but you're wrong about that. I clearly said:\n \"After you've picked Bob Barker opens one of the two remaining doors, showing you that there's nothing behind it, and gives you the option to change your pick.\"\n \n It's not really relevant what Monty does on his show in real life, I'm talking about the problem I'm presenting here.", 
+   {}, 
+   194135, 
+   null, 
+   1138040820.0
+  ], 
+  [
+   194159, 
+   null, 
+   "Gator", 
+   "Sorry, but you're wrong about that. I clearly said:\n \"After you've picked Bob Barker opens one of the two remaining doors, showing you that there's nothing behind it, and gives you the option to change your pick.\"\n \n It's not really relevant what Monty does on his show in real life, I'm talking about the problem I'm presenting here.\nI'm likewise talking about the very problem you presented, so disregard the reference to Monty if it distracts you.\n \n I recognize your given condition is that Bob Barker is offering a choice to switch. Can we further agree that the problem, as you presented it, does not state that Barker always offers a switch? Nor does your problem provide any indication as to Barker's motivation for offering the choice to switch. We know only that he is offering a choice in the current problem.\n \n However, your analysis of the mathematical probability of gaining an advantage by switching presumes that he always offers a choice to switch, a condition which is mere assumption, since you did not explicitly state it in your presentation of the problem.\n \n Thus, the problem as presented does not include sufficient information to determine if switching holds an advantage. Think on it, and then if you still don't see how unstated assumptions affect your conclusion, we can analyze the problem you presented more closely.", 
+   {}, 
+   194143, 
+   null, 
+   1138044300.0
+  ], 
+  [
+   194166, 
+   null, 
+   "Kronus", 
+   "\n I recognize your given condition is that Bob Barker is offering a choice to switch. Can we further agree that the problem, as you presented it, does not state that Barker always offers a switch? Nor does your problem provide any indication as to Barker's motivation for offering the choice to switch. We know only that he is offering a choice in the current problem.\n \n\n \n Sheesh. That's the problem with presenting math problems, people want you to speak math when presenting them. :)\n \n Yes, my original presentation did not make it explicatly clear that I was presenting the general case, and not some special case, and that Bob would always open a door. It is, it isn't, and he does.", 
+   {}, 
+   194159, 
+   null, 
+   1138044900.0
+  ], 
+  [
+   194204, 
+   null, 
+   "Gator", 
+   "Sheesh. That's the problem with presenting math problems, people want you to speak math when presenting them. :)\nNo, English will do fine. :) \n \n \n \nYes, my original presentation did not make it explicatly clear that I was presenting the general case, and not some special case, and that Bob would always open a door. It is, it isn't, and he does.\nYou're presenting a different problem by adding the parameter that Bob always opens a door and gives a choice. That's why I said your original problem lacked sufficient information to say that switching is advantageous. I agree that one should accept the offer to switch, given the new condition.\n \n Still, it remains true that the original problem does not necessarily favor switching, since there is not enough information presented. Furthermore, when you say you're presenting the 'general case' and not some special case, be mindful that the general case, as anyone familiar with the show must know, is that the host does in fact have discretion whether to offer a switch or not. Else, everyone would always choose to switch. So it rather appears that your case is more special than general.\n \n To summarize, if the host is required to open a door all the time and offer you a switch, then you should certainly accept the offer. But since the general case is that the host does indeed have the choice of whether or not to allow a switch, then beware if such offer is made. There's ample room for manipulation of the odds, and it all depends on the mood of the host and if he wants you to lose or win. That's what made the game interesting and boosted television ratings.\n \n The problem you presented has been studied for decades, even before Monty Hall started hosting Let's Make a Deal. My intent was simply to bring to your attention the aspect of what analysts characterize as 'the problem with the problem.' I just thought you'd be curious.", 
+   {}, 
+   194166, 
+   null, 
+   1138055520.0
+  ], 
+  [
+   194210, 
+   null, 
+   "Kronus", 
+   "\n You're presenting a different problem by adding the parameter that Bob always opens a door and gives a choice. That's why I said your original problem lacked sufficient information to say that switching is advantageous. I agree that one should accept the offer to switch, given the new condition.\n \n\n No, the problem always consisted of Bob always opening a door, and you always being given a chance to switch. I'm sorry I didn't make that abundantly, blatantly, hit-you-over-the-head-with-a-sledgehammer clear to start with.", 
+   {}, 
+   194204, 
+   null, 
+   1138057260.0
+  ], 
+  [
+   194254, 
+   null, 
+   "Gator", 
+   "No, the problem always consisted of Bob always opening a door, and you always being given a chance to switch. I'm sorry I didn't make that abundantly, blatantly, hit-you-over-the-head-with-a-sledgehammer clear to start with.\nNo need to apologize for the ambiguity in your wording. Most people who present the problem stop at the point you did. Few are even aware that the deepest thinkers to analyze the problem have uncovered 'the problem within the problem.'\n \n However, based on your lack of interest to delve deeper, there's no need for further discussion.", 
+   {}, 
+   194210, 
+   null, 
+   1138067760.0
+  ], 
+  [
+   194290, 
+   null, 
+   "Ooaman", 
+   "Forget the host and the show for a moment and just think about the odds. Your first choice gave you a 1 in 3 chance to be correct. That's a 2 in 3 shot that you were wrong. A wrong door is opened and you are giving the choice to switch. Once you switch, you do not have a 2 out of 3 chance of getting it right. You have a 1 in 2 chance of getting it right. You already know that the one opened had no prise so that would be out of consideration.", 
+   {
+    "post_info": {
+     "post_title": "Change of odds..."
+    }
+   }, 
+   194254, 
+   null, 
+   1138078620.0
+  ], 
+  [
+   194293, 
+   null, 
+   "lord tammerlain", 
+   "Here's a little math puzzle.\n \n You're on the Price is Right. You're shown three doors, and told that behind one is a fabulous prize, while beind the other two are nothing. You pick one of the doors. After you've picked Bob Barker opens one of the two remaining doors, showing you that there's nothing behind it, and gives you the option to change your pick. If you want to win the prize is your best strategy:\n \n A) Stick with your original pick\n B) Choose the other unopened door\n C) Doesn't matter\n\n \n \nNot necessarily. I don't think the problem, as presented, provides enough information to conclude that one should always switch.\n \n I follow your reasoning, but it assumes that certain unstated conditions exist. Since those conditions are not made explicit, I do not think they can automatically be inferred. If we don't assume certain conditions as a given, then one cannot conclude that switching is advantageous.\n \n Your reasoning is correct only if one assumes that you are always given the offer to switch, but in fact that's not the way the game is played, since it's Monty's prerogative to offer a switch... or not. The probability of winning two-thirds of the time will hold true only if Monty must always open an empty door and offer the switch.\n \n In any event, your initial conditions do not explicitly state that there will always be an offer to switch, so it's surely a mistake to think one should always switch when such offer is made. The question cannot be answered without more information. \n Yesterday 05:40 PM \n\n \n Your reasoning is flawed,\n \n if one reads the original question and the conditions of the statement.\n \n You are given the following \n \n You pick one of the doors. After you've picked Bob Barker opens one of the two remaining doors, showing you that there's nothing behind it, and gives you the option to change your pick. If you want to win the prize is your best strategy:\n \n A) Stick with your original pick\n B) Choose the other unopened door\n C) Doesn't matter\n \n All the conditions apply only to this specific instance.\n \n one door out of three was picked, a door that you didnt pick was opened and did not contain the prise. You were offered the opportunity to change your pick to the other unopened door. \n \n Under such circumstances, the choice of the other unopen door makes statistical sense. \n \n If you are not offered the ability to switch doors then the entire issue is moot, which is why the puzzle specifically stated that you were offered the ability to switch.\n \n Which means that all of your arguement is based on a different situation and not relavent to the one being asked,", 
+   {}, 
+   193874, 
+   null, 
+   1138079400.0
+  ], 
+  [
+   194315, 
+   null, 
+   "DamEtel", 
+   "Forget the host and the show for a moment and just think about the odds. Your first choice gave you a 1 in 3 chance to be correct. That's a 2 in 3 shot that you were wrong. A wrong door is opened and you are giving the choice to switch. Once you switch, you do not have a 2 out of 3 chance of getting it right. You have a 1 in 2 chance of getting it right. You already know that the one opened had no prise so that would be out of consideration.\n\n \n Just when I thought we got everyone to agree!\n \n Even if you don't buy the logic that's been presented, you should accept the empirical probability that I came up with using my computer program. And if you doubt my program (you shouldn't, I have a BS in CIS and have been a professional computer programmer/database manager for the past 11 or so years), don't forget that someone else in this thread said that he/she also, independently, wrote a computer program and came up with the same empirical results.", 
+   {}, 
+   194290, 
+   null, 
+   1138087380.0
+  ], 
+  [
+   194326, 
+   null, 
+   "pandion", 
+   "Even if you don't buy the logic that's been presented, you should accept the empirical probability that I came up with using my computer program. And if you doubt my program (you shouldn't, I have a BS in CIS and have been a professional computer programmer/database manager for the past 11 or so years), don't forget that someone else in this thread said that he/she also, independently, wrote a computer program and came up with the same empirical results.\nI was that someone else. As I explained, my son brought the problem home from college where he heard it from one of his math professors. I eventually worked it out, probably with the clue from my son that the initial 1/3 chance doesn't change. As I previously said, I took the problem to work and presented it to other computer programmers and system analysts (12 others besides me). One of them came up with the correct answer. The others doubted it. So each of us (2) wrote a computer simulation that could run for millions of iterations. The results were always the same for both of our programs. Switching doors won 66.66% of the time. It doesn't matter whether the host is named Bob or Monty; it doesn't matter if the host offers the option to every contestant or not. This is not a question of all situations presented in this particular game show. Whatever options that do not confirm to the problem are irrelevant. The problem was stated quite specifically in the first place, in spite of the ability of some to understand the problem. Whatever various game show options are offered that do not fall within the specifics of this problem are irrelevant. The point is that in every case that meets the specified case, one is more likely to win by switching.", 
+   {}, 
+   194315, 
+   null, 
+   1138091700.0
+  ], 
+  [
+   194329, 
+   null, 
+   "Gator", 
+   "Your reasoning is flawed,\n \n if one reads the original question and the conditions of the statement...\nI read the original question and conditions. It does not say an offer to switch will always be made, only that such offer is made in the current problem.\n \n My reasoning is consistent with the given conditions. I understand and agree that switching confers an advantage of winning two-thirds of the time, if the choice to make a switch is always given.\n \n You neglected to show where my reasoning is flawed. It appears you don't see the 'problem within the problem' that expert analysts observe.", 
+   {}, 
+   194293, 
+   null, 
+   1138100460.0
+  ], 
+  [
+   194335, 
+   null, 
+   "Symbiote", 
+   "Congratulations, you were able to nitpick at the problem and find a flaw in the way it was phrased while missing its point entirely - you are now an \"expert analyst\". I'm sure the other children will be impressed.", 
+   {}, 
+   194329, 
+   null, 
+   1138113720.0
+  ], 
+  [
+   194340, 
+   null, 
+   "Gator", 
+   "It doesn't matter whether the host is named Bob or Monty; it doesn't matter if the host offers the option to every contestant or not.\nThe name of the host does not matter of course. However, the discretion of the host to offer the option is significant. Your computer simulation that ran millions of iterations was probably written with the condition that the option to switch exists in every repetition. In such case it's little wonder that 'switching doors won 66.66% of the time,' since that's the chance of winning after an empty door is opened and the offer to switch is accepted. The simulation program is neutral and exerts no manipulation as a live host would.\n \n \n \nThis is not a question of all situations presented in this particular game show. Whatever options that do not confirm to the problem are irrelevant.\nAgreed. It remains the host's discretion to offer the switch or not, but we will disregard all situations in which the host withholds the offer. We will consider only the situation in which an offer to switch is given. Bear in mind, however, there is no requirement that the host must always make an offer to switch.\n \n \n \nThe problem was stated quite specifically in the first place, in spite of the ability of some to understand the problem.\nI think you mean 'inability' to understand. Anyway, the problem was stated ambiguously, since the two-thirds chance of winning by switching is dependent on a condition that is assumed but not specified. Such uncertainty in meaning is the essence of ambiguity. In view of your comment noting the inability of some to understand the problem, it bears repeating that the problem, as stated, does not specifically require that the host must always make an offer to switch.\n \n \n \nWhatever various game show options are offered that do not fall within the specifics of this problem are irrelevant.\nYes, you mentioned this above. Again I agree that any game show situation that doesn't meet the specified criteria of this problem must be disregarded. By the way, did I mention that the problem does not specifically require that the host must always make an offer to switch?\n \n \n \nThe point is that in every case that meets the specified case, one is more likely to win by switching.\nNow comes the litmus test. You did state: \"It doesn't matter if the host offers the option to every contestant or not.\" Nor do the stated specifics require that the host must always offer the option to switch. Consistent with such ambiguity, there is ample room for manipulation by the host. For example it can be shown that in every case that meets the specified case, one can never win by switching, despite your contrary view that one is more likely to win by switching. Beware if you ever play this game under the specified conditions stated.\n \n \n Let's call the three doors left, middle, and right. The prize is behind the left door. 1) The contestant picks the left door. The host then opens an empty door. In accord with your reasoning, the contestant switches and loses. 2) The contestant picks the middle door. The host opens the middle door, using his discretion not to make an offer to switch, and the contestant loses. 3) The contestant picks the door on the right. Again the host does not offer an option to switch, so again the contestant loses.\n \n [We disregard the latter two losses as irrelevant, since they do not entail an offer to switch and therefore do not satisfy the specified conditions.]\n \n To sum up, as long as the host has discretion of whether to offer a switch, the results can be manipulated in either direction, depending on the mood of the host. In the extreme example illustrated, the results are quite adverse, since the contestant can never win by following your advice to switch whenever the option is offered. It does not matter which door holds the prize. If the contestant chooses the prize door initially, the host will always open an empty door and make an offer to switch. If the contestant chooses an empty door initially, the host does not offer a switch. No matter how many iterations of the specified problem one considers, the contestant can never win by switching. This example satisfies all conditions specifically stated in the original problem. Hence, the 'problem with the problem.'\n \n As generally understood, the problem is interesting in that most people are surprised to learn that after one door is opened, switching will improve the chance of winning. And that's where most people stop, after understanding why the winning odds increase from 50% to 67%. In the final analysis, however, the problem is impossible to solve through mathematical reasoning, since the wording is ambiguous and the mood of the host unknown.", 
+   {}, 
+   194326, 
+   null, 
+   1138115880.0
+  ], 
+  [
+   194341, 
+   null, 
+   "Symbiote", 
+   "Here's a little math puzzle.\n\n \n First line of the thread.\n \n If you choose to interpret the problem in such a way that it is not a maths problem, you have misinterpreted it.\n \n That this is in the \"science and maths\" forum may also have alluded to the proper interpretation.\n \n But I suppose the \"expert analyst\" looks past these things, demonstrating his aptitude at all things by declaring them impossible to answer.", 
+   {}, 
+   194340, 
+   null, 
+   1138116900.0
+  ], 
+  [
+   194344, 
+   null, 
+   "Gator", 
+   "Congratulations, you were able to nitpick at the problem and find a flaw in the way it was phrased while missing its point entirely - \nA mite touchy, aren't you? That may explain why you err in assuming the point is missed. This problem has been bandied about for decades, so long ago I don't recall when first I heard it. My brain isn't so big as to avoid the initial pitfall of thinking the odds were 50-50. But your point is clear that you're not of a curious mind to appreciate a deeper look at the problem after the basic solution is clear. Anyway, your congrats are misdirected, since it was not I who uncovered the 'problem within the problem.'", 
+   {}, 
+   194335, 
+   null, 
+   1138117500.0
+  ], 
+  [
+   194345, 
+   null, 
+   "Gator", 
+   "If you choose to interpret the problem in such a way that it is not a maths problem, you have misinterpreted it.\nSorry you're having such issues here. It apparently escapes you that math problems do not always have a solution.", 
+   {}, 
+   194341, 
+   null, 
+   1138117860.0
+  ], 
+  [
+   194347, 
+   null, 
+   "Symbiote", 
+   "This was presented as a math problem. As a math problem it has a solution. Some math problems do not have solutions. This is not one of them. It only \"does not have solution\" when interpreted as a psychological problem about the mythological \"Monty\" figure. It was not intended to be interpeted that way in this context.\n \n This way of answering a problem without answering it is as common as dirt, I can find a similar answer from any 12 year old \"Duh, but you didn't specify whether the problem was meant within the context of the decimal or hexidecimal systems, therefore there is not enough information to solve it\".\n \n There will never be enough information to solve *any* problem you encounter if you ignore the context it is in. That this one had \"this is a maths problem\" at the very top of it and was in the maths and science forum should have allowed even an \"expert analyst\" to comprehend it's meaning.", 
+   {}, 
+   194345, 
+   null, 
+   1138118520.0
+  ], 
+  [
+   194361, 
+   null, 
+   "Kronus", 
+   "Forget the host and the show for a moment and just think about the odds. Your first choice gave you a 1 in 3 chance to be correct. That's a 2 in 3 shot that you were wrong. A wrong door is opened and you are giving the choice to switch. Once you switch, you do not have a 2 out of 3 chance of getting it right. You have a 1 in 2 chance of getting it right. You already know that the one opened had no prise so that would be out of consideration.\n\n \n That would be correct if a door was opened and then you made your pick. In that case Bob could choose either empty door and leave you a 50-50 chance. However, you choose a door first. That means that 2/3 of the time you force Bob's hand. If you pick an empty door, and you will 2 out of 3 times, then he must pick the other empty door, he has no choice. Which means that 2 out of 3 times the last door will have the prize.", 
+   {}, 
+   194290, 
+   null, 
+   1138120920.0
+  ], 
+  [
+   194372, 
+   null, 
+   "Iuris", 
+   "You never force Bob's hand. Whatever you do, he can always choose an empty door and thus give you absolutely no additional data.", 
+   {}, 
+   194361, 
+   null, 
+   1138122600.0
+  ], 
+  [
+   194374, 
+   null, 
+   "Kronus", 
+   "You never force Bob's hand. Whatever you do, he can always choose an empty door and thus give you absolutely no additional data.\n\n \n Yes, there's always an empty door. But sometimes, 2/3 of the time, there is only one empty door for him to choose. He has no discretion at that point, there is only one door he can open. So he does give you new information. You know that most of the time, 2/3 of the time, you've chosen one of the empty doors at first. Bob shows you where the other one is, so the one that's left probably has the prize. 2/3 of the time Bob is essentially forced to show you which door has the prize, 1/3 of the time he can open either of the two doors he wants and not help you at all.", 
+   {}, 
+   194372, 
+   null, 
+   1138123080.0
+  ], 
+  [
+   194385, 
+   null, 
+   "Iuris", 
+   "No, he isn't.\n \n Bob isn't making a choice, you are. Bob already knows which door is the right one, you are the one that doesn't. You keep forgetting that you don't know whether the door you chose is full or empty. Without knowing this, Bob's revelation does not help you in any way. That's the basic idea of the trick.", 
+   {}, 
+   194374, 
+   null, 
+   1138126740.0
+  ], 
+  [
+   194391, 
+   null, 
+   "Kronus", 
+   "No, he isn't.\n \n Bob isn't making a choice, you are. Bob already knows which door is the right one, you are the one that doesn't. You keep forgetting that you don't know whether the door you chose is full or empty. Without knowing this, Bob's revelation does not help you in any way. That's the basic idea of the trick.\n\n \n It's true that you don't know if you picked the right door at first. What you do know is that the odds are only 1/3 that you did. 1/3 of the time Bob's revelation tells you nothing, but 2/3 of the time it tells you exactly which door has the prize. That's the key.\n \n Let's break down the cases. Label the doors A, B, and C. You pick A, and the prize is behind one of the three. Let's see what happens if you always switch.\n \n Case 1: prize behind A\n You pick A, Bob opens either B or C, you switch to the other and lose.\n Case 2: prize behind B\n You pick A, Bob opens C, you switch to B, win.\n Case 2: prize behind C\n You pick A, Bob opens B, you switch to C, win.\n \n Now what if you don't switch?\n Case 1: prize behind A\n You pick A, Bob opens either B or C, you stick with A and win.\n Case 2: prize behind B\n You pick A, Bob opens C, you stick with A and lose.\n Case 2: prize behind C\n You pick A, Bob opens B, you stick with A and lose.\n \n If you switch you win in 2 of the 3 scenarios, if you stick you win in only 1 of 3 scenarios.", 
+   {}, 
+   194385, 
+   null, 
+   1138127760.0
+  ], 
+  [
+   194489, 
+   null, 
+   "lord tammerlain", 
+   "I read the original question and conditions. It does not say an offer to switch will always be made, only that such offer is made in the current problem.\n \n My reasoning is consistent with the given conditions. I understand and agree that switching confers an advantage of winning two-thirds of the time, if the choice to make a switch is always given.\n \n You neglected to show where my reasoning is flawed. It appears you don't see the 'problem within the problem' that expert analysts observe.\n\n \n The given conditions were provided and quite specific.\n \n 3 doors, choose one, offer to switch. You remove the offer to switch and you remove that specific problem.\n \n By taking the position that the offer to switch is not always going to be their is beyond the scope of the question and irrelavent to the question. As whenever the ability to switch is presented statistically it is in your interest to switch. If no offer to switch is provided then the WHOLE question is irrelavent is it not? That is where your reasoning is flawed. You have expanded the narrow scope of the question and applied to to a whole gameshow, which of course was not the question. The question was about a very specific contest in a gameshow.\n \n The tree, not the forest", 
+   {}, 
+   194329, 
+   null, 
+   1138144800.0
+  ], 
+  [
+   194902, 
+   null, 
+   "Gator", 
+   "The given conditions were provided and quite specific.\nIt may be better after this if we agree to disagree. Academic papers from North America, Europe, and Asia say that the wording of the problem, as presented in message 1, is ambiguous. I acknowledged from the get-go that switching wins two-thirds of the time if additional assumptions are specified. That was never in dispute. I simply noted that the conditions in msg 1 are ambiguous and that the result you're trying to show-that switching will double your chance of winning-is dependent on conditions that were not specified. You insist that the 'given conditions' are sufficient and that no one should say the question can't be answered without more information to eliminate the ambiguities. That you don't yet admit to the question's ambiguity is likely due that you don't yet see it. In any event the fault is not mine. \n \n Since you think the host's optional discretion to make the offer of a switch is irrelevant to the question, let's assume then that the host must always open a door and provide the offer to switch. Even then, however, switching does not automatically confer an advantage, since there's the further ambiguity of whether or not the host knows what's behind each door. The extent of the host's knowledge was not a given condition. Why is that significant? Why because if the host doesn't know what's behind each door and simply opens a door at random to reveal a goat, then there is no advantage to switching. The probability of the prize being behind either of the two remaining doors is one-half, not two-thirds, so switching makes no difference.\n \n That's two ambiguities I've shown. Your solution requires both of these conditions-that the host must know what's behind each door, and that the host must always make the offer to switch. Yet neither condition was made explicit at the outset, as Kronus since acknowledged. Your approach to resolving these apparent ambiguities is to impose your own judgment on conditions never specified, while denying me the same prerogative. A more fair and productive approach would be to address the ambiguities directly-that is, clarify all of the unstated assumptions your result is dependent on-rather than insist the problem was sufficiently stated at the outset.\n \n You have written twice to say 'my reasoning is flawed.' I stated earlier that it wasn't my reasoning that uncovered the ambiguities. The problem is thoroughly addressed in original source work on the web. Thus far you have supported your opinion with only your word. No books, no urls, no references to scientific papers-nothing but your word. I submit that you would benefit to look at sources beyond yourself.\n \n Wikipedia's article is a springboard if you're not sure where to start.\n \n The 59-page analysis by Mueser and Granberg is good. Their paper entitled The Monty Hall Dilemma Revisited: Understanding the Interaction of Problem Definition and Decision Making was authored in 1999, though they credit Morgan, Chaganty, Dahiya, & Doviak (1991) as the first to provide a formal analysis showing that the answer normally given by those stating the puzzle relies on unstated assumptions. Morgan et al (1991) Let's make a deal: The player's dilemma is published in the academic quarterly \"The American Statistician\", though a subscription is required to access it.\n \n Burkholder is suggested for the least reliance on verbiage and the most on formal mathematics. His approach uses Bayes' Theorem to show that when the host knows what's behind the doors, switching doubles the chance of winning, but if the host doesn't know what's behind the doors, there is no reason to switch, since the chance of winning the prize is the same for each door, 1/2.\n \n \n \nThe question was about a very specific contest in a gameshow.\n \n The tree, not the forest\nI have read and considered your opinion. In the final analysis I choose to cast my lot with the experts. Your mileage of course may vary.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   194489, 
+   null, 
+   1138306680.0
+  ], 
+  [
+   194909, 
+   null, 
+   "Kronus", 
+   "It may be better after this if we agree to disagree. Academic papers from North America, Europe, and Asia say that the wording of the problem, as presented in message 1, is ambiguous. \n\n \n Wow! I had no idea my post had gotten so much attention so quickly! I'm honored.", 
+   {}, 
+   194902, 
+   null, 
+   1138307340.0
+  ], 
+  [
+   194912, 
+   null, 
+   "Kronus", 
+   "\n That's two ambiguities I've shown. Your solution requires both of these conditions-that the host must know what's behind each door, and that the host must always make the offer to switch. Yet neither condition was made explicit at the outset, as Kronus since acknowledged.\n\n \n Actually, I broke one of my own rules and engaged in sarcasm there, which apparently you didn't pick up on. (which is why I try not to use it) I fully believe that the original wording was quite adequate for all but the most pedantic of readers.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   194902, 
+   null, 
+   1138307640.0
+  ], 
+  [
+   194919, 
+   null, 
+   "Gator", 
+   "Wow! I had no idea my post had gotten so much attention so quickly! I'm honored.\nThe problem is indeed a fascinating conundrum. Pedanticism aside, it captured the attention of millions of readers when Marilyn vos Savant in 1991 published it in her Parade Magazine column. It made the front page of the NYT, where it was noted that the problem 'has been debated in the halls of the CIA and in the barracks of fighter pilots in the Persian Gulf... analyzed by mathematicians at MIT and computer programmers at Los Alamos Lab... and tested in classes from 2nd grade to graduate level at more than 1,000 schools across the country.'\n \n That you feel honored is a good thing. emoticon_xgood", 
+   {}, 
+   194909, 
+   null, 
+   1138308720.0
+  ], 
+  [
+   194962, 
+   null, 
+   "jim's trucking", 
+   "It's true that you don't know if you picked the right door at first. What you do know is that the odds are only 1/3 that you did. 1/3 of the time Bob's revelation tells you nothing, but 2/3 of the time it tells you exactly which door has the prize. That's the key.\n \n Let's break down the cases. Label the doors A, B, and C. You pick A, and the prize is behind one of the three. Let's see what happens if you always switch.\n \n Case 1: prize behind A\n You pick A, Bob opens either B or C, you switch to the other and lose.\n Case 2: prize behind B\n You pick A, Bob opens C, you switch to B, win.\n Case 2: prize behind C\n You pick A, Bob opens B, you switch to C, win.\n \n Now what if you don't switch?\n Case 1: prize behind A\n You pick A, Bob opens either B or C, you stick with A and win.\n Case 2: prize behind B\n You pick A, Bob opens C, you stick with A and lose.\n Case 2: prize behind C\n You pick A, Bob opens B, you stick with A and lose.\n \n If you switch you win in 2 of the 3 scenarios, if you stick you win in only 1 of 3 scenarios.\nActually, you left out the equalizing cases. In your 'switch' vs. 'don't switch' comparisons, you wrongly squeezed two cases into one.\n \n If you always switch:\n \n Prize at A\n Case 1: \n You choose A, he opens B, you switch, you lose.\n Case 2:\n You choose A, he opens C, you switch, you lose.\n Case 3:\n You choose B, he opens C, you switch, you win.\n Case 4:\n You choose C, he opens B, you switch, you win.\n \n \n Prize at B\n Case 1:\n You choose A, he opens C, you switch, you win.\n Case 2:\n You choose B, he opens A, you switch, you lose.\n Case 3:\n You choose B, he opens C, you switch, you lose.\n Case 4:\n You choose C, he opens A, you switch, you win.\n \n Prize at C\n Case 1:\n You choose A, he opens B, you switch, you win.\n Case 2:\n You choose B, he opens A, you switch, you win.\n Case 3:\n You choose C, he opens A, you switch, you lose.\n Case 4:\n You choose C, he opens B, you switch, you lose.\n \n It should be easily seen that the results are simply reversed if you always stick. Notice that the number of winning cases equals the number of losing cases, whether you switch or stick.", 
+   {}, 
+   194919, 
+   null, 
+   1138318860.0
+  ], 
+  [
+   194966, 
+   null, 
+   "Master_Shake", 
+   "All I know is they talked about it on Numbers and the math dude on there said it is better to switch, and I trust him, he's pretty smart:)", 
+   {}, 
+   194962, 
+   null, 
+   1138319520.0
+  ], 
+  [
+   194975, 
+   null, 
+   "Kronus", 
+   "Actually, you left out the equalizing cases. In your 'switch' vs. 'don't switch' comparisons, you wrongly squeezed two cases into one.\n \n If you always switch:\n \n Prize at A\n Case 1: \n You choose A, he opens B, you switch, you lose.\n Case 2:\n You choose A, he opens C, you switch, you lose.\n Case 3:\n You choose B, he opens C, you switch, you win.\n Case 4:\n You choose C, he opens B, you switch, you win.\n \n It should be easily seen that the results are simply reversed if you always stick. Notice that the number of winning cases equals the number of losing cases, whether you switch or stick.\n\n \n No, I was correct to \"squeeze\" those cases together, as you put it. In the case where I pick A first and the prize is under A, then doors B and C are essentially identical. Which one you label B and which you label C makes no difference, so the case where he opens B or he open C are really the same case.\n \n Here's a different example, which I hope will be clearer. If you flip three coins, how many different combinations of heads and tails can you get? The answer is 8. It's also 4. \n \n Here are the 8\n hhh\n hht\n hth\n thh\n htt\n tht\n tth\n ttt\n \n And here are the 4:\n No tails, one tail, two tails, all tails.\n \n Which is correct? It depends on what you're looking for. If order is important, or the outcome of each coin, than the answer is 8. If all you care about is the total result, and which coin said what makes no difference, than the correct answer is 4. In the puzzle, it makes no difference which of the two empty doors Bob opens, since it won't effect the outcome at all, so whichever he opens, we only count it as one case.", 
+   {}, 
+   194962, 
+   null, 
+   1138320780.0
+  ], 
+  [
+   195051, 
+   null, 
+   "jim's trucking", 
+   "No, I was correct to \"squeeze\" those cases together, as you put it. In the case where I pick A first and the prize is under A, then doors B and C are essentially identical. Which one you label B and which you label C makes no difference, so the case where he opens B or he open C are really the same case.\nNo. You are still combining two possibilities into one. All of the possible sequences are listed in my post and clearly show half are winners and half are losers.\n \n \n \n\n Here's a different example, which I hope will be clearer. If you flip three coins, how many different combinations of heads and tails can you get? The answer is 8. It's also 4. \n \n Here are the 8\n hhh\n hht\n hth\n thh\n htt\n tht\n tth\n ttt\n \n And here are the 4:\n No tails, one tail, two tails, all tails.\n \n Which is correct? It depends on what you're looking for. If order is important, or the outcome of each coin, than the answer is 8. If all you care about is the total result, and which coin said what makes no difference, than the correct answer is 4. \nNo. The correct answer is 8. There is one possibility of no tails, three possibilities of one tail, three possibilities of two tails and one possibility of three tails, giving a total of 8 possiblilities.\n \n \n In the puzzle, it makes no difference which of the two empty doors Bob opens, since it won't effect the outcome at all, so whichever he opens, we only count it as one case.\nSince it is true that if you choose the prize door there are two possibilities regarding which door Bob (or Monty) will open, they should be considered separately as possibilities even though either of them accompanied by a switch in your choice will result in your loss. Saying that 'either way you lose' does not warrant making both cases into one possibility.", 
+   {}, 
+   194975, 
+   null, 
+   1138382220.0
+  ], 
+  [
+   195055, 
+   null, 
+   "Kronus", 
+   "\n No. The correct answer is 8. There is one possibility of no tails, three possibilities of one tail, three possibilities of two tails and one possibility of three tails, giving a total of 8 possiblilities.\n\n Ok, but what if instead of flipping them 1,2,3 where could see each coin fall you just put them all in a cup, shook it up, and flipped it over. You couldn't tell if you had hth or thh or hht. All you would know is that you had one tail. Remember, we aren't talking probabilities here, we're just counting number of different cases. You wouldn't be able to look at the three coins and say, that's hht, all you could say is that it's 1 tail. If you discount order than 1 tail is just one case, not three.", 
+   {}, 
+   195051, 
+   null, 
+   1138382880.0
+  ], 
+  [
+   195060, 
+   null, 
+   "jim's trucking", 
+   "Ok, but what if instead of flipping them 1,2,3 where could see each coin fall you just put them all in a cup, shook it up, and flipped it over. You couldn't tell if you had hth or thh or hht. All you would know is that you had one tail. Remember, we aren't talking probabilities here, we're just counting number of different cases. You wouldn't be able to look at the three coins and say, that's hht, all you could say is that it's 1 tail. If you discount order then 1 tail is just one case, not three.\nTrue. However, as the question is stated, the answer is 8. The convolution regarding inattention to order would suggest that the probability of getting no tails or all tails is the same as getting one tail or two tails...clearly incorrect.", 
+   {}, 
+   195055, 
+   null, 
+   1138383960.0
+  ], 
+  [
+   195078, 
+   null, 
+   "Kronus", 
+   "True. However, as the question is stated, the answer is 8. The convolution regarding inattention to order would suggest that the probability of getting no tails or all tails is the same as getting one tail or two tails...clearly incorrect.\n\n \n That's the point here though, we aren't generating probabilities, we're just counting cases. Cases where you win, and cases where you lose. What happens \"inside the cup\" doesn't matter.", 
+   {}, 
+   195060, 
+   null, 
+   1138386780.0
+  ], 
+  [
+   199341, 
+   null, 
+   "Ender", 
+   "Haha, they had this same scenario on Numb3rs a while ago, I really like that show.", 
+   {}, 
+   195078, 
+   null, 
+   1140416640.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  The Price is Right", 
+  "url": "http://www.4forums.com/political/science-math-debates/7403-price-right.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 7403, 
+  "discussion_files": [
+   [
+    "14661.html", 
+    "http://www.4forums.com/political/science-math-debates/7403-price-right-print.html"
+   ], 
+   [
+    "14662.html", 
+    "http://www.4forums.com/political/science-math-debates/7403-price-right-4-print.html"
+   ], 
+   [
+    "14663.html", 
+    "http://www.4forums.com/political/science-math-debates/7403-price-right-3-print.html"
+   ], 
+   [
+    "14664.html", 
+    "http://www.4forums.com/political/science-math-debates/7403-price-right-2-print.html"
+   ]
+  ], 
+  "identifier": 7403
+ }
+]

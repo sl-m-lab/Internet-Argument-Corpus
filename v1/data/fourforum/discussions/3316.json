@@ -1,0 +1,54 @@
+[
+ [
+  [
+   69520, 
+   null, 
+   "pnac=ww3", 
+   "I just thought this was too cool to not share.\n \n It's the first robot that has the capability to catch its own food and digest it, producing power. \n \n http://www.newscientist.com/news/news.jsp?id=ns99996366\n \n\n Self-sustaining killer robot creates a stink\n \n 15:13 09 September 04\n \n It may eat flies and stink to high heaven, but if this robot works, it will be an important step towards making robots fully autonomous.\n \n To survive without human help, a robot needs to be able to generate its own energy. So Chris Melhuish and his team of robotics experts at the University of the West of England in Bristol are developing a robot that catches flies and digests them in a special reactor cell that generates electricity.\n \n So what is the downside? The robot will most likely have to attract the hapless flies by using a stinking lure concocted from human excrement.\n \n Called EcoBot II, the robot is part of a drive to make \"release and forget\" robots that can be sent into dangerous or inhospitable areas to carry out remote industrial or military monitoring of, say, temperature or toxic gas concentrations. Sensors on the robot feed a data logger that periodically radios the results back to a base station.\n \n The robot's energy source is the sugar in the polysaccharide called chitin that makes up a fly's exoskeleton. EcoBot II digests the flies in an array of eight microbial fuel cells (MFCs), which use bacteria from sewage to break down the sugars, releasing electrons that drive an electric current (see graphic).\n \n In its present form, EcoBot II still has to be manually fed fistfuls of dead bluebottles, but the ultimate aim of the UWE robotics team is to make the droid predatory, using sewage as a bait to catch the flies.\n \n \"One of the great things about flies is that you can get them to come to you,\" says Melhuish. The team has yet to tackle this, but speculates that it would involve using a bottleneck-style flytrap with some form of pump to suck the flies into the digestion chambers.\n \n With a top speed of 10 centimetres per hour, EcoBot II's roving prowess is still modest to say the least. \"Every 12 minutes it gets enough energy to take a step forwards two centimetres and send a transmission back,\" says Melhuish.\n \n But it does not need to catch too many flies to do so, says team member Ioannis Ieropoulos. In tests, EcoBot II travelled for five days on just eight fat flies - one in each MFC.\n \n \n Donated sewage\n \n So how do flies get turned into electricity? Each MFC comprises an anaerobic chamber filled with raw sewage slurry - donated by UWE's local utility, Wessex Water. The flies become food for the bacteria that thrive in the slurry.\n \n Enzymes produced by the bacteria break down the chitin to release sugar molecules. These are then absorbed and metabolised by the bacteria. In the process, the bacteria release electrons that are harnessed to create an electric current.\n \n Previous efforts to use carnivorous MFCs to drive a robot included an abortive UWE effort: the Slugbot. This was designed to hunt slugs on farms by using imaging systems to spot and grab the pests, and then deliver them to a digester that produces methane to power a fuel cell.\n \n The electricity generated would have been used to charge the Slugbot when it arrived at a docking station. But the methane-based system took too long to produce power, and the team realised that MFCs offered far more promise.\n \n Elsewhere, researchers in Florida created a train-like robot dubbed Chew Chew (New Scientist print edition, 22 July 2000) that used MFCs to charge a battery, but the bacteria had to be fed on sugar cubes.\n \n For an autonomous robot to survive in the wild, relying on such refined foodstuffs is not an option, says Melhuish. EcoBot II, on the other hand, is the first robot to use unrefined fuel. Just do not stand downwind.\n \n \n Duncan Graham-Rowe\n", 
+   {
+    "post_info": {
+     "post_title": "Self-sustaining fly-eating robot."
+    }
+   }, 
+   null, 
+   null, 
+   1096676700.0
+  ], 
+  [
+   69525, 
+   null, 
+   "pnac=ww3", 
+   "Ah! Another example of a Microbial Fuel Cell doing something very useful!\n \n http://www.worldchanging.com/archives/000864.html\n \n http://www.eurekalert.org/pub_releases/2004-02/ps-mfc022304.php\n \n These fuel cells generate electricity while cleaning waste water (sewage) at the same time. Never underestimate the power of poop!\n \n .", 
+   {}, 
+   69520, 
+   null, 
+   1096677840.0
+  ], 
+  [
+   69853, 
+   null, 
+   "GreenMtnBoy", 
+   "not completely self sustaining....they need some ****! LOL", 
+   {}, 
+   69525, 
+   null, 
+   1096885560.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Self-sustaining fly-eating robot.", 
+  "url": "http://www.4forums.com/political/science-math-debates/3316-self-sustaining-fly-eating-robot.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 3316, 
+  "discussion_files": [
+   [
+    "16099.html", 
+    "http://www.4forums.com/political/science-math-debates/3316-self-sustaining-fly-eating-robot-print.html"
+   ]
+  ], 
+  "identifier": 3316
+ }
+]

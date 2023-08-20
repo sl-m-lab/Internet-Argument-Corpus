@@ -1,0 +1,292 @@
+[
+ [
+  [
+   147583, 
+   null, 
+   "Clive14", 
+   "NOt sure if this has been asked before and I'm in a lazy-arsed mood tonight so can't be bothered to check, but what does e = mc^2 mean?\n \n I don't think it can literally mean 1 joule = 90000000000kg because 1 joule = 1m2 kg/s^2 and with some jiggery pockey I'm sure the kg can be canceled out in each side leaving the whole equation being an area per second value. This makes no sense.\n \n Also it can't be 1 joule = 1kg x 300 000 kms^-1 as more jiggery pockery with algebra could end up with it being a time value?!?\n \n So what does it mean? Why c^2? WHat are the units?\n \n Anyone have even a slight clue on this one?", 
+   {
+    "post_info": {
+     "post_title": "e = mc^2 - what does that mean?"
+    }
+   }, 
+   null, 
+   null, 
+   1121470560.0
+  ], 
+  [
+   147584, 
+   null, 
+   "biccat", 
+   "So what does it mean? Why c^2? WHat are the units?\n\n c is the speed of light. 3e8 m/s (IIRC)", 
+   {}, 
+   147583, 
+   null, 
+   1121470980.0
+  ], 
+  [
+   147587, 
+   null, 
+   "Clive14", 
+   "c is the speed of light. 3e8 m/s (IIRC)\nI'm not being clear. I know what c means, I want to know why the e=mc^2 formula claims energy equals mass times the square of the speed of light, ie why precisely c^2, what units does the equation use etc.", 
+   {}, 
+   147584, 
+   null, 
+   1121471940.0
+  ], 
+  [
+   147588, 
+   null, 
+   "Kronus", 
+   "I'm not being clear. I know what c means, I want to know why the e=mc^2 formula claims energy equals mass times the square of the speed of light, ie why precisely c^2, what units does the equation use etc.\n\n \n It uses whatever units you like, as long as you're consistent.\n \n For example, if you use SI units you have e = m c^2, where the units for e (energy) are kg m^2 / s^2, the units for m (mass) are kg, and the unit for c (speed of light) are m / s. This gives you kg m^2 / s^2 = kg (m/s) ^2.\n \n If you wanted to you could use slugs for the mass and furlongs per fortnight for the speed, and then the units for energy would be slug (furlong/fortnight)^2. Not that I recommend that, but you could do it if you wanted to.\n \n Does that answer your question?", 
+   {}, 
+   147587, 
+   null, 
+   1121472900.0
+  ], 
+  [
+   147602, 
+   null, 
+   "PoohBear", 
+   "E=MC^2\n E= energy also equals one joule\n 1joule = kgm^2 over s^2\n (kilograms X meters squared over seconds squared)\n \n m= kg\n c^2 = meters over seconds squared\n \n so inother words you have 1kgm^2 over s^2 = 1kgm^2 over s^2 emoticon_idea", 
+   {}, 
+   147588, 
+   null, 
+   1121474220.0
+  ], 
+  [
+   147634, 
+   null, 
+   "ColCletus", 
+   "E=MC^2\n E= energy also equals one joule\n 1joule = kgm^2 over s^2\n (kilograms X meters squared over seconds squared)\n \n m= kg\n c^2 = meters over seconds squared\n \n so inother words you have 1kgm^2 over s^2 = 1kgm^2 over s^2 emoticon_idea\n\n \n homina homina homina", 
+   {}, 
+   147602, 
+   null, 
+   1121481480.0
+  ], 
+  [
+   147638, 
+   null, 
+   "PoohBear", 
+   "its right though", 
+   {}, 
+   147634, 
+   null, 
+   1121482020.0
+  ], 
+  [
+   147707, 
+   null, 
+   "zachvac", 
+   "I think the oringinal question, as well as my question, is what is significant about the c^2. I know that e is energy and m is mass, but is it just a coinicidence that the ratio of energy over mass is the same as the speed of light squared?", 
+   {}, 
+   147638, 
+   null, 
+   1121496780.0
+  ], 
+  [
+   147744, 
+   null, 
+   "Kronus", 
+   "I think the oringinal question, as well as my question, is what is significant about the c^2. I know that e is energy and m is mass, but is it just a coinicidence that the ratio of energy over mass is the same as the speed of light squared?\n\n \n So basically you want to know how Einstein got that equation? Not a simple question to answer. :)\n \n The c^2 is not just coincidence. Einstein started with two postulates. Absolute uniform motion cannot be detected, and the speed of light is independent of the motion of the source. One of the upshots of these postulates is that all observes will see the same speed for light in a vacuum. Another is that no mass can go faster than light. Einstien did some thought experiments (which have since been done for real) and figured that this would mean that things like length and time are not absolute, but depend on the motion of the observer. He even figured out the math, getting:\n delta t = gamma delta t' and L' = L0/gamma where gamma is defined as\n 1/sqrt(1 - v^2/c^2)\n \n So that's where the c^2 comes in. Do more algebra than is easy to reproduce in a post, and a few more thought experiments, and you can go from the above equations to e = m c^2.\n \n This is all very simplified, mostly because the algebra is hard to reproduce here. The actual math is surprisingly simple though. If you can handle freshman college physics you can grab a modern physics book and follow Einsitein's thought path when he came up with his equations.", 
+   {}, 
+   147707, 
+   null, 
+   1121521560.0
+  ], 
+  [
+   147771, 
+   null, 
+   "Clive14", 
+   "its right though\nNope, it ain't. Your fallacy occurs with the claim that \"c^2 = meters over seconds squared\"", 
+   {}, 
+   147638, 
+   null, 
+   1121533140.0
+  ], 
+  [
+   147772, 
+   null, 
+   "Clive14", 
+   "I think the oringinal question, as well as my question, is what is significant about the c^2. I know that e is energy and m is mass, but is it just a coinicidence that the ratio of energy over mass is the same as the speed of light squared?\nHey, why didn't I ask it like that? emoticon_xgood \n Thanks zachvac, you actually managed to phrase what I was trying to say in a meaningful fashion.", 
+   {}, 
+   147707, 
+   null, 
+   1121533260.0
+  ], 
+  [
+   147774, 
+   null, 
+   "Clive14", 
+   "The c^2 is not just coincidence. ... If you can handle freshman college physics you can grab a modern physics book and follow Einsitein's thought path when he came up with his equations.\nI've always assumed the maths would be ludicruously complex and so have never looked into it. Thanks for the info Kronus (oh and respect to a fellow \"furlongs per fortnight\" fan ;))", 
+   {}, 
+   147744, 
+   null, 
+   1121533560.0
+  ], 
+  [
+   147780, 
+   null, 
+   "Kronus", 
+   "Nope, it ain't. Your fallacy occurs with the claim that \"c^2 = meters over seconds squared\"\n\n \n He's got mathematical grammar issues. Throw paraenthesis around \"meters per seconds\" and it'll say what he meant to say.", 
+   {}, 
+   147771, 
+   null, 
+   1121536740.0
+  ], 
+  [
+   147800, 
+   null, 
+   "PoohBear", 
+   "He's got mathematical grammar issues. Throw paraenthesis around \"meters per seconds\" and it'll say what he meant to say.\n\n \n thanks you i forgot the ( )", 
+   {}, 
+   147780, 
+   null, 
+   1121540940.0
+  ], 
+  [
+   147962, 
+   null, 
+   "zachvac", 
+   "E=MC^2\n E= energy also equals one joule\n 1joule = kgm^2 over s^2\n (kilograms X meters squared over seconds squared)\n \n m= kg\n c^2 = meters over seconds squared\n \n so inother words you have 1kgm^2 over s^2 = 1kgm^2 over s^2 emoticon_idea\n\n \n \n You also make the assumption that the energy is ONE joule, that the mass is ONE kilogram, and that the speed of light is 1 meter per second. The first two are pretty big assumptions and the last statement is just plain false.", 
+   {}, 
+   147602, 
+   null, 
+   1121575440.0
+  ], 
+  [
+   147963, 
+   null, 
+   "zachvac", 
+   "So basically you want to know how Einstein got that equation? Not a simple question to answer. :)\n \n The c^2 is not just coincidence. Einstein started with two postulates. Absolute uniform motion cannot be detected, and the speed of light is independent of the motion of the source. One of the upshots of these postulates is that all observes will see the same speed for light in a vacuum. Another is that no mass can go faster than light. Einstien did some thought experiments (which have since been done for real) and figured that this would mean that things like length and time are not absolute, but depend on the motion of the observer. He even figured out the math, getting:\n delta t = gamma delta t' and L' = L0/gamma where gamma is defined as\n 1/sqrt(1 - v^2/c^2)\n \n So that's where the c^2 comes in. Do more algebra than is easy to reproduce in a post, and a few more thought experiments, and you can go from the above equations to e = m c^2.\n \n This is all very simplified, mostly because the algebra is hard to reproduce here. The actual math is surprisingly simple though. If you can handle freshman college physics you can grab a modern physics book and follow Einsitein's thought path when he came up with his equations.\n\n \n Wow, that went a little over my head. Thanks for expalining.", 
+   {}, 
+   147744, 
+   null, 
+   1121575560.0
+  ], 
+  [
+   147967, 
+   null, 
+   "biccat", 
+   "You also make the assumption that the energy is ONE joule, that the mass is ONE kilogram, and that the speed of light is 1 meter per second. The first two are pretty big assumptions and the last statement is just plain false.\n\n emoticon_rolleyes \n He did a units analysis, it wasn't meant as a particular solution to the problem, he just demonstrated that the units are equivalent on both sides of the equation (which was Clive14's initial question).\n \n Although if you really wanna be pedantic, it should be:\n Energy (e) = M*D^2/T^2\n Mass (m) = M\n Velocity (c) = D/T\n \n M*D^2/T^2 = M (D/T)^2", 
+   {}, 
+   147962, 
+   null, 
+   1121576760.0
+  ], 
+  [
+   152276, 
+   null, 
+   "omega", 
+   "I am still lower level math so mathmaticaly i cant explain, but... baisically as an object is excellerated towards the speed of light its mass will increase propotionally this means that as it aproaches the speed of light the energy it takes to get there will increase infinitly. Its basicaly cutting the remaining length of some thing in half over and over it will get closer to nothing but never get there. In short e=mcsqrd is a no solution equation when the correct constants are plugged in.", 
+   {
+    "post_info": {
+     "post_title": "simple answer in straight english"
+    }
+   }, 
+   147962, 
+   null, 
+   1122989940.0
+  ], 
+  [
+   152290, 
+   null, 
+   "Kronus", 
+   "I am still lower level math so mathmaticaly i cant explain, but... baisically as an object is excellerated towards the speed of light its mass will increase propotionally this means that as it aproaches the speed of light the energy it takes to get there will increase infinitly. Its basicaly cutting the remaining length of some thing in half over and over it will get closer to nothing but never get there. In short e=mcsqrd is a no solution equation when the correct constants are plugged in.\n\n \n Sorry, but you've got a couple of Einsitein's theorys mixed up there. The e in e = m c^2 is the rest energy of an object, it has nothing to do with motion. And it does have a definite solution. Basically, it's the amount of energy you would get if you converted some mass completely into energy. To give you a handle on the scale here, atomic bombs work by converting a fraction of a percent of their mass into energy. That's where all the energy in an atomic blast comes from.", 
+   {}, 
+   152276, 
+   null, 
+   1122994020.0
+  ], 
+  [
+   152306, 
+   null, 
+   "omega", 
+   "Kronus. Of course there are many uses of the equation and you must use it in conjunction with othere formulas and equations for any use, and i realize that i didnt state this. But you must also realize that what i said was correct. As an object approches the speed of light the mas increases and since m is increasing so is e and so on and on and on. \n \n You see reasonably knowledgable about this so i have a question that i've been wondering. The larger an object the more potential energy it has, right. Could this mean that its not more energy because the object is larger but the object is larger becase the enrgy it is taking to keep it at a constant rate ( around the sun, through the galaxy ect. ...)? just asking probably not anywhere close but never hurts.", 
+   {}, 
+   152290, 
+   null, 
+   1122997260.0
+  ], 
+  [
+   152378, 
+   null, 
+   "Kronus", 
+   "Kronus. Of course there are many uses of the equation and you must use it in conjunction with othere formulas and equations for any use, and i realize that i didnt state this. But you must also realize that what i said was correct. As an object approches the speed of light the mas increases and since m is increasing so is e and so on and on and on. \n \n\n Sorry, but you've got this wrong. The energy in question here is rest energy. The energy it gains from motion is something completely different, and is not addressed in e = m c^2 at all.\n \n \n\n You see reasonably knowledgable about this so i have a question that i've been wondering. The larger an object the more potential energy it has, right. Could this mean that its not more energy because the object is larger but the object is larger becase the enrgy it is taking to keep it at a constant rate ( around the sun, through the galaxy ect. ...)? just asking probably not anywhere close but never hurts.\n\n It takes no energy at all for an object of any size to continue moving through space. That's one of Newton's laws. The reason a larger (although we should say more massive) object has more potential energy is because it's being pulled on harder by the Earth, or whatever the local gravity source is.", 
+   {}, 
+   152306, 
+   null, 
+   1123014780.0
+  ], 
+  [
+   152450, 
+   null, 
+   "omega", 
+   "OK OK i give up maybe your right you probably are. Your older and probably know a lot more. But i would like to know the equation that states you can't reach the speed of light because it would take an infinite amount of energy. I thought that E (the energy it takes to accelerate an object to the speed of light) increased as the mass m reached the speed of light c because m was increasing and it becomes an infinite cycle. Please post the equation i was thinking of.", 
+   {}, 
+   152378, 
+   null, 
+   1123034940.0
+  ], 
+  [
+   152465, 
+   null, 
+   "Kronus", 
+   "OK OK i give up maybe your right you probably are. Your older and probably know a lot more. But i would like to know the equation that states you can't reach the speed of light because it would take an infinite amount of energy. I thought that E (the energy it takes to accelerate an object to the speed of light) increased as the mass m reached the speed of light c because m was increasing and it becomes an infinite cycle. Please post the equation i was thinking of.\n\n \n You're probably thinking of this one.\n \n m = m0 / (1 - (v^2 / c^2))^.5\n \n where m0 is the rest mass, m is the relativistic mass, v is the mass's velocity, and c is the speed of light. As v approaches c, m approaches infinity. Thus, from F = ma, when your mass is nearly infinite you need a nearly infinite force to have any acceleration.", 
+   {}, 
+   152450, 
+   null, 
+   1123038600.0
+  ], 
+  [
+   152568, 
+   null, 
+   "omega", 
+   "This is probable the oneI was thinking of although I thought you used it with e=mc^2 . Thanks for correcting me. Thats why I'm ont he forums, to learn. \n \n I have one question though. I thought you used several equations to prove this and that is only one if possible could you give me some of the other equations.\n Thnx again.", 
+   {}, 
+   152465, 
+   null, 
+   1123087020.0
+  ], 
+  [
+   153012, 
+   null, 
+   "gnojek", 
+   "I always thought that E=mc2 was derived from Maxwell's Equations (or really just his improvement of Ampere's Law).\n \n This is where he showed that light was electromagnetic radiation travelling through space (instead of ether). Wait, or did Maxwell think there was an ether?\n \n Hmm, or since he realized that c was related to the permittivity of free space, maybe not...\n \n From this experimenters were able to calculate c knowing the other terms in the equations, from what I remember...\n \n This page explains this pretty ok:\n \n http://www.rare-earth-magnets.com/magnet_university/maxwells_equations.htm\n \n \nThis equation has a simple solution in terms of traveling sinusoidal plane waves, traveling at the speed (&#956;0&#949;0)^-1/2.\n \n Maxwell's observation that &#956;0&#949;0 = c^-2, relating the speed of light c to the permittivity and permeability of free space, was the first confirmation that light was electromagnetic radiation.\n\n http://scienceworld.wolfram.com/physics/SpeedofLight.html\n \n That's how they could predict at least the order of magnitude of the speed of light.\n \n But wait, looking this up the first calculations of the speed of light were using a Fizeau Wheel which was designed in 1849. Maxwell cranked out his equations in the 1860s. {shrug}\n \n Maybe the calculations based on electricity/magnetism and measurements with interferometry were happeneing about the same time.\n \n Well, this page says:\n \nThe first measurement of c on Earth was by Armand Fizeau in 1849. He used a beam of light reflected from a mirror 8 km away. The beam passed through the gaps between teeth of a rapidly rotating wheel. The speed of the wheel was increased until the returning light passed through the next gap and could be seen. Then c was calculated to be 315,000 km/s. Leon Foucault improved on this a year later by using rotating mirrors and got the much more accurate answer of 298,000 km/s. His technique was good enough to confirm that light travels slower in water than in air.\n \n After Maxwell published his theory of electromagnetism it became possible to calculate the speed of light indirectly from the magnetic permeability and electric permitivity of free space. This was first done by Weber and Kohlrausch in 1857. In 1907 Rosa and Dorsey obtained 299,788 km/s in this way. It was the most accurate value at that time.\n\n \n Yeah, so wow, people were measuring it before calculating it.\n Amazing.", 
+   {}, 
+   152568, 
+   null, 
+   1123200360.0
+  ], 
+  [
+   153251, 
+   null, 
+   "DamEtel", 
+   "Yeah, so wow, people were measuring [the speed of light] before calculating it.\n\n \n Which is how Maxwell showed that light was electromagnetic waves. The speed of light had already been measured (not perfectly, but good enough). Maxwell then unified various equations related to electricity and magnetism and out of that set of equations fell electromagnetic waves that traveled at the speed of light. He wasn't trying to get that result, and he didn't add fudge factors to make it all work out .... electromagnetic waves traveling at the speed of light just \"fell out\" of his equations.\n \n As far as the c^2, might it have come from Lorentz? After all, Lorentz (or Lorentz/Fitzgerald ) contraction had been proposed several years before Einstein published his e=mc^2, as a means of explaining the null results of the Michelson/Morley experiment.", 
+   {}, 
+   153012, 
+   null, 
+   1123311360.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  e = mc^2 - what does that mean?", 
+  "url": "http://www.4forums.com/political/science-math-debates/5961-e-mc-2-what-does-mean.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 5961, 
+  "discussion_files": [
+   [
+    "3255.html", 
+    "http://www.4forums.com/political/science-math-debates/5961-e-mc-2-what-does-mean-print.html"
+   ], 
+   [
+    "3256.html", 
+    "http://www.4forums.com/political/science-math-debates/5961-e-mc-2-what-does-mean-2-print.html"
+   ]
+  ], 
+  "identifier": 5961
+ }
+]

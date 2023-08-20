@@ -1,0 +1,836 @@
+[
+ [
+  [
+   311599, 
+   null, 
+   "Kronus", 
+   "So, this one was on Mythbusters. But even after it was \"resolved\" there was apparently a huge debate on their web site about the result, let alone the debate before the experiments were done. So, since I like a good debate, I thought I'd try it out here and see what happens.\n \n Here's the scenario. You have a small plane, with a take off speed of, say, 30 mph. It's sitting on a huge treadmill which is running at 30 mph in the direciton opposite the one the plane is trying to take off in. The pilot tries to take off. Can he? \n \n Assume: no wind, plane won't run off the treadmill\n \n While watching this on Mythbusters I felt that they didn't define the problem well, so if there are any questions about the scenario please speak up. The main question is: if the plane needs to go 30 mpg north, and the treadmill is going 30 mph south, can the plane get in the air.", 
+   {
+    "post_info": {
+     "post_title": "Plane on a treadmill"
+    }
+   }, 
+   null, 
+   null, 
+   1211499540.0
+  ], 
+  [
+   311600, 
+   null, 
+   "iangb", 
+   "No, the plane cannot take off. The quantity essential for flight is the air pressure over/under the wings, which requires the air speed relative to the wings to be (in your example) 30mph. When the plane is on the treadmill, only it's wheels are turning at the relevant speed but the rest of the plane is unaffected, so there is not enough of a relative windspeed, so there is not enough air pressure, so the plane will not take off.\n \n If you got a fan that blew air at 30mph (for your example plane _only_) and put it in front of the plane facing it, the plane would lift vertically upwards, treadmill or no treadmill.", 
+   {}, 
+   311599, 
+   null, 
+   1211500020.0
+  ], 
+  [
+   311602, 
+   null, 
+   "Kronus", 
+   "Based on Iangb's response, there may be one more thing I need to make explicit. The pilot is trying to take off. The engine is going, the prop is turning, the pilot is doing whatever he would normally do to try to take off.", 
+   {}, 
+   311600, 
+   null, 
+   1211501520.0
+  ], 
+  [
+   311603, 
+   null, 
+   "Penfold", 
+   "I would agree. The airflow from the propeller would not provide sufficient airflow over enough wing area to provide lift.", 
+   {}, 
+   311600, 
+   null, 
+   1211501520.0
+  ], 
+  [
+   311604, 
+   null, 
+   "snakespit", 
+   "No, the plane cannot take off. The quantity essential for flight is the air pressure over/under the wings, which requires the air speed relative to the wings to be (in your example) 30mph. When the plane is on the treadmill, only it's wheels are turning at the relevant speed but the rest of the plane is unaffected, so there is not enough of a relative windspeed, so there is not enough air pressure, so the plane will not take off.\n \n If you got a fan that blew air at 30mph (for your example plane _only_) and put it in front of the plane facing it, the plane would lift vertically upwards, treadmill or no treadmill.\n\n \n Exactly correct. Airflow over the wings causes a relative low pressure above the wing, and a relative high pressure below due to the shape if the airfoil. It is this pressure gradient that creates lift that will allow the aircraft to fly by overcoming the force of gravity. If the aircraft were to remain stationary in one location, there would be no relative wind over the airfoil, therefore no lift generated.", 
+   {}, 
+   311600, 
+   null, 
+   1211501580.0
+  ], 
+  [
+   311607, 
+   null, 
+   "Steeeeve", 
+   "You know that thing you can do with your hands when you are in a car (at least I've done it) where you cup your hand kind of and it will lift if you point it a certain way. Try doing that on a treadmill while going fast. Doesn't happen. The engines of a plan are basically there to pull the plane across the air to create lift. On a miniature plane it might work though because the prop is going to be disproportionate to the plane anyway and might create enough wind over the wings to give left. I don't think you can do that on a normal sized plane. I guess that brings up could you gain lift if you has huge fans blowing at the plane.", 
+   {}, 
+   311604, 
+   null, 
+   1211505720.0
+  ], 
+  [
+   311611, 
+   null, 
+   "Steeeeve", 
+   "I read up on it and you are right...the way the problem is worded makes you think differently. I won't give away the answer but I was assuming they did something they didn't do.", 
+   {}, 
+   311607, 
+   null, 
+   1211507820.0
+  ], 
+  [
+   311613, 
+   null, 
+   "Kronus", 
+   "If the aircraft were to remain stationary in one location, there would be no relative wind over the airfoil, therefore no lift generated.\n\n \n Why do you think the plane is stationary?", 
+   {}, 
+   311604, 
+   null, 
+   1211508840.0
+  ], 
+  [
+   311618, 
+   null, 
+   "Steeeeve", 
+   "Why do you think the plane is stationary?\n\n \n The scenario kind of implies it. This is what throws people off.", 
+   {}, 
+   311613, 
+   null, 
+   1211512140.0
+  ], 
+  [
+   311619, 
+   null, 
+   "Kronus", 
+   "The scenario kind of implies it. This is what throws people off.\n\n \n That's why I want to hear snakespit's reasoning.", 
+   {}, 
+   311618, 
+   null, 
+   1211512380.0
+  ], 
+  [
+   311620, 
+   null, 
+   "smiley", 
+   "There are 2 possiblities.\n \n The easy one is the pilot turns the plane round so he's facing the other way and takes off, but I assume that is not allowed.\n \n The second is to ascertain whether the wheels are limited in their turning speed. If we could assume that the wheels do not experience too much friction, then it is conceivable that the plane could still make the 30 mph required for takeoff. The wheels would be turning at twice the speed, but that's just tough on them. If you could assume that the wheels were friction-free, then the plane would not even be effected by the treadmill, it would just sit there motionless with its wheels turning at whatever speed 30mph means (even without the props turning).\n \n So, if the wheels are super duper frictionless uberwheels, then yes, takeoff is no problem. If they create to much friction (the engines not being able to provide enough thrust to overcome that friction + normal thrust), then no takeoff.\n \n Smiley", 
+   {}, 
+   311613, 
+   null, 
+   1211512440.0
+  ], 
+  [
+   311623, 
+   null, 
+   "Kronus", 
+   "\n The easy one is the pilot turns the plane round so he's facing the other way and takes off, but I assume that is not allowed.\n\n Quite right. :)\n \n \n\n So, if the wheels are super duper frictionless uberwheels, then yes, takeoff is no problem. If they create to much friction (the engines not being able to provide enough thrust to overcome that friction + normal thrust), then no takeoff.\n \n\n \n They're normal wheels. Not perfect, frictionless wheels, but standard wheels that are as low friction as financially feasible.", 
+   {}, 
+   311620, 
+   null, 
+   1211512860.0
+  ], 
+  [
+   311626, 
+   null, 
+   "smiley", 
+   "Quite right. :)\n \n \n \n They're normal wheels. Not perfect, frictionless wheels, but standard wheels that are as low friction as financially feasible.\n\n \n If we can't have super duper frictionless uberwheels, then we'll have to fit the super duper ultrathrust uberprops then. emoticon_cool \n \n Smiley", 
+   {}, 
+   311623, 
+   null, 
+   1211513940.0
+  ], 
+  [
+   311654, 
+   null, 
+   "obvious_child", 
+   "Plane shouldn't be able to take off. Lift is generated through moving the plane into a medium, air in this case. If there is no movement as any movement forward is equally negated by movement backwards, there is no lift generated. No lift, no takeoff. \n \n I agree, the Mythbuster's team dropped the ball on that experiment.", 
+   {}, 
+   311626, 
+   null, 
+   1211539740.0
+  ], 
+  [
+   311659, 
+   null, 
+   "iangb", 
+   "Having watched the 'myth-busting' experiment - it is indeed flawed. The point of 'a plane on a treadmill' is that the plane is stationary relative to everything else. Once that was flawed, so was the rest of the experiment. So, to re-phrase...\n \n \nThe main question is: if the plane needs to go 30 mpg north, and the treadmill is going 30 mph south, can the plane get in the air?\n\n Yes. The wheel just need to be turning fast enough that the plane is moving at 60mph relative to the surface of the treadmill, so the plane is still going 30mph north relative to the air. Alternatively (as pointed out above) the pilot could turn the plane around, lock the wheels in position and the speed of the treadmill would cause him to lift off without starting his engines.", 
+   {}, 
+   311654, 
+   null, 
+   1211548500.0
+  ], 
+  [
+   311660, 
+   null, 
+   "Kronus", 
+   "Having watched the 'myth-busting' experiment - it is indeed flawed. The point of 'a plane on a treadmill' is that the plane is stationary relative to everything else.\n\n Was that your impression? At first I thought they were describing the situation you mention later; a plane sitting on a treadmill and being moved by it. But having seen the show I'm not sure the Mythbusters blew it. Even a real pilot, who knew exactly what was going to be tried, didn't guess the outcome correctly; their experiment showed that a plane on a treadmill doesn't act like a car on a treadmill.", 
+   {}, 
+   311659, 
+   null, 
+   1211551080.0
+  ], 
+  [
+   311681, 
+   null, 
+   "Steeeeve", 
+   "which I agree with...but the problem implies it will be stationary in my opinion and it doesn't.", 
+   {}, 
+   311660, 
+   null, 
+   1211559900.0
+  ], 
+  [
+   311686, 
+   null, 
+   "pandion", 
+   "The point of the propeller is to move the plane through the air. Ground speed is actually irrelevant. What matters is air speed. Even though the treadmill is moving at 30 mph, the propeller will move the plane through the air, and when the air speed is sufficient it will take off. That's why planes take off and land while facing into the wind as much as possible. They are able to maintain a higher air speed and at the same time reduce the ground speed.", 
+   {}, 
+   311681, 
+   null, 
+   1211563380.0
+  ], 
+  [
+   311689, 
+   null, 
+   "Kronus", 
+   "which I agree with...but the problem implies it will be stationary in my opinion and it doesn't.\n\n \n I really don't think the problem implies that, at least not explicitly. That's just a conclusion that people tend to jump to.", 
+   {}, 
+   311681, 
+   null, 
+   1211564880.0
+  ], 
+  [
+   311693, 
+   null, 
+   "Archangel", 
+   "which I agree with...but the problem implies it will be stationary in my opinion and it doesn't.\n\n \n \n I saw the show, and in it, the plane did move forward over the belt that was moving backward. The plane did get up to the speed necessary for that type of plane to take off. So if the object of the experiment was to see if the belt alone could attain lift for the plane, then it would have failed miserably.\n \n http://www.youtube.com/watch?v=KSBFQOfas60 This one sets up the experiment.\n \n http://www.youtube.com/watch?v=IbRcg3ji_Pc This one shows the take off with the plane moving forward on the belt.\n \n http://www.youtube.com/watch?v=YORCk1BN7QY&feature=related This one gives the complete sequence and the guys discussing their conclusions at the end of the show.\n \n This info will give you the actual facts from the show so you can debate what happened in comparison to what the myth proposes. I personally don't feel like they busted the myth because with the plane moving forward, that defeats the original question being tested. If I'm understanding the original question, that is.", 
+   {}, 
+   311681, 
+   null, 
+   1211567700.0
+  ], 
+  [
+   311703, 
+   null, 
+   "isly ilwott", 
+   "So, this one was on Mythbusters. But even after it was \"resolved\" there was apparently a huge debate on their web site about the result, let alone the debate before the experiments were done. So, since I like a good debate, I thought I'd try it out here and see what happens.\n \n Here's the scenario. You have a small plane, with a take off speed of, say, 30 mph. It's sitting on a huge treadmill which is running at 30 mph in the direciton opposite the one the plane is trying to take off in. The pilot tries to take off. Can he? \n \n Assume: no wind, plane won't run off the treadmill\n \n While watching this on Mythbusters I felt that they didn't define the problem well, so if there are any questions about the scenario please speak up. The main question is: if the plane needs to go 30 mpg north, and the treadmill is going 30 mph south, can the plane get in the air.\nWith your conditions (no wind, plane stays on the treadmill), the plane would not fly because there would be no air speed therefore no lift.\n \n In the Mythbusters' childishly presented video, the plane moves in relation to the ground and therefore would have eventually run off the end of a treadmill unless the treadmill was very long. When the plane attained enough air speed, it was airborn. This had nothing to do with the speed at which the tarp was being pulled under the plane. \n A silly, inconclusive experiment.", 
+   {}, 
+   311599, 
+   null, 
+   1211575680.0
+  ], 
+  [
+   311707, 
+   null, 
+   "Kronus", 
+   "With your conditions (no wind, plane stays on the treadmill), the plane would not fly because there would be no air speed therefore no lift.\n \n In the Mythbusters' childishly presented video, the plane moves in relation to the ground and therefore would have eventually run off the end of a treadmill unless the treadmill was very long. When the plane attained enough air speed, it was airborn. This had nothing to do with the speed at which the tarp was being pulled under the plane. \n A silly, inconclusive experiment.\n\n \n I'm not following your reasoning. Yes, no airspeed = no lift, got that; but why would there be no air speed? Why shouldn't the plane move relative to the ground?", 
+   {}, 
+   311703, 
+   null, 
+   1211578560.0
+  ], 
+  [
+   311709, 
+   null, 
+   "Kronus", 
+   " \n I personally don't feel like they busted the myth because with the plane moving forward, that defeats the original question being tested. If I'm understanding the original question, that is.\n\n \n The myth as stated by Adam was \"the plane is sitting on a huge conveyor belt that is matching the plane's forward speed in reverse.\" Plus or minus a few miles an hour, that's what they tested.", 
+   {}, 
+   311693, 
+   null, 
+   1211578800.0
+  ], 
+  [
+   311710, 
+   null, 
+   "Archangel", 
+   "I'm not following your reasoning. Yes, no airspeed = no lift, got that; but why would there be no air speed? Why shouldn't the plane move relative to the ground?\n\n \n If the Plane was to build airspeed by moving forward anyway, what was the point of using the treadmill in the first place? emoticon_confused", 
+   {}, 
+   311707, 
+   null, 
+   1211578860.0
+  ], 
+  [
+   311711, 
+   null, 
+   "isly ilwott", 
+   "I'm not following your reasoning. Yes, no airspeed = no lift, got that; but why would there be no air speed? Why shouldn't the plane move relative to the ground?\nBecause you said no wind...and that the airplane stays on the treadmill.\n \n In the set-up videos where they had a small treadmill and a model airplane, it was plan to see that they intended for the plane not to move relative to the ground.\n \n If there is no wind, there is no motion of air across the wings of a plane that is stationary relative to the ground. No matter how fast the treabmill belt travels and no matter how fast the wheels spin on the landing gear, there is no airspeed to lift the plane.\n \n As I said, it is a silly, inconclusive attempt. Nothing appears to have been proved or debunked.", 
+   {}, 
+   311707, 
+   null, 
+   1211578980.0
+  ], 
+  [
+   311713, 
+   null, 
+   "Archangel", 
+   "The myth as stated by Adam was \"the plane is sitting on a huge conveyor belt that is matching the plane's forward speed in reverse.\" Plus or minus a few miles an hour, that's what they tested.\n\n \n I think what you said here is an accurate recap of the intent of the experiment. But if that was the case in reality, then the plane wouldn't have gotten up to take off speed on the treadmill, but would have remained in basically a stationary position on it as the treadmill moved backward. Unless I'm seriously misunderstanding the intent of the original claim/myth, by getting up to take off speed, the pilot corrupted the intent of the experiment.", 
+   {}, 
+   311709, 
+   null, 
+   1211579400.0
+  ], 
+  [
+   311714, 
+   null, 
+   "isly ilwott", 
+   "The myth as stated by Adam was \"the plane is sitting on a huge conveyor belt that is matching the plane's forward speed in reverse.\" Plus or minus a few miles an hour, that's what they tested.\nThen your conditions listed in:\n \n \n \"Assume: no wind, plane won't run off the treadmill\"\n \n must have meant that the treadmill was long as in runway length, unlike the short treadmill depicted in the set-up video.\n \n In the video of the actual plane and the tarp being pulled out from under it, the scene was more like you described than like the set-up video depicted.\n \n Regarding the actual experiment, the only difference that the speed of the truck (pulling the tarp) makes is in the rotational speed of the wheels on the plane. Assuming that the plane's wheel bearings are lubricated, the speed of the tarp makes no difference in the take off distance of the plane.", 
+   {}, 
+   311709, 
+   null, 
+   1211580420.0
+  ], 
+  [
+   311716, 
+   null, 
+   "Kronus", 
+   "I think what you said here is an accurate recap of the intent of the experiment. But if that was the case in reality, then the plane wouldn't have gotten up to take off speed on the treadmill, but would have remained in basically a stationary position on it as the treadmill moved backward. Unless I'm seriously misunderstanding the intent of the original claim/myth, by getting up to take off speed, the pilot corrupted the intent of the experiment.\n\n \n I think you understand the intent of the experiment, but only to a certain degree. What they wished to find out is if the plane could get up to take off speed if it was sitting on a treadmill matching its speed in the opposite direction. I'm sure they both know enough about planes to know that a plane has to be moving (or facing into a stiff wind) to take off, they wouldn't waste time checking that. What they were checking is the misconception that you seem to share; that the plane should have stayed in place. \n \n It's interesting that many people seem to think the plane shouldn't move, and the fact that it did on the mythbusters is attributed to error on their part, rather than a misconception on the part of the viewer.", 
+   {}, 
+   311713, 
+   null, 
+   1211580660.0
+  ], 
+  [
+   311717, 
+   null, 
+   "isly ilwott", 
+   "I think what you said here is an accurate recap of the intent of the experiment. But if that was the case in reality, then the plane wouldn't have gotten up to take off speed on the treadmill, but would have remained in basically a stationary position on it as the treadmill moved backward. Unless I'm seriously misunderstanding the intent of the original claim/myth, by getting up to take off speed, the pilot corrupted the intent of the experiment.\n\n Not so.\n \n If the plane's wheels are considered frictionless, with the planes' engine turned off, as the belt moves backwards under it the plane sits still. With the engine at full power, the prop screws its way through the air and pulls the plane forward regardless of the speed of the belt.\n \n The difficulty in understanding this I think is in grasping the difference between creating forward force by moving air across a prop as in an airplane and creating forward force by turning tires that are on the ground as in a car.\n \n The air and the treadmill surface have nothing in common.", 
+   {}, 
+   311713, 
+   null, 
+   1211581260.0
+  ], 
+  [
+   311718, 
+   null, 
+   "Kronus", 
+   " \n The air and the treadmill surface have nothing in common.\n\n \n Well, if we want to be precise (and this being the science forum we kinda hafta) the treadmill is providing a small bit of extra friction on the wheels. To achieve the takeoff speed of 30 mph the plane might have to \"go\" 31 mph to compensate. That is to say, to go 30 mpg on the treadmill the plane might have to exert such power that, on a level non-moving surface, it would have been going 31 mph. So the treadmill isn't utterly irrelevant, just very nearly so.", 
+   {}, 
+   311717, 
+   null, 
+   1211581800.0
+  ], 
+  [
+   311719, 
+   null, 
+   "Archangel", 
+   "Well, if we want to be precise (and this being the science forum we kinda hafta) the treadmill is providing a small bit of extra friction on the wheels. To achieve the takeoff speed of 30 mph the plane might have to \"go\" 31 mph to compensate. That is to say, to go 30 mpg on the treadmill the plane might have to exert such power that, on a level non-moving surface, it would have been going 31 mph. So the treadmill isn't utterly irrelevant, just very nearly so.\n\n \n Now ya ses, you're losing me again kronus. Isn't it true that if the treadmill is going backwards at 30 mph, and the planes prop is pulling it forward at 31 mph, then the plane should be moving forward at approximately 1 mph? Remaining almost stationary on the treadmill? In order to increase speed to 30 mph, shouldn't it have to be doubling its energy output that would be required on a stationary surface?", 
+   {}, 
+   311718, 
+   null, 
+   1211583540.0
+  ], 
+  [
+   311722, 
+   null, 
+   "Kronus", 
+   "Now ya ses, you're losing me again kronus. Isn't it true that if the treadmill is going backwards at 30 mph, and the planes prop is pulling it forward at 31 mph, then the plane should be moving forward at approximately 1 mph? Remaining almost stationary on the treadmill? In order to increase speed to 30 mph, shouldn't it have to be doubling its energy output that would be required on a stationary surface?\n\n \n That's exactly the problem that this experiment is meant to examine, I think. The thing to keep in mind is that planes don't push off on the ground like, for example, cars do. They pull themselves through the air. The prop is pulling the plane forwards at 30 mph, relative to the stationary ground, and the treadmill goes the other way at 30 mph. Thus, the wheels are spinning at 60 mph, but that's fine since they aren't powered, they can spin as fast as they like without the engine having to do more work. You could speed the treadmill up to the point where the wheels melt and the plane would still be able to take off.\n \n Now that you mention it, I don't think it would actually be possible to hold a plane still on a treadmill running at takeoff speed. Props have a mimimum speed, they produce a minimum thrust. I strongly suspect (and can probably confirm if anyone cares enough) that thrust is well above that needed to hold a plane steady on a treadmill, given that all it really needs to do is overcome the friction of the wheels.", 
+   {}, 
+   311719, 
+   null, 
+   1211584320.0
+  ], 
+  [
+   311723, 
+   null, 
+   "isly ilwott", 
+   "Well, if we want to be precise (and this being the science forum we kinda hafta) the treadmill is providing a small bit of extra friction on the wheels. To achieve the takeoff speed of 30 mph the plane might have to \"go\" 31 mph to compensate. That is to say, to go 30 mpg on the treadmill the plane might have to exert such power that, on a level non-moving surface, it would have been going 31 mph. So the treadmill isn't utterly irrelevant, just very nearly so.\nThat is correct. I had previously made the assumption that the wheels were \"frictionless\". Many scientific questions are approached in that fashion. Ignoring the weight of supporting threads is another common adjustment to reality when experimenting with physical models.\n \n We all know that the wheels are not truly frictionless...just real close to it. I have seen cases where if a supporting, highly-polished, horizontal surface is accelerated horizontally but slowly enough, a wheeled cart with near-frictionless bearings and near-perfectly round wheels will move right along with the surface. If the surface is accelerated quickly, the cart remains stationary.\n \n Since the plane's wheels cannot be absolutely frictionless, the plane's take off time may have been slightly increased by the moving tarp...but not enough to discern without instruments. The plane's take off distance would have been decreased slightly.", 
+   {}, 
+   311718, 
+   null, 
+   1211584500.0
+  ], 
+  [
+   311724, 
+   null, 
+   "Kronus", 
+   " \n Since the plane's wheels cannot be absolutely frictionless, the plane's take off time may have been slightly increased by the moving tarp...but not enough to discern without instruments. The plane's take off distance would have been decreased slightly. \n\n \n Increased, I think you meant.\n \n Sure, all that you say is true. I'm just anticipating future trouble here. I wouldn't want anyone to say \"but your theory is based on fricitionless wheels, which don't exist, so you're completely wrong!\". Given that we have an actually real world experiment to consider it seemed appropriate to specify just how much of a difference there would be between \"perfection\" and \"reality\". Simplifying assumptions work great for those who understand what's going on to start with, but I find they often confuse those who don't have a good grasp of what's going on; they don't always get just how little effect your assumption makes on the final answer.", 
+   {}, 
+   311723, 
+   null, 
+   1211585160.0
+  ], 
+  [
+   311726, 
+   null, 
+   "Archangel", 
+   "That's exactly the problem that this experiment is meant to examine, I think. The thing to keep in mind is that planes don't push off on the ground like, for example, cars do. They pull themselves through the air. The prop is pulling the plane forwards at 30 mph, relative to the stationary ground, and the treadmill goes the other way at 30 mph. Thus, the wheels are spinning at 60 mph, but that's fine since they aren't powered, they can spin as fast as they like without the engine having to do more work. You could speed the treadmill up to the point where the wheels melt and the plane would still be able to take off.\n\n \n Good explanation. It makes perfect sense.", 
+   {}, 
+   311722, 
+   null, 
+   1211586600.0
+  ], 
+  [
+   311727, 
+   null, 
+   "thelmoose", 
+   "Wouldn't the plane have to achieve an airspeed at least as fast as treadmill in the opposite direction or it would start moving backwards with respect to the ground which would be the equivalent of a tail wind? That is, if the plane needed 30mph to achieve lift and it's airspeed was 30 mph but the treadmill was moving in the opposite direction at 40mph, it wouldn't be able to lift off? Is that right?", 
+   {}, 
+   311726, 
+   null, 
+   1211588400.0
+  ], 
+  [
+   311731, 
+   null, 
+   "Kronus", 
+   "Wouldn't the plane have to achieve an airspeed at least as fast as treadmill in the opposite direction or it would start moving backwards with respect to the ground which would be the equivalent of a tail wind? That is, if the plane needed 30mph to achieve lift and it's airspeed was 30 mph but the treadmill was moving in the opposite direction at 40mph, it wouldn't be able to lift off? Is that right?\n\n \n Nope. All that matters is the airspeed. If the plane needs a speed of 30 mph to take off, that's 30 mph with respect to the air, not the ground. So if it's moving forward at 30 mph, with respect to the air, and the treadmill is going 40 mph the other way, all that means is that the wheels are spinning at 70 mph. So 70 mph with respect to the treadmill, but 30 mph with respect to the stationary ground, and the air. And it's the air that's important.", 
+   {}, 
+   311727, 
+   null, 
+   1211589480.0
+  ], 
+  [
+   311744, 
+   null, 
+   "snakespit", 
+   "That's why I want to hear snakespit's reasoning.\n\n \n Ok. If the aircraft builds an indicated airspeed of 30mph, yes, it will take off regardless of how fast the treadmill is moving under it. The treadmill could move 150mph backwards, the plane will still only require 30mph IAS to take off. \n \n The scenario seems to me to be poorly worded. One must assume a treadmill long enough for the take off run of the aircraft, which seems improbable. Second, one must assume that there is something preventing the aircraft from rolling off the treadmill (such as a ramped treadmill). Friction loss is irrelevent when considering speed needed to take off. Friction loss is between the wheels and the runway. This has nothing to do with the speed of the air moving over the wing. Regardless of how fast the treadmill is moving, you would still only need 30mph indicated airspeed to take off. You would require more power to negate the friction loss, but that would have nothing to do with the speed needed to allow the aircraft to generate sufficient lift for takeoff.", 
+   {}, 
+   311619, 
+   null, 
+   1211593920.0
+  ], 
+  [
+   311747, 
+   null, 
+   "Kronus", 
+   " \n The scenario seems to me to be poorly worded. One must assume a treadmill long enough for the take off run of the aircraft, which seems improbable.\n\n Improbable, but doable. The Mythbusters actually pulled it off with a really long length of cloth towed by a truck.\n \n \n \n Second, one must assume that there is something preventing the aircraft from rolling off the treadmill (such as a ramped treadmill).\n\n Off the sides you mean? The pilot can steer the plane even while it's on the ground.", 
+   {}, 
+   311744, 
+   null, 
+   1211596800.0
+  ], 
+  [
+   311760, 
+   null, 
+   "pandion", 
+   "With your conditions (no wind, plane stays on the treadmill), the plane would not fly because there would be no air speed therefore no lift.\nThat's just not true. An air plane is not driven along the ground by its wheels. It is pulled through the air by it's propeller. Once the propeller begins to pull the plane, the ground is irrelevant.", 
+   {}, 
+   311703, 
+   null, 
+   1211608140.0
+  ], 
+  [
+   311789, 
+   null, 
+   "snakespit", 
+   "Improbable, but doable. The Mythbusters actually pulled it off with a really long length of cloth towed by a truck.\n\n I'm thinking of a Cessna and a giant 3000' treadmill. I understand that using scaling it is certainly possible. \n \n \nOff the sides you mean? The pilot can steer the plane even while it's on the ground.\n\n Yeah, I know...I've done it a \"few\" times... \n \n No, I meant off the back of the treadmill. I got the impression by the IP that it was referring to an aircraft sitting in a fixed point of space on a treadmill, without any relative wind over the wings. I had never seen this experiment or heard this debate before, but the concept is familiar to anyone who ever landed on an aircraft carrier. Indicated airspeed vs. target ground speed. Now that the IP seems to be more clear, I get it. So yes it is possible to take off, no the pilot will not need an indicated airspeed of 60mph, and friction loss in no way affects what speed the aircraft must attain to achieve sufficient lift for takeoff.", 
+   {}, 
+   311747, 
+   null, 
+   1211669280.0
+  ], 
+  [
+   311795, 
+   null, 
+   "Archangel", 
+   "Did you happen to see the actual videos of the experiment on mythbusters that I posted back on post 20? This gives good background and details about what actually happened on the show. http://www.4forums.com/political/showpost.php?p=311693&postcount=20", 
+   {}, 
+   311789, 
+   null, 
+   1211673540.0
+  ], 
+  [
+   311816, 
+   null, 
+   "snakespit", 
+   "Did you happen to see the actual videos of the experiment on mythbusters that I posted back on post 20? This gives good background and details about what actually happened on the show. http://www.4forums.com/political/showpost.php?p=311693&postcount=20\n\n \n I get it now.", 
+   {}, 
+   311795, 
+   null, 
+   1211695020.0
+  ], 
+  [
+   311854, 
+   null, 
+   "isly ilwott", 
+   "Increased, I think you meant.\nNo. I meant decreased.\n \n First, let's clear up some cloudy areas in the scene. One must assume that the wheel brakes on the plane are not applied, that the pilot has applied thrust via the propeller enough to overcome the wheel friction that he always encounters when attempting to roll forward, then the ground under (via the belt) starts to move backward. This is essentially what happened when the full scale experiment was done with the truck and the tarp. The only effect the moving tarp had on the airplane wheels was to spin them faster. This slowed the airplane's progress relative to the real stationary world by only a slight amount...nonetheless it put the plane slightly behind where it would have been had the tarp stayed put. Thus when the plane reached flight speed, it should have been a bit closer to where it started than if the tarp had stayed put. That's all I'm saying. The distance that the plane is moved backward by the tarp depends on the the speed of the tarp's motion and the friction of the wheels...with neither of these significantly affecting the outcome.\n \n What is confusing is the initial thought of a very short treadmill when in actuality it takes a treadmill whose flat topside is longer than the take-off distance required for the airplane because once the thrust is applied by the prop against the air, there is no connection between the treadmill and the plane except in vertical support and reactions. The horizontal movement of the plane is not restrained so it moves toward the opposite end of the treadmill. Only if it reaches takeoff speed before the end of the treadmill will it successfully take off.\n \n In the set up videos, the idea of a short treadmill is fixed in your mind. In the real full size experiment, it would not have made much difference whether they pulled the tarp or not...the plane would have taken off in about the same distance, given the same wind conditions.\n \n \n \n\n Sure, all that you say is true. I'm just anticipating future trouble here. I wouldn't want anyone to say \"but your theory is based on fricitionless wheels, which don't exist, so you're completely wrong!\". Given that we have an actually real world experiment to consider it seemed appropriate to specify just how much of a difference there would be between \"perfection\" and \"reality\". Simplifying assumptions work great for those who understand what's going on to start with, but I find they often confuse those who don't have a good grasp of what's going on; they don't always get just how little effect your assumption makes on the final answer.\n..and in this case, the friction of the wheels make so little difference we probably could not detect it without ultra-sensitive instruments.\n \n It would be interesting to consider what would happen in the same experiment repeated at various levels of wheel-brake application, using parameters such as tire pressure, diameter, braking torque, all three wheels or just two, the speed of the belt and such like that, but I'm due to consider something worthwhile here shortly.\n \n \nOk. If the aircraft builds an indicated airspeed of 30mph, yes, it will take off regardless of how fast the treadmill is moving under it. The treadmill could move 150mph backwards, the plane will still only require 30mph IAS to take off. \n \n The scenario seems to me to be poorly worded. One must assume a treadmill long enough for the take off run of the aircraft, which seems improbable.\nNot improbable...exactly what they demonstrated. \n \n \n Second, one must assume that there is something preventing the aircraft from rolling off the treadmill (such as a ramped treadmill). Friction loss is irrelevent when considering speed needed to take off. Friction loss is between the wheels and the runway. This has nothing to do with the speed of the air moving over the wing. Regardless of how fast the treadmill is moving, you would still only need 30mph indicated airspeed to take off. You would require more power to negate the friction loss, but that would have nothing to do with the speed needed to allow the aircraft to generate sufficient lift for takeoff.\n...and the frictional losses through the wheels are neglegible.\n \n \nThat's just not true. An air plane is not driven along the ground by its wheels. It is pulled through the air by it's propeller. Once the propeller begins to pull the plane, the ground is irrelevant.\nI thought I explained that well enough.\n \n You replied to:Originally Posted by isly ilwott \n With your conditions (no wind, plane stays on the treadmill), the plane would not fly because there would be no air speed therefore no lift.\n \n At that time in the discussion, it was my understanding that the treadmill was barely longer than the plane and that there was no wind. There was also the condition that the plane stays on the treadmill.\n \n As I said, the confusion comes about because visualization of a short treadmill. It must be as long as the plane normally needs for take off.\n \n \nI get it now.\n\n \n Now, let's go on to something new and refreshing.", 
+   {}, 
+   311816, 
+   null, 
+   1211755860.0
+  ], 
+  [
+   311881, 
+   null, 
+   "snakespit", 
+   "Now, let's go on to something new and refreshing.\n\n \n Sure.\n \n If I am in a car traveling at the speed of light, and I turn the headlights on...do they do anything?", 
+   {}, 
+   311854, 
+   null, 
+   1211770680.0
+  ], 
+  [
+   311882, 
+   null, 
+   "smiley", 
+   "Sure.\n \n If I am in a car traveling at the speed of light, and I turn the headlights on...do they do anything?\n\n Theoretically, yes.\n \n If I remember my light correctly (it's been a while since I saw the light), light travels at the speed of light relative to all observers. So, the light from your headlights would travel away from you at the speed of light, though it would also travel away from a stationary observer at the speed of light (not twice the speed of light, as you might think).\n \n That's all I've got. Sounds like rubbish, doesn't it?\n \n Smiley", 
+   {}, 
+   311881, 
+   null, 
+   1211771220.0
+  ], 
+  [
+   311888, 
+   null, 
+   "Archangel", 
+   "Theoretically, yes.\n \n If I remember my light correctly (it's been a while since I saw the light), light travels at the speed of light relative to all observers. So, the light from your headlights would travel away from you at the speed of light, though it would also travel away from a stationary observer at the speed of light (not twice the speed of light, as you might think).\n \n That's all I've got. Sounds like rubbish, doesn't it?\n \n Smiley\n\n \n Kinda; if your car is traveling at the speed of light and you turn the headlights on, I can't believe they would light the path ahead of you at all. How could it if you're light source is already traveling at the speed of light?", 
+   {}, 
+   311882, 
+   null, 
+   1211774460.0
+  ], 
+  [
+   311889, 
+   null, 
+   "Kronus", 
+   "Kinda; if your car is traveling at the speed of light and you turn the headlights on, I can't believe they would light the path ahead of you at all. How could it if you're light source is already traveling at the speed of light?\n\n \n First off, you can't actually travel at the speed of light; your car is really going a tiny bit slower. Secondly, we're dealing with relativity here. Short answer, most of what you consider common sense is wrong. Things like time and distance aren't absolute, but actually depend on the relative speed of the observer and object being observed. One of the upshots of this is that light always travels at the same speed, regardless of observer. If you're in the car the light from your headlights shoots out at c, and the rest of the universe does wierd things to compensate. Specifically, while your lights would light the path ahead of you, the path ahead would literally be much shorter than if you weren't moving. If you're outside the car the light still leaves the car at c, but different wierd things seem to happen such that the light does move away from the car.\n \n \n \n That's the short, hand waving answer. The details are more complicated and involve math. Algebra, but math none the less.", 
+   {}, 
+   311888, 
+   null, 
+   1211775120.0
+  ], 
+  [
+   311890, 
+   null, 
+   "Kronus", 
+   " \n Now, let's go on to something new and refreshing.\n\n \n Gee, how generous of you to decide for me when the thread I started should finish. emoticon_xgood", 
+   {}, 
+   311854, 
+   null, 
+   1211775180.0
+  ], 
+  [
+   311891, 
+   null, 
+   "Archangel", 
+   "First off, you can't actually travel at the speed of light; your car is really going a tiny bit slower.\n \n \n Regarding the bolded; are you kidding me? Did you think I didn't know that? This is a hypothetical, and it say's this: If I am in a car traveling at the speed of light, and I turn the headlights on...do they do anything? So that is what I'm basing my answer on.\n \n \nSecondly, we're dealing with relativity here. Short answer, most of what you consider common sense is wrong. Things like time and distance aren't absolute, but actually depend on the relative speed of the observer and object being observed.\n \n \n No, We're dealing with a specific hypothetical. Why are you complicating it? Simply put, based on the hypothetical as defined, I don't see how if the light travels at the speed of light, and the car is traveling at the speed of light as proffered, then the light wont get in front of the car at all. The speed will neutralize the ability of the light to light the cars path.\n \n \nOne of the upshots of this is that light always travels at the same speed, regardless of observer.\n \n \n This is not a reliable assumption at all. Especially since we are still dealing with a hypothetical. If you want to get technical though, read on:\n \n http://www.aloha.net/~johnboy/Quantum_Thought.htg/thought.htm\n The immediate space surrounding an object is expanded and the space between objects (distance) in space is compressed. Thus \"gravity\" is a \"push / pull\" force that only seems like an exclusively attracting force that is actually a compressing force.\n \n It follows (to me anyway) that our measurement of the speed of light is inaccurate (insufficient) because we are measuring light speed in compressed space. \n \n Light travels slower through compressed space which is why, according to Stephen Hawking, a space ship navigating through the event horizon of a black hole would appear to a distant observer as stopped while the occupants of the space ship would experience velocity.  \n \n The space near a black hole is highly compressed, light velocity remains the same (Pi x 100,000,000 or 314,159,265.4 meters per second ) however from the perspective of a distant observer light speed only appears to be slowing because of the compression of space. \n \n footnote: Space immediately surrounding an object is sretched. Space between objects is compressed. \n \n Gravitational fields seem to bend light but the light only appears to be affected by the gravitational field. The field that is affecting the flow of light is caused by the warp of space created by the presence of matter displacing the immediate surrounding space. \n It is at this juncture that Stephen Hawking enters the playing field. Hawking's credentials are as impressive as Albert Einstein's and Isaac Newton's. Stephen determines that there is a theoretical place in the universe that contains huge quantities of matter that have attained \"infinite density\" (a teaspoon full is estimated to weigh hundreds of tons). Stephen calls these warped vortices \"black holes\" because light cannot escape from the black hole's massive gravitational influence. \n It is theorized that the escape velocity (the speed necessary to break free of a gravitational influence) for a black hole exceeds the speed of light. Since light speed is the maximum speed limit in the universe then it seems that once you are in a black hole there is no escape (unless you can find a way to go faster than light and then presumably go back in time and avoid entering the blackhole in the first place).", 
+   {}, 
+   311889, 
+   null, 
+   1211776800.0
+  ], 
+  [
+   311895, 
+   null, 
+   "smiley", 
+   "No, We're dealing with a specific hypothetical. Why are you complicating it? Simply put, based on the hypothetical as defined, I don't see how if the light travels at the speed of light, and the car is traveling at the speed of light as proffered, then the light wont get in front of the car at all. The speed will neutralize the ability of the light to light the cars path.\n\n No, Kronos was right, we are dealing with RELATIVITY. It is a specific hypothetical which is all about RELATIVITY.\n \n I sort of agree with you, in that it is vey difficult to see how light can travel away from you at the speed of light, when you are travelling at the speed of light (yet still only be travelling at the spee of light), but that's what it appears to do. I have a great deal of difficulty wrapping my head around it too.\n \n Smiley\n \n PS There is little point in cutting and pasting something that you do not really understand and expecting it to reliably counter another point that you don't really understand.\n \n PPS I don't fully understand it either.", 
+   {}, 
+   311891, 
+   null, 
+   1211778300.0
+  ], 
+  [
+   311896, 
+   null, 
+   "Archangel", 
+   "No, Kronos was right, we are dealing with RELATIVITY. It is a specific hypothetical which is all about RELATIVITY.\n \n I sort of agree with you, in that it is vey difficult to see how light can travel away from you at the speed of light, when you are travelling at the speed of light (yet still only be travelling at the spee of light), but that's what it appears to do. I have a great deal of difficulty wrapping my head around it too.\n \n Smiley\n \n PS There is little point in cutting and pasting something that you do not really understand and expecting it to reliably counter another point that you don't really understand.\n \n PPS I don't fully understand it either.\n\n \n How can you say kronus is right when we are dealing with a hypothetical question? Relativity has nothing at all to do with it since it's a plain and simple hypothetical. And what is so difficult to comprehend about gravity having an effect on the speed of light? If the concept was beyond me to comprehend it, how did I know to google a source for \"gravity's effect on the speed of light?\" Can you answer that for me? Is it at all possible that I'm not as stupid as you people like to believe I am?", 
+   {}, 
+   311895, 
+   null, 
+   1211779080.0
+  ], 
+  [
+   311897, 
+   null, 
+   "smiley", 
+   "How can you say kronus is right when we are dealing with a hypothetical question? Relativity has nothing at all to do with it since it's a plain and simple hypothetical. And what is so difficult to comprehend about gravity having an effect on the speed of light? If the concept was beyond me to comprehend it, how did I know to google a source for \"gravity's effect on the speed of light?\" Can you answer that for me? Is it at all possible that I'm not as stupid as you people like to believe I am?\n\n Let's answer the first bit that you clearly don't understand.\n \n I agree that it is a hypothetical question (I'm sure we all do), but it has everything to do with RELATIVITY. Did you get it this time?\n \n As for gravity having an effect on the speed of light, I'm sure you're just grasping for something to cut and paste that has something vaguely to do with the point at hand, but you may have noticed that the initial query (the one about the car) does not mention gravity anywhere. As for you understanding the concept of gravity effecting the speed of light, can you explain why it has this effect? And try doing so without cutting and pasting someone else's words.\n \n And with regards to the last bit, you didn't grasp the very pointed reference to RELATIVITY (twice), so I very much doubt it.\n \n Smiley", 
+   {}, 
+   311896, 
+   null, 
+   1211780040.0
+  ], 
+  [
+   311898, 
+   null, 
+   "Archangel", 
+   "Let's try this one more time so I can show you how utterly ridiculous your position is. On the one hand you admit this is a hypothetical, especially since a car will never go light speed. Here's the question again. If I am in a car traveling at the speed of light, and I turn the headlights on...do they do anything? Now where does this hypothetical say anything about, according to the theory of relativity? It doesn't. It's a simple hypothetical that you guys are trying to intellectualize. It doesn't even say the car is in space.\n \n Now, as to why I brought up gravity's effect on the speed of light. It was in direct response to kronus saying this, and I quote him: [KRONUS]One of the upshots of this is that light always travels at the same speed, Which also was never a part of the hypothetical by the way, and is wrong as I showed, rather than just said without backing up with evidence. so I googled and posted gravity's effect on light because I knew it has an effect on the speed of light. And your condescending cr#p is so typical of you guys when you make more of a situation than it requires. So you must deflect your ignorance by implying that I could never comprehend anything scientific. Well I have nothing to prove at all, and I don't care if you can't figure out that it takes some understanding of quantum mechanics in order to even know enough to show that gravity effects the speed of light.", 
+   {}, 
+   311897, 
+   null, 
+   1211783220.0
+  ], 
+  [
+   311901, 
+   null, 
+   "electrolyte", 
+   "Kinda; if your car is traveling at the speed of light and you turn the headlights on, I can't believe they would light the path ahead of you at all. How could it if you're light source is already traveling at the speed of light?\n\n Let me ask this question: if the car was traveling faster than the speed of light, and the headlights were turned on, would the light go backward?\n The laws of physics don't give a rip about what you do or do not believe. The universe is strange, but it actually makes sense if you can wrap your brain around it. (For what it's worth, most people can't quite do it.) c is the speed limit of the universe, and since all inertial reference frames are equivalent, the speed limit (hence c) is relative to the reference frame.\n \n \nNo, We're dealing with a specific hypothetical. Why are you complicating it?\n\n Because \"I don't believe this\" and \"I don't understand this\" are not reasons for rejecting arguments. It is the best explanation despite the confusion based on your inexperience with near-c speeds.", 
+   {}, 
+   311897, 
+   null, 
+   1211784120.0
+  ], 
+  [
+   311904, 
+   null, 
+   "electrolyte", 
+   "... so I googled and posted gravity's effect on light because I knew it has an effect on the speed of light.\n\n Except that it doesn't. Your author is a XXXXX. The speed of light isn't pi\u00d710^8 m/s.\n \n More from your wannabe:... what happens in a black hole is that hydrogen produces helium... then combustion...\nThere can be no combustion without oxygen.\n ... If what it is that happens in a blackhole (a precursor to the birth of a star) the 'blackhole of self' is mirrored in the cosmos and then the transubstantiation of hydrogen into helium is a metaphor for spiritual enlightenment and ultimate liberation from the temporal realm of weight, mass and matter.\nIt's not transubstantiation, it's FUSION. What a dipstick this guy is.\n \n \n... you make more of a situation than it requires.\n\n Ripe, coming from the guy who quotes the idiot who thinks that fusion is transubstantiation.\n \n \nI don't care if you can't figure out that it takes some understanding of quantum mechanics in order to even know enough to show that gravity effects the speed of light.\n\n Oh, you're ready to give a lesson, Professor Quantum Mechanics?\n This is hilarious after hearing you deride QM as pseudoscience. Priceless. I couldn't ask for a better demonstration of utter quackery.\n \n ETA: I don't know if your author is a XXXXX or just a prankster:In the previous chapter, God created the solar system and the first Man, whom God named Isaac Newton. Eve, Newton's research assistant, gave Newton an Apple. The Apple contained astronomy and calculus software which Newton found fascinating. Newton became so enchanted by his calculations that he ignored God. God became irritated and, because of Newton's continual distractions, God created \"time\" and then wove it into the fabric of space. This made Newton's calculations obsolete as well as all of his software. Infuriated, Newton left paradise and, taking his research assistant with him, he set up shop in The Old Testament and waited for the Messiah.\nlink", 
+   {}, 
+   311898, 
+   null, 
+   1211785920.0
+  ], 
+  [
+   311907, 
+   null, 
+   "Archangel", 
+   "Let me ask this question: if the car was traveling faster than the speed of light, and the headlights were turned on, would the light go backward?\n\n \n Who cares? That wasn't the hypothetical question that was asked. How ignorant are you to always try to redefine the question rather than just answer it without changing it?\n \n \nThe laws of physics don't give a rip about what you do or do not believe.\n \n \n Post any part of physics I said I didn't believe on this this thread? Again you make statements and assumptions about what I do or don't believe just to distort my position\n \n \n c is the speed limit of the universe, and since all inertial reference frames are equivalent, the speed limit (hence c) is relative to the reference frame.\n\n \n Post any statement I made that this isn't a true statement on this thread? Go ahead and show where I argued against it. \n \n \nBecause \"I don't believe this\" and \"I don't understand this\" are not reasons for rejecting arguments. It is the best explanation despite the confusion based on your inexperience with near-c speeds.\n\n \n Because I don't believe what exactly? What have I said I don't believe in this debate? You keep trying to define me with your distortions when all I have said is that if a car is going the speed of light, the same speed that light travels according to that hypothetical question, then the car and the light will be going the same speed and the light wont light the path of the car. This isn't a question about relativity or anything deeper than the question itself. And that is the basis upon which I'm answering it.\n \n All you do is corrupt and distort with every response you make on this forum. Your rants are delusional with no rational consistency to what is said at all.", 
+   {}, 
+   311901, 
+   null, 
+   1211788260.0
+  ], 
+  [
+   311917, 
+   null, 
+   "Kronus", 
+   " Regarding the bolded; are you kidding me? Did you think I didn't know that? This is a hypothetical, and it say's this: If I am in a car traveling at the speed of light, and I turn the headlights on...do they do anything? So that is what I'm basing my answer on. \n\n I'm really not sure what you do or don't know about scenarios like this. But as strictly stated, the scenario described is utterly impossible. Nothing can go at the speed of light, it is a physical impossibility. It's not a matter of \"we just need big enough engines\", the laws of the universe are such that it can't be done. I suspect you didn't know that, that's why I made it explicit that if we're talking about this at all, we should say that the car is going a tiny fraction below the speed of light. \n \n \nNo, We're dealing with a specific hypothetical. Why are you complicating it?\n\n I'm not complicating it, the universe is. It has been proven, experimentaly, that you can't talk about things travelling near the speed of light and get the right answers unless you use relativity. When you travel near the speed of light time and space act differently than they do when you're sitting still, if you don't take that into account you can't predict what's going to happen accurately.\n \n And concerning the speed of light, I should have said \"the speed of light through a given medium is a constant\". Since the scenario we're dealing with doesn't involve light travelling through different mediums I left the \"given nedium\" part off. The important point is that light speed isn't additive. If you're on a train doing 30 mgh, and you throw a ball forwards at 20 mph, the ball will be going 20 mph relative to someone in the train and 50 mph relative to the ground, right? But if you're in a space car going .9 c, and you shine your headlights how fast will the light seem to go? c, as observed from both inside and outside the car. I know that contradicts common sense, but none the less it's true.", 
+   {}, 
+   311891, 
+   null, 
+   1211817300.0
+  ], 
+  [
+   311925, 
+   null, 
+   "Archangel", 
+   "I'm really not sure what you do or don't know about scenarios like this. But as strictly stated, the scenario described is utterly impossible. Nothing can go at the speed of light, it is a physical impossibility. It's not a matter of \"we just need big enough engines\", the laws of the universe are such that it can't be done. I suspect you didn't know that, that's why I made it explicit that if we're talking about this at all, we should say that the car is going a tiny fraction below the speed of light. \n \n \n First you say what's in the bolded, then you follow it up with the underlined. Now ask yourself this kronus, If it's so completely impossible for something we make to travel at the speed of light, how can you then imply in the same paragraph that the car can go a TINY FRACTION BELOW THE SPEED OF LIGHT THOUGH? And you are questioning what I know? The car can no more travel at a tiny fraction under light speed than it can travel at light speed. But in this hypothetical, IT CAN TRAVEL AT LIGHT SPEED BECAUSE THAT IS THE PREMISE OF THE HYPOTHETICAL.\n \n \nI'm not complicating it, the universe is.\n \n \n Who brought up the Universe kronus? It wasn't mentioned in the hypothetical at all. No one said that we have a car traveling through Space, which is under the laws of relativity. In case you didn't know it, we have never even tried to put a car in space as a primary vehicle for transporting someone. That's what makes this a hypothetical question and not one based in reality. Or susceptible to the scientific laws of time and space. IT'S A HYPOTHETICAL QUESTION KRONUS.\n \n \nIt has been proven, experimentaly, that you can't talk about things travelling near the speed of light and get the right answers unless you use relativity.\n \n \n Sure kronus, it's been proven. Now tell me where relativity was made a part of the hypothetical and you'll have made your point. emoticon_frazzled \n \n \nWhen you travel near the speed of light time and space act differently than they do when you're sitting still, if you don't take that into account you can't predict what's going to happen accurately.\n\n \n In reality maybe, but you have already admitted that it's impossible for any man made vehicle to attain that speed, especially a car as posed in this HYPOTHETICAL!!! So why are you injecting real world science into a plain and simple hypothetical? Assume the question exactly as it was posed. assume the car is traveling at the speed of light, the same speed that light travels at, just as the question asks? What will be the outcome under that circumstance? I stand by my explanation of it.", 
+   {}, 
+   311917, 
+   null, 
+   1211823060.0
+  ], 
+  [
+   311927, 
+   null, 
+   "electrolyte", 
+   "Who cares? That wasn't the hypothetical question that was asked. How ignorant are you to always try to redefine the question rather than just answer it without changing it?\n\n I'm not so ignorant as to fail to realize that asking a related question can shed some light (no pun intended) on the original question/answer. It appears that you, on the other hand...\n \n \nPost any part of physics I said I didn't believe on this this thread? Again you make statements and assumptions about what I do or don't believe just to distort my position\n\n Okay:if your car is traveling at the speed of light and you turn the headlights on, I can't believe they would light the path ahead of you at all. [bold added]\n... I don't see how if the light travels at the speed of light, and the car is traveling at the speed of light as proffered, then the light wont get in front of the car at all. The speed will neutralize the ability of the light to light the cars path.\nSo sure, go ahead and accuse me of making assumptions and distorting your position, because I make you look downright stupid when I show you saying exactly what I said.\n \n \nPost any statement I made that this isn't a true statement on this thread? Go ahead and show where I argued against it.\n\n You show where I said that you argued against it, and then we'll have an issue. The fact is that I said nothing of the sort; I provided information that was relevant to the topic at hand.\n \n \nBecause I don't believe what exactly? What have I said I don't believe in this debate?\n\n This again? You have the memory of a flea, apparently.if your car is traveling at the speed of light and you turn the headlights on, I can't believe they would light the path ahead of you at all. [bold added]\n\n \nThis isn't a question about relativity or anything deeper than the question itself. And that is the basis upon which I'm answering it.\n\n But this is a question about relativity. Your insistence otherwise doesn't change that fact.\n \n \nAll you do is corrupt and distort with every response you make on this forum. Your rants are delusional with no rational consistency to what is said at all.\n\n I make the claim that you said exactly what you actually said. You think that qualifies as corruption, distortion, delusion, and rational inconsistency.\n Yeah... I don't think I'll lose sleep over such accusations from you.\n \n \nhttp://www.aloha.net/~johnboy/Quantum_Thought.htg/thought.htm\n\n Admin deleted my perfectly acceptable evisceration of this guy, so I'll post the highlights.\n This guy doesn't know what the hell he's talking about. On this page he talks about hydrogen converting to helium via transubstantiation and then combusting. People who aren't XXXXXX call it fusion and also know that combustion cannot happen in the absence of oxygen.\n Or maybe he's a big joke because he's trying to be:In the previous chapter, God created the solar system and the first Man, whom God named Isaac Newton. Eve, Newton's research assistant, gave Newton an Apple. The Apple contained astronomy and calculus software which Newton found fascinating. Newton became so enchanted by his calculations that he ignored God. God became irritated and, because of Newton's continual distractions, God created \"time\" and then wove it into the fabric of space. This made Newton's calculations obsolete as well as all of his software. Infuriated, Newton left paradise and, taking his research assistant with him, he set up shop in The Old Testament and waited for the Messiah.\nlinkI call Poe's law, and want to point out that the fundie quotes him as an authority on gravity.", 
+   {}, 
+   311917, 
+   null, 
+   1211823780.0
+  ], 
+  [
+   311928, 
+   null, 
+   "electrolyte", 
+   "Who brought up the Universe kronus? It wasn't mentioned in the hypothetical at all. No one said that we have a car traveling through Space, which is under the laws of relativity. In case you didn't know it, we have never even tried to put a car in space as a primary vehicle for transporting someone. That's what makes this a hypothetical question and not one based in reality. Or susceptible to the scientific laws of time and space. IT'S A HYPOTHETICAL QUESTION KRONUS.\n\n Archie apparently thinks that \"hypothetical\" question means \"we can make up anything we want to be the answer.\" (The weird thing is, that's how he approaches reality, too: the answer is always what he wants, not what reality dictates.)\n \n \nSo why are you injecting real world science into a plain and simple hypothetical?\n\n Does anybody want to let Archie in on the little secret about how we ended up with the theory of general relativity anyway? Oh, okay, I'll give a hint: Einstein started with a hypothetical and applied real world science and reason...", 
+   {}, 
+   311925, 
+   null, 
+   1211824260.0
+  ], 
+  [
+   311930, 
+   null, 
+   "Kronus", 
+   " First you say what's in the bolded, then you follow it up with the underlined. Now ask yourself this kronus, If it's so completely impossible for something we make to travel at the speed of light, how can you then imply in the same paragraph that the car can go a TINY FRACTION BELOW THE SPEED OF LIGHT THOUGH? And you are questioning what I know? The car can no more travel at a tiny fraction under light speed than it can travel at light speed. But in this hypothetical, IT CAN TRAVEL AT LIGHT SPEED BECAUSE THAT IS THE PREMISE OF THE HYPOTHETICAL. \n\n Archie, the fact that we're talking about a car is of no importance, it isn't the point of the discussion. The point of the discussion is what happens when you go near the speed of light. If you're willing to listen I can perhaps explain why going 99.999% of the speed of light is theoretically possible, but going at the speed of light is utterly impossible. Will you put aside the abusive attitude and discuss this reasonably?\n \n \n\n Who brought up the Universe kronus? It wasn't mentioned in the hypothetical at all. \n\n We're in the science forum here, not a sci-fi forum. All discussions, unless explicitly stated otherwise, are assumed to take place in the known universe and are subject to the laws of nature. There aren't made up random discussions, they're discussion about science.\n \n \n\n Sure kronus, it's been proven. Now tell me where relativity was made a part of the hypothetical and you'll have made your point. emoticon_frazzled \n\n See above about the nature of discussions in the science forum.\n \n \n\n Assume the question exactly as it was posed. assume the car is traveling at the speed of light, the same speed that light travels at, just as the question asks? What will be the outcome under that circumstance? I stand by my explanation of it. \n\n If you insist on looking at it that way then there is only one possible answer. Since such a circumstance is utterly impossible in this universe it must be taking place in a different universe with different laws, and so there is absolutley no way to know what the outcome would be.\n \n Do you see why we stick to our own universe with it's laws now?", 
+   {}, 
+   311925, 
+   null, 
+   1211826480.0
+  ], 
+  [
+   311932, 
+   null, 
+   "Kronus", 
+   "Snakespit, you still out there?\n \n Can you clarify for Archie what it was you were asking, so we can get past all this and get on to the science?", 
+   {}, 
+   311930, 
+   null, 
+   1211826600.0
+  ], 
+  [
+   312051, 
+   null, 
+   "Peeling", 
+   "No. I meant decreased.\n\n No, Kronus is right: the takeoff distance is increased.\n \nThe only effect the moving tarp had on the airplane wheels was to spin them faster. This slowed the airplane's progress relative to the real stationary world by only a slight amount\n\n Anything that slows the plane down relative to both the stationary ground and the stationary air around it must delay takeoff.\n \n...nonetheless it put the plane slightly behind where it would have been had the tarp stayed put. Thus when the plane reached flight speed, it should have been a bit closer to where it started than if the tarp had stayed put. That's all I'm saying. \n \n That's the critical part: the plane has to reach flight speed relative to the air in order to take off. The longer it spends doing that, the longer it will have spent moving at sub-takeoff speed relative to the air, and hence the further it will have travelled, relative to the stationary ground, by the time it takes off.\n \n If you're finding that counterintuitive, imagine that the drag from the tarp is instead simulated by the pilot reducing power to the engine slightly. Is it really true that a plane will take off in a shorter distance if you run the engine slower? :)", 
+   {}, 
+   311854, 
+   null, 
+   1211988840.0
+  ], 
+  [
+   312053, 
+   null, 
+   "Kronus", 
+   "No, Kronus is right: the takeoff distance is increased.\n\n \n Yeah, but it wasn't worth going into. He was thinking that the plane would get dragged backwards by the tarp before it managed to get up to speed, so the point on the tarmac where the plane took off would be further back than it would otherwise have been. Probably true, though of course that doesn't actually equate to a shorter takeoff distance. At least, that's my understanding of what he was trying to say, but it didn't seen important enough to be worth clarifying.", 
+   {}, 
+   312051, 
+   null, 
+   1211990520.0
+  ], 
+  [
+   312058, 
+   null, 
+   "isly ilwott", 
+   "No, Kronus is right: the takeoff distance is increased.\n \n Anything that slows the plane down relative to both the stationary ground and the stationary air around it must delay takeoff.\n \n That's the critical part: the plane has to reach flight speed relative to the air in order to take off. The longer it spends doing that, the longer it will have spent moving at sub-takeoff speed relative to the air, and hence the further it will have travelled, relative to the stationary ground, by the time it takes off.\n \n If you're finding that counterintuitive, imagine that the drag from the tarp is instead simulated by the pilot reducing power to the engine slightly. Is it really true that a plane will take off in a shorter distance if you run the engine slower? :)\nI cannot agree yet...and your alternate scenario is not a valid substitution. It is quite obvious that if the pilot reduced the engine thrust, the take off distance would be increased. Assuming that the pilot applied enough thrust to reach take off speed, but not full thrust as is normal for take off, the plane would require more distance to reach take off speed.\n \n That has nothing at all to do with the experiment. I think we have agreed that the treadmill (tarp, belt) or whatever moving surface we choose, must be longer than the take off distance required by the plane in normal conditions. If this is not the case, please let me know.\n \n I think we have also agreed that there is no wind...then for the plane, ground speed=air speed.\n \n If the moving surface is to have any affect on the plane at all it will be to move the plane in the direction of the motion of the surface...backwards...from where it normally would be at any given time between roll-out and lift-off. I think we are dealing with extremely small numbers here anyway. If the effect of the backwards moving runway is to slow the craft's forward motion, it will be true that at any given ET prior to takeoff, the craft is closer to it's starting point than it would have been at the same ET on a stationary runway using the same thrust.\n \n The final split seconds are crucial, but I must stop here and get some agreement that with what I have stated.", 
+   {}, 
+   312051, 
+   null, 
+   1211993760.0
+  ], 
+  [
+   312059, 
+   null, 
+   "Peeling", 
+   "I cannot agree yet...and your alternate scenario is not a valid substitution.\n\n The moving tarp induces drag. Now induce the same amount of drag, moment by moment, via some other method - you can even simulate it by regulating the amount of thrust produced by the engine. All you're aiming for is to replicate the groundspeed, moment by moment, of the plane on the tarp, yes?\n \nIt is quite obvious that if the pilot reduced the engine thrust, the take off distance would be increased. Assuming that the pilot applied enough thrust to reach take off speed, but not full thrust as is normal for take off, the plane would require more distance to reach take off speed.\n\n Exactly - and so will anything else that reduces the plane's ground speed. Reduced thrust, increased drag - it doesn't make any difference.\n \nIf the moving surface is to have any affect on the plane at all it will be to move the plane in the direction of the motion of the surface...backwards...from where it normally would be at any given time between roll-out and lift-off.\n\n Yes, at any given time the distance will be less - just as if the pilot throttled back his engine - but you're failing to account for the fact that take off will be delayed.\n \n Look at it this way: if you plot a graph of velocity over time, the distance travelled is the area under that graph, yes? If we introduce drag, the velocity at any given moment will be lower. Thus at any given moment, the cumulative distance travelled - the area under the graph - will indeed be less. But at some point the unencumbered plane will reach takeoff speed and leave the ground - its takeoff distance is now established. The plane on the tarp hasn't reached takeoff speed yet, so it keeps going, its graph keeps getting longer. What we end up with on our graphs are two roughly triangular areas, both the same height (both planes must reach the same velocity to take off) but one longer than the other (it takes the plane on the tarp longer to reach takeoff speed). The area underneath - and thus the total distance travelled - will therefore be greater for the plane on the tarp.\n \n NB: This is only true so long as we assume that the acceleration of the plane on the tarp, at any given velocity, cannot exceed that of an unencumbered plane - but that's a reasonable assumption to make.", 
+   {}, 
+   312058, 
+   null, 
+   1211994960.0
+  ], 
+  [
+   312066, 
+   null, 
+   "isly ilwott", 
+   "The moving tarp induces drag. Now induce the same amount of drag, moment by moment, via some other method - you can even simulate it by regulating the amount of thrust produced by the engine. All you're aiming for is to replicate the groundspeed, moment by moment, of the plane on the tarp, yes?\nAny simulation that works by reducing thrust is invalid for this comparison. The drag (a force holding the plane back) produced by the backward movement of the runway will decrease the distance that the plane moves relative to the ground assuming engine thrust remains the same.\n \n \n \n\n Exactly - and so will anything else that reduces the plane's ground speed. Reduced thrust, increased drag - it doesn't make any difference.\nOf course it makes a difference...and since we are dealing with such small numbers, you would be hard put to tell me the correct amount of reduction in thrust to produce the same amount of drag produced by wheel friction and tarp speed.\n \n \n \n\n Yes, at any given time the distance will be less - just as if the pilot throttled back his engine - but you're failing to account for the fact that take off will be delayed.\nI haven't gotten to takeoff yet. I said we need some agreement on what I'd said so far. I think we are dealing with infinitesimal numbers here anyway. I think the takeoff will be delayed by fractions of a second. I think the takeoff distance could be less than, equal to or greater than the normal distance required.\n \n \n \n\n Look at it this way: if you plot a graph of velocity over time, the distance travelled is the area under that graph, yes? If we introduce drag, the velocity at any given moment will be lower. Thus at any given moment, the cumulative distance travelled - the area under the graph - will indeed be less. But at some point the unencumbered plane will reach takeoff speed and leave the ground - its takeoff distance is now established. The plane on the tarp hasn't reached takeoff speed yet, so it keeps going, its graph keeps getting longer. What we end up with on our graphs are two roughly triangular areas, both the same height (both planes must reach the same velocity to take off) but one longer than the other (it takes the plane on the tarp longer to reach takeoff speed). The area underneath - and thus the total distance travelled - will therefore be greater for the plane on the tarp.\nWhat you are leaving out of this comparison is the fact that the plane moves a shorter distant in the same time when it is being acted upon by the moving runway. This is the only way the wheels can impart energy to the plane...by slowing it down. The plane will move slower (ever so slightly) with the moving runway and will therefore cover LESS DISTANCE IN THE SAME TIME than when the runway stands still. It will take the plane slightly longer to reach takeoff speed. There has been nothing said yet to prevent that happening prior to reaching the normal takeoff distance.\n \n \n\n NB: This is only true so long as we assume that the acceleration of the plane on the tarp, at any given velocity, cannot exceed that of an unencumbered plane - but that's a reasonable assumption to make.\nThat assumption is understood when we agree that the thrust from the engine is the same in all attempts.", 
+   {}, 
+   312059, 
+   null, 
+   1212002400.0
+  ], 
+  [
+   312102, 
+   null, 
+   "Kronus", 
+   "\n Of course it makes a difference...\n\n \n Peeling is right, it would make no difference at all. Thrust provides a force vector in the positive direction, drag a force vector in the negative direction. It's their sum that dictates how fast you'll go; how much each one contributes makes no difference at all as long as the sum doesn't change. Simulating an increase in drag by reducing thrust is completely legitimate.", 
+   {}, 
+   312066, 
+   null, 
+   1212024540.0
+  ], 
+  [
+   312129, 
+   null, 
+   "Peeling", 
+   "Any simulation that works by reducing thrust is invalid for this comparison.\n\n No, it isn't; it's basic physics.\n \nThe drag (a force holding the plane back) produced by the backward movement of the runway will decrease the distance that the plane moves relative to the ground assuming engine thrust remains the same.\n\n Yes, at any given time the plane will be a) moving slower and b) have travelled less distance than it would if taking off normally. But it will only take off when it reaches takeoff speed, which will happen later.\n \n \nsince we are dealing with such small numbers, you would be hard put to tell me the correct amount of reduction in thrust to produce the same amount of drag produced by wheel friction and tarp speed.\n\n So what? Doesn't mean it's impossible or an invalid simulation of the effect.\n \nI haven't gotten to takeoff yet.\n\n And nor has the plane :)\n \n You said that the plane will leave the ground closer to its starting point as a result of having been slowed down by the tarp. If the take off time was fixed, you'd be right, but it's the takeoff speed that's invariant.\n \nI think the takeoff distance could be less than, equal to or greater than the normal distance required.\n\n That's not what you said before, and it's still wrong anyway: the takeoff distance must increase.\n \nWhat you are leaving out of this comparison is the fact that the plane moves a shorter distant in the same time when it is being acted upon by the moving runway. \n\n No, I'm not. I've explicitly said several times that at any given time the distance travelled will be less. But take-off doesn't happen at a given time, it happens at a given speed.\n \nThe plane will move slower (ever so slightly) with the moving runway and will therefore cover LESS DISTANCE IN THE SAME TIME than when the runway stands still.\n\n I completely agree, and have said so numerous times now. What you're wrong about is the distance travelled at the point of takeoff.\n \nIt will take the plane slightly longer to reach takeoff speed. There has been nothing said yet to prevent that happening prior to reaching the normal takeoff distance.\n\n Here:\n http://img103.imageshack.us/img103/3953/graphlg0.gif\n This graph shows ground/air speed against time. The green graph is the plane taking off normally. The red graph is the plane under drag. V is the takeoff speed. The takeoff distance in both cases is the integral of velocity over time, or in other words the triangular area under each graph. Note that at any given instant the 'red' plane is both travelling slower and has travelled less distance than the 'green' plane. However, the distance travelled at the point of takeoff - the area under the red graph - is bigger than the area under the green graph.\n \n In reality the graphs wouldn't be nice and linear like that - but it doesn't matter, so long as we assume that the acceleration of the red plane (the slope of the red graph) can never exceed the acceleration of the green plane (the slope of the green graph) at any given velocity. As we've agreed, this is a reasonable assumption to make.\n \n The only way the red plane could take off in a shorter distance yet take longer is if it moved very slowly at first and then accelerated harder and faster than the green plane right at the end. But that can't happen. Ergo, the red plane will always move a greater distance before takeoff than the green plane.\n \n You've already agreed that a slower-accelerating plane takes a greater distance to get into the air. The tarp slows the plane down. Therefore, it must take a greater distance to get into the air.", 
+   {}, 
+   312066, 
+   null, 
+   1212059280.0
+  ], 
+  [
+   312130, 
+   null, 
+   "Peeling", 
+   "Here's another graph to (hopefully) make it clearer:\n http://img520.imageshack.us/img520/8147/graph2uh9.gif\n What I've done here is shifted the graphs so that all takeoff times are at T=0. The green line is the velocity/time graph of the plane on a normal runway. The red line is the velocity/time graph of the plane on the tarp. The difference between the two now indicates how much extra time it takes for the red plane to reach the same ground/air speed as the green plane. As before, the areas under each graph represent the total distance travelled prior to takeoff. Clearly, the red plane travels further.\n \n The blue line represents the impossible: a plane subject to drag that takes as long as the red plane to get into the air but does so in a shorter distance than the green plane. The bolded section of the blue line is the impossible part: here the blue plane accelerates faster than the green plane at the same velocity.\n \n Proof that the plane on the tarp must travel further:\n \n 1. Plane A, under drag, is assumed to accelerate more slowly than plane B at any given velocity.\n \n 2. Plane A and plane B are both assumed to reach takeoff velocity V at the same instant, T = 0, having started their takeoff run at different times in the past.\n \n 3. For (1) and (2) to both be true, just prior to T = 0 plane A must have been travelling faster than plane B.\n \n No, I haven't got that backwards: between T = -0.1 and T = 0 plane A was accelerating more slowly than plane B, so for them both to reach the same speed at the same time plane A must already have been going quicker. Look at the graphs above: in order to reach V at T = 0, the slower-accelerating red plane must be going faster than the green plane just prior to T = 0.\n \n 4. Since plane A's average speed was higher over that small period, it travelled further in the same time.\n \n 5. Now consider the preceding period of time T = -0.2 to T = -0.1. Since we know by (3) plane A was travelling faster than plane B at T = -0.1, and A accelerates slower than B, it must logically have been already travelling faster than B at time T = -0.2.\n \n 6. Thus plane A's average speed was higher over this period also, and hence it must have travelled further.\n \n 7. By induction we can repeat 5 and 6 all the way back to the point when plane B started its takeoff.\n \n 8. Therefore, during the period of time B spent taking off, plane A travelled further.\n \n 9. To that total we add the extra distance travelled by A in the time prior to B starting to move. \n \n QED.", 
+   {}, 
+   312129, 
+   null, 
+   1212065940.0
+  ], 
+  [
+   312162, 
+   null, 
+   "isly ilwott", 
+   "That's very impressive. You evidently approached this in a scientific, albeit broad-brush manner. I'm am surprised you did not fully understand that I was approaching my conclusions based on what actually might happen in the real world rather than some comparison of your verbal descriptions of simplistic, unquantified happenings that I contend are somewhat unrealistic though they may logically back you up.\n \n Reducing engine thrust is not a valid comparison of experiments. It is patently obvious that doing so would increase the distance to lift off, all other things being equal.\n \n The fact that the reverse motion of the runway under the wheels should retard the plane's forward motion against equal engine thrust is what's being observed. The original question of whether the plane could take off while the runway went speeding backwards (I think originally, the runway or belt was already moving backwards at 30 mph when take off was initiated.)came with the tacet understanding that all other things are equal. It is quite simple to conclude that reducing the engine thrust would cause a longer path to lift off. It is not so obvious that the plane on the treadmill would require more distance (from the starting point). That it would take more time is easy to see. That it would be behind the unrestrained plane at any given time after T=0 is also obvious. What is not obvious is that the retarded plane cannot reach take off speed prior to reaching the take off point of the unrestrained plane.\n \n In your explanations, you use terms such as traveled further, speed was higher, accelerate more slowly and exaggerated the differences in your graphs.\n \n \n A true test would be to compare two identical planes starting side by side with their tails tethered to to the earth. Under one plane, the runway is already being moved at 30mph backwards. Under the other is a matching stationary runway. At T=0, the tethers are released and the race is on. Assuming identical planes under identical engine thrust, when plane A (the one on your left) reaches lift off speed...that is 30mph relative to the ground...plane B on your right may be at 29.99mph (relative to the ground) in a position several feet BEHIND the spot at which plane A lifted off. It may exceed 30mph prior to reaching the same spot. Therefore, though it lifted off in more time, it did so in a shorter distance.\n \n \n \n \n \nNo, it isn't; it's basic physics.\n \n Yes, at any given time the plane will be a) moving slower and b) have travelled less distance than it would if taking off normally. But it will only take off when it reaches takeoff speed, which will happen later.\nThere's been no argument with that. It will definitely take more time for the plane to lift off.\n \n \n \nSo what? Doesn't mean it's impossible or an invalid simulation of the effect.\nThe reduction of engine thrust is a totally different comparison.\n \n \nAnd nor has the plane :)\n \n You said that the plane will leave the ground closer to its starting point as a result of having been slowed down by the tarp. If the take off time was fixed, you'd be right, but it's the takeoff speed that's invariant.\nYes. For identical conditions, the takeoff speed is invariant.\n \n \n \n\n That's not what you said before, and it's still wrong anyway: the takeoff distance must increase.\nYou're right. It's not exactly what I said before. As I refine my thoughts, I see different things. I first stated that the takeoff distance would be decreased. I can now imagine it being decreased, the same or increased, depending of the wheel friction and the speed of the belt. After clarifying the original challenge (the plane is sitting on a treadmill that is already running 30mph backwards), I still contend that the takeoff distance can vary from less than to greater than that of an unrestrained identical plane.\n \n \n \n\n No, I'm not. I've explicitly said several times that at any given time the distance travelled will be less. But take-off doesn't happen at a given time, it happens at a given speed.\nI have not argued against that.\n \n \n \n\n I completely agree, and have said so numerous times now. What you're wrong about is the distance travelled at the point of takeoff.\nI am relating the distances of travel for each plane to the same point. The treadmill plane will not have traveled as far as the unrestrained plane at any given time prior to lift off of the unrestrained plane. The point at which its wheels last touch the ground will be a measureable distance ahead of where the treadmill plane is still struggling. The time it takes for the treadmill plane to reach the same distance from the GO mark could be sufficient time for the treadmill plane to reach lift off speed and be airborn prior to reaching that point...could it not?", 
+   {}, 
+   312130, 
+   null, 
+   1212092940.0
+  ], 
+  [
+   312184, 
+   null, 
+   "Kronus", 
+   " \n It may exceed 30mph prior to reaching the same spot. Therefore, though it lifted off in more time, it did so in a shorter distance.\n \n\n \n See, that's where you're wrong. If a plane is dragged back 20 feet, then rolls forward 50 feet and takes off, its takeoff distance is 50 feet, not 30. The takeoff distance isn't measured from some random starting point, but from the point where the plane started to move forward. According to the definition you seem to be using it would be quite possible to have a negative takeoff distance, which would make no sense at all.", 
+   {}, 
+   312162, 
+   null, 
+   1212109980.0
+  ], 
+  [
+   312250, 
+   null, 
+   "isly ilwott", 
+   "See, that's where you're wrong. If a plane is dragged back 20 feet, then rolls forward 50 feet and takes off, its takeoff distance is 50 feet, not 30. The takeoff distance isn't measured from some random starting point, but from the point where the plane started to move forward. According to the definition you seem to be using it would be quite possible to have a negative takeoff distance, which would make no sense at all.\nYou have almost seen the light. The take off distance is the measurement from where the planes started to the point at which their wheels left the ground. Since I stipulated that in a fair test of identical planes operating under the conditions you mentioned in the OP, both planes (with identical aerodynamics and thrust) were tethered and applying full forward thrust when released at the same time as the ground moved 30 mph backwards under one of them, there is no doubt that neither plane would have moved backwards. Had the plane on the moving runway moved backwards at all, it would mean that full thrust is not enough to overcome the rearward force applied to the landing gear through the wheel friction. That plane would never take off.\n \n When comparing the takeoff distances of the planes, the distance from the staring point at T=0 is measured. By your way of measuring, a quarterback that drops back 15 yards then runs to a point five yards beyond scrimmage has made a 20 yard run. (That surely would change a lot of stats.)\n \n The takeoff distance is measured from the line of scrimmage.", 
+   {}, 
+   312184, 
+   null, 
+   1212165720.0
+  ], 
+  [
+   312251, 
+   null, 
+   "Peeling", 
+   "That's very impressive. You evidently approached this in a scientific, albeit broad-brush manner. I'm am surprised you did not fully understand that I was approaching my conclusions based on what actually might happen in the real world rather than some comparison of your verbal descriptions of simplistic, unquantified happenings that I contend are somewhat unrealistic though they may logically back you up.\n\n Thanks. I think.\n \n \nReducing engine thrust is not a valid comparison of experiments. It is patently obvious that doing so would increase the distance to lift off, all other things being equal.\n\n As would any imposition of drag, because the effect - a net reduction in the forward acceleration - is the same. That's absolutely fundamental physics.\n \nIn your explanations, you use terms such as traveled further, speed was higher, accelerate more slowly and exaggerated the differences in your graphs.\n\n The proof applies regardless of the degree of difference in the graph, and there's nothing wrong with the terms I used.\n \n \nA true test would be to compare two identical planes starting side by side with their tails tethered to to the earth. Under one plane, the runway is already being moved at 30mph backwards. Under the other is a matching stationary runway. At T=0, the tethers are released and the race is on.\n\n Ok, so neither plane is actually moving backwards, right? Both engines are pre-throttled to full, the tethers are released, and the only difference is that one plane is on a runway that's moving beneath it at 30mph.\n \n If those are the circumstances you're proposing, I'm entirely comfortable with that.\n \nAssuming identical planes under identical engine thrust, when plane A (the one on your left) reaches lift off speed...that is 30mph relative to the ground...plane B on your right may be at 29.99mph (relative to the ground) in a position several feet BEHIND the spot at which plane A lifted off. It may exceed 30mph prior to reaching the same spot.\n\n That cannot happen. It's absolutely impossible. I proved it in my previous post: the plane experiencing additional drag must travel further in order to reach takeoff speed.\n \n Go back and look at the graphs again, the second one in particular. The proof I wrote, for mathematical convenience, calls the time at which each plane leaves the ground T=0, but the planes could perform their runs starting side by side, or perform them sequentially - it doesn't matter. A plane that is accelerating more slowly requires a greater distance to reach any given speed. It doesn't make the slightest bit of difference why it's accelerating more slowly.\n \nThe treadmill plane will not have traveled as far as the unrestrained plane at any given time prior to lift off of the unrestrained plane. The point at which its wheels last touch the ground will be a measureable distance ahead of where the treadmill plane is still struggling. The time it takes for the treadmill plane to reach the same distance from the GO mark could be sufficient time for the treadmill plane to reach lift off speed and be airborn prior to reaching that point...could it not?\n\n No, it could not, by the proof I already gave (just mentally slide the graphs\n so that the planes start to move at the same time rather than taking off at the same time). \n \n Alternative proof:\n \n 1. Forget about intervals of time, and think instead about intervals of speed. Remember our assumption: the treadmill plane (A), because of drag, always has lower acceleration than the unrestrained plane (B) at any given velocity.\n \n 2. Pick any arbitrary interval of velocity through which planes A and B passed to get to takeoff. Make it small enough that the change in velocity of both planes over that interval is arbitrarily close to being linear. Call that interval V1 to V2.\n \n 3. By (2), both planes had an average speed of (V1 + V2)/2 over the time they spent accelerating from V1 to V2. However, by (1) plane A has lower acceleration than plane B and thus takes more time to accelerate from V1 to V2. More time at the same average speed means greater distance travelled.\n \n 4. We can subdivide the takeoffs of both planes into arbitrarily fine-grained intervals of velocity, and plane A will always travel further during any such interval. Therefore, it must travel a greater distance in total while accelerating from 0 to takeoff speed.\n \n QED.", 
+   {}, 
+   312162, 
+   null, 
+   1212166140.0
+  ], 
+  [
+   312254, 
+   null, 
+   "isly ilwott", 
+   "Thanks. I think.\nYou're welcome. I'm sure. I compliment your thorough and patient approach to many discussions on 4forums.\n \n \n\n As would any imposition of drag, because the effect - a net reduction in the forward acceleration - is the same. That's absolutely fundamental physics.\nAgreed.\n \n \n \n\n The proof applies regardless of the degree of difference in the graph, and there's nothing wrong with the terms I used.\nI don't think that I said you used the wrong terms.\n \n \n\n Ok, so neither plane is actually moving backwards, right? Both engines are pre-throttled to full, the tethers are released, and the only difference is that one plane is on a runway that's moving beneath it at 30mph.\n \n If those are the circumstances you're proposing, I'm entirely comfortable with that.\nThat comes really close to the conditions of the OP. The introduction of two identical airplanes precludes the need to test the same plane under two experiments. Perhaps we should exclude pilot contributions by stipulating that the planes will rise off the runway when they reach 30mph regardless of who's holding the stick...auto-takeoff.\n \n \n \n\n That cannot happen. It's absolutely impossible. I proved it in my previous post: the plane experiencing additional drag must travel further in order to reach takeoff speed.\nI have agreed that it will take MORE TIME for the treadmill plane to reach takeoff speed. That should not be inferred to mean more distance in this case, because of the motion of the runway.\n \n \n \n\n Go back and look at the graphs again, the second one in particular. The proof I wrote, for mathematical convenience, calls the time at which each plane leaves the ground T=0, but the planes could perform their runs starting side by side, or perform them sequentially - it doesn't matter. A plane that is accelerating more slowly requires a greater distance to reach any given speed. It doesn't make the slightest bit of difference why it's accelerating more slowly.\nThis is where we are diverging. The treadmill plane has more time to go the same distance.\n \n\n No, it could not, by the proof I already gave (just mentally slide the graphs\n so that the planes start to move at the same time rather than taking off at the same time). \n \n Alternative proof:\n \n 1. Forget about intervals of time, and think instead about intervals of speed. Remember our assumption: the treadmill plane (A), because of drag, always has lower acceleration than the unrestrained plane (B) at any given velocity.\n \n 2. Pick any arbitrary interval of velocity through which planes A and B passed to get to takeoff. Make it small enough that the change in velocity of both planes over that interval is arbitrarily close to being linear. Call that interval V1 to V2.\n \n 3. By (2), both planes had an average speed of (V1 + V2)/2 over the time they spent accelerating from V1 to V2. However, by (1) plane A has lower acceleration than plane B and thus takes more time to accelerate from V1 to V2. More time at the same average speed means greater distance travelled.\n \n 4. We can subdivide the takeoffs of both planes into arbitrarily fine-grained intervals of velocity, and plane A will always travel further during any such interval. Therefore, it must travel a greater distance in total while accelerating from 0 to takeoff speed.\n \n QED.\nI think you messed up sentence number 4 above.\n \n Additionally, the arbitrary part may ruin my day. I'll have to think about this proof over the weekend. I'm off to see the Wizard.", 
+   {}, 
+   312251, 
+   null, 
+   1212169740.0
+  ], 
+  [
+   312257, 
+   null, 
+   "Kronus", 
+   "You have almost seen the light. The take off distance is the measurement from where the planes started to the point at which their wheels left the ground. \n ...\n The takeoff distance is measured from the line of scrimmage.\n\n \n No, it really isn't. At least, not in this scenario. Sure, under normal circumstances that would be one way to look at how it would be measured, but normal circumstances don't include a plane backing up before takeoff. The purpose of the \"takeoff distance\" measurment is to tell you how much runway you need. If the plane backed up 50 feet, then took off in 50 feet, the answer to that question, by your method, would be zero. The plane doesn't need any runway at all, it's become a helicopter. The actual answer, of course, is that the plane needs 50 feet of runway to take off, its takeoff distance is 50 feet; that doesn't change just because you dragged the plane back 10 feet or 50 feet or 100 miles. The takeoff distance of a plane is strictly a factor of the plane itself, the wind, and the interaction of the wheels with the ground. For a given runway and wind the takeoff distance is a constant for a given plane, just like its length or stall speed. It doesn't change just because you moved the plane before it started to roll forward.", 
+   {}, 
+   312250, 
+   null, 
+   1212170340.0
+  ], 
+  [
+   312262, 
+   null, 
+   "Peeling", 
+   "I have agreed that it will take MORE TIME for the treadmill plane to reach takeoff speed. That should not be inferred to mean more distance in this case, because of the motion of the runway.\n\n The motion of the runway induces drag. That's its only effect.\n \nThis is where we are diverging. The treadmill plane has more time to go the same distance.\n\n I know, but you're neglecting the important fact that it cannot accelerate as fast as the other plane at any given velocity. That's the critical point which proves not only the time, but also the distance will be greater.\n \nI think you messed up sentence number 4 above.\n\n Umm... no, it's fine. All we're doing is focusing on intervals of velocity. \n \n Say plane A takes 2 seconds to accelerate from 5mph to 7mph and plane B takes 1. We don't need to know or care when or where in their takeoff run this happens, we just know it does happen, yes? Both of them, at some stage, have to get from 5 to 7 mph.\n \n Assuming linear acceleration over that interval, the average speed of both planes is the same: 6mph. But plane A has that average speed for 2 seconds, so it will travel twice as far as plane B.\n \n Now, if A accelerated faster than B across some other velocity intervals, it would travel less distance in those intervals and thus could have a smaller total takeoff distance while still having a longer takeoff time. This would happen, intuitively enough, if A spends more time than B at slower speeds but less time at higher speeds: if, for instance, A spent 10 seconds longer than B between 0 and 1mph and 1 second less between 29 and 30mph it would take 9 seconds longer to take off, but travel 36 feet less.\n \n However, because both planes are identical and applying full thrust, with only A subject to drag, it's impossible that A will ever accelerate between two speeds in a shorter time, and thus a shorter distance, than B.", 
+   {}, 
+   312254, 
+   null, 
+   1212172680.0
+  ], 
+  [
+   312411, 
+   null, 
+   "isly ilwott", 
+   "The motion of the runway induces drag. That's its only effect.\n \n I know, but you're neglecting the important fact that it cannot accelerate as fast as the other plane at any given velocity. That's the critical point which proves not only the time, but also the distance will be greater.\n \n Umm... no, it's fine. All we're doing is focusing on intervals of velocity. \n \n Say plane A takes 2 seconds to accelerate from 5mph to 7mph and plane B takes 1. We don't need to know or care when or where in their takeoff run this happens, we just know it does happen, yes? Both of them, at some stage, have to get from 5 to 7 mph.\n \n Assuming linear acceleration over that interval, the average speed of both planes is the same: 6mph. But plane A has that average speed for 2 seconds, so it will travel twice as far as plane B.\n \n Now, if A accelerated faster than B across some other velocity intervals, it would travel less distance in those intervals and thus could have a smaller total takeoff distance while still having a longer takeoff time. This would happen, intuitively enough, if A spends more time than B at slower speeds but less time at higher speeds: if, for instance, A spent 10 seconds longer than B between 0 and 1mph and 1 second less between 29 and 30mph it would take 9 seconds longer to take off, but travel 36 feet less.\n \n However, because both planes are identical and applying full thrust, with only A subject to drag, it's impossible that A will ever accelerate between two speeds in a shorter time, and thus a shorter distance, than B.\n\n \n Well done.\n \n \n It has been challenging to separate my observations and understanding of bush pilot techniques for STOL crafts from this discussion. I have been flown into and out of many a tight spot in an air jalopy and often wondered if we would clear the treetops. \n \n Of course the original OP question is whether the plane would be able to accomplish takeoff. I think we both knew it would. Knowing that it is possible to make a STOL plane lift prior to its published takeoff speed, and that the landing speed with full flaps can be less than the takeoff speed, I had difficulty in mentally comparing two separate attempts in a real airplane with a real pilot. There are too many pilot controlled variables to make a reliable comparison of two actual sequential takeoffs by even the same pilot in the same plane with the same wind conditions. The simultaneous attempts of the two identical, pilotless planes with their tethered release and your clear explanations of the dynamics have convinced me that under identical conditions, the treadmill plane would always require more distance from the starting point to become airborne. It would be hard to prove with the little yellow plane, the truck and the tarp trick.\n \n I have seen STOL pilots rock the airplane nose up and down on roll out, move the stick at the right time and shorten the takeoff distance by several feet. I have seen them delay setting of the flaps for takeoff thereby reducing drag during the run up to takeoff speed. I have seen Pitts Specials fly across an airfield at a low altitude with a ground speed of less than five miles per hour in calm air, using mostly vertical and very little horizontal thrust. Theoretically, if you stand that plane on its tail and apply full thrust, it will takeoff vertically making the takeoff distance zero feet. I have also seen them fly somewhat controllably moving backwards. Aerobatic craft often appear to defy the principles of flight. For a while, it was thought that a shaped wing would not allow a plane to fly upside down and level...happens all the time.\n \n I enjoyed the discussion.\n \n Isly", 
+   {
+    "unicode_changes_made": true
+   }, 
+   312262, 
+   null, 
+   1212416100.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Plane on a treadmill", 
+  "url": "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 11238, 
+  "discussion_files": [
+   [
+    "1906.html", 
+    "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill-print.html"
+   ], 
+   [
+    "1907.html", 
+    "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill-6-print.html"
+   ], 
+   [
+    "1908.html", 
+    "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill-4-print.html"
+   ], 
+   [
+    "1909.html", 
+    "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill-5-print.html"
+   ], 
+   [
+    "1910.html", 
+    "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill-3-print.html"
+   ], 
+   [
+    "1911.html", 
+    "http://www.4forums.com/political/science-math-debates/11238-plane-treadmill-2-print.html"
+   ]
+  ], 
+  "identifier": 11238
+ }
+]

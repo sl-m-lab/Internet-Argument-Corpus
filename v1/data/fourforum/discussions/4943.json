@@ -1,0 +1,170 @@
+[
+ [
+  [
+   112466, 
+   null, 
+   "Kronus", 
+   "Here's a cute math puzzler I heard recently.\n \n Must it be the case that there exists two antipodal spots on the equator that have the same temperature?\n \n Why or why not?", 
+   {
+    "post_info": {
+     "post_title": "Math Puzzle"
+    }
+   }, 
+   null, 
+   null, 
+   1114529400.0
+  ], 
+  [
+   113298, 
+   null, 
+   "victorpride", 
+   "It turns out that mathematically you can prove this is true.\n \n That is, if you define a function F(a,b)=Ta-Tb where Ta is the temperature at any given point and Tb is the temperature at its antipodal point on the equator.\n \n Since the temperature Ta is continuous with respect to da and Tb is continuous with respect to db, then F is also continuous.\n \n Assuming that not all points on the equator have the same temperature, there must exist, reasonably some point for a and b for which Ta<Tb and F is positive. There must also exist some point for which Tb<Ta and F is negative. Since F is a continuous function and since it has some negative values and some positive values, it must be true that there is some (a,b) for which F is zero.\n \n Therefore 0=Ta-Tb and Ta=Tb.\n \n :)\n \n Good puzzle.", 
+   {}, 
+   112466, 
+   null, 
+   1114668840.0
+  ], 
+  [
+   118615, 
+   null, 
+   "Redratio1", 
+   "It turns out that mathematically you can prove this is true.\n \n That is, if you define a function F(a,b)=Ta-Tb where Ta is the temperature at any given point and Tb is the temperature at its antipodal point on the equator.\n \n Since the temperature Ta is continuous with respect to da and Tb is continuous with respect to db, then F is also continuous.\n \n Assuming that not all points on the equator have the same temperature, there must exist, reasonably some point for a and b for which Ta<Tb and F is positive. There must also exist some point for which Tb<Ta and F is negative. Since F is a continuous function and since it has some negative values and some positive values, it must be true that there is some (a,b) for which F is zero.\n \n Therefore 0=Ta-Tb and Ta=Tb.\n \n :)\n \n Good puzzle.\n\n \n Nice analysis, I was trying to poke someholes in it, but couldn't. emoticon_wow \n \n Heard this one before or did it yourself?", 
+   {}, 
+   113298, 
+   null, 
+   1115541420.0
+  ], 
+  [
+   119198, 
+   null, 
+   "Kronus", 
+   "Nice analysis, I was trying to poke someholes in it, but couldn't. \n\n \n No, he got it right. I suppose I could have confirmed that, but his presentation seemed good enough that I didn't think it was necessary.", 
+   {}, 
+   118615, 
+   null, 
+   1115657760.0
+  ], 
+  [
+   119228, 
+   null, 
+   "Redratio1", 
+   ".\n .\n .\n Got another one for us?\n .\n .", 
+   {}, 
+   119198, 
+   null, 
+   1115660760.0
+  ], 
+  [
+   120918, 
+   null, 
+   "Kronus", 
+   ".\n .\n .\n Got another one for us?\n .\n .\n\n \n Well, I have a similar question, to which I know the answer but have no proof.\n \n Must it be the case that there are antipodal spots on a sphere (anywhere on the sphere, not just the equator) such that the temperature will be the same and the humidity will be the same?\n \n Note: The two functions are assumed to be uncoupled. There is no relationship between temperature and humidity.", 
+   {}, 
+   119228, 
+   null, 
+   1115848320.0
+  ], 
+  [
+   148091, 
+   null, 
+   "Mach", 
+   "Here's a cute math puzzler I heard recently.\n \n Must it be the case that there exists two antipodal spots on the equator that have the same temperature?\n \n Why or why not?\n\n \n \n No, it is not necessary that there exist two antipodal spots on the equator that have identical temperatures in reality. The Borsuk-Ulam theorem applies to a conceptual mathematical construct, and can be used to \"model\" reality, but it no way does it necessitate existence of any kind. (perhaps we believe that god's existence can be shown mathematically???)\n \n Realistically, there are not an infinite number of points along the equator. The functions of both position around a planetary body and temperature at any such position cannot be shown to be \"continuous\". \n \n There is no \"must exist\" when dealing with conceptual mathematical representations with such obvious built-in inaccuracies. May exist, perhaps but then we'd have to calculate probability given the accuracy of the measurements (both position and temperature).\n \n Mathematically this is an exercise in infinite probability which allows for a quick and fairly accurate answer to what is a model (with inaccuracies) of a real world problem.\n \n The math used to answer your question assumes that between any two points there are an infinite number of points and that this infinite number of points is continuous (!). That is, if two points had a measurement of 90deg and 100 deg., it is a requirement that there exist a point between the two points that is (exactly!) 91degrees...which is not realistic. Yes, given an infinite probability, all possibilities are infinitely present, which is IMO the general form of the puzzle. Given an infinite number of points and a possibility of each point being a particular temperature on a continuous scale, if it's possible that two points have identical temperatures then there exist an infinite number of such antipodal pairs with identical temperatures. So the puzzle is somewhat misleading in that it hides it's infinity in a single pair.\n \n Must it be the case that there exists AN INFINITE NUMBER OF PAIRS OF antipodal spots on the equator that have the same temperature? No, but in a mathematical model that is probably a close representation of reality, sure.\n \n A gross simplication of a similar real-world problem would be given an infinite number of chances for there to exist a human, if it's possible for that human to be Mach, then an infinite number of Mach's exist. I think Bruno was burned to death for claiming that ;)\n \n -Mach", 
+   {}, 
+   112466, 
+   null, 
+   1121643300.0
+  ], 
+  [
+   148158, 
+   null, 
+   "Kronus", 
+   "Blah, blah, blah.\n \n Were you just being silly, or do you believe that every math puzzle should come with a page and a half of assumptions, qualifications, and givens, in order to be precise? \n \n That reminds me of a joke. An engineer and a mathematician (both het males) are abducted by aliens. They materialize in a long room, at the end or which is a beautiful woman. A loudspeaker clicks on: \"A siren will sound every 30 seconds. When the siren sounds you may move half the remaining distance towards the end of the room. Move more than half the distance and you will be disintergrated. More before the siren sounds and you will be disintergrated.\" \n \n The siren sounds. The engineer dashes halfway across the room, while the mathemetician sits down and starts scribbling equations. Several sirens later the mathematician calls out, \"You might as well give up. I've just proven that you'll never get all the way to the woman.\" To which the engineer replies \"Yeah, but eventually I'll be close enough!\"", 
+   {}, 
+   148091, 
+   null, 
+   1121666220.0
+  ], 
+  [
+   148625, 
+   null, 
+   "Mach", 
+   "Of course the \"puzzle\" was already answered correctly by VP. Worse, in just 1 day after posting and VP answered it clearly. Didn't leave a lot of room for pondering or debate, so why not throw in a more in-depth look to breathe a little life into the otherwise lethargic science/math section?\n \n Such drama though, really now, a page and a half? I think if you felt the need to change it all you'd have to do is chane \"must\" to \"is there a high probability that\", or at the beginning \"using a close math approximation\". But it is just a math puzzle, so of course in the spirit of the puzzle that's not necessary. \n \n I'm glad you posted the puzzle, I read all sorts of things as a result. Also, infinite probability seems to be an often bumped into concept, I also thought it was interesting to answer it this way just to see that surface, and also, in case I was wrong I'd want to be corrected.\n \n -Mach", 
+   {}, 
+   148158, 
+   null, 
+   1121820300.0
+  ], 
+  [
+   148650, 
+   null, 
+   "Kronus", 
+   "\n Such drama though, really now, a page and a half? \n -Mach\n\n \n Sorry about that. :)\n \n I'm an engineer by training, not a mathemetician, and people insisting on unnecessary mathematical precision seems to be a button pusher for me. Nothing personal.", 
+   {}, 
+   148625, 
+   null, 
+   1121824560.0
+  ], 
+  [
+   148674, 
+   null, 
+   "toby", 
+   "...also, in case I was wrong I'd want to be corrected. \n\n Well, if you insist...\n \n \nMathematically this is an exercise in infinite probability which allows for a quick and fairly accurate answer to what is a model (with inaccuracies) of a real world problem. \n\n I don't know where the term \"infinite probability\" came from, but it nonsensical. Perhaps you mean an infinite number of possibilities, each of which having an infinitesimal probability.\n \n \n Yes, given an infinite probability, all possibilities are infinitely present, which is IMO the general form of the puzzle. \n\n There's that term, again. I think you're not looking at this correctly. In the reals in the interval [0,1], each number in the interval appears exactly once, not infinitely many times. All \"possibilities\" are not infinitely present.\n \n \n Given an infinite number of points and a possibility of each point being a particular temperature on a continuous scale, if it's possible that two points have identical temperatures then there exist an infinite number of such antipodal pairs with identical temperatures. \n\n This doesn't follow. Suppose the temperature variation along the equator is a sine wave. Then there will be exactly one antipodal pair with the same temperature (i.e., at 0 degrees and at 180 degrees longitude where the sine is zero). There are not an infinite number of antipodal pairs with the same temperature. \n \n \n So the puzzle is somewhat misleading in that it hides it's infinity in a single pair. \n\n Nope.\n \n \n Must it be the case that there exists AN INFINITE NUMBER OF PAIRS OF antipodal spots on the equator that have the same temperature? No, but in a mathematical model that is probably a close representation of reality, sure. \n\n Not in general; it depends how the representation is done. For a finite linear combination of sine waves, the answer will in general be: No. Only in very special cases will the answer be: Yes.\n \n \n A gross simplication of a similar real-world problem would be given an infinite number of chances for there to exist a human, if it's possible for that human to be Mach, then an infinite number of Mach's exist. I think Bruno was burned to death for claiming that ;) \n\n That depends on what \"possible\" means. If \"possible\" means that the probability of a Mach is a discrete number other than zero, then Archimedes will insist that there will be infinitely many Mach's. However, if \"possible\" means infinitesimally probable, then the number of probable number of Mach's is dependent upon the cardinality of the number of possibilities versus the cardinality of the number of trials. You could easily end up with zero probable Mach's (as in taking a countably infinite number of samples on [0,1] and needing to get a 0 for each Mach).", 
+   {
+    "unicode_changes_made": true
+   }, 
+   148091, 
+   null, 
+   1121827980.0
+  ], 
+  [
+   148684, 
+   null, 
+   "biccat", 
+   "Realistically, there are not an infinite number of points along the equator. The functions of both position around a planetary body and temperature at any such position cannot be shown to be \"continuous\".\n\n I think this was the crux of the argument: in order for there to be a continuous variation of temperature, there must be an infinate number of points, otherwise it's a (very) large number of discrete points.\n \n There's also no guarantee that the temperature along the equator is a continuous function, even if it is assumed to be an infinate number of points.\n \n Although both situations can be realistically ignored.\n \n And if we do say that there is a continuous function of temperature of an infinate number of points around the equator, there will be an infinate number of pairs of equal-temperature points.\n \n However there's no guarantee that all of these points will be antipodal...imagine again the sinusoidal temperature variation: only one pair of antipodal, equal temperature points.", 
+   {}, 
+   148091, 
+   null, 
+   1121829420.0
+  ], 
+  [
+   149034, 
+   null, 
+   "Mach", 
+   "\n In the reals in the interval [0,1], each number in the interval appears exactly once, not infinitely many times. All \"possibilities\" are not infinitely present.\n\n \n Who brought up the reals and the interval [0,1]? Was that interval a given of the puzzle? If not, then it's irrelvant. The debate lever is \"must exist\". It only takes one to false example to make it incorrect, not a few true examples, or even mostly true examples.\n \n \nOriginally Posted by Mach\n Given an infinite number of points and a possibility of each point being a particular temperature on a continuous scale, if it's possible that two points have identical temperatures then there exist an infinite number of such antipodal pairs with identical temperatures.  \n \n \n \nThis doesn't follow. Suppose the temperature variation along the equator is a sine wave. Then there will be exactly one antipodal pair with the same temperature (i.e., at 0 degrees and at 180 degrees longitude where the sine is zero). There are not an infinite number of antipodal pairs with the same temperature. \n \n \n Did you catch that I stated that each point has a probability of being a number on the temperature scale (assumes any/all numbers, it's a general form, just like the puzzle)?\n \n Pick a point on the sine wave that is not the antipodal pair at 0,180. Say, 90. Is it possible that the temperature is identical on 90,270? No, because you've already included as your given to the puzzle, that temperature is represented by a sine wave (a continuous function where exactly (and only) opposite points are identical in value.) Your example is a interesting, but irrelevant. It's also another continuous function.\n \n -Mach", 
+   {
+    "unicode_changes_made": true
+   }, 
+   148674, 
+   null, 
+   1121912280.0
+  ], 
+  [
+   149120, 
+   null, 
+   "toby", 
+   "Who brought up the reals and the interval [0,1]? Was that interval a given of the puzzle? If not, then it's irrelvant. \n\n If you don't understand the relevance, why not just say so? Was your earlier statement that you wanted to be corrected (if wrong) mere posing? You do not seem to be wanting correction. That you claim my argument is irrelevant does not make it so. My point was completely relevant to the quote. It is the single counter example needed to show that your reasoning regarding the problem is wrong.\n \n \nThe debate lever is \"must exist\". It only takes one to false example to make it incorrect, not a few true examples, or even mostly true examples.\n \n\n We're not even debating whether there exists at least one antipodal pair with the same temperature. My objection is to your analysis which supposedly shows that there is. An infinitude of possible antipodal pairs does not show (by itself) that one pair must be the same (since a continuous circuit is really needed), much less that an infinite number must be the same. I provided the single counter example (a sine wave) needed to show that an infinite number are not guaranteed. \n \n \nDid you catch that I stated that each point has a probability of being a number on the temperature scale (assumes any/all numbers, it's a general form, just like the puzzle)? \n\n What you did say was [numbering added]:\n \n\n (1)Yes, given an infinite probability, all possibilities are infinitely present, which is IMO the general form of the puzzle. \n (2)Given an infinite number of points and a possibility of each point being a particular temperature on a continuous scale, if it's possible that two points have identical temperatures then there exist an infinite number of such antipodal pairs with identical temperatures. \n\n (1) The first sentence contains faulty reasoning. Suppose the temperature is a sine wave, then the temperature values will be [-1,1]. All values in [-1,1] are present twice, with the exception of the end points, which are present once. Therefore, not all possibilities are infinitely present. [If no circuit is not in play the simple (non- self repeating) range [0,1] also works fine. That is, it meets with your premise (e.g., no circuit required), but not your conclusion.] Your logic is wrong.\n (2) The second sentence contains faulty reasoning. Once again, if temperature is sine wave, it is possible that two points (an antipodal pair) have the same temperature. In fact, it is definite that an antipodal pair have the same temperature, i.e., 0 and 180 degrees. Nonetheless, there do not exist infinitely many antipodal pairs with the same temperature. Your logic is wrong.\n \n \nPick a point on the sine wave that is not the antipodal pair at 0,180. Say, 90. Is it possible that the temperature is identical on 90,270? No, because you've already included as your given to the puzzle, that temperature is represented by a sine wave (a continuous function where exactly (and only) opposite points are identical in value.) Your example is a interesting, but irrelevant. It's also another continuous function. \n\n Your assertion that my counter example is irrelevant is interesting, but irrelevant. I'm not trying to solve the puzzle. I'm trying to show that your logic is wrong, just as you have asked. \n The counter example (sine wave) shows that a valid temperature profile exists (and satisfies your premises) and does not conform to your conclusions. I have shown all possibilities are not infinitely present. ([0,1] also works as a counter example, given your premise.) I have also shown that if one pair possibly exists, then an infinite number of pairs needn't exist. Shall we let Kronus decide (I we will get anywhere)?", 
+   {
+    "unicode_changes_made": true
+   }, 
+   149034, 
+   null, 
+   1121922300.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Math Puzzle", 
+  "url": "http://www.4forums.com/political/science-math-debates/4943-math-puzzle.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 4943, 
+  "discussion_files": [
+   [
+    "24152.html", 
+    "http://www.4forums.com/political/science-math-debates/4943-math-puzzle-print.html"
+   ]
+  ], 
+  "identifier": 4943
+ }
+]

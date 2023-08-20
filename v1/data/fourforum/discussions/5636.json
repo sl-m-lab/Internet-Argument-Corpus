@@ -1,0 +1,198 @@
+[
+ [
+  [
+   136258, 
+   null, 
+   "georged", 
+   "From what I read, my old set-up, still packed away, is obsolete. Everything has gone to 54g with greatly enhanced software. Any suggestions for specific router/cards hardware and their software? This will have three PCs and be used for Internet sharing off a cable connection modem.", 
+   {
+    "post_info": {
+     "post_title": "Wireless network components"
+    }
+   }, 
+   null, 
+   null, 
+   1118595060.0
+  ], 
+  [
+   136272, 
+   null, 
+   "gamehuis", 
+   "In my experience it really doesn't matter which wireless router or Wifi cards one has. I have 3 computers at home which share a router/modem combo. One of the PC's is wireless and has a Realtek Wifi Card. The router/modem is a Belkin.\n My father has 2 PC's at home, one of which is wireless. Don't know the brand of the router or Wifi card though.\n Basically all the brands are compatible with eachother, so it's usually ok to just go with the cheapest.\n \n P.S.\n Eventhough 54 Mb/s is now the standard, most internet connections are not able to even come close to maxing out the 'old' 11 Mb/s, so you could just as well stick to your old rig.\n For example, I have a 3.2 Mb/s line at home and my father has a 2 Mb/s line. The fastest line I'm able to get in my town is 10 Mb/s and that one costs a lot of money, so I don't think that many people will have it and it's still slower than the maximum of 11 Mb/s of the 'old' rigs.", 
+   {}, 
+   136258, 
+   null, 
+   1118600040.0
+  ], 
+  [
+   136462, 
+   null, 
+   "daewoo", 
+   "From what I read, my old set-up, still packed away, is obsolete. Everything has gone to 54g with greatly enhanced software. Any suggestions for specific router/cards hardware and their software? This will have three PCs and be used for Internet sharing off a cable connection modem.\n\n \n \n First check your old stuff and see if it can be upgraded (software side) 2nd, decide if you need the newer stuff or not.\n \n My wireless network is a hodgepodge of 802.11B (the old stuff) and 802.11G (the new stuff). Cor the most part, you cannot tell the difference. The only notable exception I have seen is if you regularly transfer big files (3GB+). Beyond that, it does nto seem to make a difference,.\n \n When I buy stuff like that, I usually keep an eye on fatwallet (www.fatwallet.com) for a while. The last wireless routers I got were froma deal I found there. I bought them at staples (free shipping if you join their free rewards program....and no junk mail). They were on sale for $44 each. There was a Staples mail in rebate for $20, and a linksys mail in rebate for $20, so they ended up costing $4 each. The penny pinchers over at fatwallet ferret out deals like that pretty regularly. \n \n For routers, I like linksys or belkin. Dlink makes junk routers. \n \n For PCMCIA cards, I like Dlink\n \n Everything else, linksys (desktop cards, etc....)\n \n You might try to get stuff that will accept a wireless antennae if you paln to put a computer in your shop.", 
+   {}, 
+   136258, 
+   null, 
+   1118641200.0
+  ], 
+  [
+   136499, 
+   null, 
+   "Platypus", 
+   "Eventhough 54 Mb/s is now the standard, most internet connections are not able to even come close to maxing out the 'old' 11 Mb/s, so you could just as well stick to your old rig.\n\n I actually switched from 802.11b (11Mb/s) to 802.11g (54Mb/s) not because of the data rate but because other differences in signalling between the two make g a bit better at dealing with obstacles. In my case a big blob of plumbing was creating dead spots in the master bedroom, but those have practically gone away since the switch. On the other hand, reception downstairs is a little worse than before due to range. Neither of these differences are so much a matter of the technology itself, but rather relate to the units that are being produced (e.g. power levels, different antenna types). As new technologies such as MIMO (multiple in, multiple out) are refined they'll show up on g units but probably never on b. I got an entire Netgear 802.11g setup with a router/AP and two laptop cards for $70 after rebates, so there's not much reason to shy away from it.", 
+   {}, 
+   136272, 
+   null, 
+   1118665200.0
+  ], 
+  [
+   136529, 
+   null, 
+   "georged", 
+   "Thanks to all. I purchased new Linksys router and cards. When I get my old stuff unpacked, I'll donate it to a local high school student.", 
+   {}, 
+   136499, 
+   null, 
+   1118677680.0
+  ], 
+  [
+   136533, 
+   null, 
+   "daewoo", 
+   "Thanks to all. I purchased new Linksys router and cards. When I get my old stuff unpacked, I'll donate it to a local high school student.\n\n \n You will like the linksys stuff. As far as I know, they make some of the best stuff out there for wireless.", 
+   {}, 
+   136529, 
+   null, 
+   1118678820.0
+  ], 
+  [
+   136537, 
+   null, 
+   "georged", 
+   "Maybe they've changed, but when I first went wireless it was using d-link components and I felt like I was adding software patches every day to maintain connectivity between router and remotes. Once a bad taste....", 
+   {}, 
+   136533, 
+   null, 
+   1118679420.0
+  ], 
+  [
+   136549, 
+   null, 
+   "daewoo", 
+   "Maybe they've changed, but when I first went wireless it was using d-link components and I felt like I was adding software patches every day to maintain connectivity between router and remotes. Once a bad taste....\n\n \n My first network cards were Belkin. Compared to Belkin, Dlink had their ducks in a row. Both have improved incredibly. A lof the problems that Dlink had were the prism chipsets they were using. Their software (firmware) was badly written and it seems like they updated their code a line at a time, and sent a frimeware upgrade for each line.", 
+   {}, 
+   136537, 
+   null, 
+   1118681280.0
+  ], 
+  [
+   136561, 
+   null, 
+   "georged", 
+   "My first network cards were Belkin. Compared to Belkin, Dlink had their ducks in a row. Both have improved incredibly. A lof the problems that Dlink had were the prism chipsets they were using. Their software (firmware) was badly written and it seems like they updated their code a line at a time, and sent a frimeware upgrade for each line.\n\n \n The problem I experienced was just that, the problem being updates were posted on their website, difficult when I couldn't connect. At the beginning it was so bad I put a wired network card back in a spare desktop and switched from router to card to get online to load updates.", 
+   {}, 
+   136549, 
+   null, 
+   1118683020.0
+  ], 
+  [
+   136566, 
+   null, 
+   "daewoo", 
+   "The problem I experienced was just that, the problem being updates were posted on their website, difficult when I couldn't connect. At the beginning it was so bad I put a wired network card back in a spare desktop and switched from router to card to get online to load updates.\n\n \n Thats not so bad. With Belkins early models, their software completely took over windows networking. If the wireless did not work, NO networking worked. You essentially ended up downloading updates on another computer than transporting them by \"sneaker network\" to the machine that you were foolish enough to install a belkin card in.\n \n I think my \"newest\" Dlink card is a DWL-650 (which is old enough that it is still 802.11B). It actually works witht he latests software. Oddly enough, I have found that when Dlink cards will not connect to the router, they will still generally connect P2P with another machine on the network. Still a pain, but they finally seem to have got some decent developers to work on their software. I have not had to update the 650 cards for nearly a year.", 
+   {}, 
+   136561, 
+   null, 
+   1118683860.0
+  ], 
+  [
+   136581, 
+   null, 
+   "georged", 
+   "Makes me wonder what some posters always longing for 'the good old days' ever actually experienced in their lives.", 
+   {}, 
+   136566, 
+   null, 
+   1118685000.0
+  ], 
+  [
+   137507, 
+   null, 
+   "Steeeeve", 
+   "I'ver personally had a lot of trouble with Linksys routers and I prefer D-link. HOwever, they are both fine in my opinion. I wouldn't touch a NetGear with a 10ft poll though.", 
+   {}, 
+   136581, 
+   null, 
+   1118861940.0
+  ], 
+  [
+   137799, 
+   null, 
+   "georged", 
+   "Unwrapping, installation and configuration of the Linksys Wireless G #WRT54G router and their wireless cards in two desktops took about 30-minutes. No-brainer software and flawless performance.", 
+   {}, 
+   137507, 
+   null, 
+   1118936040.0
+  ], 
+  [
+   137804, 
+   null, 
+   "gamehuis", 
+   "Good to hear that everything went ok. :)", 
+   {}, 
+   137799, 
+   null, 
+   1118936400.0
+  ], 
+  [
+   137810, 
+   null, 
+   "georged", 
+   "Good to hear that everything went ok. :)\n\n \n Big, big difference from earlier offerings.", 
+   {}, 
+   137804, 
+   null, 
+   1118937540.0
+  ], 
+  [
+   138807, 
+   null, 
+   "deathlord52", 
+   "Unwrapping, installation and configuration of the Linksys Wireless G #WRT54G router and their wireless cards in two desktops took about 30-minutes. No-brainer software and flawless performance.\n\n I have all Linksys routers, and cable modem. They are rather simple to set up. Plus, many of their models are Linux-based, and can be accessed that way (for anyone that likes to play).", 
+   {}, 
+   137799, 
+   null, 
+   1119157260.0
+  ], 
+  [
+   144589, 
+   null, 
+   "zachvac", 
+   "Never tried anything else, I just have a linksys router and a wireless card in the laptop. Works fine, so I have no complaints.", 
+   {}, 
+   138807, 
+   null, 
+   1120545480.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Wireless network components", 
+  "url": "http://www.4forums.com/political/computers/5636-wireless-network-components.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 5636, 
+  "discussion_files": [
+   [
+    "14318.html", 
+    "http://www.4forums.com/political/computers/5636-wireless-network-components-print.html"
+   ], 
+   [
+    "14319.html", 
+    "http://www.4forums.com/political/computers/5636-wireless-network-components-2-print.html"
+   ]
+  ], 
+  "identifier": 5636
+ }
+]

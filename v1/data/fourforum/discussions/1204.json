@@ -1,0 +1,188 @@
+[
+ [
+  [
+   21167, 
+   null, 
+   "Robbie", 
+   "\"The number of harmful mutations that arise in each generation has been measured, and it is surprisingly high. 4.2 mutations per person per generation.\" (James F. Crow, Nature, Jan. 28, 1999, p. 232, 293-294) \"About 38% are estimated to have been eliminated by natural selection... indicating that the rate specific to protein - coding sequences is nearly to the upper tolerable limit.\" (Adam Eyre-Walker, Peter D Keightley, High genomic deleterious mutation rates in hominids Nature, Jan. 28, 1999, p. 344-347).\n \n How can good mutations compete?", 
+   {
+    "post_info": {
+     "post_title": "Recessive mutations"
+    }
+   }, 
+   null, 
+   null, 
+   1067825100.0
+  ], 
+  [
+   21365, 
+   null, 
+   "Rationalist", 
+   "Turns out this estimate was based on a pre-genome guess as to the the number of actual genes humans have. The real number is somewhere around 1.5 - 2.5 given that they only found less than half the number of coding genes they thought they would.", 
+   {}, 
+   21167, 
+   null, 
+   1067930580.0
+  ], 
+  [
+   21425, 
+   null, 
+   "Robbie", 
+   "Ok, so there's about 2 per person. But how does natural selection work against these? Don't they just build up over time, causing degeneration?", 
+   {}, 
+   21365, 
+   null, 
+   1067984160.0
+  ], 
+  [
+   21486, 
+   null, 
+   "Charchuk", 
+   "Ok, so there's about 2 per person. But how does natural selection work against these? Don't they just build up over time, causing degeneration?\n\n \n Not if they are so bad that the person doesn't live long enough to reproduce. Evolution is a very wasteful process and self-correcting to a certain extent. Plus, not all bad mutations are life threatening.", 
+   {}, 
+   21425, 
+   null, 
+   1068043020.0
+  ], 
+  [
+   21494, 
+   null, 
+   "Mr Jack", 
+   "Sickle Cell Anemia - good mutation or bad?", 
+   {}, 
+   21486, 
+   null, 
+   1068052020.0
+  ], 
+  [
+   21496, 
+   null, 
+   "Robbie", 
+   "That's what I mean though. If these mutations aren't expressed, or life-threatening, they are passed on to the next generation. They build up. \n \n Trick question! Sickle-cell is positive where malaria's really bad, and negative otherwise, right? What's the point?", 
+   {}, 
+   21494, 
+   null, 
+   1068053280.0
+  ], 
+  [
+   21507, 
+   null, 
+   "Mr Jack", 
+   "The point is that we have no decent way of knowing whether a given mutation is 'good', 'neutral' or 'bad' because the effect of the mutation depends upon the environment in which the mutation is expressed.\n \n Since major evolutionary change occurs mostly when a population moves to a new environment, or the environment in which the population live changes, the concept of which mutations are good and which are bad changes too.", 
+   {}, 
+   21496, 
+   null, 
+   1068055260.0
+  ], 
+  [
+   21512, 
+   null, 
+   "Robbie", 
+   "The Science article said that the mutations were 'bad'. Yes, the effect changes with the environment, but I think that is really avoiding the point. If a mutation caused a protien to work less effeciently and had no other effect then it will be exclusively bad. We know that good vs. bad ratio's are at least 1 to 100. So doesn't it follow that we should be degenerating?\n \n If DNA were changed randomly then you would expect the effect to be mostly bad. That's what mutation is all about. Natural selection is supposed to get rid of the bad effects. Yet, if many of these effects are recessive, how are they selected against?", 
+   {}, 
+   21507, 
+   null, 
+   1068059580.0
+  ], 
+  [
+   21519, 
+   null, 
+   "Charchuk", 
+   "The Science article said that the mutations were 'bad'. Yes, the effect changes with the environment, but I think that is really avoiding the point. If a mutation caused a protien to work less effeciently and had no other effect then it will be exclusively bad. We know that good vs. bad ratio's are at least 1 to 100. So doesn't it follow that we should be degenerating?\n \n If DNA were changed randomly then you would expect the effect to be mostly bad. That's what mutation is all about. Natural selection is supposed to get rid of the bad effects. Yet, if many of these effects are recessive, how are they selected against?\n\n \n When they express themselves. According to the Human Genome Project the vast majority of our DNA is not used, but would be called junk and mostly made up of \"leftovers\".", 
+   {}, 
+   21512, 
+   null, 
+   1068061260.0
+  ], 
+  [
+   21554, 
+   null, 
+   "Robbie", 
+   "When they express themselves. According to the Human Genome Project the vast majority of our DNA is not used, but would be called junk and mostly made up of \"leftovers\".\n\n \n I'll think about it. If the mutations were classified as bad then they must have affected 'non-junk' DNA.", 
+   {}, 
+   21519, 
+   null, 
+   1068081600.0
+  ], 
+  [
+   21583, 
+   null, 
+   "lazserus", 
+   "This may help some.\n \n \"Most mutations are neutral. Nachman and Crowell estimate around 3 deleterious mutations out of 175 per generation in humans [Nachman & Crowell, 2000].\" - Genetics 156(1): 297-304.\n \n \"Whether a mutation is beneficial or not depends on environment. A mutation which helps the organism in one circumstance could harm it in another. When the environment changes, variations which once were counteradaptive suddenly become favored. Since environments are constantly changing, variation helps populations survive, even if some of those variations don't do as well as others. When beneficial mutations occur in a changed environment, they generally sweep through the population rapidly [Elena et al, 1996].\" - Science 272: 1802-1804.\n \n \"Of those that have significant effect, most are harmful, but a significant fraction are beneficial. The harmful mutations don't survive long, and the beneficial mutations survive much longer, so when you consider only surviving mutations, most are beneficial.\" - http://www.talkorigins.org/indexcc/CB/CB101.html", 
+   {}, 
+   21167, 
+   null, 
+   1068095580.0
+  ], 
+  [
+   21623, 
+   null, 
+   "Charchuk", 
+   "I'll think about it. If the mutations were classified as bad then they must have affected 'non-junk' DNA.\n\n \n As I had also said, most bad mutations are not life threatening either. They can be very unpleasant, though. They can manifest as poor eyesight, or blindness, deafness, baldness, an extra digit, webbed digits, dwarfism, giantism, etc, etc.... And there are the extremes which they use to put in circus sideshows as well.", 
+   {}, 
+   21554, 
+   null, 
+   1068126600.0
+  ], 
+  [
+   21654, 
+   null, 
+   "Robbie", 
+   "As I had also said, most bad mutations are not life threatening either. They can be very unpleasant, though. They can manifest as poor eyesight, or blindness, deafness, baldness, an extra digit, webbed digits, dwarfism, giantism, etc, etc.... And there are the extremes which they use to put in circus sideshows as well.\n\n \n That's what I mean though. If the mutations aren't life threatening, or are recessive they aren't necessarily getting selected against. I'm not trying to disprove evolution with this point, since I'm unsure of the validity of it.\n \n \"Of those that have significant effect, most are harmful, but a significant\n fraction are beneficial. The harmful mutations don't survive long, and the\n beneficial mutations survive much longer, so when you consider only surviving\n mutations, most are beneficial.\" -\n \n Thanks for the answer, is this evolutionary theory or what we've seen in practice?", 
+   {}, 
+   21623, 
+   null, 
+   1068141480.0
+  ], 
+  [
+   21664, 
+   null, 
+   "Charchuk", 
+   "That's what I mean though. If the mutations aren't life threatening, or are recessive they aren't necessarily getting selected against. I'm not trying to disprove evolution with this point, since I'm unsure of the validity of it.\n\n \n Another form of natural selection is through the female in that if she doesn't like the way you look she won't select you. :) To a certain extent we have guided our evolution as well. We are nearing the time when we will be able to completely guide our evolution towards any path we choose.\n \n \n\"Of those that have significant effect, most are harmful, but a significant\n fraction are beneficial. The harmful mutations don't survive long, and the\n beneficial mutations survive much longer, so when you consider only surviving\n mutations, most are beneficial.\" -\n \n Thanks for the answer, is this evolutionary theory or what we've seen in practice?\n\n \n Also, what may have been a beneficial mutation at one time may no longer be if the environment has changed and it hasn't been selection out yet.\n \n One example are wisdom teeth. At one time our jaws were much longer than they are now and as we changed to accommodate certain other changes our jaws shortened to what they are now and we haven't selected for removal of the extra teeth yet because for the most part they are not life threatening and until recently most people lost majority of their teeth long before they usually become a problem.", 
+   {}, 
+   21654, 
+   null, 
+   1068149880.0
+  ], 
+  [
+   21725, 
+   null, 
+   "lazserus", 
+   "is this evolutionary theory or what we've seen in practice?\n\n This is evolutionary theory based on what we have observed.\n \n The wisdom teeth example is a great one. One thing to note also is that more and more humans are being born without wisdom teeth.", 
+   {}, 
+   21664, 
+   null, 
+   1068170340.0
+  ], 
+  [
+   21726, 
+   null, 
+   "Charchuk", 
+   "This is evolutionary theory based on what we have observed.\n \n The wisdom teeth example is a great one. One thing to note also is that more and more humans are being born without wisdom teeth.\n\n \n I wish that I were that evolved. :) Those suckers hurt.", 
+   {}, 
+   21725, 
+   null, 
+   1068170640.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Recessive mutations", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/1204-recessive-mutations.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 1204, 
+  "discussion_files": [
+   [
+    "21373.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/1204-recessive-mutations-print.html"
+   ], 
+   [
+    "21374.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/1204-recessive-mutations-2-print.html"
+   ]
+  ], 
+  "identifier": 1204
+ }
+]

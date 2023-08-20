@@ -1,0 +1,95 @@
+[
+ [
+  [
+   231656, 
+   null, 
+   "chbg.", 
+   "First & foremost, the paradox. The following paradox is entitled Theseus' Ship. The text was taken from http://members.aol.com/kiekeben/theseus.html.\n \n Theseus is famous in Greek mythology as the slayer of the Minotaur, a half-man, half-bull monster who lived in the Labyrinth in the island of Crete. According to Plutarch, the ship in which Theseus sailed back to Athens was preserved for many generations, its old planks being replaced by new ones as they decayed. Now suppose that a few hundred years later, all the original parts of the ship had been replaced, one by one, so that none of the original ship remained. Is the preserved ship still Theseus' ship? Or is it a copy? And if the latter, then at what point did it cease to be Theseus' ship? \n \n I will begin with one of Dictionary.com's definitions for \"original\" - belonging or pertaining to the origin or beginning of something, or to a thing at its beginning. Now, in lieu of said definition, after the span of a few hundred years had come to its conclusion, the preserved ship would not be Theseus' ship, but a copy. & as the paradox asks at what point did it cease to be Theseus' ship, the answer is quite simple. Granted we are basing our position on the above definition, we can conclude that the ship ceased to be Theseus' as the last \"original\" decaying plank was substituted with a new one.\n \n On the contrary, according to this alternate definition for \"original\" as stated by Dictionary.com - not derived from something else; fresh and unusual, the previously stated conclusion would be false. Pertaining to the latter definition, as a new (original by definition) plank of wood replaced a decaying one, the plank of wood would become an original part of Theseus' ship, as implied by the definition. Therefore, as the span of those few hundred years came to an end, Theseus' ship would be constructed of \"original\" planks of wood, concluding that the ship could still be considered Theseus'. Regardless, I would like your takes on this paradox. & please, explain in as much detail as possible why you are maintaining the position you are stating.\n \n Now, for the logical puzzle. This particular puzzle is entitled A Ternary Duel & is taken from http://soler7.com/IFAQ/TruelQ.html.\n \n A 'truel' is a duel involving three people. The rules are that each has a turn at shooting at one opponent and the truel continues until only one participant is left alive. In one particular truel there are three people: Mr. Black, Mr. Gray & Mr. White. Mr. Black hits his target one time in three, Mr. Gray hits the target two times in every three shots and Mr White never misses. To make it fairer Mr. Black shoots first, then Mr. Gray, followed by Mr. White, and so on, until only one man remains alive. The question is what should Mr. Black do?\n \n It also asks what are each man's chances of surviving the ordeal. First, I'd like someone to walk me through how you'd figure out the probability of each man's survival according to what has been stated preceding the answer of what Mr. Black should do. & after I have been walked through this, I would like to be walked through the probability of each man's survival proceeding the answer to what Mr. Black should do, so without ruining the answer to the puzzle, I ask that you refer to the link stated above & check the solution to the problem, then walk me through working out the probabilities once everything is said & done. I'd appreciate any input on either the paradox or the logical puzzle.", 
+   {
+    "post_info": {
+     "post_title": "A paradox &amp; logical puzzle."
+    }, 
+    "unicode_changes_made": true
+   }, 
+   null, 
+   null, 
+   1158806460.0
+  ], 
+  [
+   231721, 
+   null, 
+   "Kronus", 
+   "I'll just deal with the paradox in this post and take a stab at the puzzle later.\n \n First off I'd suggest not using dictionary.com as a reference for this discussion. It's simply not a great dictionary, and really isn't up to snuff if you're discussing the deeper meanings of a term.\n \n Now, on to the question at hand. Is it the same ship? My answer would be, it depends. I know, a bit of a cop out. I'll explain. If you want to say that two things are the same you really need to state your criteria. If you get too exacting in your criteria, than nothing is the same from one instant to the next. Atoms drift off, electons spin, the object in question moves through time. Obviously any definition which applies to nothing is a pretty poor definition. So we need to allow the idea that something can change in some manner and yet still be considered the \"same\" as it was a little while ago. So what changes are allowed? That, I think, would depend on what quality of the item in question we think is most pertinent. To take your example, if the most important quality of the ship to me is the physical form of the ship, than it remains the \"same\" ship throughout the replacement process. As long as each replacement is a duplicate of the part it's replacing than the ship is the same ship, even after all the original parts have been thrown away. If, on the other hand, the most germane quality is it's historical significance than it becomes a different ship the moment one piece of original hardware is removed. As soon as you take off one bit of rope that Theseus might have touched and replace it with rope that we know Theseus never touched, it stops being Theseus's ship. \n \n So, in summary, if we accept that something can change in some manner and still be considered the same thing that it was a moment ago, then your definition of \"same\" is dependent on the manner of change you allow, and that will depend on the qualities you care about. Thus, there can be no universal specific defintion of \"same\" or \"original\" which will satisfy all situations.", 
+   {}, 
+   231656, 
+   null, 
+   1158863760.0
+  ], 
+  [
+   231727, 
+   null, 
+   "Kronus", 
+   "\n It also asks what are each man's chances of surviving the ordeal. First, I'd like someone to walk me through how you'd figure out the probability of each man's survival according to what has been stated preceding the answer of what Mr. Black should do. & after I have been walked through this, I would like to be walked through the probability of each man's survival proceeding the answer to what Mr. Black should do, \n\n \n I don't think you can seperate it like that. The only way to calculate the odds is to assume that everyone involved can also calculate the odds and will act in a manner which will improve their odds of survival. In other words, the only way we can solve the problem is to assume that Black can also work out the math and act accordingly.", 
+   {}, 
+   231656, 
+   null, 
+   1158864300.0
+  ], 
+  [
+   231802, 
+   null, 
+   "Kronus", 
+   "So, I worked through the solution, and got the same answer your link supplied. How detailed a walk through would you like?", 
+   {}, 
+   231727, 
+   null, 
+   1158898260.0
+  ], 
+  [
+   231906, 
+   null, 
+   "chbg.", 
+   "As detailed as possible, please.", 
+   {}, 
+   231802, 
+   null, 
+   1158978660.0
+  ], 
+  [
+   231936, 
+   null, 
+   "Kronus", 
+   "As detailed as possible, please.\n\n \n Will do. This does contain \"spoilers\", so if you don't want those read no further.\n \n First off, for Black to make the right decision he needs a good idea of what Grey and White will do. If anyone only has one opponent left they'll shoot at that opponent, that's obvious. If White has two opponents he'll shoot at Grey so that he'll have a 2/3 chance of surviving the next round, rather than 1/3 if he shoots Black. Grey will figure that White will think that way, so he'll shoot at White if everyone is still alive. So what will Black do? Not shoot at Grey. If by chance he hits than White kills him. So Black will either shoot at White, or miss on purpose. To figure out which is better we need to work the odds.\n \n Not sure how much you know about calculating odds, so a quick primer. To get the odds of a series of events happening in sequence, you multiply the odds of each individual event happening together. If you have a series of branching scenarios, and some branches lead to the same event, than you add up the odds that lead to each individual event to get the total odds of that event happening.\n \n The tricky bit here is figuring out the odds of Black living if he and Grey get in a shootout, with White already dead. To simplify things for now, lets say the odds of Black winning if he shoots first is X, and if Grey shoots first it's Y. We'll get X and Y later.\n \n Let's do the odds if Black shoots in the air. First shot, he missses. Grey shoots at White. 2/3 of the time he hits and we're into scenario X. Otherwise, White shoots and kills Grey. Black shoots at White, and hits him 1/3 of the time, winning. Otherwise White shoots him. Doing the math for each individual surviving gives:\n \n B: 2/3 X + 1/3 * 1/3 = 2/3X + 1/9\n G: 2/3 (1-X)\n W: 1/3 * 2/3 = 2/9\n \n If Black shoots at White on the first round than 1/3 of the time he hits, and we're into scenario Y. Otherwise we're into the above scenario. So that gives:\n \n B: 1/3 * Y + 2/3 * (2/3 * X + 1/9)\n G: 1/3 * (1-Y) + 2/3 * (2/3 * (1-X)) \n W: 2/3 * 2/9 = 4/27\n \n How do we figure X and Y? If we start in scenario Y, and Grey misses, than we're into scenario X. There's a 1/3 chance of that, so Y is 1/3 X. In other words, Black is 3 times more likely to survive if he shoots first. Calulating X is a little trickier. Black and Grey could shoot it out forever, so if you tried to draw a diagram showing all the branching possibilities it would be infinately large. However, if you caculate the odds of Black surviving to each node, you'll see that he has a 1/3 chance for the first node, 2/9*1/3 for the next, 2/9*2/9*1/3 chance for the next, 2/9*2/9*2/9*1/3 for the one after that, etc. In other words, multiply the previous odds by 2/9. It's been a while since I've done infinite sums, so I plugged it into Excel, and after about 15 iterations you get that X is about .42857. \n \n Plug that into our equations above and you'll get that if X shoots at white, he lives 31.2% of the time. If he missed deliberately, he lives 39.7% of the time. And in that case the odds for Grey are 38.1%, and 22.2% for White.", 
+   {}, 
+   231906, 
+   null, 
+   1159024380.0
+  ], 
+  [
+   234199, 
+   null, 
+   "Mach", 
+   "\n Theseus is famous in Greek mythology as the slayer of the Minotaur, a half-man, half-bull monster who lived in the Labyrinth in the island of Crete. According to Plutarch, the ship in which Theseus sailed back to Athens was preserved for many generations, its old planks being replaced by new ones as they decayed. Now suppose that a few hundred years later, all the original parts of the ship had been replaced, one by one, so that none of the original ship remained. Is the preserved ship still Theseus' ship? Or is it a copy? And if the latter, then at what point did it cease to be Theseus' ship? \n\n \n Paradoxes seem like contradictions, but are by definition admittedly not.\n The confusion is a result of the premises. \n \n There is no precise definition given for what Theseus's ship is. As a result, one cannot be precise in identifying a contradiction, hence, paradox. As soon as one chooses a more precise definition, the paradox dissolves.\n \n Example: T's ship: The combination of wooden planks, nails, mast, rigging, (etc.) that comprised the vessel that carried T to Athens.\n - with no lost parts:\n This ship is the ship that T sailed in to Athens.\n - With lost parts: This is the original ship used to sail to Athens minus some parts that have been copied and replaced.\n - With all parts replaced:\n This ship began as the original ship used to sail to Athens but has over time, been entirely replaced by new parts. It is however, the most accurate copy we know of.\n \n More precise, if any part originally included in the defintion is not the original, it's no longer the same ship, only partly the same ship. This may be a useful defintiion, but it's limited as well. You can be certain that the exact composition of atmos in the original, over time, will change, and will not be \"the same\". Useful human definitions of large objects in conjunction with time, generally give acceptance to a broad concept of \"the same\", which excludes atomic on up to minor changes.\n \n -Mach", 
+   {}, 
+   231656, 
+   null, 
+   1160351760.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  A paradox & logical puzzle.", 
+  "url": "http://www.4forums.com/political/philosophy-debates/8905-paradox-logical-puzzle.html", 
+  "breadcrumbs": [
+   "Philosophy"
+  ], 
+  "id_number": 8905, 
+  "discussion_files": [
+   [
+    "26810.html", 
+    "http://www.4forums.com/political/philosophy-debates/8905-paradox-logical-puzzle-print.html"
+   ]
+  ], 
+  "identifier": 8905
+ }
+]

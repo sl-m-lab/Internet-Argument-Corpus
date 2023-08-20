@@ -1,0 +1,74 @@
+[
+ [
+  [
+   188167, 
+   null, 
+   "cmitch06", 
+   "IM setting up a netgear wgr614 router and whenever i hook everything up and it goes to restart my network my web browser opens and says page cannot be displayed. I kinda feel like an idiot b/c i know its suppose to be real simple and i have some networking experience. i have done all i know to do.", 
+   {
+    "post_info": {
+     "post_title": "I need some help with my netgear router."
+    }
+   }, 
+   null, 
+   null, 
+   1135657380.0
+  ], 
+  [
+   188229, 
+   null, 
+   "georged", 
+   "Does your internet connection work when wired directly from your modem to a PC? If so, try cat5 from a network card in a PC to the router. If you get a browser, the router is fine. If your station (PC) softare is correctly installed and the card working (under Windows check system devices and refresh the driver), you should be fine. If all else fails and you're in the US, these people have solved some problems for me:\n \n http://www.geeksbyminute.com/?ovmkt=2TLKT7C0EDJBP33JN4ED2DIJI8", 
+   {}, 
+   188167, 
+   null, 
+   1135704600.0
+  ], 
+  [
+   188238, 
+   null, 
+   "Missouri Mule", 
+   "Don't feel like an idiot. I had the same problem with my Linksys router. It requires the proper set-up and all I can say is \"good luck.\" The \"technical support\" people will just read off a crib sheet. What I would suggest is to go to one of the search engine and put in your router and problem and I'll bet you can find someone who has solved this problem before.", 
+   {}, 
+   188229, 
+   null, 
+   1135707360.0
+  ], 
+  [
+   188242, 
+   null, 
+   "georged", 
+   "I have a Linksys G broadband router and their PCI cards in three machines. Once I installed the software/hardware, each machine was immediately online. The only problem I've had to date is infrequently removing other networks that individual machines pick up. \n \n I switched to the newer router a few months ago. My prior Linksys router was an old PITA wireless which initially required downloading new drivers it seemed like every week and reconfiguring the network.", 
+   {}, 
+   188238, 
+   null, 
+   1135708380.0
+  ], 
+  [
+   189620, 
+   null, 
+   "JPSartre12", 
+   "IM setting up a netgear wgr614 router and whenever i hook everything up and it goes to restart my network my web browser opens and says page cannot be displayed. I kinda feel like an idiot b/c i know its suppose to be real simple and i have some networking experience. i have done all i know to do.\n\n \n I just installed a Netgear Broadband router over the weekend. It was a strange installation in that the first part of the installation involved NOT installing the router but connecting directly to the broadband modem instead. I'm guessing that the software was looking for IP addresses and other settings from the modem.\n Once installed, both laptops worked immediately. I had been having problems with my desktop computer's motherboard based ethernet card, so I bought a PCI slot ethernet card. It didn't work either, so I bought a USB2.0 to ethernet adapter and it worked from the get-go without any problems. As soon as I plugged it in, Windows 2000 sensed new hardware and asked for the driver location. I inserted the disk and voila, back in business. emoticon_xgood \n Now I have three good connections through my router with an automatic firewall. emoticon_xgood", 
+   {}, 
+   188167, 
+   null, 
+   1136330520.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  I need some help with my netgear router.", 
+  "url": "http://www.4forums.com/political/computers/7185-i-need-some-help-my-netgear-router.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 7185, 
+  "discussion_files": [
+   [
+    "7009.html", 
+    "http://www.4forums.com/political/computers/7185-i-need-some-help-my-netgear-router-print.html"
+   ]
+  ], 
+  "identifier": 7185
+ }
+]

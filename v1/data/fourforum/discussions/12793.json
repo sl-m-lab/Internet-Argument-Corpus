@@ -1,0 +1,94 @@
+[
+ [
+  [
+   355226, 
+   null, 
+   "DrNo", 
+   "Yesterday, I was having a debate with my roommate about probability. He says if the chance of getting attacked by a shark in the ocean is 1 in 1 million (I realize that is oversimplified, but bear with me), then a shark attack is more likely if you have 1 million people in the ocean versus just 1 person in the ocean.\n \n I disagreed and said the probability of a shark attack is still 1 in 1 million whether you have 1 person or 1 million people. 1 million people in the ocean once is the same as 1 person in the ocean 1 million times. The probability of that 1 person getting attacked is the same whether it's the first time they enter the ocean or the 1 millionth time.\n \n Am I right? If so, is there a theory or principle I can reference to explain this to him? If I'm wrong, why?", 
+   {
+    "post_info": {
+     "post_title": "Probability"
+    }
+   }, 
+   null, 
+   null, 
+   1243449360.0
+  ], 
+  [
+   355241, 
+   null, 
+   "Jo Bennett", 
+   "It depends, if you want the probability of  someone getting attacked then obviously the probability will rise the more people go in, for a fixed probability of being attacked. In fact, for the probability you stated, there is around a 0.63 chance that 1 or more of those million people will be attacked.\n \n For a specific individual, assuming the events (someone getting attacked) are independent, then given that you have stated the probability of them getting attacked is 1/1000000, then that remains the probability.", 
+   {}, 
+   355226, 
+   null, 
+   1243453500.0
+  ], 
+  [
+   355261, 
+   null, 
+   "DrNo", 
+   "So are you saying 1 million people in the ocean once is NOT the same as 1 person in the ocean 1 million times?\n \n In other words, isn't a million people in the ocean just a bunch of individuals with the same 1 in 1 million chance of getting attacked? And, according to the law of large numbers, if you keep adding millions of people into the ocean, shouldn't the results keep getting closer to the 1 in 1 million ratio, thereby not actually increasing anybody's chance of getting attacked?\n \n I know what you're saying makes sense, but it just seems wrong for some reason.", 
+   {}, 
+   355241, 
+   null, 
+   1243459980.0
+  ], 
+  [
+   355264, 
+   null, 
+   "smiley", 
+   "1 million people in the ocean at one time would be the same a one person in the ocean 1 million times (if that were possible).\n \n The chance a specific individual being attacked is 1/1,000,000. If that person goes into the ocean 1,000,000 times then the probability that they would be attacked one or more times would be 1 minus the chance of never being attacked, which is 1 minus 0.999999^1,000,000 = 0.632.\n \n This is the same as having 1,000,000 people in the ocean at the same time 1 minus probability of no-one being attacked, or 0.632 chance of 1 or more of them being attacked.\n \n Your room-mate is correct that the chance of a shark attack is greater if there are more people, though the chance for a specific individual is the same.\n \n It's like asking if the chance of rolling a 6 on a standard die is 1/6, then what is the chance of rolling at least one six if you roll 6 dice. It is 1 minus the chance of not rolling a six on any of them. Which is 1 minus '5/6 to the power 6', or 1 - 0.335 = 0.665. So the chances of rolling a six on a specific die (out of the 6) is still 1/6, but the chance of rolling a 6 one any one or more of the 6 dice is around 2/3.", 
+   {}, 
+   355261, 
+   null, 
+   1243462380.0
+  ], 
+  [
+   357370, 
+   null, 
+   "Ripskar", 
+   "1 million people in the water is not the same as 1 person a million times. 1 million people act as large crowd with mob mentality causing a large disturbance detectable at large distances by predators with well developed sences.\n The disturbances will attract sharks and once in close individual behaviour will serve to single out a victim, whether that be impersonating prey such as surfers or the release of blood and other chemical indicators such as spear fishermen or survivors from a sinking ship.", 
+   {}, 
+   355264, 
+   null, 
+   1244935740.0
+  ], 
+  [
+   357678, 
+   null, 
+   "simone", 
+   "As far as probability ... maybe...", 
+   {}, 
+   355226, 
+   null, 
+   1245180420.0
+  ], 
+  [
+   357733, 
+   null, 
+   "smiley", 
+   "1 million people in the water is not the same as 1 person a million times. 1 million people act as large crowd with mob mentality causing a large disturbance detectable at large distances by predators with well developed sences.\n The disturbances will attract sharks and once in close individual behaviour will serve to single out a victim, whether that be impersonating prey such as surfers or the release of blood and other chemical indicators such as spear fishermen or survivors from a sinking ship.\n\n This is true, and would also mean that those near the shore surrounded by others would have a far lower probablilty being attacked. However, I was making the assumption that each of these million individuals was alone (so as not to effect the probability of being attacked). Other wise you would have to alter the probabilty of a person being attacked depending on their behaviour, their geographical location, male or female (maybe), and other factors.\n \n By ignoring all the complications, the two scenarios are the same.", 
+   {}, 
+   357370, 
+   null, 
+   1245248100.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Probability", 
+  "url": "http://www.4forums.com/political/science-math-debates/12793-probability.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 12793, 
+  "discussion_files": [
+   [
+    "1874.html", 
+    "http://www.4forums.com/political/science-math-debates/12793-probability-print.html"
+   ]
+  ], 
+  "identifier": 12793
+ }
+]

@@ -1,0 +1,44 @@
+[
+ [
+  [
+   152477, 
+   null, 
+   "biccat", 
+   "OK, thinking about a project that I'd like to work on, and I'm curious about the search algorithm that Google uses to sort websites. I understand that metatags were pretty important in prior search engine technology, but it's faded as new technology is developed and their inadequacy became apparant.\n \n So, if there is anyone out there that knows about the Google search program, how it works and what it uses (their own technology page wasn't very helpful), it'd be very helpful. And if anyone has worked with these companies that help you improve your rankings on Google, that'd also be pretty helpful.\n \n Or the short version: how does Google work and how is it being abused.\n \n Thanks in advance! :)", 
+   {
+    "post_info": {
+     "post_title": "Google's search algorithm"
+    }
+   }, 
+   null, 
+   null, 
+   1123041780.0
+  ], 
+  [
+   157078, 
+   null, 
+   "Jo Bennett", 
+   "I don't know in any great detail, but I do kow that meta tags have been dropped largely because they can be so easily abused, can be crammed full of keywords etc. Part of what Google uses is popularity based on how many sites link to a given site, and partly relevance by how many times a word or phrase appears in a document. The precise nature of the algorithm is, I understand it, a closely guarded secret. Most companies offering search engine optimisation have dissappeared since Google changed the algorithm a few months back, as they previously relied on putting keywords and phrases into the text of the website, which as I understand it has been decreased in importance to counter the optimisers, a friend of mine lost his job as a result. As I say I don't know much about it but I hope this is of some help.", 
+   {}, 
+   152477, 
+   null, 
+   1125011220.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Google's search algorithm", 
+  "url": "http://www.4forums.com/political/science-math-debates/6111-googles-search-algorithm.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 6111, 
+  "discussion_files": [
+   [
+    "24646.html", 
+    "http://www.4forums.com/political/science-math-debates/6111-googles-search-algorithm-print.html"
+   ]
+  ], 
+  "identifier": 6111
+ }
+]

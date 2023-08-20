@@ -1,0 +1,124 @@
+[
+ [
+  [
+   160777, 
+   null, 
+   "Nikki W", 
+   "can someone please help me with converting measurments into scientific notation? Please! i'm so lost.\n if you can help me you can im me at imluffinit on aim or post on here.\n please help i'll love you forever lol", 
+   {
+    "post_info": {
+     "post_title": "help with scientific notation"
+    }
+   }, 
+   null, 
+   null, 
+   1126236120.0
+  ], 
+  [
+   160833, 
+   null, 
+   "unkerpaulie", 
+   "scientific notation is really extremely simple. you take any number, and move the point behind the left-most non-zero digit in your number (non-zero simply means between 1 and 9, not 0). \n eg, 450564.65 --< 4.5056465\n \n or 0.000000154007 --< 1.54007\n \n you then multiply the new number by 10\n 450564.65 --< 4.5056465 --< 4.5056465 x 10\n \n 0.000000154007 --< 1.54007 --< 1.54007 x 10\n \n then you raise the 10 to the number of places you moved the decimal. if you moved the decimal to the left, the number is positive. if you moved it to the right, the number is negative\n 450564.65 --< 4.5056465 --< 4.5056465 x 10 --< 4.5056465 x 10^5\n (because the decimal was moved 5 places to the left, we multiply the new number by 10 to the power of 5)\n \n 0.000000154007 --< 1.54007 --< 1.54007 x 10 --< 1.54007 x 10^-7\n (because the decimal was moved 7 places to the RIGHT, we multiply the new number by 10 to the power of -7)\n \n with a little practice you'll master this\n \n when you think you've got it, try these\n \n 58\n \n 0.00123\n \n 1800\n \n 0.600087\n \n -1450000", 
+   {}, 
+   160777, 
+   null, 
+   1126277340.0
+  ], 
+  [
+   160909, 
+   null, 
+   "zachvac", 
+   "scientific notation is really extremely simple. you take any number, and move the point behind the left-most non-zero digit in your number (non-zero simply means between 1 and 9, not 0). \n eg, 450564.65 --< 4.5056465\n \n or 0.000000154007 --< 1.54007\n \n you then multiply the new number by 10\n 450564.65 --< 4.5056465 --< 4.5056465 x 10\n \n 0.000000154007 --< 1.54007 --< 1.54007 x 10\n \n then you raise the 10 to the number of places you moved the decimal. if you moved the decimal to the left, the number is positive. if you moved it to the right, the number is negative\n 450564.65 --< 4.5056465 --< 4.5056465 x 10 --< 4.5056465 x 10^5\n (because the decimal was moved 5 places to the left, we multiply the new number by 10 to the power of 5)\n \n 0.000000154007 --< 1.54007 --< 1.54007 x 10 --< 1.54007 x 10^-7\n (because the decimal was moved 7 places to the RIGHT, we multiply the new number by 10 to the power of -7)\n \n with a little practice you'll master this\n \n when you think you've got it, try these\n \n 58\n \n 0.00123\n \n 1800\n \n 0.600087\n \n -1450000\n\n \n while he did a good job of explaining the process, the main thing is you should understand why this is. First off, the background you should know is that:\n \n Since we use base 10, multiplying a number by 10 moves the decimal point one to the right. So 5.0 times 10 is 50 (this should be pretty obvious). This is true because the nature of place values in a decimal (base 10) system is that each place to the left is 10 times the value of the place directly to the right. The first place is the units place, than the 10s, than the 100s, and so on. If you go to the right however, you are dividing by 10.\n \n You should also know that any number to the power of a negative number is equal to 1 over the number to the power of the positive. So 10 to the power of -2 is 1/(10^2) or 1/1000.\n \n So multiplying a number by 10 to the power of any number moves the decimal to the right that many because you are essentially multiplying by 10 that many times, and earlier I showed how multiplying by 10 moves the decimal point one to the right.\n \n Multiplying the number by 10 to a negative power moves it to the left the amount of the number made positive. 10^-2 is really 10^-1 done twice and since multiplying by 10^-1 moves the decimal place over to the left one, multiplying by 10^-2 moves the decimal place over to the left two.\n \n Now the convention is to have one number on the left of the decimal place. So to make a number scientific notation you have to move the decimal point to the left or right a certain amount. First figure out that amount and figure out what power to raise 10 to and multiply by it. So 2594.3 would need the decimal place moved 3 to the left, now you multiplied the number by 10^-3 since moving it to the left is multiplying by a negative power of 10. Now you need to do something to balance that out. You can't just arbitrarily multiply numbers by another number and keep them equivelant. So you have to do the reverse to keep the number the same. \n \n You should know that any number times a number divided by that same number equals the original number. That is convinient because we multiplied by 10^-3 so to keep the number the same we have to divide by 10^-3. You should recall that 10^-3=1/10^3 and 1/1/10^3 equals simply 10^3. So dividing by 10^-3 is the same as multiplying by 10^3. So the final result would be 2.5943 *10^3. If you work that out mathematically you should find you get 2594.3, or your original number.\n \n I hope this helped explain the reasoning behind it. If you don't understand just ask, I have no idea what your math background is so I may have over-simplified concepts you already know or left out something you don't know. If you are completely confused and just want to be able to do it and don't care why, just read Unkerpaulie's post, it adequately explains it. I usually prefer to know why, so I thought I'd explain why.", 
+   {}, 
+   160833, 
+   null, 
+   1126315620.0
+  ], 
+  [
+   161510, 
+   null, 
+   "Nikki W", 
+   "Thank you! I'm going to read it now and see if it helps. Thanks so much!", 
+   {}, 
+   160909, 
+   null, 
+   1126498380.0
+  ], 
+  [
+   161513, 
+   null, 
+   "Nikki W", 
+   "scientific notation is really extremely simple. you take any number, and move the point behind the left-most non-zero digit in your number (non-zero simply means between 1 and 9, not 0). \n eg, 450564.65 --< 4.5056465\n \n or 0.000000154007 --< 1.54007\n \n you then multiply the new number by 10\n 450564.65 --< 4.5056465 --< 4.5056465 x 10\n \n 0.000000154007 --< 1.54007 --< 1.54007 x 10\n \n then you raise the 10 to the number of places you moved the decimal. if you moved the decimal to the left, the number is positive. if you moved it to the right, the number is negative\n 450564.65 --< 4.5056465 --< 4.5056465 x 10 --< 4.5056465 x 10^5\n (because the decimal was moved 5 places to the left, we multiply the new number by 10 to the power of 5)\n \n 0.000000154007 --< 1.54007 --< 1.54007 x 10 --< 1.54007 x 10^-7\n (because the decimal was moved 7 places to the RIGHT, we multiply the new number by 10 to the power of -7)\n \n with a little practice you'll master this\n \n when you think you've got it, try these\n \n 58\n \n 0.00123\n \n 1800\n \n 0.600087\n \n -1450000\n\n \n I THINK i've got it but i'm not sure at all. \n 5.8x10^1\n 0.00123x10\n 1.800x10^3\n 0.600087x10\n 1.450000x10^6", 
+   {}, 
+   160833, 
+   null, 
+   1126498920.0
+  ], 
+  [
+   161548, 
+   null, 
+   "unkerpaulie", 
+   "I THINK i've got it but i'm not sure at all. \n 5.8x10^1\n 0.00123x10\n 1.800x10^3\n 0.600087x10\n 1.450000x10^6\n\n the first one is correct (10^1 = 10). the third is correct too. the fifth is close, but not correct\n \n one of the things you should remember, 0's after a decimal point are meaningless, unless they are followed by a 1-9 digit. eg., 1.800 can be written as 1.8.\n \n also, as zach pointed out, when you multiply the scientific notation, you should always get the number you started with. thats how you test to make sure its written correctly\n \n ok, 0.00123; the first step is to move the decimal to get a number greater than or equal to 1, and less than ten. in other words, move the decimal to the right of the first non-zero digit. after you move the decimal you get 1.23. the second step it to check how many spaces you've moved the decimal, and the direction it moved. in this case we move the decimal 3 places to the right. the rule is, moving the decimal to the right means a negative power of 10. moving to the left means a positive power of 10. try to memorize it until you've practiced enough to get it stuck in your head. so, in our example we've moved the decimal to the right 3 places\n \n the scientific notation is 0.00123 = 1.23 x 10^-3\n \n i'll leave the 4th for you to try again\n \n the last 1 was a negative number: -1450000. the scientific notation for it would be -1.45 x 10^6 (the zeros can be removed. the number itself must be negative, but not the power of 10.) got it?\n \n here's 1 more tip (sort of a rule as well) about the result you would get when working scientific notation. when the number is a fraction (smaller than 1) 10 will be a negative power. if the number is bigger than 10, the 10 will be a positive power", 
+   {}, 
+   161513, 
+   null, 
+   1126537440.0
+  ], 
+  [
+   162966, 
+   null, 
+   "Redratio1", 
+   "Jesus, what complicated replies.\n \n Just remeber to count the places till you have the tens place.\n That means if you have 1000 = 1X10^3, or 10^3.\n Or if you have 0.001 = 1x10^-3 or 10^-3.\n Count up or count down, and put the number you count up on the exponent or the number you count down as the negative exponent.\n \n 'Nuff said.\n \n Sheeesh.", 
+   {}, 
+   161548, 
+   null, 
+   1126947840.0
+  ], 
+  [
+   165706, 
+   null, 
+   "DamEtel", 
+   "one of the things you should remember, 0's after a decimal point are meaningless, unless they are followed by a 1-9 digit. eg., 1.800 can be written as 1.8.\n \n\n \n This isn't true. Trailing zeros to the right of the decimal point are not meaningless, they represent significant digits. \n \n For example, it is false that 1.8 x 10^3 and 1.800 x 10^3 represent the same thing in scientific notation. The first indicates that the value is known to only 2 significant digits whereas the second indicates it is known to 4 significant digits: those zeroes have meaning.\n \n In fact, that ability to accurately represent the number of significant digits in a value is one thing that, by eliminating ambiguity, makes scientific notation superior to expressing the number \"normally\".", 
+   {}, 
+   161548, 
+   null, 
+   1127609040.0
+  ], 
+  [
+   166323, 
+   null, 
+   "Redratio1", 
+   "This isn't true. Trailing zeros to the right of the decimal point are not meaningless, they represent significant digits. \n \n For example, it is false that 1.8 x 10^3 and 1.800 x 10^3 represent the same thing in scientific notation. The first indicates that the value is known to only 2 significant digits whereas the second indicates it is known to 4 significant digits: those zeroes have meaning.\n \n In fact, that ability to accurately represent the number of significant digits in a value is one thing that, by eliminating ambiguity, makes scientific notation superior to expressing the number \"normally\".\n\n \n Exactly, one must preserve significant figs. on top of movements left and right.\n \n That is if you are interested in that sort of accuracy.", 
+   {}, 
+   165706, 
+   null, 
+   1127816280.0
+  ], 
+  [
+   168214, 
+   null, 
+   "chaoticgnome", 
+   "If you're learning scientific notation for chemistry or physics, you'll need to remember sig figs eventually.\n \n What it boils down to is whether your teacher will count off if you have zeros trailing your notation.", 
+   {}, 
+   166323, 
+   null, 
+   1128492060.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  help with scientific notation", 
+  "url": "http://www.4forums.com/political/science-math-debates/6384-help-scientific-notation.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 6384, 
+  "discussion_files": [
+   [
+    "14397.html", 
+    "http://www.4forums.com/political/science-math-debates/6384-help-scientific-notation-print.html"
+   ]
+  ], 
+  "identifier": 6384
+ }
+]

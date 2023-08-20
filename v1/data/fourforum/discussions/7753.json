@@ -1,0 +1,292 @@
+[
+ [
+  [
+   202775, 
+   null, 
+   "badax22", 
+   "You probably have heard it before but here it goes. (I'm making this up based on what I have read) The fastest man in the world was challenged by a mathematician who stated that, by following a certain algebra rule, the man will not be able to catch up to the turtle.\n \n So here is the track:\n \n _________________________________________| (100 ft distance)\n \n \n So let say that the man starts here (95 ft away):\n \n ___X_____________________________________|\n \n And the turtle starts here (let's say...45 ft away):\n \n ___X___________________y_________________|\n \n \n Now, according to the mathematician, in one second the man would go 10 ft and the turtle would go .5 ft\n \n \n So now the man would be 85 ft from winning and the turtle will be 44.5 ft from winning.\n _______________________________________________________________________________\n Now the man went 5 ft in half of that time and the turtle went .25 ft in half of that time.\n \n So now the man is 80 ft from winning and the turtle is 44.25 ft away from winning.\n _______________________________________________________________________________\n Now in half of that time the man will go 2.5 ft and the turtle will go .125 ft\n \n Now the man is 77.5 ft from winning and the turtle is 44.125 ft away from winning.\n _______________________________________________________________________________\n Now in half of that time the man will go only 1.25 ft and the turtle will go .0625 ft.\n \n Now the man is 76.25 ft away from winning and the turtle is now 43.9375 ft from winning.\n _______________________________________________________________________\n \n So, according to algebra, the man will never catch up to the turtle. And neither the turtle nor the person will ever finish the race.\n \n It..just...makes...no...sense!\n \n This couldn't be true, but there is nothing to prove this wrong.\n \n Discuss.", 
+   {
+    "post_info": {
+     "post_title": "This just doesn't make any sense!!"
+    }, 
+    "unicode_changes_made": true
+   }, 
+   null, 
+   null, 
+   1142465580.0
+  ], 
+  [
+   202796, 
+   null, 
+   "Ooaman", 
+   "It seems to me that if they continue to slown down at the rate at which they are slowing down, they are both going to end up going in reverse anyway. The turtle is practically already going backwords and the man will end up slowing down to almost slower than the turtle after about 5 more seconds because he's slowing down at a rate faster than the turtle. Then, he would still not catch up to the turtle and infact, they would both be going in reverse (a.k.a. away from the finish line.) and therefore, neither will win the race. But if they can't go in reverse and their numbers will just wind up being some number like 1x10^-35 or something. They might as well not be moving at all. And there for, will take several days to cross the finish line...\n \n Please, anyone with a better answer, pleast take over.", 
+   {}, 
+   202775, 
+   null, 
+   1142475900.0
+  ], 
+  [
+   202826, 
+   null, 
+   "Symbiote", 
+   "Your example only shows that they will not finish in under 2 seconds, as the time taken if you continually halve the initial time and add to it only ever approaches 2 seconds.\n \n So yes, they will finish, it will just take them more than 2 seconds to do so. As the runner approaches 2 seconds, the distance he has travelled approaches 20ft (As should be obvious from the fact he is travelling at a rate of 10ft/second)", 
+   {}, 
+   202796, 
+   null, 
+   1142498100.0
+  ], 
+  [
+   202827, 
+   null, 
+   "Iuris", 
+   "Essentially, the example is all about focusing on the time period JUST before the end of the race. The focus is increased into infinity, thus pointing out that there is always an infinitely small time period before the end of the race.\n \n In mathematics, the concept of \"limits\" (I'm not sure if the term is the same in english, the whole lim idea) are used in these cases and they show what happens.", 
+   {}, 
+   202826, 
+   null, 
+   1142500080.0
+  ], 
+  [
+   202832, 
+   null, 
+   "Jo Bennett", 
+   "The more interesting case is not where you measure how far they are from winning, but how long it takes one to overtake the other. First the man goes 50 ft to catch up to where the tortoise started, but in the meantime the tortoise has moved on. Repeat ad infinitum, the man never catches up with the tortoise.", 
+   {}, 
+   202827, 
+   null, 
+   1142502840.0
+  ], 
+  [
+   202833, 
+   null, 
+   "Alan Ryan", 
+   "This looks like Zeno's paradox of motion - Achilles can never catch up with the tortoise when it's given a head start because of the infinite series of steps into which the race can be divided.\n \n But this, as I think Iuris implies, assumes the race consists of an infinity of discrete steps rather than the actuality of continuous motion. \n \n The idea that an infinite series can have a finite sum wasn't understood until the 'invention' of calculus.", 
+   {}, 
+   202832, 
+   null, 
+   1142505600.0
+  ], 
+  [
+   202896, 
+   null, 
+   "zachvac", 
+   "It seems to me that if they continue to slown down at the rate at which they are slowing down, they are both going to end up going in reverse anyway. The turtle is practically already going backwords and the man will end up slowing down to almost slower than the turtle after about 5 more seconds because he's slowing down at a rate faster than the turtle. Then, he would still not catch up to the turtle and infact, they would both be going in reverse (a.k.a. away from the finish line.) and therefore, neither will win the race. But if they can't go in reverse and their numbers will just wind up being some number like 1x10^-35 or something. They might as well not be moving at all. And there for, will take several days to cross the finish line...\n \n Please, anyone with a better answer, pleast take over.\n\n \n \n no, they are going the same speed. Obviously, if you keep taking smaller increments, they will go less distance. I forget who said it but this geometric series approaches 2, so that's like me asking you to count to 5 using this method. start at 0, add 1, add half of one, and keep adding half of what you just added. Since no matter how many times you do this you can't even count to 2, it must be impossible to count to 5, right? 5 probably doesn't exist. If you look at it in increments of seconds (or any other equal interval the whole time, as long as the turtle doesn't cross in that amount of time), you would find out that the man would finish in 9.5 seconds. In that time the turtle hasn't even moved 5 feet, and is nowhere near the finish line. Thus the man would win easily.", 
+   {}, 
+   202796, 
+   null, 
+   1142563260.0
+  ], 
+  [
+   202955, 
+   null, 
+   "badax22", 
+   "actually the reason why I posted this was because the paradox reminded me of the algebra 2 subject of exponential and logrithmic functions which I jsut finished studying and the idea that ab exponential function cannot reach a certain number called the asymptote. \n \n (and I wouldn't be surprised if Zeno's paradox can be put into an exponential function)", 
+   {}, 
+   202896, 
+   null, 
+   1142622900.0
+  ], 
+  [
+   202984, 
+   null, 
+   "Ooaman", 
+   "But incording to the original problem, the runner never catches up with the turtle or makes it to the finish line. But now, he appearently can? Or is that not really the point?", 
+   {}, 
+   202955, 
+   null, 
+   1142634840.0
+  ], 
+  [
+   202985, 
+   null, 
+   "Kronus", 
+   "But incording to the original problem, the runner never catches up with the turtle or makes it to the finish line. But now, he appearently can? Or is that not really the point?\n\n \n He always could. It's just that the way the problem was presented we were only looking at the first 2 seconds of the race.", 
+   {}, 
+   202984, 
+   null, 
+   1142636040.0
+  ], 
+  [
+   203097, 
+   null, 
+   "zachvac", 
+   "actually the reason why I posted this was because the paradox reminded me of the algebra 2 subject of exponential and logrithmic functions which I jsut finished studying and the idea that ab exponential function cannot reach a certain number called the asymptote. \n \n (and I wouldn't be surprised if Zeno's paradox can be put into an exponential function)\n\n \n This is not the case. This is a linear function, you are just looking at smaller and smaller portions of it. If there is a constant slope (distance over time) then the less time you have, the less distance. If you keep taking smaller and smaller pieces of time, you will keep getting less pieces of the distance.", 
+   {}, 
+   202955, 
+   null, 
+   1142728020.0
+  ], 
+  [
+   203843, 
+   null, 
+   "DMick", 
+   "Quote: 'Now, according to the mathematician, in one second the man would go 10 ft and the turtle would go .5 ft. Now the man went 5 ft in half of that time and the turtle went .25 ft in half of that time.'\n \n Both the speed and time is being halved, making the speed a constant. 10ft in 1 second is the same speed as 5 ft in 1/2 second. If the speeds are constant, the man will win.", 
+   {
+    "post_info": {
+     "post_title": "Same difference"
+    }, 
+    "unicode_changes_made": true
+   }, 
+   203097, 
+   null, 
+   1143198900.0
+  ], 
+  [
+   215364, 
+   null, 
+   "pickleweaseler", 
+   "The man takes about 5.263 seconds to catch up to the turtle.", 
+   {}, 
+   203843, 
+   null, 
+   1149520860.0
+  ], 
+  [
+   236562, 
+   null, 
+   "mik60487", 
+   "This parable /paradox is really very,very old. It os often referenced as the \n paradox of Zeno a Greek philoshper.", 
+   {
+    "post_info": {
+     "post_title": "zeno's paradox"
+    }
+   }, 
+   215364, 
+   null, 
+   1161826440.0
+  ], 
+  [
+   240025, 
+   null, 
+   "Peeling", 
+   "The point of this apparent paradox was, if I recally correctly, to demonstrate that time must proceed in tiny but discrete steps and cannot be smoothly continuous.\n \n The reasoning is thus: our perception of time (how 'long' something seems to take to occur) is related to our physiology. There's nothing to say that a millisecond is 'fast' or a million years is 'slow' other than the rate at which our bodies and minds operate, right? Our perception of time is linked to a sequence of events in our brains.\n \n If time is continuous, however, the number of things that can happen between one millisecond and the next is infinite - no more or less infinite than the number of things that can happen between one millennium and the next (infinity is weird). However small you make the interval, there are still an infinite number of events contained within it. And since our perception of time is derived from a sequence of events, we are perpetually incapable of doing anything because there's always an infinite number of things that have to happen first.\n \n Zeno didn't have computers to work with, otherwise he'd probably have employed them in his paradox. The universe can be likened to a computation device for working out 'what happens next'; it doesn't matter how 'fast' a computer is, if you ask it to list all the numbers between zero and one, in order, it is bound to fail. Not only will it never reach 1, it'll never reach 0.1, or 0.001, or 0.00000000000000000000000000001.", 
+   {}, 
+   236562, 
+   null, 
+   1163692320.0
+  ], 
+  [
+   247666, 
+   null, 
+   "prschuster", 
+   "As far as I'm concerned, the paradox is a result of conceptualizing infinity in terms of finite quantities. There are an infinite number of intervals, but the time it takes to traverse these infinite number of intervals approaches zero. You end up having to make the absurd calculation of multiplying infinity by zero. In other words, the race doesn't take forever. It's making these absurd series of never ending calculations that takes forever.", 
+   {}, 
+   240025, 
+   null, 
+   1169101800.0
+  ], 
+  [
+   249309, 
+   null, 
+   "Yossarian", 
+   "I have a request: show us the formula!!!\n \n Variables x and y mean nothing without it.", 
+   {}, 
+   240025, 
+   null, 
+   1170407340.0
+  ], 
+  [
+   249348, 
+   null, 
+   "Kronus", 
+   "I have a request: show us the formula!!!\n \n Variables x and y mean nothing without it.\n\n \n Here's the basic formula, for the simplest case. If you're talking about someone going half way down the track, then half what's left, then half what's left, etc you have\n \n 1/2 + 1/4 + 1/8 + 1/16 + ... + 1/2^n + ... or\n \n sigma (1/2^n) as n goes from 1 to infinity.\n \n The \"paradox\" comes about because Xeno didn't understand that you can add an infinite number of finite values and still have a finite answer, as long as the values are getting small enough fast enough. He assumed, naturally enough, that if you add an infinite number of values you should get infinity.\n \n In the above case, the infinite sum adds up to exactly 1.", 
+   {}, 
+   249309, 
+   null, 
+   1170441000.0
+  ], 
+  [
+   290923, 
+   null, 
+   "Oxy-gene", 
+   "The \"paradox\" comes about because Xeno didn't understand that you can add an infinite number of finite values and still have a finite answer, as long as the values are getting small enough fast enough. He assumed, naturally enough, that if you add an infinite number of values you should get infinity.\n\n \n Yep, he thought it impossible to do infinitely many things in a finite amount of time. If I remember correctly, the purpose of this paradox was to show that having both continuous time and continuous space is contradictory.\n \n Zeno had four paradoxes, one for each combination of continuous/discrete time and continuous/discrete space, and with them he concluded all of these combinations self-contradictory.", 
+   {}, 
+   249348, 
+   null, 
+   1195349100.0
+  ], 
+  [
+   290926, 
+   null, 
+   "jim's trucking", 
+   "You introduce confusion when you come up with the in half that time  statements. Assuming that neither of them slows down during the race, the man traveling at 10 feet per second will reach the finish line in 9.5 seconds. The turtle will reach the same finish line in 90 seconds. Clearly, somewhere along the line, the man passed the turtle.", 
+   {
+    "post_info": {
+     "post_title": "No paradox"
+    }
+   }, 
+   240025, 
+   null, 
+   1195353000.0
+  ], 
+  [
+   291027, 
+   null, 
+   "Kronus", 
+   "You introduce confusion when you come up with the in half that time  statements. Assuming that neither of them slows down during the race, the man traveling at 10 feet per second will reach the finish line in 9.5 seconds. The turtle will reach the same finish line in 90 seconds. Clearly, somewhere along the line, the man passed the turtle.\n\n \n You're rather missing the point of the excersise. If you use arithmetic, like you did, you get one answer. If you use logic you seem to get a different one. That's why they call it a paradox. Figuring out where the logic goes wrong is what this is all about.", 
+   {}, 
+   290926, 
+   null, 
+   1195488000.0
+  ], 
+  [
+   291040, 
+   null, 
+   "jim's trucking", 
+   "You're rather missing the point of the excercize. If you use arithmetic, like you did, you get one answer. If you use logic you seem to get a different one. That's why they call it a paradox. Figuring out where the logic goes wrong is what this is all about.\nUsing simple logic, one wonders what any reference to \"in half that time\" has to do with the race. Where the logic goes wrong is where that concept was introduced. It has nothing to do with a linear function.", 
+   {}, 
+   291027, 
+   null, 
+   1195497420.0
+  ], 
+  [
+   291041, 
+   null, 
+   "Kronus", 
+   "Using simple logic, one wonders what any reference to \"in half that time\" has to do with the race. Where the logic goes wrong is where that concept was introduced. It has nothing to do with a linear function.\n\n \n You're simply wrong, there is in fact a very interesting mathematical point illustrated here. Read the thread, work out what you can, then come back with specific questions and I'll see where I can help you. But again, no, the problem is not in breaking things up into halves, that's a perfectly reasonable thing to do. This has all been covered already here, so read it and then let me know at what point you get lost.", 
+   {}, 
+   291040, 
+   null, 
+   1195497780.0
+  ], 
+  [
+   291061, 
+   null, 
+   "smiley", 
+   "Looking at the problem in its simplest form (ignoring the numbers), all you have to say is that when the man starts, he is some way behind the turtle. By the time the man gets to where the turtle was, the turtle will have moved forward a little way. By the time the man then gets to that point, the turtle will have moved on again. Every time the man reaches the point the turtle was at, the turtle will always be ahead of him. Thus the man will never catch the turtle.\n \n However, if you can accept that as the number of iterations approaches infinity, then the distance between the man and the turtle appoaches zero. At that point the man will overtake the turtle and the apparent problem ends.\n \n Smiley", 
+   {}, 
+   291041, 
+   null, 
+   1195509720.0
+  ], 
+  [
+   291067, 
+   null, 
+   "jim's trucking", 
+   "At each of the \"half that time\" calculations, the man will be closer to the turtle. As the number of iterations approaches infinity, the distance between the man and the turtle will approach zero. At that time (likely the 5.263 seconds previously calculated) the man will pass the turtle.", 
+   {}, 
+   291061, 
+   null, 
+   1195511460.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  This just doesn't make any sense!!", 
+  "url": "http://www.4forums.com/political/science-math-debates/7753-just-doesnt-make-any-sense.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 7753, 
+  "discussion_files": [
+   [
+    "593.html", 
+    "http://www.4forums.com/political/science-math-debates/7753-just-doesnt-make-any-sense-print.html"
+   ], 
+   [
+    "594.html", 
+    "http://www.4forums.com/political/science-math-debates/7753-just-doesnt-make-any-sense-2-print.html"
+   ]
+  ], 
+  "identifier": 7753
+ }
+]

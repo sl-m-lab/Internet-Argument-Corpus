@@ -1,0 +1,94 @@
+[
+ [
+  [
+   113106, 
+   null, 
+   "Bishop", 
+   "Whats up guys...\n \n Just today I was accepted into ITT Technical school. I Enrolled myself into the Information Technology - Computer Networking class for my Assosiates Degree. I am 25 and I have been working with computers for years...not just on them..but bulding them and diagnosing them. It was a HUGE step in my life. Here is my question to you all... I have Nobody else to ask this stuff..\n \n What advice do you all have for my jump into this industry? How should I approach this class... There are tricks of every trade...and I know there are some network admistrators on here as well as students... Believe me, I am a friend to all here, but I need some friendly advice on this. Your responces are recieved with all respect.\n \n Thanks,\n \n Bishop", 
+   {
+    "post_info": {
+     "post_title": "Student Network Question"
+    }
+   }, 
+   null, 
+   null, 
+   1114637880.0
+  ], 
+  [
+   113208, 
+   null, 
+   "Steeeeve", 
+   "1) Go to class\n 2) Don't get frustrated\n 3) Don't give up\n \n thats all you need to know", 
+   {}, 
+   113106, 
+   null, 
+   1114650540.0
+  ], 
+  [
+   113226, 
+   null, 
+   "daewoo", 
+   "I have never been a network administrator. I have hired (and fired) many of them. \n \n First, congratulations on choosing a sensible school for what you are after. You will find a job quicker than somebody who foolishly invested 4 years in getting an education that is 10 years out of date in IT. \n \n Second, learn to program in C. Not C#, visual C or any of that other nonsense. C. There are 18 ads int he kansas city newspaper looking for networking guys who can program in C. EVERYBODY can program in VB. Most folks can program in Java and C#. Network admin guys who can program in C are a little harder to come by, and in great demand, since most large companies have older programs that are wrtitten in C. I happen to know that yellow freight has been trying to fill a position for a networking guy who can program in C for 2 years now. $84,000.00 per year, and they can't find anybody.\n \n I have just been informed by my own (nosy) networking guy that some trade schools (he cited DeVry) don't necessarily include any programming in their network admin curriculem. If not, get a book, learn C. you will find a job faster if you do. Nosy networking guy agrees. He also recommends paying attention (or learning on your own) Linux, since there is apparently a shortage of guys out there w/ formal training who handle linux well.\n \n Thats about all I can think of, and my nosy networking guy who is leaning on me has 20 minutes to get my laptop fixed or he is going to be looking for a new job, too, so despte the fact that he apparently has several pages of advice, he has to go, too.", 
+   {}, 
+   113208, 
+   null, 
+   1114652040.0
+  ], 
+  [
+   113274, 
+   null, 
+   "Bishop", 
+   "I have never been a network administrator. I have hired (and fired) many of them. \n \n First, congratulations on choosing a sensible school for what you are after. You will find a job quicker than somebody who foolishly invested 4 years in getting an education that is 10 years out of date in IT. \n \n Second, learn to program in C. Not C#, visual C or any of that other nonsense. C. There are 18 ads int he kansas city newspaper looking for networking guys who can program in C. EVERYBODY can program in VB. Most folks can program in Java and C#. Network admin guys who can program in C are a little harder to come by, and in great demand, since most large companies have older programs that are wrtitten in C. I happen to know that yellow freight has been trying to fill a position for a networking guy who can program in C for 2 years now. $84,000.00 per year, and they can't find anybody.\n \n I have just been informed by my own (nosy) networking guy that some trade schools (he cited DeVry) don't necessarily include any programming in their network admin curriculem. If not, get a book, learn C. you will find a job faster if you do. Nosy networking guy agrees. He also recommends paying attention (or learning on your own) Linux, since there is apparently a shortage of guys out there w/ formal training who handle linux well.\n \n Thats about all I can think of, and my nosy networking guy who is leaning on me has 20 minutes to get my laptop fixed or he is going to be looking for a new job, too, so despte the fact that he apparently has several pages of advice, he has to go, too.\n\n \n \n \n I certainly appreciate you answering my question so thoroughly. I understand that getting an assosiates degree isnt enough to get \"the job\" but its the certification that ensures you placement. We are given VB and GUI..no C from what I can...see.\n \n I love the term nosy network guy..in fact if we are required to write some type of thesis, I plan on writing it on the differant stages of madness a normal man goes through in his years as Net Admin... in his mind he slowly moves from \"Joe\" to God..in the end perhaps blowing a trumpet before walking in the room. Perhaps arriving to work on a Donkey... Knowing this, I will avoid it. Thanks again...", 
+   {}, 
+   113226, 
+   null, 
+   1114663800.0
+  ], 
+  [
+   113309, 
+   null, 
+   "daewoo", 
+   "I certainly appreciate you answering my question so thoroughly. I understand that getting an assosiates degree isnt enough to get \"the job\" but its the certification that ensures you placement. We are given VB and GUI..no C from what I can...see.\n\n \n Learn C. trust me on this. It is easy (if I can do it, anybody can). There are a LOT of compnaies out there running old *nix based applications that hev been (badly) ported to windows, or are still running on AIX or linux servers. \n \n \n I love the term nosy network guy..in fact if we are required to write some type of thesis, I plan on writing it on the differant stages of madness a normal man goes through in his years as Net Admin... in his mind he slowly moves from \"Joe\" to God..in the end perhaps blowing a trumpet before walking in the room. Perhaps arriving to work on a Donkey... Knowing this, I will avoid it. Thanks again...\n\n \n My network guy is nosy. He came wandering into my office with a \"what am I doing here again\" look on his face. I handed him my laptop (at which time the relief of remembering why he was there was clear) and he sat down at my little conference table (actually where my kids color, but \"coloring table\" sounds unprofessional) and started chechinkg things that I ahd already checked.\n \n I said \"Hey, Chuck, do you have any advice for a future network admin?\" He said \"Don't work for you\". Then he came over and put his head 3 inches from my ear, took over my mouse so he could scroll through all the tabs I had open, read all my forum replies, and then an Email from my wife, all the while jabbering about how hard it is to be a network admin. I hate it when people do that kind of thing.", 
+   {}, 
+   113274, 
+   null, 
+   1114670640.0
+  ], 
+  [
+   113445, 
+   null, 
+   "Bishop", 
+   "Learn C. trust me on this. It is easy (if I can do it, anybody can). There are a LOT of compnaies out there running old *nix based applications that hev been (badly) ported to windows, or are still running on AIX or linux servers. \n \n \n \n My network guy is nosy. He came wandering into my office with a \"what am I doing here again\" look on his face. I handed him my laptop (at which time the relief of remembering why he was there was clear) and he sat down at my little conference table (actually where my kids color, but \"coloring table\" sounds unprofessional) and started chechinkg things that I ahd already checked.\n \n I said \"Hey, Chuck, do you have any advice for a future network admin?\" He said \"Don't work for you\". Then he came over and put his head 3 inches from my ear, took over my mouse so he could scroll through all the tabs I had open, read all my forum replies, and then an Email from my wife, all the while jabbering about how hard it is to be a network admin. I hate it when people do that kind of thing.\n\n \n Well you all sound like alot of fun..hiring? lol I will look into C. I will wait untill I learn atleast the basics to do so..and I will check around to see if the demand is the same in my area. Just because I am going to school doesnt mean I dont know a whole heck of a lot...I can fix your lap top if you need. j/k", 
+   {}, 
+   113309, 
+   null, 
+   1114706880.0
+  ], 
+  [
+   113591, 
+   null, 
+   "daewoo", 
+   "It is not supposed to be fun.\n \n BTW, laptop is fried. Needs a new hard rive.", 
+   {}, 
+   113445, 
+   null, 
+   1114721100.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Student Network Question", 
+  "url": "http://www.4forums.com/political/computers/4963-student-network-question.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 4963, 
+  "discussion_files": [
+   [
+    "31320.html", 
+    "http://www.4forums.com/political/computers/4963-student-network-question-print.html"
+   ]
+  ], 
+  "identifier": 4963
+ }
+]

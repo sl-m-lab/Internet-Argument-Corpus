@@ -1,0 +1,154 @@
+[
+ [
+  [
+   106157, 
+   null, 
+   "Alan Ryan", 
+   "I read an article yesterday (about Evolution, Extinction, and Economics) in which it was claimed that 99% of all species that have ever existed are now extinct.\n \n This sort of claim (which I've come across before) troubles me: how can it be asserted, with any certainty at all:\n \n 1). The number of species which have evolved.\n \n 2). The percentage of that number that have become extinct.\n \n \n ????", 
+   {
+    "post_info": {
+     "post_title": "Extinction  ?"
+    }
+   }, 
+   null, 
+   null, 
+   1113243120.0
+  ], 
+  [
+   106165, 
+   null, 
+   "sinjin", 
+   "I read an article yesterday (about Evolution, Extinction, and Economics) in which it was claimed that 99% of all species that have ever existed are now extinct.\n \n This sort of claim (which I've come across before) troubles me: how can it be asserted, with any certainty at all:\n \n 1). The number of species which have evolved.\n \n 2). The percentage of that number that have become extinct.\n \n \n ????\n\n \n I believe it is merely all known living species against those known by the fossil record and extinct. There are undoubtedly more extinct species that we are unaware of than living ones.", 
+   {}, 
+   106157, 
+   null, 
+   1113243900.0
+  ], 
+  [
+   106168, 
+   null, 
+   "Kronus", 
+   "As near as I can tell, that number comes from The Sixth Extinction: Biodiversity and its survival, by R. Leakey and R. Lewin, 1996. I don't have easy access to their work, but presumably it's available. If they have any sort of credibility, they should show exactly how they got those numbers.", 
+   {}, 
+   106157, 
+   null, 
+   1113244200.0
+  ], 
+  [
+   106175, 
+   null, 
+   "Alan Ryan", 
+   "I believe it is merely all known living species against those known by the fossil record and extinct. There are undoubtedly more extinct species that we are unaware of than living ones.\n\n \n On what basis do we know that there are more extinct species that we are unaware of than living ones ?", 
+   {}, 
+   106165, 
+   null, 
+   1113245340.0
+  ], 
+  [
+   106179, 
+   null, 
+   "sinjin", 
+   "On what basis do we know that there are more extinct species that we are unaware of than living ones ?\n\n \n Common sense. The number of living species that have escaped our attention cannot compare to those that have gone extinct over several billion years of life with numerous mass extinctions, remembering that fossils are rare.", 
+   {}, 
+   106175, 
+   null, 
+   1113245880.0
+  ], 
+  [
+   106184, 
+   null, 
+   "Alan Ryan", 
+   "Common sense. The number of living species that have escaped our attention cannot compare to those that have gone extinct over several billion years of life with numerous mass extinctions, remembering that fossils are rare.\n\n \n Surely, we can only \"guesstimate\" how many living species have escaped our attention ? But how probable is it that only 1% of all the species that ever existed escaped extinction ? \n \n I think your point about mass extinctions may be a key to what has puzzled me.", 
+   {}, 
+   106179, 
+   null, 
+   1113247320.0
+  ], 
+  [
+   106186, 
+   null, 
+   "sinjin", 
+   "Surely, we can only \"guesstimate\" how many living species have escaped our attention ? But how probable is it that only 1% of all the species that ever existed escaped extinction ? \n \n I think your point about mass extinctions may be a key to what has puzzled me.\n\n \n I suspect you are right. Additionally, the total number of species that have lived is mind boggling.", 
+   {}, 
+   106184, 
+   null, 
+   1113247560.0
+  ], 
+  [
+   106195, 
+   null, 
+   "Tastyfish", 
+   "Its not 1% escaping extinction, on the whole its going to be each speicies we see today has had at least 100 ancestors that look sufficiently different for us to call it a different species.", 
+   {}, 
+   106186, 
+   null, 
+   1113249360.0
+  ], 
+  [
+   106198, 
+   null, 
+   "Alan Ryan", 
+   "I'm not trying to raise a controversy here: I'm just seeking answers to questions about extinction that puzzle me. \n \n When I read, for example, that since the first living organism emerged about 3.5 billion years ago, more than 2 billion species have evolved, I want to know how much confidence we can have in such a figure.\n \n Similarly, when I read that possibly 99% of all species that ever lived are thought to be extinct, I'd like to know how that number has been arrived at.\n \n These sort of numbers are often glibly given in popular science publications, and I don't know whether my skepticism about them is justified.", 
+   {}, 
+   106195, 
+   null, 
+   1113250200.0
+  ], 
+  [
+   106223, 
+   null, 
+   "Jo Bennett", 
+   "They're probably not precise, but they represent a \"best guess\" on the evidence, as is the case with a substantial part of scientific theory. This is, incidently, what the more extreme creationists fail to understand, that scientists are generally looking for a model that fits available evidence, and then looking for the additional evidence to fill the gaps. The most clear example of this is with physics, where particles are sometimes predicted long before they are detected, and at other times emerge out of nowhere and require changes to the model.", 
+   {}, 
+   106198, 
+   null, 
+   1113256260.0
+  ], 
+  [
+   106253, 
+   null, 
+   "supergrunt", 
+   "I read an article yesterday (about Evolution, Extinction, and Economics) in which it was claimed that 99% of all species that have ever existed are now extinct.\n \n This sort of claim (which I've come across before) troubles me: how can it be asserted, with any certainty at all:\n \n 1). The number of species which have evolved.\n \n 2). The percentage of that number that have become extinct.\n \n \n ????\n\n \n I can't give you a precise answer, but I believe it is based off of a few assumptions:\n That the diversity of species has increased with time (with the excepting of a hand-full of mass extinction).\n That generally the rate of new species can be generalized with a linear function.\n \n You estimate the number of species alive today... this number varies wildly...\n \n Then you look at the diversity of an ecosystem today, compared with the diversity of an ecosystem sometime in the past based off of fossil evidence of that ecosystem preserved in some formation (or many). You complete this for a number of instances in which you have a good (by good I mean mostly complete) fossil evidence for most of the major species alive in that ecosystem. The micro-organisms in the fossil ecosystem are estimated from the ratio of micro and macro -scopic organisms in a similar ecosystem today, reduced by a certain amount for the reduction in diversity that I will com to. Estimates are made for how quickly species change and are generalized.\n \n Now, you look at the many models and construct a function describing the number of species alive in each instance and interpolate between the different points in time. You come up with an \"attenuation factor\", which describes how the number of species increases with time (or decreases back in time). This is very general and applies to all organisms small and large in an environment. You correct for the different types of environments on the planet at known times, and for the mass extinctions. Then you sum over time the giant general model you have created. Take the estimate for the totally number of species today, and divide by the estimate you made for the total number of species ever.\n \n This number will be very small.\n \n To understand why, visualize a pyramid built with leggo, but upside down (like a V). One block at the bottom, many at the top. Time is in the vertical axis, total number of species is shown by the horizontal width of the V. The total number of blocks at the top can be enormous, but compared to the sum of the block supporting it is relatively small.\n \n As you can see, this is a very poor estimate. But it does illustrate that there have been an enormous number of species alive on our plant. Even with conservative numbers the total number of species ever is extraordinarily large. The 99 % figure you have stated is probably very poor, but it serves to illustrate the point.", 
+   {}, 
+   106157, 
+   null, 
+   1113266400.0
+  ], 
+  [
+   106279, 
+   null, 
+   "pandion", 
+   "The book, was subtitled differently in the U.S. The Sixth Extinction: Patterns of Life and the Future of Humankind. This is from chapter 4, The Big Five - of course a reference to the 5 great extinctions evident in the fossil record. This quote is from page 39.\n \nTo a paleontologist, death is a fact of life, and extinction is a fact of evolution. Some thirty billion species are estimated to have lived since multicellular creatures first evolved, in the Cambrian explosion. According to some estimates, thirty million species populate today's Earth. This means that 99.9 percent of all species that have ever lived are extinct. As one statistics wag put it, \"To a first approximation, all species are extinct.\" Obviously, not all; otherwise we wouldn't be here to comtemplate the wonder of nature. But life's grip on Earth is evidently more precarious than we might like to accept.\n\n The numbers are based on reasonable estimates. We can see the great diversity of life evident in historical times and the imediate past, when the 6th extinction began. We also know that we aren't even remotely aware of all of the species that still inhabit the earth. There is a saying that if you shake a tree in the rain forest, you will discover 100 new species of insects. According to Futuyma in 1998, there were 751,000 described species of insect, 248,900 species of higher plants, 69,000 species of fungus, and animals (other than insects) had 281,000 species. I have seen estimates that there are more than 850,000 species of beetles alone - still being discovered and described on an almost daily basis.\n \n We can assume that life in the past had as much diversity as it does now. Even the periods between the extinctions were marked by changes, such that the fauna and flora of the early Mesozoic are quite different from the late Mesozoic. In fact, two of the 5 mass extinctions took place during the 50 million year span of the Triassic Period, the first period of the Mesozoic era. One of those was the Permian extinction and was so devestating that very early Triassic strata don't show any life at all. The same is true of the K/T extinction about 65 million years ago. There is a layer above the K/T boundry that has no fossils.\n \n And we have discovered only a small fraction of the diversity of life that must have been present in all of those eras. If the Jurassic period were similar to our own, then we have discovered only a few dozen species, generally the larger ones, of the 30,000,000 that were alive. And that was probably true through the ages.\n \n But maybe the numbers are a bit high for effect. Maybe only 99% of all species have gone extinct.\n \n I haven't read the book so I can't say what the authors were driving at. But I can imagine that the point is that even though we are in another mass extinction event, this one caused mostly by mankind, life will go on when it is over. Probably not with the presence of mankind though.", 
+   {}, 
+   106253, 
+   null, 
+   1113271440.0
+  ], 
+  [
+   106405, 
+   null, 
+   "Alan Ryan", 
+   "My questions about extinction have been more than adequately answered by contributors to this thread. I've learned a lot from the well informed responses.", 
+   {}, 
+   106279, 
+   null, 
+   1113328680.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Extinction  ?", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/4792-extinction.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 4792, 
+  "discussion_files": [
+   [
+    "22810.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/4792-extinction-print.html"
+   ]
+  ], 
+  "identifier": 4792
+ }
+]

@@ -1,0 +1,74 @@
+[
+ [
+  [
+   338781, 
+   null, 
+   "obvious_child", 
+   "So, I've got this old computer and I'm thinking about installing Ubuntu on it for kicks. Will the CD for my mobo install properly on Ubuntu or will Ubuntu automatically recognize it saving me some time?\n \n This is my first Linux attempt.", 
+   {
+    "post_info": {
+     "post_title": "Ubuntu"
+    }
+   }, 
+   null, 
+   null, 
+   1231025940.0
+  ], 
+  [
+   338878, 
+   null, 
+   "T.Q", 
+   "Linux isn't like windows, where you have to install drivers for each piece of hardware. With Linux, all hardware drivers are built into the kernel. So, your motherboard disk is best used as a coaster if you're installing Linux.\n \n If you're wondering if drivers are available for all your hardware, just run the livecd and see if everything works. 99.9% of the time, if it works in the livecd environment, it will work with a full install", 
+   {}, 
+   338781, 
+   null, 
+   1231065660.0
+  ], 
+  [
+   338880, 
+   null, 
+   "Jo Bennett", 
+   "The only thing I've had real trouble with is wireless internet, and the slightly finicky graphics drivers, but otherwise everything Just Works (TM)", 
+   {}, 
+   338878, 
+   null, 
+   1231067460.0
+  ], 
+  [
+   338884, 
+   null, 
+   "T.Q", 
+   "The only thing I've had real trouble with is wireless internet, and the slightly finicky graphics drivers, but otherwise everything Just Works (TM)\n\n \n Both of which do improve with each release.\n \n The biggest problem with hardware support in Linux is that drivers generally aren't supported by the manufacturers (there's no real money in it for them since Linux has such a small share of the desktop market), so drivers are usually created by developers.", 
+   {}, 
+   338880, 
+   null, 
+   1231073640.0
+  ], 
+  [
+   339456, 
+   null, 
+   "T.Q", 
+   "So? Any luck?", 
+   {}, 
+   338884, 
+   null, 
+   1231439520.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Ubuntu", 
+  "url": "http://www.4forums.com/political/computers/12177-ubuntu.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 12177, 
+  "discussion_files": [
+   [
+    "25217.html", 
+    "http://www.4forums.com/political/computers/12177-ubuntu-print.html"
+   ]
+  ], 
+  "identifier": 12177
+ }
+]

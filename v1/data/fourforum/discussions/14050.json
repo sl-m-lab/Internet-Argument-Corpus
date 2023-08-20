@@ -1,0 +1,174 @@
+[
+ [
+  [
+   395618, 
+   null, 
+   "Sandycane", 
+   "I came across this while browsing the text of the house health bill - and started doing a bit of digging. \n \n SEC. 1173A. STANDARDIZE ELECTRONIC ADMINISTRATIVE TRANSACTIONS.\n `(3) TIME FOR ADOPTION- Not later than 2 years after the date of implementation of the X12 Version 5010 transaction standards implemented under this part, the Secretary shall adopt standards under this section.\n \n My first impression of this health bill is that it is another smoke screen to hide another, more sinister, agenda that the government isn't making public.\n \n http://www.ncvhs.hhs.gov/070730p4.pdf\n \n Felix Health Technologies Inc.\n \n http://www.himss.org/content/files/vantagepoint/pdf/VantagePoint_200810.pdf\n \n HIMSS - About HIMSS\n \n http://www.dhs.ri.gov/Portals/0/Uploads/Documents/Public/MA%20Provider%20Updates/pu200.pdf\n \n What is EDI? | EDI/XML | TIE Commerce\n 'To take advantage of EDI, business partners (or trading partners) must agree on a standard that will be used for exchanging documents. For example, a business partner might define their Purchase Order as an ANSI X12 850 (EDI Purchase Order), Version 5010. ANSI X12 is the type of EDI, 850 is the EDI business document number, and Version 5010 is the standard edition that the transaction set is based on. EDI Standards are large by nature to give businesses the utmost in flexibility to define the information to be exchanged and most companies only utilize a subset of this information.'\n \n 5010: Transitioning to the New Standards\n Unlike with the previous version, 5010 implementation guides, now known as technical reports, are not free. Each report has a list price of $600, or a package of all nine costs $2,500 through Washington Publishing Company, though members of ASC X12 are eligible for discounts of up to 70%.\n \n \n http://www.nextgenpracticesolutions.com/documents/Solutions%20Vol%206%20No%201%20January-February%202009.pdf\n 'President Obama has been quoted as saying the following when still President-Elect:\n \"&#8230;making sure that we're investing in electronic medical records and other technologies that can drive down health care costs. &#8230;part of an immediate stimulus package to the economy, but they're also down payments on the kind of long-term, sustainable growth that we need.&#8221; 12/07/08\n And the Congress and new Executive Branch have been consistent with these thoughts in their early stages of development. Believing that HIT is a key part of healthcare reform which is a key part of economic reform, the first versions of the Economic Recovery Legislation (stimulus package) include over $20 billion in loans, grants, and incentives to encourage medical providers to adopt automation in their practices. As of this writing, the bill&#8212;which has only been released in the House of Representatives as yet&#8212;is still in its preliminary stages, but this is what we know so far:\n &#8226; Much of the financial support will come in payment incentives once a provider has adopted an automated solution, but grants, loans, and tax incentives for HIT adoption will also be available.'\n \n Ingenix Ingenix.com Homepage - Ingenix.com\n Cuomo had charged Ingenix with posting phony rates in its database, so that a $100 office visit might be reimbursed as a $72 visit, leaving the patient with a bill for the remainder.\n The case started in 2006 when Columbia lecturer Mary Jerome complained she was left with tens of thousands of dollars in bills for ovarian cancer treatment, despite having full insurance.\n Ingenix scandal points to need for database auditors | ZDNet Healthcare | ZDNet.com\n \n An Analysis of Leading Congressional Health Care Bills, 2007-2008: Part I, Insurance Coverage - The Commonwealth Fund\n The Commonwealth Fund commissioned the Lewin Group [1] to estimate the effect of the bills on stakeholder and health system costs and the projected number of people the bills would insure.\n 1] The Lewin Group is a wholly owned subsidiary of Ingenix which in turn is owned by UnitedHealth Group. The Lewin Group maintains editorial independence from its owners and is responsible for the integrity of any data that it produces for the Fund.\n \n I'm still digging but, wanted to put these links out there for others to look over.\n \n It seems to me, while there is much talk of 'saving' money with this health plan, SOMEONE will be making a fortune selling and maintaining the required software...don't you think?\n \n And what will the government do with all this standardized personal information it accumulates on the public???emoticon_angry", 
+   {
+    "post_info": {
+     "post_title": "X12 Version 5010"
+    }
+   }, 
+   null, 
+   null, 
+   1269298320.0
+  ], 
+  [
+   395792, 
+   null, 
+   "Sandycane", 
+   "Found a good web page...\n Federal Contracts from Dept. of Veterans Affairs, FY 2008, summary\n \n I'm still digging.", 
+   {}, 
+   395618, 
+   null, 
+   1269457500.0
+  ], 
+  [
+   395803, 
+   null, 
+   "Sandycane", 
+   "Ooooh! I'm starting to pick up a trail. \n CSC, Stanley share $2.8B State Department contract -- Government Computer News", 
+   {}, 
+   395792, 
+   null, 
+   1269460860.0
+  ], 
+  [
+   395810, 
+   null, 
+   "Sandycane", 
+   "I think I found the rat hole:\n Encore II Contract Fact Sheet\n \n Let's see...\n The government has made it mandatory for all health care/insurance businesses and agencies to implement the X12 5010 EDI system by Y2012.\n Everyones personal/health information will be loaded into this system - which the DOD will have access to.\n Nice.:xbanghead", 
+   {}, 
+   395803, 
+   null, 
+   1269464220.0
+  ], 
+  [
+   395818, 
+   null, 
+   "Sandycane", 
+   "TriZetto's Newest Facets Version Readies Payers for 5010 Compliance and ICD-10 Migration\n \n 'About ANSI x12 Version 5010 Transactions and ICD-10 Code Sets A prerequisite for ICD-10, 5010 transactions define the rules for electronic data transmission of healthcare data such as claims, while the ICD-10 code set provides a much more extensive way to track diagnoses and procedures than its ICD-9 predecessor. Payers must demonstrate their ability to receive HIPAA 5010 transaction in a test environment by January 2011, to move those 5010 transactions into production by January 2012, and able to accept ICD-10 codes by October, 2013.\n \n \n About TriZetto Founded in 1997, TriZetto is the leading privately held healthcare information technology company to the healthcare payer industry. With its technology touching half of the U.S. insured population, TriZetto is Powering Integrated Healthcare Management&reg;, the systematic application of processes and shared information to optimize the coordination of benefits and care for the healthcare consumer. The company's offerings include enterprise and component software, hosting, outsourcing services and consulting that help payers implement and optimize their operations and minimize the risk of bringing to market new products that drive competitive differentiation.'\n \n TriZetto Corporate Profile", 
+   {}, 
+   395810, 
+   null, 
+   1269468960.0
+  ], 
+  [
+   395853, 
+   null, 
+   "thelmoose", 
+   "These data transactions occur now and have always done so. No business can exist without such exchange of information, including health care, most especially if you do NOT want this all handled by a single payor. No more or fewer data will be transacted. This is merely an attempt to get this jumbled, unstandardized process up to the industry standard, EDI.\n \n You are barking up the wrong tree.", 
+   {}, 
+   395818, 
+   null, 
+   1269487620.0
+  ], 
+  [
+   395914, 
+   null, 
+   "Sandycane", 
+   "These data transactions occur now and have always done so. No business can exist without such exchange of information, including health care, most especially if you do NOT want this all handled by a single payor. No more or fewer data will be transacted. This is merely an attempt to get this jumbled, unstandardized process up to the industry standard, EDI.\n \n You are barking up the wrong tree.\n\n \n I disagree...and one of these days you'll remember reading this thread and wonder why you didn't see it coming.\n \n There is much more here than meets the eye.\n \n Do you really think Uncle Sam is concerned about the health and welfare of it's citizens? There is an ulterior motive and it's not a nice one. emoticon_xkill\n You'll see.", 
+   {}, 
+   395853, 
+   null, 
+   1269543600.0
+  ], 
+  [
+   395988, 
+   null, 
+   "thelmoose", 
+   "I disagree...and one of these days you'll remember reading this thread and wonder why you didn't see it coming.\n \n There is much more here than meets the eye.\n \n Do you really think Uncle Sam is concerned about the health and welfare of it's citizens? There is an ulterior motive and it's not a nice one. emoticon_xkill\n You'll see.\n\n \n You disagree? Based upon what information? \n \n Your initial premise (that the government is engaged in some undescribed sinister activity) is not actually mentioned the opening post references, and subsequent posts not only fail to support your idea, they are unrelated. \n \n It is quite clear you don't understand this topic in any way. It, therefore, is inexplicable how you could even have an opinion on it.", 
+   {}, 
+   395914, 
+   null, 
+   1269577320.0
+  ], 
+  [
+   396006, 
+   null, 
+   "Sandycane", 
+   "Granted, this is a debate forum.\n However, I just put this information 'out there' as I came across it while searching. It is all related and they are all pieces of the puzzle. What the big picture is, I'm not sure yet, I'm still investigating.\n \n If you're not interested or, you think Uncle Sam is innocent, then don't bother yourself with any more details.\n I suppose you also think there is nothing wrong with fluoridated water. :xbanghead\n Some people trust the government, I don't.\n Maybe someone else will be curious enough to investigate further from the clues I posted.\n When I solve the puzzle, I'll post it.", 
+   {}, 
+   395988, 
+   null, 
+   1269619440.0
+  ], 
+  [
+   396009, 
+   null, 
+   "thelmoose", 
+   "Granted, this is a debate forum.\n However, I just put this information 'out there' as I came across it while searching. It is all related and they are all pieces of the puzzle. What the big picture is, I'm not sure yet, I'm still investigating.\n \n If you're not interested or, you think Uncle Sam is innocent, then don't bother yourself with any more details.\n I suppose you also think there is nothing wrong with fluoridated water. :xbanghead\n Some people trust the government, I don't.\n Maybe someone else will be curious enough to investigate further from the clues I posted.\n When I solve the puzzle, I'll post it.\n\n \n No. The disjointed bits you posted are not related - well, only vaguely. You don't understand what this topic is about. It is about electronic data interchange. There is no puzzle to solve. There are no secrets. This is well known information. \n \n Glad you could stay on target with the fluoride comment. \n When you start with a premise of which you are utterly convinced, then you decide to ignore any information that contradicts that premise or ignore someone who knows about the topic of which you are ignorant, you don't get to call it debate. You can't decide beforehand you are sure about something, then go look for information to confirm it. That's kinda nuts.\n \n Well, it's exactly nuts, actually.", 
+   {}, 
+   396006, 
+   null, 
+   1269621660.0
+  ], 
+  [
+   396015, 
+   null, 
+   "Sandycane", 
+   "I came across this while browsing the text of the house health bill - and started doing a bit of digging. \n \n \n My first impression of this health bill is that it is another smoke screen to hide another, more sinister, agenda that the government isn't making public.\n \n \n I'm still digging but, wanted to put these links out there for others to look over.\n \n It seems to me, while there is much talk of 'saving' money with this health plan, SOMEONE will be making a fortune selling and maintaining the required software...don't you think?\n \n And what will the government do with all this standardized personal information it accumulates on the public???emoticon_angry\n\n \n These are the statements made by me in the OP.\n I carefully reread them to see if you were correct in your accusations - you are not.\n This is what you said:\n \nNo. The disjointed bits you posted are not related - well, only vaguely. You don't understand what this topic is about. It is about electronic data interchange. There is no puzzle to solve. There are no secrets. This is well known information. \n \n Glad you could stay on target with the fluoride comment. \n When you start with a premise of which you are utterly convinced, then you decide to ignore any information that contradicts that premise or ignore someone who knows about the topic of which you are ignorant, you don't get to call it debate. You can't decide beforehand you are sure about something, then go look for information to confirm it. That's kinda nuts.\n \n Well, it's exactly nuts, actually.\n\n \n An 'impression' is hardly the same as being 'utterly convinced'.\n And, where is 'someone who knows about the topic of which you are ignorant' and the 'information that contradicts that premise'?\n \n \nYou can't decide beforehand you are sure about something, then go look for information to confirm it. \n\n Hmmm, funny. Scientist do this all the time. It's called an hypothesis or, 'theory'...and in this case, a conspiracy one at that. \n \n You have proof that there is noting sinister about any of the information posted? Give it up. I'm open minded.", 
+   {}, 
+   395618, 
+   null, 
+   1269623100.0
+  ], 
+  [
+   396059, 
+   null, 
+   "Zardoz", 
+   "Sandy, please stop digging or you may undercover something you'd rather not face.\n Just sit back and enjoy the remaining years you have in as much peace and tranquility as you can find.\n \n \n Yours truely, \n \n -Zardoz\n \n VP of information retrieval and liquidation,\n Camp 416, Utah sector.", 
+   {}, 
+   396015, 
+   null, 
+   1269634980.0
+  ], 
+  [
+   396063, 
+   null, 
+   "Sandycane", 
+   "Sandy, please stop digging or you may undercover something you'd rather not face.\n Just sit back and enjoy the remaining years you have in as much peace and tranquility as you can find.\n \n \n Yours truely, \n \n -Zardoz\n \n VP of information retrieval and liquidation,\n Camp 416, Utah sector.\n\n \n You mean something like this:\n FEMA and the Hidden Underground Government\n \n Too late.", 
+   {}, 
+   396059, 
+   null, 
+   1269638040.0
+  ], 
+  [
+   396091, 
+   null, 
+   "thelmoose", 
+   "These are the statements made by me in the OP.\n I carefully reread them to see if you were correct in your accusations - you are not.\n This is what you said:\n \n \n An 'impression' is hardly the same as being 'utterly convinced'.\n And, where is 'someone who knows about the topic of which you are ignorant' and the 'information that contradicts that premise'?\n \n \n Hmmm, funny. Scientist do this all the time. It's called an hypothesis or, 'theory'...and in this case, a conspiracy one at that. \n \n You have proof that there is noting sinister about any of the information posted? Give it up. I'm open minded.\n\n \n Yikes. You are more that a leeeetle crazy, aren't you? \n \n 1. You do seem convinced that there is a sinster gov't plot. More than an impression. You somehow decided the seemingly innocent wording in the law suggested this.\n 2. I explained to you what this actually meant and you dismissed it out of hand. \n 3. None of the information you provided confirms your premise. Some of it contradicts it. Most is not even related. \n 4. Scientists do not \"decide beforehand you are sure about something, then go look for information to confirm it. \" A hypothesis is the opposite. In fact, the scientific method starts from the null hypothesis, and only when you observe something that falsifies that, do you consider it \"true\". One collects all data without respect or even knowledge whether it confirms your initial idea. You seem to ignore stuff that doesn't match you initial nutcase premise and keep hunting for something to back you up.\n 5. It is up to the person who posits an idea to back it up. It is not my duty to prove your paranoid ideas false. You have failed to make your case.\n \n I won't post again, but just for grins, let me make a simple proposition: Explain in your own words what \"SEC. 1173A\" is about. You have any resource you want to help you, but don't simply paste someone else's words. Up until now, the references you have provided indicate you don't even have the foggiest idea what it is you are objecting to. I gave you some hints. And please, do try to stay on topic. Already you have strayed to fluoride and FEMA. I am not asking you to prove anything, just explain what you beef is, because it appears you don't actually know.", 
+   {}, 
+   396015, 
+   null, 
+   1269661680.0
+  ], 
+  [
+   418645, 
+   null, 
+   "fzgrums", 
+   "The government has made it mandatory for all health care", 
+   {}, 
+   396091, 
+   null, 
+   1291741500.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  X12 Version 5010", 
+  "url": "http://www.4forums.com/political/health-debates/14050-x12-version-5010-a.html", 
+  "breadcrumbs": [
+   "Health"
+  ], 
+  "id_number": 14050, 
+  "discussion_files": [
+   [
+    "6975.html", 
+    "http://www.4forums.com/political/health-debates/14050-x12-version-5010-a-print.html"
+   ]
+  ], 
+  "identifier": 14050
+ }
+]

@@ -1,0 +1,432 @@
+[
+ [
+  [
+   96948, 
+   null, 
+   "Duo_Maxwell", 
+   "can you really tell the difference on comparable machines?", 
+   {
+    "post_info": {
+     "post_title": "AMD Or Intel"
+    }
+   }, 
+   null, 
+   null, 
+   1110511260.0
+  ], 
+  [
+   97009, 
+   null, 
+   "Alan Ryan", 
+   "With comparable CPU speeds, I wouldn't think so: but the computer buffs will point out, no doubt, lots of refinements (in favor of one or the other) that I'd never notice.", 
+   {}, 
+   96948, 
+   null, 
+   1110557220.0
+  ], 
+  [
+   97092, 
+   null, 
+   "Duo_Maxwell", 
+   "the only thing I can think of is the front side bus, which runs higher on intel then AMDs...", 
+   {}, 
+   97009, 
+   null, 
+   1110569580.0
+  ], 
+  [
+   97094, 
+   null, 
+   "JPSartre12", 
+   "can you really tell the difference on comparable machines?\n\n \n Given identically stated speeds, the AMD processor will execute its commands faster than the Intel processor. Other than that, I haven't found any differences between my current AMD and previous Intel processors.", 
+   {}, 
+   96948, 
+   null, 
+   1110569760.0
+  ], 
+  [
+   97137, 
+   null, 
+   "Duo_Maxwell", 
+   "Given identically stated speeds, the AMD processor will execute its commands faster than the Intel processor. Other than that, I haven't found any differences between my current AMD and previous Intel processors.\n\n \n Because...\n \n Most AMDs run signifgently slower FSBs then Intels, which will cause a signifcent lag in processes.", 
+   {}, 
+   97094, 
+   null, 
+   1110578880.0
+  ], 
+  [
+   97146, 
+   null, 
+   "georged", 
+   "Unless running significant graphic or calculating software, IMO few people will ever notice the difference. Serious gamers, the upper end of the market for processors/memory and test beds for many high-end systems, seldom choose AMD.", 
+   {}, 
+   97137, 
+   null, 
+   1110581940.0
+  ], 
+  [
+   97153, 
+   null, 
+   "daewoo", 
+   "Unless running significant graphic or calculating software, IMO few people will ever notice the difference. Serious gamers, the upper end of the market for processors/memory and test beds for many high-end systems, seldom choose AMD.\n\n \n We run a lot of pretty serious engineering software, mostly on multiple processor machines. \n \n For single processor machines, it is pretty much a tossup in most categories, since the bus speed of the AMD is lower, but command execution is faster. The two tend to kind of balance each other out. The AMD is usually faster from a practical standpoint, though, because your machine is basically the slave tot he slowest component, and in software with process seperation as bad as windows has, a slow USB application can literally slow down the entire machine.\n \n In multiple processor machines, with the exception of some server configuratyions utilizing the xeon processors and applications specifically designed for them, a multiple processor AMD system is noticably faster than a multiple processor Intel based machine. You are again moving out of windows land here, though, since windows support for multiple processors is pretty bad. \n \n In the end, it probably doesn't really matter one way or the other. If you are using windows, go with the cheapest of the two. If you want to upgrade from windows to a *nix variation, go with a multiple processor AMD setup if you just HAVE to have a 32 bit processor. For the money, though, a 64 bit based unit is an even better value.", 
+   {}, 
+   97146, 
+   null, 
+   1110583440.0
+  ], 
+  [
+   98028, 
+   null, 
+   "Steeeeve", 
+   "AMD has won in almost all comparisions.", 
+   {}, 
+   97153, 
+   null, 
+   1110865260.0
+  ], 
+  [
+   98110, 
+   null, 
+   "Duo_Maxwell", 
+   "AMD has won in almost all comparisions.\n\n \n Do you have benchmarks?", 
+   {}, 
+   98028, 
+   null, 
+   1110874140.0
+  ], 
+  [
+   98455, 
+   null, 
+   "Steeeeve", 
+   "http://www.nordichardware.com/Reviews/?page=17&skrivelse=362\n \n First site I found....its hard to compare the two to be honest....AMD is regarded as a better value a lot of times and more reliable...if you get an Intel its not a big deal...my laptop has one and it is fine. It would be like saying HA I am one inch taller than you!!\n \n Big deal... :p", 
+   {}, 
+   98110, 
+   null, 
+   1110934980.0
+  ], 
+  [
+   98475, 
+   null, 
+   "Duo_Maxwell", 
+   "intel makes more sense for laptops, as Centrios have been known to get 7-9 hours of battery life, which is just ridiculous when you think about it.", 
+   {}, 
+   98455, 
+   null, 
+   1110936720.0
+  ], 
+  [
+   98491, 
+   null, 
+   "Steeeeve", 
+   "AMD has something like it too :)\n http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_12651,00.html", 
+   {}, 
+   98475, 
+   null, 
+   1110939360.0
+  ], 
+  [
+   98507, 
+   null, 
+   "Duo_Maxwell", 
+   "AMD has something like it too :)\n http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_12651,00.html\n\n \n Intersting. Looks like they have some catching up to do. \n \n Centrinos apparently clocked 7 hours of battery life. \n \n The seven notebooks achieved battery-life scores from three and a half hours to an astounding seven hours.\n \n http://reviews.cnet.com/4520-3121_7-5023902-1.html?legacy=cnet\n \n I've heard of people getting 9 hours, but that's uncollaborated, still I wouldn't be suprised.", 
+   {}, 
+   98491, 
+   null, 
+   1110942240.0
+  ], 
+  [
+   98510, 
+   null, 
+   "Steeeeve", 
+   "Yeah, im not sure what AMDs new mobile processor gets in terms of battery life...It would be interesting to see who is better....(the AMDs is new)", 
+   {}, 
+   98507, 
+   null, 
+   1110942420.0
+  ], 
+  [
+   98512, 
+   null, 
+   "Steeeeve", 
+   "Keep in mind though...the Pent-M has **** for performance", 
+   {}, 
+   98510, 
+   null, 
+   1110942480.0
+  ], 
+  [
+   98537, 
+   null, 
+   "Duo_Maxwell", 
+   "Keep in mind though...the Pent-M has **** for performance\n\n \n Depends on which one you get. Of course the lower rating one is going to have relatively poor performance, but Pms with decent ram and video cards have been getting good to excellent benchmarks; of course they can't stand up to desktop 3/5th the price, but laptops never could.", 
+   {}, 
+   98512, 
+   null, 
+   1110945000.0
+  ], 
+  [
+   98580, 
+   null, 
+   "Steeeeve", 
+   "they all have bad performance..this is compared to the pent 4 or (for amd) the athlon 64..in otherwords the real chip", 
+   {}, 
+   98537, 
+   null, 
+   1110958680.0
+  ], 
+  [
+   98582, 
+   null, 
+   "Duo_Maxwell", 
+   "they all have bad performance..this is compared to the pent 4 or (for amd) the athlon 64..in otherwords the real chip\n\n \n Hence chips in desktops. Laptops cannot compete with desktops for obvious reasons. Price mainly, it costs the same to get a 160 gig SATA 7200 rpm internal then it costs to get a 40 gig ata 5200 rpm laptop hdd. The chip itself is not the whole problem, it's the basic makeup of most laptops.", 
+   {}, 
+   98580, 
+   null, 
+   1110958860.0
+  ], 
+  [
+   98657, 
+   null, 
+   "Steeeeve", 
+   "yeah, you can get a regular chip in a laptop though...I happen to have that...the laptop will just weigh 6 tons and get about 45 seconds of battery life :)", 
+   {}, 
+   98582, 
+   null, 
+   1110992940.0
+  ], 
+  [
+   98726, 
+   null, 
+   "Duo_Maxwell", 
+   "yeah, you can get a regular chip in a laptop though...I happen to have that...the laptop will just weigh 6 tons and get about 45 seconds of battery life :)\n\n \n And it would totally suck. Most people don't need anything more then a 1.6 gig right now. Even the most demanding games can be played decently on a 1.8 which isn't a big jump from a 1.6 and can be shored up with a good video card and decent ram load.", 
+   {}, 
+   98657, 
+   null, 
+   1111004880.0
+  ], 
+  [
+   98915, 
+   null, 
+   "Steeeeve", 
+   "my laptop is a 1.6 or 1.8 i forget :)\n \n its not bad to get a real chip in a laptop...it depends on what you need it for...I also found out that the regular athlon 64 uses less power than the P4", 
+   {}, 
+   98726, 
+   null, 
+   1111036020.0
+  ], 
+  [
+   98931, 
+   null, 
+   "Duo_Maxwell", 
+   "speaking of laptops, I've been meaning to get one, but all I need is a like a 400 mhz w/32 megs of ram and can run a basic typing program. My desktop handles the rest (it should, it's a 2.8 P4 with hyperthreading, a 256 meg ATI video card, 9550 chipset, a gig of DDR 400, and a 160 gig SATA hdd)\n \n Who would want to steal that a clunker that can't run 80% of most modern programs?", 
+   {}, 
+   98915, 
+   null, 
+   1111041300.0
+  ], 
+  [
+   98937, 
+   null, 
+   "daewoo", 
+   "speaking of laptops, I've been meaning to get one, but all I need is a like a 400 mhz w/32 megs of ram and can run a basic typing program. My desktop handles the rest (it should, it's a 2.8 P4 with hyperthreading, a 256 meg ATI video card, 9550 chipset, a gig of DDR 400, and a 160 gig SATA hdd)\n \n Who would want to steal that a clunker that can't run 80% of most modern programs?\n\n \n \n If all you want is something that will run basic WP functions and the like, look on Ebay fro an itronix. They only run 200 MHZ, generally windows 95, and most on Ebay only have 32 MB ram. You can get a 64 MB expansion module (which is actually overkill since windows 9x can only utilize 64 mb) and it will more than run your word processing functions. If you stick with office 97, it will likely outpace tyour desktop machine, assuming you are running office 2K or newer on your desktop.\n \n The real advantage to the itronix is that they are nigh indestructible. We used to use them around work. I saw one knocked off of a railing, fall 2 stories onto the tile floor below, and it survived just fine. I would not make a habit of doing that, but it is nice to know, as you watch your laptop fall through the air, that there is SOME hope for it.", 
+   {}, 
+   98931, 
+   null, 
+   1111043580.0
+  ], 
+  [
+   98991, 
+   null, 
+   "georged", 
+   "If all you want is something that will run basic WP functions and the like, look on Ebay fro an itronix. They only run 200 MHZ, generally windows 95, and most on Ebay only have 32 MB ram. You can get a 64 MB expansion module (which is actually overkill since windows 9x can only utilize 64 mb) and it will more than run your word processing functions. If you stick with office 97, it will likely outpace tyour desktop machine, assuming you are running office 2K or newer on your desktop.\n \n The real advantage to the itronix is that they are nigh indestructible. We used to use them around work. I saw one knocked off of a railing, fall 2 stories onto the tile floor below, and it survived just fine. I would not make a habit of doing that, but it is nice to know, as you watch your laptop fall through the air, that there is SOME hope for it.\n\n \n Can't argue with durability. But, compared to XP, Win 9x will drive IT work station maintenance crazy as it always has. Smaller businesses with no inhouse IT support on simple networks have reduced their outside IT costs up to 50% by going to XP. Even the least skilled data input drones and admin assistants using Power Point and Access have trouble crashing or slowing down XP.", 
+   {}, 
+   98937, 
+   null, 
+   1111077240.0
+  ], 
+  [
+   99051, 
+   null, 
+   "Steeeeve", 
+   "I want to get this computer...\n \n Clearpc blue arcylic case midtower\n MSI nforce 4 mobo with PCI express\n Ultra X Connect 500w PSU\n AMD athlon 64 4000+\n MSI 6600GT pci express graphics card\n 200GB 7200.8 rpm SATA HD from Seagate (cause seagate owns all)\n 1gb mushkin 2-2-2 ram\n viewsonic 912b 19in LCD monitor\n Swiftech H20-120 Rev 3 watercooling kit\n polarflo VGA and chipset blocks for watercooling\n Plextor dual-layer dvd drive\n few other odds and ends :)\n \n Hehe not to expensive....2500 or so", 
+   {}, 
+   98991, 
+   null, 
+   1111083540.0
+  ], 
+  [
+   101592, 
+   null, 
+   "wsm2506", 
+   "Hence chips in desktops. Laptops cannot compete with desktops for obvious reasons. Price mainly, it costs the same to get a 160 gig SATA 7200 rpm internal then it costs to get a 40 gig ata 5200 rpm laptop hdd. The chip itself is not the whole problem, it's the basic makeup of most laptops.\n\n \n My solution to that was to get a 20Gb external USB HDD which I can swap between both the laptop and desktop.", 
+   {}, 
+   98582, 
+   null, 
+   1111855380.0
+  ], 
+  [
+   101644, 
+   null, 
+   "Steeeeve", 
+   "plus seagate now offers a 5gb mini pocket HD which is nice. Check it out\n \n www.seagate.com", 
+   {}, 
+   101592, 
+   null, 
+   1111864560.0
+  ], 
+  [
+   101671, 
+   null, 
+   "wsm2506", 
+   "plus seagate now offers a 5gb mini pocket HD which is nice. Check it out\n \n www.seagate.com\n\n \n Sorry, I made a typo. It is a 200 GB external, not a 20 GB.\n \n I also use an Iomega Clik drive for both. (Little 50Mb removable disk). Very handy.", 
+   {}, 
+   101644, 
+   null, 
+   1111866120.0
+  ], 
+  [
+   101723, 
+   null, 
+   "Steeeeve", 
+   "I was wondering where you got a 20Gb external from...haha", 
+   {}, 
+   101671, 
+   null, 
+   1111879500.0
+  ], 
+  [
+   104008, 
+   null, 
+   "sglaine", 
+   "I want to get this computer...\n \n Clearpc blue arcylic case midtower\n MSI nforce 4 mobo with PCI express\n Ultra X Connect 500w PSU\n AMD athlon 64 4000+\n MSI 6600GT pci express graphics card\n 200GB 7200.8 rpm SATA HD from Seagate (cause seagate owns all)\n 1gb mushkin 2-2-2 ram\n viewsonic 912b 19in LCD monitor\n Swiftech H20-120 Rev 3 watercooling kit\n polarflo VGA and chipset blocks for watercooling\n Plextor dual-layer dvd drive\n few other odds and ends :)\n \n Hehe not to expensive....2500 or so\n\n \n \n That would cost me around $1400 to build.", 
+   {}, 
+   99051, 
+   null, 
+   1112585880.0
+  ], 
+  [
+   104012, 
+   null, 
+   "Duo_Maxwell", 
+   "SWEET\n \n Itronix Weatherproof Laptop 266Mhz Wireless\n US $150.00 \n Ebay\n http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=177&item=5180437528&rd=1\n \n sglaine, maybe a little cheaper if you buy all the parts from Newegg now, where they have virtually free shipping.", 
+   {}, 
+   104008, 
+   null, 
+   1112586240.0
+  ], 
+  [
+   104029, 
+   null, 
+   "daewoo", 
+   "Can't argue with durability. But, compared to XP, Win 9x will drive IT work station maintenance crazy as it always has. Smaller businesses with no inhouse IT support on simple networks have reduced their outside IT costs up to 50% by going to XP. Even the least skilled data input drones and admin assistants using Power Point and Access have trouble crashing or slowing down XP.\n\n \n Overall, though, when one consideres the upgraded hardware requirements for XP, as well as its marginal (at best ) support for server run apps, I think 9x or 2000 is still the better option. In XP, they slowed down execution of remote apps intentionally in order to increase their reliabililty. While this makes great sense from a purely IT standpoint, it also means your employees spending more time sitting in front of their machines waiting for something to happen. If your business is small enough, this makes no difference. \n \n Most companies with data intensive remote applications (phone companies, etc...) are still runnning NT on clients, and Win2K on workstations. \n \n Companies seem to have learned their lesson when it somes to MS products. Major players tend to lag behind by several years. I know that yellow freight finished an upgrade juast last year from windows 95, and over half of comapnies are still running NT 4.0.", 
+   {}, 
+   98991, 
+   null, 
+   1112593380.0
+  ], 
+  [
+   104030, 
+   null, 
+   "daewoo", 
+   "SWEET\n \n Itronix Weatherproof Laptop 266Mhz Wireless\n US $150.00 \n Ebay\n http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=177&item=5180437528&rd=1\n \n sglaine, maybe a little cheaper if you buy all the parts from Newegg now, where they have virtually free shipping.\n\n \n RIPOFF. You can get a 2650pro, exactly the same as the one in the auction, for $120.00 plus $18 shipping from www.tirelesswireless.com . They have one with a 6 GB hard drive for $140. I have dealt with them before (IIRC the guys name is michael) and they are good folks. You can definatly trust him. \n \n On another note, anybody looking for a goo, fast machine, seearch for honeywell FMT on Ebay. They are selling a sun microsystems 6500 server. 12x400mhz 64 bit processors, 22GB ram. Nothing micorsoft makes will really support that many processors, but just about any *nix variant will, and if you REALLY need the microsoft virus on your machine, you can run it in VMware and it will pretty much run like it is running on all processors. You WILL have the fastest computer on your block!!", 
+   {}, 
+   104012, 
+   null, 
+   1112594160.0
+  ], 
+  [
+   104132, 
+   null, 
+   "Duo_Maxwell", 
+   "Problem with that site is that I can't find a model with wireless. I need that.", 
+   {}, 
+   104030, 
+   null, 
+   1112653200.0
+  ], 
+  [
+   104148, 
+   null, 
+   "daewoo", 
+   "Problem with that site is that I can't find a model with wireless. I need that.\n\n \n Get a 802.11 wireless card (PCMCIA).\n \n The wireless capability on an itronix is worthless. What the guy is calling \"wireless networking\" is NOT 802.11 or ranglan compliant. It is CPDP. BAsically a slow cellular modem. NOBODY supports it anymore, so you may as well leave it off and save the battery. \n \n The 6250 did not have many optional components. USB and memory size is about it. Everything else is the same regardless of where you get it.", 
+   {}, 
+   104132, 
+   null, 
+   1112654640.0
+  ], 
+  [
+   104168, 
+   null, 
+   "Duo_Maxwell", 
+   "Possibly. $138 + 40. Maybe, but probably get it next year.", 
+   {}, 
+   104148, 
+   null, 
+   1112656680.0
+  ], 
+  [
+   104305, 
+   null, 
+   "Steeeeve", 
+   "sglaine, maybe a little cheaper if you buy all the parts from Newegg now, where they have virtually free shipping.\n\n \n I priced from Newegg and ZipZoomFly....not any cheaper then 2500 for the computer I posted. I guess it would be cheaper if you were the owner of a HP or something..and slightly lower if you were a reseller. The swiftech system alone is probably around 175 at best. The AMD is the most expensive around 500 at best I can find.", 
+   {}, 
+   104168, 
+   null, 
+   1112682660.0
+  ], 
+  [
+   198620, 
+   null, 
+   "sglaine", 
+   "AMD has won in almost all comparisions.\n\n \n \n Your correct there.", 
+   {}, 
+   98028, 
+   null, 
+   1140060300.0
+  ], 
+  [
+   218988, 
+   null, 
+   "DrNo", 
+   "And it would totally suck. Most people don't need anything more then a 1.6 gig right now. Even the most demanding games can be played decently on a 1.8 which isn't a big jump from a 1.6 and can be shored up with a good video card and decent ram load.\n\n \n You are exactly right. I run Oblivion on an AMD Athlon XP 2100, which runs at 1.8 gHz. I have a great video card and a gig of memory. I can't run it on the highest settings, but it still looks awesome and runs smoothly on High detail. I can't have shadows on everything, that's about it.", 
+   {}, 
+   98726, 
+   null, 
+   1151267760.0
+  ], 
+  [
+   296697, 
+   null, 
+   "Teleological", 
+   "Is AMD still keeping its head above the water financially?\n Great computers but they tend to overheat (from my limited experience off course).", 
+   {}, 
+   218988, 
+   null, 
+   1199977800.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  AMD Or Intel", 
+  "url": "http://www.4forums.com/political/computers/4493-amd-intel.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 4493, 
+  "discussion_files": [
+   [
+    "28717.html", 
+    "http://www.4forums.com/political/computers/4493-amd-intel-print.html"
+   ], 
+   [
+    "28718.html", 
+    "http://www.4forums.com/political/computers/4493-amd-intel-3-print.html"
+   ], 
+   [
+    "28719.html", 
+    "http://www.4forums.com/political/computers/4493-amd-intel-2-print.html"
+   ]
+  ], 
+  "identifier": 4493
+ }
+]

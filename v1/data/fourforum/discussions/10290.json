@@ -1,0 +1,104 @@
+[
+ [
+  [
+   280849, 
+   null, 
+   "Mucusaur", 
+   "I have a very large word document (my undergrad thesis) full of excel graphs, pictures, drawings and other visual presentations. I have tries to convert this to PDF using cute PDF and PDF writer, but it never works, the computer merely habgs and I have to CTRL Alt Delete my way out.\n \n The pdf writer is having a problem with the word document, any idea what?", 
+   {
+    "post_info": {
+     "post_title": "any familiarity with Cute PDF?"
+    }
+   }, 
+   null, 
+   null, 
+   1188166980.0
+  ], 
+  [
+   280860, 
+   null, 
+   "thelmoose", 
+   "I have a very large word document (my undergrad thesis) full of excel graphs, pictures, drawings and other visual presentations. I have tries to convert this to PDF using cute PDF and PDF writer, but it never works, the computer merely habgs and I have to CTRL Alt Delete my way out.\n \n The pdf writer is having a problem with the word document, any idea what?\n\n \n I think using Acrobat Distiller, instead of PDFWriter, might help, as I think that is intended for larger documents with images, etc. imbedded. That probably why the pdfwriter hangs up. It should be included in Acrobat. If you can't access it directly from Word, try printing your document. In the list of available printers, Acrobat Distiller ought to be among them. Use that \"printer\". It won't print, but it will save it to a file as a .pdf. \n \n Hope it works. I hope you have plenty of backups!", 
+   {}, 
+   280849, 
+   null, 
+   1188168300.0
+  ], 
+  [
+   280865, 
+   null, 
+   "Jo Bennett", 
+   "No idea, but I've used pdf995 and the export PDF function in Open Office without trouble. Both are free and worth a shot.\n \n I did my undergrad masters project in LaTeX, which converts to pdf with no trouble at all, but LaTeX is really only worthwhile if you need to typeset a lot of mathematics.", 
+   {}, 
+   280860, 
+   null, 
+   1188170520.0
+  ], 
+  [
+   280868, 
+   null, 
+   "daewoo", 
+   "In my experiece cute PDF has trouble with larger, image intensive, documents. Try acrobat ro hit sourceforge and see what else is there. Anymore I mostly use Adobe Acrobat Pro because they keep changing thier format so it is the only way to ensure complaince about anywhere. I donwloaded it vie bit torret since I do not believe in rewarding companies for bad behavior by purchasing their product.", 
+   {}, 
+   280865, 
+   null, 
+   1188171840.0
+  ], 
+  [
+   280870, 
+   null, 
+   "Mucusaur", 
+   "It seems that distiller changes postscript files to PDFs, is this right?", 
+   {}, 
+   280865, 
+   null, 
+   1188172320.0
+  ], 
+  [
+   280872, 
+   null, 
+   "thelmoose", 
+   "It seems that distiller changes postscript files to PDFs, is this right?\n\n \n Yes. (but so does writer.)\n But I may have given you out of date info. I think Distiller ended with acrobat 6.0. That had been my experience and it worked for me, but it may not reflect the acrobat you have on your machine.", 
+   {}, 
+   280870, 
+   null, 
+   1188173460.0
+  ], 
+  [
+   280875, 
+   null, 
+   "Mucusaur", 
+   "Just tried https://www.pdfonline.com - no luck there either, page timed out, seems like they had the same difficulty as i did", 
+   {}, 
+   280872, 
+   null, 
+   1188174600.0
+  ], 
+  [
+   430788, 
+   null, 
+   "stonehearted", 
+   "\n\n \n I have also tried this but not found it good.", 
+   {}, 
+   280875, 
+   null, 
+   1306498380.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  any familiarity with Cute PDF?", 
+  "url": "http://www.4forums.com/political/computers/10290-any-familiarity-cute-pdf.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 10290, 
+  "discussion_files": [
+   [
+    "30400.html", 
+    "http://www.4forums.com/political/computers/10290-any-familiarity-cute-pdf-print.html"
+   ]
+  ], 
+  "identifier": 10290
+ }
+]

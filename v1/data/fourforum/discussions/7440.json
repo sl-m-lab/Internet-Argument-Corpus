@@ -1,0 +1,84 @@
+[
+ [
+  [
+   194828, 
+   null, 
+   "daewoo", 
+   "I got an interesting question from my brother in law the other day. He started an LLC. He does handyman type stuff in the evenings and on the weekends. He is a teacher during the day.\n \n Instead of doing the LLC the correct way (in my opinion) and building a capital account for himself and pulling draws from it, he and his partner have assigned themselves salaries, which basically works out to be whatever they can make minus a small amount they leave in the business for expenses.\n \n He is getting ready to do his taxes now, and has found that he has screwed himself because the payroll and self employment taxes that come with the guaranteed payments are more than he would have paid if he had kept a capital account and declared it as a regular cash distribution.\n \n Now, my best advice would have been to forget about the LLC for last year, don't even bother filing for it, and if they catch you later, play dummy and pay the taxes. We are only talking about $10,000 in income, and there is a good chance they would not catch it.\n \n If that was too unsavory, my second advice would have been to sell the LLC the partners tools and related equipment (computers, etc) but finance it and count the payments as loan repayment. The LLC can write off the entire load (or whatever portion they fell like doing this year) as a loan repayment, and since he is not in the business of loaning money, he can primarily ignore it on his personal return. I know this is a little touchy, bu I have successfully defended it in an audit, so I know it is kosher as long as you do not get too outrageous. Then, next year he could extend another \"loan\" for the rest of the tools and equipment, and write the whole mess off as a 179.\n \n \n If he wants to run his business and pull a salary, wouldn't he be better off either re-forming as a corporate entity or filing an 8832? That way the company pays, and gets to write off, part of his taxes and SS so he and his partner do not get hit with self employment taxes. Granted in the end you are still essentially paying the same amount of taxes, but they can leave money in the company if they so desire and pay the corporate income tax rate instead of the personal rate.\n \n I don't have any experience at all with pulling a salary form an LLC that I am an owner. It just seems like under the given circumstances, a corporation would give him much greater flexibility, and with flexibility comes opportunity.\n \n What do you guys think?", 
+   {
+    "post_info": {
+     "post_title": "LLC taxation"
+    }
+   }, 
+   null, 
+   null, 
+   1138259220.0
+  ], 
+  [
+   194842, 
+   null, 
+   "Steeeeve", 
+   "I'm a little confused by what you are asking here but I will try and answer. \n \n Basically an LLC is taxed just like a partnership. There are advantages to this and disadvantages. The main advantage is no double-tax like what a C-Corp has. Another advantage is might avoid some other taxes dealing with accumulated earnings and AMT etc. The disadvantages are that your income is based on the income of the company...in other words you share the gains and losses. The advantages and disadvantages of a C-Corp are easily known.\n \n You mentioned filing an 8832 which might be a good idea but remember you CANT switch back to normal LLC filing for FIVE years. \n \n \n\n Now, my best advice would have been to forget about the LLC for last year, don't even bother filing for it, and if they catch you later, play dummy and pay the taxes. We are only talking about $10,000 in income, and there is a good chance they would not catch it.\n I am not exactly sure what you are getting at here. Do you mean to just not include the income on the partners tax returns? Probably a bad idea when the IRS sees a company that has no income or loss for this year and the owners having very little income (im assuming a lot here). I wouldn't push the envelope on that one.\n \n Your second opition I am unsure of. It might be that it is 12:45am or that I am just not getting it...could you explain that one further. From my first read it sounds like you might get caught up in a tax shelter legal battle. If you could just explain what you mean a little further I can give some advice..maybe an example.\n \n I hope this helps, I am kinda tired.\n \n Also, can you kind of explain what the business is?", 
+   {}, 
+   194828, 
+   null, 
+   1138288860.0
+  ], 
+  [
+   194857, 
+   null, 
+   "georged", 
+   "I'd file the LLC as no revenue (required), file partnership for tax purposes and submit an 8832 for 2006 if they want to pay themselves salaries through the LLC in 2006. \n \n Have the LLC buy the partnership assets at book value. Expense the equipment for 2006 LLC filing at fair market value. Recapture depreciation on the partnership sale and pay gain on sale through partnership for 2006, and collapse the partnership. \n \n You'll have to run a spreadsheet on the actual numbers, but the partnership taxable gain should be offset by expensing the equipment through the LLC at FMV. (both will flow to individual returns).\n \n Most important, have them retain a good tax person. Make sure they choose one that's an IRS registered agent so the annual 1099 inquiry to the IRS is made on the individual filing sides. While individual and small entity audits of low income are almost non-existent, better safe than sorry.\n \n They could be in for a massive shock with the cost of a workman's comp policy if they ever hire employees beyond LLC manager status.", 
+   {}, 
+   194842, 
+   null, 
+   1138294080.0
+  ], 
+  [
+   195281, 
+   null, 
+   "daewoo", 
+   "Thanks, guys. I ended up setting him up with my tax guy. Once you move past a basic 1040, I think that a good tax man is a good investment, especailly if you are completely clueless.", 
+   {}, 
+   194857, 
+   null, 
+   1138487700.0
+  ], 
+  [
+   234196, 
+   null, 
+   "Mach", 
+   "Daewoo,\n \n Your first impression, to just use draws, is how I was advised from both attorneys and CPAs. Your other suggestion, to form a corporation, is also the advice I have gotten, of one wants to pay themselves via salary.\n \n Although, I heard of a new one last week that I have not looked into. A gent working as a consultant is incorporated, pays himself some minimum required salary that then allows him to in the end, pay himself through dividends, avoiding a big tax hit on most of his earnings (The minimum salary is apparently not that much).\n \n -Mach", 
+   {}, 
+   194828, 
+   null, 
+   1160350080.0
+  ], 
+  [
+   234257, 
+   null, 
+   "georged", 
+   "Daewoo,\n \n Your first impression, to just use draws, is how I was advised from both attorneys and CPAs. Your other suggestion, to form a corporation, is also the advice I have gotten, of one wants to pay themselves via salary.\n \n Although, I heard of a new one last week that I have not looked into. A gent working as a consultant is incorporated, pays himself some minimum required salary that then allows him to in the end, pay himself through dividends, avoiding a big tax hit on most of his earnings (The minimum salary is apparently not that much).\n \n -Mach\n\n \n I'm assuming that as it pays dividends, it's a C corp. He's fooling himself into double taxation. Corporate income tax is paid on the earnings paid as dividends and then personal income tax on the dividends. In an audit he'd also face paying employment taxes from his low salary to salary disguised as dividends of up to whatever the max is these days.", 
+   {}, 
+   234196, 
+   null, 
+   1160407920.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  LLC taxation", 
+  "url": "http://www.4forums.com/political/economic-advice/7440-llc-taxation.html", 
+  "breadcrumbs": [
+   "Economic Advice"
+  ], 
+  "id_number": 7440, 
+  "discussion_files": [
+   [
+    "14707.html", 
+    "http://www.4forums.com/political/economic-advice/7440-llc-taxation-print.html"
+   ]
+  ], 
+  "identifier": 7440
+ }
+]

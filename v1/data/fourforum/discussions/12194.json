@@ -1,0 +1,185 @@
+[
+ [
+  [
+   339496, 
+   null, 
+   "Teleological", 
+   "An interesting article authored by Antoine Danchin from the Pasteur Institut was recently published and is sure to bring forth much discussion. :\n Bacteria as computers making computers\n The abstract:\n \nVarious efforts to integrate biological knowledge into networks of interactions have produced a lively microbial systems biology. Putting molecular biology and computer sciences in perspective, we review another trend in systems biology, in which recursivity and information replace the usual concepts of differential equations, feedback and feedforward loops and the like. Noting that the processes of gene expression separate the genome from the cell machinery, we analyse the role of the separation between machine and program in computers. However, computers do not make computers. For cells to make cells requires a specific organization of the genetic program, which we investigate using available knowledge. Microbial genomes are organized into a paleome (the name emphasizes the role of the corresponding functions from the time of the origin of life), comprising a constructor and a replicator, and a cenome (emphasizing community-relevant genes), made up of genes that permit life in a particular context. The cell duplication process supposes rejuvenation of the machine and replication of the program. The paleome also possesses genes that enable information to accumulate in a ratchet-like process down the generations. The systems biology must include the dynamics of information creation in its future developments.\n\n The quantum teleportation experiments have demonstrated that information can be viewed as a fundamental irreducible property of physics (informationalism). Information in the sense that energy supervenes on information. Energy is understood to be the ultimate foundation of all matter in this universe. From Einstein's equation, E=mc^2, all matter was ultimately created out of energy, and is theoretically reducible to energy. From there it can also be derived that time comes to complete stop at the speed of light. In addition, the first law of thermodynamics states that energy cannot be created or destroyed. The quantum teleportation experiments showed the entire information content (properties) of one photon can be teleported instantaneously onto another photon whereby the second photon assumes the complete identity of the first photon, while the first photon loses its complete identity. So from there, energy can be viewed to supervene on information, and information can be viewed as a fundamental category of Nature.\n \n Systems biology is moving in that same direction, as viewing cells as computers with machinery and software makes it possible to view information as a fundamental category of nature and all future developments of systems biology can include this concept when looking at cells.\n \n \n There are many interesting passages in this article. A few of these are going to be highlighted for discussion.\n \nHistorically, systems biology follows on from molecular biology, a science based on many concepts more closely linked to arithmetic and computation than to classical physics or chemistry. Molecular biology relies heavily on concepts such as 'control', 'coding' or 'information', which are at the heart of arithmetic and computation. To accept the cell as a computer conjecture first requires an exploration of the concept of information, in relation to the concept of genetic program.\n\n \n Cellular processes are exquisitely controlled and carried out by remarkable biomolecular machines. The software needed to coordinate these processes is located in a fairly optimal genetic code that is optimized for evolution and maintains its own functional integrity.\n \n \nThe Austrian mathematician Kurt Godel showed that arithmetic (the science of whole numbers) can make statements about itself. To substantiate this remarkable claim, which implies that just manipulating whole numbers with the rules of arithmetic can generate novel information, G\u00a8odel used a simple trick. He coded the words used in Number Theory as integers (e.g. four, which is quatre in French, vier in German and tessera in Greek, can be coded by 4) and used the corresponding code to translate propositions of arithmetic. This generated a large whole number, which could be manipulated by the rules of arithmetic, and after a sequence of operations, this manipulation generated another whole number. The latter could be decoded using the initial code. Godel's trick was to drive the sequence of operations modifying the initial statement, to lead to a very particular conclusion. When decoded, the manipulated sequence translated into a particular proposition, which, briefly, stated: 'I am impossible to prove'. In other words, arithmetic is incomplete, i.e. some propositions of arithmetic can be understood as valid; yet they cannot be proven within the frame of arithmetic. But this 'incompleteness' can also be seen as a positive feature; it is what allows the creation of new information - in Godel's case, the statement of a fact of which the world was previously unaware. In his book, Hofstadter showed that the genetic code, which enables the world of nucleic acids to be translated into the world of proteins, which in turn manipulate nucleic acids, behaves exactly as Godel's code does. This implies that manipulating strings of symbols, via a process that uses a code, can generate novel information. Of course, in the case of nucleic acids and proteins, there is no Godel to drive the process, and no need for one: while Godel knew what he was aiming at, living systems will accumulate information through recursivity, without any design being required. We only perceive a design because the end result is familiar to us, and thus seems more 'right' than any other possible result. But what we commonly term the 'genetic program' because it unfolds through time in a consistent manner is not a programme with an aim - it is merely there, and functions because it cannot do otherwise. \n\n \n Why can't the function of the program be to actively manipulate information as a means to an end... self-replication and preservation. Later in the article something similar to this is actually suggested:\n \n The reluctance of investigators to regard information as an authentic category of Nature suggests that, at this point in the present review of the literature, it may still be difficult for the reader to accept that a cell could behave as a computer. Indeed, what would the role of computation be in the process of evolution? We have already provided some elements of the answer to the question: Turing showed that the consequence of the process of computation along the lines he outlined is that his machine would be able to perform any conceivable operation of logic or computation by reading and writing on a data/program tape. Stated otherwise, and in a way that is easier to relate to biology, the machine manipulates information and, because arithmetic is incomplete [as illustrated in the introduction above (Hofstadter, 1979)], it is able to create information. The machine is therefore in essence unpredictable (Turing, 1936-1937), but not in a random way - quite the contrary, in a very interesting way, as lack of prediction is not due to lack of determinism, but due to a creative action that results in novel information. If the image is correct, then it shows that living organisms are those material systems that are able to manipulate information so as to produce unexpected solutions that enable them to survive in an unpredictable future (Danchin, 2003, 2008a).\n\n There we go, organisms can be viewed as entities that are able to manipulate information as a means to an end. Why would it be difficult to accept that cells to behave like computers? Yet, cells are capable of more than computers, e.g. self-replication and autonomous intentional manipulation of information.\n \n The article continues to discuss at length the parallels between our own created information processing systems (computers) and molecular processes fundamental to life. With more and more information being gathered on cellular mechanisms, cells can be seen as computers (machines expressing various programs), that are not only able to govern cellular processes needed to sustain the software, but also contains the necessary software and machinery to reproduce the computing machine while replicating its program.", 
+   {
+    "post_info": {
+     "post_title": "Machines that Make other Machines."
+    }, 
+    "unicode_changes_made": true
+   }, 
+   null, 
+   null, 
+   1231456320.0
+  ], 
+  [
+   339581, 
+   null, 
+   "The Barbarian", 
+   "Is is not an important thing to know, that one can make teleological thinking seem more reasonable in biology by thinking of biological systems as if they were something other than biological systems?\n \n ;)", 
+   {}, 
+   339496, 
+   null, 
+   1231512000.0
+  ], 
+  [
+   339590, 
+   null, 
+   "Teleological", 
+   "Is is not an important thing to know, that one can make teleological thinking seem more reasonable in biology by thinking of biological systems as if they were something other than biological systems?\n \n ;)\n\n Are we deluded about all the parallels? Or are these parallels real representations of biological systems?", 
+   {}, 
+   339581, 
+   null, 
+   1231515960.0
+  ], 
+  [
+   343220, 
+   null, 
+   "jakers", 
+   "An interesting article authored by Antoine Danchin from the Pasteur Institut was recently published and is sure to bring forth much discussion. :\n Bacteria as computers making computers\n The abstract:\n \n The quantum teleportation experiments have demonstrated that information can be viewed as a fundamental irreducible property of physics (informationalism). Information in the sense that energy supervenes on information. Energy is understood to be the ultimate foundation of all matter in this universe. From Einstein's equation, E=mc^2, all matter was ultimately created out of energy, and is theoretically reducible to energy. From there it can also be derived that time comes to complete stop at the speed of light. In addition, the first law of thermodynamics states that energy cannot be created or destroyed. The quantum teleportation experiments showed the entire information content (properties) of one photon can be teleported instantaneously onto another photon whereby the second photon assumes the complete identity of the first photon, while the first photon loses its complete identity. So from there, energy can be viewed to supervene on information, and information can be viewed as a fundamental category of Nature.\n \n Systems biology is moving in that same direction, as viewing cells as computers with machinery and software makes it possible to view information as a fundamental category of nature and all future developments of systems biology can include this concept when looking at cells.\n \n \n There are many interesting passages in this article. A few of these are going to be highlighted for discussion.\n \n \n Cellular processes are exquisitely controlled and carried out by remarkable biomolecular machines. The software needed to coordinate these processes is located in a fairly optimal genetic code that is optimized for evolution and maintains its own functional integrity.\n \n \n \n Why can't the function of the program be to actively manipulate information as a means to an end... self-replication and preservation. Later in the article something similar to this is actually suggested:\n \n There we go, organisms can be viewed as entities that are able to manipulate information as a means to an end. Why would it be difficult to accept that cells to behave like computers? Yet, cells are capable of more than computers, e.g. self-replication and autonomous intentional manipulation of information.\n \n The article continues to discuss at length the parallels between our own created information processing systems (computers) and molecular processes fundamental to life. With more and more information being gathered on cellular mechanisms, cells can be seen as computers (machines expressing various programs), that are not only able to govern cellular processes needed to sustain the software, but also contains the necessary software and machinery to reproduce the computing machine while replicating its program.\n\n \n WOW!! Another winner! Why were Teleological's posts essentially ignored? The guy's on fire!", 
+   {
+    "unicode_changes_made": true
+   }, 
+   339496, 
+   null, 
+   1234145340.0
+  ], 
+  [
+   343256, 
+   null, 
+   "The Barbarian", 
+   "Are we deluded about all the parallels? Or are these parallels real representations of biological systems?\n\n \n They are models. All models are defective in that they cannot model all aspects of the real system.\n \n It is more useful to think of biological systems as biological systems, than to think of them as computers. For obvious reasons.\n \n Indeed, the parallels run the other way. Engineers are beginning to realize that highly complex problems can be more easily solved by modeling them as biological systems undergoing natural selection.\n \n And, of course, there are no reasons why computers, if they were sufficiently well-developed, could not do what cells do, including self-replication. Von Neumann machines are perfectly possible given adequate technology.", 
+   {}, 
+   343220, 
+   null, 
+   1234158900.0
+  ], 
+  [
+   343770, 
+   null, 
+   "Teleological", 
+   "They are models. All models are defective in that they cannot model all aspects of the real system.\n \n It is more useful to think of biological systems as biological systems, than to think of them as computers. For obvious reasons.\n \n Indeed, the parallels run the other way. Engineers are beginning to realize that highly complex problems can be more easily solved by modeling them as biological systems undergoing natural selection.\n \n And, of course, there are no reasons why computers, if they were sufficiently well-developed, could not do what cells do, including self-replication. Von Neumann machines are perfectly possible given adequate technology.\n\n That cells are more capable at manipulating information than our own design really is interesting isn't it. But I think you are right, comparing cellular systems to our own measly designed computer systems could hamper discovering ever more intricate systems and codes in cells (e.g. epigenetic code). But there are parallels and they are VERY useful.\n \n In order to demonstrate the validity of viewing cells as computers that are able to manipulate information, consider the following finding.\n \n The Ribosome: Perfectionist Protein-maker Trashes Errors\n \n \nScienceDaily (Jan. 9, 2009) - The enzyme machine that translates a cell's DNA code into the proteins of life is nothing if not an editorial perfectionist.\n\n \n \nIt turns out, the Johns Hopkins researchers say, that the ribosome exerts far tighter quality control than anyone ever suspected over its precious protein products which, as workhorses of the cell, carry out the very business of life.\n \n \"What we now know is that in the event of miscoding, the ribosome cuts the bond and aborts the protein-in-progress, end of story,\" says Rachel Green, a Howard Hughes Medical Institute investigator and professor of molecular biology and genetics in the Johns Hopkins University School of Medicine. \"There's no second chance.\" Previously, Green says, molecular biologists thought the ribosome tightly managed its actions only prior to the actual incorporation of the next building block by being super-selective about which chemical ingredients it allows to enter the process.\n \n Because a protein's chemical \"shape\" dictates its function, mistakes in translating assembly codes can be toxic to cells, resulting in the misfolding of proteins often associated with neurodegenerative conditions. Working with bacterial ribosomes, Green and her team watched them react to lab-induced chemical errors and were surprised to see that the protein-manufacturing process didn't proceed as usual, getting past the error and continuing its \"walk\" along the DNA's protein-encoding genetic messages.\n \n \"We thought that once the mistake was made, it would have just gone on to make the next bond and the next,\" Green says. \"But instead, we noticed that one mistake on the ribosomal assembly line begets another, and it's this compounding of errors that leads to the partially finished protein being tossed into the cellular trash,\" she adds.\n\n \n So what is being monitored by the ribosome? Information. Material representations (amino acid sequence vs DNA sequence) of information. But, it does not only monitor it, it manipulates it as a means to an end... fidelity.\n \n \nTo their further surprise, the ribosome lets go of error-laden proteins 10,000 times faster than it would normally release error-free proteins, a rate of destruction that Green says is \"shocking\" and reveals just how much of a stickler the ribosome is about high-fidelity protein synthesis.\n \n \"These are not subtle numbers,\" she says, noting that there's a clear biological cost for this ribosomal editing and jettisoning of errors, but a necessary expense.\n \n \"The cell is a wasteful system in that it makes something and then says, forget it, throw it out,\" Green concedes. \"But it's evidently worth the waste to increase fidelity. There are places in life where fidelity matters.\"\n\n The ribosome is optimized to manipulate information for fidelity.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   343256, 
+   null, 
+   1234445400.0
+  ], 
+  [
+   343782, 
+   null, 
+   "trebor", 
+   "That cells are more capable at manipulating information than our own design really is interesting isn't it. But I think you are right, comparing cellular systems to our own measly designed computer systems could hamper discovering ever more intricate systems and codes in cells (e.g. epigenetic code). But there are parallels and they are VERY useful.\n \n In order to demonstrate the validity of viewing cells as computers that are able to manipulate information, consider the following finding.\n \n The Ribosome: Perfectionist Protein-maker Trashes Errors\n \n \n \n \n \n So what is being monitored by the ribosome? Information. Material representations (amino acid sequence vs DNA sequence) of information. But, it does not only monitor it, it manipulates it as a means to an end... fidelity.\n \n \n The ribosome is optimized to manipulate information for fidelity.\n\n \n \n Yes, it is amazing at the elegant solutions random variation followed by a selection processes will produce.. and no need for any 'intelligent design' to have an input into it.", 
+   {}, 
+   343770, 
+   null, 
+   1234453620.0
+  ], 
+  [
+   343783, 
+   null, 
+   "Teleological", 
+   "Yes, it is amazing at the elegant solutions random variation followed by a selection processes will produce.. and no need for any 'intelligent design' to have an input into it.\n\n If by \"intelligent design\" you mean intelligent cellular processes that are capable of harnessing random variation and selection to maintain homeostasis, sure, it is pretty impressive and intelligent ;).\n You can argue nano-intentional entities are pretty intelligent if you want :).", 
+   {}, 
+   343782, 
+   null, 
+   1234454640.0
+  ], 
+  [
+   344098, 
+   null, 
+   "The Barbarian", 
+   "That cells are more capable at manipulating information than our own design really is interesting isn't it.\n\n \n And useful. Engineers have found that abandoning \"design\" and using natural selection works better for many problems.\n \n \nBut I think you are right, comparing cellular systems to our own measly designed computer systems could hamper discovering ever more intricate systems and codes in cells (e.g. epigenetic code). But there are parallels and they are VERY useful.\n\n \n They are simply models, and as long as we remember that they are models, we aren't deluding ourselves.", 
+   {}, 
+   343783, 
+   null, 
+   1234722540.0
+  ], 
+  [
+   344113, 
+   null, 
+   "Teleological", 
+   "And useful. Engineers have found that abandoning \"design\" and using natural selection works better for many problems.\n \n Well, as you know by now, natural selection as a force is a vacuous concept ( I am sure you weren't implying it is ;)) and really does not do anything. If anything, scientists and engineers are embracing design by using selection and random variation as a means to an end, e.g. design. Take memetic algorithms. Beautifully designed programs that make use of the ideas of natural selection and random variation. And the striking thing is that parallels exist between our own designed programs employing memetic algorithms and the evolution of life. (See thread)\n So, to restate your sentence, I think it would be better to say that scientists and engineers are embracing design by making use of selection.\n \n \nThey are simply models, and as long as we remember that they are models, we aren't deluding ourselves.\n\n Of course, we must not compare our own measly designed models (like computers) to cellular mechanics and machinery. Somehow I think we can learn a lot more about the design in nature. Biomimicry.", 
+   {
+    "post_info": {
+     "post_title": "Biomimicry: Biologically Inspired Engineering"
+    }
+   }, 
+   344098, 
+   null, 
+   1234732740.0
+  ], 
+  [
+   344378, 
+   null, 
+   "The Barbarian", 
+   "Barbarian observes:\n And useful. Engineers have found that abandoning \"design\" and using natural selection works better for many problems.\n \n \nWell, as you know by now, natural selection as a force is a vacuous concept ( I am sure you weren't implying it is ) and really does not do anything.\n\n \n Engineers would have a good laugh over that one. Many engineering problems that can't be solved by design can be solved by natural selection. Would you like to learn about it? Natural selection is as effective in engineering as it is in nature.\n \n \nIf anything, scientists and engineers are embracing design by using selection and random variation as a means to an end, e.g. design.\n\n \n No design at all. In fact, they often don't even know exactly how some of the solutions work. A \"design\" without a designer seems a little weird, um?\n \n \nTake memetic algorithms. Beautifully designed programs that make use of the ideas of natural selection and random variation.\n\n \n Genetic algorithms. The programs are designed, but what they do is not; it is often completely unanticipated. In some cases, they have made use of effects not understood.\n \n \nSo, to restate your sentence, I think it would be better to say that scientists and engineers are embracing design by making use of selection.\n\n \n It seems you've redefined \"design\" to include \"not designed.\"\n \n Barbarian on trying to map designed artifacts onto non-designed things like cells:\n They are simply models, and as long as we remember that they are models, we aren't deluding ourselves.\n \n \nOf course, we must not compare our own measly designed models (like computers) to cellular mechanics and machinery. \n\n \n But we can map some of the non-designed things we produce by genetic algorithms onto living systems. For the obvious reasons. \n \n \nSomehow I think we can learn a lot more about the design in nature. \n\n \n If you study the issue, you find that most natural solutions don't work well for our purposes. You might read \"Life's Devices\" by Steven Vogel to learn why. \n \n \nBiomimicry.\n\n \n Ah, Velcro. What else?", 
+   {}, 
+   344113, 
+   null, 
+   1235021880.0
+  ], 
+  [
+   344406, 
+   null, 
+   "iangb", 
+   "Somehow I think we can learn a lot more about the design in nature. \n\n I read quite a while ago that IBM are basing part of their chip designs on snowflakes. Does that imply that snowflakes are 'designed'?", 
+   {}, 
+   344378, 
+   null, 
+   1235060820.0
+  ], 
+  [
+   354227, 
+   null, 
+   "Accipiter", 
+   "The idea that organisms are machines has been around for a while.\n \n It's even in the dictionary, see 2 a at the link below:\n \n machine - Definition from the Merriam-Webster Online Dictionary\n \n By definition in the English language you can be called a machine.\n \n Now that the cat is out of the bag I am sure the creationist will revise the dictionary for us.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   344406, 
+   null, 
+   1242664020.0
+  ], 
+  [
+   379770, 
+   null, 
+   "Butterworthd", 
+   "The real danger is what will happen to us. Are we important or raw materials? If we put telemetry equipment within our brains will we lose our words? If we put mechancal devices within our bodies do we lose our strength?", 
+   {}, 
+   354227, 
+   null, 
+   1258999740.0
+  ], 
+  [
+   379777, 
+   null, 
+   "Accipiter", 
+   "The real danger is what will happen to us. Are we important or raw materials? If we put telemetry equipment within our brains will we lose our words? If we put mechancal devices within our bodies do we lose our strength?\n\n \n Lots of people today have mechanical devices within their bodies like pacemakers.\n \n Others depend on external devices like hearing aids.\n \n If something were created to be installed in a human body and it did damage I am sure it would be pretty unpopular.", 
+   {}, 
+   379770, 
+   null, 
+   1259001540.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Machines that Make other Machines.", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/12194-machines-make-other-machines.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 12194, 
+  "discussion_files": [
+   [
+    "21038.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/12194-machines-make-other-machines-print.html"
+   ]
+  ], 
+  "identifier": 12194
+ }
+]

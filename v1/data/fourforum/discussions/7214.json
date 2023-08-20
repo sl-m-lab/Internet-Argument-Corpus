@@ -1,0 +1,138 @@
+[
+ [
+  [
+   188991, 
+   null, 
+   "DMick", 
+   "Is the result of red shift different to that of the Compton effect? How do you tell which one has happened?", 
+   {
+    "post_info": {
+     "post_title": "Red Shift"
+    }
+   }, 
+   null, 
+   null, 
+   1135992240.0
+  ], 
+  [
+   189076, 
+   null, 
+   "Kronus", 
+   "Is the result of red shift different to that of the Compton effect? How do you tell which one has happened?\n\n \n Very different. Red shift is caused when a light source moves away from you at a relatively high speed, \"strectching\" the wavelength of the light. It's the same effect that causes the pitch of a car's engine to sound idfferent as it drives towards, and then away from you. In the Compton effect light which has reflected off of something loses a small part of its energy to the thing it has bounced off of. Since light's energy and wavelength are releated, the change in energy gives a change in wavelength. As for how you know which is happening; red shift happens with quickly moving objects, and the Compton effect with reflected light. If you bounced light off of a moving object, you would get both.", 
+   {}, 
+   188991, 
+   null, 
+   1136040300.0
+  ], 
+  [
+   189087, 
+   null, 
+   "DMick", 
+   "I'm almost there with it. If you see an object but don't know that it is moving, can you tell by analysing the light and seeing if it is red shifted or not?", 
+   {
+    "post_info": {
+     "post_title": "Thank you"
+    }
+   }, 
+   189076, 
+   null, 
+   1136043180.0
+  ], 
+  [
+   189091, 
+   null, 
+   "Kronus", 
+   "I'm almost there with it. If you see an object but don't know that it is moving, can you tell by analysing the light and seeing if it is red shifted or not?\n\n \n Only if you know what color the light is supposed to be to begin with. For example, hydrogen atoms excited to a certain temperature should give off a specific wavelength of red. If you know you're looking at atoms like that, you can measure the wavelength you're seeing and that will tell you if the source is moving, and how fast. If you don't know what color the light is supposed to be then there's no way to tell if it's shifted or not.", 
+   {}, 
+   189087, 
+   null, 
+   1136044740.0
+  ], 
+  [
+   189141, 
+   null, 
+   "beervolcano", 
+   "Just to clear something up. \"Red shift\" just means a shift in wavelength toward lower frequency and longer wavelength (lower energy). It can be caused by many mechanisms, one of which is the Doppler Effect, which was being called redshift in this thread. Compton Scattering also causes redshift.", 
+   {}, 
+   189091, 
+   null, 
+   1136071680.0
+  ], 
+  [
+   189146, 
+   null, 
+   "DMick", 
+   "Thank you both. What are the other possible causes of red shift?", 
+   {}, 
+   189141, 
+   null, 
+   1136073420.0
+  ], 
+  [
+   189161, 
+   null, 
+   "Kronus", 
+   "Just to clear something up. \"Red shift\" just means a shift in wavelength toward lower frequency and longer wavelength (lower energy). It can be caused by many mechanisms, one of which is the Doppler Effect, which was being called redshift in this thread. Compton Scattering also causes redshift.\n\n \n Is that in popular usage? I've never heard red shift used to refer to anything other than the Doppler effect. You're technically correct of course, I just wonder where you've heard the term actually used to refer to anything other than Doppler.", 
+   {}, 
+   189141, 
+   null, 
+   1136083500.0
+  ], 
+  [
+   189354, 
+   null, 
+   "DMick", 
+   "Is the Doppler effect on light dependent on the direction of travel or angle of travel relative to the observer?", 
+   {}, 
+   189161, 
+   null, 
+   1136205960.0
+  ], 
+  [
+   189362, 
+   null, 
+   "Kronus", 
+   "Is the Doppler effect on light dependent on the direction of travel or angle of travel relative to the observer?\n\n \n Yes. It's the same effect that makes the pitch of a car's engine seem to increase as it approaches you, and decrease as it moves away. As a light emiting source moves towards you it \"catches up\" a bit with the light its already emitted, so the wavelength is shorter and the light shifts towards blue. If its pulling away from you it shifts to the red. The speed its moving relative to you determines how much shift, so if something is moving straight away, at a certain speed, then you'll see more shift than if it's moving away at an angle.\n \n Google a bit on \"doppler effect\" and I'm sure you'll find a site with graphics that will make this all clear. This is definately one of those \"picture worth a thousand words\" topics.", 
+   {}, 
+   189354, 
+   null, 
+   1136215320.0
+  ], 
+  [
+   189462, 
+   null, 
+   "DMick", 
+   "Thanks, Kronos. Yes, I've been googling a lot on the subject and found a helpful animation at http://webphysics.davidson.edu/Applets/Examples_From_Others/doppler.html", 
+   {}, 
+   189362, 
+   null, 
+   1136242740.0
+  ], 
+  [
+   203832, 
+   null, 
+   "skybolt", 
+   "http://webphysics.davidson.edu/Applets/Examples_From_Others/doppler.html\n\n \n I had a problem understanding this as well, considering that the speed of light is constant (C). Mr. Paul Lutus answered my question in very clear terms, on another site. In part he pointed out that it's the wavefront arrival time that changes with the movement of either the emitter or the receiver, and that this is what causes the wave length to lengthen (red) or shorten (blue). While the wave length changes depending on the changing radial distance, the speed of the light wave remains constant. And as soon as the radial distance stops changing, the wave length change disappears, as well as any shift. He also explained that there is a \"cosmological\" Red/Blue shift, due to the expanding universe, the actual streaching of space between galaxies. In this case the wave length stretches due to space itself expanding.", 
+   {}, 
+   189462, 
+   null, 
+   1143185880.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Red Shift", 
+  "url": "http://www.4forums.com/political/science-math-debates/7214-red-shift.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 7214, 
+  "discussion_files": [
+   [
+    "27711.html", 
+    "http://www.4forums.com/political/science-math-debates/7214-red-shift-print.html"
+   ]
+  ], 
+  "identifier": 7214
+ }
+]

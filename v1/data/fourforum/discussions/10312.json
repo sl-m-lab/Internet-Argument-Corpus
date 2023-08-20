@@ -1,0 +1,154 @@
+[
+ [
+  [
+   281846, 
+   null, 
+   "wascallywabbit", 
+   "**\n \n http://www.sciencedaily.com/releases/2007/08/070828084425.htm", 
+   {
+    "post_info": {
+     "post_title": "More of EAM's heuristic evolution"
+    }
+   }, 
+   null, 
+   null, 
+   1188702180.0
+  ], 
+  [
+   281855, 
+   null, 
+   "chemist99a", 
+   "Obviously one would have to see what the researchers actually did in their simulations and I do not have access at this momemnt. However, I see nothing here which supports EAM at all. EAM only applies as I understand it to living organisms -not to computer simulations and only living organisms can tap the vital force. Its fairly well known that mixing up search stratigies in fixed goal optimization will often speed up the process, I see no reason why moving the opitmum around might not do the same. Anyway thanks for a heads up on this paper looks interesting.\n \n Ah there it is at PNAS free access to this one even though its recent:\n \n http://www.pnas.org/cgi/reprint/0611630104v1", 
+   {}, 
+   281846, 
+   null, 
+   1188703920.0
+  ], 
+  [
+   281856, 
+   null, 
+   "chemist99a", 
+   "FYI - everyones here is the articles abstract. Its PNAs so it will be short and compact paper.\n \n \n \nSimulations of biological evolution, in which computers are used to\n evolve systems toward a goal, often require many generations to\n achieve even simple goals. It is therefore of interest to look for\n generic ways, compatible with natural conditions, in which evolution\n in simulations can be speeded. Here, we study the impact of\n temporally varying goals on the speed of evolution, defined as the\n number of generations needed for an initially random population\n to achieve a given goal. Using computer simulations, we find that\n evolution toward goals that change over time can, in certain cases,\n dramatically speed up evolution compared with evolution toward\n a fixed goal. The highest speedup is found under modularly\n varying goals, in which goals change over time such that each new\n goal shares some of the subproblems with the previous goal. The\n speedup increases with the complexity of the goal: the harder the\n problem, the larger the speedup. Modularly varying goals seem to\n push populations away from local fitness maxima, and guide them\n toward evolvable and modular solutions. This study suggests that\n varying environments might significantly contribute to the speed\n of natural evolution. In addition, it suggests a way to accelerate\n optimization algorithms and improve evolutionary approaches in\n engineering.\n", 
+   {}, 
+   281855, 
+   null, 
+   1188704400.0
+  ], 
+  [
+   281858, 
+   null, 
+   "chemist99a", 
+   "Ah ha there you go. Moving the goal in a modular way DOES shorten the tajectory of the optimization. What seems to happen is that the evolving solution does not get trapped on local peaks but rather gets kicked off such peaks rather quickly so it can continue moving on the surface instead of wandering around the local peak. This is quite similar to what happens with non-linear regression methods which often \"converge\" to local minima and then have a very hard time crawling out as it were.\n \n To see what I am talking about see fighrel 5 of the paper at the link I posted.\n \n Now WW please tell me just what this has to do with your vaunted EAM theory. There is no vitality here, and an undirected Darwinian search for the fitness peak works here quite nicely. Indeed that was what was modeled rather than any directly directed environmental sensing. I don't see that the search was hurestic in any way. Perhaps you do and can point it out in the paper which you now have full access to.", 
+   {}, 
+   281856, 
+   null, 
+   1188705060.0
+  ], 
+  [
+   281927, 
+   null, 
+   "bertvan", 
+   "The vitality merely consists of an individual organism's ability to achieve modest change in response to internal and environmental challenges. Every organism displays such limited ability to adapt, change, heal, develop used organs and atrophy unused organs. The genome does not direct such adaptations; the organism does. If the adaptations are persistent over generations, the organism may incorporate them into its genome.", 
+   {}, 
+   281858, 
+   null, 
+   1188761340.0
+  ], 
+  [
+   281942, 
+   null, 
+   "chemist99a", 
+   "The vitality merely consists of an individual organism's ability to achieve modest change in response to internal and environmental challenges. Every organism displays such limited ability to adapt, change, heal, develop used organs and atrophy unused organs. The genome does not direct such adaptations; the organism does. If the adaptations are persistent over generations, the organism may incorporate them into its genome.\n\n \n Not according to the major proponent of EAM who posts here. Vitality is concieved as an external force of some sort which organisms can \"tap\" into. Absent vitality there is according to its proponents no way to achieve complexity of the scale that life exhibits. I'll let you two hash that one out since I know nothing of vitality as part of EAM theory beyond whats on the board. here.", 
+   {}, 
+   281927, 
+   null, 
+   1188776520.0
+  ], 
+  [
+   281951, 
+   null, 
+   "Peeling", 
+   "All this seems to be saying is that stochastic, empirically-filtered evolution progresses more quickly, and gives rise to more flexible solutions, if the criteria for success change rather than staying fixed. I, too, am puzzled as to what this has to do with EAM specifically.", 
+   {}, 
+   281942, 
+   null, 
+   1188781740.0
+  ], 
+  [
+   281956, 
+   null, 
+   "chemist99a", 
+   "All this seems to be saying is that stochastic, empirically-filtered evolution progresses more quickly, and gives rise to more flexible solutions, if the criteria for success change rather than staying fixed. I, too, am puzzled as to what this has to do with EAM specifically.\n\n \n Well I don't think it does have to do with EAM. As all biologists know the fitness optimia DO move rather often at least in small ways and many times in large ways. Its interesting to me that evolving toward a peak that is not stable is faster than towards a stable one! Its more real world you know. After all evolution only captures information about prior environments not necessarily the current one- unless of course nothing changes for many generations. It would appear that a mechanism like natural selection combined with effectively random variability would work BETTER in the real world than in theory - esp when the local maxima are not the global maximum and when the peaks are not truly sharp {long ridges in the fitness landscape which are sub-optimal result in non-linear searces in the operating point wandering about a lot and slow convergence down - A LOT}.\n \n For a fixed goal scientists/mathematicians have devised actual HURESTIC techniques like simulated annealing and empirical combinations of gradient and steepist descent (such as those used by Marquardt, Levenberg, Goldberg and similar) and there are more modern and more efficient techniques. Indeed if you have Xcel the help for optimizer gives you a good current method (or at least the refereces). But when people implement a GA type procedure its mostly based on random mutation - it runs slower than the analytical hurestics generally - but for some classes of problems its superior.\n \n I think we shall have to wait for an actual explanation from WW on this one to see what the relevance is. Holding breath:( :(", 
+   {}, 
+   281951, 
+   null, 
+   1188784740.0
+  ], 
+  [
+   281963, 
+   null, 
+   "wascallywabbit", 
+   "All this seems to be saying is that stochastic, empirically-filtered evolution progresses more quickly, and gives rise to more flexible solutions, if the criteria for success change rather than staying fixed. I, too, am puzzled as to what this has to do with EAM specifically.\n\n \n **\n Well, you disappoint me, peeling. I expect this sort deliberate blindness from the likes of chemist, but I thought that you would spot the word, 'goal', since it is repeated throughout the paper.\n \n The fact of 'goal' involvement in a series of events eliminates the 'non-directional string of disconnected anomalous events' that is simply, 'stochastic activity', and makes for an heuristic _process_.\n \n Besides being responsive [not 'selected'], dynamic, heuristic, astochastic, non-random, non-accidental, directional,\n and goal-directed, ie., productive and systematic, i.e., intelligent and volitional, i.e., EAM, there is no such thing as your, \"empirically-filtered\"(?!?), in the study, whatsoever. \n \n Nor does it exist in biology. There is such a thing as 'mechanical sorting', which includes 'mechanical filtering', but which only applies where and when bits of stuff [physics and chemistry] are separated into categories according to a _fixed physical/chemical standard/criterion_. Such a criterion is not found in biological survival/reproduction, and so pretending that biological survival and reproduction equates to passing noodles or boiled peas through a sieve, or gas or oil or air through a filter, and calling it \"Natural Selection\", is not only silly, it's a meretricious con game.", 
+   {}, 
+   281951, 
+   null, 
+   1188787500.0
+  ], 
+  [
+   281964, 
+   null, 
+   "chemist99a", 
+   "The fact of 'goal' involvement in a series of events eliminates the 'non-directional string of disconnected anomalous events' that is simply, 'stochastic activity', and makes for an heuristic _process_.\n\n \n Consider WW that even processes which lack direction or intention can fit the concept of hurestic with only a little squezzing, no directionality or intention is actually necessary. A hurestic process need not narrow the search. And in the paper you are quoting the process used was random mutation.\n \n \nMain Entry: 1heu&#183;ris&#183;tic\n Pronunciation: hyu-'ris-tik\n Function: adjective\n Etymology: German heuristisch, from New Latin heuristicus, from Greek heuriskein to discover; akin to Old Irish fo-f&#250;air he found\n : involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods <heuristic techniques< <a heuristic assumption<; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (as the evaluation of feedback) to improve performance <a heuristic computer program< \n\n \n And note well WW that under those definitional constraints RM with NS can also be considered heuristic even though its not directted by intelligence but rather its driven by indirect feed back about the state of the environment. The evaluation function being survival and reproduction of course.", 
+   {}, 
+   281963, 
+   null, 
+   1188788640.0
+  ], 
+  [
+   281966, 
+   null, 
+   "chemist99a", 
+   "Is NS empirical filtering? I have to say no because its not driven by intelligence. In artificial selection it is empirical though. Is NS filtering - of course it is, and WWs contention that the filter must have a perfectly constructed pass band is absurd. The NS filter need only be partially discriminatory not completely so. It generally will not have extremely sharp cutoffs one either side. Unless of course one is dealing with say antibiotic resistance at high antibiotic consentrations or some similar steep system.\n \n And there are all kinds of filters out there which do not deal with mechanical particles. Optical, electronic, mental etc. any device or process which passes inputs unequally can be considered a filter.", 
+   {}, 
+   281964, 
+   null, 
+   1188789300.0
+  ], 
+  [
+   281988, 
+   null, 
+   "Peeling", 
+   "Well, you disappoint me, peeling. I expect this sort deliberate blindness from the likes of chemist, but I thought that you would spot the word, 'goal', since it is repeated throughout the paper.\n\n \n You're insulting me again, WW. I think I might start to keep a tally :)\n \n The word 'goal' is here used to describe the success criteria by which variants are permitted to enter the next round of variation. The operation of the simulated organisms was deterministic, and I see no mention of the variation applied being non-stochastic. Given that the electronic 'organisms' themselves were deterministically simulated, and that the meta-goal of the experiment was to see what the effect of varying success criteria would be, not to produce successful 'creatures', it's very hard to see anywhere you could reasonably shoehorn EAM into the equation.\n \n \nThe fact of 'goal' involvement in a series of events eliminates the 'non-directional string of disconnected anomalous events' that is simply, 'stochastic activity', and makes for an heuristic _process_.\n.\n \n No, it doesn't. A lottery draw has the goal of deciding winners. That still doesn't make it a heuristic for finding them.\n \n \n there is no such thing as your, \"empirically-filtered\"(?!?), in the study, whatsoever. \n\n \n You mean apart from the deterministic filtering of the most successful variants according to their fulfilment of the current success criteria?\n \n \nNor does it exist in biology. There is such a thing as 'mechanical sorting', which includes 'mechanical filtering', but which only applies where and when bits of stuff [physics and chemistry] are separated into categories according to a _fixed physical/chemical standard/criterion_.\n\n \n Such as 'reproductive success'? It's no more abstract, no more the product of complex underlying factors, than the 'performance' or 'power usage' criteria applied to the filtering of stochastically-varied microchip designs. How come EAM gets away with a goal as vague as 'survive, thrive and reproduce', but the ToE isn't allowed to employ 'empirical reproductive success' as a filter?\n \n While we're on the subject of goals and intent, there's something I've been meaning to ask you for a while. You've said in the past that only intent matters, that what is happening is irrelevant and only why is important to our debate. \n \n Well, if that's the case, I was wondering if you could tell me how our observations of adaptation would differ - say in bacterial cultures - if the objective of mutational change was not to 'survive, thrive and reproduce'. I mean, you've previously accepted that the distribution of mutations - the range of variation explored - is statistically stochastic wrt to that goal (with a few seeming exceptions that we're discussing in another thread). Even under systemic hypermutation, this holds true. And the successful variants are observed to 'win out' empirically, through differential reproductive rates, yes? You've acknowledged that too, though you deride it as a meaningless and vacuous after-effect.\n \n So if the mutations are blind, and success is empirical, what exactly would we see differently if the mutagenic-level goal you infer were instead, say, the suicidal annihilation of the genome? Success would now be 'cell death', and the adaptive 'failures' would go on to produce the next generation of oblivion-seeking malcontents, but we wouldn't notice any difference in terms of what actually happened in the petri dish.\n \n Or what if the organisms are just bored, and doing it 'to entertain themselves' by shuffling the genetic deck? Would that difference in intent alter which organisms flourished and which did not?\n \n Or what if the organisms weren't mutating on purpose? How would that change which variants were helped by their genes and which were hindered?\n \n How, exactly, can you infer intent at the mutagenic level when the observed results would be the same no matter what the intent behind those modifications was?", 
+   {}, 
+   281963, 
+   null, 
+   1188816660.0
+  ], 
+  [
+   281990, 
+   null, 
+   "chemist99a", 
+   "The word 'goal' is here used to describe the success criteria by which variants are permitted to enter the next round of variation. The operation of the simulated organisms was deterministic, and I see no mention of the variation applied being non-stochastic. Given that the electronic 'organisms' themselves were deterministically simulated, and that the meta-goal of the experiment was to see what the effect of varying success criteria would be, not to produce successful 'creatures', it's very hard to see anywhere you could reasonably shoehorn EAM into the equation.\n\n \n And the only intent in the system originated from the researchers themselve who set the goals. The objects (which were non living) undergoing the search process were of course totally deterministic and without intelligence. In no way could any rational person attribute intelligence to the random search pattern they executed. Unless of course you wish to consider a string of 0s and 1s in a GA string as possing intelligence. Most certainly they should not partake of vitality as you claim biological organisms do. In fact the system is more akin to human directed plant breeding or dog breeding than to natural selection itself.", 
+   {}, 
+   281988, 
+   null, 
+   1188820380.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  More of EAM's heuristic evolution", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10312-more-eams-heuristic-evolution.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 10312, 
+  "discussion_files": [
+   [
+    "7721.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10312-more-eams-heuristic-evolution-print.html"
+   ]
+  ], 
+  "identifier": 10312
+ }
+]

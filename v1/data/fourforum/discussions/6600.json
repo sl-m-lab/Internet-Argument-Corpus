@@ -1,0 +1,680 @@
+[
+ [
+  [
+   169967, 
+   null, 
+   "Bassman", 
+   "OK, Same idea as Movie ABC's\n \n \n Another World", 
+   {
+    "post_info": {
+     "post_title": "Television ABC's"
+    }
+   }, 
+   null, 
+   null, 
+   1129075920.0
+  ], 
+  [
+   169968, 
+   null, 
+   "Ooaman", 
+   "Boston Legal", 
+   {}, 
+   169967, 
+   null, 
+   1129076040.0
+  ], 
+  [
+   169974, 
+   null, 
+   "Bassman", 
+   "Charlie's Angels", 
+   {}, 
+   169968, 
+   null, 
+   1129076760.0
+  ], 
+  [
+   169980, 
+   null, 
+   "Ooaman", 
+   "Dukes Of Hazzard", 
+   {}, 
+   169974, 
+   null, 
+   1129077060.0
+  ], 
+  [
+   169981, 
+   null, 
+   "Bassman", 
+   "Emergency!", 
+   {}, 
+   169980, 
+   null, 
+   1129077120.0
+  ], 
+  [
+   169982, 
+   null, 
+   "Ooaman", 
+   "Fact Or Fiction", 
+   {}, 
+   169981, 
+   null, 
+   1129077240.0
+  ], 
+  [
+   170006, 
+   null, 
+   "Bassman", 
+   "George Lopez Show", 
+   {}, 
+   169982, 
+   null, 
+   1129078500.0
+  ], 
+  [
+   170008, 
+   null, 
+   "Ooaman", 
+   "Happy Days", 
+   {}, 
+   170006, 
+   null, 
+   1129078620.0
+  ], 
+  [
+   170012, 
+   null, 
+   "Bassman", 
+   "In the Heat of the Night (Carrol O'Connor & Howard Rollins)", 
+   {}, 
+   170008, 
+   null, 
+   1129078980.0
+  ], 
+  [
+   170067, 
+   null, 
+   "Ooaman", 
+   "Joe Schmo 2", 
+   {}, 
+   170012, 
+   null, 
+   1129088880.0
+  ], 
+  [
+   170558, 
+   null, 
+   "Ooaman", 
+   "King Of The Hill", 
+   {}, 
+   170067, 
+   null, 
+   1129254540.0
+  ], 
+  [
+   170562, 
+   null, 
+   "Bassman", 
+   "Law & Order", 
+   {}, 
+   170558, 
+   null, 
+   1129255620.0
+  ], 
+  [
+   170601, 
+   null, 
+   "Ooaman", 
+   "Mutant X\n \n By the way, are Bassman and I the only ones who ever watch any television or is everyone waiting until we get further on through the letters?", 
+   {}, 
+   170562, 
+   null, 
+   1129263180.0
+  ], 
+  [
+   170624, 
+   null, 
+   "Master_Shake", 
+   "Night Stalker", 
+   {}, 
+   170601, 
+   null, 
+   1129270980.0
+  ], 
+  [
+   170633, 
+   null, 
+   "Matthew S", 
+   "OZ\n \n from HBO", 
+   {}, 
+   170624, 
+   null, 
+   1129276020.0
+  ], 
+  [
+   170634, 
+   null, 
+   "Matthew S", 
+   "Perfect Strangers \n \n On Abc", 
+   {}, 
+   170633, 
+   null, 
+   1129276080.0
+  ], 
+  [
+   170635, 
+   null, 
+   "Matthew S", 
+   "XXXXX as Folk\n \n On showtime", 
+   {}, 
+   170634, 
+   null, 
+   1129276200.0
+  ], 
+  [
+   170759, 
+   null, 
+   "Ooaman", 
+   "Rock Fest\n \n On VH-1 Classic", 
+   {}, 
+   170635, 
+   null, 
+   1129320060.0
+  ], 
+  [
+   170806, 
+   null, 
+   "Bassman", 
+   "Seinfeld emoticon_idea", 
+   {}, 
+   170759, 
+   null, 
+   1129334580.0
+  ], 
+  [
+   170810, 
+   null, 
+   "Ooaman", 
+   "That 70's Show", 
+   {}, 
+   170806, 
+   null, 
+   1129335120.0
+  ], 
+  [
+   171284, 
+   null, 
+   "OccamsRazor", 
+   "That 70's Show\n\n \n Darn it Ooaman, I was going to do Twin Peaks for T!", 
+   {}, 
+   170810, 
+   null, 
+   1129478640.0
+  ], 
+  [
+   171397, 
+   null, 
+   "Ooaman", 
+   "Darn it Ooaman, I was going to do Twin Peaks for T!\n\n You can still use it when we get back around to T the next time. I had one that I really, really wanted to use for Q... but Matthew S beat me to that. So now I have to wait until it get's back around to Q. Do you have one for U (or anyone for that matter?)\n By the way, what about shows that start with a number, would those go under the first letter of that number or would it go after Z as \"Other?\" (Like the cable companies, or at least mine, labels it as.) Or are numbered titles not allowed at all?", 
+   {}, 
+   171284, 
+   null, 
+   1129501800.0
+  ], 
+  [
+   171438, 
+   null, 
+   "Bassman", 
+   "Numbered titles are allowed. When you go to the next letter, the first letter of the number will serve as a reference. For example:\n \n 21 Jump St.\n \n \n U---------", 
+   {}, 
+   171397, 
+   null, 
+   1129515000.0
+  ], 
+  [
+   171684, 
+   null, 
+   "Ooaman", 
+   "Underdog\n \n Old school cartoon", 
+   {}, 
+   171438, 
+   null, 
+   1129577040.0
+  ], 
+  [
+   172261, 
+   null, 
+   "Ooaman", 
+   "V\n \n It was a sci-fi series that lasted for only about a year but I wanted to try to move this along.", 
+   {}, 
+   171684, 
+   null, 
+   1129753860.0
+  ], 
+  [
+   172296, 
+   null, 
+   "Phantos", 
+   "Where In The World Is Carmen Sandiego\n I think it was on PBS", 
+   {}, 
+   172261, 
+   null, 
+   1129764000.0
+  ], 
+  [
+   172743, 
+   null, 
+   "Ooaman", 
+   "X-Men Evolution\n \n It was a cartoon series on from 2000-2003.", 
+   {}, 
+   172296, 
+   null, 
+   1129911060.0
+  ], 
+  [
+   173507, 
+   null, 
+   "Ooaman", 
+   "The Young Indiana Jones Chronicles\n Sorry, got tired of waitng.", 
+   {}, 
+   172743, 
+   null, 
+   1130118480.0
+  ], 
+  [
+   173552, 
+   null, 
+   "zachvac", 
+   "Zack Files\n \n http://www.tv.com/the-zack-files/show/1695/summary.html&full_summary=1", 
+   {}, 
+   173507, 
+   null, 
+   1130131440.0
+  ], 
+  [
+   173558, 
+   null, 
+   "Master_Shake", 
+   "All In the Family", 
+   {}, 
+   173552, 
+   null, 
+   1130133780.0
+  ], 
+  [
+   173714, 
+   null, 
+   "Ooaman", 
+   "Back To The Future\n \n Cartoon based off of the movie.", 
+   {}, 
+   173558, 
+   null, 
+   1130191800.0
+  ], 
+  [
+   173728, 
+   null, 
+   "Bassman", 
+   "Cheers :)", 
+   {}, 
+   173714, 
+   null, 
+   1130193420.0
+  ], 
+  [
+   173746, 
+   null, 
+   "Master_Shake", 
+   "Dharma and Greg", 
+   {}, 
+   173728, 
+   null, 
+   1130196420.0
+  ], 
+  [
+   173802, 
+   null, 
+   "Ooaman", 
+   "Extreme Makeover: Home Edition\n \n There will be an episode with \"Weird Al\" on in November or December, then I'll watch it.", 
+   {}, 
+   173746, 
+   null, 
+   1130202120.0
+  ], 
+  [
+   174508, 
+   null, 
+   "Ooaman", 
+   "Fantasy Island\n \n (No matter who played the main charicter, they were both villians in Star Trek movies. Recardo Malntoban played Khan in Star Trek II and Malcom McDowell played Soran in Star Trek Generations. The remake to the original Fantasy Island was for 1 season in 98-99)", 
+   {}, 
+   173802, 
+   null, 
+   1130349600.0
+  ], 
+  [
+   176524, 
+   null, 
+   "soulwolf", 
+   "Goodtimes\n Hey hey hey.", 
+   {}, 
+   174508, 
+   null, 
+   1130955420.0
+  ], 
+  [
+   176526, 
+   null, 
+   "soulwolf", 
+   "Gunsmoke\n Old school western", 
+   {}, 
+   176524, 
+   null, 
+   1130955480.0
+  ], 
+  [
+   176576, 
+   null, 
+   "Master_Shake", 
+   "Happy Days", 
+   {}, 
+   176526, 
+   null, 
+   1130959320.0
+  ], 
+  [
+   176590, 
+   null, 
+   "Ooaman", 
+   "I Dream Of Jeannie", 
+   {}, 
+   176576, 
+   null, 
+   1130962860.0
+  ], 
+  [
+   178475, 
+   null, 
+   "Ooaman", 
+   "Johnny Bravo\n Yeah, I know, another cartoon.", 
+   {}, 
+   176590, 
+   null, 
+   1131673080.0
+  ], 
+  [
+   180781, 
+   null, 
+   "Master_Shake", 
+   "Kenan and Kel\n \n Double points!", 
+   {}, 
+   178475, 
+   null, 
+   1132625520.0
+  ], 
+  [
+   180798, 
+   null, 
+   "Ooaman", 
+   "Lassie\n (A couple of versions on TV)", 
+   {}, 
+   180781, 
+   null, 
+   1132634640.0
+  ], 
+  [
+   180890, 
+   null, 
+   "Master_Shake", 
+   "Mad About You\n \n I miss that show.emoticon_cry", 
+   {}, 
+   180798, 
+   null, 
+   1132684920.0
+  ], 
+  [
+   181062, 
+   null, 
+   "Ooaman", 
+   "NOVA\n \n One of those science shows on PBS.", 
+   {}, 
+   180890, 
+   null, 
+   1132772700.0
+  ], 
+  [
+   181063, 
+   null, 
+   "JPSartre12", 
+   "NOVA\n \n One of those science shows on PBS.\n\n \n Over There. New FX series about soldiers in Iraq.", 
+   {}, 
+   181062, 
+   null, 
+   1132772940.0
+  ], 
+  [
+   181095, 
+   null, 
+   "Ooaman", 
+   "Pinky and the Brain", 
+   {}, 
+   181063, 
+   null, 
+   1132782240.0
+  ], 
+  [
+   181097, 
+   null, 
+   "Ooaman", 
+   "Quantum Leap\n \n \n \n Sorry, I've been waiting for this.", 
+   {}, 
+   181095, 
+   null, 
+   1132782300.0
+  ], 
+  [
+   181310, 
+   null, 
+   "JPSartre12", 
+   "Rawhide...for us old-timers", 
+   {}, 
+   181097, 
+   null, 
+   1132867320.0
+  ], 
+  [
+   181316, 
+   null, 
+   "Ooaman", 
+   "Star Trek Enterprise\n \n (Okay, the first two seasons, it was just called Enterprise. Then in the last two seasons, it was called Star Trek Enterprise.)", 
+   {}, 
+   181310, 
+   null, 
+   1132868940.0
+  ], 
+  [
+   181450, 
+   null, 
+   "Master_Shake", 
+   "Teenage Mutant Ninja Turtles\n \n Heroes in a half-shell. TURTLE POWER!!", 
+   {}, 
+   181316, 
+   null, 
+   1132948800.0
+  ], 
+  [
+   181659, 
+   null, 
+   "JPSartre12", 
+   "Teenage Mutant Ninja Turtles\n \n Heroes in a half-shell. TURTLE POWER!!\n\n \n Ultimate Fighting Challenge. There's nothing better than watching grown men pummel each other into unconsciousness on a big screen TV. :)", 
+   {}, 
+   181450, 
+   null, 
+   1133036040.0
+  ], 
+  [
+   181711, 
+   null, 
+   "Ooaman", 
+   "VH-1's Storytellers", 
+   {}, 
+   181659, 
+   null, 
+   1133045820.0
+  ], 
+  [
+   181717, 
+   null, 
+   "JPSartre12", 
+   "VH-1's Storytellers\n\n \n What's MY Line", 
+   {}, 
+   181711, 
+   null, 
+   1133046360.0
+  ], 
+  [
+   182450, 
+   null, 
+   "Ooaman", 
+   "X-Files\n Is a TV show that has too short of a name.", 
+   {}, 
+   181717, 
+   null, 
+   1133331420.0
+  ], 
+  [
+   187548, 
+   null, 
+   "Justawoman", 
+   "{The} Young And The Restless", 
+   {}, 
+   182450, 
+   null, 
+   1135354440.0
+  ], 
+  [
+   187621, 
+   null, 
+   "JPSartre12", 
+   "Zorro. Good show when I was a kid", 
+   {}, 
+   187548, 
+   null, 
+   1135371600.0
+  ], 
+  [
+   187639, 
+   null, 
+   "Ooaman", 
+   "Angel\n \n \n The Buffy spin-off", 
+   {}, 
+   187621, 
+   null, 
+   1135378380.0
+  ], 
+  [
+   187718, 
+   null, 
+   "Justawoman", 
+   "Black Adder", 
+   {}, 
+   187639, 
+   null, 
+   1135400880.0
+  ], 
+  [
+   187731, 
+   null, 
+   "JPSartre12", 
+   "Charlie's Angels", 
+   {}, 
+   187718, 
+   null, 
+   1135403640.0
+  ], 
+  [
+   195327, 
+   null, 
+   "Ooaman", 
+   "The Dana Carvey Show\n \n It really didn't last too long, unfortunately", 
+   {}, 
+   187731, 
+   null, 
+   1138503420.0
+  ], 
+  [
+   198081, 
+   null, 
+   "Justawoman", 
+   "Ed, Ed, and Eddy", 
+   {}, 
+   195327, 
+   null, 
+   1139842560.0
+  ], 
+  [
+   198097, 
+   null, 
+   "Ooaman", 
+   "Father Of The Pride", 
+   {}, 
+   198081, 
+   null, 
+   1139848380.0
+  ], 
+  [
+   198166, 
+   null, 
+   "Bassman", 
+   "Growing Pains", 
+   {}, 
+   198097, 
+   null, 
+   1139872080.0
+  ], 
+  [
+   198621, 
+   null, 
+   "Ooaman", 
+   "Highway To Heaven\n \n Has this been done yet?", 
+   {}, 
+   198166, 
+   null, 
+   1140060540.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Television ABC's", 
+  "url": "http://www.4forums.com/political/fun-debates/6600-television-abcs.html", 
+  "breadcrumbs": [
+   "Fun"
+  ], 
+  "id_number": 6600, 
+  "discussion_files": [
+   [
+    "1843.html", 
+    "http://www.4forums.com/political/fun-debates/6600-television-abcs-print.html"
+   ], 
+   [
+    "1844.html", 
+    "http://www.4forums.com/political/fun-debates/6600-television-abcs-5-print.html"
+   ], 
+   [
+    "1845.html", 
+    "http://www.4forums.com/political/fun-debates/6600-television-abcs-4-print.html"
+   ], 
+   [
+    "1846.html", 
+    "http://www.4forums.com/political/fun-debates/6600-television-abcs-3-print.html"
+   ], 
+   [
+    "1847.html", 
+    "http://www.4forums.com/political/fun-debates/6600-television-abcs-2-print.html"
+   ]
+  ], 
+  "identifier": 6600
+ }
+]

@@ -1,0 +1,108 @@
+[
+ [
+  [
+   244530, 
+   null, 
+   "georged", 
+   "I've been using Excel and Word from Office 2007 for a few weeks and personally like the changes, especially the interface features, no more custom tool bars required. IMO it's a keeper. \n \n I am wondering if Microsoft didn't wait too long to release such a dramatic change. Any IT director has to be apprehensive about what the new learning curve will do to production curves. At this time a converter is required for older versions to even read the new files.\n \n Any thoughts?", 
+   {
+    "post_info": {
+     "post_title": "Office 2007"
+    }
+   }, 
+   null, 
+   null, 
+   1166721180.0
+  ], 
+  [
+   244543, 
+   null, 
+   "Steeeeve", 
+   "Does it suck down resources like Vista? 2gb of RAM is the standard once that sucker comes out.", 
+   {}, 
+   244530, 
+   null, 
+   1166722920.0
+  ], 
+  [
+   244551, 
+   null, 
+   "georged", 
+   "Doesn't seem to and I've converted a couple of large spreads full of formulas and links, but I have it loaded on a desktop with XP Pro, Pentium dual processor, 2gb of ram and a decent video card with its own memory. \n \n That's another big consideration for corporate IT people, upgrading all work stations to 2gb of modern ram in going to Vista. A majority of those work stations are basic desktops that only hold 1gb of old ram with graphics on the MB. Added to the learning curve for Office 2007 some IT budgets will be stretched to upgrade, creating what I think will be a slow migration to Vista and Office 2007.\n \n For someone like myself who went from columnar pads to Lotus under DOS and hit the calc key before going to lunch, hoping a spreadsheet would be recalculated before I returned, all improvements are always welcome.", 
+   {}, 
+   244543, 
+   null, 
+   1166724720.0
+  ], 
+  [
+   244563, 
+   null, 
+   "daewoo", 
+   "I have not upgraded due to issues with backwards compatibility. I collaborate on several projects and can't be the odd man out who is using incompatible software that requires a file convertor. I know of several other people, including some IT managers, who have avoided it for the same reason. \n \n Obviously Microsoft is tryign to force upgrades by removing all backwards compatibility, but I think they have shot themselves in the foot there. Adoption of office 1007 is not off to a very good start. I expect to see an update on the office site for older version that will add support for office 2007files in short order.\n \n As far as Vista goes....I think they went a little overboard on that one. While all the new memory and processor intensive features are, I'm sure, great, they need to make them optional so you can run it on older hardware if they want to see a large market share in the business world. Most businesses are not, nor do they want ot be, on the cutting edge of technology. Typically you see thin clients all around, with workstations with an assumed 3-5 year lifespan for resource intensive applications. While there may me migration to Vista as the lifespan of those machines ends, I think it is more likely that IT managers will be formatting the drives on those new machines and installing XP in order to avoid having to support multiple operating systems (XP, being based on 2000, is supported JUST like 2000 in most places...Vista is entirely different, or supposed to be).\n \n I have a BIL who is in IT and his company is planning to switch to a linux distro as their workstations and servers are upgraded. Their thought process seems to be \"if we have to completely revamp our IT infrastructure for a new OS, it may as well be one that is free, powerful, and secure\".\n \n I can't say I blame them. While the microsoft business model of severely limiting backwards compatibility to force upgrades has served them well in the past, it seems to be falling down of late. Now that Linux has reached a point of maturity and is widely enough known to be practical for enterprise applications, there is actually a choice, and people seem to be choosing not to pay the microsoft upgrade tax every 3-5 years.", 
+   {}, 
+   244551, 
+   null, 
+   1166727060.0
+  ], 
+  [
+   244619, 
+   null, 
+   "georged", 
+   "They'll have to fix the conversion issue or face a flop.", 
+   {}, 
+   244563, 
+   null, 
+   1166752980.0
+  ], 
+  [
+   244628, 
+   null, 
+   "Symbiote", 
+   "I use openoffice instead of Office. (www.openoffice.org), its some kind of open source (free) software that essentially duplicates everything Office does, only it uses vastly fewer resources.\n \n I haven't been disappointed so far, and the price is right.", 
+   {}, 
+   244619, 
+   null, 
+   1166759640.0
+  ], 
+  [
+   244629, 
+   null, 
+   "daewoo", 
+   "I use openoffice instead of Office. (www.openoffice.org), its some kind of open source (free) software that essentially duplicates everything Office does, only it uses vastly fewer resources.\n \n I haven't been disappointed so far, and the price is right.\n\n \n I have been really impressed with open office of late. When I first tried it, it was lacking some functionality and had a few bugs that I could not live with (the windows version...the linux version has always been good). Recently I installed it on the machine I use as a CNC controller in my home shop, and they seem to have gotten the bugs worked out and it did not seem to be missing any features that office has (it even has many of the \"new\" features in office 2007...which makes me wonder who is leading who).\n \n I went with open office on that machine because it has a propreitary IO setup that I need for the CNC interface, but the processor is only a 1.2Ghz P3 and it only has 256mb of Ram. Office kept running out of resources. Open office does not have that problem...even with the minimal configuration I am running there.", 
+   {}, 
+   244628, 
+   null, 
+   1166760300.0
+  ], 
+  [
+   394438, 
+   null, 
+   "The Smart One", 
+   "I've been using Excel and Word from Office 2007 for a few weeks and personally like the changes, especially the interface features, no more custom tool bars required. IMO it's a keeper. \n \n I am wondering if Microsoft didn't wait too long to release such a dramatic change. Any IT director has to be apprehensive about what the new learning curve will do to production curves. At this time a converter is required for older versions to even read the new files.\n \n Any thoughts?\n\n \n emoticon_xdonnooffice 2007 is lame. get 2010 beta its awesome!", 
+   {
+    "post_info": {
+     "post_title": "2007! Hah"
+    }
+   }, 
+   244530, 
+   null, 
+   1268459220.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Office 2007", 
+  "url": "http://www.4forums.com/political/computers/9359-office-2007-a.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 9359, 
+  "discussion_files": [
+   [
+    "26069.html", 
+    "http://www.4forums.com/political/computers/9359-office-2007-a-print.html"
+   ]
+  ], 
+  "identifier": 9359
+ }
+]

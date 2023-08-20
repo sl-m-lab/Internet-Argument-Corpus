@@ -1,0 +1,64 @@
+[
+ [
+  [
+   175412, 
+   null, 
+   "georged", 
+   "This is for my weather station, mounted outside but sheltered from elements.\n Any recommendations appreciated.", 
+   {
+    "post_info": {
+     "post_title": "Wireless webcam recommendations"
+    }
+   }, 
+   null, 
+   null, 
+   1130638020.0
+  ], 
+  [
+   187890, 
+   null, 
+   "jim's trucking", 
+   "Be aware that others may use your wireless network...from a black van parked down the street!;)", 
+   {}, 
+   175412, 
+   null, 
+   1135482120.0
+  ], 
+  [
+   187891, 
+   null, 
+   "jim's trucking", 
+   "This is for my weather station, mounted outside but sheltered from elements.\n Any recommendations appreciated.\nThe sensors must be exposed to the elements. That's what they are meant to sense. The most accurate weather sensors are on towers above the surroundings...where their readings are unalterred by protective deflectors. Some stations come with a separate long cable from the windspeed indicator to the wireless transmitter. The rainfall guage must be located where wind effects will not starve or over-feed the gauge. \n \n How big 'a pole you got?", 
+   {}, 
+   175412, 
+   null, 
+   1135482360.0
+  ], 
+  [
+   187971, 
+   null, 
+   "georged", 
+   "The sensors must be exposed to the elements. That's what they are meant to sense. The most accurate weather sensors are on towers above the surroundings...where their readings are unalterred by protective deflectors. Some stations come with a separate long cable from the windspeed indicator to the wireless transmitter. The rainfall guage must be located where wind effects will not starve or over-feed the gauge. \n \n How big 'a pole you got?\n\n \n I was using a 20' mast on my hard wired system on flat, desert topography. New, wireless components will be separated; wind on a mast extending above roof chimney level and remainder on a short mast somewhat sheltered by the house. The new place is on a hill facing south, our weather normally moves South to North and SW to NE, so I don't anticipate variances due to shifting conditions caused by dwellings or such. \n \n I went with a USB connected webcam. Weather forum posters who had tried outdoor, wireless webcams stated they were continually knocked offline by atmospheric conditions. I also contacted our DOT managers responsible for the state network of weather and traffic cams, all hardwired, and the tech guy was very helpful regarding weather protection requirements. \n \n House telephones are 5.4Ghz, PC network 2.4 (802A and weather station at 802B). I've tested the weather station (still not installed) and found no signal conflicts with telephones or PC networks on a side-by-side basis.\n \n As to eavesdropping, that's not a concern. The weather station will be on the Internet tied into a national association, wide open to anyone who's interested. Once we get settled into the new place, my project will be connecting a digital camera to my telescope that will upload images to a PC that will allow me to view them on a screen and can FTP them to my weather site.", 
+   {}, 
+   187891, 
+   null, 
+   1135534140.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Wireless webcam recommendations", 
+  "url": "http://www.4forums.com/political/cameras/6723-wireless-webcam-recommendations.html", 
+  "breadcrumbs": [
+   "Cameras"
+  ], 
+  "id_number": 6723, 
+  "discussion_files": [
+   [
+    "23017.html", 
+    "http://www.4forums.com/political/cameras/6723-wireless-webcam-recommendations-print.html"
+   ]
+  ], 
+  "identifier": 6723
+ }
+]

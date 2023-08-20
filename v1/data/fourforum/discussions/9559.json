@@ -1,0 +1,431 @@
+[
+ [
+  [
+   250981, 
+   null, 
+   "TRIGGER", 
+   "You are called to serve on a jury. The case you here you have no doubt that the defendant is guilty of the crime accused of. The Judge remands the jury to the jury room to reach a verdict on the evidence presented in the trial. One thing that was not brought up in the trial was the constutionality of the law that the defendant is accused of. You in your heart know that this law is unconstitutional.", 
+   {
+    "post_info": {
+     "post_title": "A dilemma: What do you do?"
+    }
+   }, 
+   null, 
+   null, 
+   1171495740.0
+  ], 
+  [
+   250988, 
+   null, 
+   "sinjin", 
+   "You are called to serve on a jury. The case you here you have no doubt that the defendant is guilty of the crime accused of. The Judge remands the jury to the jury room to reach a verdict on the evidence presented in the trial. One thing that was not brought up in the trial was the constutionality of the law that the defendant is accused of. You in your heart know that this law is unconstitutional.\nIt is beyond the scope of your obligations to ponder the constitutionality aspect. Your heart can be wrong in any case.", 
+   {}, 
+   250981, 
+   null, 
+   1171498380.0
+  ], 
+  [
+   250990, 
+   null, 
+   "grammy", 
+   "I would send a message to the judge and ask if that is a consideration.", 
+   {}, 
+   250988, 
+   null, 
+   1171499040.0
+  ], 
+  [
+   250993, 
+   null, 
+   "Waxy", 
+   "It is beyond the scope of your obligations to ponder the constitutionality aspect. Your heart can be wrong in any case.\n\n \n What he said, only I'd go one step further and state that it's beyond the realm of your authority to ponder the constitutionality of the law in question. Your job is render a verdict in the case based on the evidence presented - nothing more, nothing less.\n \n Waxy", 
+   {}, 
+   250988, 
+   null, 
+   1171501920.0
+  ], 
+  [
+   250998, 
+   null, 
+   "Symbiote", 
+   "Legally, if you make a judgement based on a law's constitutionality or morality, nothing will happen to you.\n \n Morally, it is highly dubious to act blindly as agents of the status quo and convict someone who may have done no wrong.", 
+   {}, 
+   250993, 
+   null, 
+   1171504740.0
+  ], 
+  [
+   251000, 
+   null, 
+   "electrolyte", 
+   "One thing that was not brought up in the trial was the constutionality of the law that the defendant is accused of. You in your heart know that this law is unconstitutional.\n\n It is not the duty of a juror to make such a determination. If it's such a clear cut instance of unconstitutionality, then the defense will appeal and the conviction will be overturned. For a juror to attempt to skirt this process because s/he thinks that s/he knows better than the trained and experienced judges and attorneys is the height of arrogance and a threat to the judicial system. (Why have SCOTUS rulings and precedent when any Joe Schmo in the jury box can render it all moot?)", 
+   {}, 
+   250981, 
+   null, 
+   1171506600.0
+  ], 
+  [
+   251003, 
+   null, 
+   "TRIGGER", 
+   "This is a tough question to me at least. Is it not our duty to in a court of law to not only tri the defendant but to also scrutinize the law as well? If you know that the law is unconstutional should the law not go on trial to? If the defendant is convicted of an unjust law is it someone elses problem? I don't know but it seems unfair..", 
+   {}, 
+   251000, 
+   null, 
+   1171508580.0
+  ], 
+  [
+   251005, 
+   null, 
+   "electrolyte", 
+   "Is it not our duty to in a court of law to not only tri the defendant but to also scrutinize the law as well?\n\n It is not a juror's duty to scrutinize the law.\n \n \nIf the defendant is convicted of an unjust law is it someone elses problem?\n\n Quite the contrary; the defendant would then have standing to challenge the constitutionality of the law. That's how the system works. How many times do we have to tell you this?", 
+   {}, 
+   251003, 
+   null, 
+   1171513320.0
+  ], 
+  [
+   251013, 
+   null, 
+   "Jo Bennett", 
+   "I don't think jurors should slavishly interpret the law, they also have a duty to observe the principles of natural justice. It is on this basis that several juries have refused to convict Greenpeace activists involved in destroying GM crops in the UK.", 
+   {}, 
+   251005, 
+   null, 
+   1171538040.0
+  ], 
+  [
+   251014, 
+   null, 
+   "James", 
+   "This is a tough question to me at least. Is it not our duty to in a court of law to not only tri the defendant but to also scrutinize the law as well? If you know that the law is unconstutional should the law not go on trial to? If the defendant is convicted of an unjust law is it someone elses problem? I don't know but it seems unfair..\n\n \n The judge's job is to provide authoritative guidance on the scope and meaning of the law (or its constitutionality if that's an issue in the case).\n \n The juror's job is to reach a collective verdict based on rational deliberation - i.e. impartial consideration of the evidence.\n \n There is no dilemma.\n \n James.", 
+   {}, 
+   251003, 
+   null, 
+   1171538100.0
+  ], 
+  [
+   251030, 
+   null, 
+   "peteratwar", 
+   "The Jury's job is to decide the facts of what happened.\n \n The Judge tells them what the law is.\n \n It is irrelevant that the one or more members of the jury may believe the law to be wrong. That is not their function.\n \n If the defence believe that the jury were wrongly instructed as to the law then that is to be decided by an apellate court not by a jury", 
+   {}, 
+   251014, 
+   null, 
+   1171557900.0
+  ], 
+  [
+   251046, 
+   null, 
+   "daewoo", 
+   "WOW. Don't they have history classes wherever you guys went to school?\n \n What trigger is asking about here is the concept of jury nullification and it is right up there with habeus corpus as one of the cornerstones of our modern legal system. It has been around since the 12th century.\n \n If you look at our constitution, you will note that nowhere in there does it actually convey the power of detemination of constitutionality to the courts. The Supreme court basically declared that power was inferred. I am not about to argue against that.\n \n It would seem odd that the guys who drafted the constitution carefully planned a government, but did not include any means of forcing that government to obey that constitution. THEY DID. It was the whole \"trial by jury\" thing. At the time, it was assumed that when unconstitutional laws were passed, juries would refuse to convict defendants, which would essentially nullify the laws in question. A few quotes from our founders:\n \n \nI consider trial by jury as the only anchor yet imagined by man by which a government can be held to the principles of its constitution.\n \n -Thomas Jefferson\n\n \n \n\"It is not only his right but also his duty... to find the verdict according to his own best understanding, judgment, and conscience, though in direct opposition to the direction of the court.\"\n \n - John Adams\n\n \n \n\"It is presumed, that juries are the best judges of facts; it is, on the other hand, presumed that courts are the best judges of law. But still both objects are within your power of decision... you [juries] have a right to take it upon yourselves to judge of both, and to determine the law as well as the fact in controversy\".\n \n - John Jay (first Chief Justice of the Supreme Court)\n\n \n 4 of the signers of the Declaration of Independance were on the jury that found John Zenger not guilty despite the judges orders.\n \n Until 1895, it ws considered a requirement that judges instruct juries regarding their power of jury nullification. In a895, it was ruled that the judge was not REQUIRED to explain Jury nullification to the jury. The practice promptly ceased.\n \n In 1969, the question of jury nullification came up again in a federal court, and the power was again affirmed.\n \n Jury nullification has been a constant in our \"modern\" legal system since the 12 century. The first time anybody in the American legal system EVER disputed the right or power of a jury to nullify a law that was seen as unjust was 1997 when a manhattan appeals court ruled that jury nullification was inappropriate and that judges had the responsibility of removing jurrors who they felt might use that hundreds of year old power. \n \n So, 900 years of legal history in favor of jury nullification, and an entire thread of people is willing to argue that it is inappropriate? Are you people REALLY willing to have government employees whose livelyhood depends on government power deciding exactly what power that government has? I fjudges could actually be counted on to be impartial, we would not NEED jury trials. The whole idea would be a stupid waste of time. A single judge, educated in matters related to the law and evidence, would make a LOT more sense. \n \n We have jury trials because history has shown that judges tend to have a pro government bias (if anybody wants to debate this, please step up and be educated). The entire \"trial by jury\" portion of our legal system is based on that fact. The idea that we need jury trials, since judges tend to carry a pro government bias, but that jury nullification is inappropriate, and that the power to strike down laws should be reserved for those judges...who we already established have a pro government bias...is insane.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   251030, 
+   null, 
+   1171568880.0
+  ], 
+  [
+   251049, 
+   null, 
+   "Waxy", 
+   "WOW. Don't they have history classes wherever you guys went to school?\n \n What trigger is asking about here is the concept of jury nullification and it is right up there with habeus corpus as one of the cornerstones of our modern legal system. It has been around since the 12th century.\n \n If you look at our constitution, you will note that nowhere in there does it actually convey the power of detemination of constitutionality to the courts. The Supreme court basically declared that power was inferred. I am not about to argue against that.\n \n It would seem odd that the guys who drafted the constitution carefully planned a government, but did not include any means of forcing that government to obey that constitution. THEY DID. It was the whole \"trial by jury\" thing. At the time, it was assumed that when unconstitutional laws were passed, juries would refuse to convict defendants, which would essentially nullify the laws in question. A few quotes from our founders:\n \n \n \n \n \n \n \n 4 of the signers of the Declaration of Independance were on the jury that found John Zenger not guilty despite the judges orders.\n \n Until 1895, it ws considered a requirement that judges instruct juries regarding their power of jury nullification. In a895, it was ruled that the judge was not REQUIRED to explain Jury nullification to the jury. The practice promptly ceased.\n \n In 1969, the question of jury nullification came up again in a federal court, and the power was again affirmed.\n \n Jury nullification has been a constant in our \"modern\" legal system since the 12 century. The first time anybody in the American legal system EVER disputed the right or power of a jury to nullify a law that was seen as unjust was 1997 when a manhattan appeals court ruled that jury nullification was inappropriate and that judges had the responsibility of removing jurrors who they felt might use that hundreds of year old power. \n \n So, 900 years of legal history in favor of jury nullification, and an entire thread of people is willing to argue that it is inappropriate? Are you people REALLY willing to have government employees whose livelyhood depends on government power deciding exactly what power that government has? I fjudges could actually be counted on to be impartial, we would not NEED jury trials. The whole idea would be a stupid waste of time. A single judge, educated in matters related to the law and evidence, would make a LOT more sense. \n \n We have jury trials because history has shown that judges tend to have a pro government bias (if anybody wants to debate this, please step up and be educated). The entire \"trial by jury\" portion of our legal system is based on that fact. The idea that we need jury trials, since judges tend to carry a pro government bias, but that jury nullification is inappropriate, and that the power to strike down laws should be reserved for those judges...who we already established have a pro government bias...is insane.\n\n \n Interesting dissertation, but what then is the role of the lawyers involved, and the court itself? Is the jury supposed to act as the prosecuting and defense lawyers as well?\n \n I agree that the citizens should be heard regarding the constitution. I would disagree that a criminal trial by jury is the place for it. I'm not an expert on the US legal system, but it would seem to me that the mechanism is in place to interpret the constitution through the appointed, though ultimately elected, judges and lawyers of the courts. \n \n I can see the potential for abuse by gov't, and you definitely don't have to prove it for my sake, I've witnessed it, but IMHO, that is up to the voter to correct, using the system, or perhaps, by improving the system itself.\n \n What I see as being a problem in this case, or any similar case, is the interpretation of the constitution by those with little or no knowledge of it, or any legal education for that matter, overriding the courts, and in this case and I suspect most, the evidence in the case itself, based on \"knowing in their heart\". \n \n That scares the bejeezes out of me.\n \n Waxy", 
+   {}, 
+   251046, 
+   null, 
+   1171570980.0
+  ], 
+  [
+   251057, 
+   null, 
+   "sinjin", 
+   "I too found the history lesson fascinating although I wonder if jury nullification is a force for good in our society. It did afterall free O.J.", 
+   {}, 
+   251049, 
+   null, 
+   1171574520.0
+  ], 
+  [
+   251058, 
+   null, 
+   "Master_Shake", 
+   "I too found the history lesson fascinating although I wonder if jury nullification is a force for good in our society. It did afterall free O.J.\n\n Jury nullification didn't free OJ. They didn't let OJ go because they thought that a law against murder was unconstitutional. That's what jury nullification is about.", 
+   {}, 
+   251057, 
+   null, 
+   1171575780.0
+  ], 
+  [
+   251062, 
+   null, 
+   "daewoo", 
+   "Interesting dissertation, but what then is the role of the lawyers involved, and the court itself? Is the jury supposed to act as the prosecuting and defense lawyers as well?\n\n \n No, the prosecution is supposed to prosecute, the defense defends, the jury decides the case. The justice is essentially supposed to oversee the administrative tasks of the trial and ensure that everybody plays fair when it comes to things like rules of evidence. He also (in most cases) gets to hand out a penalty when the trial is over if the defendant is found guilty. The thing that the justice is NOT allowed to do during a jury trial is to JUDGE. \n \n \nI agree that the citizens should be heard regarding the constitution. I would disagree that a criminal trial by jury is the place for it. I'm not an expert on the US legal system, but it would seem to me that the mechanism is in place to interpret the constitution through the appointed, though ultimately elected, judges and lawyers of the courts. \n\n \n There are some pretty significant differences between the Canadian and US legal system that come into play when it comes to jury nullification. The biggest of these is that the US has a constitutional prohibition to double jeapordy. In canda, a prosecutor can appeal an acquital. This pretty much makes jury nullification a moot point in canada, since the jury can nullify and the prosecutor can just take it somewhere else. \n \n The other difference is that our constitution does not take a whole lot of interpetation. When the constitution was rolled out and they were trying to get it ratified, one of the primary selling points was that it \"will fit in your pocket and even a simpleton can understand it\". That was one of the major selling points of the constitution. When you see long, circular reasoning in court opinions regarding the constitutionality of an issue, what you are almost always reading is a bunch of BS that some judge came up with in order to find something constitutional that is very clearly NOT (back to that whole \"judges are biased towards the government\" thing). \n \n While there is some debate as to how the constitution should be interpeted, in all justice, the constitution can only be interpeted as it was understood by those who ratified it. The constitution was essentially a bargain cut, and the terms of the bargain were agreed by those who made it. If we want to change that bargain, the terms for doing so are contained right there in the text of the original agreement, and the folks who ratified it did so as a document that \"will fit in your pocket and even a simpleton can understand\".\n \n \nI can see the potential for abuse by gov't, and you definitely don't have to prove it for my sake, I've witnessed it, but IMHO, that is up to the voter to correct, using the system, or perhaps, by improving the system itself.\n\n \n And while you are working to improve the system itself, we just let unjustly imprisoned men die in jail when the jury that tried the case could have just as easily said \"No....I don't think so\" and let him go home to his family. tht seems a little unfair to me. \n \n In the end, a jury trial is of ZERO benifit to the government or society as a whole. The only person a jury trial is of value to is the one being charged. If a person is imprisoned unjustly and that fact spurs improvements to the system, the system has still FAILED, because the jsutice system is nto about providing catalyts for social changes, it is about dispensing justice. \n \n \nWhat I see as being a problem in this case, or any similar case, is the interpretation of the constitution by those with little or no knowledge of it, or any legal education for that matter, overriding the courts, and in this case and I suspect most, the evidence in the case itself, based on \"knowing in their heart\". \n \n That scares the bejeezes out of me\n\n \n Our constitution does not require a legal education to understand, and we are certainly not talking about overriding the courts. The courts have their function , and juries have theirs. Nobody is suggesting that a jury should be able to set national precedent aand have laws stricken from the books. That is the courts job.\n \n One of the big problems with simply leaving such things to the courts alone in the Us is our system of jurisprudence. We require that our courts use pre defined precedent in order to rule on unrelated cases. It is a very \"one size fits all\" approach to justice that leaves you not only having to defend your case, but argue every case that any higher court has ever heard. That is another problems that juries are supposed to solve...they insure that you get a trial based on the merits of the case in front of them, not any other.", 
+   {}, 
+   251049, 
+   null, 
+   1171579020.0
+  ], 
+  [
+   251063, 
+   null, 
+   "daewoo", 
+   "Jury nullification didn't free OJ. They didn't let OJ go because they thought that a law against murder was unconstitutional. That's what jury nullification is about.\n\n \n Typically, jury nullification refers to pretty much any time a jury refuses to convict despite the feeling that the individual is guilty of the crime in question. I don't know if the OJ case falls into that category or not because I don't know what the jury was thinking.\n \n We know that jury nullification DID lead to the release of 8 men in the south during the 40's, 50's, and 60's who were tried for killing black men. White juries were simply not willing to convict them.\n \n Then again, jury nullification also resulted in the release of over 1700 civil rights activists who were arrested and charged with various crimes. \n \n Jury nullification also resulted in the freeing of thousands of slaves because northern jurors were not willing to find them guilty of being escaped slaves, which would have resulted in them being shipped back to the south and to their owners. \n \n Jury nullification had a hand in the end of prohibition because juries were refusing to find people guilty of alcohol related offenses\n \n There is a very good chance that this country would not exist without jury nullification. Fully half the men who signed the declaration of independance were charged with various crimes prior to that point, and it was only the fact that juries refused to convict that kept them free. \n \n There are certainly cases where it has been used inappropriatly. Since it is pretty much our ONLY defense against a potentially tyranical government, giving it up based on those relatively few cases seems like a bad idea to me because at the end of the day, the judge and the prosecutor both get their paychecks from the same place, and the judge owes his livelyhood and every bit of power that he has to those folks who cut the checks.", 
+   {}, 
+   251058, 
+   null, 
+   1171579740.0
+  ], 
+  [
+   251071, 
+   null, 
+   "Waxy", 
+   "No, the prosecution is supposed to prosecute, the defense defends, the jury decides the case. The justice is essentially supposed to oversee the administrative tasks of the trial and ensure that everybody plays fair when it comes to things like rules of evidence. He also (in most cases) gets to hand out a penalty when the trial is over if the defendant is found guilty. The thing that the justice is NOT allowed to do during a jury trial is to JUDGE.\n\n \n I don't know all the facts in this particular case, as Trigger has left it purely hypothetical, but my impression of it is that this is exactly what the judge in this case has done. He has \"remanded the jury to the jury room to reach a verdict on the evidence presented in the trial\", he hasn't issued any decree as the the defendent's guilt, or in how to rule.\n \n In essence, Trigger is acting as the accused's defense attorney. Regardless of whether or not a constitutional issue has in fact been overlooked by the defense, that is a matter for appeal, not for an individual juror to decide.\n \n (As an aside, my guess is the \"Constitutional\" matter in this case has nothing to do with the Constitution, but rather individual moral beliefs, likely religiously based).\n \n \nThere are some pretty significant differences between the Canadian and US legal system that come into play when it comes to jury nullification. The biggest of these is that the US has a constitutional prohibition to double jeapordy. In canda, a prosecutor can appeal an acquital. This pretty much makes jury nullification a moot point in canada, since the jury can nullify and the prosecutor can just take it somewhere else. \n\n \n Agreed.\n \n I'm not exactly clear on what grounds the prosecutor in the US can refile the charge (if it can in fact be done), but correct me if I'm wrong, there are methods by which to re-open a case should new definitive evidence arise.\n \n \nThe other difference is that our constitution does not take a whole lot of interpetation. When the constitution was rolled out and they were trying to get it ratified, one of the primary selling points was that it \"will fit in your pocket and even a simpleton can understand it\". That was one of the major selling points of the constitution. When you see long, circular reasoning in court opinions regarding the constitutionality of an issue, what you are almost always reading is a bunch of BS that some judge came up with in order to find something constitutional that is very clearly NOT (back to that whole \"judges are biased towards the government\" thing). \n\n \n I agree and disagree.\n \n It SHOULD be a very simple document, however, it simply is not. The Constitution is interpreted everyday, both in an attempt to corrupt it, and out of necessity.\n \n A simpleton may be able to understand it, but how many average Americans would you say have even an elementary grasp of what is actually written in the Constitution, let alone the implications of it?\n \n \nWhile there is some debate as to how the constitution should be interpeted, in all justice, the constitution can only be interpeted as it was understood by those who ratified it. The constitution was essentially a bargain cut, and the terms of the bargain were agreed by those who made it. If we want to change that bargain, the terms for doing so are contained right there in the text of the original agreement, and the folks who ratified it did so as a document that \"will fit in your pocket and even a simpleton can understand\".\n\n \n No offense, but \"as it was understood by those who ratified it\" is rather meaningless. We have no real idea of the exact intent of those who ratified it, we can only interpret it based on what they have written. Nor do we know how they would react to the issues facing it today.\n \n \nAnd while you are working to improve the system itself, we just let unjustly imprisoned men die in jail when the jury that tried the case could have just as easily said \"No....I don't think so\" and let him go home to his family. tht seems a little unfair to me. \n \n \n I place the blame not with the jury, but with the defense, and to some extent, the prosecution as well. If a constitutional issue is truly involved, then it is the responsibility of both sides to recognize that issue and deal with it. If it slips through the cracks, that's where the appeal process comes in, and the right to the best possible defense.\n \n What good is the entire legal system, complete with the designed checks and balances, if a single juror has the ability to set legal precedence, regardless of legal foundation? You're placing the interpretation of the Constitution, or the law in general, in the hands of a single juror.\n \n \nIn the end, a jury trial is of ZERO benifit to the government or society as a whole. The only person a jury trial is of value to is the one being charged. If a person is imprisoned unjustly and that fact spurs improvements to the system, the system has still FAILED, because the jsutice system is nto about providing catalyts for social changes, it is about dispensing justice. \n\n \n The legal system fails, regularly, it's sad but true.\n \n However, it provides a constant and definitive source for dispensing justice, as established by the current legal code. IMHO, it is not within the scope of the individual juror to set legal precedence.\n \n \nOur constitution does not require a legal education to understand, and we are certainly not talking about overriding the courts. The courts have their function , and juries have theirs. Nobody is suggesting that a jury should be able to set national precedent aand have laws stricken from the books. That is the courts job.\n\n \n See my comment above about understanding the Constitution.\n \n That is exactly what Trigger is suggesting. He is suggesting ruling against the evidence presented in the case based on \"knowing in his heart\" that the case is unconstitutional, despite there being no mention of such issue during court proceedings. His choice in doing so would result in the setting of precedence in this case.\n \n \nOne of the big problems with simply leaving such things to the courts alone in the Us is our system of jurisprudence. We require that our courts use pre defined precedent in order to rule on unrelated cases. It is a very \"one size fits all\" approach to justice that leaves you not only having to defend your case, but argue every case that any higher court has ever heard. That is another problems that juries are supposed to solve...they insure that you get a trial based on the merits of the case in front of them, not any other.\n\n \n I don't see consistency in the application of the law, ie ruling based on precedent, as a negative, in fact, I see it as being quite the opposite.\n \n Each case is different, to some degree, and should be heard as such, but relying on past decisions and wisdom where applicable, is a good thing.\n \n Waxy", 
+   {}, 
+   251062, 
+   null, 
+   1171582320.0
+  ], 
+  [
+   251075, 
+   null, 
+   "Master_Shake", 
+   "Typically, jury nullification refers to pretty much any time a jury refuses to convict despite the feeling that the individual is guilty of the crime in question. I don't know if the OJ case falls into that category or not because I don't know what the jury was thinking.\n\n Ok, sorry. I was attributing more to it that was there.\n \n On another note, this is actually one of the most interesting discussions I've read on here in a while.", 
+   {}, 
+   251063, 
+   null, 
+   1171583100.0
+  ], 
+  [
+   251076, 
+   null, 
+   "Master_Shake", 
+   "I'm not exactly clear on what grounds the prosecutor in the US can refile the charge (if it can in fact be done), but correct me if I'm wrong, there are methods by which to re-open a case should new definitive evidence arise.\n\n The prosecutor can only refile based on new evidence if the case never went all the way through. What I mean is, if it went to trial and the jury acquited, it cannot be retried.\n If charges were filed, but it never went to trial, charges can be filed later if new evidence arises.", 
+   {}, 
+   251071, 
+   null, 
+   1171583340.0
+  ], 
+  [
+   251087, 
+   null, 
+   "TRIGGER", 
+   "Well I got you people talking which is the operation of the exercise. One thing that some of you may not know is that a law dosn't become a law until it goes on trial and someone is convicted. This is where jury nulification comes in to play where we the people are the final say in a law, if the jury comes to a consensus that the law is unfair hence jury nulification. This is were one of your most important decisions can be made to prevent the justice system from rolling over the innocent unjustly. The law is that you are innocet till proven guilty,but guilty of a law that is illegal? Should you ruin someones life with an illegal law and hope that it gets sorted out in appeal? Our founders said it's better to let ten guilty men to go free that to imprision one innocent man.", 
+   {}, 
+   251076, 
+   null, 
+   1171585440.0
+  ], 
+  [
+   251090, 
+   null, 
+   "Waxy", 
+   "Well I got you people talking which is the operation of the exercise. One thing that some of you may not know is that a law dosn't become a law until it goes on trial and someone is convicted. This is where jury nulification comes in to play where we the people are the final say in a law, if the jury comes to a consensus that the law is unfair hence jury nulification. This is were one of your most important decisions can be made to prevent the justice system from rolling over the innocent unjustly. The law is that you are innocet till proven guilty,but guilty of a law that is illegal? Should you ruin someones life with an illegal law and hope that it gets sorted out in appeal? Our founders said it's better to let ten guilty men to go free that to imprision one innocent man.\n\n \n A law that is illegal? Please explain and provide a concrete example.\n \n Outdated, unworkable, unpopular maybe, but illegal is a stretch.\n \n As to the highlighted portion - your initial post has little if anything to with this, you've completely shifted the goalposts. A jury conscensus on enforcing the law in question based on concrete objections is a far cry from an individual juror causing a mistrial trial due to \"what's in his heart\" despite evidence presented to the contrary.\n \n You've set up a completely false scenario in order to preach your point. For future reference, I'm not a fan of the bait and switch. \n \n Waxy", 
+   {}, 
+   251087, 
+   null, 
+   1171586940.0
+  ], 
+  [
+   251094, 
+   null, 
+   "Master_Shake", 
+   "I don't think Trigger is moving the goalposts here. This is what is being discussed.", 
+   {}, 
+   251090, 
+   null, 
+   1171588860.0
+  ], 
+  [
+   251098, 
+   null, 
+   "Steeeeve", 
+   "Legally, if you make a judgement based on a law's constitutionality or morality, nothing will happen to you.\n \n Morally, it is highly dubious to act blindly as agents of the status quo and convict someone who may have done no wrong.\n\n \n Huh? Where did you get this idea from?", 
+   {}, 
+   250998, 
+   null, 
+   1171593900.0
+  ], 
+  [
+   251099, 
+   null, 
+   "Steeeeve", 
+   "Well I got you people talking which is the operation of the exercise. One thing that some of you may not know is that a law dosn't become a law until it goes on trial and someone is convicted. \n what country are you from? A law is a law long before someone goes on trial. A judge and jury doesn't confirm the law or sign it into act.", 
+   {}, 
+   251087, 
+   null, 
+   1171594020.0
+  ], 
+  [
+   251113, 
+   null, 
+   "TRIGGER", 
+   "what country are you from? A law is a law long before someone goes on trial. A judge and jury doesn't confirm the law or sign it into act.\n\n \n I think you should chk in to that. Until someone takes the fall for a law it hasn't passed muster. It hasn't been tested as to it's constutionality or wheather it is a just law. The first time anyone is tried for a new law even though it is on the books is the test. Jury nulification...\n \n Example: How about the new law saying basicaly that eminent domain is no longer just for taking of private property for public use but can now be taken for private use. Taken buy the state, city or town and turned over to a private contractor to improve the property. A new way of rasing taxes by rasing the property value. Would you say this is a just or constitutional law? The Supreme Court did...\n Do you think think a court of 9 should be able to have the last word? I don't. Their opinion has yet to pass through the justice system. No one body is infallible.", 
+   {}, 
+   251099, 
+   null, 
+   1171601640.0
+  ], 
+  [
+   251126, 
+   null, 
+   "E Mutz", 
+   "There are two interesting questions here: Trigger suggests that a law is not constitutional or otherwise until it has been broken and tested. I do not believe that is necessarily the case as I believe one need only demonstrate that one's constitutional rights have been impacted. Consider the case involving the pledge of allegiance. An atheist challenged the constitutionality of the one nation \"under God\" portion of the pledge. Now, the Atheist was not jailed or convicted of NOT saying the pledge, he merely attempted to demonstrate how his constitutional rights were impacted by the law. There are any number of constitutional matters which do not require legal transgression to get a hearing before the SCOTUS.\n \n On the matter of legality vs constitutionality, as a thinking, reasoning individual, I can intellectually reconcile the disparity in my personal belief in a just law with an impartial ruling of whether said law was broken. I offer the People vs the idiot at the Checkout Aisle. As a juror in the case, I am charged with determining based upon the evidence whether the accused did, beyond a shadow of a doubt, bring more than 10 items to the 10 items or less aisle. I am not concerned whether people SHOULD be able to bring more than 10 items. My emotional response to XXXXXX who bring enough items to mount an expedition up the Amazon then stand in front of me with my one cantaloupe and magazine at the 10-items-or-less aisle has no bearing on whether or not the idiot did or did not commit the act. What I THINK is irrelevant. What he DID is paramount.", 
+   {
+    "post_info": {
+     "post_title": "A Humdrum Conundrum"
+    }, 
+    "unicode_changes_made": true
+   }, 
+   251113, 
+   null, 
+   1171605180.0
+  ], 
+  [
+   251133, 
+   null, 
+   "daewoo", 
+   "I don't know all the facts in this particular case, as Trigger has left it purely hypothetical, but my impression of it is that this is exactly what the judge in this case has done. He has \"remanded the jury to the jury room to reach a verdict on the evidence presented in the trial\", he hasn't issued any decree as the the defendent's guilt, or in how to rule.\n \n In essence, Trigger is acting as the accused's defense attorney. Regardless of whether or not a constitutional issue has in fact been overlooked by the defense, that is a matter for appeal, not for an individual juror to decide.\n \n (As an aside, my guess is the \"Constitutional\" matter in this case has nothing to do with the Constitution, but rather individual moral beliefs, likely religiously based).\n\n \n According to the current American legal system, a constitutional challenge can not be raised directly in a jury trial. Despite 900+ years of legal tradition, the fine judges in the US legal system decided in 1954 that cases with constitutional issues could not be heard by a jury. \n \n If this is indeed a case of individual religous beliefs, then it changes things. What it was presented as was a constitutional issue. \n \n \nI'm not exactly clear on what grounds the prosecutor in the US can refile the charge (if it can in fact be done), but correct me if I'm wrong, there are methods by which to re-open a case should new definitive evidence arise.\n\n \n A case can only be re-opened if it has not been tried. If a case goes to trial and the defendant is acquited, they can NOT be re-tried for the same crime regardless of any new facts that come to light.\n \n American prosecutors often slip around this by filing similar or related charges later. For example, a prosecutor may charge somebody with murder. A jury finds them not guilty, so the prosecutor goes back and charges them with conspiracy to commit murder and essentially re-tries the murder case, hoping for a more sympathetic jury. It is BS, but so is most of the rest of our legal system, so it fits right in. \n \n \n \nIt SHOULD be a very simple document, however, it simply is not. The Constitution is interpreted everyday, both in an attempt to corrupt it, and out of necessity.\n \n A simpleton may be able to understand it, but how many average Americans would you say have even an elementary grasp of what is actually written in the Constitution, let alone the implications of it\n\n \n You are talking about 2 different subjects here. The first is constitutional interpretation. The second is the fact that most Americans are XXXXXX who have no idea what is contained in the constitution. It was not long ago that somebody here was arguing that there were no constitutional issues at all when it comes to the suspension of habeas corpus because the constitution gives congress the power to suspend habeas corpus if they want for the public good. The constitution says no such thing. \n \n Constitutional interpretation should not be that hard. The constitution is a fairly simply written document. A lot of the legal wrangling that has gone on over the constitution is related to things like \"what is a \"reasonable\" search. The guys who wrote the constitution explained that. They left it fairly broad because what is \"reasonable\" is largely a function of circumstances. They counted on a jury to decide what is reasonable and what is not. Instead, since our judges have snatched away much of the juries power, they have given strict one size fits all solutions to the question of what is reasonable and what is not. \n \n If you look at early US supreme court decisions...pretty much anything up to the 30's, there is a surprising lack of precedent set when it comes to constitutional matters. More constitutional case law precedent has been set in the last 50 years was set prior to that time. You would think that there would have been a LOT of precedent set in the early years. The constitution was fairly new and there would (in theory) have been a lot of questions to answer regarding it. \n \n This was not the case. Most constitutional matters were essentially decided in the jury room. If jurors felt a search was unreasonable, they acquitted. If they felt a law was unjust, you walked. Maybe I am just being an idealist, but I personally would like to see some sembalance of justice return to our courtrooms. At one point, court was a fairly simple thing. People routinely represented themselves, and did just fine becuase it was basically about telling your story and letting the jury decide who was right and who was wrong.\n \n I was involved in a lawsuit a few year ago. I was the defendant, and I was RIGHT. I knew I was right. My attorney knew I was right. The Plantif and his attorney sat there in my attorneys conference room and admitted that I was right. My attorney advised me to settle because regardless of who is right, it would cost me more to fight it than to settle.\n \n He told me \"It does not matter who is right or who is wrong. There is no logic in the law, and if you are looking for justice, you will never find it in a courtroom...I can set you up with a guy who will give you all the justice you want for about 1/10 what I am charging you.\"\n \n That is what our legal system has become, and frankly it is because it is wholly controlled by a bunch of freaking lawyers who benifit from it being a complex mess where the amount of justice you get is directly tied to the amount of your attorneys bill.\n \n \nNo offense, but \"as it was understood by those who ratified it\" is rather meaningless. We have no real idea of the exact intent of those who ratified it, we can only interpret it based on what they have written. Nor do we know how they would react to the issues facing it today.\n\n \n Yes and no. While I think that there may be some vague areas as far as what those who ratified it meant by it, most of those areas are, IMO, purposefully vague becuase they are essentially dictated by the situation (such as the \"reasonable\" search and seizure example above). I think that we can be pretty damn sure that they did NOT mean for the power of congress to control interstate commerce to extend to drug free school zones. I think that you would have trouble finding 12 reasonable people who woudl convict somebody for growing wheat for personal use based on a law passed under the interstate commerce clause. The violence against women act is based on the interstate commerce clause. This stuff does not even pass the laugh test.\n \n \n \nI place the blame not with the jury, but with the defense, and to some extent, the prosecution as well. If a constitutional issue is truly involved, then it is the responsibility of both sides to recognize that issue and deal with it. If it slips through the cracks, that's where the appeal process comes in, and the right to the best possible defense.\n\n \n Again, if you want to raise a constitutional challenge, you forego your right to a jury. \n \n and, that should be \"the best possible defense you can pay for\" or \"the most justice you can buy\"\n \n \nWhat good is the entire legal system, complete with the designed checks and balances, if a single juror has the ability to set legal precedence, regardless of legal foundation? You're placing the interpretation of the Constitution, or the law in general, in the hands of a single juror.\n\n \n As did our founding fathers. As has every modern legal system in the last 900 years. In the US, with jury nullification, the citizen has control of the system. Without jusry nullification, we have virtually NONE. Our judges ar appointed, not elected, so it is not like we can just vote them out, and they are protected, so typically you are stuck with them unless they do something that is outright illegal. Given the pains that the guys who founded this country put into making sure that the citizen ultimatly has immediate control of all branches of government, it would seem a little odd that they would then put the judicial branch above the reach of the people by protecting appointed judges. Face it, protected, appointed judges is a recipe for totalitarianism no matter how you slice it. Fortunatly, they were not that foolish. They included jury trials, and with jury trials comes jusry nullification. There was no question of this in their minds, since the majority of them had counted on it or participated in it. \n \n \n \nThe legal system fails, regularly, it's sad but true.\n \n However, it provides a constant and definitive source for dispensing justice, as established by the current legal code. IMHO, it is not within the scope of the individual juror to set legal precedence.\n\n \n There is no justice in the courts. There is law. The two are not the same. We are not talking about jurors setting legal precedent. That is a silly idea that I would never support. We are talking about citizens taking direct responsibility for the legal system and for preservation of constitutional principals. We are talking about citiznes running the country as opposed to political appointees.\n \n \nI don't see consistency in the application of the law, ie ruling based on precedent, as a negative, in fact, I see it as being quite the opposite.\n \n Each case is different, to some degree, and should be heard as such, but relying on past decisions and wisdom where applicable, is a good thing.\n\n \n \n We had to pass an ammendment to our constituion to outlaw slavery because one of our sitting supreme courts ruled that to own another man did not infinge on his rights. Thanks to the concept of stare decisis (precedent), that decision was the end of the argument. Was the decision obviously a lod of XXXX for a bunch of jackasses who got together and formulated a neat bit of insane circualr logic? Without question. Still, in order to abolish slavery in this country, we had to pass a constitutional ammendment. Luckily, in the time it took to do that, thousands of slaves who made it north gained their freedom because northern juries were not shy about their responsibilities and power as citizen jurors. They recognized that allowing an injustice to be comitted in the name of the law did not make it any less evil.", 
+   {}, 
+   251071, 
+   null, 
+   1171611120.0
+  ], 
+  [
+   251164, 
+   null, 
+   "Waxy", 
+   "A case can only be re-opened if it has not been tried. If a case goes to trial and the defendant is acquited, they can NOT be re-tried for the same crime regardless of any new facts that come to light.\n \n American prosecutors often slip around this by filing similar or related charges later. For example, a prosecutor may charge somebody with murder. A jury finds them not guilty, so the prosecutor goes back and charges them with conspiracy to commit murder and essentially re-tries the murder case, hoping for a more sympathetic jury. It is BS, but so is most of the rest of our legal system, so it fits right in. \n\n \n I find this aspect of the law a real difficult one.\n \n On one hand, I understand the need to protect the accused from malicious prosecution and harassment, but on the other hand, IMHO, in light of defnitive new evidence, especially given modern technological advances, the option to retry a defendent should be available.\n \n \nYou are talking about 2 different subjects here. The first is constitutional interpretation. The second is the fact that most Americans are XXXXXX who have no idea what is contained in the constitution. It was not long ago that somebody here was arguing that there were no constitutional issues at all when it comes to the suspension of habeas corpus because the constitution gives congress the power to suspend habeas corpus if they want for the public good. The constitution says no such thing. \n\n \n I'll admit that my own knowledge of the US Constitution is only rudimentary, but based on that understanding, IMHO, there is a great deal that must be interpreted, in fact, I would go as far as to say that the writers of the Constitution did a masterful job in writing it in such a manner that its scope was not definitive, but open to interpretation, and the inevitable unforseen changes in society. \n \n \nConstitutional interpretation should not be that hard. The constitution is a fairly simply written document. A lot of the legal wrangling that has gone on over the constitution is related to things like \"what is a \"reasonable\" search. The guys who wrote the constitution explained that. They left it fairly broad because what is \"reasonable\" is largely a function of circumstances. They counted on a jury to decide what is reasonable and what is not. Instead, since our judges have snatched away much of the juries power, they have given strict one size fits all solutions to the question of what is reasonable and what is not. \n\n \n I agree that defining what is reasonable should be a matter for the public to decide.\n \n \nIf you look at early US supreme court decisions...pretty much anything up to the 30's, there is a surprising lack of precedent set when it comes to constitutional matters. More constitutional case law precedent has been set in the last 50 years was set prior to that time. You would think that there would have been a LOT of precedent set in the early years. The constitution was fairly new and there would (in theory) have been a lot of questions to answer regarding it. \n \n This was not the case. Most constitutional matters were essentially decided in the jury room. If jurors felt a search was unreasonable, they acquitted. If they felt a law was unjust, you walked. Maybe I am just being an idealist, but I personally would like to see some sembalance of justice return to our courtrooms. At one point, court was a fairly simple thing. People routinely represented themselves, and did just fine becuase it was basically about telling your story and letting the jury decide who was right and who was wrong.\n\n \n I agree with you on this point for the most part. I believe there should be legal power with the people, and in this case, the jury.\n \n However, I still feel that a mechanism of maintaining some sort of consistency in the application of the law must be in place. If any jury is free to ignore previous case law, there can be no objective standard by which to apply the law. This opens up a whole can of worms, especially if you're trying to apply the law on a county, state, or federal level. \n \n No matter how you slice it, the system is vulnerable to corruption. Judges can be corrupt, there's no denying that, but so can juries, the fact a system can be corrupted is not sufficent reason to abandon the system. Case law and precedence provide an objective baseline on which to ensure the equal application of the law.\n \n \nI was involved in a lawsuit a few year ago. I was the defendant, and I was RIGHT. I knew I was right. My attorney knew I was right. The Plantif and his attorney sat there in my attorneys conference room and admitted that I was right. My attorney advised me to settle because regardless of who is right, it would cost me more to fight it than to settle.\n \n He told me \"It does not matter who is right or who is wrong. There is no logic in the law, and if you are looking for justice, you will never find it in a courtroom...I can set you up with a guy who will give you all the justice you want for about 1/10 what I am charging you.\"\n \n That is what our legal system has become, and frankly it is because it is wholly controlled by a bunch of freaking lawyers who benifit from it being a complex mess where the amount of justice you get is directly tied to the amount of your attorneys bill.\n\n \n You won't find a guy that agrees with you more on this point that I do. IMHO, the American legal system, while having some good aspects, is seriously messed up.\n \n It's a pretty common laughing point up here, the litigous attitudes and the frivolous lawsuits are particular amusing.\n \n \nYes and no. While I think that there may be some vague areas as far as what those who ratified it meant by it, most of those areas are, IMO, purposefully vague becuase they are essentially dictated by the situation (such as the \"reasonable\" search and seizure example above). I think that we can be pretty damn sure that they did NOT mean for the power of congress to control interstate commerce to extend to drug free school zones. I think that you would have trouble finding 12 reasonable people who woudl convict somebody for growing wheat for personal use based on a law passed under the interstate commerce clause. The violence against women act is based on the interstate commerce clause. This stuff does not even pass the laugh test.\n \n \n That's essentially my point, and I commented on it above. I think the framers were brilliantly vague in the wording where necessary, which allows the Constitution to \"evolve\" along with the country.\n \n \nAs did our founding fathers. As has every modern legal system in the last 900 years. In the US, with jury nullification, the citizen has control of the system. Without jusry nullification, we have virtually NONE. Our judges ar appointed, not elected, so it is not like we can just vote them out, and they are protected, so typically you are stuck with them unless they do something that is outright illegal. Given the pains that the guys who founded this country put into making sure that the citizen ultimatly has immediate control of all branches of government, it would seem a little odd that they would then put the judicial branch above the reach of the people by protecting appointed judges. Face it, protected, appointed judges is a recipe for totalitarianism no matter how you slice it. Fortunatly, they were not that foolish. They included jury trials, and with jury trials comes jusry nullification. There was no question of this in their minds, since the majority of them had counted on it or participated in it.\n \n \n You've made excellent points regarding jury nullification, and for the most part I agree with you.\n \n However, we've come a LONG was from the OP in this thread, on which I based my response.\n \n \nThere is no justice in the courts. There is law. The two are not the same. We are not talking about jurors setting legal precedent. That is a silly idea that I would never support. We are talking about citizens taking direct responsibility for the legal system and for preservation of constitutional principals. We are talking about citiznes running the country as opposed to political appointees.\n\n \n I think you're walking a pretty fine line with this paragraph. \n \n \nWe had to pass an ammendment to our constituion to outlaw slavery because one of our sitting supreme courts ruled that to own another man did not infinge on his rights. Thanks to the concept of stare decisis (precedent), that decision was the end of the argument. Was the decision obviously a lod of XXXX for a bunch of jackasses who got together and formulated a neat bit of insane circualr logic? Without question. Still, in order to abolish slavery in this country, we had to pass a constitutional ammendment. Luckily, in the time it took to do that, thousands of slaves who made it north gained their freedom because northern juries were not shy about their responsibilities and power as citizen jurors. They recognized that allowing an injustice to be comitted in the name of the law did not make it any less evil.\n\n \n Precedent can, and has been, overturned. It's dishonest to suggest otherwise. Precedence does not equate to a law being written in stone, it can be overturned or revised through the courts.\n \n The flip side is the number of juries that acquitted defendents of crimes which they were blatantly guilty of, especially crimes related to slaves and free blacks, because they \"knew in their hearts\" that it was the right thing to do.\n \n As I said, corruption and abuse of the system are not proof in and of themselves that the system is bad.\n \n Waxy", 
+   {}, 
+   251133, 
+   null, 
+   1171653120.0
+  ], 
+  [
+   251166, 
+   null, 
+   "Master_Shake", 
+   "On one hand, I understand the need to protect the accused from malicious prosecution and harassment, but on the other hand, IMHO, in light of defnitive new evidence, especially given modern technological advances, the option to retry a defendent should be available.\n\n The reason it should not be available, despite technogical advances, is that this leaves the accused WAY too open to being tried again and again until the prosecutor gets a conviction.", 
+   {}, 
+   251164, 
+   null, 
+   1171653960.0
+  ], 
+  [
+   251170, 
+   null, 
+   "Waxy", 
+   "The reason it should not be available, despite technogical advances, is that this leaves the accused WAY too open to being tried again and again until the prosecutor gets a conviction.\n\n \n I'm well aware of the reason for the law Master Shake, I thought that was pretty clearly stated in the paragraph you quoted. That doesn't change the reason for my objection to the law being the way it is.\n \n How do you reconcile someone obviously guilty given new evidence, being exempt from the law?\n \n Hypothetically, let's say new evidence was found that without a doubt proves O.J.'s guilt. You have no problem with him remaining a free man because there is no mechanism by which to revisit the case?\n \n I do have a problem with that. IMHO, there should be a mechanism in place to account for it, albeit one with stringent guidelines. Here's where a jury deciding on the merit of that evidence might come in..... \n \n Waxy", 
+   {}, 
+   251166, 
+   null, 
+   1171655280.0
+  ], 
+  [
+   251172, 
+   null, 
+   "Master_Shake", 
+   "I'm well aware of the reason for the law Master Shake, I thought that was pretty clearly stated in the paragraph you quoted. That doesn't change the reason for my objection to the law being the way it is.\n \n How do you reconcile someone obviously guilty given new evidence, being exempt from the law?\n \n Hypothetically, let's say new evidence was found that without a doubt proves O.J.'s guilt. You have no problem with him remaining a free man because there is no mechanism by which to revisit the case?\n \n I do have a problem with that. IMHO, there should be a mechanism in place to account for it, albeit one with stringent guidelines. Here's where a jury deciding on the merit of that evidence might come in..... \n \n Waxy\n\n That's why the burden is on the prosecutor to have enough evidence at the start. If they don't think they have enough evidence, they shouldn't be trying the case to begin with.\n \n Of course I would have a problem with OJ remaining a free man. I already do. But to me, it is not worth the almost certain abuse to be able to retry him or anyone else.", 
+   {}, 
+   251170, 
+   null, 
+   1171657320.0
+  ], 
+  [
+   251679, 
+   null, 
+   "peteratwar", 
+   "I'm well aware of the reason for the law Master Shake, I thought that was pretty clearly stated in the paragraph you quoted. That doesn't change the reason for my objection to the law being the way it is.\n \n How do you reconcile someone obviously guilty given new evidence, being exempt from the law?\n \n Hypothetically, let's say new evidence was found that without a doubt proves O.J.'s guilt. You have no problem with him remaining a free man because there is no mechanism by which to revisit the case?\n \n I do have a problem with that. IMHO, there should be a mechanism in place to account for it, albeit one with stringent guidelines. Here's where a jury deciding on the merit of that evidence might come in..... \n \n Waxy\n\n \n \n In UK under certain circumstances, people can be retried", 
+   {}, 
+   251170, 
+   null, 
+   1171879860.0
+  ], 
+  [
+   251708, 
+   null, 
+   "E Mutz", 
+   "It is possible to be retried in a manner of speaking. Recall the Rodney King trial. Police officers who beat Rodney King were acquitted of State charges. Following the acquittal, the officers were convicted in federal court of violating Mr. King's civil rights. \n \n I am still curious how Mr. King's civil rights were violated whilst Nicole Brown Simpsons were not...", 
+   {
+    "unicode_changes_made": true
+   }, 
+   251679, 
+   null, 
+   1171911540.0
+  ], 
+  [
+   251709, 
+   null, 
+   "Steeeeve", 
+   "I think you should chk in to that. Until someone takes the fall for a law it hasn't passed muster. It hasn't been tested as to it's constutionality or wheather it is a just law. The first time anyone is tried for a new law even though it is on the books is the test. Jury nulification...\n \n Example: How about the new law saying basicaly that eminent domain is no longer just for taking of private property for public use but can now be taken for private use. Taken buy the state, city or town and turned over to a private contractor to improve the property. A new way of rasing taxes by rasing the property value. Would you say this is a just or constitutional law? The Supreme Court did...\n Do you think think a court of 9 should be able to have the last word? I don't. Their opinion has yet to pass through the justice system. No one body is infallible.\n\n \n The point was that the law is still the law. The validity of it can be put into question though. \n \n Even so, can a jury declare the law unconstitutional or just say they will not convict this person of this unjust law?\n \n The jury nullification is a good power of the people but should not be abused to push some agenda. In the political climate of today the idea of what the constitution means is different from the time when this was going on. Back then the constitution was, in general, fairly static and understand. There was no \"living constitution\".", 
+   {}, 
+   251113, 
+   null, 
+   1171911540.0
+  ], 
+  [
+   251790, 
+   null, 
+   "TRIGGER", 
+   "The point was that the law is still the law. The validity of it can be put into question though. \n \n Even so, can a jury declare the law unconstitutional or just say they will not convict this person of this unjust law?\n \n The jury nullification is a good power of the people but should not be abused to push some agenda.In the political climate of today the idea of what the constitution means is different from the time when this was going on. Back then the constitution was, in general, fairly static and understand. There was no \"living constitution\". \n\n \n I would much rather the people abuse a power than the government or judiciary. The constitution is not a living document. if it were the government, judiciary or a minority of the people would be able to bend it and twist it to satisfy their agenda, that is a dangerious precedent to set. Your freedom hinges on that document would you realy want the governmet, courts or a minority of the people the power to bend it? That is why to ratify the constitution is a difficult process to prevent government, judiciary or a minority of the people from subjugating the freedom of the people of our nation. This is why we have a second amendment. If all else fails we have the tools to throw off the bonds of tyrany.", 
+   {}, 
+   251709, 
+   null, 
+   1171935780.0
+  ], 
+  [
+   252045, 
+   null, 
+   "Steeeeve", 
+   "I would much rather the people abuse a power than the government or judiciary. The constitution is not a living document. if it were the government, judiciary or a minority of the people would be able to bend it and twist it to satisfy their agenda, that is a dangerious precedent to set. Your freedom hinges on that document would you realy want the governmet, courts or a minority of the people the power to bend it?\nNow, I don't want the government to bend it and I agree the constitution is not \"living\". But many people do and this scares me that a jury of a few could dictate to us all. Again, I agree with jury nullification though....it just scares me with the climate of today :)\n \n \nThat is why to ratify the constitution is a difficult process to prevent government, judiciary or a minority of the people from subjugating the freedom of the people of our nation. This is why we have a second amendment. If all else fails we have the tools to throw off the bonds of tyrany.\nhere here", 
+   {}, 
+   251790, 
+   null, 
+   1172093100.0
+  ], 
+  [
+   252067, 
+   null, 
+   "TRIGGER", 
+   "Now, I don't want the government to bend it and I agree the constitution is not \"living\". But many people do and this scares me that a jury of a few could dictate to us all. Again, I agree with jury nullification though....it just scares me with the climate of today.\n\n \n Well for me jury nullification would have the consensus of the jury of twelve, this not as scary as you might think since if you get three people in one room they will all have a diffrent opinion.", 
+   {}, 
+   252045, 
+   null, 
+   1172102340.0
+  ], 
+  [
+   252893, 
+   null, 
+   "huckleberry", 
+   "You are called to serve on a jury. The case you here you have no doubt that the defendant is guilty of the crime accused of. The Judge remands the jury to the jury room to reach a verdict on the evidence presented in the trial. One thing that was not brought up in the trial was the constutionality of the law that the defendant is accused of. You in your heart know that this law is unconstitutional.\n\n \n The system allows for appeals based on unconstitutionality and for arguments of such to be brought up at trial. The jury plays a part and that part is not to act as attorney for the defense. The jury should stick with its role and let the system do what it is supposed to do. When jury members start playing attorney then the system breaks.", 
+   {}, 
+   250981, 
+   null, 
+   1172712720.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  A dilemma: What do you do?", 
+  "url": "http://www.4forums.com/political/civil-rights-debates/9559-dilemma-what-do-you-do.html", 
+  "breadcrumbs": [
+   "Civil Rights"
+  ], 
+  "id_number": 9559, 
+  "discussion_files": [
+   [
+    "1931.html", 
+    "http://www.4forums.com/political/civil-rights-debates/9559-dilemma-what-do-you-do-print.html"
+   ], 
+   [
+    "1932.html", 
+    "http://www.4forums.com/political/civil-rights-debates/9559-dilemma-what-do-you-do-3-print.html"
+   ], 
+   [
+    "1933.html", 
+    "http://www.4forums.com/political/civil-rights-debates/9559-dilemma-what-do-you-do-2-print.html"
+   ]
+  ], 
+  "identifier": 9559
+ }
+]

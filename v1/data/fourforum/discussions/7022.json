@@ -1,0 +1,134 @@
+[
+ [
+  [
+   184165, 
+   null, 
+   "zachvac", 
+   "This is a pretty simple question. I was wondering, if you flip a coin 176 times, what are the odds of getting heads 133 times or more. Now granted this wasn't a random thought. I was actually thinking someone in a football pool had gotten 133, but there were a ton of entries. So I was wonderinng what the odds were with random guessing of getting 133/176 right, but I also realized that I don't know how to do this.\n \n Can someone please explain the concept of how to figure this out? I could figure out the odds of getting 176 in a row, or 0/176 (both 1/2^176), or 1 or more, or 175 or less (both 1-(1/2^176)).\n \n But what about numbers in between? Is the only solution to write out all the possibilities and count? (this could be done on a computer faster, but I'm asking if there is an easier way just using math).\n \n Thanks.", 
+   {
+    "post_info": {
+     "post_title": "Probability"
+    }
+   }, 
+   null, 
+   null, 
+   1134103740.0
+  ], 
+  [
+   184191, 
+   null, 
+   "DamEtel", 
+   "I haven't worked with them in years, but I believe I can point you in the right direction: you can try looking up permutations and combinations as they relate to probability.", 
+   {}, 
+   184165, 
+   null, 
+   1134108240.0
+  ], 
+  [
+   184219, 
+   null, 
+   "GreenMtnBoy", 
+   "The probability of any one coin flip is 1/2. So in a perfect world, you would get heads 88 times, and tails 88 times. In your example of 133, the offset from perfect is 45. So the answer is .5^45. If you want in the form of 1 in X, simply divide that number into 1. \n \n The answer is 2.84217094304e-14\n or 1 in 35,184,372,088,837 (that's 35.2 trillion)", 
+   {}, 
+   184191, 
+   null, 
+   1134126540.0
+  ], 
+  [
+   184228, 
+   null, 
+   "Jo Bennett", 
+   "It's quite a long calculation, you need to do (0.5)^176 multiplied by the sum of the number of combinations possible for each proportion. ie you need to do n!/(n-r)!r! for n=133...176 and r=176-n and add them all up. I get about 3x1-^-12 for the probability of 133 or more \"successes\".", 
+   {}, 
+   184219, 
+   null, 
+   1134129960.0
+  ], 
+  [
+   184259, 
+   null, 
+   "Kronus", 
+   "The general formula for probablility is :\n \n P(x) = N! / [x! (N-x)! ] p^x (1-p)^(N-x)\n \n Where P is the total probability of success, N is the total number of trials, x is the total number of successes, and p is the probability of one success. So the odds of flipping heads 133 times out of 176 would be:\n \n P = 176! / [133! 43! ] .5^133 .5^43\n = a really small number.\n \n You wanted the odds of getting 133 or more heads. I don't know a general formula for that. You could use the above formula, changing x from 133 to 176, and add all the results. That would give you the answer you're looking for. If you want to check your answer use the same technique with x = 88. That should give you a final answer of 1/2.\n \n Edit:\n Did the math and got the same answer Jo did. 3.36 E -12, or about 1 in 297 billion. Interestingly, the odds of getting just 133 heads is about 1 in 434 billion. The odds of getting 133 or more aren't hugely better than the odds of getting just 133 heads.", 
+   {}, 
+   184228, 
+   null, 
+   1134147300.0
+  ], 
+  [
+   184447, 
+   null, 
+   "GreenMtnBoy", 
+   "http://www.stattrek.com/Tables/Binomial.aspx", 
+   {}, 
+   184259, 
+   null, 
+   1134240960.0
+  ], 
+  [
+   184660, 
+   null, 
+   "zachvac", 
+   "Thanks to everyone who replied. Can someone please explain to me why it works that way? I've looked around and haven't been able to find a web site to explain things in a way I can understand. I understand the probability of getting a certain amount in a row, but how does that equation work? I actually do remember learning that in the past, but it was always just \"memorize this, you'll learn why it works later\". Do I just need to wait even longer? Or can someone at least attempt to explain to me why it works.", 
+   {}, 
+   184447, 
+   null, 
+   1134367020.0
+  ], 
+  [
+   184661, 
+   null, 
+   "zachvac", 
+   "The probability of any one coin flip is 1/2. So in a perfect world, you would get heads 88 times, and tails 88 times. In your example of 133, the offset from perfect is 45. So the answer is .5^45. If you want in the form of 1 in X, simply divide that number into 1. \n \n The answer is 2.84217094304e-14\n or 1 in 35,184,372,088,837 (that's 35.2 trillion)\n\n \n You sure about that? That would mean the odds of getting \"perfect\" would be 1, or 100%. Furthermore say you flip a coin 4 times, the odds of getting 4 heads is 1/16. But... it's only 2 off perfect. .5^2 = .25.", 
+   {}, 
+   184219, 
+   null, 
+   1134367380.0
+  ], 
+  [
+   184678, 
+   null, 
+   "Jo Bennett", 
+   "Basically what you're doing is working out the probability of any one method of getting 133 heads and 35 tails, and then multiplying this by the total number of methods. So, you work out the probability of getting 133 heads followed by 35 tails, and then you multiply this by the number of ways you can arrange 133 heads and 35 tails. This is denoted 176C35 (or 176C133, the pattern is symmetric). This gives you the probability of getting 133 heads and 35 tails exactly. You can obviously repeat this to get the cumulative probability.", 
+   {}, 
+   184661, 
+   null, 
+   1134387960.0
+  ], 
+  [
+   184700, 
+   null, 
+   "Kronus", 
+   "You sure about that? That would mean the odds of getting \"perfect\" would be 1, or 100%. Furthermore say you flip a coin 4 times, the odds of getting 4 heads is 1/16. But... it's only 2 off perfect. .5^2 = .25.\n\n \n GreenMtnBoy's math is off somewhere.", 
+   {}, 
+   184661, 
+   null, 
+   1134403080.0
+  ], 
+  [
+   185383, 
+   null, 
+   "GreenMtnBoy", 
+   "My first post was basically nothing more than a guess.\n \n Follow the link in my second post. It has a calculator that will give you the correct answer.", 
+   {}, 
+   184700, 
+   null, 
+   1134645060.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Probability", 
+  "url": "http://www.4forums.com/political/science-math-debates/7022-probability.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 7022, 
+  "discussion_files": [
+   [
+    "27207.html", 
+    "http://www.4forums.com/political/science-math-debates/7022-probability-print.html"
+   ]
+  ], 
+  "identifier": 7022
+ }
+]

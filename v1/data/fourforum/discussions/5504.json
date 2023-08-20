@@ -1,0 +1,94 @@
+[
+ [
+  [
+   132090, 
+   null, 
+   "Duo_Maxwell", 
+   "What is the difference between SATA II and 150?", 
+   {
+    "post_info": {
+     "post_title": "SATA II &amp; 150"
+    }
+   }, 
+   null, 
+   null, 
+   1117755660.0
+  ], 
+  [
+   132119, 
+   null, 
+   "daewoo", 
+   "What is the difference between SATA II and 150?\n\n \n SATA/150 is a 150 MB/s maxiumum burst tranfer rate.\n \n SATA II is actually a comitee that wrote specifications.....what you are thinking of is the SATA II 3 GB/s maximum burst transfer rate protocall that they authored.\n \n In reality, you can expect more like 300 MB/s from sata II, unless you are ready to kick out some serious cash for MBs and drives/", 
+   {}, 
+   132090, 
+   null, 
+   1117759860.0
+  ], 
+  [
+   132226, 
+   null, 
+   "Duo_Maxwell", 
+   "The problem I'm having is that of the computers I own that have SATA capability, they don't specificy which.\n \n Would there be a problem if I had a 150 connection yet bought a II drive?", 
+   {}, 
+   132119, 
+   null, 
+   1117777200.0
+  ], 
+  [
+   132241, 
+   null, 
+   "daewoo", 
+   "The problem I'm having is that of the computers I own that have SATA capability, they don't specificy which.\n \n Would there be a problem if I had a 150 connection yet bought a II drive?\n\n \n Shouldn't be. The drive will just run at the lower speed. If they do not specify SATA II they are probably SATA 150. You pay extra for SATA II.", 
+   {}, 
+   132226, 
+   null, 
+   1117778460.0
+  ], 
+  [
+   132247, 
+   null, 
+   "Duo_Maxwell", 
+   "Shouldn't be. The drive will just run at the lower speed. If they do not specify SATA II they are probably SATA 150. You pay extra for SATA II.\n\n \n I really wish they'd document that. I can't find it anywhere. The motherboard manual just says SATA and the online documentation isn't any better.", 
+   {}, 
+   132241, 
+   null, 
+   1117778880.0
+  ], 
+  [
+   132273, 
+   null, 
+   "daewoo", 
+   "I really wish they'd document that. I can't find it anywhere. The motherboard manual just says SATA and the online documentation isn't any better.\n\n \n You are going to have a hard time finding a functional MB with SATA II, and unless you are running at least 3 processors there is no point since you cannot process that much data that quickly anyway. The exception would be a raid array in either stripiong or dual mode. A few Raid setups actualy support SATA II. Our server at work supports it, and it cost nearly $600 extra for true SATA II support. If your machine truly supports it and has the processing power to handle it, SATA II makes the machine noticably faster.", 
+   {}, 
+   132247, 
+   null, 
+   1117781880.0
+  ], 
+  [
+   132973, 
+   null, 
+   "Steeeeve", 
+   "well, they got dual core now emoticon_rolleyes \n \n \n anyway, I would say go with a Seagate SATA drive as those are without a doubt the best harddrives out there.", 
+   {}, 
+   132273, 
+   null, 
+   1117949220.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  SATA II & 150", 
+  "url": "http://www.4forums.com/political/computers/5504-sata-ii-150-a.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 5504, 
+  "discussion_files": [
+   [
+    "23559.html", 
+    "http://www.4forums.com/political/computers/5504-sata-ii-150-a-print.html"
+   ]
+  ], 
+  "identifier": 5504
+ }
+]

@@ -1,0 +1,186 @@
+[
+ [
+  [
+   139272, 
+   null, 
+   "99%BEEF", 
+   "Does anyone know of any good books or websites that teach how to calculate hand odds?\n \n Thanks.", 
+   {
+    "post_info": {
+     "post_title": "Poker odds"
+    }
+   }, 
+   null, 
+   null, 
+   1119305820.0
+  ], 
+  [
+   139474, 
+   null, 
+   "unkerpaulie", 
+   "5 random cards out of 52 means you have (52x51x50x49x48)/5! (5! is 5x4x3x2x1) = 2,598,960 possible starting hands", 
+   {
+    "post_info": {
+     "post_title": "combinations and permutations"
+    }
+   }, 
+   139272, 
+   null, 
+   1119363960.0
+  ], 
+  [
+   139490, 
+   null, 
+   "georged", 
+   "Does anyone know of any good books or websites that teach how to calculate hand odds?\n \n Thanks.\n\n \n Here's one:\n \n http://teamfu.freeshell.org/poker_odds.html\n \n I lived in Las Vegas for about 12-years, played a lot of poker and still know a couple of people who play it for a living. If money is involved, in amounts that can hurt one, it isn't a game for amateurs based solely on odds.", 
+   {}, 
+   139272, 
+   null, 
+   1119368520.0
+  ], 
+  [
+   139503, 
+   null, 
+   "Alan Ryan", 
+   "I used to play poker when I was in the army: I seldom played my cards well and lost (a lot).\n \n When I was posted abroad, I bought some dark glasses and never played without putting them on first. I played better: I think the reason is obvious.", 
+   {}, 
+   139490, 
+   null, 
+   1119370860.0
+  ], 
+  [
+   139516, 
+   null, 
+   "jim's trucking", 
+   "http://www.pokergambling.org/poker_odds.html\n ***********************************************\n Probabilities in Three Card Poker\n \n Hand\n Combinations\n Probability\n \n Straight flush\n 48\n 0.0021719\n \n Three of a kind\n 52\n 0.0023529\n \n Straight\n 720\n 0.0325792\n \n Flush\n 1096\n 0.0495928\n \n Pair\n 3744\n 0.1694118\n \n Queen to ace high\n 9720\n 0.4398190\n \n Jack high or less\n 6720\n 0.3040724\n *****************************************************\n \n \n \n Probabilities of Five Card Poker\n \n Rank\n Hand\n Example\n Number\n of Hands\n Possible\n \n *\n Five Aces (with Bug ) \n AAAAB \n 1+ \n \n *\n Five of a Kind \n 8888W (joker wild) \n 13+ \n \n *\n Five of a Kind (with Wild Card) \n (deuces wild) \n 672 \n \n *\n Skeet Flush \n 2S 4S 5S 8S 3S \n 24 \n \n 1\n Royal Straight Flush \n 10H JH QH KH AH \n 4 \n \n 1\n Straight Flush \n 4C 5C 6C 7C 8C \n 40 \n \n 2 \n Four Aces \n XAAAA \n 48 \n \n 2 \n Four of a Kind \n X7777 \n 624 \n \n * \n Big Bobtail \n X 8D 9D JD QD \n 144 \n \n * \n Blaze Full \n QQKKK \n 144 \n \n 3 \n Full House \n 66JJJ \n 3,744 \n \n 4 \n Flush \n DDDDD \n 5,108 (n.s.) \n \n * \n Big Tiger (Big Cat) \n 8 - - - K \n 4,096 (i.f.) \n \n * \n Little Tiger (Little Cat) \n 3 - - - 8 \n 4,096 (i.f.) \n \n * \n Big Dog \n 9 - - - A \n 4.096 (i.f.) \n \n * \n Little Dog \n 2- - -7 \n 4,096 (i.f.) \n \n 5 \n Straight \n 78910J \n 10,200 (n.f.) \n \n * \n Round the Corner Straight \n 32AKQ \n 3,060 (n.f.) \n \n * \n Skip Straight (Dutch Straight) \n 579JK \n 8,120 (n-f.) \n \n * \n Kilter \n A - - - 9 \n 35,840 (i.f.) \n \n * \n Five and Dime \n 5 - - -10 \n 4,096 \n \n * \n Skeet (Pelter, Bracket) \n 2 - 5 - 9 \n 6,144 (i.f.) \n \n 6 \n Three of a Kind \n XX10 10 10 \n 54,912 \n \n * \n Little Bobtail \n XX6C 7C 8C \n 3,120 \n \n * \n Flash \n HDSCB \n 685,464 + \n \n * \n Blaze \n PPPPP \n 792 \n \n 7 \n Two Pair \n X3399 \n 123,552 \n \n * \n Four Flush with a Pair \n DDD 5D 5 \n 34,320 \n \n * \n Four Flush \n XHHH \n 111,540 \n \n 8 \n Pair \n XXX88 \n 1,098,240 \n \n 9 \n No Pair (+) \n XXXXX \n 1,302,540 \n \n 9 \n Ace High (+) \n - - - - A \n 502,860 \n \n 9 \n King High (+) \n - - - - K \n 335,580 \n \n 9 \n Queen High (+) \n - - - - Q \n 213,180 \n \n 9 \n Jack High (+) \n - - - - J \n 177,500 \n \n 9 \n Ten High (+) \n - - - - 10 \n 70,360 \n \n 10 \n Nine Low (+ +) \n - - - - 9 \n 71,860 \n \n 10 \n Eight Low (+ +) \n - - - - 8 \n 35.840 \n \n 10 \n Seven Low (+ +) \n - - - - 7 \n 15,360 \n \n 10 \n Six Low (+ +) \n - - - - 6 \n 5,120 \n \n 10 \n Five Low (+ +) \n A2345 \n 1,024 \n \n \n Total hands possible with a 52-card deck 2,598,960\n + Total hands possible with a 53-card deck (with a joker) 2,869,685\n \n Code: \n \n * = Not a normal hand (freak hand) \n \n B = Bug card (joker) \n \n W = Wild card \n \n P = Any picture card \n \n H = Heart \n \n D = Diamond \n \n S = Spade \n \n C = Club \n \n A = Ace \n \n K = King \n \n Q = Queen \n \n J = Jack \n \n X = Any nonpaired side card \n \n - = A specific nonpaired side card \n \n (+) = No straights or flushes, ace is high \n \n (+ +) = Including straights and flushes, ace is low \n \n i.f. = Including flushes, \n \n n.f. = no flushes, \n \n n.s. = no straights", 
+   {
+    "post_info": {
+     "post_title": "Here's another..."
+    }
+   }, 
+   139503, 
+   null, 
+   1119372600.0
+  ], 
+  [
+   139517, 
+   null, 
+   "georged", 
+   "I used to play poker when I was in the army: I seldom played my cards well and lost (a lot).\n \n When I was posted abroad, I bought some dark glasses and never played without putting them on first. I played better: I think the reason is obvious.\n\n \n Most Vegas card rooms had regulars who would play among each other for practice until a stranger(s) sat down at the table. The skill they used to slowly pluck newcomers was amazing. Most could quote the game odds on any card dealt without even thinking about it and they all had their 'poker' faces, a variety of well-practiced expressions. \n \n A bit of trivia, slot machines were originally placed in Las Vegas casinos to entertain the female companions of gamblers playing table games so they (companions) wouldn't be a distraction to the process of separating those gamblers from their money.", 
+   {}, 
+   139503, 
+   null, 
+   1119372720.0
+  ], 
+  [
+   139519, 
+   null, 
+   "jim's trucking", 
+   "Most Vegas card rooms had regulars who would play among each other for practice until a stranger(s) sat down at the table. The skill they used to slowly pluck newcomers was amazing. Most could quote the game odds on any card dealt without even thinking about it and they all had their 'poker' faces, a variety of well-practiced expressions. \n \n A bit of trivia, slot machines were originally placed in Las Vegas casinos to entertain the female companions of gamblers playing table games so they (companions) wouldn't be a distraction to the process of separating those gamblers from their money.\n...and if I'm not mistaken, slot machines take in more money for the house than any other game...that's why there're so many of them.", 
+   {}, 
+   139517, 
+   null, 
+   1119372840.0
+  ], 
+  [
+   139524, 
+   null, 
+   "Kronus", 
+   "...and if I'm not mistaken, slot machines take in more money for the house than any other game...that's why there're so many of them.\n\n \n They've got the worst payout of any game in the room, they don't take up much space, and you don't have to pay them. The casinos love them.\n \n Edit: I suppose some games might have a worse payout, but the odds on slots are pretty bad. :)", 
+   {}, 
+   139519, 
+   null, 
+   1119373860.0
+  ], 
+  [
+   139527, 
+   null, 
+   "georged", 
+   "...and if I'm not mistaken, slot machines take in more money for the house than any other game...that's why there're so many of them.\n\n \n They've been the big money maker for years. Casinos like them because of the predictability of cash flow and earnings. All revenue in a casino is based on square footage and no table game can compare to slot per square foot revenue. \n \n The big table game is baccarat. Even the largest casinos can have quarterly earnings spiked up or destroyed by baccarat play. To provide an example, $100,000 USD baccarat plaques (chips) are common, as are $1,000,000+ bets. $25,000,000 losses and winnings by a single player are not uncommon. I haven't been to Macao since the large casinos were constructed, but I've been told bets made there by newly wealthy mainland Chinese boggle the mind. Since the Patriot Act many high stakes international gamblers no longer frequent the US.", 
+   {}, 
+   139519, 
+   null, 
+   1119374280.0
+  ], 
+  [
+   139528, 
+   null, 
+   "Alan Ryan", 
+   "Las Vegas - its sole industry is devoted to the manufacture of human desire: it's a good thing I live far from there - gambling is an addiction I can both deplore and understand.", 
+   {}, 
+   139527, 
+   null, 
+   1119374700.0
+  ], 
+  [
+   139533, 
+   null, 
+   "georged", 
+   "Las Vegas - its sole industry is devoted to the manufacture of human desire: it's a good thing I live far from there - gambling is an addiction I can both deplore and understand.\n\n \n It's a popular retirement destination with constant turnover - retirees discover they can't cope with gambling and move or face ruin. Everyday stories of regular people moving there and losing homes, savings, everything in a brief period of time. Many prominent US politicians are regulars there, the saying being 'What happens in Vegas stays in Vegas'.", 
+   {}, 
+   139528, 
+   null, 
+   1119376020.0
+  ], 
+  [
+   139539, 
+   null, 
+   "Alan Ryan", 
+   "It's a popular retirement destination with constant turnover - retirees discover they can't cope with gambling and move or face ruin. Everyday stories of regular people moving there and losing homes, savings, everything in a brief period of time. Many prominent US politicians are regulars there, the saying being 'What happens in Vegas stays in Vegas'.\n\n \n Have I misunderstood, or are you saying that people retire to Vegas with the intention (hope ?) of spending the rest of their lives playing cards and rolling dice ?\n \n I have this Hollywood image of a poker player out of chips who puts his house deeds on the table and gambles them into the pocket of a shrewd and pitiless operator.", 
+   {}, 
+   139533, 
+   null, 
+   1119377400.0
+  ], 
+  [
+   139559, 
+   null, 
+   "georged", 
+   "Have I misunderstood, or are you saying that people retire to Vegas with the intention (hope ?) of spending the rest of their lives playing cards and rolling dice ?\n \n I have this Hollywood image of a poker player out of chips who puts his house deeds on the table and gambles them into the pocket of a shrewd and pitiless operator.\n\n \n No, they understand that it's available (all-encompassing is a better definition, from grocery markets, drug stores, restaurants, etc) and then discover they're unable to resist the addictive factor. Video poker is the most common local addiction, a $1 machine bets from $1-50 USD at each push of a button, with a $5/bet being the most common default. Assume 20-seconds a bet to play the hand and a loser is quickly in big trouble at $900/hr. $.025 machines are the most common, but that's still $1.25/hand every 20-seconds, $225/hr. Few retirees on fixed incomes or working people can absorb much of that. Remember that one is in a desert where summer temps are in excess of 110-degrees and outdoor pursuits including golf aren't all that attractive. Throw in air conditioned comfort, free drinks, free food (and whatever other diversion, all are readily available) and the gambler's dream of 'hitting the big one' for a recipe guaranteed to influence many people to part with their money. \n \n Equity loans are very popular in Las Vegas as a means to gambling destruction. And loan sharking is still an honored profession, complete with collection agents who show little mercy. Seemingly every corner has 'loans on vehicles or paycheck' at interest rates which defy ever repaying the principal. Due to the nature of the primary Las Vegas industry, passing a bad check, any amount, is an instant felony. All the merchant has to do is deliver a returned check to the district attorney's office where a warrant is immediately issued and criminal charges actively pursued. Not a place for the weak or idealism.", 
+   {}, 
+   139539, 
+   null, 
+   1119380160.0
+  ], 
+  [
+   141733, 
+   null, 
+   "RedMoon", 
+   "All I know about poker is that anytime I drink while playing I lose, and find a way to get more money to lose more. The one time I played with my buddies sober, I walked out the door up $180 in a game with a $40 buy-in. Not a bad night, and an inspiration to remain sober for future poker nights.", 
+   {}, 
+   139559, 
+   null, 
+   1119914160.0
+  ], 
+  [
+   170402, 
+   null, 
+   "SubtleRedFlag", 
+   "The \"4-2\" rule is a decent rule of thumb.\n \n First estimate your \"outs\" or cards that you think will assure you the best hand (this is actually pretty variable on how many player there are remaining as well as the weight of there bets etc., but thats a different post.)\n \n For example. You are playing KJs hearts\n \n The flop is\n \n Ad Qs 5c\n \n With a few people in, its reasonable to say you have 4 outs. On the turn a K or J isn't that grand considering the high odds that somebody has an A (or Q) granted they've called the big blind. Also, the odds that you'll get running spades are pretty small. Your 4 outs are the four 10's presumably in the deck that would give you a straight (they might be in your opponents hands, but you can only work off what you know). \n \n The odds determination is the tricky part... the 4-2 rule is extremely simple. For your chances of getting your out on the turn or the river... just multiply your outs by 4. Once the turn card is down (possibly giving you more outs) multiple them by 2 for your chance of landing one on the river. After the flop you have about a 4*4 = 16% chance of hitting any 10. Or an 8% chance of getting one on the river if you haven't seen it yet.\n \n The 4-2 rule will but you within a few percentage points of the actual odds.", 
+   {
+    "post_info": {
+     "post_title": "Texas Hold'Em Odds"
+    }
+   }, 
+   141733, 
+   null, 
+   1129201320.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Poker odds", 
+  "url": "http://www.4forums.com/political/science-math-debates/5726-poker-odds.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 5726, 
+  "discussion_files": [
+   [
+    "8949.html", 
+    "http://www.4forums.com/political/science-math-debates/5726-poker-odds-print.html"
+   ]
+  ], 
+  "identifier": 5726
+ }
+]

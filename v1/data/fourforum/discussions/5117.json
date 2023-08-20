@@ -1,0 +1,134 @@
+[
+ [
+  [
+   118627, 
+   null, 
+   "Close_slave_can", 
+   "Since pandion cannot answer the following question it I would like someone else to. Thanks in advance\n \n If my wife's father was bald but my wife and her siblings show no signs of baldness, and if my father was not bald and neither of my siblings is but I am, what is the probability the my children will be bald. Please make sure that you address the issue of gender.", 
+   {
+    "post_info": {
+     "post_title": "A simple genetics question pandion cannot answer"
+    }
+   }, 
+   null, 
+   null, 
+   1115543400.0
+  ], 
+  [
+   118631, 
+   null, 
+   "Redratio1", 
+   "Since pandion cannot answer the following question it I would like someone else to. Thanks in advance\n \n If my wife's father was bald but my wife and her siblings show no signs of baldness, and if my father was not bald and neither of my siblings is but I am, what is the probability the my children will be bald. Please make sure that you address the issue of gender.\n\n \n Depends whether or not the bald gene is dominant or recessive and if this is male pattern baldness we are talking about.\n \n Assuming it is male pattern baldness I'll keep my answer to male childern.\n \n My key #1:\n B = dominant bald gene\n b = recessive non-bald gene\n \n In this case your wife has bb.\n You have Bb, because your sibilings do not have the baldness, therefore there must be at least one recessive component.\n \n The outcome is 50% Bb and 50% bb for your kids, meaning half bald half not.\n \n My key #2\n a = recessive bald gene\n A = dominant non-bald gene\n \n In this case your wife has Aa or AA, can't tell because there is no info on your wife's mother.\n You have aa.\n \n The outcome for Aa-aa is 50% split as above.\n However, with the AA-aa combination, 100% of your kids will be non-bald.", 
+   {}, 
+   118627, 
+   null, 
+   1115544300.0
+  ], 
+  [
+   118632, 
+   null, 
+   "Close_slave_can", 
+   "pandion claims there is one answer he just can't calculate it.", 
+   {}, 
+   118631, 
+   null, 
+   1115544540.0
+  ], 
+  [
+   118633, 
+   null, 
+   "Redratio1", 
+   "pandion claims there is one answer he just can't calculate it.\n\n \n I'm new here, so I don't know pandion. Does my answer satisfy?\n I changed my post to make it a little more clear. I also saw a mistake and corrected it.", 
+   {}, 
+   118632, 
+   null, 
+   1115544600.0
+  ], 
+  [
+   118637, 
+   null, 
+   "Close_slave_can", 
+   "I don't know if it is a good answer or not, but what seems to make sense is the idea that baldness is dominant in males and recessive in females and even if females have both of the baldness genes their hair usually only thins out a bit they don't develop a bald patch.", 
+   {}, 
+   118633, 
+   null, 
+   1115545200.0
+  ], 
+  [
+   118640, 
+   null, 
+   "Redratio1", 
+   "I don't know if it is a good answer or not, but what seems to make sense is the idea that baldness is dominant in males and recessive in females and even if females have both of the baldness genes their hair usually only thins out a bit they don't develop a bald patch.\n\n \n Didn't know the same gene was responsible for both typical male and female baldness.", 
+   {}, 
+   118637, 
+   null, 
+   1115545380.0
+  ], 
+  [
+   118860, 
+   null, 
+   "gnojek", 
+   "The way I understand it, anything that we call a single \"trait\" cannot necessarily be traced to a single gene. Rather, there are various cascades of expression for numerous genes, that when expressed a certain way, result in what we call a \"trait.\" I think that's why Mendel had to fudge so much to get to his nice round ratios.", 
+   {}, 
+   118640, 
+   null, 
+   1115589240.0
+  ], 
+  [
+   118864, 
+   null, 
+   "Redratio1", 
+   "The way I understand it, anything that we call a single \"trait\" cannot necessarily be traced to a single gene. Rather, there are various cascades of expression for numerous genes, that when expressed a certain way, result in what we call a \"trait.\" I think that's why Mendel had to fudge so much to get to his nice round ratios.\n\n \n Yeah, but certain phenotypes can be traced to specific genes. Baldness? I don't know.", 
+   {}, 
+   118860, 
+   null, 
+   1115590020.0
+  ], 
+  [
+   118866, 
+   null, 
+   "trebor", 
+   "Yeah, but certain phenotypes can be traced to specific genes. Baldness? I don't know.\n\n \n Yes, some types of baldness can be traced to specific genes. The \"Male Pattern\" \n baldness is actually traced to a gene on the x chromosome, so you can inherit baldness from your mothers family (if you are male), and not get it from your father.", 
+   {}, 
+   118864, 
+   null, 
+   1115590680.0
+  ], 
+  [
+   118890, 
+   null, 
+   "Close_slave_can", 
+   "If women get both male pattern baldness genes they still don't go bald since the baldness gene needs testorone as well. Look up \"sex influenced\" genes.", 
+   {}, 
+   118866, 
+   null, 
+   1115594760.0
+  ], 
+  [
+   119078, 
+   null, 
+   "Clive14", 
+   "Since pandion cannot answer the following question it I would like someone else to. Thanks in advance\n \n If my wife's father was bald but my wife and her siblings show no signs of baldness, and if my father was not bald and neither of my siblings is but I am, what is the probability the my children will be bald. Please make sure that you address the issue of gender.\nI can well believe that pandion cannot answer this question; no one can accurately answer it. We know that baldness, as a genetic condition, is polygenetic (ie it's controlled by multiple genes) and autosomal (the genes [or at least the bulk of them] do not reside on the X or Y chromosomes). Despite being autosomal, people appear statistically slightly more likely to exhibit balness if the trait comes from their mother's side of the family. Even if we knew precisely which genes were involved and which of those genes your kids had, we still cannot tell you the likihood of your children being bald. The chances of the gene combination being expressed in the correct way to cause baldness are dependent on age, hormone levels, stress and probably a variety of other environmental conditions.", 
+   {}, 
+   118627, 
+   null, 
+   1115632980.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  A simple genetics question pandion cannot answer", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/5117-simple-genetics-question-pandion-cannot-answer.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 5117, 
+  "discussion_files": [
+   [
+    "21193.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/5117-simple-genetics-question-pandion-cannot-answer-print.html"
+   ]
+  ], 
+  "identifier": 5117
+ }
+]

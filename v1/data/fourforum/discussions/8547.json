@@ -1,0 +1,374 @@
+[
+ [
+  [
+   223915, 
+   null, 
+   "HuddeNYer", 
+   "this is a very good puzzle-- actually drove me crazy trying to figure it out.\n \n So there are three cups, cups A,B, and C, and a dealer standing behind the cups. The dealer places a coin behind one of the cups. The player then chooses the cup that he thinks has the coin behind it. The dealer removes a cup that doesn't have the coin behind it (and not the cup that the player has chosen.) So now there are two cups left, and the player is supposed to choose again to find the coin. SHould the player switch from his original choice?\n \n i realize that this isn't the most-clear written thing ever, but please tell me if it is completely incoherent.", 
+   {
+    "post_info": {
+     "post_title": "good stuff"
+    }
+   }, 
+   null, 
+   null, 
+   1153523700.0
+  ], 
+  [
+   223951, 
+   null, 
+   "Ooaman", 
+   "I say go for the one that the player saw the guy put the coin behind. If the player isn't watching the person put the coin behind the cup, then this wouldn't help.\n By the way, this was done before in a thread called \"The Price Is Right.\" It never made any real sence to me so I'm not going to work on this anymore.", 
+   {}, 
+   223915, 
+   null, 
+   1153533480.0
+  ], 
+  [
+   223990, 
+   null, 
+   "pandion", 
+   "By the way, this was done before in a thread called \"The Price Is Right.\"\nExactly. The correct answer is to switch. Several computer programmers where I worked wrote programs to test this. In all cases, the best chance of winning was to switch even though there was some disagreement (because of adding conditions to the original problem).", 
+   {}, 
+   223951, 
+   null, 
+   1153547880.0
+  ], 
+  [
+   224004, 
+   null, 
+   "HuddeNYer", 
+   "if one switches, then the chance that they would get it right is double than that if they didnt switch", 
+   {}, 
+   223990, 
+   null, 
+   1153580520.0
+  ], 
+  [
+   224462, 
+   null, 
+   "SubtleRedFlag", 
+   "At a glance it seemed irrelevant whether you 'switched your pick' or not.\n \n After a little bit of thinking however, its clear that it is better to switch your initial pick. Its actually seems pretty simple (I don't see why computer simulations are justified):\n \n You have 3 cups in front of you; there is a coin behind one of them. Order doesn't matter here, and statistically you have a 2/3 chance of picking an empty cup, and a 1/3 chance of picking the cup with the coin behind it.\n \n So 1/3 of the time you will be right; its best to stay.\n And 2/3 of the time you will be wrong... When you're wrong --and are pointing at an empty cup-- the *other* empty cup must be removed, leaving the coin in the last remaining cup you are not pointing at; its best to switch.\n \n In a random situation, its best to switch your initial blind guess. So yeah, 2/3 is twice 1/3.. so you're chance is twice as good. That makes sense HuddeNYer.", 
+   {}, 
+   224004, 
+   null, 
+   1153831020.0
+  ], 
+  [
+   224511, 
+   null, 
+   "zachvac", 
+   "Wow, that took me a while to figure out, but you're right. If you pick one and stick with it you will get it right 1/3 of the time. When you get it wrong, the answer will ALWAYS be the other one, so you'd have a 2/3 chance even though technically the only info you have is that it's one of 2 cups. That's pretty awesome.", 
+   {}, 
+   224462, 
+   null, 
+   1153849980.0
+  ], 
+  [
+   224528, 
+   null, 
+   "jim's trucking", 
+   "I don't know that the game was adequately explained for this to be analysed properly.\n \n It appears that the rules of the game are:\n \n The player chooses a cup. The dealer removes an empty cup and asks the player to choose again (without saying whether the first choice was correct).\n \n Suppose the coin is behind Cup C. One of the following 4 sequences will occur.\n \n 1\n You choose A, dealer removes B, you switch, you win.\n \n 2\n You choose B, dealer removes A, you switch, you win.\n \n 3\n You choose C, dealer removes B, you switch, you lose.\n \n 4\n You choose C, dealer removes A, you switch, you lose.\n \n There are just as many losing scenarios as winning ones. The switching does not increase your chances.", 
+   {}, 
+   224511, 
+   null, 
+   1153854720.0
+  ], 
+  [
+   224530, 
+   null, 
+   "zachvac", 
+   "I don't know that the game was adequately explained for this to be analysed properly.\n \n It appears that the rules of the game are:\n \n The player chooses a cup. The dealer removes an empty cup and asks the player to choose again (without saying whether the first choice was correct).\n \n Suppose the coin is behind Cup C. One of the following 4 sequences will occur.\n \n 1\n You choose A, dealer removes B, you switch, you win.\n \n 2\n You choose B, dealer removes A, you switch, you win.\n \n 3\n You choose C, dealer removes B, you switch, you lose.\n \n 4\n You choose C, dealer removes A, you switch, you lose.\n \n There are just as many losing scenarios as winning ones. The switching does not increase your chances.\n\n \n well 50% is greater than 33%, so even if what you say is true, switching is better. But you didn't do this correctly. 3-4 are a combination of when you choose C. You will choose C 1/3 of the time by probability. You can't separate them into 2 different parts.\n \n Technically, you will choose A 1/3 of the time, B 1/3 of the time, and C (the right one) 1/3 of the time. If you choose either A or B you win, because the other will be removed and you will switch to C. If you pick C you lose because you switch from the right one.", 
+   {}, 
+   224528, 
+   null, 
+   1153855080.0
+  ], 
+  [
+   224535, 
+   null, 
+   "Kronus", 
+   "\n Suppose the coin is behind Cup C. One of the following 4 sequences will occur.\n \n 1\n You choose A, dealer removes B, you switch, you win.\n \n 2\n You choose B, dealer removes A, you switch, you win.\n \n 3\n You choose C, dealer removes B, you switch, you lose.\n \n 4\n You choose C, dealer removes A, you switch, you lose.\n \n There are just as many losing scenarios as winning ones. The switching does not increase your chances.\n\n \n Cases 3 and 4 aren't any different. Having chosen C it's irrelevant which cup the dealer takes, you'll always lose. Thus, there are only 3 actually different cases, 2 where you win and 1 where you lose. If you don't believe this than try it for real. If you switch you'll win 2/3 of the time, not 1/2. And if you don't switch you'll lose 2/3 of the time.", 
+   {}, 
+   224528, 
+   null, 
+   1153855560.0
+  ], 
+  [
+   224552, 
+   null, 
+   "jim's trucking", 
+   "Cases 3 and 4 aren't any different. Having chosen C it's irrelevant which cup the dealer takes, you'll always lose. Thus, there are only 3 actually different cases, 2 where you win and 1 where you lose. If you don't believe this than try it for real. If you switch you'll win 2/3 of the time, not 1/2. And if you don't switch you'll lose 2/3 of the time.\n\n \n Allow me to restate the scenes I described:\n \n Suppose the prize is at C.\n \n 1\n You choose A, dealer removes B, you switch, you win.\n \n 2\n You choose B, dealer removes A, you switch, you win.\n \n 3\n You choose C, then one of the following will happen:\n \n 3a. dealer removes B, you switch, you lose.\n 3b. dealer removes A, you switch, you lose.\n \n In other words, having initially chosen the winning cup, there are still two choices left for the dealer to remove and either one of them will result in a loss if you switch. There are still two winners and two losers in the complete set of possibilities.", 
+   {}, 
+   224535, 
+   null, 
+   1153857780.0
+  ], 
+  [
+   224565, 
+   null, 
+   "Kronus", 
+   "\n In other words, having initially chosen the winning cup, there are still two choices left for the dealer to remove and either one of them will result in a loss if you switch. There are still two winners and two losers in the complete set of possibilities.\n\n \n I seem to recall that we went over this all in the other thread. Choices that aren't any different aren't different choices, so 3a and 3b only count as one choice. If you don't believe it than really, go and try it. Seriously, give it a shot. If you're right than switching will have you winning half the time, if I'm right you'll win 2/3 of the time. If you can program than write a little script and have it crank through 3000 iterations. The switcher will win about 2000 times, not 1500. Give it a shot.", 
+   {}, 
+   224552, 
+   null, 
+   1153860060.0
+  ], 
+  [
+   224569, 
+   null, 
+   "Jo Bennett", 
+   "\n In other words, having initially chosen the winning cup, there are still two choices left for the dealer to remove and either one of them will result in a loss if you switch. There are still two winners and two losers in the complete set of possibilities.\n\n \n But the point is that the chance of you having picked the winning cup straight off is still only 1/3, and that doesn't change.", 
+   {}, 
+   224552, 
+   null, 
+   1153860960.0
+  ], 
+  [
+   224576, 
+   null, 
+   "jim's trucking", 
+   "I seem to recall that we went over this all in the other thread. Choices that aren't any different aren't different choices, so 3a and 3b only count as one choice. If you don't believe it than really, go and try it. Seriously, give it a shot. If you're right than switching will have you winning half the time, if I'm right you'll win 2/3 of the time. If you can program than write a little script and have it crank through 3000 iterations. The switcher will win about 2000 times, not 1500. Give it a shot.\n\n I too recall the previous thread. I wasn't convinced then either.\n \n If a script is written to include all possible sequences of choices (not only those of the player, but those of the dealer also {as in when the player correctly chooses on the first round, the dealer has a choice of two losers to expose}) then the numbers will indeed approach a 50% win rate.", 
+   {}, 
+   224565, 
+   null, 
+   1153861380.0
+  ], 
+  [
+   224582, 
+   null, 
+   "pandion", 
+   "I don't know why this is so hard for some people to understand. It has been explained over and over and still some people don't seem to understand.\n \n The question is whether it is a better strategy to switch in all cases. As was pointed out, the initial guess will be the correct cup in about 1 out of three cases. In those cases you will lose because you will switch when given the opportunity. In other words, you will lose in about 1 out of three tries. However, you will have picked the wrong cup 2 out of three times. In those cases, the other empty cup will be removed, which means that you will win when you switch - about two out of three times.\n \n Computer simulations are always justified because they make the results quite clear. You can run the case lots of times in an instant. I did it with an Excel spread sheet and ran 50,000 trials. The switch every time strategy wins 66.7% of the time (actual count was 33,353 times), just a bit better than expected but not statistically out of whack.\n \n The problem with calculating probabilities by enumeration (like jim has tried to do) is that you will enumerate wrong (like jim has done). Counting the cases doesn't do you any good if you count wrong.", 
+   {}, 
+   224576, 
+   null, 
+   1153862580.0
+  ], 
+  [
+   224592, 
+   null, 
+   "Kronus", 
+   "I too recall the previous thread. I wasn't convinced then either.\n \n If a script is written to include all possible sequences of choices (not only those of the player, but those of the dealer also {as in when the player correctly chooses on the first round, the dealer has a choice of two losers to expose}) then the numbers will indeed approach a 50% win rate.\n\n \n You didn't actually try, did you? :)\n \n Don't pre-determine anything, just have it be random. One cup gets a ball at random, person picks a cup at random, another empty cup randomly chosen, person switches randomly or not, depending on which scenario you're looking at.\n \n Try it, then get back to to me.", 
+   {}, 
+   224576, 
+   null, 
+   1153864560.0
+  ], 
+  [
+   224593, 
+   null, 
+   "Kronus", 
+   "I don't know why this is so hard for some people to understand. It has been explained over and over and still some people don't seem to understand.\n\n \n For me that's exactly what makes this problem so interesting. The math is straightforward, but the counter arguments that people make, or which arguments that actually convince people? That's fascinating to watch.", 
+   {}, 
+   224582, 
+   null, 
+   1153864680.0
+  ], 
+  [
+   224595, 
+   null, 
+   "jim's trucking", 
+   "I don't know why this is so hard for some people to understand. It has been explained over and over and still some people don't seem to understand.\n \n The question is whether it is a better strategy to switch in all cases. As was pointed out, the initial guess will be the correct cup in about 1 out of three cases. In those cases you will lose because you will switch when given the opportunity. In other words, you will lose in about 1 out of three tries. However, you will have picked the wrong cup 2 out of three times. In those cases, the other empty cup will be removed, which means that you will win when you switch - about two out of three times.\n \n Computer simulations are always justified because they make the results quite clear. You can run the case lots of times in an instant. I did it with an Excel spread sheet and ran 50,000 trials. The switch every time strategy wins 66.7% of the time (actual count was 33,353 times), just a bit better than expected but not statistically out of whack.\n \n The problem with calculating probabilities by enumeration (like jim has tried to do) is that you will enumerate wrong (like jim has done). Counting the cases doesn't do you any good if you count wrong.\nWhen limiting the considerations to choices that the player makes, you are entirely correct. When expanding to the full range of choices within the game (those of the player and the dealer), you are not entirely correct. However, I do concur that since during the playout of the cases where the player correctly chooses on the first try (one third of the tries) the result is still a loss (if the player always switches) regardless of which loser the dealer chooses to expose and that switching results in a win for all cases wherein the player chooses a loser in the first round (two thirds of the tries) because the dealer has no choice but to expose the other loser, it is apparent that switching will win 2/3 of the tries. I have been convinced. I am a born-again believer!\n \n Do I get a refrigerator magnet or somethin'?emoticon_xhoho", 
+   {}, 
+   224582, 
+   null, 
+   1153865160.0
+  ], 
+  [
+   224609, 
+   null, 
+   "jim's trucking", 
+   "You didn't actually try, did you? :)\n \n Don't pre-determine anything, just have it be random. One cup gets a ball at random, person picks a cup at random, another empty cup randomly chosen, person switches randomly or not, depending on which scenario you're looking at.\n \n Try it, then get back to to me.\nI've conceded the argument already. However, your suggestion of totally random choices should be performed under two studies...one where the switch is always made...one where it is never made.\n \n ...and the choice of the dealer when the correct cup is chosen first should be included in all runs. Though I am convinced that his (dealer's) choice makes no difference to someone who chooses to always (or always not) switch, I can visualize the computer program becoming quite complicated to reflect random choices at each step.", 
+   {}, 
+   224592, 
+   null, 
+   1153866840.0
+  ], 
+  [
+   224704, 
+   null, 
+   "Jo Bennett", 
+   "but the dealer's choice only occurs when it won't make any difference to the outcome.", 
+   {}, 
+   224609, 
+   null, 
+   1153915140.0
+  ], 
+  [
+   224715, 
+   null, 
+   "jim's trucking", 
+   "but the dealer's choice only occurs when it won't make any difference to the outcome.\n...only if the switch (or no switch) tactic of the player is adhered to throughout the game.", 
+   {}, 
+   224704, 
+   null, 
+   1153925700.0
+  ], 
+  [
+   224747, 
+   null, 
+   "Jo Bennett", 
+   "...only if the switch (or no switch) tactic of the player is adhered to throughout the game.\n\n \n I don't see what your getting at, as the dealer makes his choice before the player. If the player has picked the wrong one, then which one the dealer picks is automatic, if the player has picked the right one, it makes no difference.", 
+   {}, 
+   224715, 
+   null, 
+   1153933920.0
+  ], 
+  [
+   224752, 
+   null, 
+   "jim's trucking", 
+   "I don't see what your getting at, as the dealer makes his choice before the player. If the player has picked the wrong one, then which one the dealer picks is automatic, if the player has picked the right one, it makes no difference.\nIt makes a difference if the player still has the option to switch after the dealer's choice. If the player is sticking to a hard and fast rule that he will switch every time (or never switch), then the dealer's choice makes no difference. That's what I'm getting at.", 
+   {}, 
+   224747, 
+   null, 
+   1153934880.0
+  ], 
+  [
+   224770, 
+   null, 
+   "Kronus", 
+   "It makes a difference if the player still has the option to switch after the dealer's choice. If the player is sticking to a hard and fast rule that he will switch every time (or never switch), then the dealer's choice makes no difference. That's what I'm getting at.\n\n \n The dealer doesn't know what's going on in the player's head. He doesn't know if the player will always switch, or never, or flip a coin each time. Since the dealer can't know what the player will do, the players strategy is irrelevant to the dealer. So if the dealers choice makes no difference if the player follows a rule, it will also make no difference if the player doesn't follow a rule. If the player bounces back and forth between switching and not switching, and you keep track of if they switched and if they won each time, you'll still find that over all the times they switched they won 2/3 of the time, and over all the times they didn't switch they won 1/3 of the time. For any given instance, if you stick you have a 1/3 chance of winning and if you switch you have a 2/3 chance of winning, regardless of whatever you did the previous time.", 
+   {}, 
+   224752, 
+   null, 
+   1153938000.0
+  ], 
+  [
+   224795, 
+   null, 
+   "electrolyte", 
+   "The dealer doesn't know what's going on in the player's head. He doesn't know if the player will always switch, or never, or flip a coin each time. [snip]\n\n Kronus is correct, but Jo's explanation is a bit simpler and also correct.\n \n If we do the thought experiment, the wrong choices are mathematically identical (they are \"degenerate\"). If the correct door is originally chosen, then the dealer's \"choice\" is but an illusion: he MUST reveal a goat. If an incorrect door is revealed, the dealer again has no illusional \"choice\" at all.", 
+   {}, 
+   224770, 
+   null, 
+   1153942860.0
+  ], 
+  [
+   224905, 
+   null, 
+   "zachvac", 
+   "basically it comes down to this. The player has a choice. If he gets it right and switches, he will lose, no matter what else happens, the original choice of the correct cup leads him to lose. Similarly, no matter what the dealer does, an incorrect choice leads for him to win. There are 2 incorrect choices, so that's a 2/3 chance to win, regardless of what the dealer does.", 
+   {}, 
+   224795, 
+   null, 
+   1153983180.0
+  ], 
+  [
+   224909, 
+   null, 
+   "zachvac", 
+   "I just ran a simulation, I had it do it a billion times (it took a while, around 5 minutes).\n \n The number? 0.666651476\n \n or pretty damn close to 2/3", 
+   {}, 
+   224905, 
+   null, 
+   1153983960.0
+  ], 
+  [
+   225167, 
+   null, 
+   "epaphras_faith", 
+   "You are all missing one thing. Your second choice is independent of the first choice. They are not \"dependent\" events. The chances of getting it right or wrong have nothing to do with your first choice. The second choice is always the one that determines whether you win or lose.\n \n That means you have a 50-50 chance either way.\n \n EF\n \n Edit, computer sims are only as good as the programming. If one programmed dependent events then 2/3rds is what you would get. It would also not reflect the actuality of the game and it would be wrong.\n \n ef", 
+   {}, 
+   224909, 
+   null, 
+   1154124240.0
+  ], 
+  [
+   225170, 
+   null, 
+   "Kronus", 
+   "You are all missing one thing. Your second choice is independent of the first choice. They are not \"dependent\" events. The chances of getting it right or wrong have nothing to do with your first choice. The second choice is always the one that determines whether you win or lose.\n \n That means you have a 50-50 chance either way.\n\n \n By second choice you mean whether or not to switch, right? And you got 50-50 because when you make the second choice there are only two cups left? You might as well just start with two cups and pick one is what you're saying?\n \n I can most easily show why that doesn't work by using an extreme example. Instead of three cups and the dealer takes away one, let's have 100 cups and the dealer takes away 98. You still end up with two cups at the end, so it looks just like the previous case. Would you still say it's 50-50? If I pick one cup out of a hundred and don't switch when given the chance, would I win half the time? No, I would win 1% of the time. Switching would be the obvious choice.\n \n The crux of the matter is that, if there are more than 2 cups, you're first choice is probably wrong. The more cups there are the more likely you are to be wrong, as the above example illustrates. You know you're probably wrong, and then the dealer gives you more info by saying \"the ball wasn't under this cup\". Your first choice is probably wrong, and the deal then eliminates all the other cups but one. Therefore, you're most likely to win if you switch. Your second choice does depend on your first choice, because your first choice is known to probably be wrong.\n \n \n\n Edit, computer sims are only as good as the programming. If one programmed dependent events then 2/3rds is what you would get. It would also not reflect the actuality of the game and it would be wrong.\n \n\n \n However, if one does program it correctly, one would still get 2/3 chance of winning when you switch, because that is in fact the right answer. Make everything random, nothing dependant on anything excpet the rules of the game, and that is in fact what you'll get.", 
+   {}, 
+   225167, 
+   null, 
+   1154126340.0
+  ], 
+  [
+   225173, 
+   null, 
+   "Jo Bennett", 
+   "Actually, they're not independent events, this problem, known as the monty hall problem, is the classic example used for bayes theorem if memory serves. Reading the wikipedia article on the subject, it raises the key point that the opening of the door gives you no new information about what is behind your own door.", 
+   {}, 
+   225170, 
+   null, 
+   1154127180.0
+  ], 
+  [
+   225177, 
+   null, 
+   "pandion", 
+   "No matter how many times we go over this, there is always someone who lacks the intellectual horsepower to understand. Years ago when I first heard this problem there wasn't any Wikipedia to explain it. And of course, it is EF who is correct and the dozen or so programmers who programmed the problem, many of whom had taken statistics courses and some of whom were engineers and math majors, are all wrong, at least in his mind.\n \n Try again, EF. Check the Wikipedia link above. Maybe you will be able to pay attention long enough to understand the explanation there. I quote, \"Many people incorrectly assume since there are only two doors left after the host opens one, that the remaining doors must have equal probability. However, assuming the host knows what is behind each door, always opens a door revealing a goat, and always makes the offer to switch, the host's actions do not affect the probability of the player initially choosing the car (1/3). This means the answer is yes - switching results in the chances of winning the car improving from 1/3 to 2/3.\"\n \n and later in the explanation, \"The answer to the problem is yes; the chance of winning the car is doubled when the player switches to another door rather sticking with the original choice.\"\n \n But of course, EF ignores the initial choice, and ignores the opening of one door and begins the problem with a choice between two doors.\n \n By the way, EF. It isn't really a big deal to program such a problem. There aren't any dependant events. The program randomly picks a target door, reseeds the random number generator and then randomly picks one of the three doors. After that, all you have to do is count the hits. Some of us even reseeded the random number generator to begin, selected the first door, then reseeded the random number generator to get a random time delay before reseeding the random number generator for the second selection.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   225173, 
+   null, 
+   1154129280.0
+  ], 
+  [
+   225215, 
+   null, 
+   "electrolyte", 
+   "Well, it actually looks like I am wrong after doing much research.\n\n This is why I encourage doing research before insisting you're right...\n \n \nI think I'd rather be wrong.\n\n Wait, we're discussing logic in another thread, and here you're advocating willful ignorance? No wonder you pay my arguments no mind.", 
+   {}, 
+   225177, 
+   null, 
+   1154146440.0
+  ], 
+  [
+   225216, 
+   null, 
+   "zachvac", 
+   "You are all missing one thing. Your second choice is independent of the first choice. They are not \"dependent\" events. The chances of getting it right or wrong have nothing to do with your first choice. The second choice is always the one that determines whether you win or lose.\n \n That means you have a 50-50 chance either way.\n \n EF\n \n Edit, computer sims are only as good as the programming. If one programmed dependent events then 2/3rds is what you would get. It would also not reflect the actuality of the game and it would be wrong.\n \n ef\n\n \n I wrote it in java, if anyone else has a java compiler (they're free btw at java.sun.com), they can run it as well.\n \n \n \n \n import java.util.*;\n \n public class Game{\n private Random r=new Random();\n private int guess=0; //initialize some variables\n private int ball=0;\n private int count=0;\n public static void main(String[] args){\n new Game(); //just to start the program, creates a Game object\n }//end of main //and runs the code in the constructor directly below this\n public Game(){\n for(int i=0;i<1000000000;i++){\n int ball=r.nextInt(3)+1; //random number 1 through 3 to put the ball in\n \n guess=r.nextInt(3)+1; //random guess, 1 through 3\n if(guess==1){\n if(ball==1){\n guess=r.nextInt(2)+2; //if the guess is the right one, a random\n }//end of if //one of the 2 others will be removed,\n if(ball==2){ //so the other will be picked\n guess=2; //this is actually irrelevant, but for\n }//end of if //the simulation's sake I do it\n if(ball==3){\n guess=3;\n }//end of if //the last 2, if I'm wrong, I\n }//end of if //switch to the right one, since\n else if(guess==2){ //the wrong one will be removed\n if(ball==1){\n guess=1;\n }//end of if //this is repeated with all combinations\n if(ball==2){\n int newGuess=r.nextInt(2);\n if(newGuess==0){\n guess=1;\n }//end of if\n if(newGuess==1){\n guess=3;\n }//end of if\n }//end of if\n if(ball==3){\n guess=3;\n }//end of if\n }//end of if\n else if(guess==3){\n if(ball==1){\n guess=1;\n }//end of if\n if(ball==2){\n guess=2;\n }//end of if\n if(ball==3){\n int newGuess=r.nextInt(2);\n if(newGuess==0){\n guess=1;\n }//end of if\n if(newGuess==1){\n guess=2;\n }//end of if\n }//end of if\n }//end of if\n \n if(i%10000000==0){\n System.out.println(i/10000000+\"%\"); //this just displays the percentage\n }//end of if //of the way done\n \n if(ball==guess){\n count++; //if the guess is the same as where the ball is\n }//end of if //increment the counter\n }//end of for\n System.out.println(count/1000000000.0); //count over the amount done (currently a billion)\n }//end of constructor //gets the fraction correct, comes pretty close\n }//end of class //to .666666667\n \n \n Note that the // means comments\n \n Also from my preview it looks like it doesn't recognize the tabs so it may look a bit ugly with no indentation.", 
+   {}, 
+   225167, 
+   null, 
+   1154148480.0
+  ], 
+  [
+   225255, 
+   null, 
+   "Kronus", 
+   "No matter how many times we go over this, there is always someone who lacks the intellectual horsepower to understand. \n\n \n You know, there really is no call to be rude.", 
+   {}, 
+   225177, 
+   null, 
+   1154186340.0
+  ], 
+  [
+   225319, 
+   null, 
+   "pandion", 
+   "You know, there really is no call to be rude.\nRight. You haven't dealt with EF much, have you. He is the poster child for rude.", 
+   {}, 
+   225255, 
+   null, 
+   1154218620.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  good stuff", 
+  "url": "http://www.4forums.com/political/science-math-debates/8547-good-stuff.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 8547, 
+  "discussion_files": [
+   [
+    "23043.html", 
+    "http://www.4forums.com/political/science-math-debates/8547-good-stuff-print.html"
+   ], 
+   [
+    "23044.html", 
+    "http://www.4forums.com/political/science-math-debates/8547-good-stuff-3-print.html"
+   ], 
+   [
+    "23045.html", 
+    "http://www.4forums.com/political/science-math-debates/8547-good-stuff-2-print.html"
+   ]
+  ], 
+  "identifier": 8547
+ }
+]

@@ -1,0 +1,356 @@
+[
+ [
+  [
+   154368, 
+   null, 
+   "Alan Ryan", 
+   "After a surfeit of glitches, bugs and crashes, I'm tempted to dump my PC and replace it with an Apple iMac G5. The G5 technical specifications are perfectly adequate for my purposes and its an aesthetically pleasing machine. Any thoughts (from Mac owners ?) on whether this would be a wise move or a good/bad buy ?\n \n Incidentally, the iMac (2GHz) which I have my eye on, retails at the Apple Store in America for $1499 : I would have to pay the equivalent of about $1800 here in the UK. Is this too much to splash out for a machine that looks good but is perhaps only modestly specified ? Sometimes I'm prepared to overlook value for money in favor of the \"aesthetics\" of the thing.", 
+   {
+    "post_info": {
+     "post_title": "Buying an Apple ?"
+    }
+   }, 
+   null, 
+   null, 
+   1123779780.0
+  ], 
+  [
+   154388, 
+   null, 
+   "deathlord52", 
+   "Apples are definitely more secure than Windows, and have a user interface most people agree is better than Windows (or Linux). \n \n The main issue w/Macs is the memory. Do not buy one less than 512MB.\n \n You may want to keep your current PC, as Apple is currently porting Mac OS/X to Intel-hardware, and you could be able to put the Mac OS on your old hardware (unless it is RAM constrained as well, then it will be too slow to tolerate).\n \n If you want to save $$ until Apple makes the switch, you could wipe Windows and install one of the Linux flavors. 2 of the better ones in terms of newbie usage are the Mandriva Linux and SUSE 9.3 Professional OS's. Mandriva's has a better install interface, but the SUSE distro gets better press (supposedly more stable, but I have not crashed the Mandriva OS myself).", 
+   {}, 
+   154368, 
+   null, 
+   1123787880.0
+  ], 
+  [
+   154393, 
+   null, 
+   "Alan Ryan", 
+   "Apples are definitely more secure than Windows, and have a user interface most people agree is better than Windows (or Linux). \n \n The main issue w/Macs is the memory. Do not buy one less than 512MB.\n \n You may want to keep your current PC, as Apple is currently porting Mac OS/X to Intel-hardware, and you could be able to put the Mac OS on your old hardware (unless it is RAM constrained as well, then it will be too slow to tolerate).\n \n If you want to save $$ until Apple makes the switch, you could wipe Windows and install one of the Linux flavors. 2 of the better ones in terms of newbie usage are the Mandriva Linux and SUSE 9.3 Professional OS's. Mandriva's has a better install interface, but the SUSE distro gets better press (supposedly more stable, but I have not crashed the Mandriva OS myself).\n\n Thanks for the advice: I was unaware that the Mac OS could be transferred to my current hardware (when Apple makes the switch).\n I might be in too much of a hurry to dump my PC - but among other nuisances lately I had someone clone my internet connection (which I thought was virtually impossible) - this means that some hi-jacker gets my connection for free and I have to pay while being disconnected !", 
+   {}, 
+   154388, 
+   null, 
+   1123789380.0
+  ], 
+  [
+   154614, 
+   null, 
+   "deathlord52", 
+   "Thanks for the advice: I was unaware that the Mac OS could be transferred to my current hardware (when Apple makes the switch).\n I might be in too much of a hurry to dump my PC - but among other nuisances lately I had someone clone my internet connection (which I thought was virtually impossible) - this means that some hi-jacker gets my connection for free and I have to pay while being disconnected !\n\n IP riding is one of the ways they hack in. If you have broadband, it is well worth the money to get a cheapo router. Linksys' WRT54s are pretty good, and they have Linux buried in them. Then your PCs connect to an internal IP address that they cannot ride.\n \n I think Apple has been trying to limit the OS to their specific build, but beta testers have already gotten it to work on others. It probably has to do w/the device drivers. If they exist the install works.", 
+   {}, 
+   154393, 
+   null, 
+   1123861920.0
+  ], 
+  [
+   154694, 
+   null, 
+   "Alan Ryan", 
+   "IP riding is one of the ways they hack in. If you have broadband, it is well worth the money to get a cheapo router. Linksys' WRT54s are pretty good, and they have Linux buried in them. Then your PCs connect to an internal IP address that they cannot ride.\n \n\n Yes, I have broadband and I suppose that a router (such as you suggest) would \n help prevent a freeloader from stealing my connection and act as an additional firewall against intruders etc. However, I would have no use for the main facility which lets you attach 4 local PCs to the internet connection - creating a minature network. Is there a another alternative that would conceal the IP address from hackers ?", 
+   {}, 
+   154614, 
+   null, 
+   1123879680.0
+  ], 
+  [
+   154725, 
+   null, 
+   "deathlord52", 
+   "Yes, I have broadband and I suppose that a router (such as you suggest) would \n help prevent a freeloader from stealing my connection and act as an additional firewall against intruders etc. However, I would have no use for the main facility which lets you attach 4 local PCs to the internet connection - creating a minature network. Is there a another alternative that would conceal the IP address from hackers ?\n\n On Windows it is hard to do. There may be products for it now, but having switched to Linux a few years ago I am not well versed on MS offerings anymore. What is needed is an IP-spoofing application, where the real IP address is hidden and presented as a completely different one.\n \n There is another possibility, if you have a CD/DVD burner on your PC now. There are Linux distros that boot from CD (and do not install on the PC). These should sense all your hardware and connect to the internet. About the biggest detractor now is a few MS-based web processes will not run (some Media Player formats, and QuickTime). They should play flash sites and any RealPlayer formats. \n \n The SUSE Live download is here:\n http://www.novell.com/products/linuxprofessional/downloads/ftp/live_eval_int.html\n \n Another good one, Knoppix, is here:\n http://www.knopper.net/knoppix/index-en.html", 
+   {}, 
+   154694, 
+   null, 
+   1123891560.0
+  ], 
+  [
+   154797, 
+   null, 
+   "Alan Ryan", 
+   "On Windows it is hard to do. There may be products for it now, but having switched to Linux a few years ago I am not well versed on MS offerings anymore. What is needed is an IP-spoofing application, where the real IP address is hidden and presented as a completely different one.\n \n There is another possibility, if you have a CD/DVD burner on your PC now. There are Linux distros that boot from CD (and do not install on the PC). These should sense all your hardware and connect to the internet. About the biggest detractor now is a few MS-based web processes will not run (some Media Player formats, and QuickTime). They should play flash sites and any RealPlayer formats. \n \n The SUSE Live download is here:\n http://www.novell.com/products/linuxprofessional/downloads/ftp/live_eval_int.html\n \n Another good one, Knoppix, is here:\n http://www.knopper.net/knoppix/index-en.html\n\n Thanks for giving me the benefit of your experience. My main concern at the minute is to conceal the information that a hi-jacker needs to duplicate or to clone my internet connection. I've replaced my cable modem as a first step, and I'm thinking about abandoning Windows and buying an iMac. I realise that the Mac OS is not immune to hacking of course, but I'm attracted to the system on other grounds.\n \n I shall check out the links you gave, and think about switching to Linux.", 
+   {}, 
+   154725, 
+   null, 
+   1123924380.0
+  ], 
+  [
+   154831, 
+   null, 
+   "georged", 
+   "Thanks for giving me the benefit of your experience. My main concern at the minute is to conceal the information that a hi-jacker needs to duplicate or to clone my internet connection. I've replaced my cable modem as a first step, and I'm thinking about abandoning Windows and buying an iMac. I realise that the Mac OS is not immune to hacking of course, but I'm attracted to the system on other grounds.\n \n I shall check out the links you gave, and think about switching to Linux.\n\n \n With one exception, I have little personal information on the Windows based PCs we use for general Internet access on a wireless router. That exception is serial numbers and descriptions of personal assets for insurance purposes and hobby interests I upload to a website maintained for that purpose and carried under a proxy for whois purposes. Not much use to anyone else if they did crack the proxy holder. Our investments and all other personally identifiable, sensitive financial information are on a stand-alone PC with no Internet connection and the backup CD goes in the safe. \n \n We do make online purchases with personal credit cards, but those are limited to using American Express, who has a zero liability policy to card holders (and better points than the others). I stopped using online banking a few years ago and technically regressed to picking up the telephone for banking requirements as our bank digitally records all incoming calls and assigns personal bankers for account holders. My brokers and money market accounts will not accept change orders unless they have hard copy signatures from myself or my wife. Since I'm no longer a frequent trader, that creates no hardship. \n \n If our little system is mischievously hacked it would be inconvenient from a viewpoint of wiping the HDs and reloading program software, but I'm not concerned about financial loss. I made the changes a few years ago after an IT friend showed me the pages and pages of attempted firewall intrusions on my PC. While most come from hobby hackers, I figured why take a chance on having to unravel a mess.", 
+   {}, 
+   154797, 
+   null, 
+   1123948620.0
+  ], 
+  [
+   154832, 
+   null, 
+   "Alan Ryan", 
+   "\n If our little system is mischievously hacked it would be inconvenient from a viewpoint of wiping the HDs and reloading program software, but I'm not concerned about financial loss. I made the changes a few years ago after an IT friend showed me the pages and pages of attempted firewall intrusions on my PC. While most come from hobby hackers, I figured why take a chance on having to unravel a mess.\n\n We have savings accounts, a current account, and credit card facilities all electronically administered online. The recent discovery that our internet connection had been \"stolen\", has made me pause for thought. However, several careful examinations of the transactions records have not revealed any problem (yet !). I assume the hacker has not been able to find a route through the security rigmarole that protects online accounts ? Now I'm considering closing out my online dependency and returning to a \"manual checking\" account. \n \n Meanwhile I curse my ignorance on so many aspects of computer technology, and even for just casual surfing on the web I want to feel confident that I'm not over exposed to the malevolence of the \"hacking community\". Perhaps a complete change of operating system will create the illusion that I'm \"safer\" than before.", 
+   {}, 
+   154831, 
+   null, 
+   1123951740.0
+  ], 
+  [
+   154835, 
+   null, 
+   "georged", 
+   "We have savings accounts, a current account, and credit card facilities all electronically administered online. The recent discovery that our internet connection had been \"stolen\", has made me pause for thought. However, several careful examinations of the transactions records have not revealed any problem (yet !). I assume the hacker has not been able to find a route through the security rigmarole that protects online accounts ? Now I'm considering closing out my online dependency and returning to a \"manual checking\" account. \n \n Meanwhile I curse my ignorance on so many aspects of computer technology, and even for just casual surfing on the web I want to feel confident that I'm not over exposed to the malevolence of the \"hacking community\". Perhaps a complete change of operating system will create the illusion that I'm \"safer\" than before.\n\n \n I don't know if anyone not professionally employed in IT shouldn't be considered dismally computer technology ignorant, myself definitely included. Most technical advances are so far ahead of the market due to achieving return on development costs for current technology what layman could stay on the edge of that curve.", 
+   {}, 
+   154832, 
+   null, 
+   1123952520.0
+  ], 
+  [
+   155046, 
+   null, 
+   "daewoo", 
+   "Meanwhile I curse my ignorance on so many aspects of computer technology, and even for just casual surfing on the web I want to feel confident that I'm not over exposed to the malevolence of the \"hacking community\". Perhaps a complete change of operating system will create the illusion that I'm \"safer\" than before.\n\n \n computers have gotten easier, and hardware cheaper. You can pick up a dedicated firewall on Ebay for $100-$200 and not have to worry much. \n \n the problem with switching to Apple is that their percieved invulnerability does not come from the fact that they are all that secure, but from the fact that businesses rarely use them and there are not many out there, so most hackers see learning the ins and outs as a waste of time. My sister has an apple, and my IT guy at the office would routinely take control of her system to fix problems. If you end up with a hacker who HAS bothered to take the time to learn a bit abotu the system, your computer is theirs. \n \n Linux is without a doubt the most secure system available, and easy enough to set up at home without needing an IT pro.\n \n Personally, I run a honeypot in fornt of my firewalled system (el cheapo computer from Ebay...old netier SL series terminals work well and don't take up much room). The way it is set up, I have a machine running windows 2K connected to my internet connection, then to my server. That front machine is running (I think) a zone alarm firewall. The server behind it is running linux with an IPchains firewall. Since the linux firewall is highly configurable, it can be set to refuse any connection (or answer any pings) from the access box that it has not initiated. Hacker hits the access box, breaks through the zone alarm firewall, and thinks they are in. Scanning other ports, etc... does them no good, since the server is impervious to such things. From the outside, the access computer looks like a standalone machine. They never get any further.", 
+   {}, 
+   154832, 
+   null, 
+   1124121180.0
+  ], 
+  [
+   155067, 
+   null, 
+   "Alan Ryan", 
+   "\n Linux is without a doubt the most secure system available, and easy enough to set up at home without needing an IT pro.\n \n Personally, I run a honeypot in fornt of my firewalled system (el cheapo computer from Ebay...old netier SL series terminals work well and don't take up much room). The way it is set up, I have a machine running windows 2K connected to my internet connection, then to my server. That front machine is running (I think) a zone alarm firewall. The server behind it is running linux with an IPchains firewall. Since the linux firewall is highly configurable, it can be set to refuse any connection (or answer any pings) from the access box that it has not initiated. Hacker hits the access box, breaks through the zone alarm firewall, and thinks they are in. Scanning other ports, etc... does them no good, since the server is impervious to such things. From the outside, the access computer looks like a standalone machine. They never get any further.\n \n \n This arrangement is ingenious and should it make your system immune to attacks from the hacking fraternity. By comparison, my computer is a sort of caveman set up (a Flintstone and Rubble operation) and wide open to the pests who stole my connection last week - though I still wonder whether it might have been an inside job with somebody at the cable company tampering with the settings on my modem. Anyhow, tomorrow I shall go to the bookstore and buy me a beginner's guide to Linux. Once I've mastered that (if I ever do) - then it's an Apple for me and the happiness of a new delusion !", 
+   {}, 
+   155046, 
+   null, 
+   1124129580.0
+  ], 
+  [
+   155095, 
+   null, 
+   "Anastasia", 
+   "Alan\n I have 2 Macs One older G4\n and a new Dual G5 with 2 gigs of Ram soon to be 8\n I have the biggest G5 you can get and I LOVE it.\n I have been a Mac user for many years and I have never had any problems, never been hacked, never had a virus!\n The new OS is wonderful, I assume you will be using Tiger.\n I have been on OSX since Jaguar and it is very user friendly, you will find everything will become easier.\n Even maintenance is a breeze, still be on the lookout for things that can creep in, where they may not do any out right damage it can mess up your \n Disk Permissions...\n I work mainly in Photoshop, Illustrator and Quark so having the ability to have 8 gigs of RAM was huge for me!!!!", 
+   {}, 
+   155067, 
+   null, 
+   1124134140.0
+  ], 
+  [
+   155099, 
+   null, 
+   "Alan Ryan", 
+   "Alan\n I have 2 Macs One older G4\n and a new Dual G5 with 2 gigs of Ram soon to be 8\n I have the biggest G5 you can get and I LOVE it.\n I have been a Mac user for many years and I have never had any problems, never been hacked, never had a virus!\n The new OS is wonderful, I assume you will be using Tiger.\n I have been on OSX since Jaguar and it is very user friendly, you will find everything will become easier.\n Even maintenance is a breeze, still be on the lookout for things that can creep in, where they may not do any out right damage it can mess up your \n Disk Permissions...\n I work mainly in Photoshop, Illustrator and Quark so having the ability to have 8 gigs of RAM was huge for me!!!!\n\n \n Thanks Anastasia: I find your enthusiasm infectious. I know that Macs are not immune to hacking - as daewoo says, there's fewer of them so the hacking nuisances haven't paid much attention to them.\n \n Yes, I shall be using the Tiger operating system on a G5: I'm not only attracted to these machines because of OSX, I'm also pleased by the \"aesthetic\" appeal - which I know should be irrelevant to my decision. But I'm tired of the ugly equipment on which I'm sending this message !", 
+   {}, 
+   155095, 
+   null, 
+   1124134800.0
+  ], 
+  [
+   155144, 
+   null, 
+   "Anastasia", 
+   "Thanks Anastasia: I find your enthusiasm infectious. I know that Macs are not immune to hacking - as daewoo says, there's fewer of them so the hacking nuisances haven't paid much attention to them.\n \n Yes, I shall be using the Tiger operating system on a G5: I'm not only attracted to these machines because of OSX, I'm also pleased by the \"aesthetic\" appeal - which I know should be irrelevant to my decision. But I'm tired of the ugly equipment on which I'm sending this message !\n\n I am very passionate about my MAC and you will find it's like being in a cult as a Mac user :)\n You will never go back to Windows I swear!\n I bought a Windows machine a few years ago just to see what my \"PC\" friends were saying, and that is way too much work for me..I learned Windows and I can do what I need to but I do not prefer it at all!\n I can't wrap my head around all the XXXX you have to do just to keep spyware off your machines...\n and the endless windows updates emoticon_rolleyes \n I will take a Mac any day!!!!\n Good luck with your new baby!!!!!!", 
+   {}, 
+   155099, 
+   null, 
+   1124143740.0
+  ], 
+  [
+   155146, 
+   null, 
+   "Anastasia", 
+   "Also Google has a Mac search engine just for Mac :)\n http://google.com/mac\n It is very handy!", 
+   {}, 
+   155144, 
+   null, 
+   1124143860.0
+  ], 
+  [
+   156519, 
+   null, 
+   "Redratio1", 
+   "After a surfeit of glitches, bugs and crashes, I'm tempted to dump my PC and replace it with an Apple iMac G5. The G5 technical specifications are perfectly adequate for my purposes and its an aesthetically pleasing machine. Any thoughts (from Mac owners ?) on whether this would be a wise move or a good/bad buy ?\n \n Incidentally, the iMac (2GHz) which I have my eye on, retails at the Apple Store in America for $1499 : I would have to pay the equivalent of about $1800 here in the UK. Is this too much to splash out for a machine that looks good but is perhaps only modestly specified ? Sometimes I'm prepared to overlook value for money in favor of the \"aesthetics\" of the thing.\n\n \n If you are a comp geek, Macs have one of the best OS's EVER. The Unix shell it is based on is one of the most stable and comprehensive on the market. \n \n You only need to know how to tap into it. \n \n However I you are looking for software quantity, and diversity, PC is the way to go.\n \n I'd love to have a Mac just to play with..........if I had the money.", 
+   {}, 
+   154368, 
+   null, 
+   1124792640.0
+  ], 
+  [
+   156555, 
+   null, 
+   "daewoo", 
+   "If you are a comp geek, Macs have one of the best OS's EVER. The Unix shell it is based on is one of the most stable and comprehensive on the market. \n\n \n Being a computer geek, I have to disagree. There is not enough unix left in the unix shell to make the Mac OS worthy of being included as a *nix system. The OS is VERY stable, when using approved programs. Unfortunatly the stability of an OS is not based on how it handles well written and properly constructed programs, but on how it handles poorly constructed apps that tend to misbehave. In this regard, Microsoft is light years ahead of Mac (yes, it hurts to say that). It is relatively difficult to write a program that will crash a windows system utterly and completely. You actually have to try in order to do it. A good friend who owns a compnay that develops some fairly well known mac software keeps a whole room of spare machines and a tech who does nothing but re-install operating systems because during the course of testing misbehaving apps routinely scrag systems. \n \n In short, I think that ont he desk of a computer geek is where you are least likely to find a mac/apple. They (apple) tend to market their machines as an alternative to people who want something a little different and little prettier (big selling point). At one time, they were pretty much the undisputed champs when it came to desktop publishing and even video editing. Now Amiga has emerged as a superior video editing machine, and windows has beat mac into the ground as far as the desktop publishing game goes. My former ad agency did not even have a mac in their office. \n \n For standard use, the apple is probably not a bad choice. For power users, it probably is. As far as security goes, you are no better off with a mac than a pc. The only really secure systems out there are the *nix based setups (linux, BSD, etc...)", 
+   {}, 
+   156519, 
+   null, 
+   1124815140.0
+  ], 
+  [
+   158034, 
+   null, 
+   "Anastasia", 
+   "In short, I think that ont he desk of a computer geek is where you are least likely to find a mac/apple. They (apple) tend to market their machines as an alternative to people who want something a little different and little prettier (big selling point). At one time, they were pretty much the undisputed champs when it came to desktop publishing and even video editing. Now Amiga has emerged as a superior video editing machine, and windows has beat mac into the ground as far as the desktop publishing game goes. My former ad agency did not even have a mac in their office. \n \n\n I have to disagree with you on this.. I have been in the print biz a long time and PC is not the standard. Mac still is and thankfully so.\n Designing ads is what I do a for a living and all the major ad agencies still use Mac. You may be right right on the Video end, but not the print end.\n Most major studios are using Macs for their editing too..\n I worked for MGM for 5 years and this was the standard.\n \n emoticon_xangel", 
+   {}, 
+   156555, 
+   null, 
+   1125418860.0
+  ], 
+  [
+   158042, 
+   null, 
+   "georged", 
+   "I have to disagree with you on this.. I have been in the print biz a long time and PC is not the standard. Mac still is and thankfully so.\n Designing ads is what I do a for a living and all the major ad agencies still use Mac. You may be right right on the Video end, but not the print end.\n Most major studios are using Macs for their editing too..\n I worked for MGM for 5 years and this was the standard.\n \n emoticon_xangel\n\n \n I watched a fairly large weekly shopper publication change from Mac to PC with substantial operations improvement due to compatibility with B to B advertiser and vendor software, including A/R and A/P. They have their own printing facilities and still use Quark as their graphics standard, but under PC, not Mac hardware. The IT guy said while Mac formerly held the design market due to substantial incompatible font investments and isolation of design groups from the business unit, advancements in PC technology have made Mac business usage more of a cult holdout and reluctance to change systems than anything else. I just checked a user group and common opinions from those who use both systems for graphics design was 'no difference'.", 
+   {}, 
+   158034, 
+   null, 
+   1125420600.0
+  ], 
+  [
+   158044, 
+   null, 
+   "Anastasia", 
+   "I watched a fairly large weekly shopper publication change from Mac to PC with substantial operations improvement due to compatibility with B to B advertiser and vendor software, including A/R and A/P. They have their own printing facilities and still use Quark as their graphics standard, but under PC, not Mac hardware. The IT guy said while Mac formerly held the design market due to substantial incompatible font investments and isolation of design groups from the business unit, advancements in PC technology have made Mac business usage more of a cult holdout and reluctance to change systems than anything else. I just checked a user group and common opinions from those who use both systems for graphics design was 'no difference'.\n\n Well I guess the Mac users are like a cult :)\n I will always remain a Mac user, and personally having worked on both platforms, Mac is much more fluid..\n As for Quark *sigh* so many issues.. Hopefully the industry will come up to the plate and make Adobe's Indesign the standard. It is a much better program. \n As for fonts.. That is a sorely needed area for improvement on both platforms. But they are making progress, the new fonts are usable on both platforms which is nice. \n Quark has had problems with fonts for years!!!\n Almost always if Quark crashes it is because of a font!!!\n emoticon_mad", 
+   {}, 
+   158042, 
+   null, 
+   1125420840.0
+  ], 
+  [
+   217165, 
+   null, 
+   "Wiz", 
+   "i prefer Mac.", 
+   {}, 
+   158044, 
+   null, 
+   1150408800.0
+  ], 
+  [
+   217231, 
+   null, 
+   "donniedarko", 
+   "I still find that in recording industry, Mac's still hold alot of ground. Although Cubase is catching up to Protools (sort of), Digidesigns is still the dominant force. Having worked with with both PCs and Macs with regards to sound engineering, I give the edge to Macs. I also love how intuitive the OS is for Apple computers. Maybe I have beeng using solely Macs for too long now (2 and half years ago I ditched my desktop PC) but I am never confused by the OS. Wherever I think to look for something, whaddayaknow! There it is! I also appreciate the aesthetics of the design, although I am somewhat stupified at how Apple can justify charging nearly $200 CA for a different colour chassis. Wtf is up with that?\n \n peace", 
+   {}, 
+   217165, 
+   null, 
+   1150420080.0
+  ], 
+  [
+   339517, 
+   null, 
+   "Ignatius", 
+   "iMac here, since november 2007.", 
+   {}, 
+   217231, 
+   null, 
+   1231460760.0
+  ], 
+  [
+   387816, 
+   null, 
+   "Easyrider", 
+   "Does the iPad have telephone capability, where you can talk on it like a cell phone? I heard it has bluetooth but not sure what that means.", 
+   {}, 
+   339517, 
+   null, 
+   1264640880.0
+  ], 
+  [
+   387841, 
+   null, 
+   "Archangel", 
+   "Does the iPad have telephone capability, where you can talk on it like a cell phone? I heard it has bluetooth but not sure what that means.\n\n \n Here's a link to the Apple site and a video which explains the product features. It should get you started and answer your questions. Note the 3G model, that one requires a service plan so yes, it is bluetooth capable, but I don't think it's a cell phone. I've already called my local Apple store, they wont be available for 60 days in house. And you can't pre-order one. I know because I asked. But I want to test drive one anyway before deciding which one I would buy. \n \n Apple - iPad - Price starting at $499\n \n Apple - iPad - Watch the iPad video.", 
+   {}, 
+   387816, 
+   null, 
+   1264651680.0
+  ], 
+  [
+   387983, 
+   null, 
+   "Archangel", 
+   "I just watched the special event introduction for the iPad and key note speech by Steve Job. Here's the link if anyone wants to watch it. It explains all of the functions surrounding it. emoticon_xgood\n \n http://stream.qtv.apple.com/events/jan/1001q3f8hhr/1001908r5ft6dswz_1_650_ref.mov", 
+   {}, 
+   387841, 
+   null, 
+   1264733820.0
+  ], 
+  [
+   388021, 
+   null, 
+   "Easyrider", 
+   "Here's a link to the Apple site and a video which explains the product features. It should get you started and answer your questions. Note the 3G model, that one requires a service plan so yes, it is bluetooth capable, but I don't think it's a cell phone. I've already called my local Apple store, they wont be available for 60 days in house. And you can't pre-order one. I know because I asked. But I want to test drive one anyway before deciding which one I would buy. \n \n Apple - iPad - Price starting at $499\n \n Apple - iPad - Watch the iPad video.\n\n \n \n Thanks, Arch. I heard it does have a slot for a phone card but it doesn't have the full capabilities for that yet. I'd like a tablet just for movies, web surfing, and music (I like iTunes for my iPhone and iPod). The movie screen on the iPad is only about half the size of the iPad itself. I think I'll wait 6 months to a year until they come down in price and either get it or the next generation iPad. But I'll still go down and check it out in 60 days. Maybe it will blow me away.", 
+   {}, 
+   387841, 
+   null, 
+   1264778580.0
+  ], 
+  [
+   388180, 
+   null, 
+   "Archangel", 
+   "Thanks, Arch. I heard it does have a slot for a phone card but it doesn't have the full capabilities for that yet. I'd like a tablet just for movies, web surfing, and music (I like iTunes for my iPhone and iPod). The movie screen on the iPad is only about half the size of the iPad itself. I think I'll wait 6 months to a year until they come down in price and either get it or the next generation iPad. But I'll still go down and check it out in 60 days. Maybe it will blow me away.\n\n \n This is an excellent reason to wait for the second generation as it shows what's coming down the pike.\n \n Apple's iPad Thinks It Has a Camera | Gadget Lab | Wired.com \n \n So the software already exists to run a camera which is obviously forthcoming. What I think is very possible with this camera application is that the lens will be on the screen side so it can become a video phone in a future generation iPad. I mean, they would want to take the phone application to a new level in order to motivate wide distribution, right? This is Apple we're talking about after all and they do think outside of the box. \n \n And I'll tell you this also, the e-book aspect of this is a huge selling point. The Kindle has created a huge market which is wide open and largely untapped at this point. And B&Ns new Nook appears to be on back order and is a huge hit also. But both of those products are just e-readers and nothing more. With the universal love and confidence in the working of the itunes store, the new eBook Store will be another huge source of revenue for Apple and incredibly convenient since it works just like the App Store. \n \n I'm wondering, and assuming that we will be able to buy I-books for our iPhones and Ipods also, in fact I'm going to call Apple right now and ask that question; hold on... The answer is yes, we will also be able to shop at the book store in iTunes with our iPhones and Ipod touch's. But although I am really excited about this products release, I think I'll probably wait for a later generation version as I did with the 3GS Iphone, For a personal toy anyway. My iPhone currently has everything I need as a companion to my macbook. \n \n I actually want it for its bluetooth capability as a controller for the smart home technology I'm building into my home. I currently have remotes but they are limited, bulky and not nearly as cool as the iPad, not to mention as universally functional and flexible. I imagine having each iPad with the music library/videos connected to the speakers via bluetooth in each main room. Imagine the quality control and convenience that will offer from one unit in each area.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   388021, 
+   null, 
+   1264821300.0
+  ], 
+  [
+   406549, 
+   null, 
+   "sallyluvsu2", 
+   "I have a Mac at work and I love it! But if you are wanting to try cleaning it up instead of forking out $1-2k, you might try Cyberdefender. I use it on my personal computer at home and it works great! \n \n I got the free Cyberdefender antivirus software program first off their website which found a lot of stuff on my system and got rid of the spyware and Trojans. I guess I should have gotten the paid version, but since the free scanner didn't find any viruses I didn't buy the upgrade then. In the past, some of the software that I installed on my system I couldn't get completely un-installed. As a test I un-installed Cyberdefender, and found that it was completely removed, no lingering pops or other stuff. \n \n I re-installed Cyberdefender and ran it once a month or any time I got strange pop ups, just check so viruses, spyware or other bad stuff. About 2 weeks ago, a virus came along and Cyberdefender caught it, and so I bought the upgrade to get rid of the virus. I later ran Cyberdefender after the upgrade and it could not detect the virus. Since then, no problems. This is my experience with Cyberdefender - really good software and the 24/7 computer help is great.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   388180, 
+   null, 
+   1278528300.0
+  ], 
+  [
+   422900, 
+   null, 
+   "jamilla", 
+   "While I probably wouldn't buy it because Apple overprices everything, I have a recent HP Tablet and am disappointed at the quality of it compared to a tablet I could buy off eBay for $200. So make sure you know what that HP looks like in person before you buy it.", 
+   {}, 
+   154368, 
+   null, 
+   1295598900.0
+  ], 
+  [
+   424073, 
+   null, 
+   "Ballentine", 
+   "I have 2 iPhones, 27 inch iMac, and a 13 inch MacBook Pro. I would never use anything else.", 
+   {}, 
+   155144, 
+   null, 
+   1297727460.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Buying an Apple ?", 
+  "url": "http://www.4forums.com/political/computers/6169-buying-apple.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 6169, 
+  "discussion_files": [
+   [
+    "11715.html", 
+    "http://www.4forums.com/political/computers/6169-buying-apple-print.html"
+   ], 
+   [
+    "11716.html", 
+    "http://www.4forums.com/political/computers/6169-buying-apple-3-print.html"
+   ], 
+   [
+    "11717.html", 
+    "http://www.4forums.com/political/computers/6169-buying-apple-2-print.html"
+   ]
+  ], 
+  "identifier": 6169
+ }
+]

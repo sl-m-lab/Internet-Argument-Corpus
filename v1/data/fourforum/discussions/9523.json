@@ -1,0 +1,74 @@
+[
+ [
+  [
+   249491, 
+   null, 
+   "electrolyte", 
+   "From Pharyngula's blog via IIDB: The Irreducible Complexity Evolver\n \n Yes, folks, it's a simple genetic algorithm based on known mutation types and natural selection. It will sometimes produce irreducibly complex individuals.\n \n To understand how the algorithm works, see the text below the applet.\n \n I've run three extended trials. One ended up essentially \"dead,\" and one didn't produce any IC individuals before I restarted it, but the other produced three in fewer than 350 generations.\n What some people here may find interesting is to see the beneficial patterns that emerge from RMNS. For example, in one of my runs, nearly every surviving individual had an R in box (6,9), which redirects points to the counter. Many of these had an L in box (4,9), which does the same. In another trial, most individuals' column 4 had a large string of As to increase points before large messes of splits and redirects. Another trial ended up with an L in (3,9) but an S in (4,9), funneling points into the counter. This trial later ended up with As replacing the Ss in (4,9), funneling extra points into the counter.\n \n These trends each arose randomly and were implicitly selected for by the algorithm. This is precisely how RMNS works, despite the insistence by some members here that randomness cannot play any part in increased fitness. So unless the genetic algorithm is alive, or each \"individual\" has a conscious life force...", 
+   {
+    "post_info": {
+     "post_title": "Simulator produces IC via RMNS... on your own computer!"
+    }
+   }, 
+   null, 
+   null, 
+   1170571560.0
+  ], 
+  [
+   249616, 
+   null, 
+   "Peeling", 
+   "I think the likely response is going to be that this doesn't count, because the selection criteria were 'intelligently chosen' by the person writing the code.\n \n That is of course nonsense, because in choosing those selection criteria the person writing the code is seeking to emulate the effects of environmental selection (fitness logically leading to survival and reproduction). Art imitating life as it were.", 
+   {}, 
+   249491, 
+   null, 
+   1170696060.0
+  ], 
+  [
+   249629, 
+   null, 
+   "wascallywabbit", 
+   "I think the likely response is going to be that this doesn't count, because the selection criteria were 'intelligently chosen' by the person writing the code.\n \n That is of course nonsense, because in choosing those selection criteria the person writing the code is seeking to emulate the effects of environmental selection (fitness logically leading to survival and reproduction). Art imitating life as it were.\n\n \n **\n Actually, what is \"nonsense\" is the tautology of \"fitness logically leading to survival and reproduction\", when \"fitness\" in the common English usage sense of the word means 'adaptedness'-- the ability to survive, and hence, reproduce. While in the geneticist 'special case' usage (aka, \"Humpty Dumpty semantics) 'fitness' is the effect that survival and reproduction lead to--statistically differential positive population growth.\n \n The real issue remains as always--what mechanism drives/causes the adaptedness/fitness of different organisms in a world of randomly changing local environments? That is, what universal principle of adaptive change applies to all organisms in many different local environments when these local environments undergo random, but robust, changes? I say that it is the universally employed force of Vitality, (Life), within organisms acting in an intelligent, volitional process of self-adaptation to external stimulus I call, 'Endogenous Adaptive Mutagenesis'.", 
+   {}, 
+   249616, 
+   null, 
+   1170698160.0
+  ], 
+  [
+   249640, 
+   null, 
+   "SLP", 
+   "**\n Actually, what is \"nonsense\" is the tautology of \"fitness logically leading to survival and reproduction\", when \"fitness\" in the common English usage sense of the word means 'adaptedness'-- the ability to survive, and hence, reproduce. While in the geneticist 'special case' usage (aka, \"Humpty Dumpty semantics) 'fitness' is the effect that survival and reproduction lead to--statistically differential positive population growth.\n\n \n Ah yes - mike turner's Dictionary expertise*.\n \n This is similarly 'tautological' to 'intelligence is required to design things because design implies intelligence at work.'\n Oh wait - no it isn't. \n It is not a tautology if it is an observation and the conclusion is not assumed as a premise. Those that are able to reproduce in a given environment are the 'fittest'; the 'fittest' are those that are able to reproduce. \n Turner's dislike for the facts do not negate them.\n\n \n The real issue remains as always--what mechanism drives/causes the adaptedness/fitness of different organisms in a world of randomly changing local environments? That is, what universal principle of adaptive change applies to all organisms in many different local environments when these local environments undergo random, but robust, changes? I say that it is the universally employed force of Vitality, (Life), \n\n \n How dreamy and un-supportable!\n\n within organisms acting in an intelligent, volitional process of self-adaptation to external stimulus I call, 'Endogenous Adaptive Mutagenesis'.\n\n You call it whatever you want to.\n \n You prop it up with your misinterpretations of abstracts and news releases. \n \n And you argue for it with condescending dismissals of explanations that you do not like/cannot understand and the like.\n \n If EAM were real, why is the success rate so low? Why cannot ALL organisms adapt at will to a changing environment? Your acolyte Bertha Jane declared that not all will adapt because not all are able to. Hmmm.... If they are not all able to, then what makes those that are abvle to adapt able to do so?\n \n If EAM were real, why are there no real-life examples - examples that do not rely on angry proclamations and accusationsfrom its advocate?\n \n *this is simlar to google expertise, but more deserving of ridicule", 
+   {}, 
+   249629, 
+   null, 
+   1170700380.0
+  ], 
+  [
+   249663, 
+   null, 
+   "Tastyfish", 
+   "**\n Actually, what is \"nonsense\" is the tautology of \"fitness logically leading to survival and reproduction\", when \"fitness\" in the common English usage sense of the word means 'adaptedness'-- the ability to survive, and hence, reproduce. While in the geneticist 'special case' usage (aka, \"Humpty Dumpty semantics) 'fitness' is the effect that survival and reproduction lead to--statistically differential positive population growth.\n \n\n Doesn't matter how well adapted you are to your environment if an elephant sits on you, its pretty much going to stop you from breeding from then on.", 
+   {}, 
+   249629, 
+   null, 
+   1170703260.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Simulator produces IC via RMNS... on your own computer!", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/9523-simulator-produces-ic-via-rmns-your-own-computer.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 9523, 
+  "discussion_files": [
+   [
+    "6572.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/9523-simulator-produces-ic-via-rmns-your-own-computer-print.html"
+   ]
+  ], 
+  "identifier": 9523
+ }
+]

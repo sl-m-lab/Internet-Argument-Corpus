@@ -1,0 +1,314 @@
+[
+ [
+  [
+   329193, 
+   null, 
+   "iangb", 
+   "Just because I've seen burden of proof arguments horrendously misused a couple of times, I thought I'd post this. It's not my work, instead it is an excerpt from a rant by a good friend of mine who occasionally goes by the handle 'Tsukatu'. However, it succinctly covers all the points. Worth reading, especially if you've been involved in a 'no, YOU prove it' argument recently.\n \n \nThis is an explanation of something known as the Burden of Proof, basically a fundamental rule of debate.\n Again, this is here primarily for storage purposes, but if you found this and you're interested, feel free to comment or something.\n \n The basic idea is that you don't just do things if you can't find a lack of a reason not to - you need to consider the reasons for doing them first and foremost, and if those are more compelling than inaction, only then do you even begin looking for reasons against.\n \n Here's the process laid out:\n * You assert something. The default position is that your assertion is invalid (false). Mind you, that doesn't mean that the opposite of your assertion is true by default (the opposite is also false by default, until it follows this same process), but only that your assertion cannot be trusted to be correct.\n * You must provide at least one compelling reason that your assertion is valid. If no one is able to challenge your reasoning, and your assertion and reasoning both hold up to practice (if applicable), then your assertion is valid, and it is completely acceptable to believe it.\n * If anyone manages to challenge your reasoning and you're unable to defend it, then that reasoning can't be supported and it is unable to validate your assertion. If your assertion has no more validating reasons, it defaults to false.\n * In the more devastating case, if anyone manages to find an inconsistency within your initial assertion itself, with all supporting reason completely aside, that not only defeats all of the supporting reasoning in its entirety and reduces the assertion to its default of false, but also provides a compelling reason to believe that the opposite of the assertion is true.\n * If someone is able to assert and support something that entails your assertion is false unconditionally, one of you is in error. If it is true and it entails your assertion being true some of the time, your assertion should be ammended to include that, otherwise it is false.\n * If your assertion appears to be consistent and at least one supporting reason is compelling enough to believe it, then it will be accepted as true.\n \n Every scientific idea that has advanced to the level of \"theory\" has gone through this process. Most people consider the word \"theory\" to be synonymous with \"idea\" or \"hypothesis,\" but this is just plain wrong. Having an idea is one thing, but when the scientific community puts forward an effort to falsify that idea and consistently fails, it is only *then* reluctantly promoted to the status of \"theory.\" If you hear a theory and you're not a scientist trying to prove that it's wrong, you'd do damned well to believe it (because in most cases, if not all, it'd be brazen and idiotic not to).\n \n For example:\n I assert that I'm posting this on Facebook.\n The easiest way to provide compelling reasoning in support is demonstration - this note exists, the website exists, and look where this note is.\n If you can defeat that reason, I can probably come up with plenty more. So far as I understand it, though, this reasoning cannot be meaningfully challenged (don't start with the solipsism).\n So far as I understand it, the assertion is also self-consistent. If I had said that this note is also a dog, you'd know that that can't be right because a dog is not an abstract noun, and this post is not a physical thing. I would not be correct no matter how much reasoning I can give in support, because the initial assertion is inconsistent.\n You can't challenge my reasoning on this assertion, nor can you find any inconsistencies in it, and so you must accept that it's very probably true. You can still take the cop-out position and say that you don't understand the assertion and/or the reasoning, and so you must suspend judgment, but that's silly to do in a trivial case like this.\n \n Now let's assume that we live in XXX-Backwards Logic World where assertions have to be proven false before they're discarded, and the default value of things is true (in other words, guilty until proven innocent).\n I say invisible pink unicorns exist. You ask why I think that's true, and I flip you the bird. I ask why you think they don't exist.\n You can't give me a compelling reason as to why an invisible pink unicorn can't exist as long as I keep mounting on properties that make them impossible for humans to observe or be affected by them. You will fail miserably to disprove my invisible pink unicorns, and so you must accept the default that the assertion is true. It would be in your best interests to begin acting as though invisible pink unicorns existed as I described them.\n And I can do this for a theoretically infinite number of things, and you'd be foolish not to believe them all, because they're all logical according to the XXX-Backwards Logic of XXX-Backwards Logic World.\n\n \n In short, please don't say \"I've said X, it's your job to prove me wrong\". It really isn't.", 
+   {
+    "post_info": {
+     "post_title": "The Burden of Proof"
+    }
+   }, 
+   null, 
+   null, 
+   1224616380.0
+  ], 
+  [
+   344838, 
+   null, 
+   "Peeling", 
+   "This is the part most readily forgotten, I think:\n \n \n* You assert something. The default position is that your assertion is invalid (false). Mind you, that doesn't mean that the opposite of your assertion is true by default (the opposite is also false by default, until it follows this same process)\n", 
+   {}, 
+   329193, 
+   null, 
+   1235413560.0
+  ], 
+  [
+   344979, 
+   null, 
+   "Winston Smith", 
+   "What if I assert (as the example given by Betrand Russell in his introduction to Philosophy if I remember correctly ) that \"black swans do not exist\" because I have never seen one ?\n Now, what if no one in the room has seen one either, then have I proved my assertion?\n \n What if I look into my garage and say it is true that there is no pink elephant inside because I can't see one? Have I proven it, because my senses can not sense a pink elephant?", 
+   {}, 
+   344838, 
+   null, 
+   1235566380.0
+  ], 
+  [
+   344980, 
+   null, 
+   "iangb", 
+   "Black swans are an old in-joke.\n \nWhat if I assert that \"black swans do not exist\" because I have never seen one ?\n Now, what if no one in the room has seen one either, then have I proved my assertion?\nNope, because of the old catchphrase: 'absence of evidence is not evidence of absence'. There are plenty of swans in existence which you have not checked, and there are plenty of places you haven't looked where where a black swan might be hiding. \n A more accurate statement would be 'There are no black swans in the places I've looked, at the time I was looking, that I could see'. Which brings us nicely onto the second part...\n \n \nWhat if I look into my garage and say it is true that there is no pink elephant inside because I can't see one? Have I proven it, because my senses can not sense a pink elephant?\nThis is more provable, because the terms 'pink' and 'elephant' describe a creature which could not hide in your garage if you took a look - assumed in your phrase is \"a pink elephant (that is visible and normal size)\". If we treat your statement in the same way as we treated your swan-based one, you can say \"There are no pink elephants in the places I've looked, at the time I was looking, that I could see\". Given that you have looked everywhere within your garage where a pink elephant (that is visible and normal size) could be, you can safely say that there are no pink elephants in your garage (at the time of looking).\n \n However, if you start adding extra features to the elephant that take it away from the standard definitions of 'pink' and 'elephant' - for example, that the elephant is the same size as a subatomic particle - then you run into the same problem as you had with the swans.\n \n Essentially - if it is possible that something exists in a place you haven't looked yet, you cannot say 'this thing does not exist' based on the induction that you haven't found it anywhere else so far. This was the case for swans, it was not the case for elephants without drastically redefining the terms 'pink' or 'elephant'. \n \n NB: It's also worth noting that you cannot say 'because there is no evidence that there are no black swans, black swans must exist'.", 
+   {}, 
+   344979, 
+   null, 
+   1235570100.0
+  ], 
+  [
+   344982, 
+   null, 
+   "Winston Smith", 
+   " It's also worth noting that you cannot say 'because there is no evidence that there are no black swans, black swans must exist'. \n\n \n \n Yes, but when will you say that you have exhausted all posibilities of finding \"black swans\"? maybe there will always be a a remote place you haven't looked in.\n i.e. you can never prove that they don't exist.", 
+   {}, 
+   344980, 
+   null, 
+   1235571480.0
+  ], 
+  [
+   345106, 
+   null, 
+   "iangb", 
+   "Yes, but when will you say that you have exhausted all posibilities of finding \"black swans\"? maybe there will always be a a remote place you haven't looked in.\n i.e. you can never prove that they don't exist. \n\n Absolutely.\n \n The only things you can prove do not exist are those things which are inherantly logical contradictions - a 4-sided triangle, or a married bachelor. And even that only stands valid if you assume the omnipotence of logic.\n \n Yes, I'm an agnostic. Agnostic atheist, but...", 
+   {}, 
+   344982, 
+   null, 
+   1235666520.0
+  ], 
+  [
+   345172, 
+   null, 
+   "Winston Smith", 
+   "atheist? so you can prove that God doesn't exist ? \n \n agnostic as well? emoticon_confused", 
+   {}, 
+   345106, 
+   null, 
+   1235707140.0
+  ], 
+  [
+   345190, 
+   null, 
+   "iangb", 
+   "atheist? so you can prove that God doesn't exist ? \n \n agnostic as well? \n\n No, I can't prove that God exists - hence the agnosticism. I also see no evidence for God - hence the atheism. Just as you are a 'black swan agnostic atheist' - you don't believe that black swans exist, but you cannot prove it. Another way of putting it (I believe) is 'weak atheist'.\n \n To clarify: this is how I use the terms. I'm fairly sure it is the correct usage, it's just that people often get things mixed up, but I may be wrong... \n \n The term 'agnostic atheist' has two parts (obviously). The first is 'agnosticism vs gnosticism', which deals with how sure you are in your beliefs. A gnostic is sure of his/her beliefs (or absence thereof) for whatever reasons - personal experience, logic, conflicting beliefs, indoctrination etc, whereas an agnostic knows that their beliefs (or lack thereof) are unprovable. The second part - 'theism vs atheism' is more well known: theists believe in a personal God, atheists don't.\n \n For more info on my personal version (if you care that much), there's something here on the matter.", 
+   {}, 
+   345172, 
+   null, 
+   1235735520.0
+  ], 
+  [
+   345200, 
+   null, 
+   "Archangel", 
+   "No, I can't prove that God exists - hence the agnosticism. I also see no evidence for God - hence the atheism. Just as you are a 'black swan agnostic atheist' - you don't believe that black swans exist, but you cannot prove it. Another way of putting it (I believe) is 'weak atheist'.\n \n To clarify: this is how I use the terms. I'm fairly sure it is the correct usage, it's just that people often get things mixed up, but I may be wrong... \n \n The term 'agnostic atheist' has two parts (obviously). The first is 'agnosticism vs gnosticism', which deals with how sure you are in your beliefs. A gnostic is sure of his/her beliefs (or absence thereof) for whatever reasons - personal experience, logic, conflicting beliefs, indoctrination etc, whereas an agnostic knows that their beliefs (or lack thereof) are unprovable. The second part - 'theism vs atheism' is more well known: theists believe in a personal God, atheists don't.\n \n For more info on my personal version (if you care that much), there's something here on the matter.\n\n \n I wonder what you'll think of this ex-atheists attempt to prove according to scientific standards that God exists. Does God Exist?", 
+   {}, 
+   345190, 
+   null, 
+   1235743080.0
+  ], 
+  [
+   345202, 
+   null, 
+   "Winston Smith", 
+   "I am agnostic in the sense that I don&#8217;t think there is a way to prove God&#8217;s existence but I am not an atheist either for there are lot of gaps to fill, and science instead of filling them up just creates more gaps. \n As long as scientists refuse or are unable to answer &#8220;whys&#8221; and continue to stick to &#8220;hows&#8221; we will need a God of the gaps.\n For instance the long going arguing of peeling and jakers in another thread is essentially peeling sticking to &#8216;hows&#8217; and jakers to &#8216;whys&#8217;. Jakers can&#8217;t see how matter can organize itself by itself into something living and evolve into for instance a scientist. Has anybody found this property in atoms or molecules? Peeling sticks to explaining the godless functioning of the mechanism but he doesn&#8217;t know why this mechanism exists or why there is life rather than no life?\n We have evolution and a mechanism to explain it but why do we have life, why is life possible? We don&#8217;t have an answer. We don&#8217;t know why a bunch of atoms (organized of course in the form of brain) can think and have consciousness? We don&#8217;t know how a program encoded in genetic form came to be and produce living things.\n We don&#8217;t even know how life began or why atoms molecules can by themselves organize eventually as a life form. Why matter has this property? After all atoms don&#8217;t think, don&#8217;t carry information, how come then that life came about?\n We don&#8217;t know if mathematics transcend our universe or they are something we invented and that just happens to describe our physical universe so well, is it just a coincidence? I don&#8217;t think so.\n So there are plenty of gaps for the God of the gaps to fill.", 
+   {
+    "post_info": {
+     "post_title": "jangb"
+    }
+   }, 
+   345190, 
+   null, 
+   1235744340.0
+  ], 
+  [
+   345203, 
+   null, 
+   "Winston Smith", 
+   "I wonder what you'll think of this ex-atheists attempt to prove according to scientific standards that God exists. Does God Exist?\n\n \n nowhere in that link it is proved that God exists.\n All the arguments are simply one: that the Bible says that God exists, but who wrote the Bible? Men wrote the Bible, not God\n So because the Universe had a beginning then we need God. The latest theories say that the universe&#8217;s life and death is cyclical there have always been beginnings and ends in a continuous cycle. In other words nobody knows for sure the true nature of the universe, or what you call the beginning.\n But even if there was a beginning and you need a God for it, how came God to exist? He created himself out of nothing? If so then why not the universe?\n As usual all you do is cut and paste and never can form an argument using your own words.\n In the same way that you couldn&#8217;t explain why we have Evil in a world created by a Good by definition God.", 
+   {}, 
+   345200, 
+   null, 
+   1235745300.0
+  ], 
+  [
+   345207, 
+   null, 
+   "iangb", 
+   "I wonder what you'll think of this ex-atheists attempt to prove according to scientific standards that God exists. Does God Exist?\n\n I'm not all that impressed, sorry. A very quick critique:\n \n \"The Beginning\" - three attempts to disprove the assertion 'matter/energy is eternal'.\n Argument 1: The fact that the expansion of the universe appears to be accelerating rules out a cyclical universe. This has several issues with it, the most significant of which being that the most simple 'cyclical' pattern in maths does accelerate for a while: a sine wave, which is the basis for a pendulums swing, the orbit of a planet, and many others.\n Argument 2: The fact that, despite the sun having burnt for a very long time, there is still plenty of fuel (hydrogen) left. This is countered simply by stating that there was a vast amount of hydrogen in the first place - pretty much the only atoms about were hydrogen, initially (post-big-bang). If the universe really is cyclical, atoms will be returned to hydrogen come the next Crunch.\n Argument 3: This uses the second law of thermodynamics to say that the universe should have dies of heat death by now. This doesn't work because it misunderstands the word 'disorder'. Gravity - which would be expected to power the Crunch - naturally pulls things together, not spreads them apart. This assumption also misunderstands the nature of the second law - firstly it is less a 'law' than a 'consequence' of statistics, but more importantly, heat is not 'lost', because there is no-where for the heat to be lost too. Thermodynamics simply says that heat will spread out - the 'heat death' occurs when the universe is a uniform temperature of ~3K. However, as with the last argument, a big crunch/bang would set up the problem again.\n \n It's also worth pointing out that a 'cyclical universe' is not a necessary factor for atheism. Moving on, then -\n \n \"The Cause\" - this attempts to prove that the Big Bang has an external cause. This is largely flawed because causality is time-dependent (causes never come after effects), whereas time only came into existence at the instant of the Big Bang (cyclical universe aside). Thus, asking what came 'before' is nonsensical - there was no 'before', so there need be no causality.\n \n It's also worth pointing out that a 'caused universe' is not a necessary factor for atheism. See: string theory. Moving on, then -\n \n \"The Design\" - this attempts to show that the 'cause' is an intelligent one. There isn't really any argument made in this section beyond a vague reference to the anthropic principle, which is hardly an argument for design, as it simply states that it's useless to speculate on how unlikely things are as they are, because they are this way - and (as pointed out by others) if the universe were not as it was, it would be different.\n \n An example: flip a million coins, and marvel at how unlikely the sequence you have created is. However, this is not evidence that God wanted the coins to fall that way, it's just evidence that they have fallen.\n \n Finally, \"The Next Step\". This looks looks it's going to point the 'designer' specifically at the publishers own version of the Christian God - but I don't really have time to go link-following at the moment, and I don't see any argument remaining on the page that there is an 'intelligent designer' in the first place.\n \n Response to Winston coming in a second post. Watch this space.", 
+   {}, 
+   345203, 
+   null, 
+   1235748780.0
+  ], 
+  [
+   345210, 
+   null, 
+   "iangb", 
+   "Winston:\n \n (NB: large parts of this are taken from my notes on a physical module I did no Chaos and Complexity, should anyone care)\n \n The problem is: emergent systems. If you take a look at something like a termite mound, you will find an astounding level of complexity. There are ventelation shafts which prevent the thing from overheating, there are chambers specifically for this and for that... and yet every termite mound is unique - and termites are hardly the smartest of creatures.\n \n It turns out that you can model the creation of basic termite mounds using an incredibly simple set of rules.\n \n 1. Always walk randomly.\n 2. If you find a place where there is a wood chip (what termite mounds are made of), pick it up UNLESS you already are carrying a wood chip - in which case, put that wood chip down.\n more on termites\n more on emergence in general.\n \n Emergence creates many, many things. Evolution is an emergent process, birds flock emergently (it's possible I just made up the word 'emergently'...) and sand dunes form emergently.\n \n Personally, I don't see a need for your God of the Gaps, because I don't see a need for the universe to have a 'purpose'. This is what we (mainly Peeling) have been trying to show Jakers - there is no need for intelligence to play a part, so why assume it is there?\n \n (In the spirit of a previous post): Yes, I have mildly deterministic leanings.", 
+   {}, 
+   345207, 
+   null, 
+   1235749500.0
+  ], 
+  [
+   345312, 
+   null, 
+   "Winston Smith", 
+   "I didn't ask for a 'purpose'. I simply asked how is it possible that matter organizes itself to eventually produce life?\n \n can you even splitting atoms to the level of strings find anywhere a 'program' which can explain or find the property or properties in matter matter to organize itself into something living, which reproduces, which evolve?\n \n I can see forces, I can see energy and matter but the power to organize itself into a living thing, where is it?\n \n jaker has a point one looks at the beauty of life and evolution and two questions immediately arise : mine above and \"what for?\"", 
+   {}, 
+   345210, 
+   null, 
+   1235801760.0
+  ], 
+  [
+   345313, 
+   null, 
+   "Winston Smith", 
+   "Winston:\n \n (NB: large parts of this are taken from my notes on a physical module I did no Chaos and Complexity, should anyone care)\n \n The problem is: emergent systems. If you take a look at something like a termite mound, you will find an astounding level of complexity. There are ventelation shafts which prevent the thing from overheating, there are chambers specifically for this and for that... and yet every termite mound is unique - and termites are hardly the smartest of creatures.\n \n It turns out that you can model the creation of basic termite mounds using an incredibly simple set of rules.\n \n 1. Always walk randomly.\n 2. If you find a place where there is a wood chip (what termite mounds are made of), pick it up UNLESS you already are carrying a wood chip - in which case, put that wood chip down.\n more on termites\n more on emergence in general.\n \n Emergence creates many, many things. Evolution is an emergent process, birds flock emergently (it's possible I just made up the word 'emergently'...) and sand dunes form emergently.\n \n Personally, I don't see a need for your God of the Gaps, because I don't see a need for the universe to have a 'purpose'. This is what we (mainly Peeling) have been trying to show Jakers - there is no need for intelligence to play a part, so why assume it is there?\n \n (In the spirit of a previous post): Yes, I have mildly deterministic leanings.\n\n \n you are the termite God. where is the God of evolution and life though?\n \n who gave matter the ability to produce life and how?\n \n show me where does the rule reside ?", 
+   {}, 
+   345210, 
+   null, 
+   1235801940.0
+  ], 
+  [
+   345326, 
+   null, 
+   "Penfold", 
+   "\"Who gave\"? Do you have evidence that the quality was given, or that anything exists which is capable of such a \"gift\"?", 
+   {}, 
+   345313, 
+   null, 
+   1235819280.0
+  ], 
+  [
+   345327, 
+   null, 
+   "iangb", 
+   "I didn't ask for a 'purpose'. I simply asked how is it possible that matter organizes itself to eventually produce life?\n \n can you even splitting atoms to the level of strings find anywhere a 'program' which can explain or find the property or properties in matter matter to organize itself into something living, which reproduces, which evolve?\n \n I can see forces, I can see energy and matter but the power to organize itself into a living thing, where is it?\n \n jaker has a point one looks at the beauty of life and evolution and two questions immediately arise : mine above and \"what for?\" \nWith regards to the bolded - the question 'what for' is asking for a purpose - it's that question that I was answering. We don't need a purpose, other than one which we give for ourselves.\n \n With regards to the other: You can see forces, energy and power - that is all that is needed. It's a complex system, we are the outcome. True, there are a great many things which we don't know - but every time there has been a gap so far, God has been proposed to fill it... and then a more naturalistic answer is found, and God is squeezed out of another gap. It could be, fundamentally, the He's hiding in there somewhere - but at the moment, I see no need for this to be the case. The universe is, as you say, a wonderful place: part of that wonder (to me, at least) is that it could all have been so different - and likely still as beautiful.", 
+   {}, 
+   345326, 
+   null, 
+   1235820420.0
+  ], 
+  [
+   345331, 
+   null, 
+   "Winston Smith", 
+   "No, obviously energy (matter) forces it is not all that is needed since then life would be everywhere one looks. There is no difference between organic and non-organic matter, at the atomic level there isn&#8217;t. The atoms and molecules of a living organism are the same in a non alive matter, they have the same properties of course. It is the organisation that is the difference. So once again how do you explain this organisational property of certain atoms and molecules that under the right conditions produce life? Where does the organisational property, the precursor of life resides in matter ?\n \n To say that the only purpose of life is the one we give ourselves is simply another way or saying that since we find no purpose for life we might as well do whatever we want with our lives. But as you said &#8220;absence of evidence is &#8230;&#8221;\n \n To say that because we haven&#8217;t found a purpose we don&#8217;t need one is to ignore why the majority of people turn to religion. Religion is all about giving life a purpose, it may be wrong, it is founded in blind belief but it shows how important purpose is in our lives.\n To say that because we haven&#8217;t found a &#8216;purpose&#8217; we don&#8217;t need it, it is in my opinion a perfect case of sour grapes. \n \n I have found that whenever scientists fail to answer a &#8216;why&#8217; and they fail miserably all the time, they say that the question is irrelevant or outside the dominion of science. But since science is intrinsically reductionist; it is admitting defeat to fail to answer the &#8220;whys&#8221; for it means that science will never have all the answers.\n \n But let leave us purpose out of the picture for now and let go back to my question:\n \n We have atoms and sub-atomic particles and forces, strong, weak, electromagnetic, gravity .. fine but how do you use them to explain life or even the basic properties and methods to begin life.\n \n I am not a creationist or a religious fundamentalist and have no axe to grind. I don&#8217;t think God intervened and created us a la Genesis, it is simply that I don&#8217;t know where the &#8216;biotic&#8217; properties of matter can be found.\n \n Peeling is excellent and knowledgeable about the mechanism of evolution but he has never explained how life started. One can look at the inorganic universe and never question its purpose, but life? It is just an accident? RNA, DNA, the coding, the program etc all explained by quantum mechanics? Where ? show me.\n \n \n \n One gap is all God needs and there are so many things we don't know as you admit, who wouldn't ? I am not that optimistic that we will ever find the ultimate answer(s) ? I don't believe in religion but also I don't think science, a human pursuit, limited by our intellectual capabilities will close all the gaps ever.\n \n God is alive and well and I think will allways be. Not Archie's God of course but something else, elusive, incomprehensible ... whatever", 
+   {}, 
+   345327, 
+   null, 
+   1235825640.0
+  ], 
+  [
+   345875, 
+   null, 
+   "foundit66", 
+   "IMO, \"proof\" and \"evidence\" are too different things.\n proof: the cogency of evidence that compels acceptance by the mind of a truth or a fact\n evidence: A thing or things helpful in forming a conclusion or judgment\n \n \"Evidence\" can provide proof, but not all \"evidence\" is definitive proof. Proof can be thought of as a presence of a heightened level of \"evidence\".\n While \"nobody has seen a black swans\" may not be \"proof\", it IS evidence.\n \n By a lack of \"proof\", are we to assume that the existence of black swans is just as rational as the non-existence of black swans?\n I say no.\n \n In a debate or discussion, the impetus is on providing a superior reason for the specific position. That doesn't mean that we have to establish definitive proof.\n \n \"Burden of proof\" is, IMO, a legal term that is applicable because of the dire consequences of getting it wrong. The state must PROVE the accused as guilty, otherwise society suffers the consequence of imprisoning an innocent man.\n But when it comes to other issues, like \"do black swans exist\" or \"do you think O.J. is guilty\", we can obviously form opinions (based on evidence) without requiring definitive proof.", 
+   {}, 
+   345331, 
+   null, 
+   1236112980.0
+  ], 
+  [
+   345882, 
+   null, 
+   "isly ilwott", 
+   "It appears to me that some of this discussion is more about how to prove something rather than on the burden of proof. The phrase itself should give a clue as to its meaning. The burden of proof is on the party that makes the assertion to be proved. Discussing that you haven't proved that black swans don't exist does not relieve you of the burden of proving it should you desire to convince us that they don't.\n \n More clearly put: in court cases:\n \n A party's job of convincing the decisionmaker in a trial that the party's version of the facts is true. In a civil trial, it means that the plaintiff must convince the judge or jury \"by a preponderance of the evidence\" that the plaintiff's version is true -- that is, over 50% of the believable evidence is in the plaintiff's favor. In a criminal case, because a person's liberty is at stake, the government has a harder job, and must convince the judge or jury beyond a reasonable doubt that the defendant is guilty.\n \n \n in debate:\n \n The party making a claim is the party burdened with proving it. It is not required that the opposition disprove it. When the claimant presents what is thought to be proof, the opposition then can either accept the proof or attempt to discredit the evidence presented as proof.\n \n \n \n Regardless of being court or debate based, the burden of proof simply means that whoever makes the claim is burdened with proving it.\n \n Dissecting the evidence and presenting counter claims is left to the other party. However, the other party's opposing claims (evidence) must also be proved so the burden of proof shifts back and forth until the accepted truth comes out.", 
+   {}, 
+   345875, 
+   null, 
+   1236116220.0
+  ], 
+  [
+   345897, 
+   null, 
+   "isly ilwott", 
+   "There is at least one pink dolphin existing on this earth.\n \n The burden of proof is on me.\n \n Pink dolphin appears in US lake - Telegraph\n \n The article says that this is the world's ONLY pink dolphin. That might be harder to prove.", 
+   {}, 
+   345882, 
+   null, 
+   1236125280.0
+  ], 
+  [
+   345903, 
+   null, 
+   "Winston Smith", 
+   "IMO, \"proof\" and \"evidence\" are too different things.\n proof: the cogency of evidence that compels acceptance by the mind of a truth or a fact\n evidence: A thing or things helpful in forming a conclusion or judgment\n \n \"Evidence\" can provide proof, but not all \"evidence\" is definitive proof. Proof can be thought of as a presence of a heightened level of \"evidence\".\n While \"nobody has seen a black swans\" may not be \"proof\", it IS evidence.\n \n By a lack of \"proof\", are we to assume that the existence of black swans is just as rational as the non-existence of black swans?\n I say no.\n \n In a debate or discussion, the impetus is on providing a superior reason for the specific position. That doesn't mean that we have to establish definitive proof.\n \n \"Burden of proof\" is, IMO, a legal term that is applicable because of the dire consequences of getting it wrong. The state must PROVE the accused as guilty, otherwise society suffers the consequence of imprisoning an innocent man.\n But when it comes to other issues, like \"do black swans exist\" or \"do you think O.J. is guilty\", we can obviously form opinions (based on evidence) without requiring definitive proof.\n\n \n \n from my long participation in forums I know that no amount of evidence of evidence, proof, whatever will sway an individual from his/her position\n \n gun crazies remain gun crazies, pro-abortion remain pro-abortion, anti-abortion remain anti-abortion, torture enthusiasts .... etc etc\n \n the 'black swan' example was a logical problem not a legal one\n \n of course practically one would say that there are no black swans unless we make one but logically it has not been proved\n \n When Hume said that cause and effect was not proved of course he knew that when a billiard ball moves is the effect of being hit by another or the cue\n but experimentally one saw only a sequence of events that one interpreted as cause and effect.\n \n Chao", 
+   {}, 
+   345875, 
+   null, 
+   1236127020.0
+  ], 
+  [
+   346811, 
+   null, 
+   "TRIGGER", 
+   "But black swans do exist. The Aviary: Black Swan", 
+   {}, 
+   345903, 
+   null, 
+   1236811320.0
+  ], 
+  [
+   347713, 
+   null, 
+   "iangb", 
+   "Sorry, massively late reply! I could have sworn I'd replied to this...\n \n \nTo say that because we haven't found a 'purpose' we don't need it, it is in my opinion a perfect case of sour grapes.\n\n How so?\n \n It strikes me that I could have worded that better - as most people do 'need' a purpose, whether this be religion, charity, money, family or whatever. Perhaps a better wording would be that we don't need to be given a purpose - we're perfectly capable of finding one for ourselves.\n \n \nPeeling is excellent and knowledgeable about the mechanism of evolution but he has never explained how life started. One can look at the inorganic universe and never question its purpose, but life? It is just an accident? RNA, DNA, the coding, the program etc all explained by quantum mechanics? Where ? show me.\nIt really is all there. The problem is that we haven't yet adequately found the right definition for 'life'. Is something 'alive' if it meets the MRS GREN (or MR NERGS, or however your school taught it) standards? Is it alive if it self-replicates? Or exists independently?\n As to origins - there's lots of work being done on abiogenesis. Hydrocarbons forming on clay (which has a self-replicating structure), amino acids being formed by lightning strikes - we're getting closer to how it might have happened. Until we do, it's another of God's Gaps.\n \n \nI don't believe in religion but also I don't think science, a human pursuit, limited by our intellectual capabilities will close all the gaps ever.\nPerhaps not - but just because gaps exist does not mean that God resides within them. On the other hand, perhaps He does.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   346811, 
+   null, 
+   1237657440.0
+  ], 
+  [
+   347850, 
+   null, 
+   "Winston Smith", 
+   "Not because we find ways to fill our lives with a myriad of activities and pursuits it means that those are the purpose of life. That is what we do while killing time.\n Nobody knows why we are here, provided of course there is a reason for it. So if there is a reason, obviously we ignore it. But if there is a reason, our ignorance of it does not abolish it.\n I may ignore that Russia exists but my ignorance of it does not wipe out Russia from the map.\n \n You can define life anyway you want. I am not falling into the semantic trap. Don&#8217;t try a Jakers on me. \n Show me what is the property in inorganic matter that gives rise to life. All our atoms in us living things are the same as those in inorganic matter, so where is in matter the &#8216;urge&#8217;, to organize itself and produce life under the right circumstances? and where is the intelligence to produce for instance the capacity to device a mechanism of copying itself? Is it in the protons, in the electrons, in the &#8216;strings&#8217; where? Show me.\n \n The gaps that God is filling are bigger than the Great Canyon.", 
+   {}, 
+   347713, 
+   null, 
+   1237816080.0
+  ], 
+  [
+   348388, 
+   null, 
+   "iangb", 
+   "Nobody knows why we are here, provided of course there is a reason for it. So if there is a reason, obviously we ignore it. But if there is a reason, our ignorance of it does not abolish it.\n I may ignore that Russia exists but my ignorance of it does not wipe out Russia from the map.\n\n Indeed. But without knowledge of that purpose, on what basis do you believe in it? The burden of proof remains with you.\n \n \nYou can define life anyway you want. I am not falling into the semantic trap. Don&#8217;t try a Jakers on me.\n Show me what is the property in inorganic matter that gives rise to life. All our atoms in us living things are the same as those in inorganic matter, so where is in matter the &#8216;urge&#8217;, to organize itself and produce life under the right circumstances? and where is the intelligence to produce for instance the capacity to device a mechanism of copying itself? Is it in the protons, in the electrons, in the &#8216;strings&#8217; where? Show me.\n\n You ask for the impossible - you are asking me to define for you what causes matter to act in a fashion that you will/can not define for me. With that said, you've included some hints at a definition in your post, so I'll deal with them while I'm here.\n \"The 'urge', to organise itself\" - No such 'urge' is present. A snowflake, the Giant's Causeway or a crystal of salt is incredibly self-organised, and appears startlingly beautiful. However, all are formed by purely mechanical methods. Such as it was with life.\n \"where is the intelligence to produce for instance the capacity to device a mechanism of copying itself?\" - Again, 'intelligence' is not a prerequisite for such things. Clay forms self-copying layers. Scientists have synthesised self-replicating molecules. None of these are 'guided' in what they do, they simply occur.\n \n \nThe gaps that God is filling are bigger than the Great Canyon. \nIndeed. But humanity has only been around for the blink of an eye.\n \n I would predict (God's imminent discovery notwithstanding) that He will be squeezed out of His Gaps, over and over again. Each time, there will be people who say \"No, this time it's definitely God\"... until someone shifts the paradigm to the next level of knowledge. There will always be gaps, and there will always be those who create a God to fill them... but the gaps themselves are not evidence of the God. \n \n This is all unless by 'God' you mean 'knowledge/understanding/reality that humanity has yet to comprehend'. Using that definition for God... I am in full agreement with you. I look forwards to finding more out about that God - something possibly more deserving of the title 'Jehova' ('That which is').", 
+   {}, 
+   347850, 
+   null, 
+   1238446020.0
+  ], 
+  [
+   348440, 
+   null, 
+   "Winston Smith", 
+   "According to you, things simply occur, matter organizes itself, reproduces, evolves and eventually becomes sentient, intelligent; and all this simply, just happens. So you still don&#8217;t have an answer and not only that you are not even asking the question.\n &#8220;it simply happens&#8221;, reminds me of &#8220;God makes it so&#8221; or &#8216;that is the way things are&#8217;. \n &#8220;Great answer, Daddy, and the sky is blue because it is blue, right Dad?&#8221;\n \n Of course it is a mechanical process but what causes this process, where in matter can the property to organize itself and later to become alive (whatever your definition of life is) be found ? Is this property found at the chemical level (bonds, valence?) or at the quantum level? Where is this &#8216;it&#8217; that causes inorganic matter to become organic?\n Of course there is no intelligence in matter itself. But to create life or simulate life one needs intelligence so, how come we need intelligence to replicate something that just happens by mechanical means ? \n One needs intelligence to decode the code of life. If someone had invented life I am sure you would say that guy is a genius, wouldn&#8217;t you? In other words the intelligence is inbuilt in the process. You can see how &#8216;clever&#8217; the process is, but of course the process itself is not intelligent.\n \n If one applies your reasoning to a working computer you would say that the machine is not intelligent and that the program, operating system for instance itself is not intelligent. It just happens to be that way that the machine code produces/is the operating system. in this case although the program itself, the computer itself is not intelligent, we know intelligent beings designed and built it.\n \n Because you only see Nature and life in it and you don&#8217;t see God it doesn&#8217;t mean that God does not exist. You don&#8217;t look at a computer and say it organized itself, do you?\n I know, a computer can not become a computer by itself. But what would you say if a computer organized itself organically, just for argument&#8217;s sake in front of your eyes (minus the brand tag of course) would you say &#8220;computers simply occur&#8221; ? Of course not, funny then that you observe the Universe and the wonderful manifestations of life in all its complexity and all you can say is : &#8216;it simply occurs&#8217;. Hmm &#8230;\n You wouldn&#8217;t ask: &#8220;wait a moment, how in hell atoms organized themselves into a computer? I can see atoms bonding into complex structures that produce a computer, I can see it is a mechanical process but what produces this mechanical process? Of course you would, but when it comes to life a &#8220;it simply happens&#8221; is your only reaction\n \n I am not saying that God gets his hands dirty and organizes matter manually, I am not saying that he manually makes blocks of life, so to say. But if God doesn&#8217;t and all there is, is matter and I agree, matter is not intelligent, for of course there are no &#8216;smart&#8217; atoms or &#8216;strings&#8217; or whatever, then:\n here we go again: how came the self replicant organic computer called a living organism to be? If there is no &#8216;urge&#8217; for matter to organize itself, then how come it organized itself into &#8230; you, why didn&#8217;t matter just remained inorganic matter ? If the &#8216;urge&#8217; to organize itself can not be found then how come it organizes itself by mechanical means?\n \n I know, I know &#8230; the questions science have no answers for are either irrelevant (to Science that is) or just one of these days, real time soon someone will find the answers. Right?\n \n PS I have had it with this forum, this is the only thread of any interest for me here, the rest is zzzzzzzzzz.\n I &#8216;discovered&#8217; the blogs at The Economist and for an &#8216;internationalist&#8217; such as I, that is where the action is. Some other &#8220;Winston Smith&#8221; has stolen my &#8216;pen name&#8217; there though, so I had to switch to &#8220;symewinston&#8221;.\n Chao", 
+   {}, 
+   348388, 
+   null, 
+   1238489820.0
+  ], 
+  [
+   348441, 
+   null, 
+   "Winston Smith", 
+   "IMO, \"proof\" and \"evidence\" are too different things.\n proof: the cogency of evidence that compels acceptance by the mind of a truth or a fact\n evidence: A thing or things helpful in forming a conclusion or judgment\n \n \"Evidence\" can provide proof, but not all \"evidence\" is definitive proof. Proof can be thought of as a presence of a heightened level of \"evidence\".\n While \"nobody has seen a black swans\" may not be \"proof\", it IS evidence.\n \n By a lack of \"proof\", are we to assume that the existence of black swans is just as rational as the non-existence of black swans?\n I say no.\n \n In a debate or discussion, the impetus is on providing a superior reason for the specific position. That doesn't mean that we have to establish definitive proof.\n \n \"Burden of proof\" is, IMO, a legal term that is applicable because of the dire consequences of getting it wrong. The state must PROVE the accused as guilty, otherwise society suffers the consequence of imprisoning an innocent man.\n But when it comes to other issues, like \"do black swans exist\" or \"do you think O.J. is guilty\", we can obviously form opinions (based on evidence) without requiring definitive proof.\n\n \n \n evidence is a collection of facts that are used to sustain or back an argument in court. So I agree, legally it would be reasonable to say in a court of law that the accused did not kill or steal a black swan for as any reasonable person knows, black swans do not exist. The non existence (to a reasonable person) of black swans is the evidence (negative evidence?) that proves that no offence was comitted. Or one can say it raises a reasonable doubt that an offence occured, therefore the jury ought to come to a non-guilty verdict.\n \n \n But it doesn't prove that black swans do not exist.", 
+   {}, 
+   345875, 
+   null, 
+   1238490900.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  The Burden of Proof", 
+  "url": "http://www.4forums.com/political/debating-techniques-styles/11816-burden-proof.html", 
+  "breadcrumbs": [
+   "Debating Techniques and Styles"
+  ], 
+  "id_number": 11816, 
+  "discussion_files": [
+   [
+    "23501.html", 
+    "http://www.4forums.com/political/debating-techniques-styles/11816-burden-proof-print.html"
+   ], 
+   [
+    "23502.html", 
+    "http://www.4forums.com/political/debating-techniques-styles/11816-burden-proof-2-print.html"
+   ]
+  ], 
+  "identifier": 11816
+ }
+]

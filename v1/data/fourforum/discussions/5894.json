@@ -1,0 +1,184 @@
+[
+ [
+  [
+   145028, 
+   null, 
+   "Clerisian", 
+   "Suppose we roll an infinite-sided die. What is the probability that we will get an even number? We want to be able to say that it is 1/2. Can we? If so, how is that assertion justified? How does the math work? Essentialy, this seems to me to be about whether, given what we know about set theory and infinity, it is possible to coherently discuss \"half of infinity.\" Comments, please.", 
+   {
+    "post_info": {
+     "post_title": "Infinite probabilities"
+    }
+   }, 
+   null, 
+   null, 
+   1120649160.0
+  ], 
+  [
+   145069, 
+   null, 
+   "toby", 
+   "Suppose we roll an infinite-sided die. What is the probability that we will get an even number? We want to be able to say that it is 1/2. Can we? If so, how is that assertion justified? How does the math work? Essentialy, this seems to me to be about whether, given what we know about set theory and infinity, it is possible to coherently discuss \"half of infinity.\" Comments, please.\n\n \n Assuming you're talking about a die with the natural numbers (1, 2, 3, ...) on it, you can show that a die with numbers 1 to N (i.e., N faces) has the probability of 1/2 of being even in the limit as N approaches infinity. If N is odd, the probability of the die being even is (N-1)/(2N)= 1/2 - 1/(2N) which is 1/2 as N approaches infinity. If N is even, the probability of the die being even is N/(2N)=1/2, which is also 1/2 as N approaches infinity. Since both limits approach 1/2, the limit is 1/2.\n \n However, N is not (countably) infinite (by definition). If the die truly had a countably infinite number of sides, nothing could be said definitively about the probability of it being even. That said, I'm not really sure as a matter of practicality why anybody would be concerned about a die with a countably infinite number of sides (versus a die with a very large, yet still finite, number of sides, N).", 
+   {
+    "unicode_changes_made": true
+   }, 
+   145028, 
+   null, 
+   1120660440.0
+  ], 
+  [
+   145148, 
+   null, 
+   "Kronus", 
+   "Suppose we roll an infinite-sided die. What is the probability that we will get an even number? We want to be able to say that it is 1/2. Can we? If so, how is that assertion justified? How does the math work? Essentialy, this seems to me to be about whether, given what we know about set theory and infinity, it is possible to coherently discuss \"half of infinity.\" Comments, please.\n\n \n I can answer the specific question by dodging the larger one.\n \n Any number must end in one of ten digits, 2,4,6,8,0 or 1,3,5,7,9. Of these ten, if it ends with one of the first five it's even, and if the last five it's odd. There's an equal chance that the final digit could be in either group, since the groups are the same size, so the odds of a random number being even is 50%.\n \n So that's the easy part. Now for your larger question, is there such a thing as half of infinity. I'd have to say no, not in the way that you probably mean. When we talk about splitting something in half, we generally conceive of that as meaning spliltting something into two parts of equal size. However, size isn't really relevant when talking about infinite sets. Instead we talk about the order of the infinite set. For example, the evens and the odds are of the same order. However, they are also of the same order as the whole numbers. So while intuition tells us that the set of even numbers must be \"half the size\" as the set of whole numbers, they are in fact of the same order, which is roughly analogous to saying that they are infinite sets of the \"same size\". There are infinite sets that are of a larger order than others. The irrationals are of a larger order than the rationals, for example. However, you can't supply an integer value to how much larger. You can't say that one is twice as large as the other.", 
+   {}, 
+   145028, 
+   null, 
+   1120682880.0
+  ], 
+  [
+   145192, 
+   null, 
+   "Clerisian", 
+   "Interesting solution, toby.\n \n \n\n However, N is not (countably) infinite (by definition). If the die truly had a countably infinite number of sides, nothing could be said definitively about the probability of it being even. \n \n\n \n Why are statements about all successive approximations of the infinite die not definitive statements about the probability of events of the infinite die? If we form the sequence of the probabilities that an n-sided die will produce an even number, the limit is 1/2. This is not definitive? \n \n \n\n That said, I'm not really sure as a matter of practicality why anybody would be concerned about a die with a countably infinite number of sides (versus a die with a very large, yet still finite, number of sides, N).\n\n \n I can't reveal that, sorry. As yet, it's privleged information.\n \n \n\n I can answer the specific question by dodging the larger one.\n \n Any number must...\n \n\n \n This is interesting too.\n \n Now, as for your spiel on the larger question, I am aware of the notions of countability, infinite cardinals, etc. The question isn't about whether or not there was a set that was half as big as infinity, but whether we could reasonably refer to a set as 'half of infinity.'\n \n Here's an example: if we are dealing the the interval [0,1], we have an uncountably infinite number of points. However, we still have a coherent way of talking about half of the set. A set X which is a subset of [0,1] can be called half of [0,1] if there is another set Y such that the intersection of X and Y is empty, the union of X and Y is [0,1], and the measure of X and Y are each 1/2. I'm not sure how to make an analagous definition for countable sets, since they all have measure zero. Perhaps we could represent countable sets as intervals in uncountable sets, and apply the measure-theoretic definition of half. I don't know enough analysis to know if this would work.", 
+   {}, 
+   145069, 
+   null, 
+   1120693260.0
+  ], 
+  [
+   145217, 
+   null, 
+   "Kronus", 
+   "\n Now, as for your spiel on the larger question, I am aware of the notions of countability, infinite cardinals, etc. The question isn't about whether or not there was a set that was half as big as infinity, but whether we could reasonably refer to a set as 'half of infinity.'\n \n\n If by \"half of infinity\" you don't mean \"half as big as infinity\" then you're going to need to provide a more rigorous definition of what you do mean.\n \n \n\n Here's an example: if we are dealing the the interval [0,1], we have an uncountably infinite number of points. However, we still have a coherent way of talking about half of the set. A set X which is a subset of [0,1] can be called half of [0,1] if there is another set Y such that the intersection of X and Y is empty, the union of X and Y is [0,1], and the measure of X and Y are each 1/2. I'm not sure how to make an analagous definition for countable sets, since they all have measure zero. Perhaps we could represent countable sets as intervals in uncountable sets, and apply the measure-theoretic definition of half. I don't know enough analysis to know if this would work.\n\n \n I was following you until you said \"the measure of X and Y are each 1/2\". What do you mean by measure? I believe you're thinking about the sets [0,.5] and (.5,1], but I can't be sure.", 
+   {}, 
+   145192, 
+   null, 
+   1120696560.0
+  ], 
+  [
+   145227, 
+   null, 
+   "Clerisian", 
+   "\n I was following you until you said \"the measure of X and Y are each 1/2\". What do you mean by measure? I believe you're thinking about the sets [0,.5] and (.5,1], but I can't be sure.\n\n \n No, I'm not. See Measure. I was thinking in particular of Lebesgue measure, but I don't really like the way it was defined by the link from the above site. My book says that the (outer Lebesgue) measure of a set A in R is either 0 if A is empty, or if A is nonempty\n \n m*(A) = inf{y | y = Sum(Length(I_n)), where A is a subset of Union(I_n)}\n \n Where the I_n are intervals, and the length of an interval (a,b) (or [a,b], or whatever) is |b-a|. Sorry about the crappy notation.\n \n The upshot of all this is that the measure of a set is the length of the shortest possible set of of intervals which cover the set. The shortest possible cover of the set [0, 1/2) is that interval, although many longer covers exist. The shortest possible cover of the union [0,1/4) u (1/2, 3/4) is also those intervals, which have total length 1/2, so that union could be said to be half of [0,1].", 
+   {}, 
+   145217, 
+   null, 
+   1120697280.0
+  ], 
+  [
+   145435, 
+   null, 
+   "toby", 
+   "\n Why are statements about all successive approximations of the infinite die not definitive statements about the probability of events of the infinite die? If we form the sequence of the probabilities that an n-sided die will produce an even number, the limit is 1/2. This is not definitive? \n \n\n Nope. You are mistaken if you think that any statements have been made about successive \"approximations of the infinite die\". Any finite number (N) is an exceedingly bad \"approximation\" of &#1488;o (countable infinity). It is a misfortune of mathematics that N is said to approach infinity, for the gulf really is never closing. If you really are intent on considering the (positive) evens and the odds, both of these sets have the same cardinality as the natural numbers (&#1488;o), but then again so do the multiples of 3, 4, and 147.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   145192, 
+   null, 
+   1120746720.0
+  ], 
+  [
+   145441, 
+   null, 
+   "toby", 
+   "I'm not sure how to make an analagous definition for countable sets, since they all have measure zero. Perhaps we could represent countable sets as intervals in uncountable sets, and apply the measure-theoretic definition of half. I don't know enough analysis to know if this would work.\n\n \n Pick your poison. If the \"interval\" has non-zero measure, &#916;, then Archimedes will get you. If the \"interval\" has zero measure, then you're right back where you started.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   145435, 
+   null, 
+   1120748640.0
+  ], 
+  [
+   145485, 
+   null, 
+   "Kronus", 
+   "\n The upshot of all this is that the measure of a set is the length of the shortest possible set of of intervals which cover the set. The shortest possible cover of the set [0, 1/2) is that interval, although many longer covers exist. The shortest possible cover of the union [0,1/4) u (1/2, 3/4) is also those intervals, which have total length 1/2, so that union could be said to be half of [0,1].\n\n \n Well, clearly you can cut a line segment, made of an infinite number of points, into two line segments of equal length, each of which will have an infinite number of points. However, I don't see that that actually gives us \"half of infinity\". It gives us a way of splitting the set, but you could just as easily split the segment 1/3, 2/3, and you'ld still end up with two infinite sets of the same order. \n \n I guess I'm still fuzzy on what you mean by half of infinity. Can you say what properties a set that's half of infinity would have? Or give a definition?", 
+   {}, 
+   145227, 
+   null, 
+   1120756320.0
+  ], 
+  [
+   145513, 
+   null, 
+   "Clerisian", 
+   "Any finite number (N) is an exceedingly bad \"approximation\" of &#1488;o (countable infinity). It is a misfortune of mathematics that N is said to approach infinity, for the gulf really is never closing. \n \n\n \n Okay, good point.\n \n \n\n If you really are intent on considering the (positive) evens and the odds, both of these sets have the same cardinality as the natural numbers (&#1488;o), but then again so do the multiples of 3, 4, and 147.\n \n\n \n This is true, but as I pointed out, I don't necessarily have to use cardinality to define halfness.\n \n \n\n Pick your poison. If the \"interval\" has non-zero measure, &#916;, then Archimedes will get you. If the \"interval\" has zero measure, then you're right back where you started.\n \n\n \n I honestly have no idea what the hell you're talking about here.\n \n \n\n ...I don't see that that actually gives us \"half of infinity\". It gives us a way of splitting the set, but you could just as easily split the segment 1/3, 2/3, and you'ld still end up with two infinite sets of the same order.\n \n\n \n But I'm not concerned with order. I know that any interval of real points is equivalent to any other interval (or space) of real points in the sense that they have the same order. However, there are senses in which they are not equivalent. I am attempting to focus on those senses.\n \n \n\n Can you say what properties a set that's half of infinity would have? Or give a definition?\n \n\n \n I already gave a definition, but there is a crucial point to be made: I am not talking about \"a set that's half of infinity,\" but rather half of an infinite set. [0,1/2) is half of [0,1], even though they are both of equal order, because there is another set, [1/2,1], that is disjoint with the first, whose union with the first is the whole, and whose measure is equal to the first set.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   145435, 
+   null, 
+   1120762380.0
+  ], 
+  [
+   145538, 
+   null, 
+   "toby", 
+   " \n This is true, but as I pointed out, I don't necessarily have to use cardinality to define halfness. \n\n No, you don't; but that's how big the sets are. I'd rather not take the position that something can't be done. All I can say is that I see fundamental problems. If you think it might be doable, present your method, e.g., define how big your \"interval\" is.\n \n \n \n I honestly have no idea what the hell you're talking about here. \n\n Sorry. Perhaps I didn't understand what you were getting at. You theorized: \n \n \n Perhaps we could represent countable sets as intervals in uncountable sets, and apply the measure-theoretic definition of half. \n\n I envisioned that you'd be placing intervals around the natural numbers in the set of interest (i.e., the evens). If so, how big is your \"interval\"? If it is non-zero, then Archimedes will insist that the sum of the intervals is infinite. Where does that get you? If your \"interval\" is zero, then you haven't done anything (i.e., exactly as you say, the measure of the evens is zero).", 
+   {
+    "unicode_changes_made": true
+   }, 
+   145513, 
+   null, 
+   1120764600.0
+  ], 
+  [
+   146012, 
+   null, 
+   "canadianman77", 
+   "Interesting solution, toby.\n \n \n \n Why are statements about all successive approximations of the infinite die not definitive statements about the probability of events of the infinite die? If we form the sequence of the probabilities that an n-sided die will produce an even number, the limit is 1/2. This is not definitive? \n \n \n \n I can't reveal that, sorry. As yet, it's privleged information.\n \n \n This is interesting too.\n \n Now, as for your spiel on the larger question, I am aware of the notions of countability, infinite cardinals, etc. The question isn't about whether or not there was a set that was half as big as infinity, but whether we could reasonably refer to a set as 'half of infinity.'\n \n Here's an example: if we are dealing the the interval [0,1], we have an uncountably infinite number of points. However, we still have a coherent way of talking about half of the set. A set X which is a subset of [0,1] can be called half of [0,1] if there is another set Y such that the intersection of X and Y is empty, the union of X and Y is [0,1], and the measure of X and Y are each 1/2. I'm not sure how to make an analagous definition for countable sets, since they all have measure zero. Perhaps we could represent countable sets as intervals in uncountable sets, and apply the measure-theoretic definition of half. I don't know enough analysis to know if this would work.\n\n Wouldnt a ping pong ball be an infinite sided die? Or does plancks length dictate that nothing can have an infinite ammount of sides, or for that matter, nothing can have an infinite number of sections because of the restriction set forth by planck that nothing can be smaller than his measurement. This would mean that the only infinite set would be outward from zero to infinity, not to a known interger. Furthermore, does plancks time postulate that the universe is digital seeing as how time cannot be broken down into units smaller than 10^-43 seconds?", 
+   {}, 
+   145192, 
+   null, 
+   1120886340.0
+  ], 
+  [
+   148030, 
+   null, 
+   "Mach", 
+   "Wouldnt a ping pong ball be an infinite sided die? Or does plancks length dictate that nothing can have an infinite ammount of sides, or for that matter, nothing can have an infinite number of sections because of the restriction set forth by planck that nothing can be smaller than his measurement. This would mean that the only infinite set would be outward from zero to infinity, not to a known interger. Furthermore, does plancks time postulate that the universe is digital seeing as how time cannot be broken down into units smaller than 10^-43 seconds?\n\n \n No. Reasonably speaking a ball has 1 side or no sides, depending on how you define a side. Yes it's composed of atoms, but atoms are generally not how the side of a die is determined.\n \n As to your other questions, I have no idea, and it's leading me to some interesting on-line reading :) If I find anything relevant, I'll post it.\n \n -Mach", 
+   {}, 
+   146012, 
+   null, 
+   1121620020.0
+  ], 
+  [
+   148348, 
+   null, 
+   "canadianman77", 
+   "No. Reasonably speaking a ball has 1 side or no sides, depending on how you define a side. Yes it's composed of atoms, but atoms are generally not how the side of a die is determined.\n \n As to your other questions, I have no idea, and it's leading me to some interesting on-line reading :) If I find anything relevant, I'll post it.\n \n -Mach\n\n I'd be interested to hear what you come up with in your reading.", 
+   {}, 
+   148030, 
+   null, 
+   1121726400.0
+  ], 
+  [
+   148627, 
+   null, 
+   "Mach", 
+   "I'd be interested to hear what you come up with in your reading.\n\n \n I ended up at this odd page that is purely hypothetical, that sparked some thinking: (Only if you're bored to I suggest reading it, it's about gravity not necessarily the same topic)\n http://www.gravityandspace.com/Gravity_Potent.html\n \n ...Space is continuous. Unlike matter--which is discontinuous and comes in discrete packages\n  \n \n which lead me to an article on exactly that topic:\n http://www.economist.com/science/displayStory.cfm?story_id=1606258\n \n It's short and easy to read.\n \n It mentions that quantum mechanics suggests grains, but relativity suggests continuous. They seem to have a few different approaches to verifying it (To some degree), so maybe in our lifetime we'll have a \"better\" answer.\n \n -Mach", 
+   {}, 
+   148348, 
+   null, 
+   1121821200.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Infinite probabilities", 
+  "url": "http://www.4forums.com/political/science-math-debates/5894-infinite-probabilities.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 5894, 
+  "discussion_files": [
+   [
+    "18751.html", 
+    "http://www.4forums.com/political/science-math-debates/5894-infinite-probabilities-print.html"
+   ]
+  ], 
+  "identifier": 5894
+ }
+]

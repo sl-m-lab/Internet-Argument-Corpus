@@ -1,0 +1,64 @@
+[
+ [
+  [
+   21435, 
+   null, 
+   "dragoelliott", 
+   "Hi!\n First of all I apologize for my bad English; I'm an Italian student of Electronic Engineering, I'm having a Matlab project on Lorenz Attractor; I've found many interesting things in some sites, but I still have a few questions:\n 1)What are x,y,z in the differential equation, I've found no words about this thing...\n 2)How can I choose the constants (sigma,r,b) are there rules to follow?\n 3)Are there some initial condition or values of constant tha could make the system diverge?\n 4)Do you now if there are some ways to make this proble a stiff problem (if you know what I mean, of course!)\n Thank You very much, I'll be very glad if you coul answer me!\n See you", 
+   {
+    "post_info": {
+     "post_title": "Lorenz Attractor"
+    }
+   }, 
+   null, 
+   null, 
+   1067991720.0
+  ], 
+  [
+   21871, 
+   null, 
+   "epaphras_faith", 
+   "Hi!\n First of all I apologize for my bad English; I'm an Italian student of Electronic Engineering, I'm having a Matlab project on Lorenz Attractor; I've found many interesting things in some sites, but I still have a few questions:\n 1)What are x,y,z in the differential equation, I've found no words about this thing...\n 2)How can I choose the constants (sigma,r,b) are there rules to follow?\n 3)Are there some initial condition or values of constant tha could make the system diverge?\n 4)Do you now if there are some ways to make this proble a stiff problem (if you know what I mean, of course!)\n Thank You very much, I'll be very glad if you coul answer me!\n See you\n\n \n I am afraid that most of the math is a bit beyond me. I could do it if I had several days perhaps but, Here are a few sites which may give you some answers.\n \n http://astronomy.swin.edu.au/~pbourke/fractals/lorenz/\n \n http://www.cmp.caltech.edu/~mcc/chaos_new/Lorenz.html\n \n http://www.zeuscat.com/andrew/chaos/lorenz.html\n \n http://mathworld.wolfram.com/LorenzAttractor.html\n \n Good luck. X,Y,Z are just the cartesian coordinate representatives. The variables you listed are discussed in the web pages as is divergence. I don't think you can make this a stiff problem, but then I have explored it too deeply.", 
+   {}, 
+   21435, 
+   null, 
+   1068242340.0
+  ], 
+  [
+   25146, 
+   null, 
+   "airhead", 
+   "I am afraid that most of the math is a bit beyond me. I could do it if I had several days perhaps but, Here are a few sites which may give you some answers.\n \n http://astronomy.swin.edu.au/~pbourke/fractals/lorenz/\n \n http://www.cmp.caltech.edu/~mcc/chaos_new/Lorenz.html\n \n http://www.zeuscat.com/andrew/chaos/lorenz.html\n \n http://mathworld.wolfram.com/LorenzAttractor.html\n \n Good luck. X,Y,Z are just the cartesian coordinate representatives. The variables you listed are discussed in the web pages as is divergence. I don't think you can make this a stiff problem, but then I have explored it too deeply.\n\n \n emoticon_smile You really didn't understand it, did you?\n \n Lorenz attractor is an attractor. In dynamical systems, an attractor is a technical term for a set of points invariant under the dynamics of the system (like fixed points only applied to a set of points) and nearby points get grabbed into the attractor (the technical term for this is that the nearby points are in the basin of attraction of the attractor).\n \n Lorenz attractor is a specific type of attractor in a specific system (namely, the system described by Lorenz equations). (x,y,z) in Lorenz equations aren't (x,y,z) spatial coordinates. They represent thermal variables in the system (x = convection intensity, yada yada). \n \n (sigma,r,b) are parameters that you can adjust to move the attractor around (they are parameters in Lorenz equation). There are some equations that people worked out that give some meaning to these parameters (I won't go into details because I don't remember the details :)\n \n Stiff is a technical term -- it describes a specific type of PDE :)\n \n Anyway, I would write more, but he probably figured out how to do it.", 
+   {}, 
+   21871, 
+   null, 
+   1070389980.0
+  ], 
+  [
+   25161, 
+   null, 
+   "epaphras_faith", 
+   "emoticon_smile You really didn't understand it, did you?\n \n Lorenz attractor is an attractor. In dynamical systems, an attractor is a technical term for a set of points invariant under the dynamics of the system (like fixed points only applied to a set of points) and nearby points get grabbed into the attractor (the technical term for this is that the nearby points are in the basin of attraction of the attractor).\n \n Lorenz attractor is a specific type of attractor in a specific system (namely, the system described by Lorenz equations). (x,y,z) in Lorenz equations aren't (x,y,z) spatial coordinates. They represent thermal variables in the system (x = convection intensity, yada yada). \n \n (sigma,r,b) are parameters that you can adjust to move the attractor around (they are parameters in Lorenz equation). There are some equations that people worked out that give some meaning to these parameters (I won't go into details because I don't remember the details :)\n \n Stiff is a technical term -- it describes a specific type of PDE :)\n \n Anyway, I would write more, but he probably figured out how to do it.\n\n \n Thanks for the education emoticon_smile", 
+   {}, 
+   25146, 
+   null, 
+   1070397540.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Lorenz Attractor", 
+  "url": "http://www.4forums.com/political/science-math-debates/1214-lorenz-attractor.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 1214, 
+  "discussion_files": [
+   [
+    "23334.html", 
+    "http://www.4forums.com/political/science-math-debates/1214-lorenz-attractor-print.html"
+   ]
+  ], 
+  "identifier": 1214
+ }
+]

@@ -1,0 +1,124 @@
+[
+ [
+  [
+   281695, 
+   null, 
+   "Peeling", 
+   "One claim regularly made in support of the existence of internally driven mutational adaptation is that studies have shown rates of adaptive mutation incompatible with stochastic peturbation of the genome:\n \n \nUnder these circumstances [stress-induced hyper-mutation], as per EAM,[above], it has been repeatedly demonstrated [since 1988, at Corning, by that scientist whose name escapes me] that the number of adaptive mutations outnumbers the number of of ineffectual or maladaptive mutations by a strongly significant statistical percentage.\n\n \n On the face of it, the implication is that this kind of thing happens all the time; that everywhere you look, stress-induced hypermutation is occurring, and along with it adaptive mutations are occurring disproportionately often - that this is part and parcel of everyday evolution.\n \n The ardour with which this evidence is brandished is, however, misleading. In only a handful of studies, using specific strains of bacteria with specific genetic features under specific environmental circumstances, have specific adaptive mutations seemed to occur with anomalous frequency. There is no suggestion that these cases are in any way generally representative, and even if the results were being interpreted correctly, the idea that they constitute evidence for a pan-species mechanism of internally directed evolution is, unfortunately, wishful thinking.\n \n But what of these rare anomalous cases? The most famous was reported by J. Cairns and P. L. Foster, in which a dish of starving, non-growing E-coli (a particular strain with a Lac- mutation) appeared to preferentially induce a reversion mutation (to Lac+) in order to enable growth when the only source of energy was lactose. Moreover, the mutation did not occur with such frequency if lactose was not present, if there was another growth-inhibiting factor in play, or if food sources other than lactose were available. On top of that, although the adapted bacteria showed evidence of accumulating other non-selected mutations, it was nowhere near enough to explain the rate of adaptive mutation, and the bacteria which didn't adapt showed no accumulation of unselected mutations at all!\n \n Understandably, this looked to them, and other people at the time, like a pretty cut'n'dried example of an environmentally-or-organismically induced adaptive mutation.\n \n However, the nagging problem remained that this event was completely unprecedented, and was not observed in the general case of bacteria under starvation conditions. Why was this strain of bacteria so good at inducing this particular reversion mutation in just those circumstances?\n \n The answer, as it turned out, was that the experimental assumption of 'no growth' taking place in the e-coli colony was in error.\n \n The strain of e-coli used in the experiment had a 'leaky' (inefficient) mutant Lac allele, with only 1% to 2% of the normal ability to process lactose. That 1% to 2% was then deliberately 'smothered' by the experimenters through the addition of scavenger cells which mopped up the product of what little lactose the e-coli could process, effectively halting their growth. Because the later, visible growing colonies of e-coli had a reversion mutation to lac+, the experimenters deduced that mutation was required for growth to be possible.\n \n However, what they did not take into account at the time was that during normal growth prior to incubation on the test medium, a small proportion of the e-coli colony experienced a duplication of the leaky lac gene. This mutation conferred no advantage - until the colony was plated on lactose. Now, the second copy of the gene increased the total amount of lactose they could process beyond the ability of the scavenger cells to inhibit growth, and the e-coli could (slowly) grow and divide.\n \n Within these slow-growing microcolonies, selection favoured those cells which experienced further lac- duplications. And the more lac- duplications a cell has, the more likely one of them will experience a reversion mutation to lac+, explaining the apparently anomalous frequency of that particular mutation. When this happens, cell growth rate jumps considerably - but now it is the additional lac- genes which are holding the organism back, destabilising the chromosome and tying up resources which could be more efficiently processed by the lac+ gene. Selection now favours those lac+ revertants who lose the unstable lac- duplications. By the time the microcolonies become visible to the naked eye, they consist almost entirely of lac+ revertants.\n \n This hypothesis agrees with all observations related to the earlier experiments, and was verified in a number of ways, including repeating the experiment with a colony composed entirely of duplicate lac- bacteria, increasing the number of microcolonies 100-fold, which tallies with the ~1% background rate of chromosomal duplications in those bacteria. Also, bacteria in the late-arriving microcolonies were observed to possess residual duplicate lac- genes.\n \n In short, the results of the experiment agree completely with classical evolutionary theory.\n \n It should be noted, by the way, that in addition to the late-arriving 'directed mutation' microcolonies that causes such a stir, the original experimenters also observed the expected number of early-appearing colonies from pre-plating revertant mutants, a la L&D.\n \n EDIT: Reading further around the subject, it seems no stress-induced hypermutable state was involved either. Apparently, 10-20% of the bacteria with lac- duplications also possessed 'dinB' (a mutation-promoting gene apparently, though it's beyond the scope of my research here) on the same plasmid. The mutagen 'came along for the ride' so to speak, as selection favoured the duplication of that section of DNA, and induced hgher rates of mutation in - yep - 10-20% of the adaptive population.\n \n So not only was the hypermutational state of that subpopulation not the cause of the adaptive mutation (clearly, since the other 80-90% of adaptation happened without it), it was actually harmful.\n \n Live n learn!\n \n 2ND EDIT: The same experiment yields similar results with lac- situated within the chromosome itself, only with 100-fold fewer colonies, reflecting the lower incidence of chromosomal duplication and reversion events in comparison with plasmids.", 
+   {
+    "post_info": {
+     "post_title": "Statistically Inexplicable Successful Mutations - Explained."
+    }
+   }, 
+   null, 
+   null, 
+   1188580320.0
+  ], 
+  [
+   281702, 
+   null, 
+   "Peeling", 
+   "It seems the issue of hypermutational states is very much open to question. One of the articles linked above includes this thought-provoking section:\n \n \nMutagenesis Is Often Futile\n Bacterial populations are estimated to spend\n most of their time under strong growth limitation\n (53, 55), and many of these stresses\n cannot be relieved by mutation (e.g., lack of\n any carbon source, exposure to extreme physical\n conditions). If mutagenesis were induced\n by such stresses, it would create deleterious\n mutations without hope of benefit. A mechanism\n for stress-induced mutagenesis might\n be advantageous if cells could determine that\n (a) the problem is solvable by mutation and\n (b) that death is assured if no mutation is forthcoming.\n Without such prescience, cells with\n a mechanism for stress-induced mutagenesis\n would be eliminated by repeated rounds of futile\n mutagenesis.\n\n \n In other words, a cell trying to 'survive, thrive and reproduce' via a self-induced state of stochastic hypermutation would most likely just end up killing itself...", 
+   {}, 
+   281695, 
+   null, 
+   1188584100.0
+  ], 
+  [
+   281705, 
+   null, 
+   "N.Wells", 
+   "Thanks, that was very informative.", 
+   {}, 
+   281695, 
+   null, 
+   1188584220.0
+  ], 
+  [
+   281753, 
+   null, 
+   "wascallywabbit", 
+   "It seems the issue of hypermutational states is very much open to question. One of the articles linked above includes this thought-provoking section:\n \n \n \n In other words, a cell trying to 'survive, thrive and reproduce' via a self-induced state of stochastic hypermutation would most likely just end up killing itself...\n\n \n ** \n Except that hypermutation is not something that happens to a 'cell', but happens to a collectivity of millions of inter-connected, inter-related cells, and that hypermutation in bacteria colonies is not 'stochastic', but 'heuristic', and you are just going to have to accept that those words are not synonyms.", 
+   {}, 
+   281702, 
+   null, 
+   1188624960.0
+  ], 
+  [
+   281756, 
+   null, 
+   "chemist99a", 
+   "** \n Except that hypermutation is not something that happens to a 'cell', but happens to a collectivity of millions of inter-connected, inter-related cells, and that hypermutation in bacteria colonies is not 'stochastic', but 'heuristic', and you are just going to have to accept that those words are not synonyms.\n\n \n Nope mutations happen to individual cells. And hypermutation takes place and appears to be controlled at the level of individual cells also. You need to stick to the facts here.", 
+   {}, 
+   281753, 
+   null, 
+   1188625980.0
+  ], 
+  [
+   281949, 
+   null, 
+   "Peeling", 
+   "Except that hypermutation is not something that happens to a 'cell', but happens to a collectivity of millions of inter-connected, inter-related cells, and that hypermutation in bacteria colonies is not 'stochastic', but 'heuristic', and you are just going to have to accept that those words are not synonyms.\n\n \n I don't recall ever saying they were.\n \n However, all of that is quite beside the point in the case under discussion. Elevated mutation rates were experienced by less than a fifth of the adapted bacteria. In addition, the rate in that subpopulation was elevated as a coincidental byproduct of gene duplication (a mutagenic promoter being co-located with the gene that conferred a reproductive advantage), and did not itself confer any benefit. The other 4/5ths of the bacteria which possessed duplicate lac- genes at the time of plating accumulated additional mutations at normal rates, including additional duplicate lac- genes at the same random-chance-per-division rate as they had prior to the selective environment being imposed. The rate of reversion to lac+ was also the same, on a per-gene basis, as in the absence of the selective environment; only the large numbers of lac- duplicates in the selected-for adaptive mutants made it more likely that one of them would revert.\n \n In short, the organismic response you say makes the whole process intentional and systematic simply didn't happen, not here anyway. Neither the directed mutation, nor the subpopulation hypermutation hypotheses fit the facts.", 
+   {}, 
+   281753, 
+   null, 
+   1188780180.0
+  ], 
+  [
+   281959, 
+   null, 
+   "wascallywabbit", 
+   "Quote:\n Originally Posted by wascallywabbit \n Except that hypermutation is not something that happens to a 'cell', but happens to a collectivity of millions of inter-connected, inter-related cells, and that hypermutation in bacteria colonies is not 'stochastic', but 'heuristic', and you are just going to have to accept that those words are not synonyms. \n \n \n I don't recall ever saying they were.\n\n \n **\n Like chemist and all other darwinists, you imply wherever possible. But in this case I broke my own best rule and replied to chemist, and was not speaking of you at all.\n And you are right, the phenomenon of revertant mutation in eusocial bacteria colonies, [inexplicable in darwinist mechanical terms], as discovered by Cairns, et al, in 1988, is a separate phenomenon from stress-stimulated somatic hyper-mutation. I misled you in the the quote you used to bring in the Cairns work--\n \n \" Under these circumstances [stress-induced hyper-mutation], as per EAM,[above], it has been repeatedly demonstrated [since 1988, at Corning, by that scientist whose name escapes me] that the number of adaptive mutations outnumbers the number of of ineffectual or maladaptive mutations by a strongly significant statistical percentage.\"\n \n That was not Cairns, but Barry G. Hall to whom I was referring, and he was a research prof at U. Rochester in the 90's who did work on adaptive mutation, wrt adaptive cellular responses in stressed eusocial bacteria colonies. That is, somatic hypermutation as a cellular,[in multi-cellular organisms, such as eubacteria colonies], adaptive, systemic and systematic [non-randon, non-stochastic, non-accidental] heuristic evolutionary mechanism.\n \n He found that adaptive genetic mutations arising systematically under these circumstances outnumbered maladaptive and inconsequential mutations to a high degree, statistically speaking. A most significant finding, and one that has been repeated again and again and again, to the point where somatic hypermutation is accepted by bacteriologists as a legitimate 'immune response' enabling rapid adaptive [EAM] evolution [antibiotic resistance] in eusocial bacteria. \n \n \n\n However, all of that is quite beside the point in the case under discussion. \n\n \n **\n True, and the confusion was my bad, as explained already. However, the fact of revertant mutation in eusocial bacteria colonies, as demonstrated by Ames and by Cairns, still shoots great big holes in the darwinist assumptions arising out of your old war-horses, Luria & Delbruck '43, and its \"clone\", Lederberg and Lederberg '52.", 
+   {}, 
+   281949, 
+   null, 
+   1188785580.0
+  ], 
+  [
+   281962, 
+   null, 
+   "chemist99a", 
+   "He found that adaptive genetic mutations arising systematically under these circumstances outnumbered maladaptive and inconsequential mutations to a high degree, statistically speaking. A most significant finding, and one that has been repeated again and again and again, to the point where somatic hypermutation is accepted by bacteriologists as a legitimate 'immune response' enabling rapid adaptive [EAM] evolution [antibiotic resistance] in eusocial bacteria.\n\n \n Would you mind telling us just how he determined ALL maladaptive or inconsequential mutations in his test organism and just how he validated such measurements? To me as a biologist with quite a bit of microbiology under the belt it would seem to be impossible to do so! After all its very likely that a fairly large portion of the populutaion will have at least one mutation at at least one base pair location in the total sequence! Your claim would seem to be impossible, but perhaps there is a way he managed to do so.", 
+   {}, 
+   281959, 
+   null, 
+   1188787500.0
+  ], 
+  [
+   281982, 
+   null, 
+   "Peeling", 
+   "True, and the confusion was my bad, as explained already. However, the fact of revertant mutation in eusocial bacteria colonies, as demonstrated by Ames and by Cairns, still shoots great big holes in the darwinist assumptions arising out of your old war-horses, Luria & Delbruck '43, and its \"clone\", Lederberg and Lederberg '52.\n\n \n Well, no, it doesn't. That's sort of the point of the article I linked to. No organismic response, no hypermutable state (apart from one coincidentally arising in a minority of the adaptive population), no EAM.\n \n L&D, as an experiment, had its limitations, namely the lethality of the selective environment. What the article I linked to demonstrates is that Cairns&Foster also has limitations. Most of the time, it should be remembered, the C&F methodology yields the same results as L&D; the circumstances yielding the anomalous results that were a temporary shot-in-the-arm for Lamarckism were very particular. The bacteria had to possess a leaky allele that still operated at a low efficiency, and that functionality had to be just barely inhibited by scavenger cells.\n \n C&F still did something useful: it highlighted the potential importance of amplification mutagenesis, where genes that do a slightly useful job accumulate under selection, increasing the chances that a more successful variant of the gene will arise within any given population.\n \n I'll check out the other experiment you mention; thanks for clearing that up.", 
+   {}, 
+   281959, 
+   null, 
+   1188807720.0
+  ], 
+  [
+   281987, 
+   null, 
+   "Peeling", 
+   " He found that adaptive genetic mutations arising systematically under these circumstances outnumbered maladaptive and inconsequential mutations to a high degree, statistically speaking. A most significant finding, and one that has been repeated again and again and again, to the point where somatic hypermutation is accepted by bacteriologists as a legitimate 'immune response' enabling rapid adaptive [EAM] evolution [antibiotic resistance] in eusocial bacteria. \n\n \n I've examined Hall's papers and they make interesting reading. However, further research, including some undertaken by Hall himself, has informed the debate greatly.\n \n For one thing, many of the experimental results to which Hall originally proposed sub-population hypermutation (your 'hypermutation as a eusocial response') as an explanation have proved inconsistent with that hypothesis. The Amplification Mutation model described above is a much better fit, correctly predicting such details as clonally-related bacteria possessing redundant lac- copies in addition to the lac+ revertant. The articles I've already cited, though they focus on the Cairns system's experimental vulnerabilities as the origin of the recent directed/adaptive mutagenesis misperception, also include Hall's work in their assessment.\n \n Hall himself performed a followup experiment to his work on anomalous rates of trpAB+ dual revertants, acknowledging that a colleague's suggestion, that stochastically-occurring trpA+trpB revertants were growing on waste byproducts secreted by non-growing trpAtrpB+ revertants was probably correct. \n \n \n In short, though hypermutation of a sub-population does occur sometimes, it is not always an organismic response (eg mutation promoters coincidentally amplified along with useful genes), and the 'successful' mutants do not always, or even mostly, arise from within that subpopulation. \n \n Also, you still seem reluctant to acknowledge the implications of the existence of a physical mechanism for hypermutation under stress. It must itself have evolved somehow - which makes it logically (as well as empirically, as evidenced by my original post in which 4/5ths of the adaptive bacteria exhibited no increased mutation rate) not a prerequisite for evolution. It's just one more adaptation to the environment - in this case, the environment's potential for inducing - though carcinogens or simple uncertainty at the molecular level - genetic change.", 
+   {}, 
+   281959, 
+   null, 
+   1188814260.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Statistically Inexplicable Successful Mutations - Explained.", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10309-statistically-inexplicable-successful-mutations-explained.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 10309, 
+  "discussion_files": [
+   [
+    "16219.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10309-statistically-inexplicable-successful-mutations-explained-print.html"
+   ]
+  ], 
+  "identifier": 10309
+ }
+]

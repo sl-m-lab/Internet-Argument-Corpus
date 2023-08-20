@@ -1,0 +1,124 @@
+[
+ [
+  [
+   186103, 
+   null, 
+   "Mucusaur", 
+   "To those knowledgable about such things.\n \n I have a video which is avi format. I need to get away of playing this on my DVD player, so I supppose i have to change it to whatever DVD format ( does anyone actually know what this is?). My player will also play VCD, so that may work too. Basically, I need to find a way of making AVI plable on a regular household DVD player! Any one got any ideas?", 
+   {
+    "post_info": {
+     "post_title": "AVI to Mpeg convertors"
+    }
+   }, 
+   null, 
+   null, 
+   1134860280.0
+  ], 
+  [
+   186109, 
+   null, 
+   "joebrummer", 
+   "You need software to do this, AVI is just a computer movie, It is a raw format. You would need something to convert it to MPEG2. Pinnacle is well priced software that is easy to use and that would do it. It would also let you make a VCD or a DVD.\n \n You could also try windows movie maker that is free and I think it may also make an MPEG2 file, but you should check the windows media site to be sure. \n \n How big is the AVI file and would you be able to email it to me, I could convert it to an Mpeg2 then send it back to you. Depends how long it is whether I will have time, the conversion process it pretty time consuming.\n \n Joe", 
+   {}, 
+   186103, 
+   null, 
+   1134870540.0
+  ], 
+  [
+   186110, 
+   null, 
+   "Big_Bear_Scot", 
+   "To convert from an avi to mpeg you could try TMPGEnc, you can find it at this website\n \n http://www.tmpgenc.net/e_main.html\n \n It is free to use, it is also fairly easy to use.\n \n Then you can then use a CD burning software to create a VCD that contains the mpeg.\n \n \n What CD/DVD Burning software do you have ? \n Becasue some allow you to create a Video DVD using an avi file.", 
+   {}, 
+   186109, 
+   null, 
+   1134871260.0
+  ], 
+  [
+   186159, 
+   null, 
+   "joebrummer", 
+   "To convert from an avi to mpeg you could try TMPGEnc, you can find it at this website\n \n http://www.tmpgenc.net/e_main.html\n \n It is free to use, it is also fairly easy to use.\n \n Then you can then use a CD burning software to create a VCD that contains the mpeg.\n \n \n What CD/DVD Burning software do you have ? \n Becasue some allow you to create a Video DVD using an avi file.\n\n \n \n \n I have used that and think it is very difficult to use, just my opinion.", 
+   {}, 
+   186110, 
+   null, 
+   1134886860.0
+  ], 
+  [
+   186212, 
+   null, 
+   "Mucusaur", 
+   "The file is 650 mb approx, and I use Nero for burning. Would it matter what the final product is on - DVD or CD, as long as the format is compatible", 
+   {}, 
+   186159, 
+   null, 
+   1134918960.0
+  ], 
+  [
+   186282, 
+   null, 
+   "Big_Bear_Scot", 
+   "The file is 650 mb approx, and I use Nero for burning. Would it matter what the final product is on - DVD or CD, as long as the format is compatible\n\n \n If you are going to produce a CD it will have to be a VCD in order to play on a DVD player. The only problem is that the video file(when uncompressed) might be too big to fit on one CD.\n \n Depending on what version of nero you have you should be able to produce a DVD that will be playable on your DVD player. What version(of Nero) do you have I might be able to give you the steps to produce the DVD ?", 
+   {}, 
+   186212, 
+   null, 
+   1134942660.0
+  ], 
+  [
+   186331, 
+   null, 
+   "Mucusaur", 
+   "it appears to be nero 6", 
+   {}, 
+   186282, 
+   null, 
+   1134958320.0
+  ], 
+  [
+   218654, 
+   null, 
+   "Pixel Demon", 
+   "DVD Santa will convert most formats to DVD and burn them as well.\n \n You can also try WINAVI.\n \n Both very good programs, and very easy to use.", 
+   {}, 
+   186331, 
+   null, 
+   1151041020.0
+  ], 
+  [
+   247406, 
+   null, 
+   "Evil Athiest", 
+   "it appears to be nero 6\n\n \n Quite capable to burn DVD movies with Nero 6.\n \n Best tool I've used is ConvertXToDVD. It's fine with most import formats and easy to use. You end up with VOB files and use DVD movie, just drag the Video folders contents and bingo.\n \n Avoid VCD where possible, a poor mans DVD", 
+   {}, 
+   186331, 
+   null, 
+   1168943160.0
+  ], 
+  [
+   422902, 
+   null, 
+   "jamilla", 
+   "iSquint works great...been using it a while now.", 
+   {}, 
+   186103, 
+   null, 
+   1295599140.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  AVI to Mpeg convertors", 
+  "url": "http://www.4forums.com/political/computers/7100-avi-mpeg-convertors.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 7100, 
+  "discussion_files": [
+   [
+    "13243.html", 
+    "http://www.4forums.com/political/computers/7100-avi-mpeg-convertors-print.html"
+   ]
+  ], 
+  "identifier": 7100
+ }
+]

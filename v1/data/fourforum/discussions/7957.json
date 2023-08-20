@@ -1,0 +1,94 @@
+[
+ [
+  [
+   207752, 
+   null, 
+   "Mucusaur", 
+   "I am currently doing a geochem report which involves estimating the annual tonnages of copper discharged into a river. The concentraion of the copper is 45 ppm. The discharge rate is roughly 10 litres a second. If I multiply the discharge (10) by 60*60*24 I get the flow rate in litres per day. Multiply this by .000045 to get the conc of copper flow per day. my answer was 38 litres per day. (is my procedure correct here?)\n \n Now how the hell do I get the ton equivalent of this? The actual weight of Cu into the river?", 
+   {
+    "post_info": {
+     "post_title": "Science type question."
+    }
+   }, 
+   null, 
+   null, 
+   1145224800.0
+  ], 
+  [
+   207758, 
+   null, 
+   "Jo Bennett", 
+   "Is \"parts per million\" by weight? If so then you simply need to know that the mass of a litre of water is approx 1kg, and hence the weight of copper is 0.045g/litre. If it's by particles, then you'll need molar masses and things.", 
+   {}, 
+   207752, 
+   null, 
+   1145228880.0
+  ], 
+  [
+   207759, 
+   null, 
+   "Mucusaur", 
+   "\"PPM is defined as the mass of the component in solution\"\n \n The first option i guess, Jo", 
+   {}, 
+   207758, 
+   null, 
+   1145229120.0
+  ], 
+  [
+   207763, 
+   null, 
+   "Jo Bennett", 
+   "Well, in that case 38.8kg, as was said by the guys on warseer too.", 
+   {}, 
+   207759, 
+   null, 
+   1145232360.0
+  ], 
+  [
+   207764, 
+   null, 
+   "Mucusaur", 
+   "That must be another mucusaur.", 
+   {}, 
+   207763, 
+   null, 
+   1145232840.0
+  ], 
+  [
+   207766, 
+   null, 
+   "Jo Bennett", 
+   "I suggest you hunt him down then, surely there can be only one? :p", 
+   {}, 
+   207764, 
+   null, 
+   1145232960.0
+  ], 
+  [
+   210440, 
+   null, 
+   "lord tammerlain", 
+   "For liquids concentration is often expressed by mg/L ( ppm) \n \n So your calculation would look something like this\n \n 45mg x 10L x 60 sec x 60 min x 24hr = 38.88 kg/day\n 1 L , 1 sec, min, hr , day", 
+   {}, 
+   207766, 
+   null, 
+   1146323160.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Science type question.", 
+  "url": "http://www.4forums.com/political/science-math-debates/7957-science-type-question.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 7957, 
+  "discussion_files": [
+   [
+    "28477.html", 
+    "http://www.4forums.com/political/science-math-debates/7957-science-type-question-print.html"
+   ]
+  ], 
+  "identifier": 7957
+ }
+]

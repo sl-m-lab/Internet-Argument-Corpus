@@ -1,0 +1,64 @@
+[
+ [
+  [
+   80217, 
+   null, 
+   "Clive14", 
+   "A slightly misleading title by the BBC, but an interesting article non the less...\n \n http://news.bbc.co.uk/1/hi/sci/tech/4056559.stm", 
+   {
+    "post_info": {
+     "post_title": "Ancestor's DNA code reconstructed"
+    }
+   }, 
+   null, 
+   null, 
+   1101991560.0
+  ], 
+  [
+   80220, 
+   null, 
+   "OccamsRazor", 
+   "A slightly misleading title by the BBC, but an interesting article non the less...\n \n http://news.bbc.co.uk/1/hi/sci/tech/4056559.stm\n\n \n Thanks for the link it was an interesting read.\n \n I found the comment in the second to last paragraph most intriguing:\n \n 'Scientists have also identified the smallest number of genes required to sustain life in a bacterial cell (about 350). If they can overcome the many technical hurdles of building a wholly artificial cell in the lab, it is conceivable they could \"create\" - albeit simple - \"life\". '\n \n Who knows what that line of research might lead us to?", 
+   {}, 
+   80217, 
+   null, 
+   1101996000.0
+  ], 
+  [
+   80248, 
+   null, 
+   "Cthulhu", 
+   "One of the biggest hurdles to greater things is that we cannot currently predict the shape of a protein from a given nucleotide sequence. The so called protein folding problem. We essentially need a box that can take a nucleotide sequence as input and return the shape of the resulting protein (if any).\n If this can be overcome it would lead to amazing things. We could contemplating growing organisms virtually for a start and when computers get fast enough, running multiple generations of such organisms. Observing evolution over millions of years would at last be possible. Not only that but we would be theoretically able to actually synthesise such creatures in the real world..", 
+   {}, 
+   80220, 
+   null, 
+   1102011300.0
+  ], 
+  [
+   80344, 
+   null, 
+   "pnac=ww3", 
+   "Well, we're already starting to \"improve\" on nature by making enzymes more efficient or tailoring them to our synthetic needs through \"Directed Enzyme Evolution.\"\n \n http://www.che.caltech.edu/groups/fha/index.html\n http://biotechnology.mq.edu.au/directed_enzyme.htm\n http://www.humanapress.com/Product.pasp?txtCatalog=HumanaBooks&txtProductID=1-59259-396-8\n http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12470742&dopt=Abstract\n http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11849936&dopt=Abstract\n \n Basically you isolate an enzyme that performs a desired (or similar) catalytic function and then you try to optimize it by complicated screening methods and recombinant DNA methods, etc. But these are to be used in industrial and medical applications.\n \n But what if we could \"improve\" a natural enzyme and somehow introduce it in nature. One of the most ubiquitious enzymes is RUBISCO (which catalyzes the first step in carbon fixation in plants). If we didn't have this enzyme (and it's simpler analogs) nothing would happen. Plants couldn't build up carbon-based structures and molecules. It's quite essential to life on earth as we know it. BUT, it's terribly inefficient for an enzyme, and actually is quite non-selective (a very non-enzymatic quality) O2 will react just as likely as CO2 will, so a plant has to have complicated \"clean-up\" mechanisms to make up for it. \n If this could be improved and introduced into organisms, who knows what might happen.\n http://www.rcsb.org/pdb/molecules/pdb11_1.html", 
+   {}, 
+   80248, 
+   null, 
+   1102031880.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Ancestor's DNA code reconstructed", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/3852-ancestors-dna-code-reconstructed.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 3852, 
+  "discussion_files": [
+   [
+    "23436.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/3852-ancestors-dna-code-reconstructed-print.html"
+   ]
+  ], 
+  "identifier": 3852
+ }
+]

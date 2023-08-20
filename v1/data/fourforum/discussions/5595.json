@@ -1,0 +1,74 @@
+[
+ [
+  [
+   134941, 
+   null, 
+   "daewoo", 
+   "We are in the middle of a horific thunderstorm here. The power went out, and it took a minute for the backup generator to kick in. I was working at the computer, and like a dumbass, I don't have a UPS on it, so when the power died the computer did too. I had mozilla open. When the power came back up (and the computer), my cookies didn't work. I am having to log into every site...whihc is kind of a pain since on a lot fo them I don't remember the password I used, and signed up using a ficticous name and a garbage email address. \n \n I scanned my HD, and everythign comes back OK. I did a little browsing and all the cookies are still there and the fiels seem fine.\n \n Any ideas?", 
+   {
+    "post_info": {
+     "post_title": "Cookies not working"
+    }
+   }, 
+   null, 
+   null, 
+   1118299920.0
+  ], 
+  [
+   135087, 
+   null, 
+   "georged", 
+   "We are in the middle of a horific thunderstorm here. The power went out, and it took a minute for the backup generator to kick in. I was working at the computer, and like a dumbass, I don't have a UPS on it, so when the power died the computer did too. I had mozilla open. When the power came back up (and the computer), my cookies didn't work. I am having to log into every site...whihc is kind of a pain since on a lot fo them I don't remember the password I used, and signed up using a ficticous name and a garbage email address. \n \n I scanned my HD, and everythign comes back OK. I did a little browsing and all the cookies are still there and the fiels seem fine.\n \n Any ideas?\n\n \n Firewall parameters? \n \n Which operating system? XP allows a reset to pre-crash configuration.", 
+   {}, 
+   134941, 
+   null, 
+   1118343660.0
+  ], 
+  [
+   135097, 
+   null, 
+   "daewoo", 
+   "Firewall parameters? \n \n Which operating system? XP allows a reset to pre-crash configuration.\n\n \n No firewall on that machine. It is air gapped from the regular network and has its own internet connection (DSL, other computers in my house are connected though the T3 at the office via microwave). It is the media computer (hooked to TV and stereo). \n \n I am running windows 2K professional on it.\n \n I tried restoring a backup (manual) that included cookies but it still didn't work. Cookies in IE seem to work just fine. I am wondering if maybe I damaged and need to re-install mozilla (firefox).", 
+   {}, 
+   135087, 
+   null, 
+   1118344620.0
+  ], 
+  [
+   135100, 
+   null, 
+   "georged", 
+   "\n \n I tried restoring a backup (manual) that included cookies but it still didn't work. Cookies in IE seem to work just fine. I am wondering if maybe I damaged and need to re-install mozilla (firefox).\n\n \n Sounds like the solution.", 
+   {}, 
+   135097, 
+   null, 
+   1118344800.0
+  ], 
+  [
+   255363, 
+   null, 
+   "___", 
+   "We are in the middle of a horific thunderstorm here. The power went out, and it took a minute for the backup generator to kick in. I was working at the computer, and like a dumbass, I don't have a UPS on it, so when the power died the computer did too. I had mozilla open. When the power came back up (and the computer), my cookies didn't work. I am having to log into every site...whihc is kind of a pain since on a lot fo them I don't remember the password I used, and signed up using a ficticous name and a garbage email address. \n \n I scanned my HD, and everythign comes back OK. I did a little browsing and all the cookies are still there and the fiels seem fine.\n \n Any ideas?\n\n \n Just be thankful your computer still works.", 
+   {}, 
+   134941, 
+   null, 
+   1174708800.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Cookies not working", 
+  "url": "http://www.4forums.com/political/computers/5595-cookies-not-working.html", 
+  "breadcrumbs": [
+   "Computers"
+  ], 
+  "id_number": 5595, 
+  "discussion_files": [
+   [
+    "31640.html", 
+    "http://www.4forums.com/political/computers/5595-cookies-not-working-print.html"
+   ]
+  ], 
+  "identifier": 5595
+ }
+]

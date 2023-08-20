@@ -1,0 +1,134 @@
+[
+ [
+  [
+   169307, 
+   null, 
+   "pakkae", 
+   "Hello friends,\n I am an engg student doing a project on reactive distillation and want to know an information regarding Acetic acid analysis.\n I am using the system of Acetic acid and Butanol to produce Butyl acetate and water.\n I want to find the conversion of the reaction and now then we are using the Acid number concept to find the conversion.\n Please suggest me whether this method is correct and if not please suggest me some other method to do the analysis of the compounds....of all acetic acid, butanol, butyl acetate.\n We don't have GC in our college and hence i have to go about with Conventional procedures...so please, suggest me a method to analyse this system.\n Awaiting ur reply.\n Regards.", 
+   {
+    "post_info": {
+     "post_title": "Help regarding analysing Acetic acid"
+    }
+   }, 
+   null, 
+   null, 
+   1128874080.0
+  ], 
+  [
+   169337, 
+   null, 
+   "Kronus", 
+   "My advice would be to talk to your professor. \n \n Barring that, I have to say that I can't really tell what you're asking here. You are using alot of terms that aren't used in American chemistry classes, like \"Acid number concept\" and \"conversion of the reaction\". Are those like p.H. and equilibrium constants, or maybe reaction rate? Sorry I can't be of more help.", 
+   {}, 
+   169307, 
+   null, 
+   1128880800.0
+  ], 
+  [
+   169341, 
+   null, 
+   "pakkae", 
+   "Thank u for replying.\n Ya...it is all abt determining the rate expression and equilbrium constants...but i am talking abt analysing the sample after the reaction....how to do that?", 
+   {}, 
+   169337, 
+   null, 
+   1128881160.0
+  ], 
+  [
+   169343, 
+   null, 
+   "Kronus", 
+   "Thank u for replying.\n Ya...it is all abt determining the rate expression and equilbrium constants...but i am talking abt analysing the sample after the reaction....how to do that?\n\n \n Are you saying that you're putting X amount of Acetic acid and Y amount of Butanol in a beaker and you want to know how much Butyl acetate and water there is afterwards? And if so do you want to know how to do the math to predict the answer, or how to actually take the beaker and analyze the contents?", 
+   {}, 
+   169341, 
+   null, 
+   1128881520.0
+  ], 
+  [
+   169366, 
+   null, 
+   "pakkae", 
+   "I am asking abt predicting the compositions of the product after the reaction experimentally......and not mathematically", 
+   {}, 
+   169343, 
+   null, 
+   1128886560.0
+  ], 
+  [
+   169395, 
+   null, 
+   "lord tammerlain", 
+   "A few analytical methods you might be able to use \n \n density. with the knowledge of the density of butyl acetate, acetic acid, and water, the difference between the expected and analytical result should provide a rough indicator\n \n pH. Should allow you to determine roughly the amount of acetic acid.\n \n http://www.scielo.br/pdf/bjce/v19n2/10666.pdf\n \n is a site that gives some of the information you may need\n \n \n Overall I would try to find a titration method to determing butyl acetate.\n \n Distallation using boiling points to collect the various fractions.", 
+   {}, 
+   169366, 
+   null, 
+   1128892200.0
+  ], 
+  [
+   169672, 
+   null, 
+   "Kronus", 
+   "I don't think the distillation would work. Assuming that everything is in equalibrium, if you boil off the butanol then the butyl acetate would just dissacociate, giving you more butanol, wouldn't it?", 
+   {}, 
+   169395, 
+   null, 
+   1128981540.0
+  ], 
+  [
+   169680, 
+   null, 
+   "lord tammerlain", 
+   "I don't think the distillation would work. Assuming that everything is in equalibrium, if you boil off the butanol then the butyl acetate would just dissacociate, giving you more butanol, wouldn't it?\n\n \n Not having checked the stability of butyl acetate, I expect that it would be stable enough to be distilled, with only minor losses in yield. Perhaps crystalization purification would be more appropriate, or an extraction based on solubility.", 
+   {}, 
+   169672, 
+   null, 
+   1128983160.0
+  ], 
+  [
+   169711, 
+   null, 
+   "Kronus", 
+   "Not having checked the stability of butyl acetate, I expect that it would be stable enough to be distilled, with only minor losses in yield. Perhaps crystalization purification would be more appropriate, or an extraction based on solubility.\n\n \n Could be. The math I could do easily, but I've never taken an o-chem lab, so all I can do is make general guesses here.", 
+   {}, 
+   169680, 
+   null, 
+   1128988260.0
+  ], 
+  [
+   169728, 
+   null, 
+   "lord tammerlain", 
+   "I used to be able to do the math, it has been a while and I would have to go through some old text books. I have done some reaction chemistry, at the bench scale and usually after the reaction is complete the resultant chemicals are fairly stable.", 
+   {}, 
+   169711, 
+   null, 
+   1128990600.0
+  ], 
+  [
+   189278, 
+   null, 
+   "JPSartre12", 
+   "I used to be able to do the math, it has been a while and I would have to go through some old text books. I have done some reaction chemistry, at the bench scale and usually after the reaction is complete the resultant chemicals are fairly stable.\n\n \n The easisest method would be to measure the acid number of acetic acid using a standard titrant, such as 1N NaOH, to a phenolphthalein endpoint. \n \n The amount of acetic acid (HAC) initially is equivalent to the moles of NaOH consumed.\n \n HAC + NaOH --------< NaAC + H2O\n \n You calculate the amount of BuAC by calculating the # of moles of HAC remaining after your reaction.\n \n Moles BuAC = Moles HAC (initial) - Moles HAC (final) =\n moles of NaOH(initial) - moles of NaOH(final), determined during your titration of reactant mixture and finished product mixture.", 
+   {}, 
+   169728, 
+   null, 
+   1136165700.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Help regarding analysing Acetic acid", 
+  "url": "http://www.4forums.com/political/science-math-debates/6586-help-regarding-analysing-acetic-acid.html", 
+  "breadcrumbs": [
+   "Science and Math"
+  ], 
+  "id_number": 6586, 
+  "discussion_files": [
+   [
+    "31861.html", 
+    "http://www.4forums.com/political/science-math-debates/6586-help-regarding-analysing-acetic-acid-print.html"
+   ]
+  ], 
+  "identifier": 6586
+ }
+]

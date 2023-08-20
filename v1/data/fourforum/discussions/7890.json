@@ -1,0 +1,54 @@
+[
+ [
+  [
+   205638, 
+   null, 
+   "daewoo", 
+   "I am travelling for a few days and am on my laptop. I am remoted into my home network, and for some reason I cannot view video. Media player comes up, but the video does not appear. I checked my settings on this end, and \"play video\" IS checked. I have never had troube viewign video before, except that it si sometimes jerky if my connection is bad.\n \n Any ideas?", 
+   {
+    "post_info": {
+     "post_title": "Remote desktop"
+    }
+   }, 
+   null, 
+   null, 
+   1144254660.0
+  ], 
+  [
+   205937, 
+   null, 
+   "Jo Bennett", 
+   "do you have the relevant codecs for the video you are playing, on both the laptop and your home computer? Have you played that specific video before?", 
+   {}, 
+   205638, 
+   null, 
+   1144418400.0
+  ], 
+  [
+   205947, 
+   null, 
+   "daewoo", 
+   "do you have the relevant codecs for the video you are playing, on both the laptop and your home computer? Have you played that specific video before?\n\n \n Yes to all of the above. I finally got it to work. I rebooted my home machine (used shutdown /r). \n \n I probably would not have bothered...not being able to watch \"Fun diwth Dick and Jane\" was not worth the risk of it not coming back up. BUT, the streaming charts on my currency ttrading platform would not come through, either, and I had some open positions I needed to look in on. \n \n In the future I will load all the software and files I want/need on my laptop. Remote desktop is just so handy that I got lazy.", 
+   {}, 
+   205937, 
+   null, 
+   1144423860.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Remote desktop", 
+  "url": "http://www.4forums.com/political/technology/7890-remote-desktop.html", 
+  "breadcrumbs": [
+   "Technology"
+  ], 
+  "id_number": 7890, 
+  "discussion_files": [
+   [
+    "14860.html", 
+    "http://www.4forums.com/political/technology/7890-remote-desktop-print.html"
+   ]
+  ], 
+  "identifier": 7890
+ }
+]

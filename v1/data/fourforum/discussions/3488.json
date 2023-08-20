@@ -1,0 +1,359 @@
+[
+ [
+  [
+   72722, 
+   null, 
+   "unkerpaulie", 
+   "yeah, jumping the gun again. i want to tackle something while its fresh in my mind\n \n if any of you guys have ever read the ontological argument that proves that God exists, its probably the most logical discourse on proof of God that i have ever read. (i'll get links later, tishammerw, where are you man!)\n \n anyway, it starts of on the premise that God is defined as \"the greatest being possible\". i like that definition, it sure beats all-powerful, since we have demonstrated that \"all-powerful\" doesnt cut it, there are certain illogicalities that can never exist, even for God. so only the realm of \"possible\" is the limit of God's power\n \n here is the lengthy and exhaustively explained version\n \n here's the short and dirty version (all this was copied somewhat shamelessly from dreamweaver's post):\n \n let G = \"God exists\"\n \n Just in case you are not familiar with Modal logic:\n \n A -< B - A being true implies B is true\n ~A - A is not true\n []A - Necessarily A (true in all possible worlds)\n <<A or ~[]~A - Possible for A (true at least one possible world)\n A - A is true in actuality (true in the actual world)\n \n If something exists necessarily, then, of course, it exists in the actual world since our world is a possible world. Premise one is a conditional statement, it does not presuppose the existence of God.\n \n 1. G -< []G - G implies G is necessarily true\n 2. ~[]~G - it is possible that G is true\n 3. []G -< G - same as 1, G being necessarily true implies G is true\n 4. ~[]G -< []~[]G - ~[]G implies ~[]G is necessarily true (same app from 1)\n 5. []G v ~[]G - either []G is is true or not (excluded middle)\n 6. []G v []~[]G - Substitution from 4 and 5\n 7. []~[]G -< []~G - flip 4 (as in flipping 1 to get 3)\n 8. []G v []~G - Substitution from 6 and 7\n 9. []G - from 2, we can eliminate []~G from 8\n 10. G - from 3\n \n statements 1 and 2 are the premises. statement 10 is the conclusion\n \n thus, the logic proves that such a being as \"the greatest being possible\" exists in reality\n \n any questions? (i have more on this, of course... )", 
+   {
+    "post_info": {
+     "post_title": "God exists!!! (but he's not who you think he is...)"
+    }, 
+    "unicode_changes_made": true
+   }, 
+   null, 
+   null, 
+   1098375540.0
+  ], 
+  [
+   72787, 
+   null, 
+   "Alan Ryan", 
+   "\n if any of you guys have ever read the ontological argument that proves that God exists, its probably the most logical discourse on proof of God that i have ever read. \n \n If something exists necessarily, then, of course, it exists in the actual world \n\n \n I've never been a student of formal logic so on this subject I'll just have\n to reason as best I can.\n If I've understood the essential point in this argument, then the existence of\n God (or, if you prefer, \"the greatest being possible\") is not merely a matter of\n wishful thinking but a logical necessity: an unavoidable inference that comes\n about just by applying the rules. Any denial of God's existence must therefore\n involve a (self) contradiction that drops the skeptic down a logical black hole.\n But even \"an absolutely necessary being\" is still only an idea and thus \n there is no reason why this logical necessity should correspond to actuality.", 
+   {}, 
+   72722, 
+   null, 
+   1098391500.0
+  ], 
+  [
+   72811, 
+   null, 
+   "unkerpaulie", 
+   "I've never been a student of formal logic so on this subject I'll just have\n to reason as best I can.\n If I've understood the essential point in this argument, then the existence of\n God (or, if you prefer, \"the greatest being possible\") is not merely a matter of\n wishful thinking but a logical necessity: an unavoidable inference that comes\n about just by applying the rules. Any denial of God's existence must therefore\n involve a (self) contradiction that drops the skeptic down a logical black hole.\n But even \"an absolutely necessary being\" is still only an idea and thus \n there is no reason why this logical necessity should correspond to actuality.\n\n no, its not. when something has a \"necessary existence\" it means that thing exists in all possible worlds. here is a little elaboration on the \"all possible worlds\" concept (its on the same site): \n \nTo help explain some basic concepts of modal logic, let me tell you a little story about OmniSim. Our world is reality. Nevertheless, there are many other ways reality could have been like, i.e. many other possible worlds. Suppose we have a supercomputer called OmniSim that can simulate all possible worlds. Every world that is possible has a simulated environment in this supercomputer.\n\n you and i have an existence in this reality, but not in necessarily in every realities. omnisim can simulate possible realities without us in it. for something to have \"necessary existence\", it must exist in every possible version of reality. hope it makes sense... \n \n basically, something with logical necessity must exist in every reality, including ours", 
+   {}, 
+   72787, 
+   null, 
+   1098396060.0
+  ], 
+  [
+   72855, 
+   null, 
+   "Dzeron", 
+   "I think there is something wrong with Premse One. It translates into English as \"If God exists, then he exists in all possible worlds.\" No logical rule justifies this statement. It is equally foolish to say that \"If England exists, then it exists in all possible worlds.\" But clearly, England does not exist in the possible world where Earth never formed.\n \n There is some theory of logic that states that one bad premise leads to a bad conclusion. An example would be a proof like this one:\n \n Given: 1=0.\n \n Prove: There are no people on Earth.\n \n 1*6 Billion = 0 * 6 Billion : Rule of doing the same thing to both sides.\n 6 Billion = 0 : Simplification\n There are 6 billion people on Earth.\n But 6 billion = 0.\n Therefore, there are 0 people on Earth. : Substitution", 
+   {}, 
+   72811, 
+   null, 
+   1098401460.0
+  ], 
+  [
+   72860, 
+   null, 
+   "Big Orn", 
+   "Maybe he was referring to pure math as being the science of all conceivable worlds&#8230;.????, where every conclusion follows from its own basis, which eventually (maybe decades/centuries) can describe every other imaginable world?\n \n Now I got a headache&#8230;even though all this is way, way over my aching head. \n My Pap once told me that fartin&#8217; horses never tire, but I have seen tired horses fart. Do the math on that one, unkerpaulie&#8230;:) Bet you&#8217;ll get more takers, for I have never known of math to ever prove anything, but I can prove that 2 and 2 is 4. See what I mean?", 
+   {}, 
+   72855, 
+   null, 
+   1098402540.0
+  ], 
+  [
+   72936, 
+   null, 
+   "zachvac", 
+   "\n let G = \"God exists\"\n 1. G -< []G ? G implies G is necessarily true\n 2. ~[]~G ? it is possible that G is true\n 3. []G -< G ? same as 1, G being necessarily true implies G is true\n 4. ~[]G -< []~[]G ? ~[]G implies ~[]G is necessarily true (same app from 1)\n 5. []G v ~[]G ? either []G is is true or not (excluded middle)\n 6. []G v []~[]G ? Substitution from 4 and 5\n 7. []~[]G -< []~G ? flip 4 (as in flipping 1 to get 3)\n 8. []G v []~G ? Substitution from 6 and 7\n 9. []G ? from 2, we can eliminate []~G from 8\n 10. G ? from 3\n \n\n let me try to translate into words\n 1. if there is a god in this world, there is a god in all worlds\n 2. there being a god is a possibility\n 3. If there's a god in all worlds, there's a god in this one\n 4. There not being a god in all worlds implies that there's isn't a god in any world (all or nothing)\n 5. There is either a god in all worlds or there isn't a god in all worlds\n 6. from 4,5 there either is a god in all worlds or no god in any world\n 7. if there's no god in this world then there's not a god in all worlds\n 8. There's either a god in all worlds or there is no god in any world.\n 9. Since god is a possibility we know the statement <there is no god in any world< is false.\n 10. Since there's a god in all worlds there's a god in this one from 3\n \n Is this the right interpretation? If it is there is one flaw in it. #9 is flawed. Just because there's a possibility of a god doesn't mean that there is a god in some world, just that there's a possibility of him being in some world.", 
+   {}, 
+   72722, 
+   null, 
+   1098421260.0
+  ], 
+  [
+   72949, 
+   null, 
+   "Alan Ryan", 
+   "\n basically, something with logical necessity must exist in every reality, including ours\n \n If this thread is intended to be read only by those with a technical expertise \n in logical analysis, then my low-tech approach will make you groan. However,\n I'm still puzzled by the idea that \"logical necessity must exist in every reality\"\n when this idea is applied to a particular problem. I can see that \n interior to logical reasoning, \"necessity\" must exist in every reality - otherwise \n what we understand as \"logic\" would not be that but something else.\n To simplify: \n All my friends are Irish\n Sheila is my friend\n So Sheila is Irish. \n (The same sort of logical necessity applies (I think) to propositions involving\n mathematics: 6+2 = 8 cannot be refuted because 6+2 is just another way\n of writing 8.)\n As Sheila exists in the real world, the information about her contained in the\n syllogism also happens to be factually true.\n But the necessary truths of logic including the proposition that God exists,\n are deduced from applying the rules of logic and are not necessarily factual\n truths and seem to have the same status as Sheila would if she existed only as an idea.", 
+   {}, 
+   72811, 
+   null, 
+   1098440820.0
+  ], 
+  [
+   72963, 
+   null, 
+   "unkerpaulie", 
+   "I think there is something wrong with Premse One. It translates into English as \"If God exists, then he exists in all possible worlds.\" No logical rule justifies this statement. It is equally foolish to say that \"If England exists, then it exists in all possible worlds.\" But clearly, England does not exist in the possible world where Earth never formed.\n\n the reason why premise 1 can logically stand is that God is first of all defined as the \"greatest possible being\". no matter what reality we are considering, such a thing as the greatest possible being in that relity must exist. \"greatest\" is a superlative, compared to all other beings that exist\n \n its like \"the oldest man alive\". no matter what scenario, such a person as the oldest man alive will always exist, therefore such a man (that fits that definition) will have a necessary existence", 
+   {}, 
+   72855, 
+   null, 
+   1098455280.0
+  ], 
+  [
+   72967, 
+   null, 
+   "unkerpaulie", 
+   "let me try to translate into words\n 1. if there is a god in this world, there is a god in all worlds\n 2. there being a god is a possibility\n 3. If there's a god in all worlds, there's a god in this one\n 4. There not being a god in all worlds implies that there's isn't a god in any world (all or nothing)\n 5. There is either a god in all worlds or there isn't a god in all worlds\n 6. from 4,5 there either is a god in all worlds or no god in any world\n 7. if there's no god in this world then there's not a god in all worlds\n 8. There's either a god in all worlds or there is no god in any world.\n 9. Since god is a possibility we know the statement <there is no god in any world< is false.\n 10. Since there's a god in all worlds there's a god in this one from 3\n \n Is this the right interpretation? If it is there is one flaw in it. #9 is flawed. Just because there's a possibility of a god doesn't mean that there is a god in some world, just that there's a possibility of him being in some world.\n\n i'm impressed! this is a very precise description, in regular english\n \n and yes, the deduction in 9 seems presumptious if all we state is God has a \"possibility of existence\". how this was cleverly cleared up (from the same source site) was simply a trip back to the definition: \"greatest possible being\". the \"greatest possible being\", by definition, MUST have a possible existence. in otherwords, we cannot assume that there is a possibility that the greatest possible being does not exist. yeah, it sounds like the whole \"proof\" is pointless because your premise is already the proof\n \n just keep in mind that for the purposes of this proof, God is defined as \"the greatest being possible\". as long as that definition is maintained, the proof works...\n \n does that mean that God exists? hmmm....emoticon_frazzled", 
+   {}, 
+   72936, 
+   null, 
+   1098455820.0
+  ], 
+  [
+   72968, 
+   null, 
+   "unkerpaulie", 
+   "ron and alan, dont get bogged down with the relationship between subsets and logical necessity. there is a similarity, but let me try to explain the difference\n \n lets go back to omnisim. in every possible world that omnisim can simulate, there are certain things that will hold true for all of them (such as laws of physics, math, logic, etc). these things have \"necessary existence\". other things, such as a world with sheila or england in it, have \"contingent existence\", that is, possible realities can exist without them.", 
+   {}, 
+   72967, 
+   null, 
+   1098456480.0
+  ], 
+  [
+   72995, 
+   null, 
+   "Alan Ryan", 
+   "\n its like \"the oldest man alive\". no matter what scenario, such a person as the oldest man alive will always exist, therefore such a man (that fits that definition) will have a necessary existence\n\n Yes, I can see why that person must necessarily exist in any world we can\n conceive of that contains old men. What I cannot understand is in showing\n that the same logic applies to \"the greatest being possible\" (a theoretical\n concept that is attended by a number of second order questions), is how\n this logical necessity, which arises from \"the rules of the game\", can prove\n a metaphysical reality about which we can infer factual knowledge. Unless\n we are going to simply say that \"the greatest being possible\" is essentially\n an unknowable construct.", 
+   {}, 
+   72963, 
+   null, 
+   1098463020.0
+  ], 
+  [
+   73009, 
+   null, 
+   "unkerpaulie", 
+   "Yes, I can see why that person must necessarily exist in any world we can\n conceive of that contains old men. What I cannot understand is in showing\n that the same logic applies to \"the greatest being possible\" (a theoretical\n concept that is attended by a number of second order questions), is how\n this logical necessity, which arises from \"the rules of the game\", can prove\n a metaphysical reality about which we can infer factual knowledge. Unless\n we are going to simply say that \"the greatest being possible\" is essentially\n an unknowable construct.\n\n who said anything about metaphysical? who said that the \"greatest possible being\" is unknowable?\n \n if you want to throw in factors such as \"metaphysical\" and \"unknowable\", we must first reconstruct our definition. either that, or we must determine if these features are implicit to the definition we already have. is the definition \"the greatest possible being\" inadequate?", 
+   {}, 
+   72995, 
+   null, 
+   1098464700.0
+  ], 
+  [
+   73074, 
+   null, 
+   "zachvac", 
+   "the reason why premise 1 can logically stand is that God is first of all defined as the \"greatest possible being\". no matter what reality we are considering, such a thing as the greatest possible being in that relity must exist. \"greatest\" is a superlative, compared to all other beings that exist\n \n its like \"the oldest man alive\". no matter what scenario, such a person as the oldest man alive will always exist, therefore such a man (that fits that definition) will have a necessary existence\n\n \n Ahh but then it really comes down to the greatest being that exists, not that is possible. Of course there doesn't always have to be a man who is the oldest possible.", 
+   {}, 
+   72963, 
+   null, 
+   1098494700.0
+  ], 
+  [
+   73097, 
+   null, 
+   "Mach", 
+   "yeah, jumping the gun again. i want to tackle something while its fresh in my mind\n \n if any of you guys have ever read the ontological argument that proves that God exists, its probably the most logical discourse on proof of God that i have ever read. (i'll get links later, tishammerw, where are you man!)\n \n anyway, it starts of on the premise that God is defined as \"the greatest being possible\". i like that definition, it sure beats all-powerful, since we have demonstrated that \"all-powerful\" doesnt cut it, there are certain illogicalities that can never exist, even for God. so only the realm of \"possible\" is the limit of God's power\n \n here is the lengthy and exhaustively explained version\n \n here's the short and dirty version (all this was copied somewhat shamelessly from dreamweaver's post):\n \n let G = \"God exists\"\n \n Just in case you are not familiar with Modal logic:\n \n A -< B - A being true implies B is true\n ~A - A is not true\n []A - Necessarily A (true in all possible worlds)\n <<A or ~[]~A - Possible for A (true at least one possible world)\n A - A is true in actuality (true in the actual world)\n \n If something exists necessarily, then, of course, it exists in the actual world since our world is a possible world. Premise one is a conditional statement, it does not presuppose the existence of God.\n \n 1. G -< []G - G implies G is necessarily true\n 2. ~[]~G - it is possible that G is true\n 3. []G -< G - same as 1, G being necessarily true implies G is true\n 4. ~[]G -< []~[]G - ~[]G implies ~[]G is necessarily true (same app from 1)\n 5. []G v ~[]G - either []G is is true or not (excluded middle)\n 6. []G v []~[]G - Substitution from 4 and 5\n 7. []~[]G -< []~G - flip 4 (as in flipping 1 to get 3)\n 8. []G v []~G - Substitution from 6 and 7\n 9. []G - from 2, we can eliminate []~G from 8\n 10. G - from 3\n \n statements 1 and 2 are the premises. statement 10 is the conclusion\n \n thus, the logic proves that such a being as \"the greatest being possible\" exists in reality\n \n any questions? (i have more on this, of course... )\n\n \n Yes, it's like saying out of a fininte set of numbers starting with 1, all greater than or equal to 1, a greatest number must logically exist, and we'll call it \"god\".\n \n I like that definition too. Not sure Christians like it though.\n \n -Mach", 
+   {
+    "unicode_changes_made": true
+   }, 
+   72722, 
+   null, 
+   1098505020.0
+  ], 
+  [
+   73124, 
+   null, 
+   "Dzeron", 
+   "Does the greatest possible integer exist?\n \n Clearly it does not. For any possible integer n, there is another possible integer n+1.\n \n It is fallacious to say that \"The greatest possible being is not possible\" is false simply because of the word \"possible.\" The adjective in question is \"greatest possible.\" A commonsense axiom contradicts this statement - \"for every being, a greater being and a lesser being can exist.\"", 
+   {}, 
+   73097, 
+   null, 
+   1098558540.0
+  ], 
+  [
+   73182, 
+   null, 
+   "Alan Ryan", 
+   "Does the greatest possible integer exist?\n \n Clearly it does not. For any possible integer n, there is another possible integer n+1.\n \n It is fallacious to say that \"The greatest possible being is not possible\" is false simply because of the word \"possible.\" The adjective in question is \"greatest possible.\" A commonsense axiom contradicts this statement - \"for every being, a greater being and a lesser being can exist.\"\n\n \n The greatest possible (anything you can name) can only exist in a finite\n series. As you point out, this is not the case in an infinite series such as\n integers. So the definition that began this thread that God is identified as\n \"the greatest being possible\" must limit the possibilities to a finite number.\n As I write this I can see that it's self-evident - but what I can't see is how\n this gets us any closer to showing that God exists (or not) !", 
+   {
+    "post_info": {
+     "post_title": "Still puzzled"
+    }
+   }, 
+   73124, 
+   null, 
+   1098648000.0
+  ], 
+  [
+   73192, 
+   null, 
+   "zachvac", 
+   "The greatest possible (anything you can name) can only exist in a finite\n series. As you point out, this is not the case in an infinite series such as\n integers. So the definition that began this thread that God is identified as\n \"the greatest being possible\" must limit the possibilities to a finite number.\n As I write this I can see that it's self-evident - but what I can't see is how\n this gets us any closer to showing that God exists (or not) !\n\n \n This is why the title is \"God exists!!! (but he's not who you think he is). It's a funny proof which I don't think Christians would agree this definition was God. But basically it's saying that take the set of all human beings. Call the greatest God. God exists.\n \n \n Not only that, but the final conclusion is one of the premises. The proof is one big circle :)", 
+   {}, 
+   73182, 
+   null, 
+   1098659220.0
+  ], 
+  [
+   73224, 
+   null, 
+   "Alan Ryan", 
+   "This is why the title is \"God exists!!! (but he's not who you think he is). It's a funny proof which I don't think Christians would agree this definition was God. But basically it's saying that take the set of all human beings. Call the greatest God. God exists.\n Not only that, but the final conclusion is one of the premises. The proof is one big circle :)\n\n \n Thanks: your contributions to this thread throw more light on the subject than\n anybody else's. However, not sure that believers in any religion in which\n supernatural agencies are worshipped would be happy with the inclusion of\n \"God\" among the set of human beings - unless Jesus Christ was both a \n man and God which I think is a Christian doctrine.\n I suppose I started out reading this particular thread expecting to discover\n a non-circular logical argument that would \"prove\" the existence of a God -\n and found nothing of the kind. I now think my questions on the matter \n have been rather stupid and naive.", 
+   {}, 
+   73192, 
+   null, 
+   1098704580.0
+  ], 
+  [
+   73479, 
+   null, 
+   "unkerpaulie", 
+   "dzeron raises an interesting point... \n \n the realm of \"possible\" is limited. that is, after you've done everything that is possible, there's nothing left but the impossible to do (and the impossible cant be done). so in a way, its not like integers, there is a limit to \"possible\" beyond which nothing more is possible. at that point you simply cant add 1 to the last possible thing, as with integers.\n \n if there is a being that can do and know everything that is possible, then no greaters being can exist, because nothing more than \"everything that is possibe\" is possible\n \n \n zachvac kinda hit the nail on the head. if we agree that there is such a thing as \"the greatest being possible\", then all that is left to do is specifically demonstrate what a \"possbility\" really is\n \n for example, is it possible to create a mercedes-benz from a tree? if we define this as impossible, then not even God can do it, since God can only do what is possible (by definition). is it possible to create a book from a tree? if it is possible then God can do this.\n \n if we define God as \"the greatest being possible\", then what we define as \"possible\" ultimately defines God", 
+   {}, 
+   73124, 
+   null, 
+   1098805140.0
+  ], 
+  [
+   73636, 
+   null, 
+   "zachvac", 
+   "dzeron raises an interesting point... \n \n the realm of \"possible\" is limited. that is, after you've done everything that is possible, there's nothing left but the impossible to do (and the impossible cant be done). so in a way, its not like integers, there is a limit to \"possible\" beyond which nothing more is possible. at that point you simply cant add 1 to the last possible thing, as with integers.\n \n if there is a being that can do and know everything that is possible, then no greaters being can exist, because nothing more than \"everything that is possibe\" is possible\n \n \n zachvac kinda hit the nail on the head. if we agree that there is such a thing as \"the greatest being possible\", then all that is left to do is specifically demonstrate what a \"possbility\" really is\n \n for example, is it possible to create a mercedes-benz from a tree? if we define this as impossible, then not even God can do it, since God can only do what is possible (by definition). is it possible to create a book from a tree? if it is possible then God can do this.\n \n if we define God as \"the greatest being possible\", then what we define as \"possible\" ultimately defines God\n\n But your proof didn't claim that God could do anything possible. Maybe only one person could build a computer, maybe one person could make a car, maybe one person could run the mile in under 4 minutes. That doesn't mean that God can do ALL of these things. It means that whoever we define to be the greatest being, we can call him god and thus he exists. Of course this wouldn't be sufficient to Christians as this says that God is probably mortal and has the limits of being a physical being.", 
+   {}, 
+   73479, 
+   null, 
+   1098832680.0
+  ], 
+  [
+   73737, 
+   null, 
+   "unkerpaulie", 
+   "But your proof didn't claim that God could do anything possible. \n\n hmmm... you're right... but that would mean that the definition is inadequate to begin with. if we instead define God as \"the being that can do EVERYTHING possible\" then we'd require a different proof.... i wonder if we can prove that such a being exists? any takers?\n \n \nMaybe only one person could build a computer, maybe one person could make a car, maybe one person could run the mile in under 4 minutes. That doesn't mean that God can do ALL of these things. It means that whoever we define to be the greatest being, we can call him god and thus he exists. Of course this wouldn't be sufficient to Christians as this says that God is probably mortal and has the limits of being a physical being.\n\n exactly. :)", 
+   {}, 
+   73636, 
+   null, 
+   1098891180.0
+  ], 
+  [
+   74020, 
+   null, 
+   "Dzeron", 
+   "There is a lot of red herring going on here.\n \n The proof is invalid. The first premise is that God can exist, and the author says that \"Since God can exist, then to say 'God does not exist' is absurd.\" It is true that the Saskwatch can exist, but whether it does exist is another story.\n \n Also, still in question is what defines \"greatness.\" It's an entirely subjective term, so the proof's conclusion, if true, simply shows that God is subjective (if I'm not mistaken, that was one of Rousseau's crazy rants.)", 
+   {}, 
+   73737, 
+   null, 
+   1099003080.0
+  ], 
+  [
+   74129, 
+   null, 
+   "unkerpaulie", 
+   "we can liken \"greatness\" to \"ability to do and know\" and the \"greatest being\" as \"the being with the highest ability to do and know\". since the highest ability is limited to what is possible, such a being as the \"greatest possible being\" exists\n \n i think we need another definition. this proof, while it proves that \"the greatest being possible\" can and does exist, it does nothing to help prove the existence of God as we know him (\"we\" meaning religion among mankind).", 
+   {}, 
+   74020, 
+   null, 
+   1099062840.0
+  ], 
+  [
+   74201, 
+   null, 
+   "Alan Ryan", 
+   "\n i think we need another definition. this proof, while it proves that \"the greatest being possible\" can and does exist, it does nothing to help prove the existence of God as we know him (\"we\" meaning religion among mankind).\n\n You will not get a definition that satisfies both your logical \"proof\" and covers the sort of \n evidence required to \"prove\" the existence of a God in actuality : I tried to say as much in Post #2", 
+   {}, 
+   74129, 
+   null, 
+   1099079100.0
+  ], 
+  [
+   74231, 
+   null, 
+   "unkerpaulie", 
+   "You will not get a definition that satisfies both your logical \"proof\" and covers the sort of \n evidence required to \"prove\" the existence of a God in actuality : I tried to say as much in Post #2\n\n awww... you give up so easily... emoticon_xchicken ;)\n \n is there really no way to describe God in logical terms? is God even a logical entity to begin with?", 
+   {}, 
+   74201, 
+   null, 
+   1099083900.0
+  ], 
+  [
+   74300, 
+   null, 
+   "Dzeron", 
+   "we can liken \"greatness\" to \"ability to do and know\" and the \"greatest being\" as \"the being with the highest ability to do and know\". since the highest ability is limited to what is possible, such a being as the \"greatest possible being\" exists\n \n \n\n \n Ability to do/know what?", 
+   {}, 
+   74129, 
+   null, 
+   1099110360.0
+  ], 
+  [
+   74552, 
+   null, 
+   "unkerpaulie", 
+   "Ability to do/know what?\n\n anything and everything that is possible to do/know", 
+   {}, 
+   74300, 
+   null, 
+   1099325160.0
+  ], 
+  [
+   74746, 
+   null, 
+   "zachvac", 
+   "How about just defining the greatest possible being as me? Than by your proof I am God.", 
+   {}, 
+   74552, 
+   null, 
+   1099375080.0
+  ], 
+  [
+   74892, 
+   null, 
+   "Dzeron", 
+   "anything and everything that is possible to do/know\n\n \n So God is the best at everything? Does this include being the best at screwing up?\n \n I strongly doubt that any being can be the best at everything. Yet all of this is red herring, as the proof is invalid.", 
+   {}, 
+   74552, 
+   null, 
+   1099459800.0
+  ], 
+  [
+   74942, 
+   null, 
+   "unkerpaulie", 
+   "So God is the best at everything? Does this include being the best at screwing up?\n \n I strongly doubt that any being can be the best at everything. Yet all of this is red herring, as the proof is invalid.\n\n i didnt say \"be the best at everything\", i said \"possess the ability to do and know everything that is possible to do and know\"", 
+   {}, 
+   74892, 
+   null, 
+   1099496700.0
+  ], 
+  [
+   74944, 
+   null, 
+   "unkerpaulie", 
+   "How about just defining the greatest possible being as me? Than by your proof I am God.\n\n so far, mankind collectively has the ability to do and know anything and everything possible to do and know. correct me if i'm wrong, but as far as the realm of possible goes, man is the greatest being\n \n any questions?", 
+   {}, 
+   74746, 
+   null, 
+   1099496820.0
+  ], 
+  [
+   75255, 
+   null, 
+   "zachvac", 
+   "We can't fly without machinery, our ears and eyes aren't even close to that of many animals, our brains don't even seem to be better than animals, we just discovered technology first. I always think deer jumping in the road are dumb so all deer must be dumb, but what about this analogy? People know smoking kills, yet they keep doing it. Just like Deer jumping in the road. Who knows, maybe they're addicted too.", 
+   {}, 
+   74944, 
+   null, 
+   1099544880.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  God exists!!! (but he's not who you think he is...)", 
+  "url": "http://www.4forums.com/political/philosophy-debates/3488-god-exists-but-hes-not-who-you-think-he.html", 
+  "breadcrumbs": [
+   "Philosophy"
+  ], 
+  "id_number": 3488, 
+  "discussion_files": [
+   [
+    "26120.html", 
+    "http://www.4forums.com/political/philosophy-debates/3488-god-exists-but-hes-not-who-you-think-he-print.html"
+   ], 
+   [
+    "26121.html", 
+    "http://www.4forums.com/political/philosophy-debates/3488-god-exists-but-hes-not-who-you-think-he-3-print.html"
+   ], 
+   [
+    "26122.html", 
+    "http://www.4forums.com/political/philosophy-debates/3488-god-exists-but-hes-not-who-you-think-he-2-print.html"
+   ]
+  ], 
+  "identifier": 3488
+ }
+]

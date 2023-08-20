@@ -1,0 +1,238 @@
+[
+ [
+  [
+   230596, 
+   null, 
+   "Arthur Dent", 
+   "Question:\n \n If you are in a car, traveling at the speed of light, and you turn the headlights on....\n \n What happens?\n \n emoticon_frazzled", 
+   {
+    "post_info": {
+     "post_title": "The effects of light-speed travel on car headlights"
+    }
+   }, 
+   null, 
+   null, 
+   1158012900.0
+  ], 
+  [
+   230597, 
+   null, 
+   "electrolyte", 
+   "If you are in a car, traveling at the speed of light, and you turn the headlights on....\n \n What happens?\n\n The light travels at c. (Well, actually less because it's traveling through air instead of a vacuum...)", 
+   {}, 
+   230596, 
+   null, 
+   1158014520.0
+  ], 
+  [
+   230611, 
+   null, 
+   "sinjin", 
+   "The lights are on but nobody's shone.emoticon_cry", 
+   {}, 
+   230597, 
+   null, 
+   1158021540.0
+  ], 
+  [
+   232010, 
+   null, 
+   "Love Never Dies", 
+   "Question:\n \n If you are in a car, traveling at the speed of light, and you turn the headlights on....\n \n What happens?\n \n emoticon_frazzled\n\n Nothing happens.\n \n If you are traveling at the speed of light you are frozen in time.\n \n You can not reach out and turn on the lights.\n \n You enter light speed at the same moment you depart from it.\n \n For you there was no journey.\n \n This is called, time dilation.\n \n If you have questions, you may ask me.", 
+   {}, 
+   230596, 
+   null, 
+   1159076400.0
+  ], 
+  [
+   232289, 
+   null, 
+   "Ooaman", 
+   "Nothing happens.\n \n If you are traveling at the speed of light you are frozen in time.\n \n You can not reach out and turn on the lights.\n \n You enter light speed at the same moment you depart from it.\n \n For you there was no journey.\n \n This is called, time dilation.\n \n If you have questions, you may ask me.\n\n \n If a place is 10 light years away and you travel at the speed of light, it's bound to take 10 of some amount of time. The question is do you use that standard time or the metric time?", 
+   {}, 
+   232010, 
+   null, 
+   1159201800.0
+  ], 
+  [
+   232294, 
+   null, 
+   "Love Never Dies", 
+   "If a place is 10 light years away and you travel at the speed of light, it's bound to take 10 of some amount of time. The question is do you use that standard time or the metric time?\n\n No Einstein, at light speed time stops completely, period.", 
+   {}, 
+   232289, 
+   null, 
+   1159202400.0
+  ], 
+  [
+   232341, 
+   null, 
+   "Ooaman", 
+   "No Einstein, at light speed time stops completely, period.\n\n \n Then why does it take upwards of 3 days for the Enterprise to get anywhere?emoticon_zzzz", 
+   {}, 
+   232294, 
+   null, 
+   1159211580.0
+  ], 
+  [
+   232348, 
+   null, 
+   "Love Never Dies", 
+   "Then why does it take upwards of 3 days for the Enterprise to get anywhere?emoticon_zzzz\n\n Because the enterprise exists outside of existing reality.", 
+   {}, 
+   232341, 
+   null, 
+   1159212420.0
+  ], 
+  [
+   232443, 
+   null, 
+   "Ooaman", 
+   "Because the enterprise exists outside of existing reality.\n\n \n You should never tell a Star Trek fan that the Enterprise doesn't really exist. You will get them fantasizing about setting their phasers to stung and firing them at your butt. Okay, well, some. Okay, probibly not really.\n \n But on a completely different subject; wouldn't it actually take forever for the people not going to the speed of light.", 
+   {}, 
+   232348, 
+   null, 
+   1159249920.0
+  ], 
+  [
+   232452, 
+   null, 
+   "Love Never Dies", 
+   "You should never tell a Star Trek fan that the Enterprise doesn't really exist. You will get them fantasizing about setting their phasers to stung and firing them at your butt. Okay, well, some. Okay, probibly not really.\n \n But on a completely different subject; wouldn't it actually take forever for the people not going to the speed of light.\n\n I dont know.\n \n I will need to look into that.", 
+   {}, 
+   232443, 
+   null, 
+   1159277160.0
+  ], 
+  [
+   232470, 
+   null, 
+   "Kronus", 
+   "\n But on a completely different subject; wouldn't it actually take forever for the people not going to the speed of light.\n\n \n First off, no object can go exactly the speed of light, it's impossible. But if something is 10 light years away, and you go at almost the speed of light, than it will take just over 10 years from the point of view of the people on the planet you left, but almost no time from your point of view. Looking out your front window it would look like the distance between you and your destination shrank to almost nothing as you approached .9999999 c.", 
+   {}, 
+   232443, 
+   null, 
+   1159290540.0
+  ], 
+  [
+   232482, 
+   null, 
+   "Love Never Dies", 
+   "First off, no object can go exactly the speed of light, it's impossible.\n\n This is incorrect.", 
+   {}, 
+   232470, 
+   null, 
+   1159302900.0
+  ], 
+  [
+   232485, 
+   null, 
+   "sinjin", 
+   "This is incorrect.\nAnd remain an object? Please expand and give examples.", 
+   {}, 
+   232482, 
+   null, 
+   1159303080.0
+  ], 
+  [
+   232489, 
+   null, 
+   "Love Never Dies", 
+   "Light is a particle, it has mass.\n \n (Do not attempt to engage me in a semantic debate over the word object.)", 
+   {}, 
+   232485, 
+   null, 
+   1159304280.0
+  ], 
+  [
+   232502, 
+   null, 
+   "Kronus", 
+   "Light is a particle, it has mass.\n \n\n \n Light has no mass, and while it has a particle nature it is generally not helpful to think of it as just a particle. You may be thinking of relativistic mass, but Einstein's equations deal with rest mass, and the rest mass of a photon is 0.\n \n Here's a link talking about how photons are massless.\n \n http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/photon_mass.html", 
+   {}, 
+   232489, 
+   null, 
+   1159306980.0
+  ], 
+  [
+   232574, 
+   null, 
+   "Love Never Dies", 
+   "Light has no mass, and while it has a particle nature it is generally not helpful to think of it as just a particle. You may be thinking of relativistic mass, but Einstein's equations deal with rest mass, and the rest mass of a photon is 0.\n \n Here's a link talking about how photons are massless.\n \n http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/photon_mass.html\n\n I stand corrected.", 
+   {}, 
+   232502, 
+   null, 
+   1159325340.0
+  ], 
+  [
+   232582, 
+   null, 
+   "WOF", 
+   "Wouldn't it actually take forever for the people not going to the speed of light.\n\n AND: There is a speed limit (light speed) but is there a zero mph?", 
+   {}, 
+   232443, 
+   null, 
+   1159327080.0
+  ], 
+  [
+   232667, 
+   null, 
+   "Kronus", 
+   "AND: There is a speed limit (light speed) but is there a zero mph?\n\n \n Are you asking if something can not move?", 
+   {}, 
+   232582, 
+   null, 
+   1159375740.0
+  ], 
+  [
+   232800, 
+   null, 
+   "Ooaman", 
+   "Are you asking if something can not move?\n\n \n Well, I believe there is a point where you're going so slow, you're going backwards.", 
+   {}, 
+   232667, 
+   null, 
+   1159420140.0
+  ], 
+  [
+   232818, 
+   null, 
+   "Jill White", 
+   "Are you asking if something can not move?\n\n Yes. emoticon_xangel emoticon_love emoticon_xangel", 
+   {}, 
+   232667, 
+   null, 
+   1159449480.0
+  ], 
+  [
+   232820, 
+   null, 
+   "Jill White", 
+   "Well, I believe there is a point where you're going so slow, you're going backwards.\n\n lol emoticon_xangel emoticon_xangel emoticon_xangel", 
+   {}, 
+   232800, 
+   null, 
+   1159449540.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  The effects of light-speed travel on car headlights", 
+  "url": "http://www.4forums.com/political/fun-debates/8847-effects-light-speed-travel-car-headlights.html", 
+  "breadcrumbs": [
+   "Fun"
+  ], 
+  "id_number": 8847, 
+  "discussion_files": [
+   [
+    "17916.html", 
+    "http://www.4forums.com/political/fun-debates/8847-effects-light-speed-travel-car-headlights-print.html"
+   ], 
+   [
+    "17917.html", 
+    "http://www.4forums.com/political/fun-debates/8847-effects-light-speed-travel-car-headlights-2-print.html"
+   ]
+  ], 
+  "identifier": 8847
+ }
+]

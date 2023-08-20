@@ -1,0 +1,54 @@
+[
+ [
+  [
+   241029, 
+   null, 
+   "Big_Bear_Scot", 
+   "Hi guys, \n \n As you may know, I am a Lecturer in Games Technology and as part of my teaching I have to learn different programming libraries/languages/APIs. As part of that learning process I usually try to create a breakout clone(http://en.wikipedia.org/wiki/Breakout).\n \n I have attached two versions one was created using C++ and SDL, and the other was created using C# and the XNA Framework. These demos where created in about 4 days each so they are rough versions that would require many man hours to turn them into a finished product.\n \n I am planning to fix the collision response and add more levels to both demos. Could you let me know if a)it works on your PC and b) Any general comments on the demo.\n \n Breakout SDL\n Breakout XNA\n \n Installation Instructions\n \n Unzip to any directory\n \n C++ SDL Breakout instructions\n Double click on Breakout.exe\n A key moves the bat left\n D key moves the bat right\n Spacebar starts the game\n \n C# XNA Breakout instructions\n Double click on BreakOut.exe\n Left Arrow key move the bat left\n Right Arrow key moves the bat right\n Spacebar starts the game \n \n To uninstall just delete the directory that contains the exe files.", 
+   {
+    "post_info": {
+     "post_title": "Video Game - Breakout clone WIP"
+    }
+   }, 
+   null, 
+   null, 
+   1164560880.0
+  ], 
+  [
+   241059, 
+   null, 
+   "Jo Bennett", 
+   "the SDL version needs some C++ runtime libraries, and occasionally the ball gets stuck in the bat after a few bounces around. The first time it did this it freed itself fairly quickly, the second it was stuck until I moved the bat and it carried on downwards.\n \n The XNA version crashes and I get a windows error report dialogue straight away when starting up.", 
+   {}, 
+   241029, 
+   null, 
+   1164577080.0
+  ], 
+  [
+   247475, 
+   null, 
+   "Big_Bear_Scot", 
+   "the SDL version needs some C++ runtime libraries, and occasionally the ball gets stuck in the bat after a few bounces around. The first time it did this it freed itself fairly quickly, the second it was stuck until I moved the bat and it carried on downwards.\n\n \n Cheers Jo I may have fixed the problem with the Collision Detection in this version.\n \n The XNA version probably needs some sort of download from Microsoft on order to work if the user does not have a).Net Framework and(or) b) the XNA Framework.\n \n I will probably upload another version in the coming months.", 
+   {}, 
+   241059, 
+   null, 
+   1168998120.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  Video Game - Breakout clone WIP", 
+  "url": "http://www.4forums.com/political/high-tech-art/9233-video-game-breakout-clone-wip.html", 
+  "breadcrumbs": [
+   "High Tech Art"
+  ], 
+  "id_number": 9233, 
+  "discussion_files": [
+   [
+    "32663.html", 
+    "http://www.4forums.com/political/high-tech-art/9233-video-game-breakout-clone-wip-print.html"
+   ]
+  ], 
+  "identifier": 9233
+ }
+]

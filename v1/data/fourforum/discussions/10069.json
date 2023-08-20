@@ -1,0 +1,366 @@
+[
+ [
+  [
+   271600, 
+   null, 
+   "chemist99a", 
+   "Its now time to go to the next phase and develop a definition of Natural Selection in the sense its used in NDS. I leave it for now to interested participants. What do you think a working definition of this widely used but little understood term is?", 
+   {
+    "post_info": {
+     "post_title": "What is Natural Selection"
+    }
+   }, 
+   null, 
+   null, 
+   1183137540.0
+  ], 
+  [
+   271691, 
+   null, 
+   "chemist99a", 
+   "OK I'll start it off. For any species S there will be subpopulations of phenotypic variants whose variability is in part heritable. Lets indicate the numbers in each subpopulation as [N] (an array with dimensions of 1..i where i is the number of such populations and Ni is the number of individuals in the N i'th subpopulation. For each Ni there is a Pi corresponding to the probatility of Ni propagating its genes to the next population, a multipication factor Mi which is the number of offspring which will be produced for each Ni reproducting. We can then write out the Ni for the next generation as the product of Ni*Pi*Mi and designate this as Ni,g where g is the generation number. For the zeroth generation we have simply [N] for the second [N2] for the third [N3] etc.and from there its trivial to compute the gene frequecies knowing the specific genetic composition of all the Ns at the beginning. This sucessive probabilistic forward propagation with appropriate gain factors constitues natural selection provided that all the Pi*Mi are not equal.\n \n OK any additions, questions, comments, corrections, extensions, other proposals?", 
+   {}, 
+   271600, 
+   null, 
+   1183157820.0
+  ], 
+  [
+   271722, 
+   null, 
+   "prschuster", 
+   "OK, the math was a bit of a challenge, but I got the gist of it. If selection of some sort drives a change in gene frequency in a consistent direction from one generation to the next, I suppose it would indicate that adaptation to the environment was driving the change. But the main point about natural selection, as opposed to non-adaptive change, is that it is driven by how well the phenotype is adapted to environmental conditions. Without that understanding the anti-Darwin folks can bring up the old saw about natural selection being a tautology. So it must be emphasized that this change in gene frequencies is driven by adaptation to the environment, and not the other way around.", 
+   {}, 
+   271691, 
+   null, 
+   1183176660.0
+  ], 
+  [
+   271724, 
+   null, 
+   "supersport", 
+   "chemist, would you agree that in order for natural selection to create adaptive traits in a population that it would have to select from a pool of random variants?", 
+   {}, 
+   271722, 
+   null, 
+   1183177860.0
+  ], 
+  [
+   271731, 
+   null, 
+   "chemist99a", 
+   "chemist, would you agree that in order for natural selection to create adaptive traits in a population that it would have to select from a pool of random variants?\n\n \n Not at all necessary. It could select from a pool of non-random variants it the variation in the population was non-random. And of course if the pool being selected from has already had a few cycles of selection its variability may indeed be non-random. Please note that very seldom is a given selection cycle the very first one!", 
+   {}, 
+   271724, 
+   null, 
+   1183180200.0
+  ], 
+  [
+   271733, 
+   null, 
+   "supersport", 
+   "Not at all necessary. It could select from a pool of non-random variants it the variation in the population was non-random. And of course if the pool being selected from has already had a few cycles of selection its variability may indeed be non-random. Please note that very seldom is a given selection cycle the very first one!\n\n \n but if variation is nonrandom, wouldn't each creature be essentially adapting themselves? If so, what's the logic in saying selection is adaptive/creative?\n \n It seems to me if you have a population of organisms experiencing nonrandom environmental adaptations, that the only selection gping on would be stablizing selection -- and that doesn't cut it in a Darwinian world.", 
+   {}, 
+   271731, 
+   null, 
+   1183180560.0
+  ], 
+  [
+   271735, 
+   null, 
+   "chemist99a", 
+   "but if variation is nonrandom, wouldn't each creature be essentially adapting themselves? \n\n \n Nope the population is becoming adapted by passing through sucessive cycles of selection. In most instances the selectors are not so demanding as those in the antibiotic resistance example. You need to learn that the concept of self-adaptation, self-creation, self-XXXX imply purpose and direction on the part of the \"self\" and there is zero evidence for that in evolution of species. Its all probabilistic and mechanical. Based on WWs now famous bits of stuff. Its farily easy to express the basics in mathematical terms and when you do all purpose or intent drops away as unnecessary baggage. This is much more difficult to do in English which does not have good ways of expressing sucessive relationships between discrete states in a process which is BOTH iterative and recursive!!! The genius of population genetics was to formulate the process in mathematical terms and thus to avoid the ambiguities and limits of natural language.", 
+   {}, 
+   271733, 
+   null, 
+   1183181280.0
+  ], 
+  [
+   271738, 
+   null, 
+   "supersport", 
+   "Nope the population is becoming adapted by passing through sucessive cycles of selection. In most instances the selectors are not so demanding as those in the antibiotic resistance example. You need to learn that the concept of self-adaptation, self-creation, self-XXXX imply purpose and direction on the part of the \"self\" and there is zero evidence for that in evolution of species. Its all probabilistic and mechanical. Based on WWs now famous bits of stuff. Its farily easy to express the basics in mathematical terms and when you do all purpose or intent drops away as unnecessary baggage. This is much more difficult to do in English which does not have good ways of expressing sucessive relationships between discrete states in a process which is BOTH iterative and recursive!!! The genius of population genetics was to formulate the process in mathematical terms and thus to avoid the ambiguities and limits of natural language.\n\n \n Ok, so tell me....if you took a small group of finches, (all with small, thin beaks) stuck them in a cage and changed their diet so that bigger, thicker beaks would be needed, and if finches' future offspring emerged with bigger beaks as the result of a Bmp4 expression, how would this jive with your selectionist theory?", 
+   {}, 
+   271735, 
+   null, 
+   1183182060.0
+  ], 
+  [
+   271740, 
+   null, 
+   "chemist99a", 
+   "http://www.sciencemag.org/cgi/content/full/305/5689/1462\n \n Will do a better job than I can to describe that precise situation. The diversity is due to patterns of expression and of course such patterns can change due to changes in the regulatory genes. Guess what its just another variat mechanism which is subject to selection. At least thats my impression.", 
+   {}, 
+   271738, 
+   null, 
+   1183182600.0
+  ], 
+  [
+   271748, 
+   null, 
+   "supersport", 
+   "http://www.sciencemag.org/cgi/content/full/305/5689/1462\n \n Will do a better job than I can to describe that precise situation. The diversity is due to patterns of expression and of course such patterns can change due to changes in the regulatory genes. Guess what its just another variat mechanism which is subject to selection. At least thats my impression.\n\n \n wrong. You say selection creates the fit...but in the case of these finches, they're creating their own fitness....no selection needed to create fitness.\n \n Change it to malaria.....what if an American (who did not have malaria-resistance) was transplanted to an area in Africa infected with malaria...then she got malaria -- and then at some point gave birth to a child who turned out to be resistant? How would that effect your theory?", 
+   {}, 
+   271740, 
+   null, 
+   1183186680.0
+  ], 
+  [
+   271749, 
+   null, 
+   "chemist99a", 
+   "wrong. You say selection creates the fit...but in the case of these finches, they're creating their own fitness.\n\n \n You like anyone else is free to intrepret the data in any way you choose. I do not think your intrepretation is realistic or supportable. I suppose you would have to ask the finches what they think of the matter. If they are sufficiently intelligent to create their own fitness then they should be able to answer your question directly.\n \n \nChange it to malaria.....what if an American (who did not have malaria-resistance) was transplanted to an area in Africa infected with malaria...then she got malaria -- and then at some point gave birth to a child who was resistant? How would that effect your theory?\n\n \n Not much. Given a single instance the child could be resistant for any number of reasons including a spontaneous mutation or even because the mother passed on antibody to the parasite (or an internal image thereof, or even antigens which set the kid up to be somewhat immune). And of course the child also inherits a set of genes from the father and he may have had sickle cell trait and passed it on to his child. Or he may have had a different resistange gene and passed that on. Or both mother and father may have been hetreozygous for a recessive gene which confers resistance to malaria. Or either or both parents may have had sperm/egg with specific deletions, mutations, inversions, transpositions, or extra copise. Or there may be a chromsomal abnormality. Or....... There are a plethora of possible explanations for that single observation. You will have to provide more data.", 
+   {}, 
+   271748, 
+   null, 
+   1183187280.0
+  ], 
+  [
+   271752, 
+   null, 
+   "supersport", 
+   " You like anyone else is free to intrepret the data in any way you choose. I do not think your intrepretation is realistic or supportable. I suppose you would have to ask the finches what they think of the matter. If they are sufficiently intelligent to create their own fitness then they should be able to answer your question directly.\n \n that is the perfect copout...funny how you can go to talking science to talking nonsense so quickly. Why can't you just admit to any situation that would negate your theory? You can't even do it hypothetically! \n \n SS:  Change it to malaria.....what if an American (who did not have malaria-resistance) was transplanted to an area in Africa infected with malaria...then she got malaria -- and then at some point gave birth to a child who was resistant? How would that effect your theory? \n \n \n Not much. \n \n lol!\n \n \n Given a single instance the child could be resistant for any number of reasons including a spontaneous mutation or even because the mother passed on antibody to the parasite (or an internal image thereof, or even antigens which set the kid up to be somewhat immune). \n \n Of course there are always hundreds of theoretical ways out for you. I have no doubt that you could figure something out if that were to happen. My question, though, is merely to see if you can admit to a scenario that would refute your theory. And if a typical embryo can develop resistance to malaria, how would it be that your theory could hold water? And it's not just malaria -- it's any adaptive trait.....", 
+   {}, 
+   271749, 
+   null, 
+   1183188660.0
+  ], 
+  [
+   271761, 
+   null, 
+   "T.Q", 
+   "I love how the creationists like SS here try to somehow twist the robustness of the ToE into some sort of a weakness:\n SS: \"Well, it can't be right! It explains too much! If the ToE was correct, there should be common place situations that I can think of off the top of my head that would show it's a fraud!\"", 
+   {}, 
+   271752, 
+   null, 
+   1183194480.0
+  ], 
+  [
+   271762, 
+   null, 
+   "chemist99a", 
+   "Of course there are always hundreds of theoretical ways out for you. I have no doubt that you could figure something out if that were to happen. My question, though, is merely to see if you can admit to a scenario that would refute your theory. And if a typical embryo can develop resistance to malaria, how would it be that your theory could hold water? And it's not just malaria -- it's any adaptive trait.....\n\n \n The scenario does not refute my theory. The outcome is explicable in many ways none of which are incompatible with \"my\" theory (its not my theory its NDS). You find me a sufficeintly large sample of such children in which you can SHOW that the malaria infection the woman had CAUSED the offspring to be resistant to the disease AND delineate the actual mechanism involved and you will have something. What you have so far is a hypothetical former malaria patirnt giving hypothetical birth to a hypothetical chiled who is assumed by you to be resistant (at the phenotypic level) to the malaraial parasite. You provide no hypothetical mechanism nor causal links. I at least gave you some ideas with regard to where you might look to resolve such a problem and all you do is carp about it!\n \n And it the embryo you mention is likely to be exceptional rather than\"typical\" And of course you did not indicate and such example in the real world which could in fact be examined. Are you saying that most women exposed to malaria give birth to children carrying resistance? If so why are most people susceptible to the disease in the Malaria belt?", 
+   {}, 
+   271761, 
+   null, 
+   1183195440.0
+  ], 
+  [
+   271773, 
+   null, 
+   "supersport", 
+   "The scenario does not refute my theory. The outcome is explicable in many ways none of which are incompatible with \"my\" theory (its not my theory its NDS). You find me a sufficeintly large sample of such children in which you can SHOW that the malaria infection the woman had CAUSED the offspring to be resistant to the disease AND delineate the actual mechanism involved and you will have something. What you have so far is a hypothetical former malaria patirnt giving hypothetical birth to a hypothetical chiled who is assumed by you to be resistant (at the phenotypic level) to the malaraial parasite. You provide no hypothetical mechanism nor causal links. I at least gave you some ideas with regard to where you might look to resolve such a problem and all you do is carp about it!\n \n And it the embryo you mention is likely to be exceptional rather than\"typical\" And of course you did not indicate and such example in the real world which could in fact be examined. Are you saying that most women exposed to malaria give birth to children carrying resistance? If so why are most people susceptible to the disease in the Malaria belt?\n\n \n First of all, if malaria was caused by a random mutation, why aren't thousands of people here in the U.S. walking around with sickle-cell who have not had prior contanct with malaria or inherited the disease? Why does the malaria mutation have this weird way of happening only in areas where malaria strikes? Weird.\n \n Chemist: You find me a sufficeintly large sample of such children in which you can SHOW that the malaria infection the woman had CAUSED the offspring to be resistant to the disease AND delineate the actual mechanism involved and you will have something\n \n why would this be any different than a flu shot? When giving flu shots, doctors are merely tapping into the body's adaptive powers. Same concept with malaria -- any developing embryo who develops in an environment infected with malaria is more likely to emerge with resistance than one who's not. It's like bacteria: stick it in an environment of antibiotics and it immediately starts adapting, passing genes back and forth, recombining and mutating. But a bacteria who's just left in alone in a petri dish does nothing. \n \n \n You provide no hypothetical mechanism nor causal links. \n \n Life has no mechanism...and that's because life is not a machine. Life is an environmentally sensitive, adaptive, dynamic, holistic entity...and any beneficial molecular events that happen don't happen randomly, they happen purposefully as a direct effect of consciousness and need.", 
+   {}, 
+   271762, 
+   null, 
+   1183218840.0
+  ], 
+  [
+   271775, 
+   null, 
+   "wascallywabbit", 
+   "OK I'll start it off. For any species S there will be subpopulations of phenotypic variants whose variability is in part heritable. Lets indicate the numbers in each subpopulation as [N] (an array with dimensions of 1..i where i is the number of such populations and Ni is the number of individuals in the N i'th subpopulation. For each Ni there is a Pi corresponding to the probatility of Ni propagating its genes to the next population, a multipication factor Mi which is the number of offspring which will be produced for each Ni reproducting. We can then write out the Ni for the next generation as the product of Ni*Pi*Mi and designate this as Ni,g where g is the generation number. For the zeroth generation we have simply [N] for the second [N2] for the third [N3] etc.and from there its trivial to compute the gene frequecies knowing the specific genetic composition of all the Ns at the beginning. This sucessive probabilistic forward propagation with appropriate gain factors constitues natural selection provided that all the Pi*Mi are not equal.\n \n OK any additions, questions, comments, corrections, extensions, other proposals?\n\n \n **\n You call this gibberish a \"definition\"?!? Apparently 'definition' is just one more English word that you guys have 're-defined'.\n \n Where in the following is there the least resemblance to the above claptrap that you characterize as a 'definition' of \"Natural Selection\"?\n \n \"def\u00b7i\u00b7ni\u00b7tion (d&#277;f'&#601;-n&#301;sh'&#601;n) \n n.\n \n A statement conveying fundamental character.\n A statement of the meaning of a word, phrase, or term, as in a dictionary entry.\n The act or process of stating a precise meaning or significance; formulation of a meaning.\n \n The act of making clear and distinct: a definition of one's intentions.\n The state of being closely outlined or determined: \"With the drizzle, the trees in the little clearing had lost definition\" (Anthony Hyde).\n A determination of outline, extent, or limits: the definition of a President's authority.\n \n The clarity of detail in an optically produced image, such as a photograph, effected by a combination of resolution and contrast.\n The degree of clarity with which a televised image or broadcast signal is received.\n [Middle English diffinicioun, from Old French definition, from Latin d&#275;f&#299;n&#299;ti&#333;, d&#275;f&#299;n&#299;ti&#333;n-, from d&#275;f&#299;n&#299;tus, past participle of d&#275;f&#299;n&#299;re, to define. See define.]\n \n definitional def'i\u00b7ni'tion\u00b7al adj. \" answers.com", 
+   {
+    "unicode_changes_made": true
+   }, 
+   271691, 
+   null, 
+   1183219440.0
+  ], 
+  [
+   271818, 
+   null, 
+   "chemist99a", 
+   "First of all, if malaria was caused by a random mutation, \n\n \n Malaria is not caused by a random mutaion its caused by malarial parasites:\n \n \n Malaria is caused by protozoan parasites of the genus Plasmodium. Four species of Plasmodium can produce the disease in its various forms:\n \n * Plasmodium falciparum\n * Plasmodium vivax\n * Plasmodium ovale\n * Plasmodium malaria \n \n P. falciparum is the most widespread and dangerous of the four: untreated it can lead to fatal cerebral malaria.\n\n \n \nwhy aren't thousands of people here in the U.S. walking around with sickle-cell who have not had prior contanct with malaria or inherited the disease? \n\n \n Many are! Many people in the US have either sickle cell trait or sickle cell disease and they have never had or contacted malarial parasites. Indeed a quick search indicates that about 1 in 1000 people in the US have sickle cell trait or sickle cell anemia. Over 200,000 people. Most of them have never had malaria as a disease.\n \n Now to part two - inherited they have all inherited the gene. Having the gene is not contingent on having had malaria. The rate of spontaneous mutation to the sickle cell trait is likely too low to detect against the existing background. Oh yes MOST people do not inherit the disease since that requires that two individuals carrying the trait have chidren and that the affected children inherit two copies of the relevant gene. At a 1:1000 incidence and assuming random mating, the likelyhood of a randomly chosen couple having a sickle cell anemic child is theoretically about 1 in 4,000,0000.\n \n The thing to bear in mind is that the trait confers a degree of resitstnce to malaria for heterozygotes. Their RBCs contain both the \"defective\" hemoglobin AND normal hemoglobin. The RBCs function normally. However the malaria parasite preferentially consumes normal hemoglobin. When infected the RBCs in trait carriers will \"sickle\" and this results in the infected individals body destroying those cells which are infected in a selective way. Not a bad mechanism for a parasite which otherwise can hide from our immune system. Unfortunately it comes at a cost for heterozygotes!\n \n \n \nWhy does the malaria mutation have this weird way of happening only in areas where malaria strikes? Weird.\n\n \n The short answer is that it does not. When it occurrs its conserved and then fixed into the population because it carries a significant survival advantage when malaria is commonly present in the environment. Where there is no malaria it occurs but it is either neutral with regard to selection or is else negative (because of the sickle cell anemia). Its all very nicely NDS although I am certain you will be genetically unable to see the relationships and mechanisms involved.", 
+   {}, 
+   271773, 
+   null, 
+   1183240440.0
+  ], 
+  [
+   271819, 
+   null, 
+   "chemist99a", 
+   "**\n You call this gibberish a \"definition\"?!? Apparently 'definition' is just one more English word that you guys have 're-defined'.\n \n Where in the following is there the least resemblance to the above claptrap that you characterize as a 'definition' of \"Natural Selection\"?\n \n \"def\u00b7i\u00b7ni\u00b7tion (d&#277;f'&#601;-n&#301;sh'&#601;n) \n n.\n \n A statement conveying fundamental character.\n A statement of the meaning of a word, phrase, or term, as in a dictionary entry.\n The act or process of stating a precise meaning or significance; formulation of a meaning.\n \n \n \n The act of making clear and distinct: a definition of one's intentions.\n The state of being closely outlined or determined: \"With the drizzle, the trees in the little clearing had lost definition\" (Anthony Hyde).\n A determination of outline, extent, or limits: the definition of a President's authority.\n \n The clarity of detail in an optically produced image, such as a photograph, effected by a combination of resolution and contrast.\n The degree of clarity with which a televised image or broadcast signal is received.\n [Middle English diffinicioun, from Old French definition, from Latin d&#275;f&#299;n&#299;ti&#333;, d&#275;f&#299;n&#299;ti&#333;n-, from d&#275;f&#299;n&#299;tus, past participle of d&#275;f&#299;n&#299;re, to define. See define.]\n \n definitional def'i\u00b7ni'tion\u00b7al adj. \" answers.com\n\n \n If you don't like mine then propose an alternative.", 
+   {
+    "unicode_changes_made": true
+   }, 
+   271775, 
+   null, 
+   1183240500.0
+  ], 
+  [
+   271824, 
+   null, 
+   "wascallywabbit", 
+   "If you don't like mine then propose an alternative.\n\n \n **\n Get over yourself. You have not yet supplied a \"definition\" [not as the rest of the english-speaking world uses that word], so there is no 'definition' of \"Natural Selection\" there to like or dislike. Nothing but bean-counter mumbo-jumbo.\n \n I've already defined \"Natural Selection\" by my standards. Since you have forgotten my definition already, I'll rehearse it for you--\n \n \"Natural Selection\" is the pompous, scientific-sounding label by which the human ability to choose is mystically transported to some non-specific nature-god entity. Basically it supposes that that entity deliberately or mechanically decides which organisms will die before their fellows, depending upon the coincidental correlation of their vital needs in any local environment, and the accidents of birth they won from differentially inherited genes.\" \n \n \"Natural Selection\" is your purported mechanism for evolution, and defining it in a more favourable light than I do is your problem, not mine. Show us that you are up to that task, or admit your failure.", 
+   {}, 
+   271819, 
+   null, 
+   1183242120.0
+  ], 
+  [
+   271828, 
+   null, 
+   "Klown", 
+   "**\"Natural Selection\" is the pompous, scientific-sounding label by which the human ability to choose is mystically transported to some non-specific nature-god entity. Basically it supposes that that entity deliberately or mechanically decides which organisms will die before their fellows, depending upon the coincidental correlation of their vital needs in any local environment, and the accidents of birth they won from differentially inherited genes.\" \n\n \n :xbanghead \n \n Sez-you...\n \n emoticon_rolleyes \n \n And I thought you didn't know what you were talking about", 
+   {}, 
+   271824, 
+   null, 
+   1183243080.0
+  ], 
+  [
+   271831, 
+   null, 
+   "wascallywabbit", 
+   ":xbanghead \n \n Sez-you...\n \n emoticon_rolleyes \n \n And I thought you didn't know what you were talking about\n\n \n **\n Clowns should stick to birthday parties for the 3-7 year-old set. There, they are thought funny, or at least, amusing. Here, among the adults in the company, they are just infantile and stupid.", 
+   {}, 
+   271828, 
+   null, 
+   1183243740.0
+  ], 
+  [
+   271832, 
+   null, 
+   "chemist99a", 
+   "\"Natural Selection\" is the pompous, scientific-sounding label by which the human ability to choose is mystically transported to some non-specific nature-god entity. Basically it supposes that that entity deliberately or mechanically decides which organisms will die before their fellows, depending upon the coincidental correlation of their vital needs in any local environment, and the accidents of birth they won from differentially inherited genes.\"\n\n \n Definition that is not. Definitions are not emotional rants. They are dispassionate statemets which allow the user to determine whether or not a specific mechanism or object falls into a defined category. And what you have given is not in accord with usage of the term natural selection. Your proposed definition is thus discarded from additional consideration unless its restated properly.", 
+   {}, 
+   271831, 
+   null, 
+   1183244340.0
+  ], 
+  [
+   271835, 
+   null, 
+   "wascallywabbit", 
+   "Definition that is not. Definitions are not emotional rants. They are dispassionate statemets which allow the user to determine whether or not a specific mechanism or object falls into a defined category. And what you have given is not in accord with usage of the term natural selection. Your proposed definition is thus discarded from additional consideration unless its restated properly.\n\n \n **\n I could care less what you think of my definition of your \"NS\". The only thing that matters is that here in your thread, a thread dedicated to defining your \"NS\", you and your pals just can't manage to come up with anything coherent and rational that does the job.", 
+   {}, 
+   271832, 
+   null, 
+   1183245000.0
+  ], 
+  [
+   271836, 
+   null, 
+   "chemist99a", 
+   "why would this be any different than a flu shot? When giving flu shots, doctors are merely tapping into the body's adaptive powers. Same concept with malaria -- \n\n \n Don't know much about the disease do you. The parasite is effectively isolated from the human immune system since it \"hides\" in RBCs. Malaria is not so far as I know subject to immunization as a control mechanism. Its a metazoan parasite and many such are not very subject to immune systems.\n \n \nany developing embryo who develops in an environment infected with malaria is more likely to emerge with resistance than one who's not. \n\n \n Not preceptably so I fear. If so we would have good vaccines to control malaria and so far as I know we do not! There are efforts being made along those lines, but success is not upon us yet.\n \n You might like to see the article and linked video at:\n http://www.livescience.com/health/060808_sneaky_parasite.html\n \n Now lets consider the immune system. Perhaps you understand the clonal selection theory? Perhaps you don't? Suffice it to say that it amounts to a selective expansion of clones of B-cells which carry the specific antibody sequences directed at environmental antigens to which the individual has been exposed. Its a form of evolution in itself. You might wish to study it in some detail. Suffice it to say its selection NOT purposeful.\n \n \n \n It's like bacteria: stick it in an environment of antibiotics and it immediately starts adapting, passing genes back and forth, recombining and mutating. But a bacteria who's just left in alone in a petri dish does nothing.\n\n \n Nope \"it\" Is NOT like bacterial resistance to antibiotics. Although drug resistance in Malarial parasites doe represent an example of adaptation via the usual NDS mechanisms.", 
+   {}, 
+   271773, 
+   null, 
+   1183245420.0
+  ], 
+  [
+   271837, 
+   null, 
+   "supersport", 
+   "delete................", 
+   {}, 
+   271836, 
+   null, 
+   1183246140.0
+  ], 
+  [
+   271839, 
+   null, 
+   "supersport", 
+   "SS: why aren't thousands of people here in the U.S. walking around with sickle-cell who have not had prior contanct with malaria or inherited the disease?  \n \n \n chemist:Many are! Many people in the US have either sickle cell trait or sickle cell disease and they have never had or contacted malarial parasites. Indeed a quick search indicates that about 1 in 1000 people in the US have sickle cell trait or sickle cell anemia. Over 200,000 people. Most of them have never had malaria as a disease.\n \n would you please point me to someone who came down with sickle cell who did not inherit it and/or was not subjected to malaria?", 
+   {}, 
+   271837, 
+   null, 
+   1183247400.0
+  ], 
+  [
+   271840, 
+   null, 
+   "chemist99a", 
+   "I could care less what you think of my definition of your \"NS\". The only thing that matters is that here in your thread, a thread dedicated to defining your \"NS\", you and your pals just can't manage to come up with anything coherent and rational that does the job.\n\n \n Well the thread is in the nature of a RFP. And its a definition under construction. However in your case the proposed materials of construction are so inferior to what is required that they can be rejected out of hand and I have indicated that earlier. IMHO the only definition that will serve will have to be mathematical by the nature of the subject.", 
+   {}, 
+   271836, 
+   null, 
+   1183247640.0
+  ], 
+  [
+   271841, 
+   null, 
+   "chemist99a", 
+   "would you please point me to someone who came down with sickle cell who did not inherit it and/or was not subjected to malaria?\n\n \n Can't you read? Let me quote myself in the post which you clearly avoided comprehending!\n \n \n Quote:\n \nWhy does the malaria mutation have this weird way of happening only in areas where malaria strikes? Weird.\n \n\n \n \nThe short answer is that it does not. When it occurrs its conserved and then fixed into the population because it carries a significant survival advantage when malaria is commonly present in the environment. Where there is no malaria it occurs but it is either neutral with regard to selection or is else negative (because of the sickle cell anemia). Its all very nicely NDS although I am certain you will be genetically unable to see the relationships and mechanisms involved.\n\n \n Perhaps in 1 in a million cases you might find a spontaneous mutation to sickle cell trait. On the other hand in cases like this you would have to retest carefully since the number of false negatives is significant under that statistical regime. In additoon there is no medical motivation to do so since the treatment to be used would be unchanged given this knowledge. Again if you want to go looking for the spontaneous mutations you can. But its gonna cost ya and its going to take a lot of work. Perhaps someone has found such a case, if so it may or may not be in the medical literature as a curiosity. Enjoy your scholarly search.", 
+   {}, 
+   271840, 
+   null, 
+   1183248240.0
+  ], 
+  [
+   271847, 
+   null, 
+   "supersport", 
+   "SS: would you please point me to someone who came down with sickle cell who did not inherit it and/or was not subjected to malaria?\n \n \nCan't you read? Let me quote myself in the post which you clearly avoided comprehending!\n \n Perhaps in 1 in a million cases you might find a spontaneous mutation to sickle cell trait. On the other hand in cases like this you would have to retest carefully since the number of false negatives is significant under that statistical regime. In additoon there is no medical motivation to do so since the treatment to be used would be unchanged given this knowledge. Again if you want to go looking for the spontaneous mutations you can. But its gonna cost ya and its going to take a lot of work. Perhaps someone has found such a case, if so it may or may not be in the medical literature as a curiosity. Enjoy your scholarly search.\n\n \n \n \n I'll take that as an inability to do so.", 
+   {}, 
+   271841, 
+   null, 
+   1183249980.0
+  ], 
+  [
+   271853, 
+   null, 
+   "chemist99a", 
+   "I\n'll take that as an inability to do so.\n\n \n Correct I do not have the resources to do the research (I am after all a disabled and retired chemist not the director of NIH). But you can look into the literature if you wish. Somebody might have found and documented such a case. At least the spontaneous mutation is theoretically possible.\n \n To see why consider what the genetic change is as detailed at\n \n http://www.ornl.gov/sci/techresources/Human_Genome/posters/chromosome/hbb.shtml\n \n Its a point mutation near the beginning of the hemoglobin molecule. Postition 6 to be precise. The normal triplet is GAG (coding for glutamic acid which has a carboxyl and thus is very polar) to GTG which codes for valine (which is a much more hydorphobic residue than is glutamic acid). The article linked details HOW this alteration results in abnormal HBB interactions and produces the resultant disease. \n \n If you bothered to look it up you would find that the average copy error rate for single bases is from 1 per million to 1 per billion in eukaryotes and humans have lower rates than many others. So to find this person you are asking for one might have to screen between 1 million and 1 billion subjects (and their parents) with something like a 50% chance of finding one. At a 1:1000 incidence in the US for sickle cell trait that means you need populations of at least a billion and perhaps as many as a trillion. Not likely to actually observe such a miutaion in a practical sense are we?", 
+   {}, 
+   271847, 
+   null, 
+   1183251300.0
+  ], 
+  [
+   271866, 
+   null, 
+   "pandion", 
+   "I'll take that as an inability to do so.\nNo. It's your inability to understand. In areas where malaria is endemic, those who are heterozygous for the sickle cell gene have a marked survival (to repeoduction) advantage. Thus, that gene increases in those populations. It is pretty simple.", 
+   {}, 
+   271847, 
+   null, 
+   1183256040.0
+  ], 
+  [
+   271874, 
+   null, 
+   "wascallywabbit", 
+   "Well the thread is in the nature of a RFP. And its a definition under construction. However in your case the proposed materials of construction are so inferior to what is required that they can be rejected out of hand and I have indicated that earlier. IMHO the only definition that will serve will have to be mathematical by the nature of the subject.\n\n \n **\n Vacuous, pompous, humbuggery.", 
+   {}, 
+   271840, 
+   null, 
+   1183265160.0
+  ], 
+  [
+   271886, 
+   null, 
+   "chemist99a", 
+   "**\n Vacuous, pompous, humbuggery.\n\n \n Or in your case avoidance of positive cooperation and response. If you have a good alternative and seriously proposed DEFINITION in quantitative terms then write it up in a post. And I do not refer to emotionally laden rants, but rather serious and critiqueable science. I will not hold my breath.", 
+   {}, 
+   271874, 
+   null, 
+   1183272540.0
+  ]
+ ], 
+ {}, 
+ {
+  "title": "4Forums.com Political Debates and Polls -  What is Natural Selection", 
+  "url": "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10069-what-natural-selection.html", 
+  "breadcrumbs": [
+   "Creation(Intelligent Design) vs Evolution"
+  ], 
+  "id_number": 10069, 
+  "discussion_files": [
+   [
+    "426.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10069-what-natural-selection-print.html"
+   ], 
+   [
+    "427.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10069-what-natural-selection-3-print.html"
+   ], 
+   [
+    "428.html", 
+    "http://www.4forums.com/political/creation-intelligent-design-vs-evolution/10069-what-natural-selection-2-print.html"
+   ]
+  ], 
+  "identifier": 10069
+ }
+]
