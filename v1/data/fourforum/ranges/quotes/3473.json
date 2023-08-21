@@ -1,0 +1,306 @@
+[
+ [
+  72456, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 72418, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  72370, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 72366, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  72386, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 72371, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  72395, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72386, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72396, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 72393, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  72396, 
+  [
+   211, 
+   411, 
+   {
+    "quote_id": 72393, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  72397, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72396, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72397, 
+  [
+   59, 
+   117, 
+   {
+    "quote_id": 72396, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72398, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 72395, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  72528, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72398, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72403, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 72400, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  72404, 
+  [
+   92, 
+   289, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 72352, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  72410, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72363, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72410, 
+  [
+   783, 
+   862, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72410, 
+  [
+   1554, 
+   1659, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72370, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72410, 
+  [
+   2060, 
+   2483, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72398, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72400, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72398, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72418, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 72400, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  72421, 
+  [
+   0, 
+   626, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 72410, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  72421, 
+  [
+   2546, 
+   3230, 
+   {
+    "quote_id": 72410, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  72421, 
+  [
+   4765, 
+   5156, 
+   {
+    "quote_id": 72410, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  72421, 
+  [
+   5681, 
+   7180, 
+   {
+    "quote_id": 72410, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  72550, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  72550, 
+  [
+   409, 
+   592, 
+   {
+    "quote_id": 72528, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  72556, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 72550, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  72565, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 72556, 
+    "author": "billsco"
+   }
+  ]
+ ]
+]

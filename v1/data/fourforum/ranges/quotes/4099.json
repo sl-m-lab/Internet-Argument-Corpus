@@ -1,0 +1,637 @@
+[
+ [
+  89088, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89086, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89092, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89086, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89093, 
+  [
+   0, 
+   839, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89092, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89094, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89092, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89095, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 89088, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  89096, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 89093, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  89097, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89094, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89097, 
+  [
+   788, 
+   866, 
+   {
+    "quote_id": 89094, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  88848, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 88821, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  89107, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89097, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89107, 
+  [
+   507, 
+   542, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89097, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88852, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 88848, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  89112, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89107, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89114, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89097, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89115, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89112, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89116, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89112, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89116, 
+  [
+   431, 
+   860, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89112, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89116, 
+  [
+   879, 
+   1381, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89112, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89242, 
+  [
+   0, 
+   628, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89145, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89118, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89116, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89247, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 89242, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  89201, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89199, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89201, 
+  [
+   394, 
+   887, 
+   {
+    "quote_id": 89199, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89201, 
+  [
+   1267, 
+   1322, 
+   {
+    "quote_id": 89199, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89129, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89116, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89129, 
+  [
+   709, 
+   914, 
+   {
+    "quote_id": 89116, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89135, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89129, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89135, 
+  [
+   449, 
+   591, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89129, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89135, 
+  [
+   987, 
+   1202, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89129, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89135, 
+  [
+   1279, 
+   1632, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88881, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 88852, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  88883, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 86738, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  89145, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89145, 
+  [
+   1499, 
+   1885, 
+   {
+    "quote_id": 89135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89145, 
+  [
+   3158, 
+   3225, 
+   {
+    "quote_id": 89135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89145, 
+  [
+   4330, 
+   4456, 
+   {
+    "quote_id": 89135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  89159, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89055, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89160, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 89052, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  89161, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 89159, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  89162, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 89160, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  86738, 
+  [
+   0, 
+   372, 
+   {}
+  ]
+ ], 
+ [
+  89052, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 88887, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  89055, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 88887, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  89199, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89145, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89199, 
+  [
+   201, 
+   553, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89145, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89199, 
+  [
+   706, 
+   1057, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89199, 
+  [
+   1560, 
+   1572, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89145, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89200, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89162, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89073, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 89052, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  89203, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 89200, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  88821, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 86738, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  89207, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89201, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89236, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 89207, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  89086, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 89052, 
+    "author": "Dzeron"
+   }
+  ]
+ ]
+]

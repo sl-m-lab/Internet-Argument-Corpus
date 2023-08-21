@@ -1,0 +1,81 @@
+[
+ [
+  393712, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "sinjin;393675", 
+    "quote_id": 393675, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  393801, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "sinjin;393675", 
+    "quote_id": 393675, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  393675, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Doc Jones;393497", 
+    "quote_id": 393497, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  393422, 
+  [
+   59, 
+   875, 
+   {}
+  ]
+ ], 
+ [
+  393679, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Tither;393424", 
+    "quote_id": 393424, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  393497, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Tither;393424", 
+    "quote_id": 393424, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  393497, 
+  [
+   486, 
+   740, 
+   {
+    "quote_id": 393424, 
+    "author": "Tither"
+   }
+  ]
+ ]
+]

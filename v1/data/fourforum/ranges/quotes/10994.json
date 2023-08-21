@@ -1,0 +1,786 @@
+[
+ [
+  303999, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "CUNxTime;303997", 
+    "quote_id": 303997, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304788, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Ohioprof;304786", 
+    "quote_id": 304786, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  304788, 
+  [
+   336, 
+   626, 
+   {
+    "quote_id": 304786, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  304854, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "CUNxTime;304812", 
+    "quote_id": 304812, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  307281, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "sinjin;307272", 
+    "quote_id": 307272, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  304776, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "CUNxTime;304756", 
+    "quote_id": 304756, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304778, 
+  [
+   0, 
+   462, 
+   {
+    "raw_data": "Jo Bennett;304748", 
+    "quote_id": 304748, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  303511, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "antonia;303449", 
+    "quote_id": 303449, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  307307, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "sinjin;307284", 
+    "quote_id": 307284, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  303757, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "snakespit;303511", 
+    "quote_id": 303511, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304852, 
+  [
+   0, 
+   882, 
+   {
+    "raw_data": "snakespit;304788", 
+    "quote_id": 304788, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304016, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Jo Bennett;303999", 
+    "quote_id": 303999, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  304786, 
+  [
+   0, 
+   1404, 
+   {
+    "raw_data": "snakespit;304784", 
+    "quote_id": 304784, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304019, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "snakespit;303977", 
+    "quote_id": 303977, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304019, 
+  [
+   363, 
+   457, 
+   {
+    "raw_data": "snakespit;303977", 
+    "quote_id": 303977, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304020, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "DrNo;303949", 
+    "quote_id": 303949, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  304020, 
+  [
+   280, 
+   502, 
+   {
+    "raw_data": "DrNo;30394", 
+    "quote_id": 303949, 
+    "unknown_quote_id": 30394, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  304022, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "DrNo;303984", 
+    "quote_id": 303984, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  303639, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "snakespit;303615", 
+    "quote_id": 303615, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  303639, 
+  [
+   1822, 
+   1837, 
+   {
+    "raw_data": "snakespit;303615", 
+    "quote_id": 303615, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  303639, 
+  [
+   3114, 
+   3274, 
+   {
+    "raw_data": "snakespit;303615", 
+    "quote_id": 303615, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  303515, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "snakespit;303511", 
+    "quote_id": 303511, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  307312, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "sinjin;307309", 
+    "quote_id": 307309, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  304860, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Jo Bennett;304857", 
+    "quote_id": 304857, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  304857, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Ohioprof;304853", 
+    "quote_id": 304853, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  304812, 
+  [
+   63, 
+   237, 
+   {
+    "quote_id": 304788, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  303535, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "snakespit;303511", 
+    "quote_id": 303511, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304307, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "bhbcu64;304271", 
+    "quote_id": 304271, 
+    "author": "bhbcu64"
+   }
+  ]
+ ], 
+ [
+  303928, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "CUNxTime;303757", 
+    "quote_id": 303757, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304756, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "bhbcu64;304738", 
+    "quote_id": 304738, 
+    "author": "bhbcu64"
+   }
+  ]
+ ], 
+ [
+  304756, 
+  [
+   1320, 
+   1589, 
+   {}
+  ]
+ ], 
+ [
+  304066, 
+  [
+   0, 
+   706, 
+   {
+    "raw_data": "CUNxTime;304059", 
+    "quote_id": 304059, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304227, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Jo Bennett;304080", 
+    "quote_id": 304080, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  303941, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "antonia;303930", 
+    "quote_id": 303930, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  303941, 
+  [
+   257, 
+   1402, 
+   {}
+  ]
+ ], 
+ [
+  303941, 
+  [
+   1713, 
+   2209, 
+   {}
+  ]
+ ], 
+ [
+  303942, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "snakespit;303941", 
+    "quote_id": 303941, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  304867, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Jo Bennett;304849", 
+    "quote_id": 304849, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  304714, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "CUNxTime;304307", 
+    "quote_id": 304307, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  303949, 
+  [
+   0, 
+   884, 
+   {
+    "raw_data": "antonia;303930", 
+    "quote_id": 303930, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  303566, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "antonia;303535", 
+    "quote_id": 303535, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  307309, 
+  [
+   0, 
+   984, 
+   {
+    "raw_data": "antonia;307307", 
+    "quote_id": 307307, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  304853, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "snakespit;304778", 
+    "quote_id": 304778, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  303579, 
+  [
+   0, 
+   765, 
+   {
+    "raw_data": "antonia;303544", 
+    "quote_id": 303544, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  304092, 
+  [
+   0, 
+   1624, 
+   {
+    "raw_data": "antonia;304066", 
+    "quote_id": 304066, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  304093, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Jo Bennett;304080", 
+    "quote_id": 304080, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  307284, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "antonia;307281", 
+    "quote_id": 307281, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  304784, 
+  [
+   0, 
+   847, 
+   {
+    "raw_data": "Ohioprof;304754", 
+    "quote_id": 304754, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  304059, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "antonia;304022", 
+    "quote_id": 304022, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  303974, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "DrNo;303949", 
+    "quote_id": 303949, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  303977, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "antonia;303942", 
+    "quote_id": 303942, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  303977, 
+  [
+   664, 
+   895, 
+   {
+    "quote_id": 303942, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  303977, 
+  [
+   918, 
+   1046, 
+   {
+    "quote_id": 303942, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  304871, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Ohioprof;304854", 
+    "quote_id": 304854, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  304748, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "CUNxTime;304729", 
+    "quote_id": 304729, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304237, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "antonia;304227", 
+    "quote_id": 304227, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  304110, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "CUNxTime;304093", 
+    "quote_id": 304093, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304879, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Ohioprof;304853", 
+    "quote_id": 304853, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  303984, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Jo Bennett;303974", 
+    "quote_id": 303974, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  304754, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "CUNxTime;304729", 
+    "quote_id": 304729, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304116, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Jo Bennett;304110", 
+    "quote_id": 304110, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  304761, 
+  [
+   0, 
+   939, 
+   {
+    "raw_data": "CUNxTime;304756", 
+    "quote_id": 304756, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  303610, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "snakespit;303566", 
+    "quote_id": 303566, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  303611, 
+  [
+   0, 
+   867, 
+   {
+    "raw_data": "DrNo;303579", 
+    "quote_id": 303579, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  303615, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "antonia;303610", 
+    "quote_id": 303610, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  303615, 
+  [
+   1044, 
+   1195, 
+   {}
+  ]
+ ], 
+ [
+  303615, 
+  [
+   1234, 
+   1339, 
+   {
+    "quote_id": 303611, 
+    "author": "antonia"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,973 @@
+[
+ [
+  72449, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72374, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  71810, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 71803, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  71958, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 71905, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72454, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72449, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72454, 
+  [
+   232, 
+   281, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72449, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71815, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 71803, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  72457, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72074, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  72205, 
+  [
+   0, 
+   469, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72138, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  71960, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 71893, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  71960, 
+  [
+   212, 
+   1603, 
+   {
+    "quote_id": 71893, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  71827, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 71824, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  71828, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 71824, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  71829, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71827, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71830, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 71828, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71832, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 71828, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71832, 
+  [
+   231, 
+   793, 
+   {
+    "quote_id": 71828, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71832, 
+  [
+   1305, 
+   1398, 
+   {
+    "quote_id": 71828, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71964, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71837, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71832, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71837, 
+  [
+   140, 
+   300, 
+   {
+    "quote_id": 71815, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71837, 
+  [
+   425, 
+   643, 
+   {
+    "quote_id": 71832, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71837, 
+  [
+   1171, 
+   1408, 
+   {
+    "quote_id": 71832, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72350, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72292, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  71844, 
+  [
+   99, 
+   261, 
+   {
+    "raw_data": "waxy", 
+    "quote_id": 71815, 
+    "unknown_author": "waxy", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71844, 
+  [
+   70, 
+   384, 
+   {
+    "raw_data": "Waxy", 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71844, 
+  [
+   609, 
+   785, 
+   {
+    "quote_id": 71837, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71844, 
+  [
+   1101, 
+   1447, 
+   {
+    "quote_id": 71837, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  71846, 
+  [
+   0, 
+   765, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71798, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71849, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71844, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71849, 
+  [
+   439, 
+   656, 
+   {
+    "quote_id": 71844, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71849, 
+  [
+   927, 
+   1111, 
+   {
+    "quote_id": 71844, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71849, 
+  [
+   1746, 
+   1888, 
+   {
+    "quote_id": 71844, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72106, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72055, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72106, 
+  [
+   244, 
+   506, 
+   {
+    "quote_id": 72055, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  71851, 
+  [
+   0, 
+   765, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71798, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72472, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72457, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71856, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 71851, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  71985, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 71964, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72117, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72106, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72117, 
+  [
+   584, 
+   921, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72106, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72117, 
+  [
+   1359, 
+   1984, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72106, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71990, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71958, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72129, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72117, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72129, 
+  [
+   969, 
+   1116, 
+   {
+    "quote_id": 72117, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72129, 
+  [
+   1218, 
+   1489, 
+   {
+    "quote_id": 72117, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72374, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72350, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72289, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72288, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72264, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72205, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72264, 
+  [
+   199, 
+   298, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72205, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72264, 
+  [
+   322, 
+   371, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72205, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   784, 
+   1022, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   1145, 
+   1231, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   1256, 
+   1293, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   1331, 
+   1534, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   1820, 
+   1915, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   2151, 
+   2223, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72138, 
+  [
+   2263, 
+   2490, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72129, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72273, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72264, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72273, 
+  [
+   95, 
+   111, 
+   {
+    "quote_id": 72264, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72273, 
+  [
+   150, 
+   449, 
+   {
+    "quote_id": 72264, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72019, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 71905, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  71893, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71856, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71893, 
+  [
+   73, 
+   1131, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71856, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71899, 
+  [
+   332, 
+   1686, 
+   {}
+  ]
+ ], 
+ [
+  72288, 
+  [
+   0, 
+   6, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72273, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72288, 
+  [
+   33, 
+   66, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72273, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72288, 
+  [
+   141, 
+   213, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72273, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72288, 
+  [
+   259, 
+   409, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72273, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72288, 
+  [
+   572, 
+   785, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72273, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71905, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  72292, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 72289, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  71909, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  71921, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 71899, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  72055, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71985, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72055, 
+  [
+   145, 
+   268, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 71985, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72021, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 71905, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72021, 
+  [
+   600, 
+   977, 
+   {}
+  ]
+ ], 
+ [
+  72021, 
+  [
+   1300, 
+   1661, 
+   {
+    "quote_id": 71921, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  72021, 
+  [
+   2531, 
+   3413, 
+   {
+    "quote_id": 71921, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  72021, 
+  [
+   4039, 
+   4264, 
+   {
+    "quote_id": 71921, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  72021, 
+  [
+   4480, 
+   4735, 
+   {
+    "quote_id": 71921, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  72021, 
+  [
+   4995, 
+   7554, 
+   {}
+  ]
+ ]
+]

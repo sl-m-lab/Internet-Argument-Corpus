@@ -1,0 +1,491 @@
+[
+ [
+  42501, 
+  [
+   0, 
+   407, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 42491, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  53591, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "thelostmarble", 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  53591, 
+  [
+   1335, 
+   2256, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 53421, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  53591, 
+  [
+   2967, 
+   3136, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 53421, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  53421, 
+  [
+   0, 
+   336, 
+   {
+    "quote_id": 53310, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  53421, 
+  [
+   377, 
+   663, 
+   {}
+  ]
+ ], 
+ [
+  53421, 
+  [
+   945, 
+   1063, 
+   {
+    "quote_id": 53044, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  53421, 
+  [
+   1069, 
+   1178, 
+   {
+    "quote_id": 53310, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  53421, 
+  [
+   2106, 
+   2255, 
+   {
+    "quote_id": 53310, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  53592, 
+  [
+   0, 
+   687, 
+   {
+    "raw_data": "Tastyfish", 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  42645, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 42501, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  42010, 
+  [
+   355, 
+   916, 
+   {}
+  ]
+ ], 
+ [
+  42010, 
+  [
+   1772, 
+   2061, 
+   {
+    "quote_id": 41202, 
+    "author": "Rodeo"
+   }
+  ]
+ ], 
+ [
+  42010, 
+  [
+   3226, 
+   3654, 
+   {}
+  ]
+ ], 
+ [
+  41892, 
+  [
+   0, 
+   901, 
+   {}
+  ]
+ ], 
+ [
+  41892, 
+  [
+   2251, 
+   2333, 
+   {
+    "quote_id": 41573, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  42150, 
+  [
+   0, 
+   3016, 
+   {
+    "raw_data": "thelostmarble", 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  42157, 
+  [
+   0, 
+   2392, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 42150, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  53423, 
+  [
+   355, 
+   520, 
+   {
+    "quote_id": 53421, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  41522, 
+  [
+   0, 
+   13364, 
+   {
+    "raw_data": "Rodeo", 
+    "author": "Rodeo"
+   }
+  ]
+ ], 
+ [
+  53044, 
+  [
+   0, 
+   1061, 
+   {
+    "raw_data": "Rodeo", 
+    "author": "Rodeo"
+   }
+  ]
+ ], 
+ [
+  41782, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 41573, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  41782, 
+  [
+   535, 
+   753, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 41573, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  42918, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 42894, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  41918, 
+  [
+   0, 
+   1419, 
+   {
+    "raw_data": "thelostmarble", 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  41923, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Rodeo", 
+    "author": "Rodeo"
+   }
+  ]
+ ], 
+ [
+  53310, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 53244, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  53310, 
+  [
+   1191, 
+   1579, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 53244, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  53310, 
+  [
+   1803, 
+   1927, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 53244, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  43085, 
+  [
+   0, 
+   1757, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 42491, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  43085, 
+  [
+   2411, 
+   2650, 
+   {
+    "quote_id": 41918, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  52658, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "mizmaxx", 
+    "quote_id": 41782, 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  42709, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 42677, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  53241, 
+  [
+   0, 
+   1126, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 53171, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  43608, 
+  [
+   0, 
+   645, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 43085, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  43608, 
+  [
+   2510, 
+   3017, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 43085, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  41826, 
+  [
+   0, 
+   52, 
+   {}
+  ]
+ ], 
+ [
+  41573, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 41554, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  41961, 
+  [
+   0, 
+   1423, 
+   {
+    "raw_data": "thelostmarble", 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  43513, 
+  [
+   0, 
+   645, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 43085, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  42491, 
+  [
+   0, 
+   2453, 
+   {
+    "raw_data": "thelostmarble", 
+    "quote_id": 42157, 
+    "author": "thelostmarble"
+   }
+  ]
+ ], 
+ [
+  53244, 
+  [
+   0, 
+   256, 
+   {
+    "quote_id": 53241, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  53244, 
+  [
+   520, 
+   664, 
+   {
+    "quote_id": 53241, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  53244, 
+  [
+   1059, 
+   1090, 
+   {
+    "quote_id": 53241, 
+    "author": "mana'ia"
+   }
+  ]
+ ]
+]

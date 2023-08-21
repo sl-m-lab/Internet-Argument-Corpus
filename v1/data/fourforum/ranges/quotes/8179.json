@@ -1,0 +1,395 @@
+[
+ [
+  215936, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 215181, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  215941, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 215936, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  214534, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 214501, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  214534, 
+  [
+   144, 
+   594, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 214501, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  215050, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 214950, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  215052, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 215050, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  216462, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Monster", 
+    "quote_id": 215900, 
+    "author": "Monster"
+   }
+  ]
+ ], 
+ [
+  214546, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 214538, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  216509, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 215936, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  216480, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 216462, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  214562, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 214488, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  214438, 
+  [
+   0, 
+   687, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 214436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216487, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 216462, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  215092, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 215076, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  214950, 
+  [
+   0, 
+   555, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 214904, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  216504, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 216487, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  214585, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 214562, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  214538, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 214534, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  216510, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 216509, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  215891, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 215076, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  214488, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 214449, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  215076, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 214585, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  215900, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "hazard", 
+    "unknown_author": "hazard"
+   }
+  ]
+ ], 
+ [
+  216294, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "hazard", 
+    "unknown_author": "hazard"
+   }
+  ]
+ ], 
+ [
+  216035, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "hazard", 
+    "unknown_author": "hazard"
+   }
+  ]
+ ], 
+ [
+  214501, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 214438, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  214501, 
+  [
+   547, 
+   680, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 214449, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  216561, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 216509, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  215154, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 215092, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  215154, 
+  [
+   391, 
+   855, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 215092, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  215154, 
+  [
+   1031, 
+   1106, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 215092, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  214515, 
+  [
+   0, 
+   687, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 214436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  214904, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 214585, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

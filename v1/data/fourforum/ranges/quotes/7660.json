@@ -1,0 +1,400 @@
+[
+ [
+  200328, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 200316, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  201356, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 201022, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  201356, 
+  [
+   756, 
+   1200, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 201022, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  200717, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 200594, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  200717, 
+  [
+   472, 
+   1264, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  200335, 
+  [
+   0, 
+   687, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 200328, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  200594, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 200525, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  200594, 
+  [
+   609, 
+   835, 
+   {
+    "quote_id": 200525, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  200594, 
+  [
+   1502, 
+   1670, 
+   {
+    "quote_id": 200525, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  201903, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 201899, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  202270, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 201935, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  200223, 
+  [
+   164, 
+   733, 
+   {}
+  ]
+ ], 
+ [
+  201899, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201542, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201899, 
+  [
+   447, 
+   869, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201542, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201899, 
+  [
+   925, 
+   1181, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201542, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200285, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  200370, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 200349, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  200251, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 200223, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  201022, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 200717, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  201536, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 201446, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  201536, 
+  [
+   373, 
+   614, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 201446, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  201542, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 201536, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  200525, 
+  [
+   0, 
+   700, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 200251, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  201357, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 201213, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  201298, 
+  [
+   0, 
+   716, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 201213, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  201298, 
+  [
+   970, 
+   1161, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 201230, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  201298, 
+  [
+   1574, 
+   2005, 
+   {
+    "raw_data": "Ripskar", 
+    "quote_id": 201237, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  200413, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 200349, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  200674, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 200672, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  201446, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 201357, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  201446, 
+  [
+   292, 
+   386, 
+   {
+    "quote_id": 201357, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  200812, 
+  [
+   0, 
+   77, 
+   {
+    "quote_id": 200674, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200816, 
+  [
+   0, 
+   628, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 200812, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  201213, 
+  [
+   0, 
+   1525, 
+   {
+    "raw_data": "beervolcano", 
+    "quote_id": 200853, 
+    "author": "beervolcano"
+   }
+  ]
+ ]
+]

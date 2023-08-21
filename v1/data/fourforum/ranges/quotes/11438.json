@@ -1,0 +1,504 @@
+[
+ [
+  318849, 
+  [
+   125, 
+   485, 
+   {}
+  ]
+ ], 
+ [
+  333703, 
+  [
+   65, 
+   241, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333703, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "Peeling;333690", 
+    "quote_id": 333690, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333703, 
+  [
+   1406, 
+   2469, 
+   {
+    "quote_id": 333690, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333703, 
+  [
+   3159, 
+   3588, 
+   {
+    "raw_data": "Collin;333646", 
+    "quote_id": 333646, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  333703, 
+  [
+   3592, 
+   3851, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333708, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Archangel;333691", 
+    "quote_id": 333691, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333711, 
+  [
+   0, 
+   256, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333722, 
+  [
+   0, 
+   1202, 
+   {
+    "raw_data": "Collin;333711", 
+    "quote_id": 333711, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  333733, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Archangel;333722", 
+    "quote_id": 333722, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333733, 
+  [
+   406, 
+   1706, 
+   {}
+  ]
+ ], 
+ [
+  333733, 
+  [
+   4850, 
+   5892, 
+   {}
+  ]
+ ], 
+ [
+  333761, 
+  [
+   0, 
+   268, 
+   {
+    "quote_id": 333746, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333761, 
+  [
+   391, 
+   544, 
+   {
+    "quote_id": 333746, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333646, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "Darles Charwin;332968", 
+    "quote_id": 332968, 
+    "author": "Darles Charwin"
+   }
+  ]
+ ], 
+ [
+  333776, 
+  [
+   0, 
+   722, 
+   {
+    "raw_data": "Collin;333761", 
+    "quote_id": 333761, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  333778, 
+  [
+   0, 
+   520, 
+   {
+    "raw_data": "Archangel;333703", 
+    "quote_id": 333703, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333778, 
+  [
+   1007, 
+   1300, 
+   {
+    "quote_id": 333703, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333778, 
+  [
+   1712, 
+   1759, 
+   {
+    "quote_id": 333703, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333778, 
+  [
+   1998, 
+   2257, 
+   {
+    "quote_id": 333703, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333778, 
+  [
+   2615, 
+   2924, 
+   {}
+  ]
+ ], 
+ [
+  333779, 
+  [
+   0, 
+   340, 
+   {
+    "quote_id": 333776, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333781, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Peeling", 
+    "quote_id": 333778, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333781, 
+  [
+   502, 
+   908, 
+   {
+    "raw_data": "Peeling", 
+    "quote_id": 333778, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333781, 
+  [
+   1330, 
+   1902, 
+   {
+    "quote_id": 333778, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333781, 
+  [
+   3690, 
+   4145, 
+   {
+    "quote_id": 333778, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333782, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "Collin;333779", 
+    "quote_id": 333779, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  333785, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Archangel;333782", 
+    "quote_id": 333782, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  319326, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Collin;319320", 
+    "quote_id": 319320, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  319326, 
+  [
+   284, 
+   581, 
+   {
+    "quote_id": 319320, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  334017, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Archangel;333781", 
+    "quote_id": 333781, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  334017, 
+  [
+   363, 
+   856, 
+   {}
+  ]
+ ], 
+ [
+  334017, 
+  [
+   1260, 
+   1781, 
+   {
+    "quote_id": 333781, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  334017, 
+  [
+   2581, 
+   2982, 
+   {
+    "quote_id": 333781, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  334017, 
+  [
+   3550, 
+   3800, 
+   {
+    "quote_id": 333781, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  334017, 
+  [
+   3895, 
+   4163, 
+   {
+    "quote_id": 333781, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  334017, 
+  [
+   4333, 
+   4887, 
+   {}
+  ]
+ ], 
+ [
+  334017, 
+  [
+   5453, 
+   5615, 
+   {
+    "quote_id": 333781, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333675, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Archangel;333652", 
+    "quote_id": 333652, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333678, 
+  [
+   0, 
+   641, 
+   {
+    "raw_data": "Peeling;333675", 
+    "quote_id": 333675, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  333686, 
+  [
+   0, 
+   2500, 
+   {
+    "raw_data": "Archangel;333678", 
+    "quote_id": 333678, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333652, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "Collin;333646", 
+    "quote_id": 333646, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  333690, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Archangel;333678", 
+    "quote_id": 333678, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333690, 
+  [
+   240, 
+   416, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  333690, 
+  [
+   759, 
+   2894, 
+   {}
+  ]
+ ], 
+ [
+  333691, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "trebor;333686", 
+    "quote_id": 333686, 
+    "author": "trebor"
+   }
+  ]
+ ]
+]

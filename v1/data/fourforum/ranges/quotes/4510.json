@@ -1,0 +1,143 @@
+[
+ [
+  97739, 
+  [
+   0, 
+   2219, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 97585, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  99113, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 97739, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  99113, 
+  [
+   361, 
+   843, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 97739, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  98123, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 97739, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  98123, 
+  [
+   683, 
+   1163, 
+   {
+    "quote_id": 97739, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  97585, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 97307, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  99707, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 99130, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  99707, 
+  [
+   861, 
+   1723, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 99130, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  99130, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "voiceofreason", 
+    "quote_id": 99103, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  99130, 
+  [
+   297, 
+   516, 
+   {
+    "quote_id": 99113, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  99130, 
+  [
+   1384, 
+   1475, 
+   {
+    "quote_id": 99113, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  99103, 
+  [
+   0, 
+   2219, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 97585, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

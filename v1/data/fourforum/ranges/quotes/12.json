@@ -1,0 +1,435 @@
+[
+ [
+  2947, 
+  [
+   0, 
+   182, 
+   {
+    "quote_id": 2619, 
+    "author": "Patriot"
+   }
+  ]
+ ], 
+ [
+  2947, 
+  [
+   417, 
+   639, 
+   {
+    "quote_id": 2614, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2947, 
+  [
+   679, 
+   854, 
+   {
+    "quote_id": 2642, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2947, 
+  [
+   919, 
+   1233, 
+   {
+    "quote_id": 2728, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  240266, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Patriot;2619", 
+    "quote_id": 2619, 
+    "author": "Patriot"
+   }
+  ]
+ ], 
+ [
+  2698, 
+  [
+   0, 
+   165, 
+   {
+    "quote_id": 2655, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  240269, 
+  [
+   0, 
+   709, 
+   {
+    "raw_data": "Illuminatrix;240266", 
+    "quote_id": 240266, 
+    "author": "Illuminatrix"
+   }
+  ]
+ ], 
+ [
+  3222, 
+  [
+   0, 
+   199, 
+   {
+    "quote_id": 3211, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3222, 
+  [
+   754, 
+   921, 
+   {
+    "quote_id": 3211, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  2721, 
+  [
+   0, 
+   235, 
+   {
+    "quote_id": 2716, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2724, 
+  [
+   0, 
+   73, 
+   {
+    "quote_id": 2657, 
+    "author": "Calligirl"
+   }
+  ]
+ ], 
+ [
+  2724, 
+  [
+   237, 
+   345, 
+   {
+    "quote_id": 2657, 
+    "author": "Calligirl"
+   }
+  ]
+ ], 
+ [
+  2724, 
+  [
+   518, 
+   724, 
+   {
+    "quote_id": 2657, 
+    "author": "Calligirl"
+   }
+  ]
+ ], 
+ [
+  2734, 
+  [
+   0, 
+   314, 
+   {
+    "quote_id": 2728, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  244403, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Truth Seeker;2579", 
+    "quote_id": 2579, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3381, 
+  [
+   0, 
+   150, 
+   {
+    "quote_id": 3377, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3381, 
+  [
+   240, 
+   405, 
+   {
+    "quote_id": 3377, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  2619, 
+  [
+   0, 
+   112, 
+   {}
+  ]
+ ], 
+ [
+  2624, 
+  [
+   0, 
+   144, 
+   {
+    "quote_id": 2614, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2624, 
+  [
+   207, 
+   447, 
+   {
+    "quote_id": 2614, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2624, 
+  [
+   827, 
+   944, 
+   {
+    "quote_id": 2614, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2624, 
+  [
+   1363, 
+   1467, 
+   {
+    "quote_id": 2614, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2624, 
+  [
+   1575, 
+   1658, 
+   {
+    "quote_id": 2614, 
+    "author": "American"
+   }
+  ]
+ ], 
+ [
+  2625, 
+  [
+   0, 
+   87, 
+   {
+    "quote_id": 2619, 
+    "author": "Patriot"
+   }
+  ]
+ ], 
+ [
+  2625, 
+  [
+   881, 
+   975, 
+   {
+    "quote_id": 2619, 
+    "author": "Patriot"
+   }
+  ]
+ ], 
+ [
+  244418, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "dislexia;244403", 
+    "quote_id": 244403, 
+    "author": "dislexia"
+   }
+  ]
+ ], 
+ [
+  244431, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "electrolyte;244418", 
+    "quote_id": 244418, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  2640, 
+  [
+   0, 
+   63, 
+   {}
+  ]
+ ], 
+ [
+  3426, 
+  [
+   0, 
+   143, 
+   {}
+  ]
+ ], 
+ [
+  3426, 
+  [
+   346, 
+   828, 
+   {
+    "quote_id": 3389, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3426, 
+  [
+   3035, 
+   3158, 
+   {
+    "quote_id": 3389, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3426, 
+  [
+   3849, 
+   4118, 
+   {
+    "quote_id": 3389, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3426, 
+  [
+   5421, 
+   5539, 
+   {
+    "quote_id": 3389, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3426, 
+  [
+   6868, 
+   6942, 
+   {
+    "quote_id": 3389, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3426, 
+  [
+   7401, 
+   7489, 
+   {
+    "quote_id": 3389, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3387, 
+  [
+   0, 
+   63, 
+   {
+    "quote_id": 3377, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3387, 
+  [
+   845, 
+   995, 
+   {
+    "quote_id": 3377, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  3387, 
+  [
+   2010, 
+   2175, 
+   {
+    "quote_id": 3377, 
+    "author": "Truth Seeker"
+   }
+  ]
+ ], 
+ [
+  2668, 
+  [
+   0, 
+   217, 
+   {}
+  ]
+ ], 
+ [
+  2808, 
+  [
+   0, 
+   63, 
+   {
+    "quote_id": 2598, 
+    "author": "sarablaze"
+   }
+  ]
+ ]
+]

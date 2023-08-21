@@ -1,0 +1,478 @@
+[
+ [
+  144641, 
+  [
+   926, 
+   1157, 
+   {}
+  ]
+ ], 
+ [
+  144641, 
+  [
+   1183, 
+   1243, 
+   {}
+  ]
+ ], 
+ [
+  145795, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145659, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144648, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 144642, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145580, 
+  [
+   0, 
+   1486, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 145374, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145580, 
+  [
+   1494, 
+   1581, 
+   {
+    "quote_id": 145374, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145424, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145178, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145810, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145659, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145178, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 144765, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  145179, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 144838, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145182, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145179, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145222, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145218, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144681, 
+  [
+   0, 
+   287, 
+   {
+    "quote_id": 144585, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144684, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 144648, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  145583, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 145424, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  145587, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145583, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145588, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145580, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145206, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145178, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145597, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145580, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145598, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 145590, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145599, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145580, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145218, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 145182, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145220, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Mucusaur", 
+    "quote_id": 145206, 
+    "author": "Mucusaur"
+   }
+  ]
+ ], 
+ [
+  145590, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145583, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144838, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144762, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145229, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 145222, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  145230, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145218, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145231, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 145230, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  144721, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 144642, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  144762, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 144759, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  145374, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145218, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144736, 
+  [
+   0, 
+   590, 
+   {}
+  ]
+ ], 
+ [
+  145254, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 145231, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145261, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 145254, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  144637, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 144634, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  144755, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 144736, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  144759, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144755, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144634, 
+  [
+   0, 
+   83, 
+   {
+    "quote_id": 144585, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145659, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 145599, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  144764, 
+  [
+   0, 
+   151, 
+   {
+    "quote_id": 144585, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144765, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144762, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ]
+]

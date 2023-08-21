@@ -1,0 +1,831 @@
+[
+ [
+  85121, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85113, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  84996, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84956, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84998, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84996, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85001, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84998, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85001, 
+  [
+   473, 
+   2118, 
+   {
+    "raw_data": "pnac", 
+    "unknown_author": "pnac"
+   }
+  ]
+ ], 
+ [
+  85261, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 85204, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  85006, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85001, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85006, 
+  [
+   228, 
+   546, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85001, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85006, 
+  [
+   1061, 
+   1184, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85001, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85136, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 85126, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  85010, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 84949, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  85269, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 85204, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   694, 
+   1088, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   1318, 
+   2004, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   3073, 
+   3429, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   3622, 
+   3792, 
+   {
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   4214, 
+   4676, 
+   {
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   4838, 
+   5196, 
+   {
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   5729, 
+   6075, 
+   {
+    "quote_id": 85170, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85271, 
+  [
+   6360, 
+   6521, 
+   {
+    "raw_data": "the bootfitter", 
+    "quote_id": 85170, 
+    "unknown_author": "the bootfitter", 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85273, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85176, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85273, 
+  [
+   750, 
+   943, 
+   {
+    "raw_data": "pnac", 
+    "quote_id": 85176, 
+    "unknown_author": "pnac", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85273, 
+  [
+   1227, 
+   1293, 
+   {
+    "raw_data": "pnac", 
+    "quote_id": 85176, 
+    "unknown_author": "pnac", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85276, 
+  [
+   0, 
+   709, 
+   {
+    "raw_data": "thebootfitter", 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85276, 
+  [
+   1135, 
+   1168, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85196, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85276, 
+  [
+   1560, 
+   2163, 
+   {
+    "quote_id": 85196, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85277, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 85204, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  85151, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85144, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85025, 
+  [
+   275, 
+   639, 
+   {}
+  ]
+ ], 
+ [
+  85155, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85144, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85126, 
+  [
+   0, 
+   809, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85119, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  88924, 
+  [
+   0, 
+   739, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 88767, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  85161, 
+  [
+   0, 
+   973, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 85151, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  85170, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85161, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85170, 
+  [
+   405, 
+   665, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85161, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85170, 
+  [
+   736, 
+   798, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85161, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85170, 
+  [
+   893, 
+   938, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85161, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85170, 
+  [
+   1344, 
+   1537, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85161, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85176, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85176, 
+  [
+   953, 
+   1310, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85104, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85176, 
+  [
+   1511, 
+   1631, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85121, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85279, 
+  [
+   0, 
+   1017, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 85269, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  88765, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85025, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  88767, 
+  [
+   0, 
+   789, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  88768, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85108, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  88771, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85271, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85196, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85196, 
+  [
+   600, 
+   840, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85121, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85196, 
+  [
+   1047, 
+   1189, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85121, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85196, 
+  [
+   1230, 
+   1432, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85121, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85204, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84933, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  84956, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84933, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  89184, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 89183, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  88929, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 88768, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  88929, 
+  [
+   937, 
+   1192, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 88771, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  85091, 
+  [
+   0, 
+   677, 
+   {
+    "raw_data": "pnac=ww3", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  88936, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 88924, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85099, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85091, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85266, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85261, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85266, 
+  [
+   421, 
+   494, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85261, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85104, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 85099, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  85104, 
+  [
+   829, 
+   1334, 
+   {
+    "raw_data": "alan ryan", 
+    "quote_id": 85099, 
+    "unknown_author": "alan ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  85106, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85104, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85108, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 85106, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  85108, 
+  [
+   238, 
+   656, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 85106, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  85108, 
+  [
+   968, 
+   1317, 
+   {
+    "raw_data": "alan ryan", 
+    "quote_id": 85106, 
+    "unknown_author": "alan ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  85111, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85010, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85117, 
+  [
+   0, 
+   615, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85119, 
+  [
+   0, 
+   490, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 85117, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ]
+]

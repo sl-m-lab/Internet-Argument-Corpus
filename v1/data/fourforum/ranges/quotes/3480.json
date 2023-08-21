@@ -1,0 +1,50 @@
+[
+ [
+  84359, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 73334, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  84368, 
+  [
+   0, 
+   1348, 
+   {
+    "raw_data": "firstthings1st.", 
+    "quote_id": 84359, 
+    "author": "firstthings1st."
+   }
+  ]
+ ], 
+ [
+  84372, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 84368, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  84379, 
+  [
+   0, 
+   1008, 
+   {
+    "raw_data": "firstthings1st.", 
+    "quote_id": 84372, 
+    "author": "firstthings1st."
+   }
+  ]
+ ]
+]

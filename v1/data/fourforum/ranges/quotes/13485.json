@@ -1,0 +1,954 @@
+[
+ [
+  375936, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "thelmoose;375934", 
+    "quote_id": 375934, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  376320, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "JPSartre12;375936", 
+    "quote_id": 375936, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375944, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "JPSartre12;375926", 
+    "quote_id": 375926, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375944, 
+  [
+   351, 
+   861, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375562, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "jitobear;375449", 
+    "quote_id": 375449, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  375950, 
+  [
+   0, 
+   1078, 
+   {
+    "raw_data": "foundit66;375944", 
+    "quote_id": 375944, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  375575, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Easyrider;375562", 
+    "quote_id": 375562, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  375575, 
+  [
+   465, 
+   600, 
+   {
+    "raw_data": "Easyrider;375562", 
+    "quote_id": 375562, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  375449, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Easyrider;375431", 
+    "quote_id": 375431, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  376090, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "JPSartre12;376038", 
+    "quote_id": 376038, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376090, 
+  [
+   906, 
+   1112, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 376041, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376090, 
+  [
+   1487, 
+   1692, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 376041, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376090, 
+  [
+   2051, 
+   2409, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 376041, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375581, 
+  [
+   0, 
+   962, 
+   {
+    "raw_data": "thelmoose;375404", 
+    "quote_id": 375404, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  375581, 
+  [
+   1421, 
+   1583, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375500, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375581, 
+  [
+   2250, 
+   2407, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375500, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375581, 
+  [
+   3357, 
+   3471, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375500, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  376222, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "Matthew S;376221", 
+    "quote_id": 376221, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  375586, 
+  [
+   0, 
+   95, 
+   {
+    "quote_id": 375581, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  375586, 
+  [
+   418, 
+   622, 
+   {
+    "quote_id": 375581, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  375586, 
+  [
+   686, 
+   1071, 
+   {}
+  ]
+ ], 
+ [
+  375589, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "matt_wmb;375586", 
+    "quote_id": 375586, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375589, 
+  [
+   365, 
+   633, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375586, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375589, 
+  [
+   957, 
+   1011, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375586, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375589, 
+  [
+   1652, 
+   1741, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375586, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375589, 
+  [
+   2042, 
+   2266, 
+   {
+    "raw_data": "matt_wmb", 
+    "quote_id": 375586, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  376028, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "JPSartre12;375950", 
+    "quote_id": 375950, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376028, 
+  [
+   448, 
+   579, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 376011, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375598, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "jitobear;375575", 
+    "quote_id": 375575, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  376111, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "jitobear;376035", 
+    "quote_id": 376035, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  376112, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Matthew S;376111", 
+    "quote_id": 376111, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  376392, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "thelmoose;376320", 
+    "quote_id": 376320, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  376392, 
+  [
+   478, 
+   1192, 
+   {
+    "quote_id": 376320, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  376392, 
+  [
+   1613, 
+   2000, 
+   {
+    "quote_id": 376320, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  375602, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Easyrider;375598", 
+    "quote_id": 375598, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  376542, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "gayhumanist;376538", 
+    "quote_id": 376538, 
+    "author": "gayhumanist"
+   }
+  ]
+ ], 
+ [
+  375561, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "matt_wmb;375500", 
+    "quote_id": 375500, 
+    "author": "matt_wmb"
+   }
+  ]
+ ], 
+ [
+  375352, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Accipiter;375350", 
+    "quote_id": 375350, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  375356, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Accipiter;375350", 
+    "quote_id": 375350, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  375358, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Lurch907;375356", 
+    "quote_id": 375356, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  375999, 
+  [
+   125, 
+   277, 
+   {}
+  ]
+ ], 
+ [
+  375360, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "JPSartre12;375358", 
+    "quote_id": 375358, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375362, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Lurch907;375356", 
+    "quote_id": 375356, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  375363, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "JPSartre12;375358", 
+    "quote_id": 375358, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376388, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "JPSartre12;376383", 
+    "quote_id": 376383, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375877, 
+  [
+   86, 
+   1496, 
+   {}
+  ]
+ ], 
+ [
+  376006, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "foundit66;375602", 
+    "quote_id": 375602, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  375368, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Accipiter;375362", 
+    "quote_id": 375362, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  375369, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Lurch907;375360", 
+    "quote_id": 375360, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  376011, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "gayhumanist;375999", 
+    "quote_id": 375999, 
+    "author": "gayhumanist"
+   }
+  ]
+ ], 
+ [
+  375504, 
+  [
+   0, 
+   962, 
+   {
+    "raw_data": "thelmoose;375404", 
+    "quote_id": 375404, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  376312, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "JPSartre12;376063", 
+    "quote_id": 376063, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376312, 
+  [
+   254, 
+   342, 
+   {
+    "raw_data": "JPSartre12;376063", 
+    "quote_id": 376063, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376221, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Easyrider;376112", 
+    "quote_id": 376112, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  375385, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "JPSartre12;375369", 
+    "quote_id": 375369, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376538, 
+  [
+   0, 
+   1472, 
+   {
+    "raw_data": "JPSartre12;376392", 
+    "quote_id": 376392, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375387, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "Lurch907;375385", 
+    "quote_id": 375385, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  375644, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Easyrider;375598", 
+    "quote_id": 375598, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  375390, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "JPSartre12;375387", 
+    "quote_id": 375387, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  375521, 
+  [
+   0, 
+   200, 
+   {
+    "quote_id": 375519, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  375521, 
+  [
+   732, 
+   853, 
+   {
+    "quote_id": 375519, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  375521, 
+  [
+   1183, 
+   1238, 
+   {
+    "quote_id": 375519, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  376035, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Easyrider;376006", 
+    "quote_id": 376006, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  376038, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Easyrider;376006", 
+    "quote_id": 376006, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  375527, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "Lurch907;375390", 
+    "quote_id": 375390, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  376041, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "foundit66;376028", 
+    "quote_id": 376028, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  376041, 
+  [
+   622, 
+   1171, 
+   {
+    "quote_id": 376028, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  376041, 
+  [
+   1385, 
+   1701, 
+   {
+    "quote_id": 376028, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  375275, 
+  [
+   84, 
+   2493, 
+   {}
+  ]
+ ], 
+ [
+  376382, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "gayhumanist;376104", 
+    "quote_id": 376104, 
+    "author": "gayhumanist"
+   }
+  ]
+ ], 
+ [
+  376567, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "JPSartre12;376392", 
+    "quote_id": 376392, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376567, 
+  [
+   364, 
+   517, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376567, 
+  [
+   804, 
+   1074, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 376392, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376567, 
+  [
+   1292, 
+   1403, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376567, 
+  [
+   2057, 
+   2317, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376567, 
+  [
+   2930, 
+   3076, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376056, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "JPSartre12;376011", 
+    "quote_id": 376011, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376383, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "jitobear;376312", 
+    "quote_id": 376312, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  376383, 
+  [
+   103, 
+   136, 
+   {
+    "quote_id": 376312, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  375934, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "JPSartre12;375926", 
+    "quote_id": 375926, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376063, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "jitobear;376056", 
+    "quote_id": 376056, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  376063, 
+  [
+   633, 
+   1109, 
+   {
+    "quote_id": 376056, 
+    "author": "jitobear"
+   }
+  ]
+ ]
+]

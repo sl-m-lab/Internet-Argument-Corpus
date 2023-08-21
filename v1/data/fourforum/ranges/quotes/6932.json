@@ -1,0 +1,74 @@
+[
+ [
+  181633, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "HuddeNYer", 
+    "quote_id": 181630, 
+    "author": "HuddeNYer"
+   }
+  ]
+ ], 
+ [
+  181636, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 181633, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  181776, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 181633, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  181777, 
+  [
+   0, 
+   430, 
+   {
+    "raw_data": "HuddeNYer", 
+    "quote_id": 181636, 
+    "author": "HuddeNYer"
+   }
+  ]
+ ], 
+ [
+  197589, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 181776, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  197622, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 197589, 
+    "author": "Tastyfish"
+   }
+  ]
+ ]
+]

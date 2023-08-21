@@ -1,0 +1,1041 @@
+[
+ [
+  336133, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Winston Smith;336120", 
+    "quote_id": 336120, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336133, 
+  [
+   358, 
+   392, 
+   {
+    "quote_id": 336120, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336518, 
+  [
+   0, 
+   865, 
+   {
+    "raw_data": "Peeling;336367", 
+    "quote_id": 336367, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  336135, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Symbiote;336106", 
+    "quote_id": 336106, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336520, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Winston Smith;336518", 
+    "quote_id": 336518, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336139, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Winston Smith;336120", 
+    "quote_id": 336120, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336269, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "Larni;336263", 
+    "quote_id": 336263, 
+    "author": "Larni"
+   }
+  ]
+ ], 
+ [
+  336209, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Symbiote;336199", 
+    "quote_id": 336199, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  335375, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 335342, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335375, 
+  [
+   150, 
+   236, 
+   {}
+  ]
+ ], 
+ [
+  335377, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Huntard;335375", 
+    "quote_id": 335375, 
+    "author": "Huntard"
+   }
+  ]
+ ], 
+ [
+  335377, 
+  [
+   400, 
+   543, 
+   {
+    "quote_id": 335375, 
+    "author": "Huntard"
+   }
+  ]
+ ], 
+ [
+  336531, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "lesz;336464", 
+    "quote_id": 336464, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  335380, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "CashBurnRate;335377", 
+    "quote_id": 335377, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335342, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "obvious_child;335322", 
+    "quote_id": 335322, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  335342, 
+  [
+   166, 
+   214, 
+   {
+    "quote_id": 335322, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  335342, 
+  [
+   311, 
+   369, 
+   {
+    "quote_id": 335322, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  336367, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "supersport;336342", 
+    "quote_id": 336342, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336367, 
+  [
+   269, 
+   681, 
+   {
+    "quote_id": 336166, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336024, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Larni;335955", 
+    "quote_id": 335955, 
+    "author": "Larni"
+   }
+  ]
+ ], 
+ [
+  336155, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "supersport;336091", 
+    "quote_id": 336091, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335261, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "obvious_child;335164", 
+    "quote_id": 335164, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  336161, 
+  [
+   0, 
+   928, 
+   {
+    "raw_data": "supersport;336149", 
+    "quote_id": 336149, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336039, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Penfold;336038", 
+    "quote_id": 336038, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  336199, 
+  [
+   0, 
+   177, 
+   {
+    "quote_id": 336166, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336234, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Symbiote;336230", 
+    "quote_id": 336230, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  335407, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "CashBurnRate;335342", 
+    "quote_id": 335342, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335407, 
+  [
+   140, 
+   203, 
+   {
+    "quote_id": 335342, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  336243, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Symbiote;336240", 
+    "quote_id": 336240, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336243, 
+  [
+   427, 
+   575, 
+   {
+    "quote_id": 336240, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336243, 
+  [
+   832, 
+   918, 
+   {
+    "quote_id": 336240, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336243, 
+  [
+   968, 
+   998, 
+   {
+    "quote_id": 336240, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336566, 
+  [
+   0, 
+   2270, 
+   {
+    "raw_data": "lesz;336520", 
+    "quote_id": 336520, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  335418, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "CashBurnRate;335377", 
+    "quote_id": 335377, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335421, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Penfold;335313", 
+    "quote_id": 335313, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  336576, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Winston Smith;336566", 
+    "quote_id": 336566, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336090, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "supersport;336088", 
+    "quote_id": 336088, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336267, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "supersport;336166", 
+    "quote_id": 336166, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336267, 
+  [
+   1489, 
+   1901, 
+   {
+    "quote_id": 336166, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336267, 
+  [
+   2700, 
+   3119, 
+   {
+    "quote_id": 336166, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335429, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "supersport;335421", 
+    "quote_id": 335421, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336071, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Penfold;336052", 
+    "quote_id": 336052, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  336545, 
+  [
+   0, 
+   1235, 
+   {
+    "raw_data": "Smallax;336531", 
+    "quote_id": 336531, 
+    "author": "Smallax"
+   }
+  ]
+ ], 
+ [
+  336074, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "supersport;335953", 
+    "quote_id": 335953, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336460, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "lesz;336317", 
+    "quote_id": 336317, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  335310, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "obvious_child;335164", 
+    "quote_id": 335164, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  336464, 
+  [
+   0, 
+   567, 
+   {
+    "raw_data": "Smallax;336460", 
+    "quote_id": 336460, 
+    "author": "Smallax"
+   }
+  ]
+ ], 
+ [
+  335953, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Symbiote;335429", 
+    "quote_id": 335429, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336082, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "supersport;336078", 
+    "quote_id": 336078, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335955, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "supersport;335953", 
+    "quote_id": 335953, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335955, 
+  [
+   262, 
+   492, 
+   {
+    "quote_id": 335953, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335955, 
+  [
+   576, 
+   675, 
+   {
+    "quote_id": 335953, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335955, 
+  [
+   799, 
+   1078, 
+   {
+    "quote_id": 335953, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335316, 
+  [
+   0, 
+   410, 
+   {
+    "raw_data": "CashBurnRate;335310", 
+    "quote_id": 335310, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  336078, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Symbiote;336074", 
+    "quote_id": 336074, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336342, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Peeling;336267", 
+    "quote_id": 336267, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  336263, 
+  [
+   0, 
+   1506, 
+   {
+    "raw_data": "Winston Smith;336231", 
+    "quote_id": 336231, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336088, 
+  [
+   0, 
+   712, 
+   {
+    "raw_data": "Symbiote;336082", 
+    "quote_id": 336082, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  335322, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "CashBurnRate;335310", 
+    "quote_id": 335310, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335322, 
+  [
+   208, 
+   282, 
+   {
+    "quote_id": 335310, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  336091, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Symbiote;336090", 
+    "quote_id": 336090, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336092, 
+  [
+   0, 
+   67, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336092, 
+  [
+   180, 
+   262, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336092, 
+  [
+   337, 
+   400, 
+   {
+    "quote_id": 336091, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335197, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "obvious_child;335164", 
+    "quote_id": 335164, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  336094, 
+  [
+   88, 
+   160, 
+   {
+    "raw_data": "Symbiote;336092", 
+    "quote_id": 336092, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336095, 
+  [
+   77, 
+   182, 
+   {
+    "raw_data": "Symbiote;336092", 
+    "quote_id": 336092, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336225, 
+  [
+   0, 
+   735, 
+   {
+    "raw_data": "Symbiote;336133", 
+    "quote_id": 336133, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336098, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "supersport;336094", 
+    "quote_id": 336094, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336098, 
+  [
+   379, 
+   458, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336098, 
+  [
+   518, 
+   527, 
+   {
+    "quote_id": 336095, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336099, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "SickDelirium;335261", 
+    "quote_id": 335261, 
+    "author": "SickDelirium"
+   }
+  ]
+ ], 
+ [
+  336166, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "Peeling;336155", 
+    "quote_id": 336155, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  336230, 
+  [
+   0, 
+   96, 
+   {
+    "quote_id": 336225, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336230, 
+  [
+   199, 
+   363, 
+   {}
+  ]
+ ], 
+ [
+  336230, 
+  [
+   716, 
+   778, 
+   {
+    "quote_id": 336225, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336104, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Symbiote;336100", 
+    "quote_id": 336100, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  335339, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "CashBurnRate;335310", 
+    "quote_id": 335310, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  336317, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Winston Smith;336243", 
+    "quote_id": 336243, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336240, 
+  [
+   0, 
+   124, 
+   {
+    "quote_id": 336231, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336240, 
+  [
+   291, 
+   383, 
+   {
+    "quote_id": 336232, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336240, 
+  [
+   740, 
+   845, 
+   {
+    "quote_id": 336234, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336240, 
+  [
+   941, 
+   998, 
+   {
+    "quote_id": 336231, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336232, 
+  [
+   0, 
+   951, 
+   {
+    "raw_data": "Symbiote;336230", 
+    "quote_id": 336230, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336083, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "supersport;336071", 
+    "quote_id": 336071, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  336120, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Symbiote;336100", 
+    "quote_id": 336100, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  336252, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Winston Smith;336249", 
+    "quote_id": 336249, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336252, 
+  [
+   114, 
+   167, 
+   {
+    "quote_id": 336249, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336252, 
+  [
+   281, 
+   331, 
+   {
+    "quote_id": 336249, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  336149, 
+  [
+   89, 
+   147, 
+   {
+    "raw_data": "Symbiote;336098", 
+    "quote_id": 336098, 
+    "author": "Symbiote"
+   }
+  ]
+ ]
+]

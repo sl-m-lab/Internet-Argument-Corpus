@@ -1,0 +1,1580 @@
+[
+ [
+  281609, 
+  [
+   0, 
+   1317, 
+   {
+    "raw_data": "EDO;280763", 
+    "quote_id": 280763, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  282162, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "richbrmly;282082", 
+    "quote_id": 282082, 
+    "author": "richbrmly"
+   }
+  ]
+ ], 
+ [
+  282162, 
+  [
+   684, 
+   780, 
+   {
+    "quote_id": 282082, 
+    "author": "richbrmly"
+   }
+  ]
+ ], 
+ [
+  282162, 
+  [
+   1225, 
+   1291, 
+   {
+    "quote_id": 282082, 
+    "author": "richbrmly"
+   }
+  ]
+ ], 
+ [
+  282162, 
+  [
+   1576, 
+   1737, 
+   {
+    "quote_id": 282082, 
+    "author": "richbrmly"
+   }
+  ]
+ ], 
+ [
+  282162, 
+  [
+   1947, 
+   2079, 
+   {
+    "quote_id": 282082, 
+    "author": "richbrmly"
+   }
+  ]
+ ], 
+ [
+  281139, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "EDO;280763", 
+    "quote_id": 280763, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  282183, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "jyoshu;282081", 
+    "quote_id": 282081, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282183, 
+  [
+   627, 
+   999, 
+   {
+    "quote_id": 282081, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282184, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "jyoshu;282081", 
+    "quote_id": 282081, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282184, 
+  [
+   627, 
+   999, 
+   {
+    "quote_id": 282081, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282195, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "thelmoose;282184", 
+    "quote_id": 282184, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282195, 
+  [
+   817, 
+   875, 
+   {
+    "raw_data": "thelmoose;282184", 
+    "quote_id": 282184, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282195, 
+  [
+   2061, 
+   2148, 
+   {
+    "raw_data": "thelmoose;282184", 
+    "quote_id": 282184, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282207, 
+  [
+   0, 
+   1871, 
+   {
+    "raw_data": "jyoshu;282195", 
+    "quote_id": 282195, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282299, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "samiinh;282253", 
+    "quote_id": 282253, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  281701, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "DrD;281609", 
+    "quote_id": 281609, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  281703, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "jyoshu;281701", 
+    "quote_id": 281701, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282216, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "&quot;jyoshu&quot;", 
+    "quote_id": 282195, 
+    "unknown_author": "&quot", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282216, 
+  [
+   760, 
+   892, 
+   {
+    "quote_id": 282195, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282223, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "thelmoose;282207", 
+    "quote_id": 282207, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282223, 
+  [
+   1116, 
+   1226, 
+   {
+    "raw_data": "thelmoose;282207", 
+    "quote_id": 282207, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281715, 
+  [
+   0, 
+   1570, 
+   {
+    "raw_data": "EDO;280763", 
+    "quote_id": 280763, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281717, 
+  [
+   0, 
+   1047, 
+   {
+    "raw_data": "DrD;281609", 
+    "quote_id": 281609, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  281734, 
+  [
+   0, 
+   866, 
+   {
+    "raw_data": "fjp8000;281717", 
+    "quote_id": 281717, 
+    "author": "fjp8000"
+   }
+  ]
+ ], 
+ [
+  282248, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "thelmoose;282229", 
+    "quote_id": 282229, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282248, 
+  [
+   541, 
+   633, 
+   {
+    "raw_data": "thelmoose;282229", 
+    "quote_id": 282229, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282248, 
+  [
+   711, 
+   820, 
+   {
+    "raw_data": "thelmoose;282229", 
+    "quote_id": 282229, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281741, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "fjp8000;281717", 
+    "quote_id": 281717, 
+    "author": "fjp8000"
+   }
+  ]
+ ], 
+ [
+  281741, 
+  [
+   1505, 
+   1726, 
+   {
+    "raw_data": "fjp8000;281717", 
+    "quote_id": 281717, 
+    "author": "fjp8000"
+   }
+  ]
+ ], 
+ [
+  281742, 
+  [
+   0, 
+   1141, 
+   {
+    "raw_data": "jyoshu;281741", 
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281742, 
+  [
+   1175, 
+   1668, 
+   {
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281749, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "jyoshu;281741", 
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281749, 
+  [
+   757, 
+   1411, 
+   {
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281752, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "thelmoose;281749", 
+    "quote_id": 281749, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281760, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "jyoshu;281741", 
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282395, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "samiinh;282379", 
+    "quote_id": 282379, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  281768, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "&quot;jyoshu&quot;", 
+    "quote_id": 281741, 
+    "unknown_author": "&quot", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280775, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "EDO;280763", 
+    "quote_id": 280763, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280775, 
+  [
+   916, 
+   1621, 
+   {
+    "raw_data": "EDO;280763", 
+    "quote_id": 280763, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281773, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "charlie horse;281768", 
+    "quote_id": 281768, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  281776, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "samiinh;281773", 
+    "quote_id": 281773, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  281777, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "charlie horse;281768", 
+    "quote_id": 281768, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  281785, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "jyoshu;281777", 
+    "quote_id": 281777, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282229, 
+  [
+   0, 
+   768, 
+   {
+    "raw_data": "jyoshu;282223", 
+    "quote_id": 282223, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282229, 
+  [
+   1139, 
+   1232, 
+   {
+    "quote_id": 282223, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280773, 
+  [
+   0, 
+   1568, 
+   {
+    "raw_data": "EDO;280763", 
+    "quote_id": 280763, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281799, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "jyoshu;281777", 
+    "quote_id": 281777, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280776, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "&quot;jyoshu&quot;", 
+    "quote_id": 280775, 
+    "unknown_author": "&quot", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281801, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "GiantOreo;281799", 
+    "quote_id": 281799, 
+    "author": "GiantOreo"
+   }
+  ]
+ ], 
+ [
+  280779, 
+  [
+   0, 
+   925, 
+   {
+    "raw_data": "jyoshu;280775", 
+    "quote_id": 280775, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280780, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "charlie horse;280776", 
+    "quote_id": 280776, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  280782, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "jyoshu;280775", 
+    "quote_id": 280775, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280782, 
+  [
+   654, 
+   1806, 
+   {
+    "raw_data": "jyoshu;280775", 
+    "quote_id": 280775, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281808, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "jyoshu;281801", 
+    "quote_id": 281801, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281808, 
+  [
+   366, 
+   647, 
+   {
+    "raw_data": "&quot;jyoshu&quot;", 
+    "quote_id": 281741, 
+    "unknown_author": "&quot", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281808, 
+  [
+   676, 
+   1330, 
+   {
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280788, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "jyoshu;280780", 
+    "quote_id": 280780, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280790, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "EDO;280782", 
+    "quote_id": 280782, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280790, 
+  [
+   380, 
+   485, 
+   {
+    "raw_data": "EDO;280782", 
+    "quote_id": 280782, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280790, 
+  [
+   576, 
+   992, 
+   {
+    "raw_data": "EDO;280782", 
+    "quote_id": 280782, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281815, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "fjp8000;281715", 
+    "quote_id": 281715, 
+    "author": "fjp8000"
+   }
+  ]
+ ], 
+ [
+  281816, 
+  [
+   0, 
+   1792, 
+   {
+    "raw_data": "snakespit;281139", 
+    "quote_id": 281139, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  280796, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "charlie horse;280788", 
+    "quote_id": 280788, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  280796, 
+  [
+   450, 
+   523, 
+   {
+    "raw_data": "charlie horse;280788", 
+    "quote_id": 280788, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  280797, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "EDO;280782", 
+    "quote_id": 280782, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280800, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "jyoshu;280796", 
+    "quote_id": 280796, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281825, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "EDO;281816", 
+    "quote_id": 281816, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280802, 
+  [
+   0, 
+   670, 
+   {
+    "raw_data": "EDO;280782", 
+    "quote_id": 280782, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280802, 
+  [
+   1261, 
+   1315, 
+   {
+    "quote_id": 280782, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  280804, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "thelmoose;280797", 
+    "quote_id": 280797, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281835, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "samiinh;281825", 
+    "quote_id": 281825, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  280814, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Truthsayer;280810", 
+    "quote_id": 280810, 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  280820, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "jyoshu;280804", 
+    "quote_id": 280804, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281847, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "EDO;281835", 
+    "quote_id": 281835, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281812, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "jyoshu;281801", 
+    "quote_id": 281801, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281812, 
+  [
+   352, 
+   467, 
+   {
+    "quote_id": 281801, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281812, 
+  [
+   517, 
+   1007, 
+   {
+    "quote_id": 281741, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281853, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "EDO;281835", 
+    "quote_id": 281835, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281867, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "thelmoose;281853", 
+    "quote_id": 281853, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  280850, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "jyoshu;280804", 
+    "quote_id": 280804, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281883, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "EDO;281816", 
+    "quote_id": 281816, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281885, 
+  [
+   537, 
+   762, 
+   {
+    "raw_data": "EDO;281816", 
+    "quote_id": 281816, 
+    "author": "EDO"
+   }
+  ]
+ ], 
+ [
+  281899, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "chemist99a;281896", 
+    "quote_id": 281896, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  281903, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "charlie horse;281899", 
+    "quote_id": 281899, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  281919, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "chemist99a;281896", 
+    "quote_id": 281896, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  281924, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "jyoshu;281919", 
+    "quote_id": 281919, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281928, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "thelmoose;281924", 
+    "quote_id": 281924, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281928, 
+  [
+   728, 
+   837, 
+   {
+    "raw_data": "thelmoose;281924", 
+    "quote_id": 281924, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281945, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "jyoshu;281928", 
+    "quote_id": 281928, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281953, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "thelmoose;281945", 
+    "quote_id": 281945, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281953, 
+  [
+   1580, 
+   1657, 
+   {
+    "raw_data": "thelmoose;281945", 
+    "quote_id": 281945, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281954, 
+  [
+   0, 
+   1119, 
+   {
+    "raw_data": "jyoshu;281953", 
+    "quote_id": 281953, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281955, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "thelmoose;281954", 
+    "quote_id": 281954, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281955, 
+  [
+   577, 
+   668, 
+   {
+    "raw_data": "thelmoose;281954", 
+    "quote_id": 281954, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281958, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "jyoshu;281955", 
+    "quote_id": 281955, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281965, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "thelmoose;281958", 
+    "quote_id": 281958, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281965, 
+  [
+   142, 
+   550, 
+   {
+    "raw_data": "thelmoose;281958", 
+    "quote_id": 281958, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  281967, 
+  [
+   0, 
+   75, 
+   {
+    "quote_id": 281965, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281968, 
+  [
+   0, 
+   349, 
+   {
+    "quote_id": 281919, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281969, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "chemist99a;281968", 
+    "quote_id": 281968, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  281970, 
+  [
+   0, 
+   349, 
+   {
+    "quote_id": 281919, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281971, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "chemist99a;281970", 
+    "quote_id": 281970, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  281972, 
+  [
+   0, 
+   39, 
+   {
+    "quote_id": 281971, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281976, 
+  [
+   0, 
+   1126, 
+   {
+    "raw_data": "jyoshu;281965", 
+    "quote_id": 281965, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282500, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "samiinh;282422", 
+    "quote_id": 282422, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  281989, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "jyoshu;281971", 
+    "quote_id": 281971, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  281989, 
+  [
+   344, 
+   469, 
+   {}
+  ]
+ ], 
+ [
+  280967, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "thelmoose;280850", 
+    "quote_id": 280850, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282508, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "jyoshu;282248", 
+    "quote_id": 282248, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  280975, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "jyoshu;280967", 
+    "quote_id": 280967, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282002, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "thelmoose;281976", 
+    "quote_id": 281976, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282003, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "thelmoose;281976", 
+    "quote_id": 281976, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282004, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Symbiote;282003", 
+    "quote_id": 282003, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  282005, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Symbiote;282003", 
+    "quote_id": 282003, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  282008, 
+  [
+   0, 
+   344, 
+   {
+    "quote_id": 282004, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  282008, 
+  [
+   645, 
+   684, 
+   {
+    "quote_id": 282005, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  282009, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "jyoshu;281955", 
+    "quote_id": 281955, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282523, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "jyoshu;282500", 
+    "quote_id": 282500, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282015, 
+  [
+   0, 
+   828, 
+   {
+    "raw_data": "Peeling;282009", 
+    "quote_id": 282009, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  282028, 
+  [
+   0, 
+   646, 
+   {
+    "raw_data": "snakespit;282002", 
+    "quote_id": 282002, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  282034, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "&quot;jyoshu&quot;", 
+    "quote_id": 282031, 
+    "unknown_author": "&quot", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282035, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "jyoshu;282031", 
+    "quote_id": 282031, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282036, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "jyoshu;282031", 
+    "quote_id": 282031, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282038, 
+  [
+   0, 
+   1108, 
+   {
+    "raw_data": "johnhanks;282036", 
+    "quote_id": 282036, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  282039, 
+  [
+   0, 
+   498, 
+   {
+    "raw_data": "charlie horse;282034", 
+    "quote_id": 282034, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  282043, 
+  [
+   0, 
+   519, 
+   {
+    "raw_data": "&quot;jyoshu&quot;", 
+    "quote_id": 282038, 
+    "unknown_author": "&quot", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282053, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "charlie horse;282043", 
+    "quote_id": 282043, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  282059, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "jyoshu;282053", 
+    "quote_id": 282053, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282067, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "ShadowPikachu;282059", 
+    "quote_id": 282059, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  282071, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "jyoshu;282053", 
+    "quote_id": 282053, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  282081, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "thelmoose;282071", 
+    "quote_id": 282071, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  282081, 
+  [
+   642, 
+   763, 
+   {
+    "raw_data": "thelmoose;282071", 
+    "quote_id": 282071, 
+    "author": "thelmoose"
+   }
+  ]
+ ]
+]

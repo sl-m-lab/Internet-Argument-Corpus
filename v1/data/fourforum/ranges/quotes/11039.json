@@ -1,0 +1,132 @@
+[
+ [
+  305072, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "CUNxTime;305025", 
+    "quote_id": 305025, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  305072, 
+  [
+   450, 
+   574, 
+   {
+    "quote_id": 305025, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  305188, 
+  [
+   0, 
+   295, 
+   {}
+  ]
+ ], 
+ [
+  305188, 
+  [
+   708, 
+   840, 
+   {
+    "quote_id": 305153, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  305188, 
+  [
+   1188, 
+   1661, 
+   {
+    "quote_id": 305153, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  305025, 
+  [
+   0, 
+   410, 
+   {
+    "raw_data": "obvious_child;305012", 
+    "quote_id": 305012, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  305012, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Bassman;304868", 
+    "quote_id": 304868, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  305153, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "CUNxTime;305146", 
+    "quote_id": 305146, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  305153, 
+  [
+   560, 
+   674, 
+   {
+    "quote_id": 305146, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  305153, 
+  [
+   816, 
+   1164, 
+   {
+    "quote_id": 305146, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  305137, 
+  [
+   149, 
+   411, 
+   {
+    "quote_id": 305127, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304863, 
+  [
+   275, 
+   4121, 
+   {}
+  ]
+ ]
+]

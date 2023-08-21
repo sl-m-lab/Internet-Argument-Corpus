@@ -1,0 +1,160 @@
+[
+ [
+  228427, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "daewoo;228398", 
+    "quote_id": 228398, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  228398, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "jyoshu;228341", 
+    "quote_id": 228341, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228398, 
+  [
+   970, 
+   1144, 
+   {
+    "quote_id": 228341, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228398, 
+  [
+   1968, 
+   2106, 
+   {
+    "quote_id": 228341, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228338, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "peteratwar;228278", 
+    "quote_id": 228278, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  228451, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "peteratwar;228439", 
+    "quote_id": 228439, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  228091, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "peteratwar;228068", 
+    "quote_id": 228068, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  228438, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "jyoshu;228427", 
+    "quote_id": 228427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228438, 
+  [
+   432, 
+   877, 
+   {
+    "quote_id": 228427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228438, 
+  [
+   1527, 
+   1881, 
+   {
+    "quote_id": 228427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228438, 
+  [
+   1901, 
+   2322, 
+   {
+    "quote_id": 228427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  228437, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "peteratwar;228406", 
+    "quote_id": 228406, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  228437, 
+  [
+   123, 
+   360, 
+   {
+    "quote_id": 228406, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  228437, 
+  [
+   1914, 
+   2176, 
+   {}
+  ]
+ ]
+]

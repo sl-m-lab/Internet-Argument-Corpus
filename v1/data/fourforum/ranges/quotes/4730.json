@@ -1,0 +1,38 @@
+[
+ [
+  104074, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 104068, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  104077, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 104074, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  104062, 
+  [
+   0, 
+   1001, 
+   {
+    "raw_data": "CargO", 
+    "quote_id": 104049, 
+    "author": "CargO"
+   }
+  ]
+ ]
+]

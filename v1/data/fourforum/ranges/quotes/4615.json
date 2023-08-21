@@ -1,0 +1,94 @@
+[
+ [
+  100288, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "one of the ten commandments", 
+    "quote_id": 100303, 
+    "unknown_author": "one of the ten commandments", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  100363, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Kaill", 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  100303, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 100288, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  100303, 
+  [
+   253, 
+   300, 
+   {
+    "quote_id": 100288, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  100303, 
+  [
+   473, 
+   521, 
+   {
+    "quote_id": 100288, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  100303, 
+  [
+   756, 
+   781, 
+   {
+    "quote_id": 100288, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  100303, 
+  [
+   864, 
+   956, 
+   {
+    "quote_id": 100288, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  100341, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Kaill", 
+    "quote_id": 100317, 
+    "author": "Kaill"
+   }
+  ]
+ ]
+]

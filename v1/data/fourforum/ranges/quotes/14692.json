@@ -1,0 +1,121 @@
+[
+ [
+  416607, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "New Atheist;416549", 
+    "quote_id": 416549, 
+    "author": "New Atheist"
+   }
+  ]
+ ], 
+ [
+  416549, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "Easyrider;415775", 
+    "quote_id": 415775, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  415784, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "GiantOreo;415700", 
+    "quote_id": 415700, 
+    "author": "GiantOreo"
+   }
+  ]
+ ], 
+ [
+  415850, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Steeeeve;415784", 
+    "quote_id": 415784, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  416709, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "New Atheist;416665", 
+    "quote_id": 416665, 
+    "author": "New Atheist"
+   }
+  ]
+ ], 
+ [
+  416665, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Easyrider;416607", 
+    "quote_id": 416607, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  416665, 
+  [
+   145, 
+   171, 
+   {
+    "quote_id": 416607, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  416154, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Steeeeve;415784", 
+    "quote_id": 415784, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  415803, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "Easyrider;415775", 
+    "quote_id": 415775, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  415775, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "GiantOreo;415700", 
+    "quote_id": 415700, 
+    "author": "GiantOreo"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,133 @@
+[
+ [
+  90050, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  90054, 
+  [
+   0, 
+   768, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 90050, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90062, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 90054, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  90130, 
+  [
+   0, 
+   607, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 90067, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  90067, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 90062, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90067, 
+  [
+   525, 
+   1041, 
+   {}
+  ]
+ ], 
+ [
+  90067, 
+  [
+   1813, 
+   2388, 
+   {
+    "quote_id": 90062, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90067, 
+  [
+   2694, 
+   3246, 
+   {
+    "quote_id": 90062, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90067, 
+  [
+   4316, 
+   4649, 
+   {
+    "quote_id": 90062, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90067, 
+  [
+   7399, 
+   7978, 
+   {
+    "quote_id": 90062, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90135, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 90130, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  90045, 
+  [
+   58, 
+   2785, 
+   {}
+  ]
+ ]
+]

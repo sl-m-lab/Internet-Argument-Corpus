@@ -1,0 +1,898 @@
+[
+ [
+  302593, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "T.Q;302577", 
+    "quote_id": 302577, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302593, 
+  [
+   24, 
+   153, 
+   {
+    "raw_data": "Archangel;302581", 
+    "quote_id": 302581, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302593, 
+  [
+   220, 
+   306, 
+   {
+    "raw_data": "Archangel;302581", 
+    "quote_id": 302581, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302594, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "T.Q;302586", 
+    "quote_id": 302586, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302595, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "electrolyte;302593", 
+    "quote_id": 302593, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  302598, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Archangel;302579", 
+    "quote_id": 302579, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302598, 
+  [
+   154, 
+   212, 
+   {
+    "quote_id": 302579, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302598, 
+  [
+   678, 
+   740, 
+   {
+    "quote_id": 302579, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302598, 
+  [
+   749, 
+   833, 
+   {
+    "quote_id": 302579, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302600, 
+  [
+   0, 
+   407, 
+   {
+    "raw_data": "Archangel;302595", 
+    "quote_id": 302595, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302602, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Archangel;302594", 
+    "quote_id": 302594, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302602, 
+  [
+   62, 
+   178, 
+   {
+    "raw_data": "T.Q;302577", 
+    "quote_id": 302577, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302602, 
+  [
+   534, 
+   748, 
+   {
+    "raw_data": "Archangel;302594", 
+    "quote_id": 302594, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302603, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Archangel;302574", 
+    "quote_id": 302574, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302603, 
+  [
+   686, 
+   747, 
+   {
+    "quote_id": 302574, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302609, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "electrolyte;302588", 
+    "quote_id": 302588, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  302609, 
+  [
+   1139, 
+   1458, 
+   {
+    "quote_id": 302588, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  302617, 
+  [
+   0, 
+   1387, 
+   {
+    "raw_data": "Dane;302598", 
+    "quote_id": 302598, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   53, 
+   140, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   319, 
+   379, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   585, 
+   662, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   947, 
+   1073, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   1188, 
+   1279, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   1474, 
+   1519, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302619, 
+  [
+   1723, 
+   1808, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302629, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Archangel;302609", 
+    "quote_id": 302609, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Archangel;302617", 
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   672, 
+   757, 
+   {
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   826, 
+   986, 
+   {
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   1081, 
+   1178, 
+   {
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   1428, 
+   1529, 
+   {
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   1600, 
+   1659, 
+   {
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302631, 
+  [
+   1866, 
+   2014, 
+   {
+    "quote_id": 302617, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302636, 
+  [
+   0, 
+   1392, 
+   {
+    "raw_data": "Dane;302631", 
+    "quote_id": 302631, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302636, 
+  [
+   3235, 
+   3326, 
+   {
+    "raw_data": "Dane", 
+    "quote_id": 302631, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302648, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "electrolyte;302600", 
+    "quote_id": 302600, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  302648, 
+  [
+   228, 
+   729, 
+   {}
+  ]
+ ], 
+ [
+  302648, 
+  [
+   735, 
+   1312, 
+   {
+    "quote_id": 302600, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  302650, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "T.Q;302570", 
+    "quote_id": 302570, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302672, 
+  [
+   76, 
+   313, 
+   {
+    "raw_data": "Forum Description", 
+    "unknown_author": "Forum Description"
+   }
+  ]
+ ], 
+ [
+  302674, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Steeeeve;302668", 
+    "quote_id": 302668, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  302676, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "T.Q;302674", 
+    "quote_id": 302674, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302676, 
+  [
+   257, 
+   494, 
+   {
+    "raw_data": "Forum Description", 
+    "unknown_author": "Forum Description"
+   }
+  ]
+ ], 
+ [
+  302677, 
+  [
+   76, 
+   313, 
+   {
+    "raw_data": "Forum Description", 
+    "unknown_author": "Forum Description"
+   }
+  ]
+ ], 
+ [
+  302554, 
+  [
+   74, 
+   296, 
+   {}
+  ]
+ ], 
+ [
+  302557, 
+  [
+   70, 
+   295, 
+   {}
+  ]
+ ], 
+ [
+  302562, 
+  [
+   70, 
+   358, 
+   {}
+  ]
+ ], 
+ [
+  302566, 
+  [
+   71, 
+   1052, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302567, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Dane;302562", 
+    "quote_id": 302562, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302569, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Dane;302566", 
+    "quote_id": 302566, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302570, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Archangel;302567", 
+    "quote_id": 302567, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302571, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Kronus;302569", 
+    "quote_id": 302569, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  302572, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Dane;302566", 
+    "quote_id": 302566, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302572, 
+  [
+   591, 
+   1472, 
+   {
+    "raw_data": "T.Q", 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302574, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Dane;302557", 
+    "quote_id": 302557, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302577, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Archangel;302574", 
+    "quote_id": 302574, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302579, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Dane;302554", 
+    "quote_id": 302554, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302581, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "T.Q;302577", 
+    "quote_id": 302577, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   425, 
+   486, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   666, 
+   780, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   941, 
+   1025, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   1037, 
+   1051, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   1089, 
+   1178, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   1260, 
+   1361, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   1386, 
+   1560, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   2165, 
+   2266, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   2387, 
+   2680, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   2779, 
+   3002, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   3798, 
+   3845, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   3972, 
+   4009, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   4114, 
+   4378, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   4596, 
+   4734, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   4904, 
+   4980, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   5010, 
+   5044, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   5120, 
+   5217, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   5576, 
+   5622, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302585, 
+  [
+   5704, 
+   5819, 
+   {
+    "quote_id": 302572, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302586, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Archangel;302581", 
+    "quote_id": 302581, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302588, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Archangel;302579", 
+    "quote_id": 302579, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

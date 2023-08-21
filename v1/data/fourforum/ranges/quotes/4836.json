@@ -1,0 +1,950 @@
+[
+ [
+  193033, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 192822, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  109068, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "chloe", 
+    "quote_id": 108923, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  115218, 
+  [
+   0, 
+   54, 
+   {
+    "quote_id": 108113, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  348179, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "chloe;108113", 
+    "quote_id": 108113, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  278037, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Ravin;268675", 
+    "quote_id": 268675, 
+    "author": "Ravin"
+   }
+  ]
+ ], 
+ [
+  278038, 
+  [
+   0, 
+   558, 
+   {
+    "raw_data": "thelmoose;278008", 
+    "quote_id": 278008, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  357915, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "chloe;108113", 
+    "quote_id": 108113, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  373788, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "simone;373778", 
+    "quote_id": 373778, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  373790, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Archangel;373788", 
+    "quote_id": 373788, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  357927, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Winston Smith;357921", 
+    "quote_id": 357921, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  351785, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Steamroller;351779", 
+    "quote_id": 351779, 
+    "author": "Steamroller"
+   }
+  ]
+ ], 
+ [
+  357939, 
+  [
+   0, 
+   51, 
+   {
+    "quote_id": 357921, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  183872, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "chloe", 
+    "quote_id": 108113, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  357953, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "Chuz Life;357927", 
+    "quote_id": 357927, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  357956, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Accipiter;357953", 
+    "quote_id": 357953, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  373833, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "gansao;373790", 
+    "quote_id": 373790, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  123984, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 123739, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357973, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Winston Smith;357945", 
+    "quote_id": 357945, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  351836, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "chloe;109280", 
+    "quote_id": 109280, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  278113, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "Winston Smith;278038", 
+    "quote_id": 278038, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  357989, 
+  [
+   0, 
+   436, 
+   {
+    "raw_data": "Jo Bennett;357973", 
+    "quote_id": 357973, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  357990, 
+  [
+   0, 
+   914, 
+   {
+    "raw_data": "antonia;357976", 
+    "quote_id": 357976, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357993, 
+  [
+   0, 
+   586, 
+   {
+    "raw_data": "antonia;357986", 
+    "quote_id": 357986, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357994, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Winston Smith;357993", 
+    "quote_id": 357993, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358006, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "antonia;357994", 
+    "quote_id": 357994, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  374036, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Mintaka;374016", 
+    "quote_id": 374016, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  121978, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "chloe", 
+    "quote_id": 108113, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  375643, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Winston Smith;375636", 
+    "quote_id": 375636, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  373869, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Archangel;373788", 
+    "quote_id": 373788, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  424557, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Easyrider;424482", 
+    "quote_id": 424482, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  358058, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Winston Smith;358006", 
+    "quote_id": 358006, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358059, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Winston Smith;358004", 
+    "quote_id": 358004, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  373936, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "simone;373869", 
+    "quote_id": 373869, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  268478, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "simone;264928", 
+    "quote_id": 264928, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  373958, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Archangel;373788", 
+    "quote_id": 373788, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  351779, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "simone;191549", 
+    "quote_id": 191549, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  264928, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Obvious Child;193033", 
+    "quote_id": 193033, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  373968, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 373788, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  373968, 
+  [
+   30, 
+   310, 
+   {
+    "raw_data": "Mintaka;373958", 
+    "quote_id": 373958, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  373968, 
+  [
+   432, 
+   767, 
+   {
+    "raw_data": "Archangel;373788", 
+    "quote_id": 373788, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  388834, 
+  [
+   0, 
+   798, 
+   {
+    "raw_data": "alienrighteousn;388739", 
+    "quote_id": 388739, 
+    "author": "alienrighteousn"
+   }
+  ]
+ ], 
+ [
+  373988, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Archangel;373968", 
+    "quote_id": 373968, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  373994, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Mintaka;373988", 
+    "quote_id": 373988, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  373997, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Mintaka;373988", 
+    "quote_id": 373988, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  373997, 
+  [
+   605, 
+   718, 
+   {
+    "quote_id": 373988, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  373997, 
+  [
+   924, 
+   1012, 
+   {
+    "quote_id": 373988, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  109302, 
+  [
+   206, 
+   927, 
+   {
+    "raw_data": "wikipedia", 
+    "unknown_author": "wikipedia"
+   }
+  ]
+ ], 
+ [
+  109302, 
+  [
+   1034, 
+   5126, 
+   {
+    "raw_data": "wikipedia", 
+    "unknown_author": "wikipedia"
+   }
+  ]
+ ], 
+ [
+  109302, 
+  [
+   5400, 
+   6616, 
+   {
+    "raw_data": "wikipedia", 
+    "unknown_author": "wikipedia"
+   }
+  ]
+ ], 
+ [
+  358135, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "antonia;358058", 
+    "quote_id": 358058, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  358138, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "antonia;358059", 
+    "quote_id": 358059, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  278270, 
+  [
+   0, 
+   567, 
+   {
+    "raw_data": "Winston Smith;278224", 
+    "quote_id": 278224, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  374016, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Archangel;373997", 
+    "quote_id": 373997, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  358657, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Winston Smith;358135", 
+    "quote_id": 358135, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358657, 
+  [
+   115, 
+   240, 
+   {
+    "raw_data": "Winston Smith;358138", 
+    "quote_id": 358138, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  375570, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "JPSartre12;373994", 
+    "quote_id": 373994, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  358164, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Winston Smith;358135", 
+    "quote_id": 358135, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358164, 
+  [
+   50, 
+   163, 
+   {
+    "quote_id": 358135, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358164, 
+  [
+   238, 
+   307, 
+   {
+    "quote_id": 358135, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358164, 
+  [
+   427, 
+   498, 
+   {
+    "quote_id": 358135, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  358164, 
+  [
+   515, 
+   570, 
+   {
+    "quote_id": 358135, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  192803, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 192424, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  268849, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Ravin;268675", 
+    "quote_id": 268675, 
+    "author": "Ravin"
+   }
+  ]
+ ], 
+ [
+  353065, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Jo Bennett;352164", 
+    "quote_id": 352164, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  109280, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 109068, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  109280, 
+  [
+   668, 
+   925, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 109068, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  109280, 
+  [
+   966, 
+   1041, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 109068, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  351047, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 348718, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  375634, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Mintaka;374510", 
+    "quote_id": 374510, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  375636, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Archangel;375634", 
+    "quote_id": 375634, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  122712, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Faithless623", 
+    "quote_id": 115218, 
+    "author": "Faithless623"
+   }
+  ]
+ ], 
+ [
+  122713, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "THEL", 
+    "quote_id": 122584, 
+    "author": "THEL"
+   }
+  ]
+ ], 
+ [
+  374127, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "Archangel;374036", 
+    "quote_id": 374036, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  108923, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108139, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  191366, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 190007, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  352164, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Archangel;351785", 
+    "quote_id": 351785, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  373713, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "chloe;108113", 
+    "quote_id": 108113, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  352220, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Jo Bennett;352164", 
+    "quote_id": 352164, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  278008, 
+  [
+   0, 
+   290, 
+   {
+    "quote_id": 277994, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  191999, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191549, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

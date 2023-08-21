@@ -1,0 +1,107 @@
+[
+ [
+  141028, 
+  [
+   0, 
+   1030, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 141023, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  141030, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 141027, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  141033, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 141028, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  141034, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 141031, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  141037, 
+  [
+   0, 
+   39, 
+   {
+    "quote_id": 141034, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  141038, 
+  [
+   0, 
+   500, 
+   {
+    "quote_id": 141037, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  141039, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 141031, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  141041, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 141039, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  141023, 
+  [
+   1350, 
+   1430, 
+   {
+    "raw_data": "5th amendment", 
+    "unknown_author": "5th amendment"
+   }
+  ]
+ ]
+]

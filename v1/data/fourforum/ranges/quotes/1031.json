@@ -1,0 +1,1440 @@
+[
+ [
+  23552, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23516, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23066, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23007, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23583, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23579, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21033, 
+  [
+   0, 
+   774, 
+   {
+    "raw_data": "10ite", 
+    "quote_id": 21010, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21034, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 21019, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23596, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23596, 
+  [
+   416, 
+   573, 
+   {
+    "quote_id": 23587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23596, 
+  [
+   741, 
+   823, 
+   {
+    "quote_id": 23587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22578, 
+  [
+   0, 
+   1185, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 17202, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  23608, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23605, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23608, 
+  [
+   145, 
+   205, 
+   {
+    "quote_id": 23605, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24124, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 24062, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23109, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23107, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23109, 
+  [
+   402, 
+   444, 
+   {}
+  ]
+ ], 
+ [
+  23109, 
+  [
+   534, 
+   657, 
+   {}
+  ]
+ ], 
+ [
+  23109, 
+  [
+   685, 
+   722, 
+   {
+    "quote_id": 23107, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23109, 
+  [
+   743, 
+   947, 
+   {
+    "quote_id": 23107, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21083, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 21073, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   0, 
+   536, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   757, 
+   903, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   1034, 
+   1319, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   1456, 
+   1601, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   1770, 
+   2006, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   2075, 
+   2290, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   2376, 
+   2518, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   2548, 
+   2878, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   2932, 
+   3032, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   3066, 
+   3195, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   3394, 
+   3525, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   3576, 
+   3938, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   3981, 
+   4150, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   4216, 
+   4328, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   4349, 
+   4974, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   4996, 
+   5118, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   5269, 
+   5503, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22650, 
+  [
+   5616, 
+   6283, 
+   {
+    "quote_id": 22638, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24701, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 24644, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24190, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 24170, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23172, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23122, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23172, 
+  [
+   186, 
+   490, 
+   {
+    "quote_id": 23122, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23172, 
+  [
+   673, 
+   867, 
+   {
+    "quote_id": 23122, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23700, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23615, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21147, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21033, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  23578, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23577, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23578, 
+  [
+   223, 
+   663, 
+   {
+    "quote_id": 23577, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24223, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 24170, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21177, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 17481, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   330, 
+   541, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   912, 
+   1033, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   1557, 
+   1590, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   1641, 
+   1695, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   1961, 
+   1972, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   2226, 
+   2238, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   2331, 
+   2434, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22715, 
+  [
+   2822, 
+   2962, 
+   {
+    "quote_id": 22650, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22720, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 22657, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  22721, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 22715, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23750, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23744, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23750, 
+  [
+   693, 
+   908, 
+   {
+    "quote_id": 23744, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21199, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "quote_id": 21177, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  21199, 
+  [
+   663, 
+   997, 
+   {
+    "quote_id": 21177, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  21199, 
+  [
+   1208, 
+   1481, 
+   {
+    "quote_id": 21177, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  22737, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22720, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22744, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 22737, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21209, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21197, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21731, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21461, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21731, 
+  [
+   504, 
+   1068, 
+   {
+    "quote_id": 21461, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21731, 
+  [
+   1142, 
+   1501, 
+   {
+    "quote_id": 21461, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21731, 
+  [
+   1751, 
+   1909, 
+   {
+    "quote_id": 21461, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21731, 
+  [
+   3264, 
+   3938, 
+   {
+    "quote_id": 21461, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21731, 
+  [
+   4135, 
+   4659, 
+   {}
+  ]
+ ], 
+ [
+  21227, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "quote_id": 21208, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  21227, 
+  [
+   468, 
+   615, 
+   {
+    "quote_id": 21208, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  21227, 
+  [
+   991, 
+   1208, 
+   {
+    "quote_id": 21208, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  23281, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23211, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23281, 
+  [
+   198, 
+   441, 
+   {
+    "quote_id": 23211, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21208, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21199, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21208, 
+  [
+   625, 
+   745, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21199, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  23328, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23322, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22823, 
+  [
+   0, 
+   61, 
+   {
+    "quote_id": 22715, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22823, 
+  [
+   122, 
+   184, 
+   {
+    "quote_id": 22715, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22833, 
+  [
+   0, 
+   1368, 
+   {
+    "raw_data": "Broker", 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23352, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23347, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23865, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23760, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23865, 
+  [
+   200, 
+   317, 
+   {
+    "quote_id": 23760, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23865, 
+  [
+   381, 
+   397, 
+   {
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23377, 
+  [
+   336, 
+   373, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23107, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23378, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23211, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17235, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 17233, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21334, 
+  [
+   0, 
+   1757, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21197, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  17241, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17235, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17241, 
+  [
+   73, 
+   204, 
+   {
+    "quote_id": 17235, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17241, 
+  [
+   681, 
+   920, 
+   {
+    "quote_id": 17235, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23905, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Broker", 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21361, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "10ite", 
+    "quote_id": 21334, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21361, 
+  [
+   631, 
+   877, 
+   {
+    "quote_id": 21334, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21361, 
+  [
+   1380, 
+   1832, 
+   {
+    "quote_id": 21334, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  23924, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23744, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23786, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23744, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22914, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 22775, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22916, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 22891, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23944, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23929, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23982, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23973, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21437, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21361, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21437, 
+  [
+   588, 
+   1085, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21361, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21437, 
+  [
+   1464, 
+   1878, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21361, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  23488, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23468, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22984, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22797, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22985, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 22978, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22985, 
+  [
+   574, 
+   698, 
+   {
+    "quote_id": 22978, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24522, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 24274, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24522, 
+  [
+   93, 
+   324, 
+   {
+    "quote_id": 24274, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17361, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17329, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17361, 
+  [
+   1146, 
+   1454, 
+   {
+    "quote_id": 17329, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21461, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "10ite", 
+    "quote_id": 21437, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21461, 
+  [
+   1491, 
+   1860, 
+   {
+    "quote_id": 21437, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21461, 
+  [
+   2214, 
+   2520, 
+   {
+    "quote_id": 21437, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21466, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "10ite", 
+    "quote_id": 21147, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21466, 
+  [
+   300, 
+   487, 
+   {
+    "quote_id": 21147, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  21466, 
+  [
+   922, 
+   1363, 
+   {
+    "quote_id": 21147, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  24029, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 24026, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  24029, 
+  [
+   178, 
+   254, 
+   {
+    "quote_id": 24026, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22521, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "10ite", 
+    "quote_id": 21731, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  22521, 
+  [
+   196, 
+   436, 
+   {
+    "quote_id": 21731, 
+    "author": "10ite"
+   }
+  ]
+ ], 
+ [
+  23551, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 23515, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23551, 
+  [
+   284, 
+   598, 
+   {
+    "quote_id": 23515, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  23551, 
+  [
+   639, 
+   1631, 
+   {
+    "quote_id": 23515, 
+    "author": "Broker"
+   }
+  ]
+ ]
+]

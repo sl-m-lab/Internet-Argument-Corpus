@@ -1,0 +1,176 @@
+[
+ [
+  376870, 
+  [
+   166, 
+   1315, 
+   {}
+  ]
+ ], 
+ [
+  376874, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "JPSartre12;376870", 
+    "quote_id": 376870, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376876, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "sinjin;376874", 
+    "quote_id": 376874, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  376909, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "sinjin;376906", 
+    "quote_id": 376906, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  376878, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "JPSartre12;376876", 
+    "quote_id": 376876, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  376912, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "OldSarge;376909", 
+    "quote_id": 376909, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  376912, 
+  [
+   113, 
+   185, 
+   {
+    "quote_id": 376909, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  376912, 
+  [
+   252, 
+   581, 
+   {
+    "quote_id": 376909, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  376914, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "sinjin;376912", 
+    "quote_id": 376912, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  376915, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "zsu2357;376913", 
+    "quote_id": 376913, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  376917, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "OldSarge;376914", 
+    "quote_id": 376914, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377124, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "OldSarge;376915", 
+    "quote_id": 376915, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  376902, 
+  [
+   0, 
+   668, 
+   {
+    "raw_data": "sinjin;376868", 
+    "quote_id": 376868, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  376906, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "OldSarge;376902", 
+    "quote_id": 376902, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  376906, 
+  [
+   341, 
+   369, 
+   {
+    "raw_data": "OldSarge;376837", 
+    "quote_id": 376837, 
+    "author": "OldSarge"
+   }
+  ]
+ ]
+]

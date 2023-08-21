@@ -1,0 +1,486 @@
+[
+ [
+  203008, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 202991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  202881, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "beervolcano", 
+    "quote_id": 202876, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  202884, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "beervolcano", 
+    "quote_id": 202876, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  202885, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "beervolcano", 
+    "quote_id": 202876, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  203281, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 203237, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  203287, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 203281, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  203287, 
+  [
+   171, 
+   265, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  203290, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 203287, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  203041, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 203008, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  203304, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 203290, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  203307, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 203304, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  203058, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 203041, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  203061, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 203008, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  202942, 
+  [
+   181, 
+   1192, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202942, 
+  [
+   1863, 
+   1908, 
+   {}
+  ]
+ ], 
+ [
+  202942, 
+  [
+   2345, 
+   2385, 
+   {}
+  ]
+ ], 
+ [
+  202942, 
+  [
+   2517, 
+   2567, 
+   {}
+  ]
+ ], 
+ [
+  202942, 
+  [
+   3439, 
+   3555, 
+   {}
+  ]
+ ], 
+ [
+  202942, 
+  [
+   3717, 
+   4010, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202884, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202942, 
+  [
+   4295, 
+   4496, 
+   {
+    "quote_id": 202884, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   702, 
+   1131, 
+   {
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   1491, 
+   1613, 
+   {
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   1774, 
+   2164, 
+   {
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   2579, 
+   3188, 
+   {}
+  ]
+ ], 
+ [
+  202944, 
+  [
+   4919, 
+   5298, 
+   {
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   5791, 
+   6459, 
+   {
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202944, 
+  [
+   7384, 
+   7622, 
+   {
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202945, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202946, 
+  [
+   0, 
+   4554, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202947, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 202945, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  202949, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202946, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202949, 
+  [
+   918, 
+   1139, 
+   {
+    "quote_id": 202946, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202949, 
+  [
+   1366, 
+   1443, 
+   {
+    "quote_id": 202946, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202950, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  203080, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 203058, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  202965, 
+  [
+   0, 
+   784, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 202950, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202968, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202949, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202970, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202968, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202978, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 202856, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  203237, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 203080, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  202856, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202839, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202991, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 202978, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

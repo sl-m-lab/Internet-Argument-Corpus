@@ -1,0 +1,633 @@
+[
+ [
+  56555, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56523, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56555, 
+  [
+   1602, 
+   2264, 
+   {
+    "quote_id": 56523, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56586, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56582, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56586, 
+  [
+   363, 
+   829, 
+   {}
+  ]
+ ], 
+ [
+  56586, 
+  [
+   1015, 
+   1661, 
+   {}
+  ]
+ ], 
+ [
+  56586, 
+  [
+   2050, 
+   4620, 
+   {
+    "quote_id": 56582, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56586, 
+  [
+   5014, 
+   5490, 
+   {
+    "quote_id": 56582, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56586, 
+  [
+   5803, 
+   6615, 
+   {
+    "quote_id": 56582, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56589, 
+  [
+   1818, 
+   2199, 
+   {
+    "quote_id": 56586, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56589, 
+  [
+   3246, 
+   3634, 
+   {
+    "quote_id": 56586, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56589, 
+  [
+   3792, 
+   4099, 
+   {
+    "quote_id": 56586, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56589, 
+  [
+   4291, 
+   5028, 
+   {
+    "quote_id": 56586, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85784, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 85738, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  56358, 
+  [
+   345, 
+   1487, 
+   {}
+  ]
+ ], 
+ [
+  82222, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 82157, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  82222, 
+  [
+   296, 
+   887, 
+   {}
+  ]
+ ], 
+ [
+  82222, 
+  [
+   891, 
+   1300, 
+   {}
+  ]
+ ], 
+ [
+  82222, 
+  [
+   1304, 
+   1642, 
+   {}
+  ]
+ ], 
+ [
+  82222, 
+  [
+   1646, 
+   1831, 
+   {}
+  ]
+ ], 
+ [
+  82222, 
+  [
+   1835, 
+   2197, 
+   {}
+  ]
+ ], 
+ [
+  56514, 
+  [
+   0, 
+   1017, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56427, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56514, 
+  [
+   1516, 
+   3571, 
+   {}
+  ]
+ ], 
+ [
+  85060, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 56520, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56520, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56515, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  82252, 
+  [
+   551, 
+   933, 
+   {}
+  ]
+ ], 
+ [
+  82252, 
+  [
+   1014, 
+   1687, 
+   {}
+  ]
+ ], 
+ [
+  56656, 
+  [
+   0, 
+   1815, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56589, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56656, 
+  [
+   6692, 
+   7267, 
+   {
+    "quote_id": 56589, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56656, 
+  [
+   7968, 
+   8312, 
+   {}
+  ]
+ ], 
+ [
+  56656, 
+  [
+   8407, 
+   8739, 
+   {
+    "quote_id": 56589, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56656, 
+  [
+   8857, 
+   9218, 
+   {
+    "quote_id": 56589, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  81492, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 81379, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  81494, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "lhunt", 
+    "quote_id": 81272, 
+    "author": "lhunt"
+   }
+  ]
+ ], 
+ [
+  85208, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 85060, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  56410, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56397, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  85211, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85208, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85854, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 85784, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  56671, 
+  [
+   544, 
+   705, 
+   {
+    "quote_id": 56656, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56671, 
+  [
+   1187, 
+   1343, 
+   {
+    "quote_id": 56656, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56671, 
+  [
+   1553, 
+   1863, 
+   {
+    "quote_id": 56656, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56672, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56671, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56672, 
+  [
+   369, 
+   925, 
+   {}
+  ]
+ ], 
+ [
+  56672, 
+  [
+   1015, 
+   1299, 
+   {
+    "quote_id": 56671, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56672, 
+  [
+   1368, 
+   1572, 
+   {
+    "quote_id": 56671, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56672, 
+  [
+   1850, 
+   2186, 
+   {
+    "quote_id": 56671, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56675, 
+  [
+   0, 
+   83, 
+   {
+    "quote_id": 56672, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56675, 
+  [
+   266, 
+   327, 
+   {
+    "quote_id": 56672, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56675, 
+  [
+   461, 
+   733, 
+   {
+    "quote_id": 56672, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56675, 
+  [
+   1816, 
+   2011, 
+   {
+    "quote_id": 56672, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56676, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "dsadevil", 
+    "quote_id": 56675, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56676, 
+  [
+   230, 
+   358, 
+   {
+    "quote_id": 56675, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56676, 
+  [
+   376, 
+   1455, 
+   {
+    "quote_id": 56675, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  56676, 
+  [
+   1989, 
+   2412, 
+   {
+    "quote_id": 56675, 
+    "author": "dsadevil"
+   }
+  ]
+ ], 
+ [
+  86119, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 85868, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  85738, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 85211, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  85868, 
+  [
+   0, 
+   1485, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 85738, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  81272, 
+  [
+   0, 
+   627, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  82429, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 82222, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85246, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 85211, 
+    "author": "bonddm"
+   }
+  ]
+ ]
+]

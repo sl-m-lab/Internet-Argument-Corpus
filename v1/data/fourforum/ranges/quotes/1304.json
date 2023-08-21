@@ -1,0 +1,785 @@
+[
+ [
+  24448, 
+  [
+   0, 
+   717, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 24444, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  32410, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 32397, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  32410, 
+  [
+   359, 
+   485, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 32397, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  32410, 
+  [
+   2187, 
+   2297, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 32397, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  32410, 
+  [
+   2788, 
+   2844, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 32397, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  32412, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32410, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32806, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32371, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32806, 
+  [
+   176, 
+   341, 
+   {
+    "quote_id": 32371, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32806, 
+  [
+   590, 
+   762, 
+   {
+    "quote_id": 32371, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32806, 
+  [
+   815, 
+   1037, 
+   {
+    "quote_id": 32371, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32497, 
+  [
+   0, 
+   1973, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32493, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32811, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32806, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32811, 
+  [
+   394, 
+   481, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32806, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32811, 
+  [
+   679, 
+   745, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32806, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32811, 
+  [
+   920, 
+   1007, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32806, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32811, 
+  [
+   1374, 
+   1417, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32806, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32811, 
+  [
+   1510, 
+   1538, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32806, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32814, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32811, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32814, 
+  [
+   406, 
+   594, 
+   {
+    "quote_id": 32811, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32814, 
+  [
+   910, 
+   1077, 
+   {
+    "quote_id": 32811, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32814, 
+  [
+   1177, 
+   1536, 
+   {
+    "quote_id": 32811, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32814, 
+  [
+   1700, 
+   1785, 
+   {
+    "quote_id": 32811, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32814, 
+  [
+   1894, 
+   2122, 
+   {
+    "quote_id": 32811, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32733, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32510, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32371, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32363, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32371, 
+  [
+   299, 
+   424, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32363, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32820, 
+  [
+   0, 
+   534, 
+   {
+    "raw_data": "Mr Jack", 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32820, 
+  [
+   1165, 
+   1454, 
+   {
+    "raw_data": "Mr Jack", 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32820, 
+  [
+   1736, 
+   1835, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32814, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32510, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 32497, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  24514, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 24448, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  32709, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32480, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32709, 
+  [
+   556, 
+   958, 
+   {
+    "quote_id": 32480, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32709, 
+  [
+   1183, 
+   1702, 
+   {
+    "quote_id": 32480, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32709, 
+  [
+   1814, 
+   1939, 
+   {
+    "quote_id": 32480, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32709, 
+  [
+   2026, 
+   2438, 
+   {
+    "quote_id": 32480, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32709, 
+  [
+   2594, 
+   2780, 
+   {
+    "quote_id": 32480, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32454, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32383, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32456, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 32412, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  32459, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32456, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32467, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 32459, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  32889, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 32853, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  32731, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32709, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32731, 
+  [
+   66, 
+   285, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32709, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32731, 
+  [
+   1486, 
+   1592, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32709, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32731, 
+  [
+   2814, 
+   3103, 
+   {
+    "raw_data": "Gormless", 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32480, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32454, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32480, 
+  [
+   1478, 
+   1693, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32454, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32480, 
+  [
+   1828, 
+   1936, 
+   {
+    "raw_data": "Gormless", 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32737, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 32733, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  32739, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32737, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32487, 
+  [
+   0, 
+   1000, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32467, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32363, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "thebootfitter", 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32364, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "thebootfitter", 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  24431, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "SmokingRabbit", 
+    "quote_id": 24414, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  32369, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32364, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32373, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32369, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32376, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32373, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32376, 
+  [
+   1560, 
+   1727, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32373, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32376, 
+  [
+   2207, 
+   2385, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32373, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32377, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "thebootfitter", 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32380, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32377, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32381, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 32380, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32381, 
+  [
+   400, 
+   495, 
+   {
+    "quote_id": 32380, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  32382, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32377, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32383, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32381, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  32383, 
+  [
+   357, 
+   452, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 32381, 
+    "author": "Gormless"
+   }
+  ]
+ ]
+]

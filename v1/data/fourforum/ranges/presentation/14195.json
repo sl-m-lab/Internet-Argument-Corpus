@@ -1,0 +1,54 @@
+[
+ [
+  400130, 
+  [
+   565, 
+   633, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  400130, 
+  [
+   565, 
+   633, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  400396, 
+  [
+   106, 
+   109, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  400396, 
+  [
+   77, 
+   133, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  400396, 
+  [
+   77, 
+   133, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

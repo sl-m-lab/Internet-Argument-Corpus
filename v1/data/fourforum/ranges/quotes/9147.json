@@ -1,0 +1,795 @@
+[
+ [
+  240121, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Easyrider;240111", 
+    "quote_id": 240111, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238678, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Matthew S;238673", 
+    "quote_id": 238673, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  239622, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Shooterandproud;239595", 
+    "quote_id": 239595, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  240172, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "Easyrider;240142", 
+    "quote_id": 240142, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238295, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "Easyrider;238244", 
+    "quote_id": 238244, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  239628, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "obvious_child;239601", 
+    "quote_id": 239601, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239554, 
+  [
+   0, 
+   573, 
+   {
+    "raw_data": "obvious_child;239448", 
+    "quote_id": 239448, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238734, 
+  [
+   0, 
+   651, 
+   {
+    "raw_data": "peteratwar;238712", 
+    "quote_id": 238712, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  238230, 
+  [
+   58, 
+   4697, 
+   {}
+  ]
+ ], 
+ [
+  239896, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "INRI;239804", 
+    "quote_id": 239804, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239898, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "trebor;239669", 
+    "quote_id": 239669, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  238747, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "sinjin;238716", 
+    "quote_id": 238716, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  240029, 
+  [
+   0, 
+   646, 
+   {
+    "raw_data": "DrNo;239917", 
+    "quote_id": 239917, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  238502, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "thelmoose;238452", 
+    "quote_id": 238452, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  240241, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "obvious_child;240172", 
+    "quote_id": 240172, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238249, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "Easyrider;238244", 
+    "quote_id": 238244, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238508, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Matthew S;238502", 
+    "quote_id": 238502, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  239917, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Matthew S;239839", 
+    "quote_id": 239839, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  239536, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Matthew S;239454", 
+    "quote_id": 239454, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  239454, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "obvious_child;239448", 
+    "quote_id": 239448, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239415, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Easyrider;238406", 
+    "quote_id": 238406, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238712, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "thelmoose;238709", 
+    "quote_id": 238709, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  239804, 
+  [
+   0, 
+   111, 
+   {
+    "quote_id": 239801, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  238525, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "peteratwar;238500", 
+    "quote_id": 238500, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  239669, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Easyrider;239628", 
+    "quote_id": 239628, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238528, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "peteratwar;238508", 
+    "quote_id": 238508, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  238530, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "thelmoose;238525", 
+    "quote_id": 238525, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "jyoshu;239622", 
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   102, 
+   144, 
+   {
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   190, 
+   246, 
+   {
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   362, 
+   514, 
+   {
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   967, 
+   1063, 
+   {
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   1579, 
+   1663, 
+   {
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239627, 
+  [
+   1684, 
+   1775, 
+   {
+    "quote_id": 239622, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  239940, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "obvious_child;239898", 
+    "quote_id": 239898, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238406, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Jo Bennett;238295", 
+    "quote_id": 238295, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239815, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Easyrider;239785", 
+    "quote_id": 239785, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  239815, 
+  [
+   85, 
+   153, 
+   {
+    "raw_data": "Easyrider;239785", 
+    "quote_id": 239785, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238665, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "thelmoose;238541", 
+    "quote_id": 238541, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  238541, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "peteratwar;238530", 
+    "quote_id": 238530, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  239823, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "INRI;239804", 
+    "quote_id": 239804, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  238673, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "peteratwar;238665", 
+    "quote_id": 238665, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  240142, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "obvious_child;240121", 
+    "quote_id": 240121, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238551, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "Easyrider;238244", 
+    "quote_id": 238244, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238423, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Easyrider;238406", 
+    "quote_id": 238406, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  239448, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Shooterandproud;239415", 
+    "quote_id": 239415, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  238500, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "thelmoose;238452", 
+    "quote_id": 238452, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  239836, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Matthew S;239823", 
+    "quote_id": 239823, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  238686, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "peteratwar;238665", 
+    "quote_id": 238665, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  239839, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "peteratwar;239836", 
+    "quote_id": 239836, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  239969, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Easyrider;239940", 
+    "quote_id": 239940, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238691, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "peteratwar;238688", 
+    "quote_id": 238688, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  239974, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "obvious_child;239969", 
+    "quote_id": 239969, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238442, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Matthew S;238423", 
+    "quote_id": 238423, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  239595, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Easyrider;239554", 
+    "quote_id": 239554, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238317, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Jo Bennett;238295", 
+    "quote_id": 238295, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  240111, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "obvious_child;239994", 
+    "quote_id": 239994, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239601, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Easyrider;239554", 
+    "quote_id": 239554, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238450, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Easyrider;238442", 
+    "quote_id": 238442, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  238452, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Matthew S;238450", 
+    "quote_id": 238450, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  238709, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "peteratwar;238688", 
+    "quote_id": 238688, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  239785, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "jitobear;239743", 
+    "quote_id": 239743, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  238456, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Jo Bennett;238295", 
+    "quote_id": 238295, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239801, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Easyrider;239785", 
+    "quote_id": 239785, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  239994, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Hi_Its_Me;239974", 
+    "quote_id": 239974, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238716, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "peteratwar;238688", 
+    "quote_id": 238688, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  240253, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Easyrider;240241", 
+    "quote_id": 240241, 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

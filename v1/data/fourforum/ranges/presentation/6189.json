@@ -1,0 +1,84 @@
+[
+ [
+  155143, 
+  [
+   17, 
+   19, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  155143, 
+  [
+   1045, 
+   1170, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  155150, 
+  [
+   17, 
+   19, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  155150, 
+  [
+   1434, 
+   1559, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  155150, 
+  [
+   266, 
+   1559, 
+   {
+    "category": "color", 
+    "raw_data": "DarkSlateBlue"
+   }
+  ]
+ ], 
+ [
+  155082, 
+  [
+   380, 
+   382, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  155082, 
+  [
+   1797, 
+   1922, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  155082, 
+  [
+   629, 
+   1922, 
+   {
+    "category": "color", 
+    "raw_data": "DarkSlateBlue"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,777 @@
+[
+ [
+  204928, 
+  [
+   203, 
+   336, 
+   {}
+  ]
+ ], 
+ [
+  205555, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 205552, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  205444, 
+  [
+   0, 
+   467, 
+   {}
+  ]
+ ], 
+ [
+  204933, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 204930, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205062, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205055, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205193, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205168, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  205066, 
+  [
+   0, 
+   832, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205062, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  204946, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "DamEtel", 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  205427, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205423, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  204948, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 204930, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205195, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205178, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205116, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205093, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205080, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 205073, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  205082, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205080, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205083, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "trebor", 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  205085, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205083, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205317, 
+  [
+   0, 
+   794, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205306, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205168, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205164, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205517, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205508, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205093, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 205085, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  204970, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 204948, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  204970, 
+  [
+   992, 
+   1078, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 204948, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205100, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 205085, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  205171, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 205169, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  205279, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205193, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205112, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205093, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  204988, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  204989, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 204987, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205120, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205093, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205378, 
+  [
+   0, 
+   794, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205306, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205123, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205120, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205508, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 205444, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  205254, 
+  [
+   0, 
+   494, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205245, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205175, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205171, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205261, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205164, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205446, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 205444, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  205263, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 205169, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  205423, 
+  [
+   0, 
+   630, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 205418, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  205523, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 205517, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  205141, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205112, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  205143, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205141, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205146, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 205143, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  205147, 
+  [
+   0, 
+   748, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 205123, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205306, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205161, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 205148, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  205545, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 205543, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  205157, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205147, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205031, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 204987, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205160, 
+  [
+   0, 
+   740, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205157, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205033, 
+  [
+   0, 
+   760, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 204988, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205418, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205378, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205543, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205523, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205164, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 205160, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  205549, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 205548, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  205038, 
+  [
+   0, 
+   116, 
+   {}
+  ]
+ ], 
+ [
+  205038, 
+  [
+   158, 
+   265, 
+   {}
+  ]
+ ], 
+ [
+  205038, 
+  [
+   315, 
+   412, 
+   {}
+  ]
+ ], 
+ [
+  205245, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205195, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205040, 
+  [
+   0, 
+   229, 
+   {}
+  ]
+ ], 
+ [
+  205043, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 205040, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  205246, 
+  [
+   0, 
+   782, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 205194, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  205047, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 205033, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  205048, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205044, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205178, 
+  [
+   0, 
+   474, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 205175, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  205051, 
+  [
+   0, 
+   240, 
+   {
+    "quote_id": 205044, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205182, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205178, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205055, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205047, 
+    "author": "thelmoose"
+   }
+  ]
+ ]
+]

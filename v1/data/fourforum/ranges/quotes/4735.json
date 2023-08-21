@@ -1,0 +1,486 @@
+[
+ [
+  104709, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 104526, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  104709, 
+  [
+   621, 
+   775, 
+   {
+    "quote_id": 104526, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  104709, 
+  [
+   852, 
+   1061, 
+   {
+    "quote_id": 104526, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  104709, 
+  [
+   1081, 
+   1257, 
+   {
+    "quote_id": 104526, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  104709, 
+  [
+   1309, 
+   1639, 
+   {
+    "quote_id": 104526, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  104711, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104555, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104457, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104413, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  104330, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 104239, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104217, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Joe Brummer", 
+    "quote_id": 104191, 
+    "unknown_author": "Joe Brummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  104473, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104413, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  104473, 
+  [
+   0, 
+   595, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104348, 
+  [
+   0, 
+   845, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 104314, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  104349, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 104217, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  104480, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104473, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  104739, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104732, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104285, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104732, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104711, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104477, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104375, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104239, 
+  [
+   0, 
+   642, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 104181, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104754, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104732, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104500, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104413, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  104501, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104477, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104502, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104375, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104285, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104506, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104500, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104508, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104503, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104381, 
+  [
+   0, 
+   845, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 104314, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  104518, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104502, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  104519, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104512, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104503, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 104480, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104526, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104381, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104152, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104133, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104155, 
+  [
+   0, 
+   786, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104133, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104156, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104149, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104413, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104381, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104167, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "trebor", 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104555, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104501, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104173, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 104155, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104173, 
+  [
+   426, 
+   671, 
+   {
+    "quote_id": 104155, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104181, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104173, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104191, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104149, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ]
+]

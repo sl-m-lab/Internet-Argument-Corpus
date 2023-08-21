@@ -1,0 +1,44 @@
+[
+ [
+  283008, 
+  [
+   86, 
+   100, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  283008, 
+  [
+   631, 
+   646, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  283011, 
+  [
+   565, 
+   586, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  283011, 
+  [
+   738, 
+   746, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;red&quot;"
+   }
+  ]
+ ]
+]

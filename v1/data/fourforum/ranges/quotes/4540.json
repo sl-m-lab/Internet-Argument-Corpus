@@ -1,0 +1,38 @@
+[
+ [
+  98506, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 98430, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  98516, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 98506, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  98532, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 98516, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

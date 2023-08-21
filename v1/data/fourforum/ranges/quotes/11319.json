@@ -1,0 +1,405 @@
+[
+ [
+  314372, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "chester;314360", 
+    "quote_id": 314360, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314373, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "chester;314360", 
+    "quote_id": 314360, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314374, 
+  [
+   0, 
+   646, 
+   {
+    "raw_data": "Charliegone;314372", 
+    "quote_id": 314372, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  314507, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Symbiote;314493", 
+    "quote_id": 314493, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  314508, 
+  [
+   0, 
+   107, 
+   {
+    "quote_id": 314507, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314508, 
+  [
+   429, 
+   577, 
+   {
+    "quote_id": 314507, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314508, 
+  [
+   786, 
+   983, 
+   {
+    "quote_id": 314507, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314510, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "chester;314507", 
+    "quote_id": 314507, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314514, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "chester;314507", 
+    "quote_id": 314507, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314522, 
+  [
+   0, 
+   1235, 
+   {
+    "raw_data": "Galileo;314514", 
+    "quote_id": 314514, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  314778, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Galileo;314607", 
+    "quote_id": 314607, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  314532, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Bryan;314526", 
+    "quote_id": 314526, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  334501, 
+  [
+   0, 
+   1241, 
+   {
+    "raw_data": "Galileo;314514", 
+    "quote_id": 314514, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  314408, 
+  [
+   80, 
+   2623, 
+   {}
+  ]
+ ], 
+ [
+  314409, 
+  [
+   103, 
+   3212, 
+   {}
+  ]
+ ], 
+ [
+  314794, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Brady;314409", 
+    "quote_id": 314409, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   355, 
+   648, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   5011, 
+   5250, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   5337, 
+   5481, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   5686, 
+   5801, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   5938, 
+   6105, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334900, 
+  [
+   6343, 
+   6478, 
+   {
+    "raw_data": "Joel_Henderson;334750", 
+    "quote_id": 334750, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334750, 
+  [
+   69, 
+   984, 
+   {
+    "quote_id": 334674, 
+    "author": "hansberrym"
+   }
+  ]
+ ], 
+ [
+  334750, 
+  [
+   1951, 
+   5882, 
+   {}
+  ]
+ ], 
+ [
+  314780, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Brady;314680", 
+    "quote_id": 314680, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  334347, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Galileo;334327", 
+    "quote_id": 334327, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  334347, 
+  [
+   875, 
+   1073, 
+   {
+    "quote_id": 334327, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  334410, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Galileo;318581", 
+    "quote_id": 318581, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  314597, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "chester;314532", 
+    "quote_id": 314532, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314607, 
+  [
+   0, 
+   932, 
+   {
+    "raw_data": "DrNo;314522", 
+    "quote_id": 314522, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  314608, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "chester;314532", 
+    "quote_id": 314532, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314484, 
+  [
+   233, 
+   1225, 
+   {}
+  ]
+ ], 
+ [
+  314484, 
+  [
+   2436, 
+   3747, 
+   {}
+  ]
+ ], 
+ [
+  318581, 
+  [
+   252, 
+   924, 
+   {}
+  ]
+ ], 
+ [
+  314360, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "JPSartre12;314330", 
+    "quote_id": 314330, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

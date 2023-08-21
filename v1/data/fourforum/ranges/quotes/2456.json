@@ -1,0 +1,1163 @@
+[
+ [
+  54208, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 54129, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  64903, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64561, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   0, 
+   99, 
+   {
+    "quote_id": 61574, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   155, 
+   343, 
+   {
+    "quote_id": 61574, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   349, 
+   530, 
+   {
+    "raw_data": "duo_maxwell", 
+    "quote_id": 61504, 
+    "unknown_author": "duo_maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   536, 
+   787, 
+   {
+    "quote_id": 61574, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   1173, 
+   1303, 
+   {
+    "quote_id": 61574, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   1469, 
+   1520, 
+   {
+    "quote_id": 61574, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61576, 
+  [
+   1576, 
+   1664, 
+   {}
+  ]
+ ], 
+ [
+  62729, 
+  [
+   0, 
+   36, 
+   {
+    "quote_id": 62578, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64396, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "cxmoorex", 
+    "quote_id": 64313, 
+    "author": "cxmoorex"
+   }
+  ]
+ ], 
+ [
+  65294, 
+  [
+   0, 
+   28, 
+   {
+    "quote_id": 65236, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  65294, 
+  [
+   112, 
+   168, 
+   {
+    "quote_id": 65236, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  55059, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 54208, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  65366, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64407, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 63754, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  64915, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 64912, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  64346, 
+  [
+   0, 
+   42, 
+   {
+    "quote_id": 63812, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  63522, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 62578, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65627, 
+  [
+   0, 
+   984, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65627, 
+  [
+   1759, 
+   1946, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65606, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  61608, 
+  [
+   0, 
+   64, 
+   {
+    "quote_id": 61587, 
+    "author": "CCR1994"
+   }
+  ]
+ ], 
+ [
+  65066, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 65040, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  61868, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 61842, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   84, 
+   316, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   416, 
+   711, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   721, 
+   879, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   883, 
+   1035, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   1366, 
+   2201, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   2758, 
+   2939, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   2943, 
+   3140, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   3850, 
+   4106, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   4159, 
+   4200, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   4204, 
+   4429, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   4639, 
+   4776, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   4780, 
+   4892, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   5651, 
+   5900, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   6315, 
+   6627, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   7040, 
+   7177, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   7181, 
+   7375, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   7597, 
+   7735, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   8556, 
+   8814, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 65661, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   8818, 
+   9292, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   9662, 
+   10095, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   10430, 
+   10830, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   10834, 
+   11003, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   11123, 
+   11260, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65697, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65776, 
+  [
+   11451, 
+   11554, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  64979, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64969, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  62383, 
+  [
+   0, 
+   61, 
+   {
+    "quote_id": 62330, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  62383, 
+  [
+   418, 
+   495, 
+   {
+    "quote_id": 62330, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  62000, 
+  [
+   0, 
+   131, 
+   {
+    "quote_id": 61948, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  62120, 
+  [
+   0, 
+   65, 
+   {
+    "quote_id": 62057, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  65462, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 65438, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64313, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 54106, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  61504, 
+  [
+   308, 
+   429, 
+   {
+    "quote_id": 61489, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61504, 
+  [
+   721, 
+   962, 
+   {
+    "quote_id": 61489, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61504, 
+  [
+   1795, 
+   2065, 
+   {
+    "quote_id": 61489, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  61504, 
+  [
+   2377, 
+   2494, 
+   {
+    "quote_id": 61489, 
+    "author": "nerfed"
+   }
+  ]
+ ], 
+ [
+  63812, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "emclean", 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  65606, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 65462, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  61511, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 61504, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  63820, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 63754, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  64994, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64990, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   0, 
+   79, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   618, 
+   776, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   1773, 
+   1953, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   2415, 
+   2455, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   2688, 
+   2825, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   3648, 
+   3784, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   4131, 
+   4388, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  65697, 
+  [
+   5313, 
+   5712, 
+   {
+    "quote_id": 65661, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  64595, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64561, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  61652, 
+  [
+   0, 
+   50, 
+   {
+    "quote_id": 61648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  61652, 
+  [
+   148, 
+   274, 
+   {
+    "quote_id": 61648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  54106, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Darkest Shadow", 
+    "quote_id": 51689, 
+    "author": "Darkest Shadow"
+   }
+  ]
+ ], 
+ [
+  63738, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 63522, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  64990, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 64979, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  54112, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Darkest Shadow", 
+    "quote_id": 51689, 
+    "author": "Darkest Shadow"
+   }
+  ]
+ ], 
+ [
+  54113, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Darkest Shadow", 
+    "quote_id": 51689, 
+    "author": "Darkest Shadow"
+   }
+  ]
+ ], 
+ [
+  54114, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 54111, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  54116, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 54114, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  64997, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64995, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65386, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 65378, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  54126, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 54122, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65648, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   57, 
+   549, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65648, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   634, 
+   1016, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65648, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   1180, 
+   1492, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65648, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   1678, 
+   1699, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65648, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   1745, 
+   1913, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65648, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   2056, 
+   2481, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65661, 
+  [
+   2623, 
+   2998, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65648, 
+  [
+   0, 
+   929, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  54129, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 54126, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  61587, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 61576, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65236, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 65040, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  62330, 
+  [
+   86, 
+   210, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 61842, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65378, 
+  [
+   0, 
+   105, 
+   {
+    "quote_id": 65366, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ]
+]

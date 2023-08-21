@@ -1,0 +1,159 @@
+[
+ [
+  333537, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Charliegone;333517", 
+    "quote_id": 333517, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  333517, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "snakespit;333412", 
+    "quote_id": 333412, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  333412, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "chester;333405", 
+    "quote_id": 333405, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  333261, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "simone;333005", 
+    "quote_id": 333005, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332874, 
+  [
+   156, 
+   390, 
+   {}
+  ]
+ ], 
+ [
+  333610, 
+  [
+   0, 
+   1080, 
+   {
+    "raw_data": "snakespit;333537", 
+    "quote_id": 333537, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  333005, 
+  [
+   25, 
+   1253, 
+   {}
+  ]
+ ], 
+ [
+  332880, 
+  [
+   439, 
+   511, 
+   {
+    "quote_id": 332874, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332887, 
+  [
+   0, 
+   77, 
+   {
+    "quote_id": 332880, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  332890, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "simone;332887", 
+    "quote_id": 332887, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332890, 
+  [
+   234, 
+   240, 
+   {
+    "quote_id": 332887, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333039, 
+  [
+   0, 
+   630, 
+   {
+    "raw_data": "simone;333005", 
+    "quote_id": 333005, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333405, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "snakespit;333301", 
+    "quote_id": 333301, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  333407, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "chester;333405", 
+    "quote_id": 333405, 
+    "author": "chester"
+   }
+  ]
+ ]
+]

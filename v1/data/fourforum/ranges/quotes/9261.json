@@ -1,0 +1,122 @@
+[
+ [
+  242985, 
+  [
+   0, 
+   498, 
+   {
+    "raw_data": "georged;242645", 
+    "quote_id": 242645, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  242634, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "daewoo;241817", 
+    "quote_id": 241817, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  243087, 
+  [
+   0, 
+   1822, 
+   {
+    "raw_data": "Judeau;243060", 
+    "quote_id": 243060, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  242992, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "Judeau;242985", 
+    "quote_id": 242985, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  242642, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Judeau;242634", 
+    "quote_id": 242634, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  242644, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "georged;242642", 
+    "quote_id": 242642, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  241750, 
+  [
+   250, 
+   606, 
+   {}
+  ]
+ ], 
+ [
+  241817, 
+  [
+   73, 
+   358, 
+   {}
+  ]
+ ], 
+ [
+  241817, 
+  [
+   364, 
+   813, 
+   {}
+  ]
+ ], 
+ [
+  243060, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "georged;242992", 
+    "quote_id": 242992, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  243060, 
+  [
+   376, 
+   849, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 242992, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

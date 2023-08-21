@@ -1,0 +1,352 @@
+[
+ [
+  415744, 
+  [
+   19, 
+   938, 
+   {
+    "raw_data": "Iuris;304442", 
+    "quote_id": 304442, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  415746, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Iuris;415744", 
+    "quote_id": 415744, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  305027, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Ripskar;305020", 
+    "quote_id": 305020, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  304397, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "isly ilwott;304380", 
+    "quote_id": 304380, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  304546, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "unkerpaulie;304395", 
+    "quote_id": 304395, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  304931, 
+  [
+   0, 
+   1057, 
+   {
+    "raw_data": "unkerpaulie;304878", 
+    "quote_id": 304878, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  304625, 
+  [
+   0, 
+   1025, 
+   {
+    "raw_data": "Peeling;304454", 
+    "quote_id": 304454, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  304681, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Penfold;304666", 
+    "quote_id": 304666, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  306315, 
+  [
+   159, 
+   475, 
+   {}
+  ]
+ ], 
+ [
+  415926, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "simone;415851", 
+    "quote_id": 415851, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  306231, 
+  [
+   1078, 
+   1376, 
+   {
+    "quote_id": 305560, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  415937, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Iuris;415751", 
+    "quote_id": 415751, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  305035, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Ripskar;305020", 
+    "quote_id": 305020, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  304454, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "unkerpaulie;304219", 
+    "quote_id": 304219, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  415820, 
+  [
+   0, 
+   948, 
+   {}
+  ]
+ ], 
+ [
+  415820, 
+  [
+   954, 
+   2161, 
+   {
+    "raw_data": "unkerpaulie;415140", 
+    "quote_id": 415140, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  416013, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "BIRDFLU;415937", 
+    "quote_id": 415937, 
+    "author": "BIRDFLU"
+   }
+  ]
+ ], 
+ [
+  304721, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "electrolyte;304681", 
+    "quote_id": 304681, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  306318, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Ripskar;306315", 
+    "quote_id": 306315, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  415960, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Iuris;415926", 
+    "quote_id": 415926, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  415140, 
+  [
+   0, 
+   919, 
+   {
+    "raw_data": "Iuris;304442", 
+    "quote_id": 304442, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  342106, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "pro-con;342099", 
+    "quote_id": 342099, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  304220, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "unkerpaulie;304219", 
+    "quote_id": 304219, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  304442, 
+  [
+   0, 
+   261, 
+   {
+    "quote_id": 304395, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  415851, 
+  [
+   0, 
+   919, 
+   {
+    "raw_data": "unkerpaulie;304219", 
+    "quote_id": 304219, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  304878, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Penfold;304666", 
+    "quote_id": 304666, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  304626, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "obvious_child;304398", 
+    "quote_id": 304398, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  304630, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "unkerpaulie;304626", 
+    "quote_id": 304626, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  415743, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Iuris;415148", 
+    "quote_id": 415148, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  304380, 
+  [
+   0, 
+   918, 
+   {
+    "raw_data": "unkerpaulie;304219", 
+    "quote_id": 304219, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ]
+]

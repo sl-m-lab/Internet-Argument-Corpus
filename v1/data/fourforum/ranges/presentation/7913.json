@@ -1,0 +1,88 @@
+[
+ [
+  211040, 
+  [
+   104, 
+   105, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   105, 
+   106, 
+   {
+    "category": "color", 
+    "raw_data": "gold"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   106, 
+   107, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   107, 
+   108, 
+   {
+    "category": "color", 
+    "raw_data": "gold"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   108, 
+   109, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   104, 
+   109, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   104, 
+   109, 
+   {
+    "category": "size", 
+    "raw_data": "5"
+   }
+  ]
+ ], 
+ [
+  211040, 
+  [
+   104, 
+   109, 
+   {
+    "category": "center"
+   }
+  ]
+ ]
+]

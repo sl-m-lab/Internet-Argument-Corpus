@@ -1,0 +1,814 @@
+[
+ [
+  233523, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "epaphras_faith;233452", 
+    "quote_id": 233452, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  233523, 
+  [
+   397, 
+   623, 
+   {
+    "quote_id": 233452, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  233523, 
+  [
+   948, 
+   1106, 
+   {
+    "quote_id": 233452, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  233986, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Winston Smith;233939", 
+    "quote_id": 233939, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  233485, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "Adept;233438", 
+    "quote_id": 233438, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  233999, 
+  [
+   21, 
+   67, 
+   {
+    "quote_id": 233184, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  233999, 
+  [
+   485, 
+   634, 
+   {
+    "quote_id": 233437, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  233999, 
+  [
+   743, 
+   882, 
+   {
+    "quote_id": 233451, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  233999, 
+  [
+   952, 
+   1093, 
+   {
+    "quote_id": 233452, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  233999, 
+  [
+   1373, 
+   1438, 
+   {
+    "quote_id": 233485, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  233434, 
+  [
+   0, 
+   243, 
+   {
+    "quote_id": 233429, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  232771, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "thelmoose;232762", 
+    "quote_id": 232762, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233500, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Winston Smith;233485", 
+    "quote_id": 233485, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  233117, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "INRI;232524", 
+    "quote_id": 232524, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  235040, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "trebor;233986", 
+    "quote_id": 233986, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  232618, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Love Never Dies;232575", 
+    "quote_id": 232575, 
+    "author": "Love Never Dies"
+   }
+  ]
+ ], 
+ [
+  235053, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Winston Smith;235026", 
+    "quote_id": 235026, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  231983, 
+  [
+   529, 
+   657, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   665, 
+   710, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   716, 
+   835, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   841, 
+   879, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   885, 
+   939, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   945, 
+   1019, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   1025, 
+   1095, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   1101, 
+   1224, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   1230, 
+   1268, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   1274, 
+   1379, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   1385, 
+   1429, 
+   {}
+  ]
+ ], 
+ [
+  231983, 
+  [
+   1437, 
+   1492, 
+   {}
+  ]
+ ], 
+ [
+  232752, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "thelmoose;232416", 
+    "quote_id": 232416, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233397, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "INRI;233395", 
+    "quote_id": 233395, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  234953, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Winston Smith;234942", 
+    "quote_id": 234942, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  233568, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "INRI;233539", 
+    "quote_id": 233539, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  232762, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "epaphras_faith;232752", 
+    "quote_id": 232752, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  233403, 
+  [
+   0, 
+   98, 
+   {
+    "quote_id": 233397, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  233403, 
+  [
+   148, 
+   224, 
+   {
+    "quote_id": 233402, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233532, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "sinjin;233523", 
+    "quote_id": 233523, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  233532, 
+  [
+   97, 
+   418, 
+   {
+    "raw_data": "sinjin;233523", 
+    "quote_id": 233523, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  233532, 
+  [
+   585, 
+   811, 
+   {
+    "raw_data": "sinjin;233523", 
+    "quote_id": 233523, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  232650, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "sinjin;232618", 
+    "quote_id": 232618, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  235071, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Winston Smith;235026", 
+    "quote_id": 235026, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  233538, 
+  [
+   0, 
+   687, 
+   {
+    "raw_data": "epaphras_faith;233532", 
+    "quote_id": 233532, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  233414, 
+  [
+   0, 
+   484, 
+   {
+    "raw_data": "INRI;233403", 
+    "quote_id": 233403, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233544, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "INRI;233539", 
+    "quote_id": 233539, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  232393, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Love Never Dies;232391", 
+    "quote_id": 232391, 
+    "author": "Love Never Dies"
+   }
+  ]
+ ], 
+ [
+  232522, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "simone;232462", 
+    "quote_id": 232462, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  232524, 
+  [
+   884, 
+   935, 
+   {
+    "quote_id": 232387, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  233402, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "INRI;233395", 
+    "quote_id": 233395, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233168, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "INRI;233146", 
+    "quote_id": 233146, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233939, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "trebor;233500", 
+    "quote_id": 233500, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  233044, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "simone;233026", 
+    "quote_id": 233026, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  233429, 
+  [
+   0, 
+   484, 
+   {
+    "raw_data": "INRI;233403", 
+    "quote_id": 233403, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233175, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "INRI;233146", 
+    "quote_id": 233146, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  232780, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "INRI;232775", 
+    "quote_id": 232775, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  232538, 
+  [
+   0, 
+   44, 
+   {
+    "quote_id": 232536, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  232538, 
+  [
+   297, 
+   383, 
+   {
+    "quote_id": 232536, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  232954, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "simone;232843", 
+    "quote_id": 232843, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  233438, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "INRI;233395", 
+    "quote_id": 233395, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233539, 
+  [
+   0, 
+   84, 
+   {
+    "quote_id": 233523, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  233442, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Tastyfish;233437", 
+    "quote_id": 233437, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  233190, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "johnhanks;233168", 
+    "quote_id": 233168, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  233190, 
+  [
+   471, 
+   664, 
+   {
+    "raw_data": "INRI;233170", 
+    "quote_id": 233170, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233190, 
+  [
+   1049, 
+   1123, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 233170, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233190, 
+  [
+   1273, 
+   1348, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 233170, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  233437, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "sinjin;233429", 
+    "quote_id": 233429, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  233146, 
+  [
+   0, 
+   49, 
+   {
+    "quote_id": 233117, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  233452, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "sinjin;233429", 
+    "quote_id": 233429, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  232851, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "thelmoose;232780", 
+    "quote_id": 232780, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  232567, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "INRI;232538", 
+    "quote_id": 232538, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  232698, 
+  [
+   0, 
+   89, 
+   {
+    "quote_id": 232567, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  232571, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "thelmoose;232567", 
+    "quote_id": 232567, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233258, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "INRI;233250", 
+    "quote_id": 233250, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  232575, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "sinjin;232393", 
+    "quote_id": 232393, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

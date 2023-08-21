@@ -1,0 +1,350 @@
+[
+ [
+  353927, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Penfold;345773", 
+    "quote_id": 345773, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  353934, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "djconklin;353927", 
+    "quote_id": 353927, 
+    "author": "djconklin"
+   }
+  ]
+ ], 
+ [
+  345925, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Penfold;345773", 
+    "quote_id": 345773, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  345766, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "foundit", 
+    "quote_id": 345658, 
+    "unknown_author": "foundit", 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  345766, 
+  [
+   280, 
+   718, 
+   {
+    "raw_data": "Archangel;345685", 
+    "quote_id": 345685, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345766, 
+  [
+   724, 
+   998, 
+   {
+    "raw_data": "foundit66;345722", 
+    "quote_id": 345722, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  345643, 
+  [
+   0, 
+   39, 
+   {
+    "quote_id": 345546, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  345772, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Archangel;345766", 
+    "quote_id": 345766, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345772, 
+  [
+   1189, 
+   1325, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 345766, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345772, 
+  [
+   1872, 
+   2419, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie"
+   }
+  ]
+ ], 
+ [
+  345783, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Penfold;345773", 
+    "quote_id": 345773, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  345658, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Superlite27;345643", 
+    "quote_id": 345643, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  345658, 
+  [
+   722, 
+   1287, 
+   {
+    "raw_data": "Superlite27", 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  346047, 
+  [
+   231, 
+   290, 
+   {
+    "quote_id": 346173, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  346053, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 345959, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  346053, 
+  [
+   662, 
+   890, 
+   {
+    "raw_data": "Ripskar;346047", 
+    "quote_id": 346047, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  345926, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Ripskar;345777", 
+    "quote_id": 345777, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  345938, 
+  [
+   0, 
+   535, 
+   {
+    "raw_data": "Archangel;345926", 
+    "quote_id": 345926, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345685, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "foundit", 
+    "quote_id": 345658, 
+    "unknown_author": "foundit", 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  345945, 
+  [
+   0, 
+   535, 
+   {
+    "raw_data": "Archangel;345926", 
+    "quote_id": 345926, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  346086, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "foundit66;346053", 
+    "quote_id": 346053, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  345959, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Ripskar;345945", 
+    "quote_id": 345945, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  346094, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Zardoz;346086", 
+    "quote_id": 346086, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  346094, 
+  [
+   1348, 
+   1588, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 346086, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  346173, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Ripskar;346047", 
+    "quote_id": 346047, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  346104, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Penfold;345938", 
+    "quote_id": 345938, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  345722, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "Archangel;345685", 
+    "quote_id": 345685, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345663, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Superlite27;345643", 
+    "quote_id": 345643, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  345663, 
+  [
+   80, 
+   297, 
+   {
+    "raw_data": "foundit66;345658", 
+    "quote_id": 345658, 
+    "author": "foundit66"
+   }
+  ]
+ ]
+]

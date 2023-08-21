@@ -1,0 +1,364 @@
+[
+ [
+  309867, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "thelmoose;309863", 
+    "quote_id": 309863, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  309761, 
+  [
+   0, 
+   542, 
+   {
+    "raw_data": "Phyllis;309754", 
+    "quote_id": 309754, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309762, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Archangel;309761", 
+    "quote_id": 309761, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309795, 
+  [
+   0, 
+   542, 
+   {
+    "raw_data": "Phyllis;309754", 
+    "quote_id": 309754, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309797, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Archangel;309761", 
+    "quote_id": 309761, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309862, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Another opinion;309851", 
+    "quote_id": 309851, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  309767, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Another opinion;309762", 
+    "quote_id": 309762, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  309767, 
+  [
+   1023, 
+   1463, 
+   {
+    "quote_id": 309762, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  309863, 
+  [
+   0, 
+   805, 
+   {
+    "raw_data": "Colonel Ingus;309862", 
+    "quote_id": 309862, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  309801, 
+  [
+   0, 
+   573, 
+   {
+    "raw_data": "JakeCJB;309797", 
+    "quote_id": 309797, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  309771, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Archangel;309761", 
+    "quote_id": 309761, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309864, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Archangel;309801", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309864, 
+  [
+   1702, 
+   1749, 
+   {
+    "raw_data": "Archangel;309801", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309778, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Colonel Ingus;309771", 
+    "quote_id": 309771, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  309857, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Archangel;309767", 
+    "quote_id": 309767, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309857, 
+  [
+   323, 
+   449, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "Archangel;309801", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   412, 
+   532, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   778, 
+   1012, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   1140, 
+   1334, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   1545, 
+   2051, 
+   {
+    "raw_data": "Archagel", 
+    "unknown_author": "Archagel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   2589, 
+   2925, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   3122, 
+   3424, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309843, 
+  [
+   3689, 
+   3916, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 309801, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309754, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Fox News", 
+    "unknown_author": "Fox News"
+   }
+  ]
+ ], 
+ [
+  309851, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Archangel;309767", 
+    "quote_id": 309767, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309851, 
+  [
+   1877, 
+   2325, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309851, 
+  [
+   3022, 
+   3359, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309851, 
+  [
+   4056, 
+   4699, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309851, 
+  [
+   5545, 
+   5849, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309758, 
+  [
+   0, 
+   542, 
+   {
+    "raw_data": "Phyllis;309754", 
+    "quote_id": 309754, 
+    "author": "Phyllis"
+   }
+  ]
+ ]
+]

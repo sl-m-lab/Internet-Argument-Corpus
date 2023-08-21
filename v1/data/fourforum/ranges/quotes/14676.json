@@ -1,0 +1,496 @@
+[
+ [
+  428672, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Galileo;428577", 
+    "quote_id": 428577, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428434, 
+  [
+   0, 
+   1928, 
+   {
+    "raw_data": "daewoo;428412", 
+    "quote_id": 428412, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  428612, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "daewoo;428518", 
+    "quote_id": 428518, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  428612, 
+  [
+   277, 
+   355, 
+   {
+    "raw_data": "daewoo;428518", 
+    "quote_id": 428518, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  428612, 
+  [
+   4614, 
+   4852, 
+   {
+    "raw_data": "daewoo;428518", 
+    "quote_id": 428518, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  428612, 
+  [
+   5537, 
+   5787, 
+   {
+    "raw_data": "daewoo;428518", 
+    "quote_id": 428518, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  428575, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Galileo;428498", 
+    "quote_id": 428498, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428575, 
+  [
+   7422, 
+   7564, 
+   {}
+  ]
+ ], 
+ [
+  428577, 
+  [
+   0, 
+   8067, 
+   {
+    "raw_data": "Pietro;428575", 
+    "quote_id": 428575, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  428450, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Steeeeve;428434", 
+    "quote_id": 428434, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  415532, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Bryan;415365", 
+    "quote_id": 415365, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  415534, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Galileo;415532", 
+    "quote_id": 415532, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  415534, 
+  [
+   512, 
+   696, 
+   {
+    "raw_data": "Galileo;415533", 
+    "quote_id": 415533, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  415534, 
+  [
+   1194, 
+   1305, 
+   {
+    "quote_id": 415533, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428592, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Galileo;428577", 
+    "quote_id": 428577, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  416308, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Doc Jones;416195", 
+    "quote_id": 416195, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  428476, 
+  [
+   236, 
+   4454, 
+   {
+    "raw_data": "Bryan;428471", 
+    "quote_id": 428471, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  428478, 
+  [
+   0, 
+   4218, 
+   {
+    "raw_data": "Bryan;428471", 
+    "quote_id": 428471, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  428478, 
+  [
+   5210, 
+   6012, 
+   {}
+  ]
+ ], 
+ [
+  416191, 
+  [
+   33, 
+   1608, 
+   {}
+  ]
+ ], 
+ [
+  428480, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "Pietro;428476", 
+    "quote_id": 428476, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  428484, 
+  [
+   0, 
+   1109, 
+   {
+    "raw_data": "Galileo;428480", 
+    "quote_id": 428480, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428486, 
+  [
+   0, 
+   782, 
+   {
+    "raw_data": "Doc Jones;428484", 
+    "quote_id": 428484, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  428489, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Galileo;428486", 
+    "quote_id": 428486, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428490, 
+  [
+   0, 
+   710, 
+   {
+    "raw_data": "Doc Jones;428489", 
+    "quote_id": 428489, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  428493, 
+  [
+   0, 
+   1267, 
+   {
+    "raw_data": "Galileo;428488", 
+    "unknown_quote_id": 428488, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428494, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Galileo;428490", 
+    "quote_id": 428490, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  415568, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Galileo;415532", 
+    "quote_id": 415532, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  415568, 
+  [
+   1008, 
+   1478, 
+   {}
+  ]
+ ], 
+ [
+  428497, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "Doc Jones;428493", 
+    "quote_id": 428493, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  428498, 
+  [
+   0, 
+   541, 
+   {
+    "raw_data": "Pietro;428496", 
+    "quote_id": 428496, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  428501, 
+  [
+   62, 
+   630, 
+   {}
+  ]
+ ], 
+ [
+  428501, 
+  [
+   1014, 
+   3328, 
+   {}
+  ]
+ ], 
+ [
+  428504, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Galileo;428502", 
+    "quote_id": 428502, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428504, 
+  [
+   1223, 
+   1481, 
+   {}
+  ]
+ ], 
+ [
+  428496, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Galileo;428480", 
+    "quote_id": 428480, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428496, 
+  [
+   198, 
+   256, 
+   {
+    "quote_id": 428480, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428389, 
+  [
+   496, 
+   1313, 
+   {}
+  ]
+ ], 
+ [
+  428389, 
+  [
+   1337, 
+   1833, 
+   {}
+  ]
+ ], 
+ [
+  428518, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Galileo;428502", 
+    "quote_id": 428502, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  428502, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Tither;428501", 
+    "quote_id": 428501, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  416490, 
+  [
+   0, 
+   1437, 
+   {
+    "raw_data": "NATO 556;415534", 
+    "quote_id": 415534, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  428412, 
+  [
+   0, 
+   2980, 
+   {
+    "raw_data": "Bryan;428375", 
+    "quote_id": 428375, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  428670, 
+  [
+   57, 
+   460, 
+   {}
+  ]
+ ], 
+ [
+  428670, 
+  [
+   514, 
+   1512, 
+   {}
+  ]
+ ]
+]

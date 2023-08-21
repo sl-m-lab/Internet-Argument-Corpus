@@ -1,0 +1,268 @@
+[
+ [
+  60163, 
+  [
+   216, 
+   261, 
+   {
+    "quote_id": 60157, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60164, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 60163, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  60166, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 60164, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60169, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 60166, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  163650, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 163626, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  60179, 
+  [
+   0, 
+   363, 
+   {
+    "quote_id": 60169, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60315, 
+  [
+   0, 
+   69, 
+   {
+    "quote_id": 60192, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60315, 
+  [
+   295, 
+   600, 
+   {}
+  ]
+ ], 
+ [
+  60455, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 60192, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  163626, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Ooaman", 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  163514, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 163493, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  163514, 
+  [
+   449, 
+   1086, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 163493, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  63039, 
+  [
+   0, 
+   59, 
+   {
+    "quote_id": 62835, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  60192, 
+  [
+   0, 
+   443, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 60179, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  149442, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 149367, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  60486, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Whitestar", 
+    "author": "Whitestar"
+   }
+  ]
+ ], 
+ [
+  64712, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 63039, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  60363, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 60315, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  163493, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 149494, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  62823, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 62328, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  62835, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 62823, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  149494, 
+  [
+   0, 
+   626, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 149442, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  65022, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 64712, 
+    "author": "montalban"
+   }
+  ]
+ ]
+]

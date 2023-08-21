@@ -1,0 +1,500 @@
+[
+ [
+  379905, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "iangb;379811", 
+    "quote_id": 379811, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379907, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "Tither;379905", 
+    "quote_id": 379905, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  379791, 
+  [
+   72, 
+   2970, 
+   {}
+  ]
+ ], 
+ [
+  380248, 
+  [
+   59, 
+   1873, 
+   {}
+  ]
+ ], 
+ [
+  380121, 
+  [
+   0, 
+   539, 
+   {
+    "raw_data": "Tither;380120", 
+    "quote_id": 380120, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  379929, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "iangb;379878", 
+    "quote_id": 379878, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379929, 
+  [
+   1014, 
+   1616, 
+   {
+    "quote_id": 379878, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379929, 
+  [
+   1991, 
+   2252, 
+   {
+    "quote_id": 379878, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379929, 
+  [
+   2697, 
+   3096, 
+   {
+    "quote_id": 379878, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379930, 
+  [
+   0, 
+   1485, 
+   {
+    "raw_data": "iangb;379878", 
+    "quote_id": 379878, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379813, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "iangb;379811", 
+    "quote_id": 379811, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379813, 
+  [
+   216, 
+   331, 
+   {
+    "quote_id": 379811, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379819, 
+  [
+   99, 
+   1096, 
+   {}
+  ]
+ ], 
+ [
+  379819, 
+  [
+   1233, 
+   1908, 
+   {}
+  ]
+ ], 
+ [
+  379819, 
+  [
+   1914, 
+   2608, 
+   {}
+  ]
+ ], 
+ [
+  379820, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "iangb;379811", 
+    "quote_id": 379811, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379822, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "OldSarge;379820", 
+    "quote_id": 379820, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  379825, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Doc Jones;379822", 
+    "quote_id": 379822, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "OldSarge", 
+    "quote_id": 379898, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   249, 
+   412, 
+   {
+    "raw_data": "Nozza", 
+    "unknown_author": "Nozza"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   731, 
+   938, 
+   {
+    "quote_id": 379929, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   1085, 
+   1558, 
+   {
+    "quote_id": 379929, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   1774, 
+   2139, 
+   {
+    "quote_id": 379929, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   2319, 
+   2387, 
+   {
+    "quote_id": 379929, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   2424, 
+   2490, 
+   {
+    "quote_id": 379929, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379978, 
+  [
+   2686, 
+   2758, 
+   {
+    "quote_id": 379929, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379981, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "iangb;379978", 
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379984, 
+  [
+   0, 
+   238, 
+   {
+    "quote_id": 379981, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  379985, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "iangb;379984", 
+    "quote_id": 379984, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379990, 
+  [
+   0, 
+   48, 
+   {
+    "quote_id": 379985, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  380120, 
+  [
+   498, 
+   734, 
+   {
+    "raw_data": "iangb;379978", 
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  380120, 
+  [
+   778, 
+   884, 
+   {}
+  ]
+ ], 
+ [
+  379993, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "iangb;379990", 
+    "quote_id": 379990, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379998, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "iangb;379978", 
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379998, 
+  [
+   418, 
+   654, 
+   {
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379998, 
+  [
+   1340, 
+   1548, 
+   {
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379998, 
+  [
+   1635, 
+   1807, 
+   {
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379998, 
+  [
+   1851, 
+   1882, 
+   {
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379998, 
+  [
+   1950, 
+   2140, 
+   {
+    "quote_id": 379978, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379878, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "OldSarge", 
+    "quote_id": 379820, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  379878, 
+  [
+   1227, 
+   1447, 
+   {
+    "raw_data": "Doc Jones", 
+    "quote_id": 379822, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  379883, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "iangb;379811", 
+    "quote_id": 379811, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379886, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "Winston Smith;379883", 
+    "quote_id": 379883, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380022, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "iangb;379990", 
+    "quote_id": 379990, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  379898, 
+  [
+   0, 
+   534, 
+   {
+    "raw_data": "iangb;379878", 
+    "quote_id": 379878, 
+    "author": "iangb"
+   }
+  ]
+ ]
+]

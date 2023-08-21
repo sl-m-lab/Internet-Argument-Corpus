@@ -1,0 +1,599 @@
+[
+ [
+  397449, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;397435", 
+    "quote_id": 397435, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397451, 
+  [
+   254, 
+   1399, 
+   {}
+  ]
+ ], 
+ [
+  397455, 
+  [
+   141, 
+   212, 
+   {
+    "quote_id": 397435, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397455, 
+  [
+   338, 
+   633, 
+   {}
+  ]
+ ], 
+ [
+  397455, 
+  [
+   639, 
+   1350, 
+   {}
+  ]
+ ], 
+ [
+  397492, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "COBHC;397467", 
+    "quote_id": 397467, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397846, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "COBHC;397759", 
+    "unknown_quote_id": 397759, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397846, 
+  [
+   270, 
+   378, 
+   {
+    "raw_data": "COBHC;397759", 
+    "unknown_quote_id": 397759, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397846, 
+  [
+   661, 
+   781, 
+   {
+    "raw_data": "COBHC;397759", 
+    "unknown_quote_id": 397759, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397463, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "COBHC;397455", 
+    "quote_id": 397455, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397463, 
+  [
+   207, 
+   298, 
+   {
+    "raw_data": "COBHC;397455", 
+    "quote_id": 397455, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397463, 
+  [
+   362, 
+   713, 
+   {
+    "raw_data": "COBHC;397455", 
+    "quote_id": 397455, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397615, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "snakespit;397606", 
+    "quote_id": 397606, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  397467, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "simone;397463", 
+    "quote_id": 397463, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397467, 
+  [
+   166, 
+   236, 
+   {
+    "raw_data": "simone;397435", 
+    "quote_id": 397435, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397467, 
+  [
+   307, 
+   382, 
+   {
+    "quote_id": 397463, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397467, 
+  [
+   677, 
+   765, 
+   {
+    "quote_id": 397463, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397467, 
+  [
+   801, 
+   912, 
+   {
+    "quote_id": 397463, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397735, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "simone;397674", 
+    "quote_id": 397674, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397735, 
+  [
+   774, 
+   1202, 
+   {
+    "quote_id": 397674, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397735, 
+  [
+   1345, 
+   1485, 
+   {
+    "quote_id": 397674, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397608, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Steeeeve;397505", 
+    "quote_id": 397505, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  397737, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "simone;397675", 
+    "quote_id": 397675, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397866, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "simone;397839", 
+    "quote_id": 397839, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397484, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Steeeeve;397477", 
+    "quote_id": 397477, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  397487, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Penfold;397484", 
+    "quote_id": 397484, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  397874, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone;397595", 
+    "quote_id": 397595, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397620, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "snakespit;397608", 
+    "quote_id": 397608, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  397622, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone;397595", 
+    "quote_id": 397595, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397595, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "COBHC;397497", 
+    "quote_id": 397497, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397497, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "simone;397492", 
+    "quote_id": 397492, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397626, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "simone;397615", 
+    "quote_id": 397615, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397626, 
+  [
+   1022, 
+   1449, 
+   {
+    "quote_id": 397615, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397627, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone;397595", 
+    "quote_id": 397595, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397885, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "Steeeeve;397620", 
+    "quote_id": 397620, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  397375, 
+  [
+   43, 
+   910, 
+   {}
+  ]
+ ], 
+ [
+  397375, 
+  [
+   1429, 
+   2722, 
+   {}
+  ]
+ ], 
+ [
+  397760, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "simone;397758", 
+    "quote_id": 397758, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397505, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Penfold;397484", 
+    "quote_id": 397484, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  397878, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "snakespit;397869", 
+    "quote_id": 397869, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  397895, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "daewoo;397885", 
+    "quote_id": 397885, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  397644, 
+  [
+   0, 
+   752, 
+   {
+    "raw_data": "Steeeeve;397620", 
+    "quote_id": 397620, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  397863, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "simone;397842", 
+    "quote_id": 397842, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397796, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "snakespit;397606", 
+    "quote_id": 397606, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  397862, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "simone;397838", 
+    "quote_id": 397838, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397905, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "snakespit;397895", 
+    "quote_id": 397895, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  397674, 
+  [
+   0, 
+   718, 
+   {
+    "raw_data": "COBHC;397626", 
+    "quote_id": 397626, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397674, 
+  [
+   1434, 
+   1699, 
+   {
+    "raw_data": "COBHC;397626", 
+    "quote_id": 397626, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397675, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "COBHC;397627", 
+    "quote_id": 397627, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397691, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "snakespit;397689", 
+    "quote_id": 397689, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  397684, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "simone;397674", 
+    "quote_id": 397674, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397689, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "simone;397686", 
+    "quote_id": 397686, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

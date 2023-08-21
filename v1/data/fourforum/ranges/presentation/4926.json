@@ -1,0 +1,34 @@
+[
+ [
+  111725, 
+  [
+   285, 
+   289, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  112369, 
+  [
+   0, 
+   150, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  112369, 
+  [
+   156, 
+   306, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ]
+]

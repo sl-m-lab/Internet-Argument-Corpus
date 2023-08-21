@@ -1,0 +1,586 @@
+[
+ [
+  339330, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "CashBurnRate;339254", 
+    "quote_id": 339254, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  339078, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "obvious_child;338988", 
+    "quote_id": 338988, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339078, 
+  [
+   387, 
+   514, 
+   {
+    "quote_id": 338988, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339078, 
+  [
+   708, 
+   837, 
+   {
+    "quote_id": 338988, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339081, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "CashBurnRate;339041", 
+    "quote_id": 339041, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  338698, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "hollyh;338464", 
+    "quote_id": 338464, 
+    "author": "hollyh"
+   }
+  ]
+ ], 
+ [
+  339211, 
+  [
+   0, 
+   680, 
+   {
+    "raw_data": "obvious_child;339104", 
+    "quote_id": 339104, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  338578, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Penfold", 
+    "quote_id": 338489, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  338578, 
+  [
+   289, 
+   403, 
+   {
+    "raw_data": "trebor;338493", 
+    "quote_id": 338493, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  338578, 
+  [
+   456, 
+   845, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   967, 
+   1287, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   1301, 
+   1493, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   1553, 
+   2078, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   2576, 
+   2982, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   3062, 
+   3116, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 338493, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  338578, 
+  [
+   3133, 
+   3230, 
+   {
+    "quote_id": 338493, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  338578, 
+  [
+   3538, 
+   3631, 
+   {
+    "quote_id": 338493, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  338578, 
+  [
+   3896, 
+   4321, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   4421, 
+   4743, 
+   {}
+  ]
+ ], 
+ [
+  338578, 
+  [
+   4774, 
+   5009, 
+   {}
+  ]
+ ], 
+ [
+  338584, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "marc9000;338578", 
+    "quote_id": 338578, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  338586, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "jyoshu;338465", 
+    "quote_id": 338465, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  338586, 
+  [
+   629, 
+   1091, 
+   {
+    "raw_data": "jyoshu;338465", 
+    "quote_id": 338465, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  338586, 
+  [
+   1288, 
+   1445, 
+   {
+    "raw_data": "jyoshu;338465", 
+    "quote_id": 338465, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  338586, 
+  [
+   1634, 
+   1796, 
+   {
+    "raw_data": "jyoshu;338465", 
+    "quote_id": 338465, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  338587, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "jyoshu;338465", 
+    "quote_id": 338465, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  338587, 
+  [
+   989, 
+   1441, 
+   {}
+  ]
+ ], 
+ [
+  338465, 
+  [
+   0, 
+   574, 
+   {
+    "raw_data": "hollyh;338464", 
+    "quote_id": 338464, 
+    "author": "hollyh"
+   }
+  ]
+ ], 
+ [
+  338850, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "simone;338751", 
+    "quote_id": 338751, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  339363, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "obvious_child;339330", 
+    "quote_id": 339330, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339492, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "CashBurnRate;339414", 
+    "quote_id": 339414, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  339492, 
+  [
+   735, 
+   801, 
+   {
+    "quote_id": 339414, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  339492, 
+  [
+   922, 
+   1132, 
+   {}
+  ]
+ ], 
+ [
+  339492, 
+  [
+   1287, 
+   1329, 
+   {
+    "quote_id": 339414, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  339243, 
+  [
+   226, 
+   978, 
+   {}
+  ]
+ ], 
+ [
+  338988, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "marc9000;338926", 
+    "quote_id": 338926, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  338485, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "jyoshu;338465", 
+    "quote_id": 338465, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  339254, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "obvious_child;339243", 
+    "quote_id": 339243, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  338871, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "marc9000;338850", 
+    "quote_id": 338850, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  338493, 
+  [
+   0, 
+   410, 
+   {
+    "raw_data": "marc9000;338485", 
+    "quote_id": 338485, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  339104, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "marc9000;339078", 
+    "quote_id": 339078, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  339104, 
+  [
+   481, 
+   665, 
+   {
+    "quote_id": 339078, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  338849, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "hollyh", 
+    "quote_id": 338586, 
+    "author": "hollyh"
+   }
+  ]
+ ], 
+ [
+  338849, 
+  [
+   1069, 
+   1348, 
+   {
+    "raw_data": "Matthew", 
+    "quote_id": 338587, 
+    "author": "Matthew"
+   }
+  ]
+ ], 
+ [
+  339400, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "CashBurnRate;339363", 
+    "quote_id": 339363, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  339414, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "obvious_child;339400", 
+    "quote_id": 339400, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  338911, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "marc9000;338850", 
+    "quote_id": 338850, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  338784, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "obvious_child;338698", 
+    "quote_id": 338698, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339041, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "obvious_child;338988", 
+    "quote_id": 338988, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  338926, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "simone;338911", 
+    "quote_id": 338911, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  338926, 
+  [
+   432, 
+   566, 
+   {
+    "quote_id": 338911, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  338932, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "simone;338911", 
+    "quote_id": 338911, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  338937, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Penfold;338935", 
+    "quote_id": 338935, 
+    "author": "Penfold"
+   }
+  ]
+ ]
+]

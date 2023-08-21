@@ -1,0 +1,61 @@
+[
+ [
+  349545, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "CUNxTime;349512", 
+    "quote_id": 349512, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353529, 
+  [
+   0, 
+   1047, 
+   {
+    "raw_data": "DrNo;349041", 
+    "quote_id": 349041, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  349043, 
+  [
+   747, 
+   935, 
+   {
+    "quote_id": 349041, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  349693, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "CUNxTime;349598", 
+    "quote_id": 349598, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  349598, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "simone;349545", 
+    "quote_id": 349545, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

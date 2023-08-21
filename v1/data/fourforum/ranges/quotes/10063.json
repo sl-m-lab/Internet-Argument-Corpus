@@ -1,0 +1,379 @@
+[
+ [
+  274321, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Benjamin;274317", 
+    "quote_id": 274317, 
+    "author": "Benjamin"
+   }
+  ]
+ ], 
+ [
+  271764, 
+  [
+   0, 
+   201, 
+   {
+    "quote_id": 271725, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  271894, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "INRI;271860", 
+    "quote_id": 271860, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271894, 
+  [
+   435, 
+   676, 
+   {
+    "raw_data": "INRI;271860", 
+    "quote_id": 271860, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  277529, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Benjamin;271260", 
+    "quote_id": 271260, 
+    "author": "Benjamin"
+   }
+  ]
+ ], 
+ [
+  271772, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "INRI;271713", 
+    "quote_id": 271713, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271772, 
+  [
+   848, 
+   910, 
+   {
+    "quote_id": 271764, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271261, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Benjamin;271260", 
+    "quote_id": 271260, 
+    "author": "Benjamin"
+   }
+  ]
+ ], 
+ [
+  271774, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "INRI;271764", 
+    "quote_id": 271764, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271778, 
+  [
+   0, 
+   100, 
+   {
+    "quote_id": 271772, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  271267, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Benjamin;271265", 
+    "quote_id": 271265, 
+    "author": "Benjamin"
+   }
+  ]
+ ], 
+ [
+  277549, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "DrD;277529", 
+    "quote_id": 277529, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  271791, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "INRI;271778", 
+    "quote_id": 271778, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272052, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "INRI;271902", 
+    "quote_id": 271902, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272052, 
+  [
+   324, 
+   433, 
+   {
+    "raw_data": "INRI;271902", 
+    "quote_id": 271902, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272052, 
+  [
+   740, 
+   856, 
+   {
+    "raw_data": "INRI;271902", 
+    "quote_id": 271902, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271902, 
+  [
+   0, 
+   249, 
+   {
+    "quote_id": 271894, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  271803, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "INRI;271778", 
+    "quote_id": 271778, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271816, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "johnhanks;271772", 
+    "quote_id": 271772, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  273227, 
+  [
+   0, 
+   79, 
+   {
+    "quote_id": 272827, 
+    "author": "Unriggable"
+   }
+  ]
+ ], 
+ [
+  271717, 
+  [
+   0, 
+   2406, 
+   {
+    "raw_data": "INRI;271713", 
+    "quote_id": 271713, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271721, 
+  [
+   0, 
+   431, 
+   {
+    "quote_id": 271717, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  271721, 
+  [
+   730, 
+   1028, 
+   {
+    "quote_id": 271717, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  271725, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "INRI;271721", 
+    "quote_id": 271721, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271725, 
+  [
+   497, 
+   1494, 
+   {
+    "raw_data": "INRI;271721", 
+    "quote_id": 271721, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  271860, 
+  [
+   0, 
+   57, 
+   {
+    "quote_id": 271791, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  271734, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Benjamin;271260", 
+    "quote_id": 271260, 
+    "author": "Benjamin"
+   }
+  ]
+ ], 
+ [
+  272248, 
+  [
+   0, 
+   1025, 
+   {
+    "raw_data": "INRI;271860", 
+    "quote_id": 271860, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272248, 
+  [
+   1293, 
+   1467, 
+   {
+    "quote_id": 271860, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272248, 
+  [
+   1509, 
+   2348, 
+   {}
+  ]
+ ], 
+ [
+  272248, 
+  [
+   2483, 
+   2656, 
+   {
+    "quote_id": 271860, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272248, 
+  [
+   2758, 
+   3008, 
+   {
+    "quote_id": 271860, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  272248, 
+  [
+   3111, 
+   3199, 
+   {}
+  ]
+ ]
+]

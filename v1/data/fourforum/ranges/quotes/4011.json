@@ -1,0 +1,307 @@
+[
+ [
+  84833, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84785, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84833, 
+  [
+   181, 
+   639, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84785, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84833, 
+  [
+   1101, 
+   1604, 
+   {
+    "quote_id": 84785, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84833, 
+  [
+   2285, 
+   2570, 
+   {
+    "quote_id": 84785, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84833, 
+  [
+   3078, 
+   3149, 
+   {
+    "quote_id": 84785, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84483, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84466, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84483, 
+  [
+   910, 
+   1135, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84466, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84483, 
+  [
+   1310, 
+   1576, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84466, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84101, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84068, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  113320, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  113320, 
+  [
+   462, 
+   631, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 85630, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84586, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84586, 
+  [
+   1099, 
+   1551, 
+   {
+    "quote_id": 84506, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84236, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 84101, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84435, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 84315, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84435, 
+  [
+   1470, 
+   1655, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 84315, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84435, 
+  [
+   1759, 
+   2153, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 84315, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84975, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84948, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84785, 
+  [
+   0, 
+   794, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84586, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84466, 
+  [
+   0, 
+   522, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84435, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84211, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 84101, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84211, 
+  [
+   989, 
+   1419, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 84117, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  84948, 
+  [
+   0, 
+   506, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84833, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84117, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 84101, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  84506, 
+  [
+   0, 
+   847, 
+   {
+    "raw_data": "pnac=ww3", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85630, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84975, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ]
+]

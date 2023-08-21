@@ -1,0 +1,67 @@
+[
+ [
+  23360, 
+  [
+   20, 
+   410, 
+   {
+    "category": "color", 
+    "raw_data": "magenta"
+   }
+  ]
+ ], 
+ [
+  23360, 
+  [
+   1, 
+   419, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  18724, 
+  [
+   187, 
+   197, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  25286, 
+  [
+   0, 
+   320, 
+   {
+    "category": "color", 
+    "raw_data": "royalblue"
+   }
+  ]
+ ], 
+ [
+  25286, 
+  [
+   0, 
+   321, 
+   {
+    "category": "font", 
+    "raw_data": "verdana"
+   }
+  ]
+ ], 
+ [
+  25286, 
+  [
+   0, 
+   322, 
+   {
+    "category": "size", 
+    "raw_data": "2"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,752 @@
+[
+ [
+  17024, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16928, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17024, 
+  [
+   807, 
+   1103, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16928, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17024, 
+  [
+   1257, 
+   1385, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16928, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17024, 
+  [
+   1638, 
+   1814, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16928, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17922, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17912, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17922, 
+  [
+   172, 
+   299, 
+   {
+    "quote_id": 17912, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  16771, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16754, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16401, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16370, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17347, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 17240, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17347, 
+  [
+   198, 
+   312, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 17240, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17347, 
+  [
+   475, 
+   618, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 17240, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17044, 
+  [
+   0, 
+   532, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17024, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17044, 
+  [
+   709, 
+   776, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17024, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17044, 
+  [
+   808, 
+   881, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17024, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17044, 
+  [
+   965, 
+   1001, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17024, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17044, 
+  [
+   1137, 
+   1288, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17024, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17044, 
+  [
+   1388, 
+   1705, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17024, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  21014, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 21005, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16282, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16196, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17519, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17397, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17519, 
+  [
+   1544, 
+   1588, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17397, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17519, 
+  [
+   1704, 
+   1928, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17397, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  15648, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 15395, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17903, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17879, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  21895, 
+  [
+   0, 
+   60, 
+   {
+    "quote_id": 17922, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  16814, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16775, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16814, 
+  [
+   732, 
+   842, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16775, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17840, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17754, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17974, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Broker", 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17974, 
+  [
+   159, 
+   340, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17933, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17974, 
+  [
+   464, 
+   486, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17933, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  15799, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 15740, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  15799, 
+  [
+   469, 
+   679, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 15797, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16442, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16434, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17631, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17610, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17631, 
+  [
+   200, 
+   348, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17610, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17855, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17840, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17240, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17135, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17240, 
+  [
+   352, 
+   596, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17135, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17610, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17519, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17610, 
+  [
+   652, 
+   1361, 
+   {
+    "raw_data": "wjim1269", 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17610, 
+  [
+   1449, 
+   1555, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17519, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17610, 
+  [
+   1713, 
+   1789, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17519, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17912, 
+  [
+   0, 
+   15, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 17905, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17759, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17754, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17759, 
+  [
+   469, 
+   755, 
+   {
+    "quote_id": 17754, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17759, 
+  [
+   951, 
+   1203, 
+   {
+    "quote_id": 17754, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17754, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17631, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17754, 
+  [
+   122, 
+   194, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17631, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  20957, 
+  [
+   0, 
+   552, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 16442, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17247, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17240, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17247, 
+  [
+   218, 
+   332, 
+   {
+    "quote_id": 17240, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17247, 
+  [
+   752, 
+   895, 
+   {
+    "quote_id": 17240, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  16608, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16469, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16608, 
+  [
+   181, 
+   455, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16469, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16608, 
+  [
+   629, 
+   681, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16469, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16608, 
+  [
+   850, 
+   886, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16469, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  16747, 
+  [
+   0, 
+   1771, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16728, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  17973, 
+  [
+   0, 
+   679, 
+   {
+    "raw_data": "AMD4EVER", 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  17397, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17347, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  17397, 
+  [
+   702, 
+   1110, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 17347, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  15736, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Morfos", 
+    "quote_id": 15728, 
+    "author": "Morfos"
+   }
+  ]
+ ], 
+ [
+  15740, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 15736, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ]
+]

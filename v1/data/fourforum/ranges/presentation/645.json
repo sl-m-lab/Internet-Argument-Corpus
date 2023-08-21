@@ -1,0 +1,64 @@
+[
+ [
+  38414, 
+  [
+   613, 
+   615, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  38432, 
+  [
+   256, 
+   301, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  33502, 
+  [
+   0, 
+   213, 
+   {
+    "category": "font", 
+    "raw_data": "Book Antiqua"
+   }
+  ]
+ ], 
+ [
+  33502, 
+  [
+   0, 
+   214, 
+   {
+    "category": "color", 
+    "raw_data": "DarkRed"
+   }
+  ]
+ ], 
+ [
+  9630, 
+  [
+   0, 
+   30, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  9630, 
+  [
+   32, 
+   156, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

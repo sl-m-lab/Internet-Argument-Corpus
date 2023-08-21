@@ -1,0 +1,362 @@
+[
+ [
+  192802, 
+  [
+   0, 
+   803, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 192644, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  192802, 
+  [
+   1082, 
+   1357, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 192644, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  192802, 
+  [
+   1810, 
+   1965, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 192644, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  192802, 
+  [
+   2152, 
+   2289, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 192644, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  192802, 
+  [
+   2390, 
+   2694, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 192644, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  192802, 
+  [
+   2991, 
+   3196, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 192644, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   470, 
+   522, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   557, 
+   661, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   848, 
+   911, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   917, 
+   1318, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   1918, 
+   2184, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191747, 
+  [
+   2529, 
+   3375, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  192644, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191747, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  192644, 
+  [
+   1115, 
+   1300, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191747, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  192644, 
+  [
+   1581, 
+   2175, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191747, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  192644, 
+  [
+   2474, 
+   2611, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191747, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  192644, 
+  [
+   2921, 
+   3009, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 191800, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  192644, 
+  [
+   3122, 
+   3393, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 191800, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  191800, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191800, 
+  [
+   338, 
+   598, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191800, 
+  [
+   696, 
+   776, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191734, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191734, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191676, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  191734, 
+  [
+   885, 
+   1203, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191676, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  191734, 
+  [
+   1610, 
+   1913, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191676, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  191734, 
+  [
+   2185, 
+   2483, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 191676, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  191676, 
+  [
+   0, 
+   690, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191480, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191676, 
+  [
+   1192, 
+   1674, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191480, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191676, 
+  [
+   2280, 
+   2625, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191480, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  191676, 
+  [
+   2934, 
+   3502, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 191480, 
+    "author": "Another opinion"
+   }
+  ]
+ ]
+]

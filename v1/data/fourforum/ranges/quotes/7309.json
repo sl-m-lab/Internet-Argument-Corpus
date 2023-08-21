@@ -1,0 +1,433 @@
+[
+ [
+  192783, 
+  [
+   0, 
+   728, 
+   {
+    "raw_data": "simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192783, 
+  [
+   912, 
+   3006, 
+   {}
+  ]
+ ], 
+ [
+  192783, 
+  [
+   3924, 
+   4057, 
+   {
+    "quote_id": 192212, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192783, 
+  [
+   4188, 
+   4399, 
+   {
+    "quote_id": 192212, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192783, 
+  [
+   4751, 
+   5027, 
+   {
+    "quote_id": 192212, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192034, 
+  [
+   0, 
+   43, 
+   {
+    "quote_id": 191716, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192037, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 192034, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  191791, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191771, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  191794, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191718, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192056, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 192037, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  192833, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192783, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192833, 
+  [
+   405, 
+   725, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192783, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192833, 
+  [
+   852, 
+   1133, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192783, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192833, 
+  [
+   1310, 
+   1784, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192833, 
+  [
+   1915, 
+   2104, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192783, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  191822, 
+  [
+   0, 
+   615, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191798, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  191823, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 191794, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  192082, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191991, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  191955, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191798, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192212, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192082, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192212, 
+  [
+   331, 
+   612, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192082, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192212, 
+  [
+   1409, 
+   1593, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192082, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192212, 
+  [
+   1728, 
+   2181, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 192082, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  192856, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 192833, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192856, 
+  [
+   1104, 
+   1229, 
+   {
+    "quote_id": 192833, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192856, 
+  [
+   1572, 
+   1748, 
+   {
+    "quote_id": 192833, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192856, 
+  [
+   2207, 
+   2336, 
+   {
+    "quote_id": 192833, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192856, 
+  [
+   2452, 
+   2688, 
+   {
+    "quote_id": 192833, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  192856, 
+  [
+   2908, 
+   3113, 
+   {
+    "quote_id": 192833, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  193243, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 193189, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  193189, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 192862, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  193189, 
+  [
+   499, 
+   737, 
+   {
+    "quote_id": 192862, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  193189, 
+  [
+   847, 
+   1237, 
+   {
+    "quote_id": 192862, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  193189, 
+  [
+   1465, 
+   2027, 
+   {}
+  ]
+ ], 
+ [
+  193256, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 193243, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  193256, 
+  [
+   397, 
+   1290, 
+   {}
+  ]
+ ], 
+ [
+  191738, 
+  [
+   0, 
+   815, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191718, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  191996, 
+  [
+   0, 
+   1261, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 191991, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

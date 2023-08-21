@@ -1,0 +1,4323 @@
+[
+ [
+  316422, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "Ohioprof;316332", 
+    "quote_id": 316332, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316422, 
+  [
+   745, 
+   926, 
+   {
+    "quote_id": 316393, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316423, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Lesz", 
+    "quote_id": 316363, 
+    "unknown_author": "Lesz", 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316423, 
+  [
+   179, 
+   337, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 316381, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316423, 
+  [
+   894, 
+   971, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316387, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317960, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "jyoshu;317897", 
+    "quote_id": 317897, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  318473, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Steeeeve;318437", 
+    "quote_id": 318437, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317963, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Steeeeve;317960", 
+    "quote_id": 317960, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316430, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Steeeeve;316422", 
+    "quote_id": 316422, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316431, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "Steeeeve;316423", 
+    "quote_id": 316423, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  318482, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "chester;318473", 
+    "quote_id": 318473, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318482, 
+  [
+   334, 
+   366, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 318473, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  319065, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "chester;319049", 
+    "quote_id": 319049, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318489, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Phyllis;318483", 
+    "quote_id": 318483, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318491, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Phyllis;318483", 
+    "quote_id": 318483, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316448, 
+  [
+   0, 
+   3, 
+   {
+    "raw_data": "Ohioprof;316370", 
+    "quote_id": 316370, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316448, 
+  [
+   9, 
+   403, 
+   {
+    "quote_id": 316370, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316448, 
+  [
+   608, 
+   860, 
+   {
+    "quote_id": 316370, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316448, 
+  [
+   1031, 
+   1279, 
+   {
+    "quote_id": 316370, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316448, 
+  [
+   1991, 
+   2761, 
+   {
+    "quote_id": 316370, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316448, 
+  [
+   3212, 
+   4141, 
+   {
+    "quote_id": 316373, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316449, 
+  [
+   0, 
+   3, 
+   {
+    "raw_data": "Phyllis;316381", 
+    "quote_id": 316381, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316449, 
+  [
+   9, 
+   264, 
+   {}
+  ]
+ ], 
+ [
+  316449, 
+  [
+   401, 
+   445, 
+   {}
+  ]
+ ], 
+ [
+  316449, 
+  [
+   527, 
+   818, 
+   {}
+  ]
+ ], 
+ [
+  316449, 
+  [
+   1217, 
+   2017, 
+   {
+    "quote_id": 316381, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316449, 
+  [
+   4745, 
+   5013, 
+   {
+    "quote_id": 316381, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316449, 
+  [
+   6112, 
+   6312, 
+   {
+    "quote_id": 316381, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316451, 
+  [
+   0, 
+   1570, 
+   {
+    "raw_data": "jyoshu;316391", 
+    "quote_id": 316391, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316452, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "Steeeeve;316423", 
+    "quote_id": 316423, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Phyllis;314828", 
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   436, 
+   531, 
+   {
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   767, 
+   1075, 
+   {
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   1274, 
+   1444, 
+   {
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   1566, 
+   1803, 
+   {
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   1918, 
+   2017, 
+   {
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314919, 
+  [
+   2191, 
+   2431, 
+   {
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317992, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "chester;317963", 
+    "quote_id": 317963, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317992, 
+  [
+   272, 
+   555, 
+   {
+    "quote_id": 317963, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  316457, 
+  [
+   0, 
+   1898, 
+   {
+    "raw_data": "lesz;316451", 
+    "quote_id": 316451, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  315436, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "Ohioprof;315190", 
+    "quote_id": 315190, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316462, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "lesz;316451", 
+    "quote_id": 316451, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316462, 
+  [
+   1239, 
+   1733, 
+   {
+    "raw_data": "lesz;316451", 
+    "quote_id": 316451, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316462, 
+  [
+   1955, 
+   2044, 
+   {
+    "raw_data": "lesz;316451", 
+    "quote_id": 316451, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316462, 
+  [
+   2177, 
+   2245, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316457, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315440, 
+  [
+   0, 
+   1166, 
+   {
+    "raw_data": "jyoshu;315380", 
+    "quote_id": 315380, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  315444, 
+  [
+   0, 
+   1632, 
+   {
+    "raw_data": "Ohioprof;315440", 
+    "quote_id": 315440, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  318005, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Steeeeve;317992", 
+    "quote_id": 317992, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  318520, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "chester;318489", 
+    "quote_id": 318489, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318520, 
+  [
+   1261, 
+   1353, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 318489, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318522, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "lesz;318496", 
+    "quote_id": 318496, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  318523, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "Phyllis;318522", 
+    "quote_id": 318522, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Ohioprof;317347", 
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   804, 
+   1129, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   1305, 
+   1756, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   1956, 
+   2200, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   2272, 
+   2426, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   2456, 
+   2689, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   2739, 
+   3007, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   3121, 
+   3190, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   3228, 
+   3471, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   3591, 
+   3912, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317500, 
+  [
+   3991, 
+   4222, 
+   {
+    "quote_id": 317347, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316477, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "jyoshu;316462", 
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316477, 
+  [
+   142, 
+   259, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316477, 
+  [
+   359, 
+   665, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316477, 
+  [
+   927, 
+   1138, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317502, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "lesz;317383", 
+    "quote_id": 317383, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316479, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "Ohioprof;316387", 
+    "quote_id": 316387, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316479, 
+  [
+   1164, 
+   1358, 
+   {
+    "raw_data": "Federalist 84", 
+    "unknown_author": "Federalist 84"
+   }
+  ]
+ ], 
+ [
+  316479, 
+  [
+   1364, 
+   1468, 
+   {
+    "raw_data": "steeeeve", 
+    "quote_id": 316422, 
+    "unknown_author": "steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316479, 
+  [
+   2372, 
+   2743, 
+   {
+    "raw_data": "steeeeve", 
+    "quote_id": 316423, 
+    "unknown_author": "steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "lesz;316449", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   332, 
+   721, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   933, 
+   1337, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   1698, 
+   1971, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   2593, 
+   3244, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   3431, 
+   3525, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   3903, 
+   4101, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   4282, 
+   4541, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316485, 
+  [
+   4746, 
+   4842, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316449, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317282, 
+  [
+   0, 
+   4133, 
+   {
+    "raw_data": "jyoshu;317276", 
+    "quote_id": 317276, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  314958, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Phyllis;314828", 
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314958, 
+  [
+   504, 
+   708, 
+   {
+    "raw_data": "Phyllis;314828", 
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315471, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "jyoshu;315444", 
+    "quote_id": 315444, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  318033, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Steeeeve;318021", 
+    "quote_id": 318021, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316501, 
+  [
+   0, 
+   549, 
+   {
+    "raw_data": "Phyllis;316485", 
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316502, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "jyoshu;316462", 
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  315480, 
+  [
+   0, 
+   5760, 
+   {
+    "raw_data": "Ohioprof;315471", 
+    "quote_id": 315471, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316505, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Ohioprof;316502", 
+    "quote_id": 316502, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316505, 
+  [
+   323, 
+   508, 
+   {
+    "raw_data": "Ohioprof;316501", 
+    "quote_id": 316501, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  318044, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "chester;318033", 
+    "quote_id": 318033, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  315578, 
+  [
+   0, 
+   733, 
+   {
+    "raw_data": "jyoshu;315480", 
+    "quote_id": 315480, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   0, 
+   3, 
+   {
+    "raw_data": "Phyllis;316826", 
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   9, 
+   266, 
+   {}
+  ]
+ ], 
+ [
+  317025, 
+  [
+   459, 
+   977, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   1528, 
+   2141, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   2339, 
+   2985, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   3202, 
+   3631, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   3939, 
+   4535, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   4774, 
+   5340, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   5597, 
+   5954, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   6088, 
+   6514, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317025, 
+  [
+   6754, 
+   8184, 
+   {
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317897, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "chester;317890", 
+    "quote_id": 317890, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317027, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "lesz;317025", 
+    "quote_id": 317025, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Ohioprof;316486", 
+    "quote_id": 316486, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   509, 
+   758, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316486, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   1002, 
+   1196, 
+   {
+    "raw_data": "Federalist 84", 
+    "unknown_author": "Federalist 84"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   1421, 
+   1609, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316486, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   2393, 
+   2489, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316486, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   2541, 
+   3134, 
+   {
+    "raw_data": "Ohioprof", 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   4183, 
+   4635, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316486, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   5224, 
+   5618, 
+   {
+    "raw_data": "Loving v. Virginia", 
+    "quote_id": 316527, 
+    "unknown_author": "Loving v. Virginia", 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316516, 
+  [
+   5821, 
+   5973, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316486, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316519, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Ohioprof;316430", 
+    "quote_id": 316430, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316520, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Ohioprof;316431", 
+    "quote_id": 316431, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316521, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Ohioprof;316501", 
+    "quote_id": 316501, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316521, 
+  [
+   2034, 
+   2153, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316501, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316521, 
+  [
+   2179, 
+   2314, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316511, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315499, 
+  [
+   0, 
+   2286, 
+   {
+    "raw_data": "jyoshu;315480", 
+    "quote_id": 315480, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316526, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Steeeeve;316519", 
+    "quote_id": 316519, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316528, 
+  [
+   0, 
+   1086, 
+   {
+    "raw_data": "Phyllis;316521", 
+    "quote_id": 316521, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318496, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Phyllis;318483", 
+    "quote_id": 318483, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318483, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "chester;318161", 
+    "quote_id": 318161, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317630, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Steeeeve;317621", 
+    "quote_id": 317621, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316539, 
+  [
+   172, 
+   393, 
+   {
+    "raw_data": "Ohioprof;316527", 
+    "quote_id": 316527, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316539, 
+  [
+   1180, 
+   1665, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316527, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316539, 
+  [
+   1904, 
+   2611, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 316527, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316541, 
+  [
+   0, 
+   1780, 
+   {
+    "raw_data": "Phyllis;316539", 
+    "quote_id": 316539, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318079, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "Phyllis;318062", 
+    "quote_id": 318062, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317291, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "jyoshu;317290", 
+    "quote_id": 317290, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  318084, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 318079, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318084, 
+  [
+   549, 
+   1177, 
+   {}
+  ]
+ ], 
+ [
+  318084, 
+  [
+   1183, 
+   1223, 
+   {
+    "raw_data": "chester;318079", 
+    "quote_id": 318079, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318084, 
+  [
+   1656, 
+   1766, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 318079, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318084, 
+  [
+   2560, 
+   2645, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 318079, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317067, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317067, 
+  [
+   96, 
+   128, 
+   {
+    "raw_data": "lesz;317025", 
+    "quote_id": 317025, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317549, 
+  [
+   0, 
+   1658, 
+   {
+    "raw_data": "Steeeeve;317500", 
+    "quote_id": 317500, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  318232, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Steeeeve;317809", 
+    "quote_id": 317809, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  318098, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "jyoshu;317897", 
+    "quote_id": 317897, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  314003, 
+  [
+   260, 
+   4067, 
+   {}
+  ]
+ ], 
+ [
+  318102, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "chester;318079", 
+    "quote_id": 318079, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318102, 
+  [
+   400, 
+   590, 
+   {
+    "quote_id": 318079, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314013, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "robbie0517", 
+    "author": "robbie0517"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "lesz;315874", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   593, 
+   726, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   987, 
+   1162, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   1510, 
+   2028, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   3217, 
+   3615, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   3864, 
+   3950, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   4718, 
+   4776, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316066, 
+  [
+   5141, 
+   5159, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317093, 
+  [
+   17, 
+   779, 
+   {}
+  ]
+ ], 
+ [
+  315046, 
+  [
+   0, 
+   824, 
+   {
+    "raw_data": "Phyllis;314828", 
+    "quote_id": 314828, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314026, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "Phyllis;314013", 
+    "quote_id": 314013, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314028, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Matthew S;314026", 
+    "quote_id": 314026, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  314028, 
+  [
+   830, 
+   945, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 314026, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  314028, 
+  [
+   1150, 
+   1222, 
+   {
+    "raw_data": "Matthew S", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  317613, 
+  [
+   604, 
+   1747, 
+   {}
+  ]
+ ], 
+ [
+  317613, 
+  [
+   2011, 
+   2492, 
+   {
+    "quote_id": 317549, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317613, 
+  [
+   2706, 
+   3073, 
+   {
+    "quote_id": 317549, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317613, 
+  [
+   3748, 
+   3837, 
+   {
+    "quote_id": 317549, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317615, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Steeeeve;317613", 
+    "quote_id": 317613, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  314032, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Phyllis;314013", 
+    "quote_id": 314013, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314033, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "Phyllis;314028", 
+    "quote_id": 314028, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314035, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "Phyllis;314013", 
+    "quote_id": 314013, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318644, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "chester;318473", 
+    "quote_id": 318473, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317621, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "chester;317615", 
+    "quote_id": 317615, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317621, 
+  [
+   716, 
+   824, 
+   {
+    "quote_id": 317615, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317621, 
+  [
+   945, 
+   1101, 
+   {
+    "quote_id": 317615, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317111, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Phyllis;316826", 
+    "quote_id": 316826, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314042, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "Phyllis;314013", 
+    "quote_id": 314013, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318653, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "chester;318650", 
+    "quote_id": 318650, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317118, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Ohioprof;317111", 
+    "quote_id": 317111, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  314048, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "Phyllis;314028", 
+    "quote_id": 314028, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317634, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Steeeeve;317502", 
+    "quote_id": 317502, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317899, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "chester;317890", 
+    "quote_id": 317890, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317899, 
+  [
+   361, 
+   520, 
+   {
+    "quote_id": 317890, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317899, 
+  [
+   643, 
+   748, 
+   {
+    "quote_id": 317890, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317899, 
+  [
+   886, 
+   976, 
+   {
+    "quote_id": 317890, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  315080, 
+  [
+   0, 
+   973, 
+   {
+    "raw_data": "lesz;315073", 
+    "quote_id": 315073, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  318650, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "Steeeeve;318645", 
+    "quote_id": 318645, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  314061, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Ohioprof;314044", 
+    "quote_id": 314044, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316111, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "Phyllis;316066", 
+    "quote_id": 316066, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316111, 
+  [
+   617, 
+   1253, 
+   {}
+  ]
+ ], 
+ [
+  318161, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "Steeeeve;318102", 
+    "quote_id": 318102, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  314066, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Phyllis;314028", 
+    "quote_id": 314028, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  314066, 
+  [
+   244, 
+   282, 
+   {
+    "raw_data": "Phyllis;314028", 
+    "quote_id": 314028, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   106, 
+   471, 
+   {
+    "raw_data": "Ohioprof;315080", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   485, 
+   803, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   1545, 
+   1718, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   2561, 
+   2783, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   3221, 
+   3574, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   3778, 
+   4219, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   4695, 
+   5109, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   5640, 
+   5974, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315093, 
+  [
+   6937, 
+   7489, 
+   {
+    "raw_data": "Ohioprof", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315096, 
+  [
+   0, 
+   430, 
+   {
+    "raw_data": "Phyllis;315093", 
+    "quote_id": 315093, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315105, 
+  [
+   0, 
+   543, 
+   {
+    "raw_data": "jyoshu;315096", 
+    "quote_id": 315096, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316139, 
+  [
+   0, 
+   1720, 
+   {
+    "raw_data": "Ohioprof;315903", 
+    "quote_id": 315903, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316142, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Phyllis;316066", 
+    "quote_id": 316066, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316142, 
+  [
+   159, 
+   412, 
+   {
+    "quote_id": 316066, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316142, 
+  [
+   855, 
+   902, 
+   {
+    "quote_id": 316066, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316142, 
+  [
+   1020, 
+   1088, 
+   {
+    "quote_id": 316066, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317821, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "chester;317817", 
+    "quote_id": 317817, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317821, 
+  [
+   840, 
+   1592, 
+   {
+    "raw_data": "Anti-Federalist 78", 
+    "unknown_author": "Anti-Federalist 78"
+   }
+  ]
+ ], 
+ [
+  317821, 
+  [
+   1712, 
+   2699, 
+   {
+    "raw_data": "Federalist 78", 
+    "unknown_author": "Federalist 78"
+   }
+  ]
+ ], 
+ [
+  317821, 
+  [
+   2761, 
+   3325, 
+   {
+    "raw_data": "Federalist 78", 
+    "unknown_author": "Federalist 78"
+   }
+  ]
+ ], 
+ [
+  317821, 
+  [
+   3329, 
+   3386, 
+   {
+    "quote_id": 317817, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  316148, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "lesz;316139", 
+    "quote_id": 316139, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316161, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Phyllis;316066", 
+    "quote_id": 316066, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318210, 
+  [
+   0, 
+   1063, 
+   {
+    "raw_data": "chester;318161", 
+    "quote_id": 318161, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318218, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Steeeeve;318210", 
+    "quote_id": 318210, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316684, 
+  [
+   0, 
+   3346, 
+   {
+    "raw_data": "Ohioprof;316457", 
+    "quote_id": 316457, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  319386, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Steeeeve;319345", 
+    "quote_id": 319345, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316688, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "jyoshu;316462", 
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316688, 
+  [
+   799, 
+   1334, 
+   {
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316688, 
+  [
+   1823, 
+   2108, 
+   {
+    "quote_id": 316462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  319251, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "chester;319131", 
+    "quote_id": 319131, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Phyllis;316485", 
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   418, 
+   569, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   1434, 
+   1638, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   2177, 
+   2530, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   3410, 
+   3984, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   4955, 
+   5134, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   5769, 
+   6139, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   7203, 
+   7376, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316693, 
+  [
+   8031, 
+   8228, 
+   {
+    "quote_id": 316485, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  319254, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Steeeeve;319251", 
+    "quote_id": 319251, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317207, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Ohioprof;317088", 
+    "quote_id": 317088, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317207, 
+  [
+   1239, 
+   2549, 
+   {
+    "raw_data": "Ohioprof;317088", 
+    "quote_id": 317088, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317207, 
+  [
+   3029, 
+   3592, 
+   {
+    "raw_data": "Ohioprof;317088", 
+    "quote_id": 317088, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317207, 
+  [
+   4083, 
+   4395, 
+   {
+    "raw_data": "Ohioprof;317088", 
+    "quote_id": 317088, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317207, 
+  [
+   4731, 
+   5282, 
+   {
+    "raw_data": "Ohioprof;317088", 
+    "quote_id": 317088, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316696, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "Ohioprof;316501", 
+    "quote_id": 316501, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317869, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "Steeeeve;317821", 
+    "quote_id": 317821, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  319258, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "chester;319254", 
+    "quote_id": 319254, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318235, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "chester;318218", 
+    "quote_id": 318218, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318236, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "lesz;318232", 
+    "quote_id": 318232, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  315166, 
+  [
+   0, 
+   1990, 
+   {
+    "raw_data": "Ohioprof;315105", 
+    "quote_id": 315105, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  314144, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Phyllis;314111", 
+    "quote_id": 314111, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317219, 
+  [
+   0, 
+   3899, 
+   {
+    "raw_data": "jyoshu;317207", 
+    "quote_id": 317207, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  319131, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Steeeeve;319065", 
+    "quote_id": 319065, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  319387, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Steeeeve;319345", 
+    "quote_id": 319345, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  315181, 
+  [
+   0, 
+   808, 
+   {
+    "raw_data": "Ohioprof;315080", 
+    "quote_id": 315080, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315182, 
+  [
+   0, 
+   2102, 
+   {
+    "raw_data": "jyoshu;315166", 
+    "quote_id": 315166, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  315186, 
+  [
+   0, 
+   1075, 
+   {
+    "raw_data": "Phyllis;315093", 
+    "quote_id": 315093, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317236, 
+  [
+   0, 
+   3321, 
+   {
+    "raw_data": "Ohioprof;317111", 
+    "quote_id": 317111, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317236, 
+  [
+   4461, 
+   5315, 
+   {
+    "raw_data": "Congress", 
+    "unknown_author": "Congress"
+   }
+  ]
+ ], 
+ [
+  315191, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Phyllis;315093", 
+    "quote_id": 315093, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  319302, 
+  [
+   0, 
+   539, 
+   {
+    "raw_data": "Steeeeve;319258", 
+    "quote_id": 319258, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317253, 
+  [
+   0, 
+   1444, 
+   {
+    "raw_data": "Steeeeve;317236", 
+    "quote_id": 317236, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  315718, 
+  [
+   0, 
+   1083, 
+   {
+    "raw_data": "Phyllis;315709", 
+    "quote_id": 315709, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  319305, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "chester;319302", 
+    "quote_id": 319302, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318807, 
+  [
+   0, 
+   494, 
+   {
+    "raw_data": "chester;318650", 
+    "quote_id": 318650, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317272, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jyoshu;317067", 
+    "quote_id": 317067, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  318810, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "MrWriteLA;318653", 
+    "quote_id": 318653, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  318810, 
+  [
+   1702, 
+   2939, 
+   {
+    "raw_data": "Heller Case 2008", 
+    "unknown_author": "Heller Case 2008"
+   }
+  ]
+ ], 
+ [
+  318362, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "lesz;318346", 
+    "quote_id": 318346, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317276, 
+  [
+   0, 
+   1362, 
+   {
+    "raw_data": "lesz;317272", 
+    "quote_id": 317272, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317276, 
+  [
+   3878, 
+   4001, 
+   {
+    "raw_data": "lesz;317272", 
+    "quote_id": 317272, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317276, 
+  [
+   4247, 
+   4439, 
+   {
+    "raw_data": "lesz;317272", 
+    "quote_id": 317272, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  315743, 
+  [
+   0, 
+   1089, 
+   {
+    "raw_data": "lesz;315727", 
+    "quote_id": 315727, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  319329, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Steeeeve;319305", 
+    "quote_id": 319305, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  315746, 
+  [
+   0, 
+   2406, 
+   {
+    "raw_data": "Ohioprof;315743", 
+    "quote_id": 315743, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317290, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Ohioprof;317282", 
+    "quote_id": 317282, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  319345, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "chester;319329", 
+    "quote_id": 319329, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317501, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "Ohioprof;317349", 
+    "quote_id": 317349, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317808, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "chester;317630", 
+    "quote_id": 317630, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317809, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "lesz;317634", 
+    "quote_id": 317634, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317809, 
+  [
+   505, 
+   611, 
+   {
+    "quote_id": 317634, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317809, 
+  [
+   1631, 
+   1734, 
+   {
+    "quote_id": 317634, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317300, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Ohioprof;317291", 
+    "quote_id": 317291, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317300, 
+  [
+   521, 
+   877, 
+   {
+    "raw_data": "Ohioprof;317291", 
+    "quote_id": 317291, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316393, 
+  [
+   0, 
+   1568, 
+   {
+    "raw_data": "jyoshu;316391", 
+    "quote_id": 316391, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316792, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316792, 
+  [
+   341, 
+   532, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316792, 
+  [
+   1173, 
+   1368, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316792, 
+  [
+   1716, 
+   2218, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316792, 
+  [
+   3115, 
+   3474, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316792, 
+  [
+   3789, 
+   3991, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317817, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Steeeeve;317808", 
+    "quote_id": 317808, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317307, 
+  [
+   0, 
+   748, 
+   {
+    "raw_data": "jyoshu;317300", 
+    "quote_id": 317300, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317309, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Ohioprof;317307", 
+    "quote_id": 317307, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317309, 
+  [
+   351, 
+   698, 
+   {
+    "raw_data": "Ohioprof;317307", 
+    "quote_id": 317307, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317309, 
+  [
+   920, 
+   1164, 
+   {
+    "raw_data": "Ohioprof;317307", 
+    "quote_id": 317307, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317310, 
+  [
+   0, 
+   818, 
+   {
+    "raw_data": "jyoshu;317309", 
+    "quote_id": 317309, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317320, 
+  [
+   0, 
+   3125, 
+   {
+    "raw_data": "Ohioprof;317310", 
+    "quote_id": 317310, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  318346, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Steeeeve;318236", 
+    "quote_id": 318236, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  318645, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "chester;318523", 
+    "quote_id": 318523, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317327, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "Ohioprof;317253", 
+    "quote_id": 317253, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317327, 
+  [
+   765, 
+   1134, 
+   {
+    "quote_id": 317253, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317327, 
+  [
+   1347, 
+   1608, 
+   {
+    "quote_id": 317253, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317327, 
+  [
+   1872, 
+   2007, 
+   {
+    "quote_id": 317253, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317327, 
+  [
+   2244, 
+   2449, 
+   {
+    "quote_id": 317253, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317327, 
+  [
+   2703, 
+   2972, 
+   {
+    "quote_id": 317253, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Phyllis;316792", 
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   1047, 
+   1680, 
+   {
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   2306, 
+   2646, 
+   {
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   4307, 
+   4365, 
+   {
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   4426, 
+   4701, 
+   {
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   7285, 
+   7592, 
+   {
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316818, 
+  [
+   9354, 
+   9594, 
+   {
+    "quote_id": 316792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316307, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Matthew S;315879", 
+    "quote_id": 315879, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  317336, 
+  [
+   0, 
+   803, 
+   {
+    "raw_data": "jyoshu;317320", 
+    "quote_id": 317320, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317336, 
+  [
+   2598, 
+   2702, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 317320, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317336, 
+  [
+   2818, 
+   3105, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 317320, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  317337, 
+  [
+   0, 
+   1568, 
+   {
+    "raw_data": "jyoshu;317320", 
+    "quote_id": 317320, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "lesz;316818", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   448, 
+   696, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   1222, 
+   1273, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   1357, 
+   1554, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   2825, 
+   3048, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   3494, 
+   3691, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   4128, 
+   4776, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   5950, 
+   6034, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   6873, 
+   6944, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316826, 
+  [
+   7123, 
+   7294, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316818, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317339, 
+  [
+   0, 
+   2100, 
+   {
+    "raw_data": "Steeeeve;317327", 
+    "quote_id": 317327, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  315804, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "lesz;315727", 
+    "quote_id": 315727, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317341, 
+  [
+   0, 
+   672, 
+   {
+    "raw_data": "Ohioprof;317339", 
+    "quote_id": 317339, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317341, 
+  [
+   856, 
+   1168, 
+   {}
+  ]
+ ], 
+ [
+  317341, 
+  [
+   1446, 
+   1611, 
+   {}
+  ]
+ ], 
+ [
+  317341, 
+  [
+   1731, 
+   1766, 
+   {
+    "quote_id": 317339, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317341, 
+  [
+   2051, 
+   2412, 
+   {
+    "quote_id": 317339, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317341, 
+  [
+   2814, 
+   3118, 
+   {}
+  ]
+ ], 
+ [
+  318021, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "chester;318005", 
+    "quote_id": 318005, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317347, 
+  [
+   0, 
+   1608, 
+   {
+    "raw_data": "Steeeeve;317341", 
+    "quote_id": 317341, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  319985, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "Ohioprof;319918", 
+    "quote_id": 319918, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  319400, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "chester;319387", 
+    "quote_id": 319387, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  316332, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "Steeeeve;316307", 
+    "quote_id": 316307, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317550, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Steeeeve;317501", 
+    "quote_id": 317501, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316339, 
+  [
+   0, 
+   4754, 
+   {
+    "raw_data": "Ohioprof;316332", 
+    "quote_id": 316332, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  317879, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "chester;317869", 
+    "quote_id": 317869, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  317879, 
+  [
+   502, 
+   681, 
+   {
+    "quote_id": 317869, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  315837, 
+  [
+   0, 
+   3032, 
+   {
+    "raw_data": "Phyllis;315804", 
+    "quote_id": 315804, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  317887, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Steeeeve;317879", 
+    "quote_id": 317879, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317888, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Matthew S;317887", 
+    "quote_id": 317887, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  317890, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Steeeeve;317879", 
+    "quote_id": 317879, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  317383, 
+  [
+   0, 
+   1515, 
+   {
+    "raw_data": "Ohioprof;317349", 
+    "quote_id": 317349, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  316873, 
+  [
+   143, 
+   562, 
+   {}
+  ]
+ ], 
+ [
+  316363, 
+  [
+   0, 
+   3845, 
+   {
+    "raw_data": "Ohioprof;316148", 
+    "quote_id": 316148, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  314828, 
+  [
+   456, 
+   824, 
+   {
+    "raw_data": "Kronus;314032", 
+    "quote_id": 314032, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  314828, 
+  [
+   2064, 
+   2638, 
+   {
+    "raw_data": "chester", 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  314828, 
+  [
+   3837, 
+   4029, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 314042, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  314828, 
+  [
+   4971, 
+   5327, 
+   {
+    "raw_data": "Matthew S", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  318812, 
+  [
+   0, 
+   1024, 
+   {
+    "raw_data": "Steeeeve;318810", 
+    "quote_id": 318810, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  316370, 
+  [
+   0, 
+   1722, 
+   {
+    "raw_data": "lesz;316363", 
+    "quote_id": 316363, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  318062, 
+  [
+   0, 
+   122, 
+   {
+    "quote_id": 318033, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  318062, 
+  [
+   1298, 
+   1487, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 318033, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  316381, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "lesz;316363", 
+    "quote_id": 316363, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316381, 
+  [
+   3374, 
+   3669, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 316363, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  317407, 
+  [
+   0, 
+   920, 
+   {
+    "raw_data": "lesz;317383", 
+    "quote_id": 317383, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  318433, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Steeeeve;318235", 
+    "quote_id": 318235, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  315874, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Phyllis;315804", 
+    "quote_id": 315804, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315874, 
+  [
+   358, 
+   678, 
+   {
+    "quote_id": 315804, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315874, 
+  [
+   822, 
+   984, 
+   {
+    "quote_id": 315804, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315874, 
+  [
+   1171, 
+   1402, 
+   {
+    "quote_id": 315804, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  315874, 
+  [
+   1930, 
+   2548, 
+   {
+    "quote_id": 315804, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  316387, 
+  [
+   0, 
+   4545, 
+   {
+    "raw_data": "Phyllis;316381", 
+    "quote_id": 316381, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  318437, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "chester;318433", 
+    "quote_id": 318433, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  315879, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "lesz;315727", 
+    "quote_id": 315727, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316392, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Ohioprof;316387", 
+    "quote_id": 316387, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315881, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Matthew S;315879", 
+    "quote_id": 315879, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  317422, 
+  [
+   0, 
+   683, 
+   {
+    "raw_data": "MrWriteLA;317417", 
+    "quote_id": 317417, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  318449, 
+  [
+   0, 
+   5872, 
+   {}
+  ]
+ ], 
+ [
+  315380, 
+  [
+   0, 
+   1112, 
+   {
+    "raw_data": "Ohioprof;315320", 
+    "quote_id": 315320, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315380, 
+  [
+   2290, 
+   2388, 
+   {
+    "raw_data": "Ohioprof;315320", 
+    "quote_id": 315320, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  315902, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Matthew S;315879", 
+    "quote_id": 315879, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  315903, 
+  [
+   0, 
+   1888, 
+   {
+    "raw_data": "lesz;315874", 
+    "quote_id": 315874, 
+    "author": "lesz"
+   }
+  ]
+ ]
+]

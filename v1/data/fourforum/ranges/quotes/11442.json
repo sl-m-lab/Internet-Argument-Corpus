@@ -1,0 +1,497 @@
+[
+ [
+  319075, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Peeling;318982", 
+    "quote_id": 318982, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  318982, 
+  [
+   46, 
+   319, 
+   {}
+  ]
+ ], 
+ [
+  319369, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "Kronus;319346", 
+    "quote_id": 319346, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319369, 
+  [
+   872, 
+   1133, 
+   {
+    "quote_id": 319346, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319369, 
+  [
+   1632, 
+   1764, 
+   {
+    "quote_id": 319346, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319369, 
+  [
+   1902, 
+   2247, 
+   {
+    "quote_id": 319346, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319369, 
+  [
+   2827, 
+   2942, 
+   {
+    "quote_id": 319346, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319369, 
+  [
+   3331, 
+   3505, 
+   {
+    "quote_id": 319346, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319340, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Kronus;319160", 
+    "quote_id": 319160, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319340, 
+  [
+   290, 
+   1059, 
+   {
+    "quote_id": 319160, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319340, 
+  [
+   1525, 
+   1648, 
+   {
+    "quote_id": 319160, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319340, 
+  [
+   2167, 
+   2458, 
+   {
+    "quote_id": 319160, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319340, 
+  [
+   3903, 
+   4005, 
+   {
+    "quote_id": 319160, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319346, 
+  [
+   77, 
+   193, 
+   {
+    "raw_data": "Peeling;319340", 
+    "quote_id": 319340, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319346, 
+  [
+   990, 
+   1159, 
+   {
+    "raw_data": "Peeling;319340", 
+    "quote_id": 319340, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319346, 
+  [
+   1221, 
+   1498, 
+   {
+    "raw_data": "Peeling;319340", 
+    "quote_id": 319340, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319346, 
+  [
+   1983, 
+   2161, 
+   {
+    "raw_data": "Peeling;319340", 
+    "quote_id": 319340, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319346, 
+  [
+   2284, 
+   2774, 
+   {
+    "raw_data": "Peeling;319340", 
+    "quote_id": 319340, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319565, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Peeling;319512", 
+    "quote_id": 319512, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319565, 
+  [
+   664, 
+   828, 
+   {
+    "raw_data": "peeling", 
+    "quote_id": 319512, 
+    "unknown_author": "peeling", 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319565, 
+  [
+   1311, 
+   1496, 
+   {
+    "raw_data": "peeling", 
+    "quote_id": 319512, 
+    "unknown_author": "peeling", 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319532, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Peeling;319512", 
+    "quote_id": 319512, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319512, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Kronus;319391", 
+    "quote_id": 319391, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319512, 
+  [
+   1236, 
+   1458, 
+   {
+    "quote_id": 319391, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319512, 
+  [
+   2015, 
+   2609, 
+   {
+    "quote_id": 319391, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319512, 
+  [
+   2893, 
+   3060, 
+   {
+    "quote_id": 319391, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319512, 
+  [
+   3216, 
+   3298, 
+   {
+    "quote_id": 319391, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319512, 
+  [
+   3618, 
+   3682, 
+   {
+    "quote_id": 319391, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319058, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Peeling;318982", 
+    "quote_id": 318982, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319123, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Kronus;319058", 
+    "quote_id": 319058, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319123, 
+  [
+   64, 
+   207, 
+   {}
+  ]
+ ], 
+ [
+  319123, 
+  [
+   495, 
+   1241, 
+   {
+    "quote_id": 319058, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  319433, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "unkerpaulie;319428", 
+    "quote_id": 319428, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  319433, 
+  [
+   322, 
+   431, 
+   {
+    "raw_data": "unkerpaulie;319428", 
+    "quote_id": 319428, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  319433, 
+  [
+   935, 
+   1379, 
+   {
+    "raw_data": "unkerpaulie;319428", 
+    "quote_id": 319428, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  319160, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Peeling;319123", 
+    "quote_id": 319123, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319160, 
+  [
+   753, 
+   1147, 
+   {
+    "raw_data": "Peeling;319123", 
+    "quote_id": 319123, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319160, 
+  [
+   2048, 
+   2402, 
+   {
+    "raw_data": "Peeling;319123", 
+    "quote_id": 319123, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319160, 
+  [
+   3026, 
+   3284, 
+   {
+    "raw_data": "Peeling;319123", 
+    "quote_id": 319123, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319391, 
+  [
+   0, 
+   838, 
+   {
+    "raw_data": "Peeling;319369", 
+    "quote_id": 319369, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319391, 
+  [
+   1252, 
+   1387, 
+   {
+    "raw_data": "Peeling;319369", 
+    "quote_id": 319369, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319391, 
+  [
+   1802, 
+   1984, 
+   {
+    "raw_data": "Peeling;319369", 
+    "quote_id": 319369, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  319391, 
+  [
+   2586, 
+   3188, 
+   {
+    "raw_data": "Peeling;319369", 
+    "quote_id": 319369, 
+    "author": "Peeling"
+   }
+  ]
+ ]
+]

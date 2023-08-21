@@ -1,0 +1,659 @@
+[
+ [
+  23696, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "LedZeppelin", 
+    "quote_id": 23665, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23696, 
+  [
+   322, 
+   568, 
+   {
+    "quote_id": 23665, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23696, 
+  [
+   864, 
+   1071, 
+   {}
+  ]
+ ], 
+ [
+  23696, 
+  [
+   1271, 
+   1386, 
+   {
+    "quote_id": 23665, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23696, 
+  [
+   1549, 
+   1821, 
+   {
+    "quote_id": 23665, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23696, 
+  [
+   1969, 
+   2166, 
+   {
+    "quote_id": 23665, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23697, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23666, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23698, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23698, 
+  [
+   139, 
+   235, 
+   {
+    "quote_id": 23667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "SmokingRabbit", 
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   108, 
+   410, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   473, 
+   631, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   713, 
+   875, 
+   {}
+  ]
+ ], 
+ [
+  23858, 
+  [
+   934, 
+   1047, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   1109, 
+   1341, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   1388, 
+   1594, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   1681, 
+   1832, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   2053, 
+   2336, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   2368, 
+   2476, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23858, 
+  [
+   2634, 
+   2858, 
+   {
+    "quote_id": 23853, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23753, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23696, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23753, 
+  [
+   389, 
+   675, 
+   {
+    "raw_data": "charchuck", 
+    "quote_id": 23696, 
+    "unknown_author": "charchuck", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23753, 
+  [
+   1002, 
+   1350, 
+   {
+    "raw_data": "charchuck", 
+    "unknown_author": "charchuck"
+   }
+  ]
+ ], 
+ [
+  23753, 
+  [
+   1604, 
+   1743, 
+   {
+    "raw_data": "charchuck", 
+    "quote_id": 23696, 
+    "unknown_author": "charchuck", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23753, 
+  [
+   1851, 
+   2099, 
+   {
+    "raw_data": "charchuck", 
+    "quote_id": 23696, 
+    "unknown_author": "charchuck", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23867, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "SmokingRabbit", 
+    "quote_id": 23866, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23867, 
+  [
+   148, 
+   217, 
+   {
+    "quote_id": 23866, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23867, 
+  [
+   316, 
+   435, 
+   {
+    "quote_id": 23866, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23867, 
+  [
+   551, 
+   704, 
+   {
+    "quote_id": 23866, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23867, 
+  [
+   769, 
+   827, 
+   {
+    "quote_id": 23866, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23867, 
+  [
+   930, 
+   1122, 
+   {
+    "quote_id": 23866, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  24516, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23867, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  24517, 
+  [
+   44, 
+   133, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23867, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23625, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "LedZeppelin", 
+    "quote_id": 23617, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23754, 
+  [
+   0, 
+   523, 
+   {
+    "raw_data": "LedZeppelin", 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "LedZeppelin", 
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   270, 
+   409, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   641, 
+   813, 
+   {}
+  ]
+ ], 
+ [
+  23761, 
+  [
+   1009, 
+   1149, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   1218, 
+   1320, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   1381, 
+   1474, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   1558, 
+   1696, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   1726, 
+   1950, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23761, 
+  [
+   2213, 
+   2366, 
+   {
+    "quote_id": 23753, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23762, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 23759, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  23763, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 23754, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  23765, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23763, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  24551, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "SmokingRabbit", 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  23859, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "SmokingRabbit", 
+    "quote_id": 23854, 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  24554, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23859, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23789, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "LedZeppelin", 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23790, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 23789, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  23791, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 23789, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  23665, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23625, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23665, 
+  [
+   694, 
+   1058, 
+   {
+    "raw_data": "charchuck", 
+    "quote_id": 23625, 
+    "unknown_author": "charchuck", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23665, 
+  [
+   1393, 
+   1740, 
+   {
+    "raw_data": "charchuck", 
+    "unknown_author": "charchuck"
+   }
+  ]
+ ], 
+ [
+  23795, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "LedZeppelin", 
+    "quote_id": 23790, 
+    "author": "LedZeppelin"
+   }
+  ]
+ ], 
+ [
+  23796, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23791, 
+    "author": "Charchuk"
+   }
+  ]
+ ]
+]

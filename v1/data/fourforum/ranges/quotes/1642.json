@@ -1,0 +1,493 @@
+[
+ [
+  48640, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 48591, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  47489, 
+  [
+   68, 
+   1381, 
+   {}
+  ]
+ ], 
+ [
+  47489, 
+  [
+   1400, 
+   3776, 
+   {}
+  ]
+ ], 
+ [
+  48515, 
+  [
+   0, 
+   131, 
+   {
+    "quote_id": 48060, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  52587, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 52492, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  46981, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Patrick Henry", 
+    "quote_id": 35537, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  53134, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 53124, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  51603, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 48640, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  35604, 
+  [
+   0, 
+   1345, 
+   {
+    "raw_data": "Patrick Henry", 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  48452, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "King Triton", 
+    "quote_id": 47720, 
+    "author": "King Triton"
+   }
+  ]
+ ], 
+ [
+  33179, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 33178, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  35357, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 33201, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  53061, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 52696, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53624, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 52587, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  32795, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32623, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  35492, 
+  [
+   0, 
+   11, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 35357, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  53413, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 53235, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  48539, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 48515, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  49330, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "ryaneverk2", 
+    "quote_id": 49268, 
+    "author": "ryaneverk2"
+   }
+  ]
+ ], 
+ [
+  53646, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "The Barbarian", 
+    "quote_id": 53198, 
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  53066, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 53061, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  32964, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32623, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  33224, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 33201, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  48457, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 48060, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  47437, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 47435, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  47441, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 47437, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  35537, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 34888, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33367, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 33302, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  52696, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "emoreno2292", 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  48783, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 48060, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  48606, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 48591, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  47717, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "King Triton", 
+    "quote_id": 47712, 
+    "author": "King Triton"
+   }
+  ]
+ ], 
+ [
+  33126, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Draconis", 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  33105, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 33052, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  47720, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Toukalos", 
+    "quote_id": 47717, 
+    "author": "Toukalos"
+   }
+  ]
+ ], 
+ [
+  47800, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "King Triton", 
+    "quote_id": 47712, 
+    "author": "King Triton"
+   }
+  ]
+ ], 
+ [
+  33005, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32623, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  53235, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "The Barbarian", 
+    "quote_id": 53198, 
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  53623, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "The Barbarian", 
+    "quote_id": 53198, 
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  47484, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Toukalos", 
+    "quote_id": 47483, 
+    "author": "Toukalos"
+   }
+  ]
+ ], 
+ [
+  53418, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "The Barbarian", 
+    "quote_id": 53198, 
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  53418, 
+  [
+   242, 
+   362, 
+   {
+    "quote_id": 53198, 
+    "author": "The Barbarian"
+   }
+  ]
+ ]
+]

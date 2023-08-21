@@ -1,0 +1,157 @@
+[
+ [
+  52000, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 51999, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  52002, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 51999, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  52002, 
+  [
+   157, 
+   580, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 51999, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  52002, 
+  [
+   792, 
+   922, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 51999, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  52013, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 52011, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  52008, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 52002, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  52011, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 52008, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  51565, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "Phunting", 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  51571, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 51565, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  51540, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 51524, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  51540, 
+  [
+   1073, 
+   1359, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 51524, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  51542, 
+  [
+   151, 
+   273, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 51540, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  51996, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 51565, 
+    "author": "billsco"
+   }
+  ]
+ ]
+]

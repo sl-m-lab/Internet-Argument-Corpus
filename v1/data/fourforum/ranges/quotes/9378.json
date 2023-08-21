@@ -1,0 +1,62 @@
+[
+ [
+  246152, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "JPSartre12;246125", 
+    "quote_id": 246125, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246125, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "mae;245407", 
+    "quote_id": 245407, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  245399, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Baron;245035", 
+    "quote_id": 245035, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  245404, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "mae;245399", 
+    "quote_id": 245399, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  245407, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "JPSartre12;245404", 
+    "quote_id": 245404, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,981 @@
+[
+ [
+  139264, 
+  [
+   0, 
+   703, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139179, 
+  [
+   0, 
+   867, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139140, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139140, 
+  [
+   0, 
+   545, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 139100, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  139270, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139256, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139270, 
+  [
+   343, 
+   642, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139256, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139270, 
+  [
+   1387, 
+   1463, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139256, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139270, 
+  [
+   1540, 
+   1809, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139256, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139270, 
+  [
+   2643, 
+   2862, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139256, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139016, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 138967, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  138967, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 138944, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  139020, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 139016, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  139020, 
+  [
+   27, 
+   623, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 138848, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  139202, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 139191, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  134031, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  134937, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 134570, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  134300, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 134132, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  133927, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "notdakuningist", 
+    "quote_id": 133833, 
+    "author": "notdakuningist"
+   }
+  ]
+ ], 
+ [
+  133928, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 133848, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  139228, 
+  [
+   500, 
+   814, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139222, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139228, 
+  [
+   1453, 
+   2405, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139222, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  138929, 
+  [
+   0, 
+   596, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 138848, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  133682, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "notdakuningist", 
+    "author": "notdakuningist"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   736, 
+   818, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   856, 
+   1427, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   1547, 
+   2057, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   2131, 
+   2423, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   2811, 
+   3115, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   3861, 
+   3936, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   4056, 
+   4827, 
+   {
+    "quote_id": 139317, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139379, 
+  [
+   4998, 
+   5523, 
+   {}
+  ]
+ ], 
+ [
+  139448, 
+  [
+   0, 
+   980, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 139436, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  138939, 
+  [
+   0, 
+   596, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 138848, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  138940, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 138938, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139292, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   700, 
+   811, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139292, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   1390, 
+   1682, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139292, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   2200, 
+   2396, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139292, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   2696, 
+   2881, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139292, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   3193, 
+   3302, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139292, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   4158, 
+   4518, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139299, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139317, 
+  [
+   4570, 
+   4943, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 139113, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  138944, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 138939, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  134469, 
+  [
+   0, 
+   41, 
+   {
+    "quote_id": 134210, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   493, 
+   519, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   564, 
+   672, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   801, 
+   863, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   1210, 
+   1586, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   1837, 
+   2203, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   2605, 
+   2969, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   3447, 
+   3557, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   3822, 
+   3983, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139463, 
+  [
+   4563, 
+   4941, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139379, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  134094, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 133928, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  139292, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139270, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139292, 
+  [
+   328, 
+   655, 
+   {
+    "quote_id": 139270, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139292, 
+  [
+   776, 
+   1184, 
+   {
+    "quote_id": 139270, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139292, 
+  [
+   1488, 
+   1557, 
+   {
+    "quote_id": 139270, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139292, 
+  [
+   1765, 
+   2362, 
+   {
+    "quote_id": 139270, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139292, 
+  [
+   2557, 
+   2696, 
+   {
+    "quote_id": 139270, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  138836, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "Comrade Brian", 
+    "quote_id": 134525, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  139222, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139179, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139222, 
+  [
+   614, 
+   882, 
+   {
+    "quote_id": 139179, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  133848, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  134105, 
+  [
+   0, 
+   462, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 134094, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  139450, 
+  [
+   0, 
+   159, 
+   {
+    "quote_id": 139448, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139231, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 139225, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  138848, 
+  [
+   0, 
+   481, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 138836, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  139233, 
+  [
+   0, 
+   1852, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139231, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139446, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 139348, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  139498, 
+  [
+   0, 
+   1065, 
+   {
+    "raw_data": "Roxy", 
+    "author": "Roxy"
+   }
+  ]
+ ], 
+ [
+  134122, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 134094, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  139245, 
+  [
+   0, 
+   1852, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139231, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139600, 
+  [
+   148, 
+   592, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139600, 
+  [
+   1232, 
+   1643, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139251, 
+  [
+   0, 
+   703, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139256, 
+  [
+   0, 
+   704, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139256, 
+  [
+   964, 
+   1474, 
+   {
+    "quote_id": 139228, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139256, 
+  [
+   1785, 
+   2055, 
+   {
+    "quote_id": 139228, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139256, 
+  [
+   2141, 
+   2212, 
+   {
+    "quote_id": 139228, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139256, 
+  [
+   2491, 
+   2580, 
+   {
+    "quote_id": 139233, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139348, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 139204, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  134525, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ]
+]

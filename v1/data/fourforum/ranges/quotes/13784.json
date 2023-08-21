@@ -1,0 +1,774 @@
+[
+ [
+  386306, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "pappillion001;386279", 
+    "quote_id": 386279, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386844, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "Easyrider;385788", 
+    "quote_id": 385788, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  386440, 
+  [
+   0, 
+   697, 
+   {
+    "raw_data": "JPSartre12;386381", 
+    "quote_id": 386381, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  385804, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "simone;385708", 
+    "quote_id": 385708, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  400526, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Easyrider;400418", 
+    "quote_id": 400418, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  386448, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Penfold;386388", 
+    "quote_id": 386388, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  386448, 
+  [
+   573, 
+   734, 
+   {
+    "raw_data": "pappillion001;386440", 
+    "quote_id": 386440, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386448, 
+  [
+   834, 
+   1080, 
+   {
+    "quote_id": 386440, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386448, 
+  [
+   1223, 
+   1685, 
+   {
+    "quote_id": 386440, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386448, 
+  [
+   1776, 
+   2194, 
+   {
+    "quote_id": 386440, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386834, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "JPSartre12;386716", 
+    "quote_id": 386716, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  386451, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "JPSartre12;386353", 
+    "quote_id": 386353, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  387477, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "JPSartre12;387446", 
+    "quote_id": 387446, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  389910, 
+  [
+   147, 
+   1193, 
+   {}
+  ]
+ ], 
+ [
+  389910, 
+  [
+   1199, 
+   1763, 
+   {}
+  ]
+ ], 
+ [
+  387479, 
+  [
+   0, 
+   1168, 
+   {
+    "raw_data": "pappillion001;387477", 
+    "quote_id": 387477, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  400333, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Easyrider;400331", 
+    "quote_id": 400331, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  386716, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "Jo Bennett;386601", 
+    "quote_id": 386601, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  386716, 
+  [
+   336, 
+   2832, 
+   {
+    "raw_data": "pappillion001;386625", 
+    "quote_id": 386625, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  400418, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Shooterandproud;400352", 
+    "quote_id": 400352, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  386854, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "trebor;386844", 
+    "quote_id": 386844, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  386353, 
+  [
+   0, 
+   1083, 
+   {
+    "raw_data": "pappillion001;386351", 
+    "quote_id": 386351, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386601, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "JPSartre12;386499", 
+    "quote_id": 386499, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  389418, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Easyrider;385788", 
+    "quote_id": 385788, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  389418, 
+  [
+   330, 
+   400, 
+   {
+    "quote_id": 385788, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  385708, 
+  [
+   183, 
+   1109, 
+   {}
+  ]
+ ], 
+ [
+  400331, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Addison48;400327", 
+    "quote_id": 400327, 
+    "author": "Addison48"
+   }
+  ]
+ ], 
+ [
+  386351, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Easyrider;386306", 
+    "quote_id": 386306, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  386480, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Easyrider;385788", 
+    "quote_id": 385788, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  386312, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "simone;385868", 
+    "quote_id": 385868, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  386312, 
+  [
+   248, 
+   338, 
+   {
+    "raw_data": "pappillion001;386279", 
+    "quote_id": 386279, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  400563, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Easyrider;400528", 
+    "quote_id": 400528, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  386366, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "JPSartre12;386312", 
+    "quote_id": 386312, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  386366, 
+  [
+   404, 
+   510, 
+   {
+    "raw_data": "JPSartre12;386312", 
+    "quote_id": 386312, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  386366, 
+  [
+   926, 
+   1061, 
+   {
+    "raw_data": "JPSartre12;386312", 
+    "quote_id": 386312, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  386625, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "JPSartre12;386499", 
+    "quote_id": 386499, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  386499, 
+  [
+   0, 
+   1655, 
+   {
+    "raw_data": "pappillion001;386451", 
+    "quote_id": 386451, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  400325, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Lurch907;385890", 
+    "quote_id": 385890, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  400327, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "JPSartre12;386312", 
+    "quote_id": 386312, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  387531, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "JPSartre12;387479", 
+    "quote_id": 387479, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  386381, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "pappillion001;386366", 
+    "quote_id": 386366, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386381, 
+  [
+   642, 
+   1049, 
+   {
+    "quote_id": 386366, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386381, 
+  [
+   1106, 
+   1517, 
+   {
+    "quote_id": 386366, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  386381, 
+  [
+   1581, 
+   2024, 
+   {
+    "quote_id": 386366, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  387661, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "pappillion001;387554", 
+    "quote_id": 387554, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  387554, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Easyrider;387538", 
+    "quote_id": 387538, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  387538, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "pappillion001;387531", 
+    "quote_id": 387531, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  385876, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "simone;385868", 
+    "quote_id": 385868, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  386391, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Easyrider;385788", 
+    "quote_id": 385788, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  389465, 
+  [
+   0, 
+   863, 
+   {
+    "raw_data": "Esdraelon;389407", 
+    "quote_id": 389407, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  400352, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "Easyrider;385788", 
+    "quote_id": 385788, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  400528, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "jitobear;400526", 
+    "quote_id": 400526, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  387427, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "JPSartre12;387050", 
+    "quote_id": 387050, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  385893, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Lurch907;385890", 
+    "quote_id": 385890, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  386279, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Lurch907;385890", 
+    "quote_id": 385890, 
+    "author": "Lurch907"
+   }
+  ]
+ ], 
+ [
+  387050, 
+  [
+   0, 
+   709, 
+   {
+    "raw_data": "pappillion001;386834", 
+    "quote_id": 386834, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  400530, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Easyrider;400528", 
+    "quote_id": 400528, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  389871, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "JPSartre12;389465", 
+    "quote_id": 389465, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  400849, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Easyrider;400418", 
+    "quote_id": 400418, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  400849, 
+  [
+   583, 
+   725, 
+   {
+    "quote_id": 400418, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  387446, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "pappillion001;387427", 
+    "quote_id": 387427, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  400873, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "OldSarge;385876", 
+    "quote_id": 385876, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  386388, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "JPSartre12;386381", 
+    "quote_id": 386381, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  385788, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "simone;385708", 
+    "quote_id": 385708, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  400874, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "JPSartre12;386312", 
+    "quote_id": 386312, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  400917, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Shooterandproud;400849", 
+    "quote_id": 400849, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ]
+]

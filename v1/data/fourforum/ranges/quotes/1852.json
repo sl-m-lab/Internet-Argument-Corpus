@@ -1,0 +1,792 @@
+[
+ [
+  43236, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Ghost", 
+    "quote_id": 43127, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  37139, 
+  [
+   0, 
+   443, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 37088, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37139, 
+  [
+   1117, 
+   1373, 
+   {
+    "quote_id": 37088, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37139, 
+  [
+   1941, 
+   1993, 
+   {}
+  ]
+ ], 
+ [
+  43293, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Ghost", 
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   106, 
+   145, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   188, 
+   243, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   373, 
+   431, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   489, 
+   567, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   629, 
+   652, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   714, 
+   886, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   995, 
+   1725, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43293, 
+  [
+   2087, 
+   2564, 
+   {
+    "quote_id": 43159, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  37156, 
+  [
+   0, 
+   662, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 37139, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37156, 
+  [
+   708, 
+   1266, 
+   {
+    "quote_id": 37139, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  43046, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 42297, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  42408, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42383, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42408, 
+  [
+   1696, 
+   1792, 
+   {
+    "quote_id": 42383, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42408, 
+  [
+   2055, 
+   2420, 
+   {}
+  ]
+ ], 
+ [
+  42408, 
+  [
+   3355, 
+   3724, 
+   {
+    "quote_id": 42385, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  42282, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42195, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  37044, 
+  [
+   0, 
+   321, 
+   {}
+  ]
+ ], 
+ [
+  37044, 
+  [
+   1194, 
+   1360, 
+   {}
+  ]
+ ], 
+ [
+  37044, 
+  [
+   1553, 
+   1917, 
+   {}
+  ]
+ ], 
+ [
+  42297, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42285, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42297, 
+  [
+   794, 
+   1002, 
+   {
+    "quote_id": 42288, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37051, 
+  [
+   0, 
+   1250, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37051, 
+  [
+   1431, 
+   1817, 
+   {}
+  ]
+ ], 
+ [
+  37051, 
+  [
+   2359, 
+   2785, 
+   {}
+  ]
+ ], 
+ [
+  37051, 
+  [
+   2791, 
+   3410, 
+   {}
+  ]
+ ], 
+ [
+  43068, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 43046, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  43068, 
+  [
+   1082, 
+   1432, 
+   {
+    "quote_id": 42989, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  42175, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41571, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42432, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 42408, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  43073, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37444, 
+  [
+   0, 
+   1153, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 37439, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37444, 
+  [
+   1465, 
+   1589, 
+   {}
+  ]
+ ], 
+ [
+  37444, 
+  [
+   2410, 
+   2626, 
+   {
+    "quote_id": 37439, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37705, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 37444, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  41547, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41530, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  37711, 
+  [
+   0, 
+   853, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 37705, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  43225, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 43153, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  43225, 
+  [
+   305, 
+   789, 
+   {
+    "quote_id": 43153, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  43225, 
+  [
+   1065, 
+   1219, 
+   {
+    "quote_id": 43153, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41562, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41555, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41562, 
+  [
+   639, 
+   717, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41555, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  37340, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 37156, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37340, 
+  [
+   615, 
+   937, 
+   {
+    "quote_id": 37156, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  41565, 
+  [
+   0, 
+   751, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41563, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  37088, 
+  [
+   0, 
+   1548, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37088, 
+  [
+   2465, 
+   2956, 
+   {
+    "quote_id": 37051, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37088, 
+  [
+   3222, 
+   3407, 
+   {
+    "quote_id": 37051, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  42980, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42631, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42980, 
+  [
+   1251, 
+   1367, 
+   {
+    "quote_id": 42631, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42980, 
+  [
+   2112, 
+   2329, 
+   {
+    "quote_id": 42631, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42980, 
+  [
+   2789, 
+   2908, 
+   {
+    "quote_id": 42631, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42980, 
+  [
+   3002, 
+   3504, 
+   {
+    "quote_id": 42631, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  43153, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 43076, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  43153, 
+  [
+   1096, 
+   1223, 
+   {
+    "quote_id": 43073, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  43153, 
+  [
+   1564, 
+   1710, 
+   {
+    "quote_id": 43073, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  43153, 
+  [
+   1855, 
+   2009, 
+   {
+    "quote_id": 43073, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  43153, 
+  [
+   2157, 
+   2293, 
+   {
+    "quote_id": 43073, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  43153, 
+  [
+   2824, 
+   3088, 
+   {
+    "quote_id": 43073, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  43076, 
+  [
+   0, 
+   618, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 43068, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  42989, 
+  [
+   940, 
+   1006, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 42980, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  42612, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Ghost", 
+    "quote_id": 42604, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  43128, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Ghost", 
+    "quote_id": 43127, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  37439, 
+  [
+   0, 
+   584, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 37375, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37439, 
+  [
+   1749, 
+   2354, 
+   {
+    "quote_id": 37375, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  37375, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 37340, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37375, 
+  [
+   1155, 
+   1437, 
+   {
+    "quote_id": 37340, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  37375, 
+  [
+   1484, 
+   2042, 
+   {}
+  ]
+ ]
+]

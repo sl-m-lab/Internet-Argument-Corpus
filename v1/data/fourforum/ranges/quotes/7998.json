@@ -1,0 +1,1343 @@
+[
+ [
+  209427, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209362, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209427, 
+  [
+   279, 
+   367, 
+   {
+    "quote_id": 209362, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209427, 
+  [
+   1466, 
+   1706, 
+   {
+    "quote_id": 209359, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209437, 
+  [
+   0, 
+   52, 
+   {
+    "quote_id": 209427, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  209437, 
+  [
+   836, 
+   1170, 
+   {
+    "quote_id": 209427, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  209956, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 209721, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  210496, 
+  [
+   0, 
+   359, 
+   {}
+  ]
+ ], 
+ [
+  210496, 
+  [
+   365, 
+   807, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210208, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209475, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  210510, 
+  [
+   0, 
+   40, 
+   {
+    "quote_id": 210018, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210510, 
+  [
+   46, 
+   67, 
+   {
+    "quote_id": 210018, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210517, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210040, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210006, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 209821, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  210008, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 209821, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  210012, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209956, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210012, 
+  [
+   542, 
+   703, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 209721, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  210012, 
+  [
+   713, 
+   813, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209956, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210012, 
+  [
+   983, 
+   1217, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209956, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210018, 
+  [
+   0, 
+   110, 
+   {}
+  ]
+ ], 
+ [
+  210018, 
+  [
+   116, 
+   153, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209711, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210027, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 209721, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  210541, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210018, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210541, 
+  [
+   381, 
+   530, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210208, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210541, 
+  [
+   756, 
+   1045, 
+   {
+    "quote_id": 210208, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210033, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 210027, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  210036, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 210027, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  210551, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  210040, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 210033, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   310, 
+   346, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   554, 
+   665, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   856, 
+   916, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   960, 
+   1053, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   1231, 
+   1432, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210553, 
+  [
+   2203, 
+   2310, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210541, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210554, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 210517, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  209540, 
+  [
+   0, 
+   12, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 209427, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  210567, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210564, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210568, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210564, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209547, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209362, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  210614, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210568, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209081, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209047, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210207, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 210012, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  210552, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210496, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209106, 
+  [
+   0, 
+   100, 
+   {}
+  ]
+ ], 
+ [
+  209106, 
+  [
+   546, 
+   629, 
+   {}
+  ]
+ ], 
+ [
+  209106, 
+  [
+   749, 
+   809, 
+   {}
+  ]
+ ], 
+ [
+  210131, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209037, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209118, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 209106, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  210655, 
+  [
+   0, 
+   113, 
+   {
+    "quote_id": 209475, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  210655, 
+  [
+   4020, 
+   4144, 
+   {}
+  ]
+ ], 
+ [
+  209122, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 209105, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  209125, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 209123, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  209105, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "MTKnight", 
+    "quote_id": 209081, 
+    "author": "MTKnight"
+   }
+  ]
+ ], 
+ [
+  209129, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 209127, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209642, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209137, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209131, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209129, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209137, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 209135, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  209139, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 209131, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209139, 
+  [
+   100, 
+   147, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 209131, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209139, 
+  [
+   251, 
+   470, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 209131, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209139, 
+  [
+   508, 
+   619, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 209131, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209140, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 209106, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  209158, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 209156, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  210704, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 210585, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  210704, 
+  [
+   107, 
+   141, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 210585, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  210706, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210614, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210706, 
+  [
+   48, 
+   281, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210614, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210706, 
+  [
+   406, 
+   566, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210614, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210564, 
+  [
+   0, 
+   140, 
+   {}
+  ]
+ ], 
+ [
+  210564, 
+  [
+   146, 
+   422, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210552, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210206, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 210006, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  209695, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 209209, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  210208, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210018, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210209, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 210040, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209698, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209695, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   784, 
+   847, 
+   {
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   1842, 
+   1994, 
+   {
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   2234, 
+   2433, 
+   {
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   2673, 
+   2720, 
+   {
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   3810, 
+   3900, 
+   {
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209705, 
+  [
+   4093, 
+   4488, 
+   {
+    "quote_id": 209437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209711, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 209698, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  209721, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209711, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209228, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209225, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209228, 
+  [
+   464, 
+   751, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 209123, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  209230, 
+  [
+   0, 
+   91, 
+   {}
+  ]
+ ], 
+ [
+  209230, 
+  [
+   189, 
+   485, 
+   {}
+  ]
+ ], 
+ [
+  209230, 
+  [
+   631, 
+   1809, 
+   {}
+  ]
+ ], 
+ [
+  209123, 
+  [
+   0, 
+   120, 
+   {}
+  ]
+ ], 
+ [
+  209123, 
+  [
+   126, 
+   156, 
+   {}
+  ]
+ ], 
+ [
+  209123, 
+  [
+   1504, 
+   3413, 
+   {}
+  ]
+ ], 
+ [
+  209209, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209128, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  209244, 
+  [
+   0, 
+   461, 
+   {
+    "quote_id": 209228, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  209245, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209244, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209247, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 209245, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  209252, 
+  [
+   0, 
+   601, 
+   {
+    "raw_data": "INRI", 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209127, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209037, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209276, 
+  [
+   0, 
+   48, 
+   {
+    "quote_id": 209252, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  209280, 
+  [
+   0, 
+   179, 
+   {}
+  ]
+ ], 
+ [
+  209280, 
+  [
+   260, 
+   455, 
+   {}
+  ]
+ ], 
+ [
+  209821, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 209721, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  209336, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209138, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210878, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210704, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210883, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 210758, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  210884, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210878, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210884, 
+  [
+   200, 
+   359, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210878, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210888, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210704, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210888, 
+  [
+   81, 
+   342, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210878, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  210888, 
+  [
+   348, 
+   375, 
+   {
+    "quote_id": 210884, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210888, 
+  [
+   415, 
+   438, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 210884, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  210890, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 210888, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  209359, 
+  [
+   0, 
+   71, 
+   {
+    "quote_id": 209280, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  209359, 
+  [
+   1788, 
+   2032, 
+   {
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  209361, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 209359, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  209362, 
+  [
+   0, 
+   214, 
+   {
+    "quote_id": 209361, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  209362, 
+  [
+   1782, 
+   1834, 
+   {}
+  ]
+ ], 
+ [
+  209380, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 209047, 
+    "author": "Bradamante"
+   }
+  ]
+ ]
+]

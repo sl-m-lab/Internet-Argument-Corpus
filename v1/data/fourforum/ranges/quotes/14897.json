@@ -1,0 +1,392 @@
+[
+ [
+  422400, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "J Miro;422396", 
+    "quote_id": 422396, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422145, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "simone;422135", 
+    "quote_id": 422135, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  422402, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "J Miro;422395", 
+    "unknown_quote_id": 422395, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422402, 
+  [
+   127, 
+   239, 
+   {}
+  ]
+ ], 
+ [
+  422402, 
+  [
+   560, 
+   666, 
+   {}
+  ]
+ ], 
+ [
+  422405, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "J Miro;422395", 
+    "unknown_quote_id": 422395, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422406, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "J Miro;422396", 
+    "quote_id": 422396, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422409, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "J Miro;422396", 
+    "quote_id": 422396, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422414, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "J Miro;422396", 
+    "quote_id": 422396, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422167, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Doc Jones;422145", 
+    "quote_id": 422145, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422167, 
+  [
+   226, 
+   347, 
+   {
+    "quote_id": 422145, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422167, 
+  [
+   535, 
+   597, 
+   {
+    "quote_id": 422145, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422169, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "J Miro;422167", 
+    "quote_id": 422167, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422170, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "simone;422135", 
+    "quote_id": 422135, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  422172, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Doc Jones;422169", 
+    "quote_id": 422169, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422172, 
+  [
+   373, 
+   436, 
+   {
+    "quote_id": 422169, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422173, 
+  [
+   0, 
+   895, 
+   {
+    "raw_data": "J Miro;422170", 
+    "quote_id": 422170, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422180, 
+  [
+   0, 
+   895, 
+   {
+    "raw_data": "J Miro;422170", 
+    "quote_id": 422170, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422204, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "simone;422135", 
+    "quote_id": 422135, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  422204, 
+  [
+   319, 
+   743, 
+   {}
+  ]
+ ], 
+ [
+  422204, 
+  [
+   758, 
+   1359, 
+   {}
+  ]
+ ], 
+ [
+  422205, 
+  [
+   0, 
+   791, 
+   {
+    "raw_data": "Tither;422204", 
+    "quote_id": 422204, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   196, 
+   366, 
+   {
+    "raw_data": "Galileo;422224", 
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   1040, 
+   1133, 
+   {
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   1905, 
+   2062, 
+   {
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   2412, 
+   2764, 
+   {
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   3125, 
+   3367, 
+   {
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   3718, 
+   3840, 
+   {
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422227, 
+  [
+   4686, 
+   4861, 
+   {
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422228, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Doc Jones;422205", 
+    "quote_id": 422205, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422248, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "J Miro;422172", 
+    "quote_id": 422172, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422248, 
+  [
+   578, 
+   631, 
+   {
+    "quote_id": 422172, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422377, 
+  [
+   0, 
+   1542, 
+   {
+    "raw_data": "Galileo;422224", 
+    "quote_id": 422224, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422135, 
+  [
+   0, 
+   1174, 
+   {}
+  ]
+ ], 
+ [
+  422396, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Xcaliber;422180", 
+    "quote_id": 422180, 
+    "author": "Xcaliber"
+   }
+  ]
+ ]
+]

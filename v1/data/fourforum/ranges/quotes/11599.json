@@ -1,0 +1,247 @@
+[
+ [
+  325635, 
+  [
+   0, 
+   1243, 
+   {
+    "raw_data": "Penfold;325584", 
+    "quote_id": 325584, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325927, 
+  [
+   0, 
+   1050, 
+   {
+    "raw_data": "daewoo;325846", 
+    "quote_id": 325846, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  325929, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "marc9000;325927", 
+    "quote_id": 325927, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  325929, 
+  [
+   348, 
+   476, 
+   {
+    "quote_id": 325927, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  325929, 
+  [
+   797, 
+   899, 
+   {
+    "quote_id": 325927, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  325936, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "daewoo;325929", 
+    "quote_id": 325929, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  325936, 
+  [
+   221, 
+   532, 
+   {
+    "quote_id": 325929, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  325936, 
+  [
+   1043, 
+   1176, 
+   {
+    "quote_id": 325929, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  326068, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Penfold;326042", 
+    "quote_id": 326042, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325941, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "marc9000;325936", 
+    "quote_id": 325936, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  325941, 
+  [
+   736, 
+   800, 
+   {
+    "quote_id": 325936, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  325941, 
+  [
+   980, 
+   1411, 
+   {
+    "quote_id": 325936, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  325941, 
+  [
+   1707, 
+   1808, 
+   {
+    "quote_id": 325936, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  326072, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "TRIGGER;326068", 
+    "quote_id": 326068, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  326074, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "chester;326072", 
+    "quote_id": 326072, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325954, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "TRIGGER;325943", 
+    "quote_id": 325943, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  323914, 
+  [
+   0, 
+   571, 
+   {
+    "raw_data": "isly ilwott;323911", 
+    "quote_id": 323911, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  325713, 
+  [
+   0, 
+   1233, 
+   {
+    "raw_data": "Penfold;325651", 
+    "quote_id": 325651, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325332, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "trebor;325316", 
+    "quote_id": 325316, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  325338, 
+  [
+   0, 
+   523, 
+   {
+    "raw_data": "isly ilwott;325332", 
+    "quote_id": 325332, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  326114, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "vetfromindy;326113", 
+    "quote_id": 326113, 
+    "author": "vetfromindy"
+   }
+  ]
+ ]
+]

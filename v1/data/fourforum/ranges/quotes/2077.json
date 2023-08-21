@@ -1,0 +1,61 @@
+[
+ [
+  42637, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42629, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42484, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42479, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42484, 
+  [
+   131, 
+   244, 
+   {
+    "quote_id": 42479, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42393, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42379, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42331, 
+  [
+   0, 
+   876, 
+   {
+    "raw_data": "remrem", 
+    "quote_id": 42299, 
+    "author": "remrem"
+   }
+  ]
+ ]
+]

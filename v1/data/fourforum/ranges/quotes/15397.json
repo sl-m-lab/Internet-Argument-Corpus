@@ -1,0 +1,708 @@
+[
+ [
+  433088, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "gansao;433064", 
+    "quote_id": 433064, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433154, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Shooterandproud;433150", 
+    "quote_id": 433150, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  431619, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "jyoshu;431590", 
+    "quote_id": 431590, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  431621, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "jyoshu;431590", 
+    "quote_id": 431590, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433158, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "gansao;433155", 
+    "quote_id": 433155, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433158, 
+  [
+   612, 
+   861, 
+   {
+    "quote_id": 433155, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433031, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "jyoshu;431537", 
+    "quote_id": 431537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433031, 
+  [
+   324, 
+   634, 
+   {
+    "raw_data": "gansao;432939", 
+    "quote_id": 432939, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433160, 
+  [
+   0, 
+   991, 
+   {
+    "raw_data": "daewoo;433158", 
+    "quote_id": 433158, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  431625, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Matthew S;431621", 
+    "quote_id": 431621, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  433164, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "gansao;433160", 
+    "quote_id": 433160, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433090, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Shooterandproud;433088", 
+    "quote_id": 433088, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  433167, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "jyoshu;431662", 
+    "quote_id": 431662, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433169, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Penfold;433168", 
+    "quote_id": 433168, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  433155, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "daewoo;433153", 
+    "quote_id": 433153, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  433172, 
+  [
+   0, 
+   1666, 
+   {
+    "raw_data": "Provocateaur;433171", 
+    "quote_id": 433171, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433173, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Penfold;433168", 
+    "quote_id": 433168, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  433178, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "jyoshu;433164", 
+    "quote_id": 433164, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433178, 
+  [
+   439, 
+   641, 
+   {}
+  ]
+ ], 
+ [
+  433178, 
+  [
+   647, 
+   772, 
+   {}
+  ]
+ ], 
+ [
+  433179, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "jyoshu;433173", 
+    "quote_id": 433173, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433185, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Provocateaur;433179", 
+    "quote_id": 433179, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433062, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Provocateaur;433013", 
+    "quote_id": 433013, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  432936, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "jyoshu;432933", 
+    "quote_id": 432933, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433066, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "gansao;433062", 
+    "quote_id": 433062, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432939, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "poet;432936", 
+    "quote_id": 432936, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  431660, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "jyoshu;431625", 
+    "quote_id": 431625, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  431662, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "thelmoose;431653", 
+    "quote_id": 431653, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  433202, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "gansao;433154", 
+    "quote_id": 433154, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433189, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "jyoshu;433185", 
+    "quote_id": 433185, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433141, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Provocateaur;433010", 
+    "quote_id": 433010, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433141, 
+  [
+   721, 
+   797, 
+   {
+    "raw_data": "gansao;433114", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431554, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jyoshu;431537", 
+    "quote_id": 431537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433098, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "gansao;433062", 
+    "quote_id": 433062, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433098, 
+  [
+   195, 
+   299, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433062, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433098, 
+  [
+   471, 
+   531, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433062, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433098, 
+  [
+   823, 
+   951, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433062, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431567, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "jyoshu;431537", 
+    "quote_id": 431537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433114, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Provocateaur;433098", 
+    "quote_id": 433098, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433114, 
+  [
+   444, 
+   607, 
+   {
+    "raw_data": "Provocateaur;433098", 
+    "quote_id": 433098, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433114, 
+  [
+   788, 
+   1070, 
+   {
+    "raw_data": "Provocateaur;433098", 
+    "quote_id": 433098, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433114, 
+  [
+   1463, 
+   2030, 
+   {
+    "raw_data": "Provocateaur;433098", 
+    "quote_id": 433098, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  431590, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "jitobear;431564", 
+    "quote_id": 431564, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  431590, 
+  [
+   102, 
+   220, 
+   {
+    "raw_data": "Matthew S;431567", 
+    "quote_id": 431567, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  431594, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jyoshu;431590", 
+    "quote_id": 431590, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  433067, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "jitobear;433066", 
+    "quote_id": 433066, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  433064, 
+  [
+   0, 
+   666, 
+   {
+    "raw_data": "Shooterandproud;433031", 
+    "quote_id": 433031, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  433010, 
+  [
+   0, 
+   1054, 
+   {}
+  ]
+ ], 
+ [
+  433171, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "gansao;433114", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433171, 
+  [
+   164, 
+   226, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433171, 
+  [
+   253, 
+   396, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433171, 
+  [
+   536, 
+   707, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433171, 
+  [
+   815, 
+   1026, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433171, 
+  [
+   1260, 
+   1343, 
+   {
+    "raw_data": "gansao", 
+    "quote_id": 433114, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433171, 
+  [
+   1611, 
+   2158, 
+   {
+    "raw_data": "gansao", 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  433013, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "gansao;432939", 
+    "quote_id": 432939, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431606, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Jo Bennett;431594", 
+    "quote_id": 431594, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  433144, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Freedom;433141", 
+    "quote_id": 433141, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  433148, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Provocateaur;433098", 
+    "quote_id": 433098, 
+    "author": "Provocateaur"
+   }
+  ]
+ ], 
+ [
+  433150, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "gansao;433090", 
+    "quote_id": 433090, 
+    "author": "gansao"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,515 @@
+[
+ [
+  11784, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11759, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11784, 
+  [
+   945, 
+   1075, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11759, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11784, 
+  [
+   2110, 
+   2361, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11759, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  22538, 
+  [
+   0, 
+   656, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 22530, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   124, 
+   342, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   913, 
+   1018, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   1196, 
+   1374, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   2934, 
+   3082, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   4336, 
+   4456, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   5416, 
+   5479, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11821, 
+  [
+   5713, 
+   5759, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11797, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11797, 
+  [
+   0, 
+   434, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11784, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11797, 
+  [
+   769, 
+   1008, 
+   {
+    "quote_id": 11784, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11797, 
+  [
+   1194, 
+   1249, 
+   {
+    "quote_id": 11784, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11797, 
+  [
+   1405, 
+   1787, 
+   {
+    "quote_id": 11784, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11797, 
+  [
+   1915, 
+   1978, 
+   {
+    "quote_id": 11784, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11797, 
+  [
+   2049, 
+   2098, 
+   {
+    "quote_id": 11784, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  22831, 
+  [
+   0, 
+   9208, 
+   {
+    "raw_data": "AMD4EVER", 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21030, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 21006, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "bravebird", 
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   1427, 
+   1581, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   1962, 
+   2055, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   2339, 
+   2612, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   3410, 
+   3504, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   3883, 
+   4272, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   5226, 
+   5496, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  22703, 
+  [
+   5939, 
+   6112, 
+   {
+    "quote_id": 22475, 
+    "author": "bravebird"
+   }
+  ]
+ ], 
+ [
+  11830, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11821, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11837, 
+  [
+   0, 
+   638, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11830, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  22475, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21193, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21174, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11046, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11846, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11837, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21193, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 21161, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  11851, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11846, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  21082, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 21072, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  11739, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11711, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11742, 
+  [
+   0, 
+   603, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11739, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11743, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 11741, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  11752, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11742, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11754, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11752, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11759, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11754, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11759, 
+  [
+   399, 
+   643, 
+   {
+    "quote_id": 11754, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11759, 
+  [
+   783, 
+   1037, 
+   {
+    "quote_id": 11754, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  20988, 
+  [
+   0, 
+   590, 
+   {
+    "raw_data": "Abraxas", 
+    "quote_id": 20967, 
+    "author": "Abraxas"
+   }
+  ]
+ ]
+]

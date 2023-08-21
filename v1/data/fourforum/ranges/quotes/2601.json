@@ -1,0 +1,98 @@
+[
+ [
+  54919, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 54907, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  54924, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 54919, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  56110, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "umustbebrnagain", 
+    "quote_id": 56102, 
+    "author": "umustbebrnagain"
+   }
+  ]
+ ], 
+ [
+  54980, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 54907, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  54980, 
+  [
+   349, 
+   894, 
+   {
+    "raw_data": "Close_shave", 
+    "quote_id": 54907, 
+    "unknown_author": "Close_shave", 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  56102, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 54924, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  54908, 
+  [
+   0, 
+   165, 
+   {
+    "quote_id": 54907, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  55806, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 55804, 
+    "author": "Mr Jack"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,588 @@
+[
+ [
+  32768, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32766, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32902, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32897, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34570, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 34563, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  32783, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 32781, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  32787, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33819, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 33628, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34282, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 34143, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34282, 
+  [
+   674, 
+   996, 
+   {
+    "quote_id": 34143, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  32931, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32897, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32931, 
+  [
+   704, 
+   942, 
+   {
+    "quote_id": 32897, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32931, 
+  [
+   2679, 
+   2815, 
+   {
+    "quote_id": 32897, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34289, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 34216, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33071, 
+  [
+   0, 
+   544, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  33200, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 33071, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34098, 
+  [
+   0, 
+   751, 
+   {
+    "raw_data": "treat2", 
+    "quote_id": 33819, 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  33203, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32325, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33204, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 33200, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  32437, 
+  [
+   0, 
+   631, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 32398, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  32442, 
+  [
+   0, 
+   1470, 
+   {
+    "raw_data": "treat2", 
+    "quote_id": 32437, 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  34613, 
+  [
+   0, 
+   730, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 34570, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  32577, 
+  [
+   0, 
+   6145, 
+   {
+    "raw_data": "Broker", 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32842, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32840, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32842, 
+  [
+   344, 
+   478, 
+   {
+    "quote_id": 32840, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   261, 
+   334, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   349, 
+   414, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   618, 
+   817, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   1178, 
+   1340, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   1616, 
+   1679, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   2169, 
+   2209, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34768, 
+  [
+   2322, 
+   2478, 
+   {
+    "quote_id": 34613, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33235, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "quote_id": 33204, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  33235, 
+  [
+   835, 
+   881, 
+   {
+    "quote_id": 33204, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  32725, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "treat2", 
+    "quote_id": 32577, 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  34135, 
+  [
+   0, 
+   620, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 34098, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33628, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  32870, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  33514, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  34284, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 34216, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33012, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32934, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33012, 
+  [
+   570, 
+   824, 
+   {
+    "quote_id": 32934, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   126, 
+   157, 
+   {
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   243, 
+   303, 
+   {
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   340, 
+   377, 
+   {
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   407, 
+   445, 
+   {
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   469, 
+   528, 
+   {
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  33527, 
+  [
+   561, 
+   640, 
+   {
+    "quote_id": 33514, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  34140, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 34135, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  33786, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33718, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32765, 
+  [
+   0, 
+   632, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ]
+]

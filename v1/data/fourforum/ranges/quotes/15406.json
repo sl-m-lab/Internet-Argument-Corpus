@@ -1,0 +1,38 @@
+[
+ [
+  432221, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "St.Blues;432209", 
+    "quote_id": 432209, 
+    "author": "St.Blues"
+   }
+  ]
+ ], 
+ [
+  432248, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Xcaliber;432221", 
+    "quote_id": 432221, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432090, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "St.Blues;432009", 
+    "quote_id": 432009, 
+    "author": "St.Blues"
+   }
+  ]
+ ]
+]

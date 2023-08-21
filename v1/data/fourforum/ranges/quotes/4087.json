@@ -1,0 +1,514 @@
+[
+ [
+  86536, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86509, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86538, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 86518, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  86539, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86536, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86539, 
+  [
+   137, 
+   301, 
+   {
+    "quote_id": 86536, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86549, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86539, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86549, 
+  [
+   210, 
+   252, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86539, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86549, 
+  [
+   300, 
+   704, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86539, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86549, 
+  [
+   857, 
+   1046, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86539, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86554, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86549, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86427, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86417, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86557, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86557, 
+  [
+   89, 
+   347, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86554, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86557, 
+  [
+   486, 
+   739, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86554, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86557, 
+  [
+   1355, 
+   1395, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86554, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86558, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86557, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86558, 
+  [
+   210, 
+   393, 
+   {
+    "quote_id": 86557, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86558, 
+  [
+   743, 
+   1135, 
+   {
+    "quote_id": 86557, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86558, 
+  [
+   1749, 
+   2018, 
+   {
+    "quote_id": 86557, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86558, 
+  [
+   2245, 
+   2382, 
+   {
+    "quote_id": 86557, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86434, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86440, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  91817, 
+  [
+   1098, 
+   1193, 
+   {
+    "quote_id": 86558, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91817, 
+  [
+   1541, 
+   1644, 
+   {
+    "quote_id": 86558, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91817, 
+  [
+   1747, 
+   1838, 
+   {
+    "quote_id": 86558, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91817, 
+  [
+   1868, 
+   2063, 
+   {
+    "quote_id": 86558, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91817, 
+  [
+   2176, 
+   2307, 
+   {
+    "quote_id": 86558, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91817, 
+  [
+   2427, 
+   2548, 
+   {
+    "quote_id": 91758, 
+    "author": "SheriG"
+   }
+  ]
+ ], 
+ [
+  86442, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86440, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86444, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86442, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86451, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86427, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86985, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86400, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86462, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 86451, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  91970, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86434, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86468, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 86448, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  91973, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 91970, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  91802, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86538, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  91849, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "SheriG", 
+    "quote_id": 91758, 
+    "author": "SheriG"
+   }
+  ]
+ ], 
+ [
+  86480, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86468, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  91986, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91973, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86490, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86480, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86509, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86490, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  91758, 
+  [
+   0, 
+   194, 
+   {}
+  ]
+ ], 
+ [
+  86518, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 86462, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  87162, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "bd1012", 
+    "quote_id": 86890, 
+    "author": "bd1012"
+   }
+  ]
+ ]
+]

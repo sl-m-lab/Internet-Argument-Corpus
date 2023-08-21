@@ -1,0 +1,828 @@
+[
+ [
+  331008, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "isly ilwott;330935", 
+    "quote_id": 330935, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  331008, 
+  [
+   340, 
+   372, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 330973, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331008, 
+  [
+   471, 
+   487, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 330987, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331010, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "foundit66;331008", 
+    "quote_id": 331008, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331010, 
+  [
+   664, 
+   753, 
+   {
+    "quote_id": 331008, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331010, 
+  [
+   1216, 
+   1488, 
+   {
+    "quote_id": 331008, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331142, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Jo Bennett;331118", 
+    "quote_id": 331118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  331273, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "foundit66;331150", 
+    "quote_id": 331150, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331273, 
+  [
+   146, 
+   386, 
+   {
+    "raw_data": "CUNxTime", 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  330893, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "TRIGGER;330876", 
+    "quote_id": 330876, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  331150, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "jyoshu;331142", 
+    "quote_id": 331142, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  331044, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Ethmi;331010", 
+    "quote_id": 331010, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331044, 
+  [
+   475, 
+   555, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331010, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331044, 
+  [
+   1175, 
+   1238, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331010, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331044, 
+  [
+   1373, 
+   1649, 
+   {
+    "raw_data": "Ethmi", 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331044, 
+  [
+   1788, 
+   1870, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331010, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331044, 
+  [
+   1900, 
+   1985, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331010, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331304, 
+  [
+   24, 
+   422, 
+   {
+    "raw_data": "foundit66;331150", 
+    "quote_id": 331150, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331305, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "CUNxTime;331297", 
+    "quote_id": 331297, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  331305, 
+  [
+   398, 
+   664, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 331297, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  331305, 
+  [
+   1105, 
+   1322, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 331297, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  331305, 
+  [
+   1420, 
+   1800, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 331297, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  330935, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "foundit66;330911", 
+    "quote_id": 330911, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331085, 
+  [
+   0, 
+   2635, 
+   {
+    "raw_data": "foundit66;331071", 
+    "quote_id": 331071, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331088, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "foundit66;331073", 
+    "quote_id": 331073, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  330961, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "isly ilwott;330935", 
+    "quote_id": 330935, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  330965, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "simone;330961", 
+    "quote_id": 330961, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  331094, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Ethmi;331088", 
+    "quote_id": 331088, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331096, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Ethmi;331088", 
+    "quote_id": 331088, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331098, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "Fishbulb;331094", 
+    "quote_id": 331094, 
+    "author": "Fishbulb"
+   }
+  ]
+ ], 
+ [
+  331099, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "chester;331096", 
+    "quote_id": 331096, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  330972, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "TRIGGER;330876", 
+    "quote_id": 330876, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  330973, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "foundit66;330911", 
+    "quote_id": 330911, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  330974, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "simone;330961", 
+    "quote_id": 330961, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  331106, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Ethmi;331085", 
+    "quote_id": 331085, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331106, 
+  [
+   970, 
+   1155, 
+   {
+    "raw_data": "Ethmi", 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331106, 
+  [
+   1256, 
+   1362, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331085, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331106, 
+  [
+   1486, 
+   1577, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331085, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331107, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Ethmi;331098", 
+    "quote_id": 331098, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  330981, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "simone;330961", 
+    "quote_id": 330961, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  331111, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "foundit66;331107", 
+    "quote_id": 331107, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331111, 
+  [
+   142, 
+   364, 
+   {
+    "quote_id": 331107, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331111, 
+  [
+   750, 
+   1075, 
+   {
+    "quote_id": 331107, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331112, 
+  [
+   0, 
+   692, 
+   {
+    "raw_data": "ShadowPikachu;330893", 
+    "quote_id": 330893, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Ethmi;331117", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   265, 
+   427, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   632, 
+   665, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   1047, 
+   1472, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   1565, 
+   1626, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   1954, 
+   2047, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   2213, 
+   2263, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   2411, 
+   2510, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   2738, 
+   2804, 
+   {
+    "raw_data": "http://uk.youtube.com/watch?v=Hdi4onAQBWQ", 
+    "quote_id": 331117, 
+    "unknown_author": "http://uk.youtube.com/watch?v=Hdi4onAQBWQ", 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   3116, 
+   3311, 
+   {
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331132, 
+  [
+   4312, 
+   4593, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331117, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  330987, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Penfold;330877", 
+    "quote_id": 330877, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "foundit66;331106", 
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   569, 
+   810, 
+   {
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   853, 
+   969, 
+   {
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   1404, 
+   1524, 
+   {
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   1595, 
+   1686, 
+   {
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   1789, 
+   1903, 
+   {
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   1969, 
+   2104, 
+   {
+    "quote_id": 331106, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  331117, 
+  [
+   2431, 
+   2492, 
+   {
+    "raw_data": "Foundit's misquotation of my words that essentially meant the same thing, but irritated me anyway :wink:", 
+    "unknown_author": "Foundit's misquotation of my words that essentially meant the same thing, but irritated me anyway :wink:"
+   }
+  ]
+ ], 
+ [
+  331118, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "TRIGGER;331114", 
+    "quote_id": 331114, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  331121, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Ethmi;331111", 
+    "quote_id": 331111, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331121, 
+  [
+   392, 
+   468, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331111, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331121, 
+  [
+   628, 
+   715, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331111, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331121, 
+  [
+   872, 
+   1003, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 331111, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  331123, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "TRIGGER", 
+    "quote_id": 331114, 
+    "author": "TRIGGER"
+   }
+  ]
+ ]
+]

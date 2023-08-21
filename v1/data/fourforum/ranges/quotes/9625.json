@@ -1,0 +1,222 @@
+[
+ [
+  253312, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "supersport;253310", 
+    "quote_id": 253310, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  253312, 
+  [
+   101, 
+   208, 
+   {
+    "quote_id": 253310, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  253330, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Count Otto;253313", 
+    "quote_id": 253313, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  253346, 
+  [
+   0, 
+   132, 
+   {}
+  ]
+ ], 
+ [
+  253352, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "obvious_child;253346", 
+    "quote_id": 253346, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  253354, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Waxy;253352", 
+    "quote_id": 253352, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  253613, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "obvious_child;253589", 
+    "quote_id": 253589, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  253358, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "supersport;253330", 
+    "quote_id": 253330, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  253358, 
+  [
+   181, 
+   372, 
+   {
+    "quote_id": 253330, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  257207, 
+  [
+   0, 
+   539, 
+   {
+    "raw_data": "supersport;257205", 
+    "quote_id": 257205, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  257211, 
+  [
+   0, 
+   539, 
+   {
+    "raw_data": "supersport;257205", 
+    "quote_id": 257205, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  253771, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "obvious_child;253589", 
+    "quote_id": 253589, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  253771, 
+  [
+   96, 
+   250, 
+   {
+    "quote_id": 253613, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  253537, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "supersport;253200", 
+    "quote_id": 253200, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  253537, 
+  [
+   55, 
+   164, 
+   {
+    "quote_id": 253200, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  253815, 
+  [
+   0, 
+   1019, 
+   {
+    "raw_data": "Peeling;253771", 
+    "quote_id": 253771, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  253816, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Peeling;253771", 
+    "quote_id": 253771, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  253819, 
+  [
+   0, 
+   1229, 
+   {
+    "raw_data": "electrolyte;253815", 
+    "quote_id": 253815, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  253310, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "sinjin;253307", 
+    "quote_id": 253307, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

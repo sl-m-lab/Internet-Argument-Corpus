@@ -1,0 +1,163 @@
+[
+ [
+  25218, 
+  [
+   0, 
+   71, 
+   {}
+  ]
+ ], 
+ [
+  25220, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Crim", 
+    "quote_id": 25218, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  25221, 
+  [
+   0, 
+   61, 
+   {
+    "quote_id": 25220, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  25323, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 25213, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  25325, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Crim", 
+    "quote_id": 25221, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  25326, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 25280, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  25329, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 25323, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  25329, 
+  [
+   285, 
+   357, 
+   {
+    "quote_id": 25323, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  25329, 
+  [
+   563, 
+   736, 
+   {
+    "quote_id": 25323, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  25177, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 25173, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  25466, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 25461, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  25213, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 25205, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  25214, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Crim", 
+    "quote_id": 25207, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  25205, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 25177, 
+    "author": "Charchuk"
+   }
+  ]
+ ]
+]

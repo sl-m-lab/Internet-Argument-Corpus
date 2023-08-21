@@ -1,0 +1,62 @@
+[
+ [
+  294666, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "billsco;294583", 
+    "quote_id": 294583, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  294583, 
+  [
+   0, 
+   686, 
+   {
+    "raw_data": "electrolyte;294464", 
+    "quote_id": 294464, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  294583, 
+  [
+   1900, 
+   2204, 
+   {
+    "raw_data": "electrolyte;294464", 
+    "quote_id": 294464, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  294608, 
+  [
+   0, 
+   400, 
+   {
+    "raw_data": "electrolyte;294464", 
+    "quote_id": 294464, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  294614, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Steeeeve;294608", 
+    "quote_id": 294608, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

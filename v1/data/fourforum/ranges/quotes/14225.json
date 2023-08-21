@@ -1,0 +1,766 @@
+[
+ [
+  401158, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "NATO 556;401085", 
+    "quote_id": 401085, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  401159, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "daewoo;401141", 
+    "quote_id": 401141, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  401163, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Sandycane;401039", 
+    "quote_id": 401039, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  401164, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "trebor;401144", 
+    "quote_id": 401144, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401306, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "jyoshu;401185", 
+    "quote_id": 401185, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401039, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jyoshu;401037", 
+    "quote_id": 401037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401168, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "JPSartre12;401163", 
+    "quote_id": 401163, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401170, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "JPSartre12;401169", 
+    "quote_id": 401169, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401170, 
+  [
+   462, 
+   533, 
+   {
+    "quote_id": 401169, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401170, 
+  [
+   765, 
+   850, 
+   {
+    "quote_id": 401169, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401170, 
+  [
+   985, 
+   1082, 
+   {
+    "quote_id": 401169, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401172, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Easyrider;401112", 
+    "quote_id": 401112, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  401173, 
+  [
+   0, 
+   3104, 
+   {
+    "raw_data": "jyoshu;401037", 
+    "quote_id": 401037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401176, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "trebor;401170", 
+    "quote_id": 401170, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401176, 
+  [
+   522, 
+   748, 
+   {
+    "quote_id": 401170, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401176, 
+  [
+   942, 
+   1071, 
+   {
+    "quote_id": 401170, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401176, 
+  [
+   1115, 
+   1293, 
+   {
+    "quote_id": 401170, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401305, 
+  [
+   0, 
+   1284, 
+   {
+    "raw_data": "jyoshu;401179", 
+    "quote_id": 401179, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401178, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "ShadowPikachu;401173", 
+    "quote_id": 401173, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  401179, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "Steeeeve;401159", 
+    "quote_id": 401159, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  401180, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "JPSartre12;401178", 
+    "quote_id": 401178, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401181, 
+  [
+   0, 
+   1156, 
+   {
+    "raw_data": "jyoshu;401179", 
+    "quote_id": 401179, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401217, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "trebor;401213", 
+    "quote_id": 401213, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401183, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "JPSartre12;401178", 
+    "quote_id": 401178, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401184, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "ShadowPikachu;401180", 
+    "quote_id": 401180, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  401185, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Sandycane;401183", 
+    "quote_id": 401183, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  401187, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "JPSartre12;401176", 
+    "quote_id": 401176, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401187, 
+  [
+   238, 
+   428, 
+   {
+    "quote_id": 401176, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401187, 
+  [
+   560, 
+   658, 
+   {
+    "quote_id": 401176, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  401319, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Symbiote;401316", 
+    "quote_id": 401316, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  401192, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "jyoshu;401185", 
+    "quote_id": 401185, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401193, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "trebor;401187", 
+    "quote_id": 401187, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  401322, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "jyoshu;401320", 
+    "quote_id": 401320, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401197, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Sandycane;401193", 
+    "quote_id": 401193, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  401199, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "simone;401198", 
+    "quote_id": 401198, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  401200, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "ShadowPikachu;401173", 
+    "quote_id": 401173, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  401201, 
+  [
+   0, 
+   534, 
+   {
+    "raw_data": "simone;401200", 
+    "quote_id": 401200, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  401202, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Easyrider;401112", 
+    "quote_id": 401112, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  401203, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Sandycane;401201", 
+    "quote_id": 401201, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  401204, 
+  [
+   20, 
+   572, 
+   {}
+  ]
+ ], 
+ [
+  401205, 
+  [
+   0, 
+   557, 
+   {
+    "raw_data": "daewoo;401120", 
+    "quote_id": 401120, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  401078, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "NATO 556;401041", 
+    "quote_id": 401041, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  401085, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Matthew S;401081", 
+    "quote_id": 401081, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  401086, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Easyrider;401078", 
+    "quote_id": 401078, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  401087, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Matthew S;401086", 
+    "quote_id": 401086, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  401091, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Matthew S;401086", 
+    "quote_id": 401086, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  401237, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Steeeeve;401235", 
+    "quote_id": 401235, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  401239, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "jyoshu;401237", 
+    "quote_id": 401237, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401239, 
+  [
+   500, 
+   659, 
+   {
+    "quote_id": 401238, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  401113, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Symbiote;401107", 
+    "quote_id": 401107, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  401126, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "daewoo;401120", 
+    "quote_id": 401120, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  401169, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Matthew S;401081", 
+    "quote_id": 401081, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  401169, 
+  [
+   386, 
+   641, 
+   {
+    "raw_data": "Matthew S;401086", 
+    "quote_id": 401086, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  401169, 
+  [
+   718, 
+   846, 
+   {
+    "raw_data": "gansao;401089", 
+    "quote_id": 401089, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  401169, 
+  [
+   937, 
+   1065, 
+   {
+    "raw_data": "Steeeeve;401104", 
+    "quote_id": 401104, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  401130, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Easyrider;401126", 
+    "quote_id": 401126, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  401213, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "jyoshu;401197", 
+    "quote_id": 401197, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401320, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Symbiote;401316", 
+    "quote_id": 401316, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  401235, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "jyoshu;401179", 
+    "quote_id": 401179, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401235, 
+  [
+   382, 
+   638, 
+   {
+    "quote_id": 401179, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401141, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Symbiote;401132", 
+    "quote_id": 401132, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  401141, 
+  [
+   163, 
+   263, 
+   {
+    "quote_id": 401037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401144, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "jyoshu;401037", 
+    "quote_id": 401037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  401149, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Symbiote;401132", 
+    "quote_id": 401132, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  401149, 
+  [
+   157, 
+   261, 
+   {
+    "quote_id": 401037, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,433 @@
+[
+ [
+  240642, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "daewoo;240607", 
+    "quote_id": 240607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  236676, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "daewoo;236659", 
+    "quote_id": 236659, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  236676, 
+  [
+   436, 
+   536, 
+   {
+    "quote_id": 236659, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  240450, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "daewoo;240246", 
+    "quote_id": 240246, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  240450, 
+  [
+   297, 
+   637, 
+   {
+    "quote_id": 240246, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  240450, 
+  [
+   752, 
+   1056, 
+   {
+    "quote_id": 240246, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  237075, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "georged;236923", 
+    "quote_id": 236923, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  237077, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "lord tammerlain;237075", 
+    "quote_id": 237075, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  237210, 
+  [
+   0, 
+   735, 
+   {
+    "raw_data": "georged;237204", 
+    "quote_id": 237204, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239010, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "daewoo;238983", 
+    "quote_id": 238983, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  237732, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "lord tammerlain;237075", 
+    "quote_id": 237075, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  240293, 
+  [
+   0, 
+   1051, 
+   {
+    "raw_data": "xamnr;240252", 
+    "quote_id": 240252, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  239657, 
+  [
+   0, 
+   1557, 
+   {
+    "raw_data": "xamnr;239625", 
+    "quote_id": 239625, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  238983, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "xamnr;238012", 
+    "quote_id": 238012, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  238983, 
+  [
+   2170, 
+   2368, 
+   {
+    "quote_id": 238012, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  238983, 
+  [
+   3060, 
+   3542, 
+   {
+    "quote_id": 238012, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  237101, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "daewoo;237077", 
+    "quote_id": 237077, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  236718, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Steeeeve;236676", 
+    "quote_id": 236676, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  240651, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Steeeeve;240642", 
+    "quote_id": 240642, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  237233, 
+  [
+   0, 
+   2041, 
+   {
+    "raw_data": "xamnr;237224", 
+    "quote_id": 237224, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  237237, 
+  [
+   0, 
+   525, 
+   {
+    "raw_data": "xamnr;237234", 
+    "quote_id": 237234, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  238014, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "xamnr;237959", 
+    "quote_id": 237959, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  236868, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "daewoo;236718", 
+    "quote_id": 236718, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  237255, 
+  [
+   0, 
+   735, 
+   {
+    "raw_data": "georged;237204", 
+    "quote_id": 237204, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239819, 
+  [
+   100, 
+   780, 
+   {}
+  ]
+ ], 
+ [
+  237786, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "georged;237768", 
+    "quote_id": 237768, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  240607, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Steeeeve;240450", 
+    "quote_id": 240450, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  236516, 
+  [
+   113, 
+   445, 
+   {}
+  ]
+ ], 
+ [
+  236516, 
+  [
+   543, 
+   761, 
+   {}
+  ]
+ ], 
+ [
+  236516, 
+  [
+   945, 
+   1224, 
+   {}
+  ]
+ ], 
+ [
+  236516, 
+  [
+   1505, 
+   1678, 
+   {}
+  ]
+ ], 
+ [
+  237798, 
+  [
+   0, 
+   897, 
+   {
+    "raw_data": "xamnr;237795", 
+    "quote_id": 237795, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  237799, 
+  [
+   0, 
+   750, 
+   {
+    "raw_data": "georged;237798", 
+    "quote_id": 237798, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  238055, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "xamnr;238022", 
+    "quote_id": 238022, 
+    "author": "xamnr"
+   }
+  ]
+ ], 
+ [
+  236659, 
+  [
+   0, 
+   469, 
+   {
+    "raw_data": "Steeeeve;236652", 
+    "quote_id": 236652, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  240246, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Steeeeve;240218", 
+    "quote_id": 240218, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  237178, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "lord tammerlain;237101", 
+    "quote_id": 237101, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  236923, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "lord tammerlain;236868", 
+    "quote_id": 236868, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ]
+]

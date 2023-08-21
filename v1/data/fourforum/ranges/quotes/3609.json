@@ -1,0 +1,466 @@
+[
+ [
+  75136, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 75126, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  75522, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 75505, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75139, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75136, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75528, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 75522, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75528, 
+  [
+   104, 
+   408, 
+   {
+    "quote_id": 75522, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75528, 
+  [
+   746, 
+   1219, 
+   {
+    "quote_id": 75522, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75528, 
+  [
+   1620, 
+   1898, 
+   {
+    "quote_id": 75522, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75146, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 75139, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  75532, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 75528, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  75150, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75146, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75158, 
+  [
+   0, 
+   951, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 75150, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  75550, 
+  [
+   0, 
+   661, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75532, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75505, 
+  [
+   0, 
+   1001, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 75380, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75561, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 75528, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  75561, 
+  [
+   740, 
+   1131, 
+   {
+    "quote_id": 75528, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  75561, 
+  [
+   1345, 
+   1567, 
+   {
+    "quote_id": 75528, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  75181, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75121, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75181, 
+  [
+   223, 
+   570, 
+   {
+    "quote_id": 75121, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75181, 
+  [
+   730, 
+   893, 
+   {
+    "quote_id": 75121, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75184, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75158, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75187, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75189, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75187, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75190, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 75189, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75190, 
+  [
+   267, 
+   546, 
+   {
+    "quote_id": 75189, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  74935, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "syklopps61", 
+    "quote_id": 74932, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  75194, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 75190, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  75194, 
+  [
+   437, 
+   670, 
+   {
+    "quote_id": 75190, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  74943, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 74935, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75348, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 75181, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75222, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 74930, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75366, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 74935, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  76650, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75532, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  76650, 
+  [
+   969, 
+   1140, 
+   {
+    "quote_id": 75532, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75121, 
+  [
+   0, 
+   22, 
+   {
+    "quote_id": 74943, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  75123, 
+  [
+   0, 
+   622, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75121, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75123, 
+  [
+   0, 
+   623, 
+   {
+    "quote_id": 75121, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75380, 
+  [
+   308, 
+   435, 
+   {
+    "quote_id": 75194, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75126, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75121, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75256, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  75256, 
+  [
+   351, 
+   478, 
+   {
+    "quote_id": 75194, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

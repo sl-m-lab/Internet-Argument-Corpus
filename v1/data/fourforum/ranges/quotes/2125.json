@@ -1,0 +1,97 @@
+[
+ [
+  42884, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42879, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  43318, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42879, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42888, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "The_Comedian", 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  42892, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 42888, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  42895, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 42892, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  42900, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 42895, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  42906, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Dmann", 
+    "quote_id": 42902, 
+    "author": "Dmann"
+   }
+  ]
+ ], 
+ [
+  42938, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Dmann", 
+    "quote_id": 42936, 
+    "author": "Dmann"
+   }
+  ]
+ ]
+]

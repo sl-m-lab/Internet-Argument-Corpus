@@ -1,0 +1,635 @@
+[
+ [
+  371712, 
+  [
+   434, 
+   794, 
+   {}
+  ]
+ ], 
+ [
+  371712, 
+  [
+   54, 
+   1021, 
+   {}
+  ]
+ ], 
+ [
+  382593, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "JPSartre12;382590", 
+    "quote_id": 382590, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  382595, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "sinjin;382593", 
+    "quote_id": 382593, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  382342, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Archangel;382317", 
+    "quote_id": 382317, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  382599, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "JPSartre12;382595", 
+    "quote_id": 382595, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  382860, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "sinjin;382599", 
+    "quote_id": 382599, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  382989, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "sinjin;382938", 
+    "quote_id": 382938, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371727, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "simone;371712", 
+    "quote_id": 371712, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  382865, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "JPSartre12;382860", 
+    "quote_id": 382860, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  382865, 
+  [
+   107, 
+   200, 
+   {
+    "raw_data": "JPSartre12;382590", 
+    "quote_id": 382590, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  382865, 
+  [
+   206, 
+   325, 
+   {
+    "quote_id": 382860, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  381843, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "OldSarge;372557", 
+    "quote_id": 372557, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  382359, 
+  [
+   0, 
+   533, 
+   {
+    "raw_data": "Archangel;382355", 
+    "quote_id": 382355, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383000, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Ethmi;382989", 
+    "quote_id": 382989, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381855, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "simone;381843", 
+    "quote_id": 381843, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  371746, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "OldSarge;371727", 
+    "quote_id": 371727, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  382371, 
+  [
+   0, 
+   868, 
+   {
+    "raw_data": "jazyjason;382359", 
+    "quote_id": 382359, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  382371, 
+  [
+   1618, 
+   1871, 
+   {
+    "raw_data": "JJ", 
+    "quote_id": 382359, 
+    "unknown_author": "JJ", 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383016, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "sinjin;383000", 
+    "quote_id": 383000, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383019, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Ethmi;383016", 
+    "quote_id": 383016, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  383019, 
+  [
+   117, 
+   242, 
+   {
+    "quote_id": 383016, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  383019, 
+  [
+   261, 
+   310, 
+   {
+    "quote_id": 383016, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  383019, 
+  [
+   453, 
+   572, 
+   {
+    "quote_id": 383016, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  372657, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "OldSarge;372455", 
+    "quote_id": 372455, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372657, 
+  [
+   367, 
+   459, 
+   {
+    "raw_data": "OldSarge", 
+    "quote_id": 372455, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371743, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "OldSarge;371727", 
+    "quote_id": 371727, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  382406, 
+  [
+   0, 
+   740, 
+   {
+    "raw_data": "Archangel;382371", 
+    "quote_id": 382371, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  382406, 
+  [
+   1340, 
+   1662, 
+   {
+    "raw_data": "Archangel;382371", 
+    "quote_id": 382371, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  382406, 
+  [
+   2376, 
+   2923, 
+   {
+    "raw_data": "Archangel;382371", 
+    "quote_id": 382371, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  382406, 
+  [
+   3535, 
+   4245, 
+   {
+    "raw_data": "Archangel;382371", 
+    "quote_id": 382371, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383815, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Steeeeve;383740", 
+    "quote_id": 383740, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  372557, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "simone;372540", 
+    "quote_id": 372540, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  371791, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "jyoshu;371778", 
+    "quote_id": 371778, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  372562, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "simone;372560", 
+    "quote_id": 372560, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  383061, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "sinjin;383019", 
+    "quote_id": 383019, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383061, 
+  [
+   176, 
+   330, 
+   {}
+  ]
+ ], 
+ [
+  383061, 
+  [
+   387, 
+   421, 
+   {
+    "quote_id": 383019, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371799, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "foundit66;371746", 
+    "quote_id": 371746, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  371799, 
+  [
+   116, 
+   305, 
+   {
+    "raw_data": "Jyoshu", 
+    "quote_id": 371778, 
+    "unknown_author": "Jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  382297, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "OldSarge;381855", 
+    "quote_id": 381855, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  382938, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Ethmi;382909", 
+    "quote_id": 382909, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  372559, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "simone;372542", 
+    "quote_id": 372542, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  371935, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "jyoshu;371778", 
+    "quote_id": 371778, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  371935, 
+  [
+   314, 
+   426, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 371799, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  382307, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "simone;382297", 
+    "quote_id": 382297, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  382565, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "OldSarge;382307", 
+    "quote_id": 382307, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372455, 
+  [
+   0, 
+   942, 
+   {
+    "raw_data": "foundit66;371746", 
+    "quote_id": 371746, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  372457, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "simone;371743", 
+    "quote_id": 371743, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  382355, 
+  [
+   0, 
+   982, 
+   {
+    "raw_data": "jazyjason;382342", 
+    "quote_id": 382342, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  381715, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "foundit66;372657", 
+    "quote_id": 372657, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  382584, 
+  [
+   0, 
+   1229, 
+   {
+    "raw_data": "sinjin;371791", 
+    "quote_id": 371791, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  382586, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "JPSartre12;382584", 
+    "quote_id": 382584, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  382590, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "sinjin;382586", 
+    "quote_id": 382586, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

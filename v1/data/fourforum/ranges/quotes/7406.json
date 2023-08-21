@@ -1,0 +1,384 @@
+[
+ [
+  194050, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194037, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194691, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194656, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194691, 
+  [
+   153, 
+   198, 
+   {
+    "quote_id": 194656, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194692, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194496, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194697, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194691, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194697, 
+  [
+   58, 
+   190, 
+   {
+    "quote_id": 194691, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  229643, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "Steeeeve;193948", 
+    "quote_id": 193948, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198158, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198079, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  229651, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "Aivlis;229632", 
+    "quote_id": 229632, 
+    "author": "Aivlis"
+   }
+  ]
+ ], 
+ [
+  194712, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194682, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194714, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 194712, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198170, 
+  [
+   0, 
+   657, 
+   {
+    "raw_data": "Caprii", 
+    "quote_id": 198158, 
+    "author": "Caprii"
+   }
+  ]
+ ], 
+ [
+  194719, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194714, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194464, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194037, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194473, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194464, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194478, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194038, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  197048, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 194663, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  194493, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194037, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198079, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "Caprii", 
+    "quote_id": 197048, 
+    "author": "Caprii"
+   }
+  ]
+ ], 
+ [
+  194496, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 194493, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  194497, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194473, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194501, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194496, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194722, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 194719, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198108, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198079, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  194013, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 193998, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194656, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194497, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  198114, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198108, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198123, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198114, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  194037, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194013, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194038, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 194003, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  229752, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "Steeeeve;193948", 
+    "quote_id": 193948, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194682, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 194663, 
+    "author": "Wez"
+   }
+  ]
+ ]
+]

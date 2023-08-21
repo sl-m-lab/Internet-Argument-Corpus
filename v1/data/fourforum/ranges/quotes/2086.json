@@ -1,0 +1,507 @@
+[
+ [
+  46214, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 46175, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  48276, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48243, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48412, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "mathurin", 
+    "quote_id": 48381, 
+    "author": "mathurin"
+   }
+  ]
+ ], 
+ [
+  46247, 
+  [
+   0, 
+   543, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 46214, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  46247, 
+  [
+   1602, 
+   2014, 
+   {
+    "quote_id": 46214, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  48296, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Relient Halo", 
+    "quote_id": 48276, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48042, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Relient Halo", 
+    "quote_id": 48039, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48042, 
+  [
+   1394, 
+   1609, 
+   {
+    "quote_id": 48039, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48042, 
+  [
+   3951, 
+   4213, 
+   {
+    "quote_id": 48039, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48042, 
+  [
+   4508, 
+   4871, 
+   {
+    "quote_id": 48039, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48302, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Relient Halo", 
+    "quote_id": 48276, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48310, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 48302, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  46175, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 46145, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  48316, 
+  [
+   0, 
+   158, 
+   {
+    "quote_id": 48310, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48316, 
+  [
+   191, 
+   436, 
+   {
+    "quote_id": 48310, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  45888, 
+  [
+   415, 
+   506, 
+   {
+    "raw_data": "earth", 
+    "quote_id": 42508, 
+    "author": "earth"
+   }
+  ]
+ ], 
+ [
+  46145, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "earth", 
+    "quote_id": 42508, 
+    "author": "earth"
+   }
+  ]
+ ], 
+ [
+  48323, 
+  [
+   0, 
+   879, 
+   {
+    "raw_data": "Relient Halo", 
+    "quote_id": 48310, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48324, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 48302, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  48468, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48035, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48223, 
+  [
+   0, 
+   738, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48042, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48223, 
+  [
+   1207, 
+   1529, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48042, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48223, 
+  [
+   1782, 
+   2329, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48042, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48223, 
+  [
+   3662, 
+   4725, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48042, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48223, 
+  [
+   5551, 
+   5971, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48042, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48223, 
+  [
+   6195, 
+   6481, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48042, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48232, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45884, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "earth", 
+    "quote_id": 42508, 
+    "author": "earth"
+   }
+  ]
+ ], 
+ [
+  48039, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 48035, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "Relient Halo", 
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   560, 
+   803, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   971, 
+   1427, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   2261, 
+   2412, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   2500, 
+   2845, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   3211, 
+   3580, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   4096, 
+   4624, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   7315, 
+   7603, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   8311, 
+   8525, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   8975, 
+   9050, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   9248, 
+   9628, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48242, 
+  [
+   10552, 
+   11153, 
+   {
+    "quote_id": 48223, 
+    "author": "Relient Halo"
+   }
+  ]
+ ], 
+ [
+  48243, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "mathurin", 
+    "quote_id": 48232, 
+    "author": "mathurin"
+   }
+  ]
+ ], 
+ [
+  48243, 
+  [
+   423, 
+   524, 
+   {
+    "quote_id": 48232, 
+    "author": "mathurin"
+   }
+  ]
+ ], 
+ [
+  48243, 
+  [
+   1021, 
+   1743, 
+   {}
+  ]
+ ]
+]

@@ -1,0 +1,83 @@
+[
+ [
+  394152, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "Esdraelon;393989", 
+    "quote_id": 393989, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394258, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "pappillion001;394152", 
+    "quote_id": 394152, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394258, 
+  [
+   508, 
+   781, 
+   {
+    "quote_id": 394152, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394258, 
+  [
+   852, 
+   1220, 
+   {
+    "quote_id": 394152, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394258, 
+  [
+   1456, 
+   1731, 
+   {
+    "quote_id": 394152, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  393965, 
+  [
+   0, 
+   1011, 
+   {
+    "raw_data": "Esdraelon;393913", 
+    "quote_id": 393913, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  393989, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "pappillion001;393965", 
+    "quote_id": 393965, 
+    "author": "pappillion001"
+   }
+  ]
+ ]
+]

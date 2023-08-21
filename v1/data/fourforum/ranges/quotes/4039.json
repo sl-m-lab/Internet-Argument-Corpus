@@ -1,0 +1,796 @@
+[
+ [
+  95234, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 95223, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  95240, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 95234, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  95295, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 95240, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  95498, 
+  [
+   0, 
+   171, 
+   {
+    "quote_id": 95413, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  95498, 
+  [
+   315, 
+   432, 
+   {
+    "quote_id": 95413, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84622, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 84613, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95585, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 95543, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  95381, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85110, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  95382, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Sinjin", 
+    "unknown_author": "Sinjin"
+   }
+  ]
+ ], 
+ [
+  95321, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 95201, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  180765, 
+  [
+   0, 
+   523, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 180764, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  84638, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 84622, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  84638, 
+  [
+   875, 
+   2244, 
+   {}
+  ]
+ ], 
+ [
+  84638, 
+  [
+   2483, 
+   3432, 
+   {}
+  ]
+ ], 
+ [
+  84638, 
+  [
+   3597, 
+   3675, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 84622, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  95301, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 95295, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  95543, 
+  [
+   0, 
+   10, 
+   {
+    "quote_id": 95510, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  95543, 
+  [
+   48, 
+   145, 
+   {
+    "quote_id": 95510, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  95543, 
+  [
+   593, 
+   665, 
+   {
+    "quote_id": 95510, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  96163, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 95611, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  96163, 
+  [
+   721, 
+   938, 
+   {
+    "quote_id": 95611, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  96163, 
+  [
+   1067, 
+   1327, 
+   {}
+  ]
+ ], 
+ [
+  95510, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 95498, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  95510, 
+  [
+   248, 
+   313, 
+   {
+    "quote_id": 95498, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  95663, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 95612, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  95944, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 84825, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  95413, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 95382, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  95497, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 95483, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  86585, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85843, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  86586, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85843, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85181, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85110, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85181, 
+  [
+   349, 
+   420, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85110, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85181, 
+  [
+   462, 
+   508, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85110, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85181, 
+  [
+   716, 
+   757, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85110, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85181, 
+  [
+   857, 
+   985, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85110, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85183, 
+  [
+   0, 
+   959, 
+   {
+    "raw_data": "pnac=ww3", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85440, 
+  [
+   0, 
+   721, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 85224, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  85185, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85183, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85442, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85359, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85189, 
+  [
+   0, 
+   2346, 
+   {
+    "raw_data": "pnac=ww3", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  95431, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 95358, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  85192, 
+  [
+   0, 
+   1210, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 85189, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95223, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 95201, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  85843, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 85834, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  86615, 
+  [
+   256, 
+   881, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   1669, 
+   3738, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   4202, 
+   5641, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   5824, 
+   6859, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   7516, 
+   9932, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   10416, 
+   12790, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   13055, 
+   13359, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   13684, 
+   14043, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   14515, 
+   15556, 
+   {}
+  ]
+ ], 
+ [
+  86615, 
+  [
+   15919, 
+   16926, 
+   {}
+  ]
+ ], 
+ [
+  181208, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 180765, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84825, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 84622, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  84827, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 84642, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  84827, 
+  [
+   333, 
+   395, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 84642, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  84827, 
+  [
+   813, 
+   1029, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 84642, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  84827, 
+  [
+   1285, 
+   2951, 
+   {}
+  ]
+ ], 
+ [
+  84827, 
+  [
+   3049, 
+   6471, 
+   {}
+  ]
+ ], 
+ [
+  84827, 
+  [
+   6924, 
+   7486, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 84642, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95483, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 95431, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85224, 
+  [
+   0, 
+   693, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85192, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  95612, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 95358, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  95421, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "miagirl", 
+    "quote_id": 95381, 
+    "author": "miagirl"
+   }
+  ]
+ ], 
+ [
+  178810, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 95483, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  85439, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85272, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85439, 
+  [
+   476, 
+   1576, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85272, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85439, 
+  [
+   1763, 
+   2330, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 85272, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84604, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84581, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  95358, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 95301, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

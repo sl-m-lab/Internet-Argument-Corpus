@@ -1,0 +1,798 @@
+[
+ [
+  100610, 
+  [
+   863, 
+   3833, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  103045, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102988, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  103048, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 103045, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  100618, 
+  [
+   0, 
+   2389, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  99468, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 99447, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  100624, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100618, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  103057, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 103048, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102418, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102388, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  103059, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102677, 
+  [
+   0, 
+   757, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 102631, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  102550, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 102499, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  102554, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102439, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102554, 
+  [
+   219, 
+   298, 
+   {
+    "quote_id": 102439, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102554, 
+  [
+   516, 
+   567, 
+   {
+    "quote_id": 102439, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102554, 
+  [
+   677, 
+   825, 
+   {
+    "quote_id": 102439, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100379, 
+  [
+   0, 
+   1646, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 100332, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100637, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 100624, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102555, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102550, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102565, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102550, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102705, 
+  [
+   0, 
+   407, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102677, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102579, 
+  [
+   20, 
+   596, 
+   {
+    "raw_data": "Wikipedia", 
+    "unknown_author": "Wikipedia"
+   }
+  ]
+ ], 
+ [
+  103222, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 103157, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  103222, 
+  [
+   532, 
+   1226, 
+   {
+    "raw_data": "Merriam-Webster", 
+    "unknown_author": "Merriam-Webster"
+   }
+  ]
+ ], 
+ [
+  103222, 
+  [
+   1234, 
+   1626, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 103157, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  102717, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 102705, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100543, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100379, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100033, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 99438, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100033, 
+  [
+   355, 
+   483, 
+   {
+    "quote_id": 99438, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  102986, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 102767, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  102988, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 102758, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  102988, 
+  [
+   692, 
+   1006, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 102758, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   1775, 
+   2030, 
+   {
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   2412, 
+   2812, 
+   {
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   3219, 
+   3828, 
+   {
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   4151, 
+   4554, 
+   {
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   5610, 
+   5988, 
+   {
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100685, 
+  [
+   6378, 
+   6501, 
+   {
+    "quote_id": 100610, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  103118, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102733, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102739, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 102733, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  102739, 
+  [
+   1149, 
+   1461, 
+   {
+    "quote_id": 102733, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  100567, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 100543, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100567, 
+  [
+   717, 
+   802, 
+   {
+    "quote_id": 100543, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100567, 
+  [
+   1002, 
+   1230, 
+   {
+    "quote_id": 100543, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100567, 
+  [
+   1639, 
+   1712, 
+   {
+    "quote_id": 100543, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  101080, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  101080, 
+  [
+   2295, 
+   2714, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100989, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  101080, 
+  [
+   3423, 
+   4241, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100989, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  101080, 
+  [
+   4610, 
+   4766, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100989, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  103130, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 103118, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  100061, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  102754, 
+  [
+   0, 
+   748, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 102733, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  102499, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102439, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102758, 
+  [
+   0, 
+   1003, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102754, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  102631, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  99438, 
+  [
+   0, 
+   1189, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 99220, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  102767, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 102717, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100594, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 100575, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100594, 
+  [
+   1166, 
+   1480, 
+   {
+    "quote_id": 100575, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100594, 
+  [
+   1736, 
+   1922, 
+   {
+    "quote_id": 100575, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100594, 
+  [
+   3394, 
+   3598, 
+   {
+    "quote_id": 100575, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100594, 
+  [
+   5483, 
+   5853, 
+   {
+    "quote_id": 100575, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  103157, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 103130, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  100989, 
+  [
+   0, 
+   861, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 100971, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  100989, 
+  [
+   1979, 
+   3366, 
+   {
+    "quote_id": 100971, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  100989, 
+  [
+   4245, 
+   5329, 
+   {
+    "quote_id": 100971, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  100989, 
+  [
+   7172, 
+   7745, 
+   {
+    "quote_id": 100971, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  100989, 
+  [
+   7886, 
+   8603, 
+   {
+    "quote_id": 100971, 
+    "author": "Another opinion"
+   }
+  ]
+ ]
+]

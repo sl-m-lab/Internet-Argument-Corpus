@@ -1,0 +1,121 @@
+[
+ [
+  234310, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "JPSartre12;234210", 
+    "quote_id": 234210, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  234345, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Dono;234310", 
+    "quote_id": 234310, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  234603, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "georged;234549", 
+    "quote_id": 234549, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  234541, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "georged;234463", 
+    "quote_id": 234463, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  234541, 
+  [
+   878, 
+   1070, 
+   {
+    "quote_id": 234463, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  234673, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "jim's trucking;234656", 
+    "quote_id": 234656, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  234389, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "JPSartre12;234345", 
+    "quote_id": 234345, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  234647, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Steeeeve;234605", 
+    "quote_id": 234605, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  234457, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "georged;234389", 
+    "quote_id": 234389, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  234463, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "JPSartre12;234457", 
+    "quote_id": 234457, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

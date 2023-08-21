@@ -1,0 +1,1383 @@
+[
+ [
+  265119, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "chemist99a;265086", 
+    "quote_id": 265086, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265281, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "chemist99a;265143", 
+    "quote_id": 265143, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265281, 
+  [
+   383, 
+   505, 
+   {
+    "quote_id": 265143, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265281, 
+  [
+   540, 
+   636, 
+   {
+    "quote_id": 265143, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265281, 
+  [
+   2390, 
+   2584, 
+   {
+    "quote_id": 265143, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  261313, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "wascallywabbit;261219", 
+    "quote_id": 261219, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260747, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "wascallywabbit;260721", 
+    "quote_id": 260721, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261019, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "wascallywabbit;261006", 
+    "unknown_quote_id": 261006, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261186, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "First1in;261179", 
+    "quote_id": 261179, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261186, 
+  [
+   417, 
+   471, 
+   {
+    "raw_data": "Ripskar;261117", 
+    "quote_id": 261117, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  260883, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "wascallywabbit;260654", 
+    "quote_id": 260654, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260883, 
+  [
+   427, 
+   1417, 
+   {
+    "raw_data": "First1in;260655", 
+    "quote_id": 260655, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "First1in;260747", 
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   354, 
+   419, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   483, 
+   534, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   706, 
+   746, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   1072, 
+   1100, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   1146, 
+   1165, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   1197, 
+   1230, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   1308, 
+   1394, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260756, 
+  [
+   1502, 
+   1528, 
+   {
+    "quote_id": 260747, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260654, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "First1in;260643", 
+    "quote_id": 260643, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  265049, 
+  [
+   0, 
+   460, 
+   {
+    "quote_id": 264994, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265049, 
+  [
+   579, 
+   795, 
+   {}
+  ]
+ ], 
+ [
+  265049, 
+  [
+   1515, 
+   1745, 
+   {
+    "quote_id": 264994, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265049, 
+  [
+   2264, 
+   2599, 
+   {
+    "quote_id": 264994, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265049, 
+  [
+   3731, 
+   3841, 
+   {
+    "quote_id": 264994, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265049, 
+  [
+   4335, 
+   4456, 
+   {
+    "quote_id": 264994, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  261146, 
+  [
+   0, 
+   1161, 
+   {
+    "raw_data": "First1in;261071", 
+    "quote_id": 261071, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261146, 
+  [
+   2062, 
+   2149, 
+   {
+    "quote_id": 261071, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261146, 
+  [
+   2286, 
+   2414, 
+   {
+    "quote_id": 261071, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260507, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "supersport;257357", 
+    "quote_id": 257357, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  260507, 
+  [
+   259, 
+   313, 
+   {
+    "raw_data": "ShadowPikachu;257474", 
+    "quote_id": 257474, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  260507, 
+  [
+   611, 
+   1201, 
+   {
+    "raw_data": "wascallywabbit;257524", 
+    "quote_id": 257524, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260507, 
+  [
+   1424, 
+   1438, 
+   {
+    "raw_data": "SLP;258172", 
+    "quote_id": 258172, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  260507, 
+  [
+   1534, 
+   1975, 
+   {
+    "raw_data": "Demon38;258606", 
+    "quote_id": 258606, 
+    "author": "Demon38"
+   }
+  ]
+ ], 
+ [
+  265116, 
+  [
+   0, 
+   949, 
+   {
+    "raw_data": "chemist99a;265079", 
+    "quote_id": 265079, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265117, 
+  [
+   0, 
+   872, 
+   {
+    "raw_data": "chemist99a;265080", 
+    "quote_id": 265080, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  261023, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "wascallywabbit;261008", 
+    "quote_id": 261008, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261153, 
+  [
+   0, 
+   849, 
+   {
+    "raw_data": "wascallywabbit;261057", 
+    "quote_id": 261057, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261153, 
+  [
+   1009, 
+   1120, 
+   {
+    "quote_id": 261057, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261154, 
+  [
+   0, 
+   1165, 
+   {
+    "raw_data": "wascallywabbit;261146", 
+    "quote_id": 261146, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260643, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "wascallywabbit;260561", 
+    "quote_id": 260561, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261190, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "wascallywabbit;261188", 
+    "quote_id": 261188, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260652, 
+  [
+   754, 
+   851, 
+   {
+    "quote_id": 260561, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260653, 
+  [
+   0, 
+   1065, 
+   {
+    "raw_data": "Symbiote;260652", 
+    "quote_id": 260652, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  258606, 
+  [
+   0, 
+   150, 
+   {}
+  ]
+ ], 
+ [
+  258606, 
+  [
+   324, 
+   508, 
+   {
+    "quote_id": 257524, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  258606, 
+  [
+   747, 
+   818, 
+   {
+    "quote_id": 257524, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260655, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "wascallywabbit;260654", 
+    "quote_id": 260654, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260661, 
+  [
+   209, 
+   327, 
+   {
+    "quote_id": 260653, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260662, 
+  [
+   24, 
+   1221, 
+   {
+    "raw_data": "First1in;260653", 
+    "quote_id": 260653, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261179, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Ripskar;261160", 
+    "quote_id": 261160, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  261059, 
+  [
+   0, 
+   845, 
+   {
+    "raw_data": "wascallywabbit;261057", 
+    "quote_id": 261057, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261311, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "wascallywabbit;261188", 
+    "quote_id": 261188, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261057, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "First1in;261023", 
+    "quote_id": 261023, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261057, 
+  [
+   973, 
+   1053, 
+   {
+    "quote_id": 261023, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261057, 
+  [
+   1906, 
+   2027, 
+   {
+    "quote_id": 261023, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261057, 
+  [
+   2144, 
+   2318, 
+   {
+    "quote_id": 261023, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  257474, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "supersport;257357", 
+    "quote_id": 257357, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  260875, 
+  [
+   0, 
+   1130, 
+   {
+    "raw_data": "wascallywabbit;260756", 
+    "quote_id": 260756, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261060, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Ripskar;261059", 
+    "quote_id": 261059, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  261062, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Ripskar;261059", 
+    "quote_id": 261059, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  261062, 
+  [
+   99, 
+   249, 
+   {
+    "raw_data": "obvious_child;261055", 
+    "unknown_quote_id": 261055, 
+    "unknown_author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  265485, 
+  [
+   0, 
+   748, 
+   {
+    "raw_data": "chemist99a;265315", 
+    "quote_id": 265315, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  261194, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Hi_Its_Me;261190", 
+    "quote_id": 261190, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  261071, 
+  [
+   0, 
+   2362, 
+   {
+    "raw_data": "wascallywabbit;261057", 
+    "quote_id": 261057, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260561, 
+  [
+   0, 
+   300, 
+   {}
+  ]
+ ], 
+ [
+  260561, 
+  [
+   707, 
+   834, 
+   {}
+  ]
+ ], 
+ [
+  260561, 
+  [
+   1534, 
+   1578, 
+   {
+    "quote_id": 260507, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260561, 
+  [
+   2249, 
+   2343, 
+   {
+    "quote_id": 260507, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260561, 
+  [
+   2991, 
+   3712, 
+   {}
+  ]
+ ], 
+ [
+  260561, 
+  [
+   4081, 
+   4215, 
+   {
+    "quote_id": 260507, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260561, 
+  [
+   4490, 
+   4674, 
+   {
+    "quote_id": 260507, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   3, 
+   96, 
+   {}
+  ]
+ ], 
+ [
+  261219, 
+  [
+   197, 
+   672, 
+   {}
+  ]
+ ], 
+ [
+  261219, 
+  [
+   806, 
+   1177, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   0, 
+   1178, 
+   {}
+  ]
+ ], 
+ [
+  261219, 
+  [
+   1416, 
+   1513, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   2037, 
+   2173, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   2381, 
+   2459, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   2858, 
+   3269, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   3392, 
+   3431, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   3752, 
+   3903, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   4337, 
+   4767, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   5432, 
+   7298, 
+   {}
+  ]
+ ], 
+ [
+  261219, 
+  [
+   7477, 
+   8266, 
+   {}
+  ]
+ ], 
+ [
+  261219, 
+  [
+   9064, 
+   9354, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   9808, 
+   9871, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   10216, 
+   10335, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   10359, 
+   10508, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   10524, 
+   10661, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   11245, 
+   11391, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   12210, 
+   12352, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261219, 
+  [
+   13063, 
+   13244, 
+   {
+    "quote_id": 261201, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  257492, 
+  [
+   0, 
+   132, 
+   {
+    "quote_id": 257357, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  265115, 
+  [
+   0, 
+   653, 
+   {}
+  ]
+ ], 
+ [
+  265115, 
+  [
+   1252, 
+   1364, 
+   {
+    "quote_id": 265077, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265115, 
+  [
+   1417, 
+   1551, 
+   {
+    "quote_id": 265077, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  257494, 
+  [
+   0, 
+   132, 
+   {
+    "quote_id": 257357, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  260953, 
+  [
+   259, 
+   482, 
+   {
+    "quote_id": 257526, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261523, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "wascallywabbit;261234", 
+    "quote_id": 261234, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260958, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "First1in;260507", 
+    "quote_id": 260507, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  260960, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "wascallywabbit;260654", 
+    "quote_id": 260654, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260963, 
+  [
+   0, 
+   828, 
+   {
+    "raw_data": "wascallywabbit;260948", 
+    "quote_id": 260948, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261221, 
+  [
+   0, 
+   4, 
+   {
+    "raw_data": "wascallywabbit;261219", 
+    "quote_id": 261219, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261201, 
+  [
+   0, 
+   2221, 
+   {
+    "raw_data": "wascallywabbit;261188", 
+    "quote_id": 261188, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261230, 
+  [
+   22, 
+   131, 
+   {
+    "quote_id": 261219, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261234, 
+  [
+   0, 
+   1064, 
+   {
+    "raw_data": "First1in;261221", 
+    "quote_id": 261221, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  261235, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "wascallywabbit;261234", 
+    "quote_id": 261234, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  257524, 
+  [
+   0, 
+   716, 
+   {
+    "raw_data": "Demon38;257494", 
+    "quote_id": 257494, 
+    "author": "Demon38"
+   }
+  ]
+ ], 
+ [
+  257524, 
+  [
+   1312, 
+   1371, 
+   {
+    "quote_id": 257494, 
+    "author": "Demon38"
+   }
+  ]
+ ], 
+ [
+  257524, 
+  [
+   1571, 
+   1621, 
+   {
+    "quote_id": 257494, 
+    "author": "Demon38"
+   }
+  ]
+ ], 
+ [
+  257526, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Hi_Its_Me;257400", 
+    "quote_id": 257400, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  261225, 
+  [
+   0, 
+   73, 
+   {
+    "quote_id": 261219, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261225, 
+  [
+   246, 
+   409, 
+   {
+    "quote_id": 261219, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261225, 
+  [
+   734, 
+   897, 
+   {
+    "quote_id": 261219, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  257400, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "supersport;257357", 
+    "quote_id": 257357, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  260948, 
+  [
+   0, 
+   613, 
+   {
+    "raw_data": "First1in;260883", 
+    "quote_id": 260883, 
+    "author": "First1in"
+   }
+  ]
+ ], 
+ [
+  258172, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "wascallywabbit;257524", 
+    "quote_id": 257524, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  261117, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Hi_Its_Me;261062", 
+    "quote_id": 261062, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  265109, 
+  [
+   0, 
+   871, 
+   {}
+  ]
+ ], 
+ [
+  265109, 
+  [
+   1574, 
+   1606, 
+   {
+    "quote_id": 265075, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  265109, 
+  [
+   1624, 
+   1870, 
+   {
+    "quote_id": 265075, 
+    "author": "chemist99a"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,2094 @@
+[
+ [
+  311812, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Phyllis;311792", 
+    "quote_id": 311792, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311813, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "chester;311812", 
+    "quote_id": 311812, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311822, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "Phyllis;311813", 
+    "quote_id": 311813, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311823, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Phyllis;311813", 
+    "quote_id": 311813, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311829, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Matthew S;311822", 
+    "quote_id": 311822, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311830, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Matthew S;311822", 
+    "quote_id": 311822, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311831, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "chester;311823", 
+    "quote_id": 311823, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311831, 
+  [
+   505, 
+   620, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311823, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311831, 
+  [
+   652, 
+   763, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311823, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311837, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Phyllis;311831", 
+    "quote_id": 311831, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311842, 
+  [
+   0, 
+   602, 
+   {
+    "raw_data": "Phyllis;311830", 
+    "quote_id": 311830, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311843, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Matthew S;311841", 
+    "unknown_quote_id": 311841, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311847, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "chester;311837", 
+    "quote_id": 311837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311847, 
+  [
+   172, 
+   234, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311847, 
+  [
+   823, 
+   970, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311847, 
+  [
+   1103, 
+   1235, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311848, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Matthew S;311842", 
+    "quote_id": 311842, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311848, 
+  [
+   587, 
+   651, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 311842, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311848, 
+  [
+   727, 
+   827, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 311842, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311850, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "chester;311843", 
+    "quote_id": 311843, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311855, 
+  [
+   0, 
+   785, 
+   {
+    "raw_data": "Phyllis;311848", 
+    "quote_id": 311848, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311858, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Matthew S;311855", 
+    "quote_id": 311855, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311861, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Matthew S;311855", 
+    "quote_id": 311855, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311874, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Phyllis;311861", 
+    "quote_id": 311861, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312390, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "chester;312252", 
+    "quote_id": 312252, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312390, 
+  [
+   288, 
+   394, 
+   {
+    "quote_id": 312252, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312390, 
+  [
+   598, 
+   727, 
+   {
+    "quote_id": 312252, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312390, 
+  [
+   783, 
+   1054, 
+   {}
+  ]
+ ], 
+ [
+  312391, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "chester;312256", 
+    "quote_id": 312256, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312400, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Steeeeve;312390", 
+    "quote_id": 312390, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312404, 
+  [
+   0, 
+   610, 
+   {
+    "raw_data": "lesz;312400", 
+    "quote_id": 312400, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312405, 
+  [
+   0, 
+   961, 
+   {
+    "raw_data": "chester;312402", 
+    "quote_id": 312402, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312406, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "chester;312402", 
+    "quote_id": 312402, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312406, 
+  [
+   746, 
+   1017, 
+   {
+    "quote_id": 312402, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312406, 
+  [
+   1303, 
+   1509, 
+   {
+    "quote_id": 312402, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312406, 
+  [
+   1745, 
+   1790, 
+   {
+    "quote_id": 312402, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312407, 
+  [
+   0, 
+   474, 
+   {
+    "raw_data": "Steeeeve;312404", 
+    "quote_id": 312404, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312408, 
+  [
+   0, 
+   1051, 
+   {
+    "raw_data": "lesz;312405", 
+    "quote_id": 312405, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312408, 
+  [
+   1252, 
+   1642, 
+   {
+    "quote_id": 312405, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312408, 
+  [
+   1731, 
+   1858, 
+   {
+    "quote_id": 312405, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312408, 
+  [
+   1891, 
+   2081, 
+   {
+    "quote_id": 312405, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312408, 
+  [
+   2153, 
+   2299, 
+   {
+    "quote_id": 312405, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312409, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "lesz;312407", 
+    "quote_id": 312407, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312409, 
+  [
+   784, 
+   944, 
+   {
+    "quote_id": 312407, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312409, 
+  [
+   1520, 
+   1645, 
+   {
+    "quote_id": 312407, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312409, 
+  [
+   1871, 
+   2281, 
+   {
+    "quote_id": 312407, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312417, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Steeeeve;312409", 
+    "quote_id": 312409, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312426, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "lesz;312400", 
+    "quote_id": 312400, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312426, 
+  [
+   1341, 
+   1753, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 312400, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312429, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "chester;312417", 
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312429, 
+  [
+   270, 
+   354, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312429, 
+  [
+   562, 
+   666, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312429, 
+  [
+   788, 
+   1045, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312429, 
+  [
+   1430, 
+   1540, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311918, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Phyllis;311850", 
+    "quote_id": 311850, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311920, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "chester;311874", 
+    "quote_id": 311874, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311920, 
+  [
+   697, 
+   813, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311874, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311920, 
+  [
+   979, 
+   1099, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311874, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311921, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "jyoshu;311918", 
+    "quote_id": 311918, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  312437, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Phyllis;312429", 
+    "quote_id": 312429, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "chester;312437", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   251, 
+   327, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   744, 
+   806, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   835, 
+   891, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   1000, 
+   1059, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   1164, 
+   1192, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312438, 
+  [
+   1365, 
+   1467, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312437, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311933, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Phyllis;311920", 
+    "quote_id": 311920, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312446, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "chester;312417", 
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312446, 
+  [
+   465, 
+   722, 
+   {
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312446, 
+  [
+   1014, 
+   1124, 
+   {
+    "quote_id": 312417, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312447, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "chester;312441", 
+    "quote_id": 312441, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311936, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "chester;311935", 
+    "quote_id": 311935, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312450, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "chester;312441", 
+    "quote_id": 312441, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312450, 
+  [
+   851, 
+   1032, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312441, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312450, 
+  [
+   1179, 
+   1296, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312441, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311939, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "chester;311933", 
+    "quote_id": 311933, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311939, 
+  [
+   233, 
+   381, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311933, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311939, 
+  [
+   681, 
+   828, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311933, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311939, 
+  [
+   1027, 
+   1153, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311933, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311939, 
+  [
+   1372, 
+   1531, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311933, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311939, 
+  [
+   1654, 
+   1869, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311933, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311940, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "chester;311935", 
+    "quote_id": 311935, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311940, 
+  [
+   376, 
+   677, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311935, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311940, 
+  [
+   1925, 
+   2091, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311935, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311940, 
+  [
+   2103, 
+   2263, 
+   {
+    "raw_data": "chester&quot;", 
+    "quote_id": 311935, 
+    "unknown_author": "chester&quot", 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311941, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "jyoshu;311936", 
+    "quote_id": 311936, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  311942, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Phyllis;311939", 
+    "quote_id": 311939, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311943, 
+  [
+   0, 
+   916, 
+   {
+    "raw_data": "chester;311941", 
+    "quote_id": 311941, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312456, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "Phyllis;312450", 
+    "quote_id": 312450, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311945, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "jyoshu;311943", 
+    "quote_id": 311943, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  312459, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Phyllis;312457", 
+    "quote_id": 312457, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "chester;311942", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   1036, 
+   1187, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   1290, 
+   1476, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   1653, 
+   1730, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   2328, 
+   2448, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   2772, 
+   2964, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   3090, 
+   3286, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311948, 
+  [
+   3894, 
+   4112, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311942, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312464, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "chester;312459", 
+    "quote_id": 312459, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312464, 
+  [
+   547, 
+   918, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312459, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311969, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Phyllis;311948", 
+    "quote_id": 311948, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311971, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Phyllis;311948", 
+    "quote_id": 311948, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  311974, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "chester;311969", 
+    "quote_id": 311969, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311974, 
+  [
+   727, 
+   813, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 311971, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  311997, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "Steeeeve;311979", 
+    "quote_id": 311979, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312018, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "chester;311997", 
+    "quote_id": 311997, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312018, 
+  [
+   280, 
+   467, 
+   {
+    "quote_id": 311997, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312018, 
+  [
+   810, 
+   874, 
+   {
+    "quote_id": 311997, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312541, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Steeeeve;312408", 
+    "quote_id": 312408, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312541, 
+  [
+   497, 
+   580, 
+   {
+    "quote_id": 312408, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312541, 
+  [
+   1200, 
+   1227, 
+   {
+    "quote_id": 312408, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312543, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Phyllis;312426", 
+    "quote_id": 312426, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312543, 
+  [
+   1108, 
+   1380, 
+   {
+    "quote_id": 312426, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312543, 
+  [
+   2077, 
+   2449, 
+   {
+    "quote_id": 312426, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312543, 
+  [
+   3050, 
+   3431, 
+   {
+    "quote_id": 312426, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312032, 
+  [
+   0, 
+   1106, 
+   {
+    "raw_data": "Steeeeve;312018", 
+    "quote_id": 312018, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312545, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "lesz;312541", 
+    "quote_id": 312541, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312545, 
+  [
+   479, 
+   743, 
+   {}
+  ]
+ ], 
+ [
+  312545, 
+  [
+   866, 
+   1192, 
+   {
+    "quote_id": 312541, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312545, 
+  [
+   1409, 
+   1523, 
+   {
+    "quote_id": 312541, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312034, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "chester;312032", 
+    "quote_id": 312032, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312034, 
+  [
+   519, 
+   777, 
+   {
+    "quote_id": 312032, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312034, 
+  [
+   1577, 
+   1842, 
+   {
+    "quote_id": 312032, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312034, 
+  [
+   2352, 
+   2517, 
+   {
+    "quote_id": 312032, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312552, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "Steeeeve;312447", 
+    "quote_id": 312447, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312045, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Steeeeve;312034", 
+    "quote_id": 312034, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  311935, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Phyllis;311921", 
+    "quote_id": 311921, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312589, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "lesz;312546", 
+    "quote_id": 312546, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312589, 
+  [
+   648, 
+   866, 
+   {
+    "quote_id": 312546, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  312590, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "chester;312552", 
+    "quote_id": 312552, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312093, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "chester;312045", 
+    "quote_id": 312045, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312093, 
+  [
+   533, 
+   665, 
+   {
+    "quote_id": 312045, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312093, 
+  [
+   1069, 
+   1265, 
+   {
+    "quote_id": 312045, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312093, 
+  [
+   1498, 
+   1665, 
+   {
+    "quote_id": 312045, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312613, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Steeeeve;312589", 
+    "quote_id": 312589, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312112, 
+  [
+   0, 
+   1009, 
+   {
+    "raw_data": "chester;312104", 
+    "quote_id": 312104, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312112, 
+  [
+   1137, 
+   1274, 
+   {
+    "quote_id": 312104, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312112, 
+  [
+   1752, 
+   1909, 
+   {
+    "quote_id": 312104, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312112, 
+  [
+   2352, 
+   3102, 
+   {
+    "quote_id": 312107, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312457, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "chester;312456", 
+    "quote_id": 312456, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312457, 
+  [
+   553, 
+   668, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312456, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312457, 
+  [
+   821, 
+   849, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312456, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312457, 
+  [
+   1048, 
+   1156, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312456, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312457, 
+  [
+   1369, 
+   1469, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312456, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312135, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Steeeeve;312112", 
+    "quote_id": 312112, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312460, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "chester;312459", 
+    "quote_id": 312459, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312460, 
+  [
+   197, 
+   431, 
+   {
+    "quote_id": 312459, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312460, 
+  [
+   1014, 
+   1079, 
+   {
+    "quote_id": 312459, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312546, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Steeeeve;312545", 
+    "quote_id": 312545, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312546, 
+  [
+   249, 
+   459, 
+   {
+    "quote_id": 312545, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312546, 
+  [
+   896, 
+   1114, 
+   {
+    "quote_id": 312545, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312154, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "chester;312135", 
+    "quote_id": 312135, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312156, 
+  [
+   0, 
+   754, 
+   {
+    "raw_data": "Phyllis;312154", 
+    "quote_id": 312154, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  312174, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "chester;312135", 
+    "quote_id": 312135, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312174, 
+  [
+   823, 
+   913, 
+   {
+    "quote_id": 312135, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312174, 
+  [
+   1625, 
+   1814, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312156, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312177, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Steeeeve;312174", 
+    "quote_id": 312174, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312179, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "chester;312156", 
+    "quote_id": 312156, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312179, 
+  [
+   790, 
+   838, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 312156, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "chester;312177", 
+    "quote_id": 312177, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   420, 
+   2483, 
+   {
+    "raw_data": "Anti-Federalist Papers", 
+    "unknown_author": "Anti-Federalist Papers"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   2484, 
+   2666, 
+   {
+    "raw_data": "Federalist Papers", 
+    "unknown_author": "Federalist Papers"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   2670, 
+   2748, 
+   {
+    "quote_id": 312177, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   2841, 
+   3053, 
+   {
+    "quote_id": 312177, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   3130, 
+   3303, 
+   {
+    "quote_id": 312177, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   3371, 
+   3553, 
+   {
+    "quote_id": 312177, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312180, 
+  [
+   3790, 
+   3859, 
+   {
+    "quote_id": 312177, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312207, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "chester;312197", 
+    "quote_id": 312197, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312207, 
+  [
+   397, 
+   654, 
+   {
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312207, 
+  [
+   1479, 
+   1628, 
+   {
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312218, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Steeeeve;312207", 
+    "quote_id": 312207, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312232, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "chester;312218", 
+    "quote_id": 312218, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  312252, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Steeeeve;312232", 
+    "quote_id": 312232, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  312255, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "Steeeeve;312232", 
+    "quote_id": 312232, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  311781, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Matthew S;311769", 
+    "quote_id": 311769, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  311783, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Christina_Castl;311781", 
+    "quote_id": 311781, 
+    "author": "Christina_Castl"
+   }
+  ]
+ ], 
+ [
+  311792, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Matthew S;311769", 
+    "quote_id": 311769, 
+    "author": "Matthew S"
+   }
+  ]
+ ]
+]

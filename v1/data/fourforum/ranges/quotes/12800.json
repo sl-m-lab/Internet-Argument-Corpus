@@ -1,0 +1,61 @@
+[
+ [
+  355987, 
+  [
+   0, 
+   173, 
+   {
+    "quote_id": 355970, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  356011, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Lakrite;355998", 
+    "quote_id": 355998, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  355995, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Lakrite;355987", 
+    "quote_id": 355987, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  355995, 
+  [
+   1318, 
+   1429, 
+   {
+    "quote_id": 355987, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  355998, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Sotomayor", 
+    "quote_id": 356011, 
+    "unknown_author": "Sotomayor", 
+    "author": "antonia"
+   }
+  ]
+ ]
+]

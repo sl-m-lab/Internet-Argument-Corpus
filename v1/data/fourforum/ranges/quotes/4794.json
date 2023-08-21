@@ -1,0 +1,310 @@
+[
+ [
+  106881, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 106311, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  108427, 
+  [
+   0, 
+   30, 
+   {
+    "quote_id": 106233, 
+    "author": "Sgt. Moose"
+   }
+  ]
+ ], 
+ [
+  108430, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 108427, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  107535, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 107506, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  107538, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 107535, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  106643, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Sgt. Moose", 
+    "quote_id": 106233, 
+    "author": "Sgt. Moose"
+   }
+  ]
+ ], 
+ [
+  107546, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 107538, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  107426, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 106946, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  107560, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 107546, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  108209, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 107426, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  107570, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 107546, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  106938, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 106881, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  106946, 
+  [
+   0, 
+   114, 
+   {
+    "quote_id": 106881, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  106307, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Sgt. Moose", 
+    "quote_id": 106233, 
+    "author": "Sgt. Moose"
+   }
+  ]
+ ], 
+ [
+  106311, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 106307, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  106312, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Sgt. Moose", 
+    "quote_id": 106233, 
+    "author": "Sgt. Moose"
+   }
+  ]
+ ], 
+ [
+  106319, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 106312, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  106319, 
+  [
+   831, 
+   993, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 106312, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  107472, 
+  [
+   0, 
+   89, 
+   {
+    "quote_id": 107426, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  107486, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 107472, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  108434, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 108427, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  106863, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "kickin50", 
+    "quote_id": 106643, 
+    "author": "kickin50"
+   }
+  ]
+ ], 
+ [
+  107506, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 106307, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  109043, 
+  [
+   0, 
+   878, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 107509, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  107509, 
+  [
+   0, 
+   170, 
+   {
+    "quote_id": 107486, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  106238, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Sgt. Moose", 
+    "quote_id": 106233, 
+    "author": "Sgt. Moose"
+   }
+  ]
+ ]
+]

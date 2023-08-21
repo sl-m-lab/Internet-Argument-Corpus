@@ -1,0 +1,546 @@
+[
+ [
+  102409, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Leviathan", 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  104971, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 104938, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  106896, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 105816, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  105816, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105462, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108064, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "Comrade Brian", 
+    "quote_id": 107978, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  103601, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "Leviathan", 
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  103092, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102974, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  103092, 
+  [
+   593, 
+   1428, 
+   {
+    "raw_data": "cnflyboy", 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  103092, 
+  [
+   2188, 
+   2241, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102974, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  103092, 
+  [
+   3302, 
+   3481, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102974, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  103092, 
+  [
+   3581, 
+   3690, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102974, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  103092, 
+  [
+   3912, 
+   4177, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102974, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  104248, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 104015, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  105401, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "Leviathan", 
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  103355, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102974, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  102974, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 102627, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  102974, 
+  [
+   260, 
+   541, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 102627, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  102974, 
+  [
+   1459, 
+   1821, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 102627, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  102974, 
+  [
+   1940, 
+   2374, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 102627, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  105408, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105401, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  107978, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 103776, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  107979, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 103641, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  107980, 
+  [
+   2143, 
+   2189, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 106894, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  102605, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 102599, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  104015, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 103977, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  102612, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 102605, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  102616, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 102612, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  103641, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Comrade Brian", 
+    "quote_id": 103601, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  103776, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 103753, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  105698, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105401, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  105698, 
+  [
+   172, 
+   370, 
+   {
+    "quote_id": 105401, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  105698, 
+  [
+   577, 
+   1127, 
+   {}
+  ]
+ ], 
+ [
+  105698, 
+  [
+   1897, 
+   3037, 
+   {}
+  ]
+ ], 
+ [
+  105698, 
+  [
+   3812, 
+   4123, 
+   {}
+  ]
+ ], 
+ [
+  105698, 
+  [
+   4207, 
+   4499, 
+   {
+    "quote_id": 105401, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  102627, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 102153, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  102627, 
+  [
+   323, 
+   594, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102409, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  102627, 
+  [
+   692, 
+   906, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102409, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  102627, 
+  [
+   1749, 
+   1871, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102409, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  102627, 
+  [
+   2217, 
+   2346, 
+   {
+    "raw_data": "cnflyboy", 
+    "quote_id": 102409, 
+    "author": "cnflyboy"
+   }
+  ]
+ ], 
+ [
+  104037, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 103977, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  104938, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 104248, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  103659, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Leviathan", 
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  103659, 
+  [
+   107, 
+   159, 
+   {
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  103659, 
+  [
+   256, 
+   356, 
+   {
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  103659, 
+  [
+   757, 
+   845, 
+   {
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  103659, 
+  [
+   916, 
+   958, 
+   {
+    "quote_id": 102142, 
+    "author": "Leviathan"
+   }
+  ]
+ ]
+]

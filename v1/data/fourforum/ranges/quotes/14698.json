@@ -1,0 +1,517 @@
+[
+ [
+  420872, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "jyoshu;420857", 
+    "quote_id": 420857, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  420621, 
+  [
+   0, 
+   981, 
+   {
+    "raw_data": "ineedinfo;420620", 
+    "quote_id": 420620, 
+    "author": "ineedinfo"
+   }
+  ]
+ ], 
+ [
+  420931, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "MrWriteLA;420925", 
+    "quote_id": 420925, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  420628, 
+  [
+   0, 
+   1692, 
+   {
+    "raw_data": "ineedinfo;420620", 
+    "quote_id": 420620, 
+    "author": "ineedinfo"
+   }
+  ]
+ ], 
+ [
+  420629, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Sigma;416179", 
+    "quote_id": 416179, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  420629, 
+  [
+   228, 
+   382, 
+   {
+    "quote_id": 416179, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  420630, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Easyrider;416192", 
+    "quote_id": 416192, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420635, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Iuris;420621", 
+    "quote_id": 420621, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  420640, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Easyrider;416238", 
+    "quote_id": 416238, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420773, 
+  [
+   0, 
+   1054, 
+   {
+    "raw_data": "jyoshu;420704", 
+    "quote_id": 420704, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  420646, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "jazyjason;420640", 
+    "quote_id": 420640, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  420648, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Easyrider;420646", 
+    "quote_id": 420646, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  416177, 
+  [
+   70, 
+   1159, 
+   {}
+  ]
+ ], 
+ [
+  416179, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "MrWriteLA;416177", 
+    "quote_id": 416177, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  424120, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "MrWriteLA;420925", 
+    "quote_id": 420925, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  420925, 
+  [
+   84, 
+   2372, 
+   {}
+  ]
+ ], 
+ [
+  420798, 
+  [
+   0, 
+   739, 
+   {
+    "raw_data": "jyoshu;420704", 
+    "quote_id": 420704, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  416192, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "MrWriteLA;416177", 
+    "quote_id": 416177, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  420802, 
+  [
+   0, 
+   1054, 
+   {
+    "raw_data": "jyoshu;420704", 
+    "quote_id": 420704, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  420803, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "MrWriteLA;420799", 
+    "quote_id": 420799, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  416196, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Easyrider;416192", 
+    "quote_id": 416192, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420808, 
+  [
+   0, 
+   733, 
+   {
+    "raw_data": "gansao;420803", 
+    "quote_id": 420803, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  416203, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Sigma;416196", 
+    "quote_id": 416196, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  416205, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Easyrider;416203", 
+    "quote_id": 416203, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  416209, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Bennedict;416207", 
+    "quote_id": 416207, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  416213, 
+  [
+   0, 
+   48, 
+   {}
+  ]
+ ], 
+ [
+  416213, 
+  [
+   54, 
+   85, 
+   {
+    "raw_data": "Sigma;416209", 
+    "quote_id": 416209, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  416214, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Easyrider;416192", 
+    "quote_id": 416192, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  416215, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Bennedict;416207", 
+    "quote_id": 416207, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  420824, 
+  [
+   0, 
+   628, 
+   {
+    "raw_data": "MrWriteLA;420820", 
+    "quote_id": 420820, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  416220, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Easyrider;416215", 
+    "quote_id": 416215, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  416223, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Easyrider;416215", 
+    "quote_id": 416215, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420704, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "robbie0517;420628", 
+    "quote_id": 420628, 
+    "author": "robbie0517"
+   }
+  ]
+ ], 
+ [
+  420835, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "MrWriteLA;420834", 
+    "quote_id": 420834, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  420817, 
+  [
+   0, 
+   1253, 
+   {
+    "raw_data": "Bennedict;420808", 
+    "quote_id": 420808, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  420844, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "robbie0517;420798", 
+    "quote_id": 420798, 
+    "author": "robbie0517"
+   }
+  ]
+ ], 
+ [
+  420844, 
+  [
+   219, 
+   287, 
+   {
+    "raw_data": "Bennedict;420802", 
+    "quote_id": 420802, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  416238, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Sigma;416220", 
+    "quote_id": 416220, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  416242, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Easyrider;416238", 
+    "quote_id": 416238, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420851, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "jyoshu;420844", 
+    "quote_id": 420844, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  416244, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Sigma;416242", 
+    "quote_id": 416242, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  416246, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Steeeeve;416244", 
+    "quote_id": 416244, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  420857, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Bennedict;420851", 
+    "quote_id": 420851, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  424127, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "MrWriteLA;420925", 
+    "quote_id": 420925, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ]
+]

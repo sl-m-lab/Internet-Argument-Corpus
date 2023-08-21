@@ -1,0 +1,919 @@
+[
+ [
+  397850, 
+  [
+   1327, 
+   1336, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   1814, 
+   1819, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   1968, 
+   1975, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   2136, 
+   2141, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   2321, 
+   2326, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   2429, 
+   2435, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   2673, 
+   2678, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   2823, 
+   2830, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   3031, 
+   3037, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397850, 
+  [
+   3208, 
+   3218, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396348, 
+  [
+   468, 
+   471, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396350, 
+  [
+   374, 
+   377, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   151, 
+   168, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   151, 
+   168, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   306, 
+   323, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   306, 
+   323, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   751, 
+   813, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   751, 
+   813, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   1002, 
+   1077, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396384, 
+  [
+   1002, 
+   1077, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396385, 
+  [
+   69, 
+   138, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396385, 
+  [
+   69, 
+   138, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396386, 
+  [
+   796, 
+   836, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397937, 
+  [
+   170, 
+   980, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  397452, 
+  [
+   0, 
+   91, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  395919, 
+  [
+   1766, 
+   2044, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395919, 
+  [
+   1766, 
+   2044, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395919, 
+  [
+   2778, 
+   2822, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395919, 
+  [
+   2778, 
+   2822, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   0, 
+   58, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   0, 
+   58, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   552, 
+   622, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   552, 
+   622, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   1444, 
+   1521, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   1444, 
+   1521, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   2216, 
+   2264, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   2216, 
+   2264, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   3737, 
+   3801, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397678, 
+  [
+   3737, 
+   3801, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395932, 
+  [
+   1694, 
+   1972, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395932, 
+  [
+   1694, 
+   1972, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395932, 
+  [
+   2694, 
+   2738, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395932, 
+  [
+   2694, 
+   2738, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395935, 
+  [
+   56, 
+   82, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  395935, 
+  [
+   1318, 
+   1366, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395935, 
+  [
+   1318, 
+   1366, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395937, 
+  [
+   231, 
+   257, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395937, 
+  [
+   231, 
+   257, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395938, 
+  [
+   16, 
+   42, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395938, 
+  [
+   16, 
+   42, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395942, 
+  [
+   16, 
+   42, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395942, 
+  [
+   16, 
+   42, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  395955, 
+  [
+   1, 
+   54, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  395955, 
+  [
+   1, 
+   54, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397501, 
+  [
+   130, 
+   188, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397508, 
+  [
+   0, 
+   61, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  396057, 
+  [
+   1573, 
+   1579, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396057, 
+  [
+   4623, 
+   4652, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396057, 
+  [
+   5267, 
+   5452, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397471, 
+  [
+   43, 
+   99, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397471, 
+  [
+   43, 
+   99, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396139, 
+  [
+   231, 
+   356, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396139, 
+  [
+   1219, 
+   1314, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396142, 
+  [
+   0, 
+   11, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396142, 
+  [
+   182, 
+   264, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396192, 
+  [
+   353, 
+   355, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396192, 
+  [
+   373, 
+   374, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396209, 
+  [
+   256, 
+   258, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396209, 
+  [
+   276, 
+   277, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396210, 
+  [
+   260, 
+   327, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396218, 
+  [
+   466, 
+   471, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396218, 
+  [
+   2973, 
+   2979, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  396233, 
+  [
+   3000, 
+   3010, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396242, 
+  [
+   879, 
+   907, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396242, 
+  [
+   1182, 
+   1250, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396246, 
+  [
+   223, 
+   357, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396246, 
+  [
+   223, 
+   357, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  396248, 
+  [
+   2481, 
+   3776, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  396251, 
+  [
+   296, 
+   330, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396251, 
+  [
+   296, 
+   330, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396453, 
+  [
+   1, 
+   43, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396453, 
+  [
+   1, 
+   43, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396263, 
+  [
+   25, 
+   59, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  396263, 
+  [
+   25, 
+   59, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  396263, 
+  [
+   2275, 
+   2281, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  397820, 
+  [
+   273, 
+   301, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397820, 
+  [
+   273, 
+   301, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  397820, 
+  [
+   464, 
+   485, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  397820, 
+  [
+   464, 
+   485, 
+   {
+    "category": "underline"
+   }
+  ]
+ ]
+]

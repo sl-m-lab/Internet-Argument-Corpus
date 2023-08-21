@@ -1,0 +1,463 @@
+[
+ [
+  190217, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190201, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190218, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 190217, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  190295, 
+  [
+   0, 
+   604, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190280, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190276, 
+  [
+   0, 
+   721, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190273, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  189983, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 189770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  190241, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190218, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190249, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190241, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190249, 
+  [
+   594, 
+   698, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190241, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190249, 
+  [
+   979, 
+   1025, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190241, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190258, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190249, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190258, 
+  [
+   636, 
+   867, 
+   {
+    "quote_id": 190249, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190258, 
+  [
+   1200, 
+   1477, 
+   {
+    "quote_id": 190249, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190258, 
+  [
+   1645, 
+   1730, 
+   {
+    "quote_id": 190249, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190000, 
+  [
+   0, 
+   900, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 189998, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  190004, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190000, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190260, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190201, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190013, 
+  [
+   0, 
+   734, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190004, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190013, 
+  [
+   861, 
+   1044, 
+   {
+    "quote_id": 190002, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  190273, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190258, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190275, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190273, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190021, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190013, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190280, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 190276, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  189776, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 189770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  190292, 
+  [
+   0, 
+   1518, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190273, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190201, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190194, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190297, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190292, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190042, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190042, 
+  [
+   969, 
+   1128, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190031, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190031, 
+  [
+   0, 
+   692, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190021, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190302, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190297, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  189791, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 189776, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  190048, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190000, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190179, 
+  [
+   0, 
+   1261, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190311, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190316, 
+  [
+   0, 
+   604, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 190280, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  190190, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 190048, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  190192, 
+  [
+   0, 
+   2205, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 190190, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  190194, 
+  [
+   0, 
+   5790, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 190189, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  190195, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 190192, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

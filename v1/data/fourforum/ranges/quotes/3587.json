@@ -1,0 +1,117 @@
+[
+ [
+  74576, 
+  [
+   107, 
+   911, 
+   {}
+  ]
+ ], 
+ [
+  74576, 
+  [
+   1379, 
+   1802, 
+   {}
+  ]
+ ], 
+ [
+  74949, 
+  [
+   0, 
+   683, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 74695, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74949, 
+  [
+   1244, 
+   1726, 
+   {
+    "raw_data": "pnac", 
+    "quote_id": 74695, 
+    "unknown_author": "pnac", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74949, 
+  [
+   2178, 
+   2727, 
+   {
+    "raw_data": "pnac", 
+    "quote_id": 74695, 
+    "unknown_author": "pnac", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74949, 
+  [
+   3620, 
+   3658, 
+   {
+    "raw_data": "pnac", 
+    "quote_id": 74695, 
+    "unknown_author": "pnac", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74627, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 74589, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74627, 
+  [
+   503, 
+   974, 
+   {
+    "raw_data": "pnac", 
+    "quote_id": 74589, 
+    "unknown_author": "pnac", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74695, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 74627, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  74695, 
+  [
+   325, 
+   800, 
+   {
+    "quote_id": 74627, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ]
+]

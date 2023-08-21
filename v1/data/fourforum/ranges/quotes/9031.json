@@ -1,0 +1,74 @@
+[
+ [
+  234729, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "simone;234727", 
+    "quote_id": 234727, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  234729, 
+  [
+   299, 
+   517, 
+   {
+    "raw_data": "simone;234727", 
+    "quote_id": 234727, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  234732, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Easyrider;234729", 
+    "quote_id": 234729, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  235120, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Easyrider;234836", 
+    "quote_id": 234836, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  234836, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "simone;234737", 
+    "quote_id": 234737, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  234843, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Easyrider;234836", 
+    "quote_id": 234836, 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

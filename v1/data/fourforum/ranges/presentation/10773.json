@@ -1,0 +1,990 @@
+[
+ [
+  296461, 
+  [
+   11, 
+   141, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296461, 
+  [
+   241, 
+   245, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296462, 
+  [
+   11, 
+   141, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296462, 
+  [
+   241, 
+   245, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297304, 
+  [
+   5, 
+   11, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  297304, 
+  [
+   5, 
+   11, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297304, 
+  [
+   5, 
+   11, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296988, 
+  [
+   190, 
+   312, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296988, 
+  [
+   495, 
+   858, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296988, 
+  [
+   495, 
+   858, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296988, 
+  [
+   495, 
+   858, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296990, 
+  [
+   0, 
+   122, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296990, 
+  [
+   305, 
+   668, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296990, 
+  [
+   305, 
+   668, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296990, 
+  [
+   305, 
+   668, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296990, 
+  [
+   1121, 
+   1150, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297399, 
+  [
+   11, 
+   146, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297400, 
+  [
+   753, 
+   759, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296531, 
+  [
+   51, 
+   60, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296531, 
+  [
+   51, 
+   60, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296531, 
+  [
+   74, 
+   79, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296531, 
+  [
+   74, 
+   79, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296532, 
+  [
+   254, 
+   941, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  297054, 
+  [
+   236, 
+   242, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  297112, 
+  [
+   252, 
+   255, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297113, 
+  [
+   36, 
+   44, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296111, 
+  [
+   1297, 
+   1681, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  296111, 
+  [
+   1297, 
+   1681, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296111, 
+  [
+   3378, 
+   3663, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  296111, 
+  [
+   3378, 
+   3663, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296111, 
+  [
+   1297, 
+   3663, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296111, 
+  [
+   1297, 
+   3663, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  297419, 
+  [
+   11, 
+   146, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297088, 
+  [
+   236, 
+   242, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296205, 
+  [
+   156, 
+   1659, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296205, 
+  [
+   156, 
+   1659, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Book Antiqua&quot;"
+   }
+  ]
+ ], 
+ [
+  296205, 
+  [
+   156, 
+   1659, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296205, 
+  [
+   156, 
+   1659, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296206, 
+  [
+   277, 
+   1326, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296206, 
+  [
+   277, 
+   1326, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296206, 
+  [
+   277, 
+   1326, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Book Antiqua&quot;"
+   }
+  ]
+ ], 
+ [
+  296206, 
+  [
+   277, 
+   1326, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296223, 
+  [
+   0, 
+   841, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296223, 
+  [
+   0, 
+   841, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296223, 
+  [
+   0, 
+   841, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296227, 
+  [
+   0, 
+   841, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296227, 
+  [
+   0, 
+   841, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296227, 
+  [
+   0, 
+   841, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296228, 
+  [
+   2224, 
+   2240, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296256, 
+  [
+   0, 
+   841, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  296256, 
+  [
+   0, 
+   841, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296256, 
+  [
+   0, 
+   841, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296843, 
+  [
+   500, 
+   566, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  296843, 
+  [
+   500, 
+   566, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296843, 
+  [
+   500, 
+   566, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Courier New&quot;"
+   }
+  ]
+ ], 
+ [
+  297284, 
+  [
+   82, 
+   88, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  297284, 
+  [
+   82, 
+   88, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297284, 
+  [
+   82, 
+   88, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  298846, 
+  [
+   414, 
+   421, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296292, 
+  [
+   11, 
+   264, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296809, 
+  [
+   254, 
+   941, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296308, 
+  [
+   1070, 
+   1132, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;1&quot;"
+   }
+  ]
+ ], 
+ [
+  296308, 
+  [
+   1450, 
+   1525, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;1&quot;"
+   }
+  ]
+ ], 
+ [
+  296308, 
+  [
+   1594, 
+   1680, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;1&quot;"
+   }
+  ]
+ ], 
+ [
+  296336, 
+  [
+   7, 
+   112, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296338, 
+  [
+   7, 
+   112, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296338, 
+  [
+   643, 
+   5470, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  296338, 
+  [
+   643, 
+   5470, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296338, 
+  [
+   643, 
+   5470, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296853, 
+  [
+   16, 
+   82, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  296853, 
+  [
+   16, 
+   82, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296853, 
+  [
+   16, 
+   82, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Courier New&quot;"
+   }
+  ]
+ ], 
+ [
+  298902, 
+  [
+   2212, 
+   3290, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  298902, 
+  [
+   3332, 
+   3796, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  298902, 
+  [
+   3332, 
+   3796, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296857, 
+  [
+   276, 
+   342, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  296857, 
+  [
+   276, 
+   342, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296857, 
+  [
+   276, 
+   342, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Courier New&quot;"
+   }
+  ]
+ ], 
+ [
+  296355, 
+  [
+   758, 
+   772, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  297387, 
+  [
+   651, 
+   657, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  296364, 
+  [
+   11, 
+   264, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296367, 
+  [
+   12, 
+   247, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296368, 
+  [
+   12, 
+   247, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296370, 
+  [
+   138, 
+   182, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297424, 
+  [
+   154, 
+   160, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  297424, 
+  [
+   534, 
+   8967, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296919, 
+  [
+   276, 
+   342, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  296919, 
+  [
+   276, 
+   342, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296919, 
+  [
+   276, 
+   342, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Courier New&quot;"
+   }
+  ]
+ ], 
+ [
+  297435, 
+  [
+   345, 
+   8864, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  296924, 
+  [
+   243, 
+   253, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296930, 
+  [
+   157, 
+   167, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  296933, 
+  [
+   296, 
+   2099, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  296933, 
+  [
+   296, 
+   2099, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  296933, 
+  [
+   296, 
+   2099, 
+   {
+    "category": "indent"
+   }
+  ]
+ ]
+]

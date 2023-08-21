@@ -1,0 +1,436 @@
+[
+ [
+  313219, 
+  [
+   96, 
+   106, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313219, 
+  [
+   360, 
+   365, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313219, 
+  [
+   493, 
+   498, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313094, 
+  [
+   83, 
+   233, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  317066, 
+  [
+   240, 
+   247, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313995, 
+  [
+   2711, 
+   2855, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  317068, 
+  [
+   39, 
+   46, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  317068, 
+  [
+   1092, 
+   1685, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  317068, 
+  [
+   1092, 
+   1685, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  317068, 
+  [
+   1092, 
+   1685, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  317068, 
+  [
+   1092, 
+   1685, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  313232, 
+  [
+   1010, 
+   1027, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  316931, 
+  [
+   210, 
+   221, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  316931, 
+  [
+   553, 
+   990, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313272, 
+  [
+   428, 
+   445, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  312903, 
+  [
+   3555, 
+   4021, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  312903, 
+  [
+   507, 
+   5805, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  312903, 
+  [
+   507, 
+   5805, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  312903, 
+  [
+   507, 
+   5805, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  312903, 
+  [
+   507, 
+   5805, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  312903, 
+  [
+   507, 
+   5805, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  317069, 
+  [
+   1151, 
+   1774, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  317069, 
+  [
+   1151, 
+   1774, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  317069, 
+  [
+   1151, 
+   1774, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  317069, 
+  [
+   1151, 
+   1774, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   944, 
+   1031, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   917, 
+   1305, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   917, 
+   1305, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   917, 
+   1305, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   1469, 
+   1524, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   1525, 
+   1591, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   1407, 
+   2272, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   1407, 
+   2272, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   2403, 
+   2458, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   2459, 
+   2525, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   3916, 
+   4461, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  312927, 
+  [
+   3916, 
+   4461, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  313319, 
+  [
+   1316, 
+   1322, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  312954, 
+  [
+   727, 
+   730, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  316923, 
+  [
+   1957, 
+   1968, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  316923, 
+  [
+   2300, 
+   2737, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313087, 
+  [
+   144, 
+   294, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

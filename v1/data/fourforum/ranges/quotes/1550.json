@@ -1,0 +1,441 @@
+[
+ [
+  30727, 
+  [
+   0, 
+   677, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 30691, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  30728, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 30673, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30729, 
+  [
+   0, 
+   854, 
+   {
+    "raw_data": "treat2", 
+    "quote_id": 30727, 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  30859, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Void", 
+    "quote_id": 30833, 
+    "author": "Void"
+   }
+  ]
+ ], 
+ [
+  30860, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "treat2", 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   529, 
+   660, 
+   {
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   779, 
+   893, 
+   {
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   1104, 
+   1262, 
+   {
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   1467, 
+   1567, 
+   {
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   1822, 
+   2229, 
+   {
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31160, 
+  [
+   2473, 
+   2676, 
+   {
+    "quote_id": 31147, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31004, 
+  [
+   0, 
+   863, 
+   {
+    "raw_data": "Void", 
+    "quote_id": 30987, 
+    "author": "Void"
+   }
+  ]
+ ], 
+ [
+  30761, 
+  [
+   0, 
+   135, 
+   {
+    "quote_id": 30727, 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  31147, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31029, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  30769, 
+  [
+   0, 
+   677, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 30691, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31029, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 31004, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  30776, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "treat2", 
+    "quote_id": 30769, 
+    "author": "treat2"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   92, 
+   508, 
+   {
+    "raw_data": "Gormless", 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   2318, 
+   2451, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   2457, 
+   2571, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31160, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   3359, 
+   3475, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   3481, 
+   3687, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31160, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   3790, 
+   3949, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   3955, 
+   4020, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31160, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   4092, 
+   4226, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31160, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   4261, 
+   4362, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   4368, 
+   4618, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31160, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   4871, 
+   5280, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   5286, 
+   5525, 
+   {
+    "raw_data": "Gormless", 
+    "quote_id": 31160, 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   7748, 
+   7952, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 31147, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  31161, 
+  [
+   7958, 
+   7983, 
+   {
+    "raw_data": "Gormless", 
+    "author": "Gormless"
+   }
+  ]
+ ], 
+ [
+  30945, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Void", 
+    "quote_id": 30833, 
+    "author": "Void"
+   }
+  ]
+ ], 
+ [
+  30689, 
+  [
+   0, 
+   199, 
+   {
+    "quote_id": 30673, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30689, 
+  [
+   480, 
+   644, 
+   {
+    "quote_id": 30673, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30691, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "treat2", 
+    "quote_id": 30671, 
+    "author": "treat2"
+   }
+  ]
+ ]
+]

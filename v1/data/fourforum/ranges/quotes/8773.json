@@ -1,0 +1,325 @@
+[
+ [
+  231659, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "Bassman;231657", 
+    "quote_id": 231657, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  229381, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Master_Shake;229364", 
+    "quote_id": 229364, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  231563, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Bassman;231531", 
+    "quote_id": 231531, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  229397, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "jitobear;229381", 
+    "quote_id": 229381, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  231450, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "Steeeeve;229858", 
+    "quote_id": 229858, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  229408, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Master_Shake;229397", 
+    "quote_id": 229397, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  229287, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "jitobear;229267", 
+    "quote_id": 229267, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  229290, 
+  [
+   0, 
+   965, 
+   {
+    "raw_data": "somnolence;229232", 
+    "quote_id": 229232, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  240814, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "somnolence;229201", 
+    "quote_id": 229201, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229302, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "daewoo;229290", 
+    "quote_id": 229290, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  229436, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "somnolence;229302", 
+    "quote_id": 229302, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229576, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "somnolence;229302", 
+    "quote_id": 229302, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229836, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "somnolence;229629", 
+    "quote_id": 229629, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  231629, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "jitobear;231563", 
+    "quote_id": 231563, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  231629, 
+  [
+   426, 
+   862, 
+   {
+    "quote_id": 231563, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  231651, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Bassman;231629", 
+    "quote_id": 231629, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  231651, 
+  [
+   741, 
+   851, 
+   {
+    "raw_data": "Bassman;231629", 
+    "quote_id": 231629, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  231651, 
+  [
+   1161, 
+   1319, 
+   {
+    "raw_data": "Bassman;231629", 
+    "quote_id": 231629, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  231651, 
+  [
+   1551, 
+   1602, 
+   {
+    "raw_data": "Bassman;231629", 
+    "quote_id": 231629, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  229213, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "somnolence;229201", 
+    "quote_id": 229201, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229858, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "somnolence;229852", 
+    "quote_id": 229852, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229351, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "somnolence;229302", 
+    "quote_id": 229302, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229352, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Master_Shake;229287", 
+    "quote_id": 229287, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  229361, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "daewoo;229351", 
+    "quote_id": 229351, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  229362, 
+  [
+   0, 
+   687, 
+   {
+    "raw_data": "somnolence;229361", 
+    "quote_id": 229361, 
+    "author": "somnolence"
+   }
+  ]
+ ], 
+ [
+  229364, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "daewoo;229352", 
+    "quote_id": 229352, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  229629, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Steeeeve;229576", 
+    "quote_id": 229576, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

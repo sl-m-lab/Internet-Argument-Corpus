@@ -1,0 +1,642 @@
+[
+ [
+  358144, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "pro-con;342182", 
+    "quote_id": 342182, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  360448, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "gansao;360388", 
+    "quote_id": 360388, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  358146, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Lakrite;354967", 
+    "quote_id": 354967, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  360196, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "chester;358143", 
+    "quote_id": 358143, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  360197, 
+  [
+   135, 
+   197, 
+   {
+    "raw_data": "antonia;359912", 
+    "quote_id": 359912, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360449, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Easyrider;360448", 
+    "quote_id": 360448, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360335, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "antonia;360219", 
+    "quote_id": 360219, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360337, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "antonia;360220", 
+    "quote_id": 360220, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360338, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Lakrite;354967", 
+    "quote_id": 354967, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  361236, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "simone;360600", 
+    "quote_id": 360600, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  360600, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Easyrider;360473", 
+    "quote_id": 360473, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360473, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "gansao;360449", 
+    "quote_id": 360449, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  360218, 
+  [
+   22, 
+   145, 
+   {
+    "raw_data": "antonia;359913", 
+    "quote_id": 359913, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360219, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "gansao;360197", 
+    "quote_id": 360197, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  361996, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Winston Smith;361993", 
+    "quote_id": 361993, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  373764, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "gansao;342179", 
+    "quote_id": 342179, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  361762, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "Winston Smith;361681", 
+    "quote_id": 361681, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360390, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "Winston Smith;360389", 
+    "quote_id": 360389, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  366510, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "kate154;366286", 
+    "quote_id": 366286, 
+    "author": "kate154"
+   }
+  ]
+ ], 
+ [
+  360241, 
+  [
+   0, 
+   67, 
+   {
+    "quote_id": 360220, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361681, 
+  [
+   0, 
+   695, 
+   {
+    "raw_data": "Easyrider;361635", 
+    "quote_id": 361635, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  361733, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "Winston Smith;361681", 
+    "quote_id": 361681, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  366281, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Martin Timothy;366239", 
+    "unknown_quote_id": 366239, 
+    "unknown_author": "Martin Timothy"
+   }
+  ]
+ ], 
+ [
+  360377, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "gansao;360337", 
+    "quote_id": 360337, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  360380, 
+  [
+   0, 
+   751, 
+   {
+    "raw_data": "Winston Smith;360377", 
+    "quote_id": 360377, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360381, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 360377, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  354751, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "gansao;342179", 
+    "quote_id": 342179, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  360384, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Winston Smith;360382", 
+    "quote_id": 360385, 
+    "unknown_quote_id": 360382, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360385, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "gansao;360380", 
+    "quote_id": 360380, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  360386, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Archangel;360384", 
+    "quote_id": 360384, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  360387, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "Archangel;360381", 
+    "quote_id": 360381, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  360387, 
+  [
+   575, 
+   919, 
+   {
+    "quote_id": 360381, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  360388, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Winston Smith;360386", 
+    "quote_id": 360386, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360261, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Winston Smith;360241", 
+    "quote_id": 360241, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360263, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "General Winter;354751", 
+    "quote_id": 354751, 
+    "author": "General Winter"
+   }
+  ]
+ ], 
+ [
+  360265, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Easyrider;360263", 
+    "quote_id": 360263, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360265, 
+  [
+   229, 
+   281, 
+   {
+    "quote_id": 360263, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360265, 
+  [
+   349, 
+   383, 
+   {
+    "quote_id": 360263, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360265, 
+  [
+   475, 
+   521, 
+   {
+    "quote_id": 360263, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360271, 
+  [
+   0, 
+   1048, 
+   {
+    "raw_data": "antonia;360262", 
+    "quote_id": 360262, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360273, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "antonia;360261", 
+    "quote_id": 360261, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361635, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Penfold;361238", 
+    "quote_id": 361238, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  373256, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "OldSarge;372577", 
+    "quote_id": 372577, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  374161, 
+  [
+   0, 
+   1897, 
+   {
+    "raw_data": "jitobear;362008", 
+    "quote_id": 362008, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  361637, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Easyrider;361236", 
+    "quote_id": 361236, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  361637, 
+  [
+   407, 
+   8971, 
+   {}
+  ]
+ ], 
+ [
+  372577, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "simone;372551", 
+    "quote_id": 372551, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  361828, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Easyrider;361762", 
+    "quote_id": 361762, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  360447, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "antonia;360265", 
+    "quote_id": 360265, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  359912, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "gansao;342179", 
+    "quote_id": 342179, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  359913, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "chester;358146", 
+    "quote_id": 358146, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  362523, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "antonia;362477", 
+    "quote_id": 362477, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372476, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "General Winter;354751", 
+    "quote_id": 354751, 
+    "author": "General Winter"
+   }
+  ]
+ ], 
+ [
+  358143, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "gansao;342179", 
+    "quote_id": 342179, 
+    "author": "gansao"
+   }
+  ]
+ ]
+]

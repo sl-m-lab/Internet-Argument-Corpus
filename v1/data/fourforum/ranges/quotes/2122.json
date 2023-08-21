@@ -1,0 +1,50 @@
+[
+ [
+  42863, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  149936, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 42863, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  149939, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 149926, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  149944, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 149936, 
+    "author": "Dono"
+   }
+  ]
+ ]
+]

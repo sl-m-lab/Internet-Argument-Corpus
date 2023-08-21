@@ -1,0 +1,530 @@
+[
+ [
+  77825, 
+  [
+   0, 
+   1959, 
+   {
+    "raw_data": "Cthulhu", 
+    "quote_id": 77787, 
+    "author": "Cthulhu"
+   }
+  ]
+ ], 
+ [
+  76175, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 76172, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  76175, 
+  [
+   235, 
+   332, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 76172, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  76175, 
+  [
+   504, 
+   664, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75810, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75798, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  79141, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 79066, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79142, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 79067, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  75815, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75810, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75818, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75815, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75820, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Close_slave_can", 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75822, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75821, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75824, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75822, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75824, 
+  [
+   362, 
+   446, 
+   {
+    "quote_id": 75822, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75826, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75822, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75826, 
+  [
+   38, 
+   352, 
+   {
+    "raw_data": "Close_slave_can", 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75826, 
+  [
+   531, 
+   615, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75822, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75826, 
+  [
+   619, 
+   948, 
+   {
+    "raw_data": "Close_slave_can", 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75833, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75826, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75835, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75833, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75835, 
+  [
+   370, 
+   578, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75833, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75838, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75835, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75838, 
+  [
+   323, 
+   505, 
+   {
+    "quote_id": 75835, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75841, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75835, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75841, 
+  [
+   134, 
+   257, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75838, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75841, 
+  [
+   273, 
+   327, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75838, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75841, 
+  [
+   450, 
+   629, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  75841, 
+  [
+   633, 
+   786, 
+   {
+    "raw_data": "Close_slave_can", 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75841, 
+  [
+   884, 
+   1068, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 75838, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75842, 
+  [
+   0, 
+   11, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75841, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75842, 
+  [
+   62, 
+   183, 
+   {
+    "quote_id": 75841, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75842, 
+  [
+   261, 
+   325, 
+   {
+    "quote_id": 75841, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76101, 
+  [
+   24, 
+   382, 
+   {
+    "quote_id": 75985, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75977, 
+  [
+   24, 
+   219, 
+   {
+    "quote_id": 75798, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76122, 
+  [
+   22, 
+   619, 
+   {
+    "quote_id": 76117, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76122, 
+  [
+   2129, 
+   2258, 
+   {
+    "quote_id": 76117, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77787, 
+  [
+   0, 
+   814, 
+   {}
+  ]
+ ], 
+ [
+  76137, 
+  [
+   27, 
+   302, 
+   {
+    "quote_id": 76133, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76146, 
+  [
+   56, 
+   108, 
+   {
+    "quote_id": 76141, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76146, 
+  [
+   922, 
+   1045, 
+   {
+    "quote_id": 76141, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76146, 
+  [
+   1556, 
+   1849, 
+   {
+    "quote_id": 76141, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76154, 
+  [
+   24, 
+   140, 
+   {
+    "quote_id": 76150, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76154, 
+  [
+   333, 
+   402, 
+   {
+    "quote_id": 76150, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76154, 
+  [
+   1335, 
+   1442, 
+   {
+    "quote_id": 76150, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  76154, 
+  [
+   2342, 
+   2601, 
+   {
+    "quote_id": 76150, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77822, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 76175, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  77822, 
+  [
+   318, 
+   464, 
+   {
+    "quote_id": 76175, 
+    "author": "montalban"
+   }
+  ]
+ ]
+]

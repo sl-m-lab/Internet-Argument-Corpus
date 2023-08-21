@@ -1,0 +1,37 @@
+[
+ [
+  57048, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57043, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57049, 
+  [
+   0, 
+   691, 
+   {
+    "raw_data": "bmans301bIMBACK", 
+    "quote_id": 57048, 
+    "author": "bmans301bIMBACK"
+   }
+  ]
+ ], 
+ [
+  57043, 
+  [
+   0, 
+   711, 
+   {
+    "raw_data": "CCR1994", 
+    "author": "CCR1994"
+   }
+  ]
+ ]
+]

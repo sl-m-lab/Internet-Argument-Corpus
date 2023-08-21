@@ -1,0 +1,3540 @@
+[
+ [
+  74760, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69642, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 69399, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  75277, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 74909, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  69648, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69642, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69650, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 69649, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  69141, 
+  [
+   0, 
+   962, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 69074, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75291, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75277, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75291, 
+  [
+   137, 
+   189, 
+   {
+    "quote_id": 75277, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75291, 
+  [
+   219, 
+   292, 
+   {
+    "quote_id": 75277, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69149, 
+  [
+   0, 
+   605, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69141, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69149, 
+  [
+   1259, 
+   1786, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69141, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69149, 
+  [
+   2753, 
+   3389, 
+   {}
+  ]
+ ], 
+ [
+  68639, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Selasphorus", 
+    "quote_id": 68506, 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   110, 
+   315, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   781, 
+   847, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   924, 
+   1034, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   1437, 
+   1530, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   1534, 
+   1721, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   1725, 
+   1978, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2132, 
+   2235, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2239, 
+   2437, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2441, 
+   2469, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2519, 
+   2637, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2654, 
+   2770, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2774, 
+   2894, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68984, 
+    "unknown_author": "Montalban", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   2898, 
+   3098, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   3932, 
+   3957, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   3961, 
+   4017, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   4021, 
+   4111, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   4115, 
+   4269, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   4391, 
+   4441, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   4445, 
+   4901, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   4905, 
+   5179, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   5342, 
+   5399, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   5403, 
+   5442, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   5446, 
+   5496, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   5530, 
+   5607, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   5611, 
+   5623, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   5627, 
+   5954, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   6131, 
+   6299, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   6303, 
+   6583, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   6985, 
+   7225, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68969, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   7229, 
+   7247, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   7271, 
+   7526, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   7638, 
+   7746, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   7750, 
+   7790, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68970, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69152, 
+  [
+   7794, 
+   7808, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68985, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  70182, 
+  [
+   0, 
+   812, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 70055, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  74299, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 70314, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   256, 
+   327, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   1168, 
+   1278, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2082, 
+   2120, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2124, 
+   2153, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2171, 
+   2210, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2214, 
+   2353, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2369, 
+   2437, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2441, 
+   2476, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2697, 
+   2933, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   2937, 
+   3063, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3170, 
+   3246, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3250, 
+   3282, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3356, 
+   3412, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3416, 
+   3495, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3560, 
+   3664, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3668, 
+   3704, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   3840, 
+   4149, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   4153, 
+   4320, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   4583, 
+   4638, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   4643, 
+   4696, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   4718, 
+   4807, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   4811, 
+   4960, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5002, 
+   5075, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5079, 
+   5148, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5384, 
+   5580, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5647, 
+   5733, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5737, 
+   5891, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5932, 
+   5969, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76170, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76348, 
+  [
+   5973, 
+   6023, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76182, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  74305, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 74299, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  74305, 
+  [
+   437, 
+   779, 
+   {}
+  ]
+ ], 
+ [
+  69700, 
+  [
+   902, 
+   985, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69661, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69700, 
+  [
+   1158, 
+   1182, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69661, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69700, 
+  [
+   1205, 
+   1863, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  73797, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 69375, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73797, 
+  [
+   323, 
+   442, 
+   {
+    "quote_id": 69375, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73798, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73800, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69193, 
+  [
+   0, 
+   96, 
+   {
+    "quote_id": 68984, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69193, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69194, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 69189, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  70220, 
+  [
+   0, 
+   812, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 70055, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  74321, 
+  [
+   0, 
+   1272, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  70229, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 70220, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  70229, 
+  [
+   458, 
+   840, 
+   {
+    "raw_data": "mach", 
+    "quote_id": 70220, 
+    "unknown_author": "mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  70229, 
+  [
+   1275, 
+   1664, 
+   {
+    "raw_data": "mach", 
+    "quote_id": 70220, 
+    "unknown_author": "mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76887, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76755, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  74865, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 74299, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  74875, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 74865, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  74876, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 74875, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  68970, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68808, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69267, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69152, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 68732, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   573, 
+   653, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   679, 
+   709, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   730, 
+   775, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   848, 
+   1245, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   1566, 
+   1917, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  68758, 
+  [
+   2131, 
+   2210, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  74907, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 74865, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  74909, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 74907, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  70304, 
+  [
+   0, 
+   1009, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  70307, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 70304, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  70314, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 70307, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  69661, 
+  [
+   0, 
+   840, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 69625, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  70333, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 70307, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  70345, 
+  [
+   0, 
+   693, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 70314, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  70345, 
+  [
+   1410, 
+   2270, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 70314, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  68814, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68808, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  75471, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75471, 
+  [
+   100, 
+   124, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75291, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75471, 
+  [
+   221, 
+   371, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75291, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  68732, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  77035, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76957, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69362, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 69189, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  69362, 
+  [
+   808, 
+   1212, 
+   {
+    "quote_id": 69189, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  69375, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 69193, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  69377, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69362, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69380, 
+  [
+   47, 
+   125, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69267, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69380, 
+  [
+   195, 
+   340, 
+   {
+    "raw_data": "Iskandarb", 
+    "unknown_author": "Iskandarb"
+   }
+  ]
+ ], 
+ [
+  68994, 
+  [
+   0, 
+   990, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   592, 
+   760, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   855, 
+   913, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   1049, 
+   1124, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   1368, 
+   1539, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   1582, 
+   1782, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   1977, 
+   2037, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   2114, 
+   2191, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   2479, 
+   2587, 
+   {}
+  ]
+ ], 
+ [
+  76167, 
+  [
+   2777, 
+   2844, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   2995, 
+   3033, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76167, 
+  [
+   3243, 
+   3408, 
+   {
+    "quote_id": 75743, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69435, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 69377, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75593, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75471, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75593, 
+  [
+   253, 
+   344, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75593, 
+  [
+   477, 
+   505, 
+   {}
+  ]
+ ], 
+ [
+  75595, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75471, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75595, 
+  [
+   71, 
+   252, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 75593, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75595, 
+  [
+   842, 
+   969, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75593, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75595, 
+  [
+   1059, 
+   1087, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  75595, 
+  [
+   1091, 
+   1113, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75593, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75595, 
+  [
+   1127, 
+   1227, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75291, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75598, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75595, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75598, 
+  [
+   377, 
+   495, 
+   {
+    "quote_id": 75595, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75598, 
+  [
+   881, 
+   1011, 
+   {
+    "quote_id": 75595, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75598, 
+  [
+   1046, 
+   1130, 
+   {
+    "quote_id": 75595, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  74585, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   508, 
+   539, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68807, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   584, 
+   617, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68807, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   739, 
+   767, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68807, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   782, 
+   944, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68807, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   1011, 
+   1104, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   1299, 
+   1442, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   1676, 
+   1731, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   1827, 
+   1876, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   2337, 
+   2393, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68969, 
+  [
+   2438, 
+   2514, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   306, 
+   674, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   858, 
+   952, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   855, 
+   1144, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   1401, 
+   1504, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   1401, 
+   1708, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   2337, 
+   2393, 
+   {
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   2307, 
+   2486, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   2647, 
+   2697, 
+   {
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   2644, 
+   3155, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   3433, 
+   3490, 
+   {
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   3433, 
+   3534, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   3591, 
+   3668, 
+   {
+    "quote_id": 68639, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   3588, 
+   3685, 
+   {}
+  ]
+ ], 
+ [
+  68984, 
+  [
+   4016, 
+   4186, 
+   {
+    "quote_id": 68969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68984, 
+  [
+   4471, 
+   4715, 
+   {
+    "quote_id": 68969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68985, 
+  [
+   0, 
+   110, 
+   {
+    "quote_id": 68808, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68985, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68989, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 68969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69375, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   117, 
+   326, 
+   {
+    "raw_data": "SLP", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   358, 
+   471, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69375, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   1110, 
+   1180, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 73798, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   1248, 
+   1260, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 73798, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   1368, 
+   1417, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 73800, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  74113, 
+  [
+   1509, 
+   1577, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 73800, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  76694, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76694, 
+  [
+   407, 
+   635, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  68487, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 68482, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   66, 
+   599, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   1335, 
+   1424, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   1475, 
+   1531, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   1535, 
+   1665, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   1708, 
+   1784, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   1788, 
+   1875, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   1920, 
+   2070, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   2143, 
+   2315, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   2319, 
+   2356, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   2597, 
+   2798, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   2802, 
+   2928, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3009, 
+   3071, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3132, 
+   3193, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3197, 
+   3268, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3377, 
+   3455, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3459, 
+   3747, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3849, 
+   3955, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   3959, 
+   4143, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   4456, 
+   4524, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   4528, 
+   4679, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   4828, 
+   4867, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   4871, 
+   4998, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   5271, 
+   5348, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   5438, 
+   5605, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75743, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76170, 
+  [
+   5610, 
+   5851, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76167, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  68493, 
+  [
+   74, 
+   416, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 68487, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  69008, 
+  [
+   0, 
+   482, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 68909, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   424, 
+   461, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   496, 
+   535, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   680, 
+   747, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   788, 
+   1023, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   1155, 
+   1230, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   1268, 
+   1323, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   1408, 
+   1511, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   1553, 
+   1860, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   2033, 
+   2086, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   2145, 
+   2233, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   2388, 
+   2460, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   2732, 
+   2816, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76182, 
+  [
+   2978, 
+   3014, 
+   {
+    "quote_id": 76170, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68506, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68506, 
+  [
+   724, 
+   904, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68506, 
+  [
+   1299, 
+   1380, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68506, 
+  [
+   1486, 
+   1629, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  70043, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69533, 
+  [
+   67, 
+   214, 
+   {
+    "raw_data": "Iskandarb", 
+    "unknown_author": "Iskandarb"
+   }
+  ]
+ ], 
+ [
+  69533, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  69533, 
+  [
+   846, 
+   1047, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69533, 
+  [
+   2052, 
+   2280, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69533, 
+  [
+   2938, 
+   2979, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69533, 
+  [
+   3104, 
+   3164, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69189, 
+  [
+   0, 
+   605, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69141, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69189, 
+  [
+   863, 
+   1390, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69141, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  69536, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  68514, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 68494, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   153, 
+   465, 
+   {
+    "raw_data": "Selasphorus", 
+    "quote_id": 68506, 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   658, 
+   915, 
+   {
+    "raw_data": "Selasphorus", 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   1190, 
+   1370, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   1374, 
+   1514, 
+   {
+    "raw_data": "Selasphorus", 
+    "quote_id": 68506, 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   1823, 
+   1981, 
+   {
+    "raw_data": "Selasphorus", 
+    "quote_id": 68506, 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   2602, 
+   2684, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   2688, 
+   2788, 
+   {
+    "raw_data": "Selasphorus", 
+    "quote_id": 68506, 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   2938, 
+   3081, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 68494, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  68516, 
+  [
+   3085, 
+   3670, 
+   {
+    "raw_data": "Selasphorus", 
+    "quote_id": 68506, 
+    "author": "Selasphorus"
+   }
+  ]
+ ], 
+ [
+  70055, 
+  [
+   0, 
+   1736, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 69661, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  68520, 
+  [
+   0, 
+   462, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69036, 
+  [
+   0, 
+   690, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 69008, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  76957, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 76887, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   316, 
+   765, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   795, 
+   997, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   1001, 
+   1240, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   1760, 
+   2038, 
+   {
+    "raw_data": "amazilia", 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   2375, 
+   2853, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   2962, 
+   3190, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   3194, 
+   3412, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   3556, 
+   3986, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   4105, 
+   4147, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   4151, 
+   4249, 
+   {
+    "raw_data": "amazilia", 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   4331, 
+   4353, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   4518, 
+   4579, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 69380, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   4583, 
+   4636, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69535, 
+  [
+   4837, 
+   5090, 
+   {
+    "raw_data": "amazilia", 
+    "quote_id": 69533, 
+    "author": "amazilia"
+   }
+  ]
+ ], 
+ [
+  69056, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 69036, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  69583, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 69536, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69074, 
+  [
+   0, 
+   709, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 69056, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  76755, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 76485, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75595, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   224, 
+   358, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   653, 
+   772, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75595, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   776, 
+   899, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   980, 
+   1043, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   1220, 
+   1266, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   1472, 
+   1617, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   1764, 
+   1895, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75595, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   1899, 
+   1911, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   2276, 
+   2358, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 75595, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   2362, 
+   2538, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   2892, 
+   2980, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   3053, 
+   3120, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  75743, 
+  [
+   3164, 
+   3238, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 75598, 
+    "author": "Clive14"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,790 @@
+[
+ [
+  301441, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "CUNxTime;301438", 
+    "quote_id": 301438, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301441, 
+  [
+   254, 
+   528, 
+   {
+    "raw_data": "CUNxTime;301438", 
+    "quote_id": 301438, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301443, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "Kronus;301441", 
+    "quote_id": 301441, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  301444, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "CUNxTime;301443", 
+    "quote_id": 301443, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301444, 
+  [
+   360, 
+   443, 
+   {
+    "raw_data": "CUNxTime;301443", 
+    "quote_id": 301443, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Archangel;301052", 
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   296, 
+   339, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   496, 
+   629, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   910, 
+   1168, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   1288, 
+   1434, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   1655, 
+   1844, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301062, 
+  [
+   2258, 
+   2294, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  300679, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "bertvan;300670", 
+    "quote_id": 300670, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300552, 
+  [
+   0, 
+   1871, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301036, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "Archangel;300963", 
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301036, 
+  [
+   572, 
+   652, 
+   {
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301036, 
+  [
+   842, 
+   1068, 
+   {
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301068, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Archangel;300963", 
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301068, 
+  [
+   106, 
+   262, 
+   {
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301068, 
+  [
+   420, 
+   726, 
+   {
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  300691, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "bertvan;300666", 
+    "quote_id": 300666, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300691, 
+  [
+   610, 
+   880, 
+   {
+    "raw_data": "bertvan;300666", 
+    "quote_id": 300666, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300691, 
+  [
+   1212, 
+   1413, 
+   {
+    "raw_data": "bertvan;300666", 
+    "quote_id": 300666, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301438, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Kronus;301434", 
+    "quote_id": 301434, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  301083, 
+  [
+   0, 
+   1871, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300963, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "lesz;300926", 
+    "quote_id": 300926, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  301425, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "CUNxTime;301424", 
+    "quote_id": 301424, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301425, 
+  [
+   743, 
+   868, 
+   {
+    "raw_data": "CUNxTime;301424", 
+    "quote_id": 301424, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  300970, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Archangel;300963", 
+    "quote_id": 300963, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301106, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Archangel;301052", 
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301106, 
+  [
+   159, 
+   200, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301106, 
+  [
+   294, 
+   377, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301106, 
+  [
+   499, 
+   725, 
+   {
+    "quote_id": 301052, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  301363, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "bertvan;300666", 
+    "quote_id": 300666, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301363, 
+  [
+   191, 
+   362, 
+   {
+    "quote_id": 300666, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301364, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "bertvan;300670", 
+    "quote_id": 300670, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300600, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301375, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "CUNxTime;301366", 
+    "quote_id": 301366, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301379, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "Kronus;301375", 
+    "quote_id": 301375, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  301387, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "CUNxTime;301379", 
+    "quote_id": 301379, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301137, 
+  [
+   0, 
+   834, 
+   {
+    "raw_data": "Kronus;301071", 
+    "quote_id": 301071, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  300887, 
+  [
+   0, 
+   1140, 
+   {
+    "raw_data": "Dane;300774", 
+    "quote_id": 300774, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  300508, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300508, 
+  [
+   315, 
+   596, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300508, 
+  [
+   836, 
+   932, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301434, 
+  [
+   0, 
+   671, 
+   {
+    "raw_data": "CUNxTime;301427", 
+    "quote_id": 301427, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  300901, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Archangel;300887", 
+    "quote_id": 300887, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   183, 
+   353, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   586, 
+   661, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   839, 
+   1002, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   1017, 
+   1191, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   1267, 
+   1506, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   1516, 
+   1542, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   1758, 
+   1918, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   1938, 
+   2060, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300774, 
+  [
+   2080, 
+   2295, 
+   {
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  301160, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "HonestAbe;301137", 
+    "quote_id": 301137, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  300905, 
+  [
+   0, 
+   822, 
+   {
+    "raw_data": "Dane;300901", 
+    "quote_id": 300901, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  300652, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "bertvan;300484", 
+    "quote_id": 300484, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300670, 
+  [
+   8, 
+   272, 
+   {
+    "quote_id": 300552, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  300666, 
+  [
+   8, 
+   75, 
+   {
+    "quote_id": 300508, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  300666, 
+  [
+   503, 
+   708, 
+   {
+    "quote_id": 300508, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  300666, 
+  [
+   993, 
+   1111, 
+   {
+    "quote_id": 300508, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  301052, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "Dane;301036", 
+    "quote_id": 301036, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  300926, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Archangel;300905", 
+    "quote_id": 300905, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  300927, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "bertvan;300670", 
+    "quote_id": 300670, 
+    "author": "bertvan"
+   }
+  ]
+ ], 
+ [
+  300927, 
+  [
+   249, 
+   426, 
+   {
+    "quote_id": 300670, 
+    "author": "bertvan"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,4024 @@
+[
+ [
+  229376, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229376, 
+  [
+   626, 
+   894, 
+   {
+    "raw_data": "bradamante", 
+    "quote_id": 229346, 
+    "unknown_author": "bradamante", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229376, 
+  [
+   1200, 
+   1527, 
+   {
+    "raw_data": "bradamante", 
+    "quote_id": 229346, 
+    "unknown_author": "bradamante", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  230825, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Easyrider;230748", 
+    "quote_id": 230748, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  229380, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "unkerpaulie;229376", 
+    "quote_id": 229376, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229380, 
+  [
+   442, 
+   506, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 229376, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229380, 
+  [
+   735, 
+   968, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 229376, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229380, 
+  [
+   1491, 
+   1620, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 229376, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   198, 
+   396, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   408, 
+   639, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   714, 
+   824, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   1004, 
+   1274, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   1848, 
+   2177, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229383, 
+  [
+   2249, 
+   2581, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226824, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 226819, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  226825, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 226824, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  228874, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Bradamante;228863", 
+    "quote_id": 228863, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  230706, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Easyrider;230619", 
+    "quote_id": 230619, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  229388, 
+  [
+   0, 
+   66, 
+   {
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  226829, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 226825, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  229390, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Bradamante;229383", 
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229390, 
+  [
+   155, 
+   222, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229390, 
+  [
+   420, 
+   594, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229390, 
+  [
+   670, 
+   777, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229390, 
+  [
+   918, 
+   984, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229390, 
+  [
+   1064, 
+   1131, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229383, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  226831, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 226829, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  226832, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226750, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226832, 
+  [
+   576, 
+   727, 
+   {
+    "raw_data": "Me", 
+    "quote_id": 226742, 
+    "unknown_author": "Me", 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  228371, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Bradamante;228265", 
+    "quote_id": 228265, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228371, 
+  [
+   33, 
+   178, 
+   {
+    "raw_data": "Bradamante;228285", 
+    "quote_id": 228285, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  226840, 
+  [
+   0, 
+   107, 
+   {
+    "quote_id": 226832, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  229402, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "unkerpaulie;229396", 
+    "quote_id": 229396, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  226846, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 226840, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  228387, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "electrolyte;228371", 
+    "quote_id": 228371, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229126, 
+  [
+   0, 
+   959, 
+   {
+    "raw_data": "fishpower;229079", 
+    "quote_id": 229079, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  228903, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Bradamante;228893", 
+    "quote_id": 228893, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Bradamante;228423", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   435, 
+   503, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   639, 
+   682, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   794, 
+   891, 
+   {
+    "raw_data": "Bradamante", 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   895, 
+   974, 
+   {
+    "raw_data": "electrolyte;228371", 
+    "quote_id": 228371, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   1124, 
+   1212, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   1461, 
+   1524, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228444, 
+  [
+   1668, 
+   1930, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229639, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "paul.boys;229543", 
+    "quote_id": 229543, 
+    "author": "paul.boys"
+   }
+  ]
+ ], 
+ [
+  229639, 
+  [
+   145, 
+   379, 
+   {
+    "raw_data": "paul.boys", 
+    "quote_id": 229543, 
+    "author": "paul.boys"
+   }
+  ]
+ ], 
+ [
+  230834, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "simone;230825", 
+    "quote_id": 230825, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  226867, 
+  [
+   0, 
+   94, 
+   {
+    "quote_id": 226849, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  228413, 
+  [
+   0, 
+   657, 
+   {
+    "raw_data": "Bradamante;228265", 
+    "quote_id": 228265, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   0, 
+   107, 
+   {
+    "quote_id": 226832, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   111, 
+   174, 
+   {
+    "quote_id": 226840, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   371, 
+   534, 
+   {
+    "quote_id": 226846, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   1008, 
+   1080, 
+   {
+    "quote_id": 226849, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   1165, 
+   1254, 
+   {
+    "quote_id": 226867, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   1280, 
+   1404, 
+   {
+    "quote_id": 226867, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   1524, 
+   1728, 
+   {
+    "quote_id": 226867, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  226880, 
+  [
+   1764, 
+   2117, 
+   {
+    "quote_id": 226874, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  226881, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 226877, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  228420, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "pappillion001;228413", 
+    "quote_id": 228413, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   129, 
+   297, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   386, 
+   854, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   1027, 
+   1190, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   1385, 
+   1559, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   1712, 
+   1886, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   2140, 
+   2461, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228423, 
+  [
+   2530, 
+   2837, 
+   {
+    "raw_data": "electrolyte;228410", 
+    "quote_id": 228410, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226888, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226880, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  228429, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Bradamante;228420", 
+    "quote_id": 228420, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229966, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "peteratwar;229964", 
+    "quote_id": 229964, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229966, 
+  [
+   61, 
+   167, 
+   {
+    "raw_data": "peteratwar;229964", 
+    "quote_id": 229964, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  226895, 
+  [
+   0, 
+   180, 
+   {}
+  ]
+ ], 
+ [
+  226900, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226880, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226900, 
+  [
+   580, 
+   645, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226880, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226900, 
+  [
+   762, 
+   839, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226880, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226900, 
+  [
+   840, 
+   1025, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226880, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  229974, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Bradamante;229966", 
+    "quote_id": 229966, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229976, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Bradamante", 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229976, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "peteratwar;229974", 
+    "quote_id": 229974, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229976, 
+  [
+   131, 
+   210, 
+   {
+    "raw_data": "peteratwar;229974", 
+    "quote_id": 229974, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229976, 
+  [
+   278, 
+   452, 
+   {
+    "raw_data": "peteratwar;229974", 
+    "quote_id": 229974, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229976, 
+  [
+   478, 
+   688, 
+   {
+    "raw_data": "peteratwar;229974", 
+    "quote_id": 229974, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229976, 
+  [
+   891, 
+   973, 
+   {
+    "raw_data": "peteratwar;229974", 
+    "quote_id": 229974, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229391, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Symbiote;229388", 
+    "quote_id": 229388, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  226908, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 226895, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  229983, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Bradamante;229976", 
+    "quote_id": 229976, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  226915, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 226888, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  226918, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 226915, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  229992, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "trebor;229983", 
+    "quote_id": 229983, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  228979, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "simone;228916", 
+    "quote_id": 228916, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  226933, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226880, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  229225, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "johnhanks;229126", 
+    "quote_id": 229126, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  230932, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "epaphras_faith;230860", 
+    "quote_id": 230860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  229499, 
+  [
+   0, 
+   732, 
+   {
+    "raw_data": "electrolyte;229495", 
+    "quote_id": 229495, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228990, 
+  [
+   0, 
+   928, 
+   {
+    "raw_data": "fishpower;228903", 
+    "quote_id": 228903, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  226945, 
+  [
+   0, 
+   109, 
+   {
+    "quote_id": 226900, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226945, 
+  [
+   495, 
+   935, 
+   {
+    "quote_id": 226900, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226945, 
+  [
+   1197, 
+   1432, 
+   {
+    "quote_id": 226900, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  230019, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Easyrider;229992", 
+    "quote_id": 229992, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  228487, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "electrolyte;228221", 
+    "quote_id": 228221, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226955, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 226918, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  228493, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "electrolyte;228371", 
+    "quote_id": 228371, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228493, 
+  [
+   344, 
+   904, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 228371, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229519, 
+  [
+   0, 
+   935, 
+   {
+    "raw_data": "electrolyte;229495", 
+    "quote_id": 229495, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229523, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "paul.boys;229499", 
+    "quote_id": 229499, 
+    "author": "paul.boys"
+   }
+  ]
+ ], 
+ [
+  229523, 
+  [
+   698, 
+   1039, 
+   {
+    "raw_data": "paul.boys", 
+    "quote_id": 229499, 
+    "author": "paul.boys"
+   }
+  ]
+ ], 
+ [
+  229523, 
+  [
+   1675, 
+   1810, 
+   {
+    "raw_data": "paul.boys", 
+    "quote_id": 229499, 
+    "author": "paul.boys"
+   }
+  ]
+ ], 
+ [
+  229524, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "unkerpaulie;229519", 
+    "quote_id": 229519, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229524, 
+  [
+   473, 
+   685, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 229519, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  231073, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Master_Shake;231055", 
+    "quote_id": 231055, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  231073, 
+  [
+   923, 
+   4861, 
+   {}
+  ]
+ ], 
+ [
+  231073, 
+  [
+   5008, 
+   10408, 
+   {}
+  ]
+ ], 
+ [
+  228517, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "trebor;228429", 
+    "quote_id": 228429, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   105, 
+   245, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   575, 
+   644, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   648, 
+   777, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   913, 
+   957, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   961, 
+   1066, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   1300, 
+   1396, 
+   {
+    "raw_data": "Bradamante", 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   1400, 
+   1475, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   1296, 
+   1620, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   1848, 
+   1937, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   1941, 
+   2183, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   2539, 
+   2603, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   2607, 
+   2743, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   2936, 
+   3198, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228423, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228518, 
+  [
+   3202, 
+   3463, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229245, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "electrolyte;229229", 
+    "quote_id": 229229, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229245, 
+  [
+   2036, 
+   2424, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 228542, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229245, 
+  [
+   2905, 
+   3132, 
+   {
+    "raw_data": "electrolyte;229229", 
+    "quote_id": 229229, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228039, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "INRI;227561", 
+    "quote_id": 227561, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  228893, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "fishpower;228874", 
+    "quote_id": 228874, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  228893, 
+  [
+   107, 
+   152, 
+   {
+    "raw_data": "fishpower;228874", 
+    "quote_id": 228874, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  228893, 
+  [
+   275, 
+   946, 
+   {
+    "raw_data": "fishpower;228874", 
+    "quote_id": 228874, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  226994, 
+  [
+   0, 
+   8, 
+   {
+    "raw_data": "lunchmoney", 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226994, 
+  [
+   112, 
+   172, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226945, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226994, 
+  [
+   372, 
+   412, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226945, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226994, 
+  [
+   542, 
+   745, 
+   {
+    "raw_data": "lunchmoney", 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  228536, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "unkerpaulie;228487", 
+    "quote_id": 228487, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228536, 
+  [
+   230, 
+   476, 
+   {
+    "raw_data": "unkerpaulie;228493", 
+    "quote_id": 228493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228536, 
+  [
+   783, 
+   954, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 228493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228536, 
+  [
+   1153, 
+   1237, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 228493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229053, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Bradamante;228990", 
+    "quote_id": 228990, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229053, 
+  [
+   579, 
+   634, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228990, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   365, 
+   532, 
+   {
+    "raw_data": "Bradamante;228518", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   1117, 
+   1316, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   1642, 
+   1788, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   1902, 
+   2086, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   2307, 
+   2539, 
+   {
+    "raw_data": "electrolyte;228444", 
+    "quote_id": 228444, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   2307, 
+   2635, 
+   {
+    "raw_data": "Bradamante", 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   2894, 
+   2985, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228542, 
+  [
+   3813, 
+   4016, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229979, 
+  [
+   0, 
+   659, 
+   {
+    "raw_data": "Bradamante;229976", 
+    "quote_id": 229976, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229750, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "Master_Shake;229746", 
+    "quote_id": 229746, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  229062, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "fishpower;229053", 
+    "quote_id": 229053, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  227527, 
+  [
+   0, 
+   4535, 
+   {
+    "raw_data": "INRI;227230", 
+    "quote_id": 227230, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  228552, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "unkerpaulie;228493", 
+    "quote_id": 228493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228553, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "peteratwar;228548", 
+    "quote_id": 228548, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229495, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "unkerpaulie;229396", 
+    "quote_id": 229396, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  229495, 
+  [
+   460, 
+   600, 
+   {
+    "raw_data": "Bradamante;229402", 
+    "quote_id": 229402, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228046, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "pappillion001;228039", 
+    "quote_id": 228039, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  228049, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "pappillion001;228039", 
+    "quote_id": 228039, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  230610, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "gaetano;230565", 
+    "quote_id": 230565, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  229079, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "johnhanks;229062", 
+    "quote_id": 229062, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  230619, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "gaetano", 
+    "quote_id": 230566, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  230619, 
+  [
+   163, 
+   301, 
+   {
+    "raw_data": "gaetano", 
+    "quote_id": 230566, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  230619, 
+  [
+   364, 
+   654, 
+   {
+    "raw_data": "gaetano", 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  230662, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Easyrider;230619", 
+    "quote_id": 230619, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  230115, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "trebor;230019", 
+    "quote_id": 230019, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  229541, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "electrolyte;229495", 
+    "quote_id": 229495, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  227563, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "INRI;227561", 
+    "quote_id": 227561, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  227197, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 227196, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  229776, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Master_Shake;229772", 
+    "quote_id": 229772, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  229108, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "fishpower;229053", 
+    "quote_id": 229053, 
+    "author": "fishpower"
+   }
+  ]
+ ], 
+ [
+  227583, 
+  [
+   0, 
+   186, 
+   {
+    "quote_id": 227230, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  230955, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Master_Shake;230932", 
+    "quote_id": 230932, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  229637, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Bradamante;229541", 
+    "quote_id": 229541, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  227078, 
+  [
+   0, 
+   567, 
+   {
+    "quote_id": 226908, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  228481, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Matthew S;226717", 
+    "quote_id": 226717, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230664, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "gaetano;230662", 
+    "quote_id": 230662, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  227089, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 226831, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Bradamante;229749", 
+    "quote_id": 229749, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   272, 
+   366, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229749, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   622, 
+   825, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229749, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   909, 
+   958, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229749, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   1077, 
+   1232, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229749, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   1236, 
+   1497, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   1498, 
+   1562, 
+   {
+    "raw_data": "electrolyte;229637", 
+    "quote_id": 229637, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   1563, 
+   1666, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229764, 
+  [
+   1667, 
+   1997, 
+   {
+    "raw_data": "electrolyte;229346", 
+    "quote_id": 229346, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  230175, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "trebor;230019", 
+    "quote_id": 230019, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  230919, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "gaetano;230880", 
+    "quote_id": 230880, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  230919, 
+  [
+   962, 
+   1027, 
+   {
+    "quote_id": 230790, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  230919, 
+  [
+   1116, 
+   1216, 
+   {}
+  ]
+ ], 
+ [
+  227117, 
+  [
+   0, 
+   1184, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 227078, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  227118, 
+  [
+   0, 
+   1184, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 227078, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  229682, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "electrolyte;229637", 
+    "quote_id": 229637, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229682, 
+  [
+   1199, 
+   1376, 
+   {
+    "raw_data": "electrolyte;229637", 
+    "quote_id": 229637, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229682, 
+  [
+   1423, 
+   1477, 
+   {
+    "raw_data": "electrolyte;229637", 
+    "quote_id": 229637, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229682, 
+  [
+   1623, 
+   2054, 
+   {
+    "raw_data": "electrolyte;229637", 
+    "quote_id": 229637, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  230708, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "johnhanks;230706", 
+    "quote_id": 230706, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  227126, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 226819, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  227145, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 227126, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  227150, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227145, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  227153, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 227150, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  227155, 
+  [
+   0, 
+   1139, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227157, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227145, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  231055, 
+  [
+   0, 
+   914, 
+   {
+    "raw_data": "epaphras_faith;230955", 
+    "quote_id": 230955, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  230748, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "trebor;230708", 
+    "quote_id": 230708, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  228410, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Bradamante;228387", 
+    "quote_id": 228387, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228410, 
+  [
+   1154, 
+   1326, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 228387, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228705, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "electrolyte;228536", 
+    "quote_id": 228536, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228705, 
+  [
+   753, 
+   944, 
+   {
+    "quote_id": 228536, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228705, 
+  [
+   1225, 
+   1367, 
+   {
+    "quote_id": 228536, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228708, 
+  [
+   0, 
+   950, 
+   {
+    "raw_data": "Bradamante;228518", 
+    "quote_id": 228518, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228201, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Matthew S;226717", 
+    "quote_id": 226717, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  229226, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "electrolyte;229056", 
+    "quote_id": 229056, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229229, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Bradamante;229226", 
+    "quote_id": 229226, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229742, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Bradamante;229682", 
+    "quote_id": 229682, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229742, 
+  [
+   1230, 
+   1298, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229682, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229742, 
+  [
+   1468, 
+   1608, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229682, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229746, 
+  [
+   148, 
+   323, 
+   {
+    "raw_data": "electrolyte;229637", 
+    "quote_id": 229637, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229682, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   112, 
+   758, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 229742, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   947, 
+   1411, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 229742, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   1513, 
+   1580, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229682, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   1585, 
+   1747, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 229742, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   1958, 
+   2099, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229682, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229749, 
+  [
+   2104, 
+   2428, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 229742, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  227190, 
+  [
+   0, 
+   753, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 227157, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  227196, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227190, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  228221, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Matthew S;226717", 
+    "quote_id": 226717, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  228221, 
+  [
+   64, 
+   114, 
+   {
+    "raw_data": "Bradamante;228201", 
+    "quote_id": 228201, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229760, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Master_Shake;229746", 
+    "quote_id": 229746, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  230565, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Easyrider;229992", 
+    "quote_id": 229992, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  229252, 
+  [
+   1007, 
+   1147, 
+   {
+    "raw_data": "Bradamante;229245", 
+    "quote_id": 229245, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229252, 
+  [
+   2088, 
+   2164, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229245, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229252, 
+  [
+   2342, 
+   2422, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229245, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229252, 
+  [
+   2601, 
+   2672, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229245, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229252, 
+  [
+   2859, 
+   3003, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229245, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  230790, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "epaphras_faith;230610", 
+    "quote_id": 230610, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   0, 
+   1006, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   2423, 
+   2813, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   2817, 
+   3007, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   3534, 
+   3582, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   3635, 
+   3941, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   4429, 
+   4601, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   4696, 
+   4867, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   4920, 
+   5099, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229257, 
+  [
+   5264, 
+   5414, 
+   {
+    "raw_data": "electrolyte;229252", 
+    "quote_id": 229252, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  228234, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "electrolyte;228221", 
+    "quote_id": 228221, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229772, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "electrolyte;229760", 
+    "quote_id": 229760, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  227214, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227197, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  229775, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "electrolyte;229764", 
+    "quote_id": 229764, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229775, 
+  [
+   399, 
+   510, 
+   {
+    "raw_data": "electrolyte;229764", 
+    "quote_id": 229764, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  227216, 
+  [
+   0, 
+   400, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227153, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  227218, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 227216, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  227221, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227197, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  229783, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "electrolyte;229776", 
+    "quote_id": 229776, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229784, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "electrolyte;229764", 
+    "quote_id": 229764, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229784, 
+  [
+   813, 
+   982, 
+   {
+    "raw_data": "electrolyte;229764", 
+    "quote_id": 229764, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229784, 
+  [
+   1046, 
+   1263, 
+   {
+    "raw_data": "Bradamante", 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229784, 
+  [
+   1267, 
+   1347, 
+   {
+    "raw_data": "electrolyte;229764", 
+    "quote_id": 229764, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229785, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Master_Shake;229777", 
+    "quote_id": 229777, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  229787, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "peteratwar;229786", 
+    "quote_id": 229786, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229787, 
+  [
+   118, 
+   345, 
+   {
+    "raw_data": "peteratwar;229786", 
+    "quote_id": 229786, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229787, 
+  [
+   424, 
+   511, 
+   {
+    "raw_data": "peteratwar;229786", 
+    "quote_id": 229786, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229787, 
+  [
+   540, 
+   616, 
+   {
+    "raw_data": "peteratwar;229786", 
+    "quote_id": 229786, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  229787, 
+  [
+   663, 
+   740, 
+   {
+    "raw_data": "peteratwar;229786", 
+    "quote_id": 229786, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   0, 
+   790, 
+   {
+    "quote_id": 227117, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   2444, 
+   3583, 
+   {
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   3589, 
+   3660, 
+   {
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   3797, 
+   3859, 
+   {
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   4044, 
+   4251, 
+   {
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   4410, 
+   4491, 
+   {
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227230, 
+  [
+   4540, 
+   4614, 
+   {
+    "quote_id": 227118, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  226725, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 226724, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  228265, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "johnhanks;228234", 
+    "quote_id": 228234, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  230830, 
+  [
+   0, 
+   2141, 
+   {
+    "raw_data": "gaetano;230790", 
+    "quote_id": 230790, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  228274, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Bradamante;228265", 
+    "quote_id": 228265, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228274, 
+  [
+   232, 
+   312, 
+   {
+    "raw_data": "Bradamante;228265", 
+    "quote_id": 228265, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  226742, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 226717, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  228283, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "johnhanks;228274", 
+    "quote_id": 228274, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228283, 
+  [
+   58, 
+   195, 
+   {
+    "raw_data": "johnhanks;228274", 
+    "quote_id": 228274, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228283, 
+  [
+   598, 
+   707, 
+   {
+    "raw_data": "johnhanks;228274", 
+    "quote_id": 228274, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228284, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Bradamante;228283", 
+    "quote_id": 228283, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228285, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "johnhanks;228284", 
+    "quote_id": 228284, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  226750, 
+  [
+   0, 
+   60, 
+   {
+    "quote_id": 226717, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  229877, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Bradamante;229775", 
+    "quote_id": 229775, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229877, 
+  [
+   221, 
+   655, 
+   {
+    "raw_data": "Bradamante;229784", 
+    "quote_id": 229784, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229877, 
+  [
+   831, 
+   950, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229784, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228288, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Bradamante;228285", 
+    "quote_id": 228285, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228288, 
+  [
+   134, 
+   217, 
+   {
+    "raw_data": "Bradamante;228285", 
+    "quote_id": 228285, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228288, 
+  [
+   397, 
+   571, 
+   {
+    "raw_data": "Bradamante;228285", 
+    "quote_id": 228285, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228289, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "johnhanks;228288", 
+    "quote_id": 228288, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228289, 
+  [
+   117, 
+   287, 
+   {
+    "raw_data": "johnhanks;228288", 
+    "quote_id": 228288, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228289, 
+  [
+   444, 
+   557, 
+   {
+    "raw_data": "johnhanks;228288", 
+    "quote_id": 228288, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228289, 
+  [
+   598, 
+   764, 
+   {
+    "raw_data": "johnhanks;228288", 
+    "quote_id": 228288, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228292, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Bradamante;228289", 
+    "quote_id": 228289, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228292, 
+  [
+   147, 
+   203, 
+   {}
+  ]
+ ], 
+ [
+  228292, 
+  [
+   207, 
+   292, 
+   {
+    "raw_data": "Bradamante;228289", 
+    "quote_id": 228289, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  228294, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "johnhanks;228292", 
+    "quote_id": 228292, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  228294, 
+  [
+   880, 
+   1125, 
+   {
+    "raw_data": "johnhanks;228292", 
+    "quote_id": 228292, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  226759, 
+  [
+   0, 
+   27, 
+   {
+    "quote_id": 226725, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230860, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "johnhanks;230834", 
+    "quote_id": 230834, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  226770, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "peteratwar", 
+    "quote_id": 226757, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  227662, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "INRI;227561", 
+    "quote_id": 227561, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  228830, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "unkerpaulie;228705", 
+    "quote_id": 228705, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228830, 
+  [
+   197, 
+   204, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 228705, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228830, 
+  [
+   333, 
+   454, 
+   {
+    "quote_id": 228705, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  228830, 
+  [
+   846, 
+   925, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 228705, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  230880, 
+  [
+   0, 
+   825, 
+   {
+    "raw_data": "epaphras_faith;230830", 
+    "quote_id": 230830, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Bradamante;229257", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   228, 
+   317, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   752, 
+   824, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   942, 
+   1061, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   1337, 
+   1494, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   1716, 
+   1781, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   2116, 
+   2246, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229346, 
+  [
+   2330, 
+   2489, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 229257, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  230566, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Easyrider;229992", 
+    "quote_id": 229992, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  228841, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Bradamante;228517", 
+    "quote_id": 228517, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  229543, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "electrolyte;229523", 
+    "quote_id": 229523, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229875, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Master_Shake;229777", 
+    "quote_id": 229777, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  227317, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Judeau", 
+    "quote_id": 227145, 
+    "author": "Judeau"
+   }
+  ]
+ ], 
+ [
+  229879, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "electrolyte;229875", 
+    "quote_id": 229875, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229879, 
+  [
+   215, 
+   668, 
+   {
+    "raw_data": "electrolyte;229875", 
+    "quote_id": 229875, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229879, 
+  [
+   843, 
+   1216, 
+   {
+    "raw_data": "electrolyte;229875", 
+    "quote_id": 229875, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229879, 
+  [
+   1368, 
+   1474, 
+   {
+    "raw_data": "electrolyte;229875", 
+    "quote_id": 229875, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229880, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "electrolyte;229877", 
+    "quote_id": 229877, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229880, 
+  [
+   717, 
+   885, 
+   {
+    "raw_data": "electrolyte;229877", 
+    "quote_id": 229877, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229880, 
+  [
+   980, 
+   1012, 
+   {
+    "raw_data": "electrolyte;229877", 
+    "quote_id": 229877, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229880, 
+  [
+   1397, 
+   1458, 
+   {
+    "raw_data": "electrolyte;229877", 
+    "quote_id": 229877, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  229880, 
+  [
+   1527, 
+   1657, 
+   {
+    "raw_data": "electrolyte;229877", 
+    "quote_id": 229877, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  226810, 
+  [
+   0, 
+   75, 
+   {}
+  ]
+ ], 
+ [
+  228862, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "trebor;228841", 
+    "quote_id": 228841, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  228863, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "fishpower;228728", 
+    "quote_id": 228728, 
+    "author": "fishpower"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,55 @@
+[
+ [
+  127074, 
+  [
+   97, 
+   117, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  127565, 
+  [
+   0, 
+   5, 
+   {
+    "category": "size", 
+    "raw_data": "5"
+   }
+  ]
+ ], 
+ [
+  127565, 
+  [
+   0, 
+   5, 
+   {
+    "category": "color", 
+    "raw_data": "Red"
+   }
+  ]
+ ], 
+ [
+  127565, 
+  [
+   9, 
+   17, 
+   {
+    "category": "color", 
+    "raw_data": "White"
+   }
+  ]
+ ], 
+ [
+  132514, 
+  [
+   425, 
+   428, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

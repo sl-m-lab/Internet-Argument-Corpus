@@ -1,0 +1,38 @@
+[
+ [
+  425382, 
+  [
+   0, 
+   1448, 
+   {
+    "raw_data": "Galileo;425380", 
+    "quote_id": 425380, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  425386, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Galileo;425380", 
+    "quote_id": 425380, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  425390, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Zorba;425382", 
+    "quote_id": 425382, 
+    "author": "Zorba"
+   }
+  ]
+ ]
+]

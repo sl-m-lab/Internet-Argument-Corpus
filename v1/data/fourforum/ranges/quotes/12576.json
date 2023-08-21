@@ -1,0 +1,116 @@
+[
+ [
+  351111, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "simone;351098", 
+    "quote_id": 351098, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  351098, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Roesgen08;351017", 
+    "quote_id": 351017, 
+    "author": "Roesgen08"
+   }
+  ]
+ ], 
+ [
+  351112, 
+  [
+   0, 
+   123, 
+   {
+    "quote_id": 351016, 
+    "author": "Cyberateos"
+   }
+  ]
+ ], 
+ [
+  350394, 
+  [
+   12, 
+   99, 
+   {
+    "quote_id": 350387, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  351147, 
+  [
+   13, 
+   171, 
+   {
+    "quote_id": 351144, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  351147, 
+  [
+   365, 
+   400, 
+   {
+    "quote_id": 351144, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  351147, 
+  [
+   475, 
+   515, 
+   {
+    "quote_id": 351144, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  351147, 
+  [
+   535, 
+   626, 
+   {
+    "quote_id": 351144, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  351097, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Cyberateos;351016", 
+    "quote_id": 351016, 
+    "author": "Cyberateos"
+   }
+  ]
+ ], 
+ [
+  351123, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "simone;351097", 
+    "quote_id": 351097, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

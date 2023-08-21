@@ -1,0 +1,410 @@
+[
+ [
+  173199, 
+  [
+   0, 
+   519, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173027, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173208, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173199, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  173217, 
+  [
+   0, 
+   1136, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173036, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  173219, 
+  [
+   0, 
+   558, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173208, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  172709, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172667, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172709, 
+  [
+   314, 
+   413, 
+   {
+    "quote_id": 172667, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  173789, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173673, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173362, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173219, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  172467, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172429, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172468, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "JOEBIALEK", 
+    "quote_id": 172307, 
+    "author": "JOEBIALEK"
+   }
+  ]
+ ], 
+ [
+  172980, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 172709, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  172980, 
+  [
+   259, 
+   325, 
+   {
+    "quote_id": 172709, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  173501, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173362, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173501, 
+  [
+   419, 
+   779, 
+   {
+    "quote_id": 173362, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173501, 
+  [
+   1317, 
+   1705, 
+   {
+    "quote_id": 173362, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173501, 
+  [
+   2122, 
+   2403, 
+   {
+    "quote_id": 173362, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173501, 
+  [
+   2811, 
+   3251, 
+   {
+    "quote_id": 173362, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173120, 
+  [
+   0, 
+   519, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173027, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173512, 
+  [
+   0, 
+   690, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173501, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  173257, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 173221, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  173270, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 173262, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  173661, 
+  [
+   0, 
+   677, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173512, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173027, 
+  [
+   0, 
+   732, 
+   {
+    "raw_data": "Bassman", 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  173158, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 173120, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  173673, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173661, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  173036, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "JOEBIALEK", 
+    "quote_id": 172307, 
+    "author": "JOEBIALEK"
+   }
+  ]
+ ], 
+ [
+  173036, 
+  [
+   460, 
+   1163, 
+   {
+    "quote_id": 172307, 
+    "author": "JOEBIALEK"
+   }
+  ]
+ ], 
+ [
+  173036, 
+  [
+   1685, 
+   1977, 
+   {
+    "quote_id": 172307, 
+    "author": "JOEBIALEK"
+   }
+  ]
+ ], 
+ [
+  173036, 
+  [
+   2121, 
+   2233, 
+   {
+    "quote_id": 172307, 
+    "author": "JOEBIALEK"
+   }
+  ]
+ ], 
+ [
+  173036, 
+  [
+   2396, 
+   3344, 
+   {
+    "quote_id": 172307, 
+    "author": "JOEBIALEK"
+   }
+  ]
+ ], 
+ [
+  172534, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 172468, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  173304, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 173276, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  173304, 
+  [
+   792, 
+   964, 
+   {
+    "quote_id": 173276, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  173818, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173789, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  172667, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 172467, 
+    "author": "Clive14"
+   }
+  ]
+ ]
+]

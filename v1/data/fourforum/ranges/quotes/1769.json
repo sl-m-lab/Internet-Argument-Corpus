@@ -1,0 +1,864 @@
+[
+ [
+  36800, 
+  [
+   0, 
+   780, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 36795, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  36872, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 36804, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  36634, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36574, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36567, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36473, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  37008, 
+  [
+   0, 
+   724, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 36978, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  36630, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36574, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36632, 
+  [
+   0, 
+   650, 
+   {
+    "raw_data": "Dan the White", 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  36633, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36473, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36122, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 35904, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  36122, 
+  [
+   349, 
+   527, 
+   {
+    "quote_id": 35904, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  36122, 
+  [
+   4317, 
+   4856, 
+   {
+    "quote_id": 35904, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  35740, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "Patrick Henry", 
+    "quote_id": 35535, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  35740, 
+  [
+   433, 
+   1231, 
+   {
+    "quote_id": 35535, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  35740, 
+  [
+   1417, 
+   1592, 
+   {
+    "quote_id": 35535, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  35740, 
+  [
+   1632, 
+   2151, 
+   {
+    "quote_id": 35535, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  35740, 
+  [
+   3157, 
+   3278, 
+   {
+    "quote_id": 35535, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  35741, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35700, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  35741, 
+  [
+   163, 
+   222, 
+   {
+    "quote_id": 35700, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36794, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 36630, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  36794, 
+  [
+   772, 
+   907, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36633, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36794, 
+  [
+   1031, 
+   2297, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 36634, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  35876, 
+  [
+   0, 
+   1763, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35118, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  35876, 
+  [
+   1958, 
+   2031, 
+   {
+    "raw_data": "Patrick Henry", 
+    "quote_id": 35535, 
+    "author": "Patrick Henry"
+   }
+  ]
+ ], 
+ [
+  36005, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35886, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36005, 
+  [
+   677, 
+   811, 
+   {
+    "quote_id": 35887, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36005, 
+  [
+   1039, 
+   1994, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 35904, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  36124, 
+  [
+   0, 
+   589, 
+   {
+    "raw_data": "Dan the White", 
+    "quote_id": 36005, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  36124, 
+  [
+   690, 
+   910, 
+   {
+    "quote_id": 36005, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  36124, 
+  [
+   1041, 
+   1071, 
+   {
+    "quote_id": 36005, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  36124, 
+  [
+   1091, 
+   1202, 
+   {
+    "quote_id": 36005, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  35886, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Dan the White", 
+    "quote_id": 35740, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  35887, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Dan the White", 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  35889, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "XeoX", 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36914, 
+  [
+   0, 
+   723, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36872, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36147, 
+  [
+   0, 
+   4035, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36664, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36632, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  35898, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35889, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36639, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36633, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36156, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 36147, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  36156, 
+  [
+   1201, 
+   2004, 
+   {
+    "quote_id": 36147, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  36156, 
+  [
+   2121, 
+   3132, 
+   {
+    "quote_id": 36147, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  35901, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35889, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  35904, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Dan the White", 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  35906, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35889, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36804, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36800, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36795, 
+  [
+   0, 
+   652, 
+   {
+    "raw_data": "XeoX", 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  37062, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 37050, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  36170, 
+  [
+   0, 
+   618, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36156, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36170, 
+  [
+   696, 
+   803, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36156, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36170, 
+  [
+   947, 
+   1056, 
+   {
+    "quote_id": 36156, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  37070, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 37062, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  35535, 
+  [
+   0, 
+   1034, 
+   {
+    "raw_data": "Dan the White", 
+    "quote_id": 35509, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  35666, 
+  [
+   0, 
+   4030, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35118, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36179, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 36170, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  35540, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Dan the White", 
+    "quote_id": 35509, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  36183, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36179, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36183, 
+  [
+   412, 
+   652, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36179, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  37050, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 37045, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  36666, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36633, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36574, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 36567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  36191, 
+  [
+   0, 
+   537, 
+   {
+    "raw_data": "Tim", 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  35686, 
+  [
+   0, 
+   1077, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 35666, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  35693, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35686, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36463, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "XeoX", 
+    "quote_id": 36095, 
+    "author": "XeoX"
+   }
+  ]
+ ], 
+ [
+  36464, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 36124, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36464, 
+  [
+   164, 
+   283, 
+   {
+    "quote_id": 36124, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36464, 
+  [
+   676, 
+   738, 
+   {
+    "quote_id": 35887, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36464, 
+  [
+   744, 
+   844, 
+   {
+    "quote_id": 35889, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36464, 
+  [
+   850, 
+   877, 
+   {
+    "quote_id": 36179, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  36464, 
+  [
+   1041, 
+   1064, 
+   {
+    "quote_id": 36124, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  35700, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 35693, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  36473, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "Dan the White", 
+    "quote_id": 36463, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  36095, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "Dan the White", 
+    "quote_id": 36005, 
+    "author": "Dan the White"
+   }
+  ]
+ ], 
+ [
+  35455, 
+  [
+   0, 
+   4030, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 35118, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ]
+]

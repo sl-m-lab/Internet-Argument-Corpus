@@ -1,0 +1,784 @@
+[
+ [
+  270467, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "Maz;270458", 
+    "quote_id": 270458, 
+    "author": "Maz"
+   }
+  ]
+ ], 
+ [
+  271365, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Winston Smith;271311", 
+    "quote_id": 271311, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  267657, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Symbiote;267619", 
+    "quote_id": 267619, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  267659, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "GrannyM;267472", 
+    "quote_id": 267472, 
+    "author": "GrannyM"
+   }
+  ]
+ ], 
+ [
+  267661, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "GrannyM;267472", 
+    "quote_id": 267472, 
+    "author": "GrannyM"
+   }
+  ]
+ ], 
+ [
+  271960, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "gman;271892", 
+    "quote_id": 271892, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271960, 
+  [
+   932, 
+   1171, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 271892, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271960, 
+  [
+   1641, 
+   1959, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 271892, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271892, 
+  [
+   0, 
+   1760, 
+   {
+    "raw_data": "Another opinion;271386", 
+    "quote_id": 271386, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  294563, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "JPSartre12;294559", 
+    "quote_id": 294559, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  294679, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "jitobear;294636", 
+    "quote_id": 294636, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  271386, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "gman;271291", 
+    "quote_id": 271291, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271386, 
+  [
+   1566, 
+   1783, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 271291, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271386, 
+  [
+   2508, 
+   2909, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 271291, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  311642, 
+  [
+   0, 
+   557, 
+   {
+    "raw_data": "gman;267457", 
+    "quote_id": 267457, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  294746, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "jitobear;294693", 
+    "quote_id": 294693, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  294559, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "jitobear;294466", 
+    "quote_id": 294466, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  294559, 
+  [
+   217, 
+   853, 
+   {}
+  ]
+ ], 
+ [
+  294432, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "eanassir;294371", 
+    "quote_id": 294371, 
+    "author": "eanassir"
+   }
+  ]
+ ], 
+ [
+  294818, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "DowJones;294746", 
+    "quote_id": 294746, 
+    "author": "DowJones"
+   }
+  ]
+ ], 
+ [
+  294636, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "JPSartre12;294582", 
+    "quote_id": 294582, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  294769, 
+  [
+   0, 
+   755, 
+   {
+    "raw_data": "Another opinion;294679", 
+    "quote_id": 294679, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  272040, 
+  [
+   0, 
+   1248, 
+   {
+    "raw_data": "Another opinion;271960", 
+    "quote_id": 271960, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  272041, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "gman;272040", 
+    "quote_id": 272040, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  272044, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "gman;272040", 
+    "quote_id": 272040, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  272044, 
+  [
+   1158, 
+   1490, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 272040, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  272044, 
+  [
+   2138, 
+   2336, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 272040, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  311757, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Winston Smith;271523", 
+    "quote_id": 271523, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  271286, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "VTCruiser;267430", 
+    "quote_id": 267430, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  267963, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "simone;267897", 
+    "quote_id": 267897, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  271293, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Shooterandproud;271286", 
+    "quote_id": 271286, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  267458, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "VTCruiser;267430", 
+    "quote_id": 267430, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  294582, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "jitobear;294563", 
+    "quote_id": 294563, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  294473, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "JPSartre12;294432", 
+    "quote_id": 294432, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  271291, 
+  [
+   0, 
+   997, 
+   {
+    "raw_data": "Another opinion;271170", 
+    "quote_id": 271170, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  267468, 
+  [
+   0, 
+   557, 
+   {
+    "raw_data": "gman;267457", 
+    "quote_id": 267457, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  270477, 
+  [
+   0, 
+   555, 
+   {
+    "raw_data": "gman;270467", 
+    "quote_id": 270467, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  267472, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "VTCruiser;267430", 
+    "quote_id": 267430, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  294371, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "VTCruiser;267430", 
+    "quote_id": 267430, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  294693, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "JPSartre12;294637", 
+    "quote_id": 294637, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  267607, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;267485", 
+    "quote_id": 267485, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  271562, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "simone;270938", 
+    "quote_id": 270938, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  267609, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "ShadowPikachu;267487", 
+    "quote_id": 267487, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  271170, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "gman;271098", 
+    "quote_id": 271098, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271170, 
+  [
+   824, 
+   1019, 
+   {
+    "raw_data": "gman", 
+    "quote_id": 271098, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  267898, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "VTCruiser;267430", 
+    "quote_id": 267430, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  307934, 
+  [
+   0, 
+   1019, 
+   {
+    "raw_data": "Utena;307933", 
+    "quote_id": 307933, 
+    "author": "Utena"
+   }
+  ]
+ ], 
+ [
+  307936, 
+  [
+   0, 
+   1019, 
+   {
+    "raw_data": "Utena;307933", 
+    "quote_id": 307933, 
+    "author": "Utena"
+   }
+  ]
+ ], 
+ [
+  311394, 
+  [
+   0, 
+   1274, 
+   {
+    "raw_data": "Hero;311392", 
+    "quote_id": 311392, 
+    "author": "Hero"
+   }
+  ]
+ ], 
+ [
+  271076, 
+  [
+   0, 
+   733, 
+   {
+    "raw_data": "gman;270831", 
+    "quote_id": 270831, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271076, 
+  [
+   739, 
+   770, 
+   {
+    "raw_data": "gman;270831", 
+    "quote_id": 270831, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  271076, 
+  [
+   844, 
+   1300, 
+   {}
+  ]
+ ], 
+ [
+  271076, 
+  [
+   1826, 
+   1906, 
+   {
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  272273, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;267485", 
+    "quote_id": 267485, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  294632, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "DowJones;294610", 
+    "quote_id": 294610, 
+    "author": "DowJones"
+   }
+  ]
+ ], 
+ [
+  271098, 
+  [
+   0, 
+   764, 
+   {
+    "raw_data": "Maz;271076", 
+    "quote_id": 271076, 
+    "author": "Maz"
+   }
+  ]
+ ], 
+ [
+  267586, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;267485", 
+    "quote_id": 267485, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  294637, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "jitobear;294636", 
+    "quote_id": 294636, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  270830, 
+  [
+   0, 
+   752, 
+   {
+    "raw_data": "Maz;270477", 
+    "quote_id": 270477, 
+    "author": "Maz"
+   }
+  ]
+ ], 
+ [
+  270831, 
+  [
+   0, 
+   752, 
+   {
+    "raw_data": "Maz;270477", 
+    "quote_id": 270477, 
+    "author": "Maz"
+   }
+  ]
+ ], 
+ [
+  267889, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "chemist99a;267586", 
+    "quote_id": 267586, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  270964, 
+  [
+   248, 
+   1609, 
+   {}
+  ]
+ ], 
+ [
+  270964, 
+  [
+   1631, 
+   2065, 
+   {}
+  ]
+ ], 
+ [
+  267893, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "gman;267607", 
+    "quote_id": 267607, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  267639, 
+  [
+   0, 
+   557, 
+   {
+    "raw_data": "gman;267457", 
+    "quote_id": 267457, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  267897, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "gman;267659", 
+    "quote_id": 267659, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  270458, 
+  [
+   0, 
+   238, 
+   {}
+  ]
+ ]
+]

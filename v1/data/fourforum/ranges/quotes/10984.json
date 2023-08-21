@@ -1,0 +1,190 @@
+[
+ [
+  333570, 
+  [
+   0, 
+   944, 
+   {
+    "raw_data": "Another opinion;333283", 
+    "quote_id": 333283, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333283, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "CUNxTime;333017", 
+    "quote_id": 333017, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  330582, 
+  [
+   273, 
+   532, 
+   {}
+  ]
+ ], 
+ [
+  333607, 
+  [
+   0, 
+   937, 
+   {
+    "raw_data": "CUNxTime;333570", 
+    "quote_id": 333570, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  335107, 
+  [
+   0, 
+   632, 
+   {
+    "raw_data": "Another opinion;334872", 
+    "quote_id": 334872, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333847, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Another opinion;333607", 
+    "quote_id": 333607, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  334535, 
+  [
+   0, 
+   1385, 
+   {
+    "raw_data": "Another opinion;334195", 
+    "quote_id": 334195, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  303694, 
+  [
+   0, 
+   6361, 
+   {
+    "raw_data": "Another opinion;302688", 
+    "unknown_quote_id": 302688, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  335250, 
+  [
+   0, 
+   840, 
+   {
+    "raw_data": "Another opinion;335227", 
+    "quote_id": 335227, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  334195, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "CUNxTime;334118", 
+    "quote_id": 334118, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  334872, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Joel_Henderson;334535", 
+    "quote_id": 334535, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334872, 
+  [
+   1576, 
+   1996, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 334535, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  334872, 
+  [
+   2687, 
+   2782, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 334535, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  335227, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Ryuuichi;335107", 
+    "quote_id": 335107, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  335259, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Ryuuichi;335250", 
+    "quote_id": 335250, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  334079, 
+  [
+   0, 
+   710, 
+   {
+    "raw_data": "CUNxTime;333847", 
+    "quote_id": 333847, 
+    "author": "CUNxTime"
+   }
+  ]
+ ]
+]

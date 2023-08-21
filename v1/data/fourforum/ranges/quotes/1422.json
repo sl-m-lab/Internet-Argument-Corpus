@@ -1,0 +1,823 @@
+[
+ [
+  30225, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 30218, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28224, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 28154, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  30276, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 30225, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30280, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 30236, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  30280, 
+  [
+   247, 
+   402, 
+   {}
+  ]
+ ], 
+ [
+  30283, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30285, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 30282, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  27726, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27637, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27727, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Crim", 
+    "quote_id": 27638, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  27728, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27641, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27728, 
+  [
+   151, 
+   189, 
+   {
+    "quote_id": 27641, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27728, 
+  [
+   209, 
+   376, 
+   {
+    "quote_id": 27641, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  30290, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 30285, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  28252, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28224, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27743, 
+  [
+   0, 
+   1485, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 27741, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  28262, 
+  [
+   0, 
+   567, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 28252, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  28265, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28262, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27754, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 27748, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  28267, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 28265, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  29293, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28846, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  29299, 
+  [
+   17, 
+   418, 
+   {
+    "quote_id": 27918, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  27770, 
+  [
+   0, 
+   1370, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 27761, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  28297, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 28284, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28298, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28224, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  28300, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28262, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  28340, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 28284, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28342, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28340, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27836, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27825, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27836, 
+  [
+   421, 
+   685, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27825, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  29422, 
+  [
+   0, 
+   1048, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 29293, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30456, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 30283, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  30461, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 30456, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  27918, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27851, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29991, 
+  [
+   0, 
+   221, 
+   {
+    "quote_id": 29990, 
+    "author": "derinda"
+   }
+  ]
+ ], 
+ [
+  27613, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Moderator", 
+    "quote_id": 27612, 
+    "author": "Moderator"
+   }
+  ]
+ ], 
+ [
+  28508, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 28458, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  28528, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 28523, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28021, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 27610, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  30124, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29299, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  30124, 
+  [
+   836, 
+   1125, 
+   {}
+  ]
+ ], 
+ [
+  30126, 
+  [
+   17, 
+   57, 
+   {
+    "quote_id": 30124, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30126, 
+  [
+   128, 
+   312, 
+   {
+    "quote_id": 30124, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30126, 
+  [
+   588, 
+   642, 
+   {
+    "quote_id": 30124, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30126, 
+  [
+   738, 
+   892, 
+   {
+    "quote_id": 30124, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  30126, 
+  [
+   1024, 
+   1080, 
+   {
+    "quote_id": 30124, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  27571, 
+  [
+   0, 
+   1277, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 27553, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  27576, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 27571, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  30142, 
+  [
+   0, 
+   685, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27725, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27629, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27725, 
+  [
+   394, 
+   461, 
+   {
+    "quote_id": 27629, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27725, 
+  [
+   526, 
+   638, 
+   {
+    "quote_id": 27629, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27725, 
+  [
+   678, 
+   718, 
+   {
+    "quote_id": 27629, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27725, 
+  [
+   819, 
+   931, 
+   {
+    "quote_id": 27629, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27600, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 27576, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27600, 
+  [
+   112, 
+   285, 
+   {
+    "quote_id": 27576, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27601, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  27603, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27586, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27605, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 27601, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27607, 
+  [
+   0, 
+   1203, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27607, 
+  [
+   1250, 
+   1501, 
+   {
+    "quote_id": 27587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27607, 
+  [
+   1608, 
+   1743, 
+   {
+    "quote_id": 27587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27607, 
+  [
+   1757, 
+   1838, 
+   {
+    "quote_id": 27587, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27609, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27604, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27610, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 27605, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  27611, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Moderator", 
+    "quote_id": 27608, 
+    "author": "Moderator"
+   }
+  ]
+ ], 
+ [
+  27729, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27647, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27637, 
+  [
+   0, 
+   114, 
+   {
+    "quote_id": 27609, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  27638, 
+  [
+   0, 
+   55, 
+   {
+    "quote_id": 27605, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  28665, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 28637, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28154, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28021, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  27647, 
+  [
+   0, 
+   167, 
+   {
+    "quote_id": 27641, 
+    "author": "Broker"
+   }
+  ]
+ ]
+]

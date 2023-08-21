@@ -1,0 +1,880 @@
+[
+ [
+  413837, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   1202, 
+   1810, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   2315, 
+   3580, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   4378, 
+   4721, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   4763, 
+   5273, 
+   {
+    "raw_data": "Bennedict;413712", 
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   6068, 
+   6776, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   7689, 
+   8514, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413837, 
+  [
+   8603, 
+   9560, 
+   {
+    "raw_data": "Bennedict;413776", 
+    "quote_id": 413776, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413711, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "SeriousSister08;413664", 
+    "quote_id": 413664, 
+    "author": "SeriousSister08"
+   }
+  ]
+ ], 
+ [
+  413712, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "Zorba;413683", 
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413712, 
+  [
+   392, 
+   746, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413712, 
+  [
+   775, 
+   1899, 
+   {}
+  ]
+ ], 
+ [
+  413842, 
+  [
+   0, 
+   4432, 
+   {
+    "raw_data": "SeriousSister08;413837", 
+    "quote_id": 413837, 
+    "author": "SeriousSister08"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   0, 
+   151, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   744, 
+   786, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   841, 
+   997, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   1110, 
+   1292, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   1483, 
+   1730, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   2036, 
+   2250, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   2268, 
+   2357, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  428567, 
+  [
+   2420, 
+   2508, 
+   {
+    "quote_id": 415478, 
+    "author": "Navigator"
+   }
+  ]
+ ], 
+ [
+  413731, 
+  [
+   0, 
+   1974, 
+   {
+    "raw_data": "Zorba;413683", 
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413745, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Bennedict;413712", 
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413745, 
+  [
+   1838, 
+   2548, 
+   {
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413745, 
+  [
+   2797, 
+   3092, 
+   {
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413745, 
+  [
+   3629, 
+   3845, 
+   {
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413745, 
+  [
+   4069, 
+   4357, 
+   {
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413745, 
+  [
+   5025, 
+   5439, 
+   {
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413746, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "unkerpaulie;413731", 
+    "quote_id": 413731, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  413746, 
+  [
+   1142, 
+   1286, 
+   {
+    "quote_id": 413731, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  413746, 
+  [
+   1766, 
+   1995, 
+   {
+    "quote_id": 413731, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  413746, 
+  [
+   2811, 
+   3134, 
+   {
+    "quote_id": 413731, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  413753, 
+  [
+   0, 
+   3781, 
+   {
+    "raw_data": "Zorba;413745", 
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Zorba;413683", 
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   646, 
+   1078, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   2805, 
+   3213, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   3667, 
+   3944, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   4609, 
+   4959, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   5466, 
+   5616, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414303, 
+  [
+   6010, 
+   6226, 
+   {
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413757, 
+  [
+   0, 
+   805, 
+   {
+    "raw_data": "Zorba;413746", 
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413757, 
+  [
+   1065, 
+   1967, 
+   {}
+  ]
+ ], 
+ [
+  413757, 
+  [
+   2797, 
+   3611, 
+   {}
+  ]
+ ], 
+ [
+  413758, 
+  [
+   0, 
+   724, 
+   {
+    "raw_data": "Zorba;413683", 
+    "quote_id": 413683, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413758, 
+  [
+   1442, 
+   1953, 
+   {
+    "raw_data": "Bennedict;413711", 
+    "quote_id": 413711, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413758, 
+  [
+   2518, 
+   2917, 
+   {
+    "raw_data": "Bennedict;413711", 
+    "quote_id": 413711, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413758, 
+  [
+   3774, 
+   4561, 
+   {
+    "raw_data": "Bennedict;413711", 
+    "quote_id": 413711, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413758, 
+  [
+   5222, 
+   5493, 
+   {
+    "raw_data": "Bennedict;413711", 
+    "quote_id": 413711, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413758, 
+  [
+   6688, 
+   7495, 
+   {
+    "raw_data": "Bennedict;413711", 
+    "quote_id": 413711, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413758, 
+  [
+   7595, 
+   8305, 
+   {
+    "raw_data": "Bennedict;413712", 
+    "quote_id": 413712, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413776, 
+  [
+   0, 
+   3669, 
+   {
+    "raw_data": "SeriousSister08;413758", 
+    "quote_id": 413758, 
+    "author": "SeriousSister08"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Zorba;413745", 
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   651, 
+   822, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   1454, 
+   1791, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   2256, 
+   2395, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   2684, 
+   3046, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   3264, 
+   3552, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   3813, 
+   3906, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   4030, 
+   4174, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   4833, 
+   4971, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   5537, 
+   5925, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   6061, 
+   6274, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   6335, 
+   6475, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   6756, 
+   7273, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414305, 
+  [
+   7671, 
+   8176, 
+   {
+    "quote_id": 413745, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Zorba;413746", 
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   261, 
+   880, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   1174, 
+   1432, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   1564, 
+   1707, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   1906, 
+   2329, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   2729, 
+   2825, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   3011, 
+   3113, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   3345, 
+   3528, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   3676, 
+   3843, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   4306, 
+   4489, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  414309, 
+  [
+   4759, 
+   4839, 
+   {
+    "quote_id": 413746, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  413683, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "SeriousSister08;413664", 
+    "quote_id": 413664, 
+    "author": "SeriousSister08"
+   }
+  ]
+ ], 
+ [
+  413683, 
+  [
+   1356, 
+   2242, 
+   {
+    "raw_data": "Iuris;413671", 
+    "quote_id": 413671, 
+    "author": "Iuris"
+   }
+  ]
+ ]
+]

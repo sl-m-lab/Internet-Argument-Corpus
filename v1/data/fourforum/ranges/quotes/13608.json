@@ -1,0 +1,86 @@
+[
+ [
+  379585, 
+  [
+   0, 
+   3268, 
+   {
+    "raw_data": "OldSarge;379470", 
+    "quote_id": 379470, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  379588, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "modulus;379585", 
+    "quote_id": 379585, 
+    "author": "modulus"
+   }
+  ]
+ ], 
+ [
+  379627, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "MarieAntoinette;379599", 
+    "quote_id": 379599, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  379599, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "OldSarge;379588", 
+    "quote_id": 379588, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  380082, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "modulus;379627", 
+    "quote_id": 379627, 
+    "author": "modulus"
+   }
+  ]
+ ], 
+ [
+  380087, 
+  [
+   15, 
+   498, 
+   {
+    "raw_data": "MarieAntoinette;380082", 
+    "quote_id": 380082, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  379644, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "MarieAntoinette;379599", 
+    "quote_id": 379599, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ]
+]

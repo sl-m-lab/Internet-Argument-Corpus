@@ -1,0 +1,70 @@
+[
+ [
+  13367, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "ApathySam", 
+    "quote_id": 13355, 
+    "author": "ApathySam"
+   }
+  ]
+ ], 
+ [
+  13367, 
+  [
+   831, 
+   1155, 
+   {
+    "raw_data": "ApathySam", 
+    "quote_id": 13355, 
+    "author": "ApathySam"
+   }
+  ]
+ ], 
+ [
+  13372, 
+  [
+   418, 
+   802, 
+   {
+    "quote_id": 13367, 
+    "author": "WarriorPoet"
+   }
+  ]
+ ], 
+ [
+  13372, 
+  [
+   1147, 
+   1829, 
+   {
+    "raw_data": "Jonathan Katz", 
+    "unknown_author": "Jonathan Katz"
+   }
+  ]
+ ], 
+ [
+  13372, 
+  [
+   2467, 
+   2772, 
+   {
+    "raw_data": "Katz", 
+    "unknown_author": "Katz"
+   }
+  ]
+ ], 
+ [
+  13372, 
+  [
+   2927, 
+   3113, 
+   {
+    "quote_id": 13367, 
+    "author": "WarriorPoet"
+   }
+  ]
+ ]
+]

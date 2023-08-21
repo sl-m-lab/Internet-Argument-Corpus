@@ -1,0 +1,719 @@
+[
+ [
+  151940, 
+  [
+   0, 
+   379, 
+   {
+    "quote_id": 151924, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  151944, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 151935, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151944, 
+  [
+   1321, 
+   1548, 
+   {
+    "quote_id": 151935, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151945, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 151940, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  151178, 
+  [
+   0, 
+   806, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 151170, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152002, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 151935, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  152335, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152296, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  153495, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152564, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  153495, 
+  [
+   123, 
+   193, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152587, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  153495, 
+  [
+   239, 
+   354, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152587, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  152027, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 152023, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  151973, 
+  [
+   0, 
+   1854, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  152412, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 152386, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152412, 
+  [
+   157, 
+   257, 
+   {
+    "quote_id": 152335, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152412, 
+  [
+   388, 
+   484, 
+   {
+    "quote_id": 152335, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152412, 
+  [
+   619, 
+   699, 
+   {
+    "quote_id": 152335, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152412, 
+  [
+   1150, 
+   1295, 
+   {
+    "quote_id": 152335, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  151988, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 151973, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151988, 
+  [
+   642, 
+   832, 
+   {
+    "quote_id": 151973, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151988, 
+  [
+   973, 
+   1152, 
+   {
+    "quote_id": 151973, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151988, 
+  [
+   1304, 
+   1496, 
+   {
+    "quote_id": 151973, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151988, 
+  [
+   1847, 
+   2076, 
+   {
+    "quote_id": 151973, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  152376, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 152335, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152564, 
+  [
+   0, 
+   182, 
+   {
+    "quote_id": 152548, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152564, 
+  [
+   702, 
+   989, 
+   {
+    "quote_id": 152548, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152159, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152125, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  152125, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Jitobear", 
+    "quote_id": 151973, 
+    "unknown_author": "Jitobear", 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  151998, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 151924, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  151998, 
+  [
+   382, 
+   578, 
+   {
+    "quote_id": 151131, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  151998, 
+  [
+   585, 
+   845, 
+   {
+    "quote_id": 151924, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  151998, 
+  [
+   1749, 
+   2128, 
+   {
+    "quote_id": 151924, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  152385, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 152305, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  151874, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 151142, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  152587, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 152581, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  152016, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 152002, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  152017, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 151998, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  152017, 
+  [
+   556, 
+   786, 
+   {
+    "quote_id": 151998, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  152017, 
+  [
+   1020, 
+   1681, 
+   {
+    "quote_id": 151998, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  152017, 
+  [
+   2111, 
+   2715, 
+   {}
+  ]
+ ], 
+ [
+  152017, 
+  [
+   2902, 
+   3143, 
+   {
+    "quote_id": 151998, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  152017, 
+  [
+   3555, 
+   3726, 
+   {
+    "quote_id": 151998, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  152404, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 152385, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  152023, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 151994, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152548, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152412, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  152386, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152376, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  152029, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 152027, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152032, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 152029, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  152032, 
+  [
+   105, 
+   193, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 152029, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  152034, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 152032, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152034, 
+  [
+   101, 
+   260, 
+   {
+    "quote_id": 152032, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152036, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 152034, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  152036, 
+  [
+   148, 
+   299, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 152034, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  152296, 
+  [
+   0, 
+   618, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 152203, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  151148, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 151142, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  151149, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 151142, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  151149, 
+  [
+   527, 
+   650, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 151142, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  151151, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 151149, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  151152, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 151149, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  151924, 
+  [
+   0, 
+   728, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 151874, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  151924, 
+  [
+   1313, 
+   1726, 
+   {
+    "quote_id": 151874, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  151924, 
+  [
+   1996, 
+   2309, 
+   {
+    "quote_id": 151874, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  151924, 
+  [
+   3289, 
+   3546, 
+   {
+    "quote_id": 151178, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

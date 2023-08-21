@@ -1,0 +1,519 @@
+[
+ [
+  230127, 
+  [
+   6, 
+   11, 
+   {
+    "url": "&quot;http://www.disney.com&quot;", 
+    "raw_data": "&quot;http://www.disney.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   17, 
+   20, 
+   {
+    "url": "&quot;http://www.espn.com&quot;", 
+    "raw_data": "&quot;http://www.espn.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   31, 
+   35, 
+   {
+    "url": "&quot;http://www.google.com&quot;", 
+    "raw_data": "&quot;http://www.google.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   49, 
+   55, 
+   {
+    "url": "&quot;http://www.bored.com&quot;", 
+    "raw_data": "&quot;http://www.bored.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   65, 
+   67, 
+   {
+    "url": "&quot;http://www.cancer.org&quot;", 
+    "raw_data": "&quot;http://www.cancer.org&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   73, 
+   76, 
+   {
+    "url": "&quot;http://www.4forums.com&quot;", 
+    "raw_data": "&quot;http://www.4forums.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   87, 
+   93, 
+   {
+    "url": "&quot;http://www.pcworld.com&quot;", 
+    "raw_data": "&quot;http://www.pcworld.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   119, 
+   123, 
+   {
+    "url": "&quot;http://www.ge.com&quot;", 
+    "raw_data": "&quot;http://www.ge.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230127, 
+  [
+   134, 
+   143, 
+   {
+    "url": "&quot;http://www.deloitte.com&quot;", 
+    "raw_data": "&quot;http://www.deloitte.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   174, 
+   179, 
+   {
+    "url": "&quot;http://www.disney.com&quot;", 
+    "raw_data": "&quot;http://www.disney.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   185, 
+   188, 
+   {
+    "url": "&quot;http://www.espn.com&quot;", 
+    "raw_data": "&quot;http://www.espn.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   199, 
+   203, 
+   {
+    "url": "&quot;http://www.google.com&quot;", 
+    "raw_data": "&quot;http://www.google.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   217, 
+   223, 
+   {
+    "url": "&quot;http://www.bored.com&quot;", 
+    "raw_data": "&quot;http://www.bored.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   233, 
+   235, 
+   {
+    "url": "&quot;http://www.cancer.org&quot;", 
+    "raw_data": "&quot;http://www.cancer.org&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   241, 
+   244, 
+   {
+    "url": "&quot;http://www.4forums.com&quot;", 
+    "raw_data": "&quot;http://www.4forums.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   255, 
+   261, 
+   {
+    "url": "&quot;http://www.pcworld.com&quot;", 
+    "raw_data": "&quot;http://www.pcworld.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   287, 
+   291, 
+   {
+    "url": "&quot;http://www.ge.com&quot;", 
+    "raw_data": "&quot;http://www.ge.com&quot;"
+   }
+  ]
+ ], 
+ [
+  230000, 
+  [
+   302, 
+   311, 
+   {
+    "url": "&quot;http://www.deloitte.com&quot;", 
+    "raw_data": "&quot;http://www.deloitte.com&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   0, 
+   15, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Timothy_McVeigh&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Timothy_McVeigh&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   20, 
+   33, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Terry_Nichols&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Terry_Nichols&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   68, 
+   76, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/domestic&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/domestic&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   77, 
+   86, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/terrorism&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/terrorism&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   94, 
+   122, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/United_States_history&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/United_States_history&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   132, 
+   145, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/United_States_Congress&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/United_States_Congress&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   160, 
+   170, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/White_race&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/White_race&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   182, 
+   190, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/profile&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/profile&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   210, 
+   227, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/National_security&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/National_security&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   257, 
+   260, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/dub&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/dub&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   265, 
+   298, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Alfred_P._Murrah_Federal_Building&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Alfred_P._Murrah_Federal_Building&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   352, 
+   365, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Nationality&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Nationality&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   381, 
+   388, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/propose", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/propose"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   393, 
+   404, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Patriot_Act&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Patriot_Act&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   422, 
+   439, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/National_security&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/National_security&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   448, 
+   463, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/White_supremacists&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/White_supremacists&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   506, 
+   513, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/foreign&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/foreign&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   514, 
+   525, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Nationality&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Nationality&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   529, 
+   533, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Arab&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Arab&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   533, 
+   541, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Muslim&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Muslim&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   542, 
+   560, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/9/11&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/9/11&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   564, 
+   571, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/profile&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/profile&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   572, 
+   588, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/The_American_Muslim&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/The_American_Muslim&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   594, 
+   600, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/threat&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/threat&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   630, 
+   640, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/favoritism&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/favoritism&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   674, 
+   684, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/White_people&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/White_people&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   718, 
+   734, 
+   {
+    "url": "&quot;http://en.wikipedia.org/wiki/Criminal_justice&quot;", 
+    "raw_data": "&quot;http://en.wikipedia.org/wiki/Criminal_justice&quot;"
+   }
+  ]
+ ], 
+ [
+  229239, 
+  [
+   739, 
+   767, 
+   {
+    "url": "&quot;http://en.wiktionary.org/wiki/To_hell_in_a_handbasket&quot;", 
+    "raw_data": "&quot;http://en.wiktionary.org/wiki/To_hell_in_a_handbasket&quot;"
+   }
+  ]
+ ], 
+ [
+  229885, 
+  [
+   213, 
+   222, 
+   {
+    "url": "&quot;http://www.urbandictionary.com/define.php?term=tool&quot;", 
+    "raw_data": "&quot;http://www.urbandictionary.com/define.php?term=tool&quot;"
+   }
+  ]
+ ]
+]

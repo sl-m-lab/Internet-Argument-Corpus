@@ -1,0 +1,248 @@
+[
+ [
+  200218, 
+  [
+   20, 
+   604, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 200200, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  200614, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 200574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  200614, 
+  [
+   766, 
+   833, 
+   {
+    "quote_id": 200574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  200614, 
+  [
+   928, 
+   1230, 
+   {
+    "quote_id": 200574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  200233, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 200225, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  200248, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 200225, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  200637, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 200565, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200254, 
+  [
+   0, 
+   1084, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200258, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 200254, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  200262, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 200258, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200399, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 200301, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  200279, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200282, 
+  [
+   0, 
+   1267, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 200279, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  200301, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 200282, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200688, 
+  [
+   0, 
+   519, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 200680, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  200689, 
+  [
+   0, 
+   519, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 200680, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  200565, 
+  [
+   0, 
+   1522, 
+   {
+    "raw_data": "Orion", 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  200444, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 200282, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200444, 
+  [
+   47, 
+   204, 
+   {
+    "quote_id": 200282, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  200574, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 200444, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  200574, 
+  [
+   195, 
+   1584, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 200444, 
+    "author": "Orion"
+   }
+  ]
+ ]
+]

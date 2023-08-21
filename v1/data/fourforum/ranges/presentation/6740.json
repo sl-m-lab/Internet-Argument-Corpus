@@ -1,0 +1,98 @@
+[
+ [
+  176315, 
+  [
+   76, 
+   83, 
+   {
+    "category": "size", 
+    "raw_data": "7"
+   }
+  ]
+ ], 
+ [
+  176315, 
+  [
+   76, 
+   83, 
+   {
+    "category": "color", 
+    "raw_data": "Orange"
+   }
+  ]
+ ], 
+ [
+  176315, 
+  [
+   109, 
+   116, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  176315, 
+  [
+   109, 
+   116, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  176315, 
+  [
+   121, 
+   126, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  176315, 
+  [
+   191, 
+   195, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  176315, 
+  [
+   191, 
+   195, 
+   {
+    "category": "size", 
+    "raw_data": "3"
+   }
+  ]
+ ], 
+ [
+  177013, 
+  [
+   13, 
+   18, 
+   {
+    "category": "size", 
+    "raw_data": "5"
+   }
+  ]
+ ], 
+ [
+  177013, 
+  [
+   13, 
+   18, 
+   {
+    "category": "color", 
+    "raw_data": "DarkOrange"
+   }
+  ]
+ ]
+]

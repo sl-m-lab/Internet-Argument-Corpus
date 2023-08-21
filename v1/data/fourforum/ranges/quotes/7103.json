@@ -1,0 +1,413 @@
+[
+ [
+  186251, 
+  [
+   0, 
+   546, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186251, 
+  [
+   755, 
+   1383, 
+   {
+    "raw_data": "JT", 
+    "unknown_author": "JT"
+   }
+  ]
+ ], 
+ [
+  186178, 
+  [
+   100, 
+   367, 
+   {}
+  ]
+ ], 
+ [
+  186188, 
+  [
+   0, 
+   724, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186316, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 186251, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186191, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 186188, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186191, 
+  [
+   411, 
+   613, 
+   {
+    "quote_id": 186188, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186191, 
+  [
+   867, 
+   985, 
+   {
+    "quote_id": 186188, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186191, 
+  [
+   1262, 
+   1647, 
+   {}
+  ]
+ ], 
+ [
+  186194, 
+  [
+   0, 
+   985, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 186186, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  186196, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 186191, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186197, 
+  [
+   0, 
+   615, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186197, 
+  [
+   898, 
+   1146, 
+   {}
+  ]
+ ], 
+ [
+  186199, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 186196, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186330, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 186325, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186319, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 186307, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  186204, 
+  [
+   0, 
+   597, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 186199, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186204, 
+  [
+   2371, 
+   2645, 
+   {
+    "quote_id": 186199, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186204, 
+  [
+   2770, 
+   3569, 
+   {
+    "quote_id": 186199, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186204, 
+  [
+   3656, 
+   3871, 
+   {
+    "quote_id": 186199, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186204, 
+  [
+   3935, 
+   4147, 
+   {
+    "quote_id": 186199, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186204, 
+  [
+   4291, 
+   4340, 
+   {
+    "quote_id": 186199, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186206, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 186186, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  186335, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 186307, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  186209, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 186204, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186209, 
+  [
+   116, 
+   235, 
+   {
+    "quote_id": 186204, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186209, 
+  [
+   415, 
+   498, 
+   {
+    "quote_id": 186204, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  186209, 
+  [
+   1180, 
+   1382, 
+   {}
+  ]
+ ], 
+ [
+  186209, 
+  [
+   2025, 
+   2701, 
+   {}
+  ]
+ ], 
+ [
+  186209, 
+  [
+   2879, 
+   3584, 
+   {}
+  ]
+ ], 
+ [
+  186209, 
+  [
+   3590, 
+   4334, 
+   {}
+  ]
+ ], 
+ [
+  186209, 
+  [
+   4453, 
+   4727, 
+   {}
+  ]
+ ], 
+ [
+  186338, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 186335, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  186342, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 186338, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186343, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 186330, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  186221, 
+  [
+   0, 
+   506, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 186215, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  186350, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 186345, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  186325, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 186316, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

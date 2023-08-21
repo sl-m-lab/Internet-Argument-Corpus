@@ -1,0 +1,541 @@
+[
+ [
+  166947, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 166911, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  1165, 
+  [
+   0, 
+   157, 
+   {
+    "quote_id": 1157, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  1165, 
+  [
+   457, 
+   622, 
+   {
+    "quote_id": 1157, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  165518, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 165203, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165521, 
+  [
+   0, 
+   1324, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  166802, 
+  [
+   0, 
+   727, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 166687, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  166678, 
+  [
+   0, 
+   649, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 166493, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165535, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 165521, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   604, 
+   768, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   1182, 
+   2264, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   2604, 
+   2646, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   2987, 
+   3042, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   3056, 
+   3115, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   3455, 
+   3624, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165795, 
+  [
+   4072, 
+   4155, 
+   {
+    "quote_id": 165790, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165675, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165684, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 165675, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  166687, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 166558, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  166911, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 166904, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  166093, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 165874, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  166093, 
+  [
+   338, 
+   1227, 
+   {}
+  ]
+ ], 
+ [
+  166093, 
+  [
+   1431, 
+   2068, 
+   {
+    "quote_id": 165874, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  166349, 
+  [
+   0, 
+   1260, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 166211, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165203, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 165170, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  166493, 
+  [
+   0, 
+   1704, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 166349, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  166558, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 166517, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  166843, 
+  [
+   0, 
+   580, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 166802, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  166843, 
+  [
+   641, 
+   964, 
+   {
+    "quote_id": 166802, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165863, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 165759, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165863, 
+  [
+   276, 
+   1404, 
+   {}
+  ]
+ ], 
+ [
+  166636, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 166558, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165741, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 165675, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  165874, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 165863, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  165874, 
+  [
+   81, 
+   278, 
+   {}
+  ]
+ ], 
+ [
+  166517, 
+  [
+   0, 
+   649, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 166493, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  166904, 
+  [
+   0, 
+   580, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 166802, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  166904, 
+  [
+   1271, 
+   1592, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 166802, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  166137, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 165685, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  166139, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  166139, 
+  [
+   479, 
+   639, 
+   {
+    "raw_data": "cmitch", 
+    "quote_id": 165518, 
+    "unknown_author": "cmitch", 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  166139, 
+  [
+   869, 
+   1821, 
+   {
+    "raw_data": "cmitch", 
+    "quote_id": 165518, 
+    "unknown_author": "cmitch", 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165759, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "cmitch06", 
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165759, 
+  [
+   582, 
+   827, 
+   {
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165759, 
+  [
+   1681, 
+   2044, 
+   {
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165759, 
+  [
+   2979, 
+   3127, 
+   {
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ], 
+ [
+  165759, 
+  [
+   4252, 
+   4516, 
+   {
+    "quote_id": 165518, 
+    "author": "cmitch06"
+   }
+  ]
+ ]
+]

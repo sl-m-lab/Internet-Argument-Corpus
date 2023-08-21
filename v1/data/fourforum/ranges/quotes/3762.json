@@ -1,0 +1,136 @@
+[
+ [
+  78608, 
+  [
+   1736, 
+   1900, 
+   {}
+  ]
+ ], 
+ [
+  78634, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 78608, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  78634, 
+  [
+   151, 
+   338, 
+   {}
+  ]
+ ], 
+ [
+  78637, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  78639, 
+  [
+   0, 
+   400, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 78637, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  78646, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  78530, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 78506, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  78542, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 78539, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  78545, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 78530, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  78552, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 78545, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  78699, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 78646, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  78711, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 78699, 
+    "author": "Anastasia"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,939 @@
+[
+ [
+  38414, 
+  [
+   33, 
+   554, 
+   {}
+  ]
+ ], 
+ [
+  38432, 
+  [
+   0, 
+   302, 
+   {}
+  ]
+ ], 
+ [
+  37983, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Darkest Shadow", 
+    "quote_id": 37601, 
+    "author": "Darkest Shadow"
+   }
+  ]
+ ], 
+ [
+  12647, 
+  [
+   0, 
+   851, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 9031, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  37601, 
+  [
+   16, 
+   848, 
+   {
+    "raw_data": "Striel", 
+    "quote_id": 33500, 
+    "author": "reetika"
+   }
+  ]
+ ], 
+ [
+  20708, 
+  [
+   0, 
+   684, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   0, 
+   114, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   188, 
+   483, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   669, 
+   939, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   1058, 
+   1328, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   1395, 
+   1615, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   1882, 
+   2028, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   2324, 
+   2648, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   2694, 
+   2935, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   3091, 
+   3321, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20709, 
+  [
+   3566, 
+   3882, 
+   {
+    "quote_id": 20708, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20715, 
+  [
+   0, 
+   1527, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20718, 
+  [
+   0, 
+   255, 
+   {
+    "quote_id": 20715, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20718, 
+  [
+   390, 
+   774, 
+   {
+    "quote_id": 20715, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20718, 
+  [
+   970, 
+   1286, 
+   {
+    "quote_id": 20715, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20208, 
+  [
+   0, 
+   48, 
+   {
+    "quote_id": 19426, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20208, 
+  [
+   289, 
+   467, 
+   {
+    "quote_id": 19426, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20208, 
+  [
+   554, 
+   841, 
+   {
+    "quote_id": 19426, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20216, 
+  [
+   0, 
+   475, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  18684, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "faith", 
+    "quote_id": 18320, 
+    "unknown_author": "faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  18684, 
+  [
+   115, 
+   222, 
+   {
+    "raw_data": "faith", 
+    "quote_id": 18320, 
+    "unknown_author": "faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20221, 
+  [
+   0, 
+   363, 
+   {
+    "quote_id": 20216, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20221, 
+  [
+   540, 
+   738, 
+   {
+    "quote_id": 20216, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20221, 
+  [
+   1026, 
+   1264, 
+   {
+    "quote_id": 20216, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20221, 
+  [
+   1409, 
+   1584, 
+   {
+    "quote_id": 20216, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20238, 
+  [
+   0, 
+   697, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20773, 
+  [
+   0, 
+   656, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  18731, 
+  [
+   10, 
+   87, 
+   {
+    "quote_id": 14658, 
+    "author": "Chobo Char"
+   }
+  ]
+ ], 
+ [
+  18739, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  12682, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 12680, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  14658, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 14648, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20803, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 20773, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20292, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  38219, 
+  [
+   0, 
+   638, 
+   {
+    "raw_data": "Nallyo", 
+    "quote_id": 38217, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  20818, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Striel", 
+    "quote_id": 8790, 
+    "author": "Striel"
+   }
+  ]
+ ], 
+ [
+  12133, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Mysterium16", 
+    "quote_id": 12127, 
+    "author": "Mysterium16"
+   }
+  ]
+ ], 
+ [
+  12133, 
+  [
+   558, 
+   668, 
+   {
+    "raw_data": "Mysterium16", 
+    "quote_id": 12127, 
+    "author": "Mysterium16"
+   }
+  ]
+ ], 
+ [
+  12133, 
+  [
+   686, 
+   860, 
+   {
+    "raw_data": "Mysterium16", 
+    "quote_id": 12127, 
+    "author": "Mysterium16"
+   }
+  ]
+ ], 
+ [
+  20285, 
+  [
+   0, 
+   192, 
+   {
+    "quote_id": 20238, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20285, 
+  [
+   318, 
+   515, 
+   {
+    "quote_id": 20238, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20852, 
+  [
+   0, 
+   170, 
+   {
+    "quote_id": 20818, 
+    "author": "katuu-k2"
+   }
+  ]
+ ], 
+ [
+  20628, 
+  [
+   0, 
+   136, 
+   {
+    "quote_id": 20469, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20628, 
+  [
+   279, 
+   473, 
+   {
+    "quote_id": 20469, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20628, 
+  [
+   897, 
+   1226, 
+   {
+    "quote_id": 20469, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19333, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  12680, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "1979", 
+    "quote_id": 12647, 
+    "author": "1979"
+   }
+  ]
+ ], 
+ [
+  20802, 
+  [
+   0, 
+   82, 
+   {
+    "quote_id": 20773, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20802, 
+  [
+   264, 
+   555, 
+   {
+    "quote_id": 20773, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20802, 
+  [
+   1161, 
+   1363, 
+   {
+    "quote_id": 20773, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20802, 
+  [
+   1554, 
+   1834, 
+   {
+    "quote_id": 20773, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  18320, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 18266, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  18836, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Chobo Char", 
+    "quote_id": 18829, 
+    "author": "Chobo Char"
+   }
+  ]
+ ], 
+ [
+  18839, 
+  [
+   0, 
+   183, 
+   {
+    "quote_id": 18829, 
+    "author": "Chobo Char"
+   }
+  ]
+ ], 
+ [
+  9630, 
+  [
+   0, 
+   156, 
+   {}
+  ]
+ ], 
+ [
+  18852, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 18839, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20903, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 20852, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20295, 
+  [
+   0, 
+   272, 
+   {
+    "quote_id": 20292, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20295, 
+  [
+   663, 
+   943, 
+   {
+    "quote_id": 20292, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20295, 
+  [
+   1226, 
+   1563, 
+   {
+    "quote_id": 20292, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20397, 
+  [
+   0, 
+   211, 
+   {
+    "quote_id": 20297, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20397, 
+  [
+   472, 
+   920, 
+   {
+    "quote_id": 20297, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20397, 
+  [
+   1575, 
+   1726, 
+   {
+    "quote_id": 20297, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20397, 
+  [
+   1899, 
+   2267, 
+   {
+    "quote_id": 20297, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  18352, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 18320, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19358, 
+  [
+   12, 
+   78, 
+   {
+    "quote_id": 18892, 
+    "author": "Madhat"
+   }
+  ]
+ ], 
+ [
+  19358, 
+  [
+   188, 
+   303, 
+   {
+    "quote_id": 18892, 
+    "author": "Madhat"
+   }
+  ]
+ ], 
+ [
+  19358, 
+  [
+   843, 
+   1006, 
+   {
+    "quote_id": 18892, 
+    "author": "Madhat"
+   }
+  ]
+ ], 
+ [
+  19358, 
+  [
+   1267, 
+   1458, 
+   {
+    "quote_id": 18892, 
+    "author": "Madhat"
+   }
+  ]
+ ], 
+ [
+  19358, 
+  [
+   1565, 
+   1703, 
+   {
+    "quote_id": 19333, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19358, 
+  [
+   1810, 
+   2004, 
+   {
+    "quote_id": 19333, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20297, 
+  [
+   0, 
+   1092, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20424, 
+  [
+   0, 
+   1206, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20942, 
+  [
+   0, 
+   453, 
+   {
+    "quote_id": 20903, 
+    "author": "katuu-k2"
+   }
+  ]
+ ], 
+ [
+  19426, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20465, 
+  [
+   0, 
+   156, 
+   {
+    "quote_id": 20424, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20465, 
+  [
+   769, 
+   1040, 
+   {
+    "quote_id": 20424, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20465, 
+  [
+   1322, 
+   1380, 
+   {
+    "quote_id": 20431, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20469, 
+  [
+   0, 
+   960, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  18935, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Madhat", 
+    "quote_id": 18892, 
+    "author": "Madhat"
+   }
+  ]
+ ]
+]

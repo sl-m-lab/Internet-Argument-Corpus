@@ -1,0 +1,806 @@
+[
+ [
+  57858, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57852, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57731, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 57729, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  57862, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57846, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57864, 
+  [
+   0, 
+   1646, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 57861, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  57866, 
+  [
+   0, 
+   1683, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57862, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57867, 
+  [
+   0, 
+   488, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57865, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58473, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  57870, 
+  [
+   0, 
+   1177, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57864, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58129, 
+  [
+   0, 
+   731, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58115, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58115, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 57863, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  58648, 
+  [
+   0, 
+   626, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 58530, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  58779, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 58681, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  58779, 
+  [
+   493, 
+   807, 
+   {
+    "quote_id": 58681, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  58779, 
+  [
+   861, 
+   1085, 
+   {
+    "quote_id": 58681, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  58655, 
+  [
+   0, 
+   903, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 58633, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  57983, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 57963, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  57983, 
+  [
+   307, 
+   347, 
+   {
+    "quote_id": 57963, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  57983, 
+  [
+   413, 
+   632, 
+   {
+    "quote_id": 57963, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  57983, 
+  [
+   665, 
+   767, 
+   {
+    "quote_id": 57963, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  57983, 
+  [
+   786, 
+   837, 
+   {
+    "quote_id": 57963, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  58288, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 58129, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  58530, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58473, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58659, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58655, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58659, 
+  [
+   440, 
+   685, 
+   {
+    "quote_id": 58655, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58287, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 58127, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  58070, 
+  [
+   0, 
+   1493, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 58067, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  58035, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 57910, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  58548, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 58361, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  58078, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "SuperDutyHaulin", 
+    "quote_id": 58070, 
+    "author": "SuperDutyHaulin"
+   }
+  ]
+ ], 
+ [
+  57910, 
+  [
+   0, 
+   917, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 57872, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  58633, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58548, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58040, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57983, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58040, 
+  [
+   1046, 
+   1141, 
+   {
+    "quote_id": 57983, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58553, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58548, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  57788, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57749, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57788, 
+  [
+   339, 
+   558, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57749, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58557, 
+  [
+   0, 
+   719, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 58553, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  58558, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58557, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58558, 
+  [
+   366, 
+   524, 
+   {
+    "quote_id": 58557, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58047, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58035, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58016, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57945, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57803, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 57788, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  57803, 
+  [
+   327, 
+   840, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 57788, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  57932, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57814, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58063, 
+  [
+   0, 
+   891, 
+   {
+    "raw_data": "Waxy", 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  58064, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58050, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58067, 
+  [
+   0, 
+   348, 
+   {
+    "quote_id": 58063, 
+    "author": "SuperDutyHaulin"
+   }
+  ]
+ ], 
+ [
+  57812, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57813, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57810, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58681, 
+  [
+   0, 
+   833, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58648, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  57945, 
+  [
+   0, 
+   902, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57871, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58127, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "SuperDutyHaulin", 
+    "quote_id": 58063, 
+    "author": "SuperDutyHaulin"
+   }
+  ]
+ ], 
+ [
+  58618, 
+  [
+   0, 
+   626, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 58530, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  57950, 
+  [
+   0, 
+   918, 
+   {
+    "raw_data": "jskufan", 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  58466, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58115, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58626, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "jskufan", 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  57963, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57941, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57963, 
+  [
+   995, 
+   1266, 
+   {
+    "quote_id": 57941, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57963, 
+  [
+   1640, 
+   1939, 
+   {
+    "quote_id": 57941, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57836, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 57813, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  57840, 
+  [
+   0, 
+   619, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57814, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57843, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57836, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57847, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 57840, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  57847, 
+  [
+   179, 
+   281, 
+   {
+    "quote_id": 57729, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  57847, 
+  [
+   319, 
+   1630, 
+   {
+    "quote_id": 57840, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  58361, 
+  [
+   0, 
+   525, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 58287, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58361, 
+  [
+   935, 
+   1167, 
+   {}
+  ]
+ ], 
+ [
+  57851, 
+  [
+   0, 
+   620, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57941, 
+  [
+   0, 
+   2486, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 57870, 
+    "author": "Waxy"
+   }
+  ]
+ ]
+]

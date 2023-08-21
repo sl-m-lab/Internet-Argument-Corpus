@@ -1,0 +1,38 @@
+[
+ [
+  139092, 
+  [
+   0, 
+   660, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 138649, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  139575, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 139092, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  138649, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 138560, 
+    "author": "zachvac"
+   }
+  ]
+ ]
+]

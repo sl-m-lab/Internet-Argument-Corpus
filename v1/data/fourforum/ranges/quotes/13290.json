@@ -1,0 +1,1221 @@
+[
+ [
+  370304, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Article", 
+    "unknown_author": "Article"
+   }
+  ]
+ ], 
+ [
+  370944, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "Jo Bennett;370892", 
+    "quote_id": 370892, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370944, 
+  [
+   701, 
+   1855, 
+   {
+    "raw_data": "foundit66;370896", 
+    "quote_id": 370896, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370944, 
+  [
+   1916, 
+   2057, 
+   {
+    "quote_id": 370896, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370944, 
+  [
+   2222, 
+   2497, 
+   {
+    "raw_data": "Steeeeve;370906", 
+    "quote_id": 370906, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  370987, 
+  [
+   0, 
+   602, 
+   {
+    "raw_data": "Jo Bennett;370957", 
+    "quote_id": 370957, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370987, 
+  [
+   668, 
+   3056, 
+   {}
+  ]
+ ], 
+ [
+  370865, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "JPSartre12;370844", 
+    "quote_id": 370844, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370573, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Symbiote;370564", 
+    "quote_id": 370564, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370448, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "Archangel;370367", 
+    "quote_id": 370367, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370844, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Penfold;370584", 
+    "quote_id": 370584, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  370844, 
+  [
+   426, 
+   455, 
+   {
+    "raw_data": "gansao;370585", 
+    "quote_id": 370585, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  370844, 
+  [
+   498, 
+   1240, 
+   {
+    "raw_data": "Art Pigou;370601", 
+    "quote_id": 370601, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  370844, 
+  [
+   1382, 
+   2327, 
+   {
+    "raw_data": "Jo Bennett;370606", 
+    "quote_id": 370606, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370844, 
+  [
+   2615, 
+   3404, 
+   {
+    "quote_id": 370606, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370844, 
+  [
+   4037, 
+   4681, 
+   {
+    "raw_data": "foundit66;370799", 
+    "quote_id": 370799, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370836, 
+  [
+   89, 
+   681, 
+   {
+    "raw_data": "Jo Bennett;370488", 
+    "quote_id": 370488, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370836, 
+  [
+   1080, 
+   1136, 
+   {
+    "raw_data": "Art Pigou;370493", 
+    "quote_id": 370493, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  370836, 
+  [
+   1160, 
+   1212, 
+   {
+    "raw_data": "Symbiote;370510", 
+    "quote_id": 370510, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370836, 
+  [
+   1600, 
+   1741, 
+   {
+    "raw_data": "Jo Bennett;370573", 
+    "quote_id": 370573, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370453, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "foundit66;369974", 
+    "quote_id": 369974, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370455, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "JPSartre12;370453", 
+    "quote_id": 370453, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370200, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Easyrider;370104", 
+    "quote_id": 370104, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370200, 
+  [
+   134, 
+   252, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 370104, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370200, 
+  [
+   429, 
+   595, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 370104, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370200, 
+  [
+   1450, 
+   1681, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 370104, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370200, 
+  [
+   1716, 
+   1922, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 370104, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370200, 
+  [
+   2092, 
+   2153, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 370104, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370201, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "foundit66;370200", 
+    "quote_id": 370200, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370201, 
+  [
+   145, 
+   192, 
+   {
+    "quote_id": 370200, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370458, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "T.Q;370455", 
+    "quote_id": 370455, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  370460, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Easyrider;370458", 
+    "quote_id": 370458, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370906, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Jo Bennett;370892", 
+    "quote_id": 370892, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370462, 
+  [
+   0, 
+   573, 
+   {
+    "raw_data": "T.Q;370455", 
+    "quote_id": 370455, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  370608, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Jo Bennett;370606", 
+    "quote_id": 370606, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370469, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "JPSartre12;370462", 
+    "quote_id": 370462, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370601, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Penfold;370584", 
+    "quote_id": 370584, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  370219, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 369982, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370219, 
+  [
+   190, 
+   315, 
+   {
+    "raw_data": "foundit66;369992", 
+    "quote_id": 369992, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370219, 
+  [
+   521, 
+   641, 
+   {
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370219, 
+  [
+   785, 
+   1151, 
+   {
+    "quote_id": 369992, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  371116, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "JPSartre12;370944", 
+    "quote_id": 370944, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371116, 
+  [
+   124, 
+   277, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 370944, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370349, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie"
+   }
+  ]
+ ], 
+ [
+  370349, 
+  [
+   261, 
+   362, 
+   {
+    "raw_data": "foundit", 
+    "quote_id": 370303, 
+    "unknown_author": "foundit", 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370350, 
+  [
+   0, 
+   2586, 
+   {
+    "raw_data": "Archangel;370349", 
+    "quote_id": 370349, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370480, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "JPSartre12;370453", 
+    "quote_id": 370453, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370484, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "T.Q;370469", 
+    "quote_id": 370469, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  370484, 
+  [
+   421, 
+   487, 
+   {
+    "raw_data": "trebor;370480", 
+    "quote_id": 370480, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  369974, 
+  [
+   0, 
+   3767, 
+   {}
+  ]
+ ], 
+ [
+  370360, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Symbiote;370353", 
+    "quote_id": 370353, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370364, 
+  [
+   257, 
+   849, 
+   {}
+  ]
+ ], 
+ [
+  370493, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Jo Bennett;370488", 
+    "quote_id": 370488, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  369982, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "Easyrider;369980", 
+    "quote_id": 369980, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370367, 
+  [
+   0, 
+   736, 
+   {
+    "raw_data": "foundit66;370350", 
+    "quote_id": 370350, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  369984, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "foundit66;369974", 
+    "quote_id": 369974, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  371010, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "foundit66;370799", 
+    "quote_id": 370799, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  371010, 
+  [
+   704, 
+   835, 
+   {
+    "quote_id": 370799, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  371010, 
+  [
+   1023, 
+   1257, 
+   {
+    "quote_id": 370799, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370486, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "JPSartre12;370484", 
+    "quote_id": 370484, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  369992, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "Easyrider;369980", 
+    "quote_id": 369980, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  369992, 
+  [
+   943, 
+   1125, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 369982, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370635, 
+  [
+   0, 
+   107, 
+   {
+    "quote_id": 370606, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370892, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "JPSartre12;370879", 
+    "quote_id": 370879, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370510, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Jo Bennett;370488", 
+    "quote_id": 370488, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370488, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "JPSartre12;370484", 
+    "quote_id": 370484, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370896, 
+  [
+   69, 
+   483, 
+   {
+    "raw_data": "foundit66", 
+    "quote_id": 370799, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370896, 
+  [
+   0, 
+   484, 
+   {
+    "raw_data": "JPSartre12;370872", 
+    "quote_id": 370872, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370896, 
+  [
+   1285, 
+   1454, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370104, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "foundit66;369992", 
+    "quote_id": 369992, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370104, 
+  [
+   164, 
+   252, 
+   {
+    "raw_data": "foundit66;369992", 
+    "quote_id": 369992, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370104, 
+  [
+   380, 
+   608, 
+   {
+    "raw_data": "foundit66;369992", 
+    "quote_id": 369992, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370515, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "Archangel;370367", 
+    "quote_id": 370367, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370515, 
+  [
+   536, 
+   1095, 
+   {
+    "raw_data": "foundit66;370448", 
+    "quote_id": 370448, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370957, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Steeeeve;370906", 
+    "quote_id": 370906, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  371032, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "JPSartre12;370987", 
+    "quote_id": 370987, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370585, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Penfold;370584", 
+    "quote_id": 370584, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  370872, 
+  [
+   3082, 
+   3500, 
+   {
+    "raw_data": "FI66", 
+    "quote_id": 370799, 
+    "unknown_author": "FI66", 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  371042, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Jo Bennett;371032", 
+    "quote_id": 371032, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  369980, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "foundit66;369974", 
+    "quote_id": 369974, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  370799, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "Archangel;370515", 
+    "quote_id": 370515, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370799, 
+  [
+   1114, 
+   1590, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie"
+   }
+  ]
+ ], 
+ [
+  370799, 
+  [
+   1694, 
+   1807, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 370515, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370799, 
+  [
+   2444, 
+   2661, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 370515, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370537, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Symbiote;370510", 
+    "quote_id": 370510, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370298, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Symbiote;370201", 
+    "quote_id": 370201, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370298, 
+  [
+   584, 
+   686, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 370201, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370298, 
+  [
+   900, 
+   1114, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 370201, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370298, 
+  [
+   1948, 
+   2048, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 370201, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370298, 
+  [
+   2544, 
+   2689, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 370201, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370298, 
+  [
+   2886, 
+   3021, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 370201, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370879, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Jo Bennett;370877", 
+    "quote_id": 370877, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370879, 
+  [
+   583, 
+   651, 
+   {
+    "quote_id": 370877, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "Archangel;370219", 
+    "quote_id": 370219, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   207, 
+   389, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 370219, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   791, 
+   925, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 370219, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   1745, 
+   2111, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 370219, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   2761, 
+   3254, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   3726, 
+   3946, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   4441, 
+   4783, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   5096, 
+   5349, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   5458, 
+   5652, 
+   {
+    "raw_data": "Archie", 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  370303, 
+  [
+   5877, 
+   6682, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 370219, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

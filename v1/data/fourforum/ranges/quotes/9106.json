@@ -1,0 +1,921 @@
+[
+ [
+  238215, 
+  [
+   57, 
+   150, 
+   {}
+  ]
+ ], 
+ [
+  238089, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Hi_Its_Me;238062", 
+    "quote_id": 238062, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  237962, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "Steeeeve;237853", 
+    "quote_id": 237853, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  237963, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Hi_Its_Me;237289", 
+    "quote_id": 237289, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  237965, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Inyx;237836", 
+    "quote_id": 237836, 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  237965, 
+  [
+   341, 
+   430, 
+   {
+    "raw_data": "Inyx;237836", 
+    "quote_id": 237836, 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  238096, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "electrolyte;238089", 
+    "quote_id": 238089, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238096, 
+  [
+   306, 
+   434, 
+   {
+    "raw_data": "electrolyte;238089", 
+    "quote_id": 238089, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238096, 
+  [
+   586, 
+   915, 
+   {
+    "raw_data": "electrolyte;238089", 
+    "quote_id": 238089, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238096, 
+  [
+   971, 
+   1093, 
+   {
+    "raw_data": "electrolyte;238089", 
+    "quote_id": 238089, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  243332, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "senior_defender;243311", 
+    "quote_id": 243311, 
+    "author": "senior_defender"
+   }
+  ]
+ ], 
+ [
+  238118, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Hi_Its_Me;238096", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238118, 
+  [
+   435, 
+   485, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238118, 
+  [
+   601, 
+   647, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238118, 
+  [
+   741, 
+   775, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  237863, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "Steeeeve;237853", 
+    "quote_id": 237853, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  238471, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  237999, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Hi_Its_Me;237965", 
+    "quote_id": 237965, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   130, 
+   173, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   317, 
+   383, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   544, 
+   714, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   915, 
+   1579, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   1740, 
+   1775, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   2060, 
+   2091, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   2250, 
+   2358, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   2503, 
+   2622, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   2846, 
+   2918, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   3090, 
+   3177, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   3090, 
+   3276, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   3548, 
+   3702, 
+   {
+    "raw_data": "electrolyte;238205", 
+    "quote_id": 238205, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238259, 
+  [
+   3818, 
+   3911, 
+   {}
+  ]
+ ], 
+ [
+  238259, 
+  [
+   3763, 
+   3912, 
+   {
+    "raw_data": "doG;238215", 
+    "quote_id": 238215, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  238197, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "zachvac;238192", 
+    "quote_id": 238192, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238411, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Hi_Its_Me;237965", 
+    "quote_id": 237965, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238411, 
+  [
+   366, 
+   487, 
+   {
+    "raw_data": "Hi_Its_Me;237965", 
+    "quote_id": 237965, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238285, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Hi_Its_Me;238259", 
+    "quote_id": 238259, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238043, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "doG;237999", 
+    "quote_id": 237999, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  238043, 
+  [
+   342, 
+   454, 
+   {}
+  ]
+ ], 
+ [
+  238044, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Hi_Its_Me;238043", 
+    "quote_id": 238043, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238432, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "electrolyte;238285", 
+    "quote_id": 238285, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238432, 
+  [
+   217, 
+   311, 
+   {
+    "raw_data": "electrolyte;238285", 
+    "quote_id": 238285, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  237923, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Kronus;237863", 
+    "quote_id": 237863, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  237289, 
+  [
+   508, 
+   620, 
+   {}
+  ]
+ ], 
+ [
+  238062, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "electrolyte;238044", 
+    "quote_id": 238044, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238062, 
+  [
+   1020, 
+   1175, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 237963, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238192, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "electrolyte;238089", 
+    "quote_id": 238089, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238196, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Hi_Its_Me;238096", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238196, 
+  [
+   755, 
+   905, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238196, 
+  [
+   1293, 
+   1347, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238196, 
+  [
+   1537, 
+   1768, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238096, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238069, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Hi_Its_Me;238062", 
+    "quote_id": 238062, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "electrolyte;238118", 
+    "quote_id": 238118, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   406, 
+   653, 
+   {
+    "raw_data": "electrolyte;238118", 
+    "quote_id": 238118, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   1161, 
+   1269, 
+   {
+    "raw_data": "electrolyte;238118", 
+    "quote_id": 238118, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   1509, 
+   1548, 
+   {
+    "raw_data": "electrolyte;238118", 
+    "quote_id": 238118, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   1644, 
+   1723, 
+   {
+    "raw_data": "electrolyte;238118", 
+    "quote_id": 238118, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   1832, 
+   2449, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   2595, 
+   2819, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   2942, 
+   3062, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   3276, 
+   3310, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   3342, 
+   3432, 
+   {
+    "raw_data": "electrolyte;238089", 
+    "quote_id": 238089, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   3543, 
+   3727, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   4039, 
+   4256, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238200, 
+  [
+   4355, 
+   4815, 
+   {
+    "raw_data": "zachvac;238196", 
+    "quote_id": 238196, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Hi_Its_Me;238200", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   158, 
+   220, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   271, 
+   310, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   384, 
+   502, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   680, 
+   821, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   1489, 
+   1578, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   1621, 
+   1711, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   1802, 
+   1862, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   1901, 
+   1969, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   2085, 
+   2292, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   2419, 
+   2445, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   2525, 
+   2612, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  238205, 
+  [
+   2716, 
+   2891, 
+   {
+    "raw_data": "Hi_Its_Me", 
+    "quote_id": 238200, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ]
+]

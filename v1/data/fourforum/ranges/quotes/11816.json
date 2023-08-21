@@ -1,0 +1,221 @@
+[
+ [
+  344838, 
+  [
+   54, 
+   300, 
+   {}
+  ]
+ ], 
+ [
+  345106, 
+  [
+   0, 
+   210, 
+   {
+    "quote_id": 344982, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  344980, 
+  [
+   34, 
+   201, 
+   {}
+  ]
+ ], 
+ [
+  344980, 
+  [
+   636, 
+   814, 
+   {
+    "quote_id": 344979, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  344982, 
+  [
+   0, 
+   130, 
+   {
+    "quote_id": 344980, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348441, 
+  [
+   0, 
+   1170, 
+   {
+    "raw_data": "foundit66;345875", 
+    "quote_id": 345875, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  345903, 
+  [
+   0, 
+   1170, 
+   {
+    "raw_data": "foundit66;345875", 
+    "quote_id": 345875, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  347713, 
+  [
+   75, 
+   192, 
+   {
+    "raw_data": "Winston", 
+    "unknown_author": "Winston"
+   }
+  ]
+ ], 
+ [
+  347713, 
+  [
+   492, 
+   804, 
+   {
+    "quote_id": 345331, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  347713, 
+  [
+   1360, 
+   1507, 
+   {
+    "quote_id": 345331, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345313, 
+  [
+   0, 
+   1400, 
+   {
+    "raw_data": "iangb;345210", 
+    "quote_id": 345210, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348388, 
+  [
+   0, 
+   285, 
+   {
+    "quote_id": 347850, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  348388, 
+  [
+   413, 
+   980, 
+   {}
+  ]
+ ], 
+ [
+  348388, 
+  [
+   1824, 
+   1887, 
+   {
+    "quote_id": 347850, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345190, 
+  [
+   0, 
+   73, 
+   {
+    "quote_id": 345172, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  329193, 
+  [
+   384, 
+   5244, 
+   {
+    "raw_data": "Tsukatu", 
+    "unknown_author": "Tsukatu"
+   }
+  ]
+ ], 
+ [
+  345327, 
+  [
+   0, 
+   595, 
+   {
+    "raw_data": "Winston (bold is mine)", 
+    "quote_id": 345312, 
+    "unknown_author": "Winston (bold is mine)", 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345200, 
+  [
+   0, 
+   1033, 
+   {
+    "raw_data": "iangb;345190", 
+    "quote_id": 345190, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  345203, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Archangel;345200", 
+    "quote_id": 345200, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345207, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 345200, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

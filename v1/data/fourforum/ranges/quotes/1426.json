@@ -1,0 +1,811 @@
+[
+ [
+  27777, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 27755, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "dreamweaver", 
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   673, 
+   1044, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   1118, 
+   1495, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   1726, 
+   2141, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   3548, 
+   3973, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   4981, 
+   5241, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   5492, 
+   5740, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   5875, 
+   6506, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   6944, 
+   7232, 
+   {}
+  ]
+ ], 
+ [
+  29701, 
+  [
+   7511, 
+   7639, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29701, 
+  [
+   7770, 
+   7960, 
+   {
+    "quote_id": 29646, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  28170, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 28124, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  28044, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 28030, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  30275, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 30228, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  30228, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 30111, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  29205, 
+  [
+   0, 
+   713, 
+   {
+    "raw_data": "Leviathan", 
+    "quote_id": 28283, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  32150, 
+  [
+   0, 
+   720, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32082, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  29592, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 29515, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  29594, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "dreamweaver", 
+    "quote_id": 29545, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   0, 
+   272, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   673, 
+   737, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   1501, 
+   1716, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   1835, 
+   2049, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   2211, 
+   2363, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   3029, 
+   3133, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   3767, 
+   4002, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   4068, 
+   4187, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   4319, 
+   4735, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   4984, 
+   5109, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   5196, 
+   5404, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   5774, 
+   5908, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   6187, 
+   6442, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   7122, 
+   7313, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   7891, 
+   7999, 
+   {
+    "quote_id": 29701, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29724, 
+  [
+   8070, 
+   10373, 
+   {}
+  ]
+ ], 
+ [
+  29724, 
+  [
+   10540, 
+   10668, 
+   {}
+  ]
+ ], 
+ [
+  29726, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 29652, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  30111, 
+  [
+   0, 
+   761, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  28064, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Toxey", 
+    "quote_id": 27961, 
+    "author": "Toxey"
+   }
+  ]
+ ], 
+ [
+  27824, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 27751, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  29730, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "dreamweaver", 
+    "quote_id": 29724, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29730, 
+  [
+   326, 
+   981, 
+   {}
+  ]
+ ], 
+ [
+  29730, 
+  [
+   1225, 
+   1866, 
+   {}
+  ]
+ ], 
+ [
+  29730, 
+  [
+   1998, 
+   2241, 
+   {
+    "quote_id": 29724, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29730, 
+  [
+   2523, 
+   2605, 
+   {
+    "quote_id": 29724, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29730, 
+  [
+   2789, 
+   2961, 
+   {
+    "quote_id": 29724, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29730, 
+  [
+   4726, 
+   4999, 
+   {
+    "quote_id": 29724, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29730, 
+  [
+   5357, 
+   6032, 
+   {}
+  ]
+ ], 
+ [
+  29730, 
+  [
+   6258, 
+   6830, 
+   {}
+  ]
+ ], 
+ [
+  27683, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27643, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27685, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27643, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  32296, 
+  [
+   0, 
+   3273, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32255, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  27952, 
+  [
+   0, 
+   139, 
+   {
+    "quote_id": 27949, 
+    "author": "Toxey"
+   }
+  ]
+ ], 
+ [
+  27961, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27952, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  30303, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 30275, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  29643, 
+  [
+   0, 
+   959, 
+   {
+    "raw_data": "dreamweaver", 
+    "quote_id": 29640, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  29640, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29594, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  28233, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 28124, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  29515, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29514, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29646, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29643, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29646, 
+  [
+   1243, 
+   1420, 
+   {}
+  ]
+ ], 
+ [
+  29646, 
+  [
+   1840, 
+   2130, 
+   {}
+  ]
+ ], 
+ [
+  29646, 
+  [
+   4129, 
+   4170, 
+   {}
+  ]
+ ], 
+ [
+  29652, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29592, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  28119, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 28064, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  32216, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32213, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  29349, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "dreamweaver", 
+    "quote_id": 29314, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  28005, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 27824, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  27751, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 27643, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  27752, 
+  [
+   0, 
+   4075, 
+   {
+    "raw_data": "Leviathan", 
+    "quote_id": 27685, 
+    "author": "Leviathan"
+   }
+  ]
+ ], 
+ [
+  27755, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Jesusislord", 
+    "quote_id": 27752, 
+    "author": "Jesusislord"
+   }
+  ]
+ ], 
+ [
+  32724, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Draconis", 
+    "quote_id": 32585, 
+    "author": "Draconis"
+   }
+  ]
+ ], 
+ [
+  28283, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "skutch", 
+    "quote_id": 28258, 
+    "author": "skutch"
+   }
+  ]
+ ], 
+ [
+  28030, 
+  [
+   0, 
+   567, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28005, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ]
+]

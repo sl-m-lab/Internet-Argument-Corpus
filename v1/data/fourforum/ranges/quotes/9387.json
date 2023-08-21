@@ -1,0 +1,886 @@
+[
+ [
+  245381, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Jo Bennett;245363", 
+    "quote_id": 245363, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  246022, 
+  [
+   0, 
+   1900, 
+   {
+    "raw_data": "daewoo;245911", 
+    "quote_id": 245911, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  246025, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Missouri Mule;246022", 
+    "quote_id": 246022, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246025, 
+  [
+   753, 
+   886, 
+   {
+    "quote_id": 246022, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245611, 
+  [
+   0, 
+   1375, 
+   {
+    "raw_data": "Missouri Mule;245547", 
+    "quote_id": 245547, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245388, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "Jo Bennett;245383", 
+    "quote_id": 245383, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  246209, 
+  [
+   0, 
+   821, 
+   {
+    "raw_data": "daewoo;246180", 
+    "quote_id": 246180, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  246180, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "Missouri Mule;246058", 
+    "quote_id": 246058, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246180, 
+  [
+   644, 
+   1015, 
+   {
+    "quote_id": 246058, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245521, 
+  [
+   0, 
+   2197, 
+   {
+    "raw_data": "daewoo;245482", 
+    "quote_id": 245482, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245524, 
+  [
+   0, 
+   973, 
+   {
+    "raw_data": "Dono;245483", 
+    "quote_id": 245483, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  245911, 
+  [
+   0, 
+   660, 
+   {
+    "raw_data": "Missouri Mule;245899", 
+    "quote_id": 245899, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245911, 
+  [
+   797, 
+   1373, 
+   {
+    "quote_id": 245899, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245916, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "JPSartre12;245908", 
+    "quote_id": 245908, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245535, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "Jo Bennett;245495", 
+    "quote_id": 245495, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  246176, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "JPSartre12;246124", 
+    "quote_id": 246124, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245412, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "JPSartre12;245388", 
+    "quote_id": 245388, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245542, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Missouri Mule;245521", 
+    "quote_id": 245521, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245542, 
+  [
+   527, 
+   718, 
+   {
+    "quote_id": 245521, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245542, 
+  [
+   1059, 
+   1307, 
+   {
+    "quote_id": 245521, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245542, 
+  [
+   1578, 
+   1941, 
+   {
+    "quote_id": 245521, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246131, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "JPSartre12;246124", 
+    "quote_id": 246124, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246057, 
+  [
+   0, 
+   544, 
+   {
+    "raw_data": "JPSartre12;246039", 
+    "quote_id": 246039, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246058, 
+  [
+   0, 
+   775, 
+   {
+    "raw_data": "daewoo;246025", 
+    "quote_id": 246025, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245547, 
+  [
+   0, 
+   1955, 
+   {
+    "raw_data": "daewoo;245542", 
+    "quote_id": 245542, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245421, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "JPSartre12;245388", 
+    "quote_id": 245388, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245619, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "Missouri Mule;245547", 
+    "quote_id": 245547, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245619, 
+  [
+   1510, 
+   1771, 
+   {
+    "quote_id": 245547, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245619, 
+  [
+   2224, 
+   2426, 
+   {
+    "quote_id": 245547, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245619, 
+  [
+   2545, 
+   3049, 
+   {
+    "quote_id": 245547, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245684, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "daewoo;245625", 
+    "quote_id": 245625, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245685, 
+  [
+   0, 
+   1856, 
+   {
+    "raw_data": "daewoo;2456190", 
+    "unknown_quote_id": 2456190, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245686, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Missouri Mule;245682", 
+    "quote_id": 245682, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246071, 
+  [
+   0, 
+   1323, 
+   {
+    "raw_data": "gamehuis;246062", 
+    "quote_id": 246062, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  246985, 
+  [
+   0, 
+   669, 
+   {
+    "raw_data": "Missouri Mule;246510", 
+    "quote_id": 246510, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246076, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Missouri Mule;246057", 
+    "quote_id": 246057, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246076, 
+  [
+   268, 
+   410, 
+   {
+    "raw_data": "MM", 
+    "quote_id": 246023, 
+    "unknown_author": "MM", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246078, 
+  [
+   0, 
+   688, 
+   {
+    "raw_data": "Missouri Mule;246071", 
+    "quote_id": 246071, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246039, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Missouri Mule;246023", 
+    "quote_id": 246023, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245697, 
+  [
+   0, 
+   476, 
+   {
+    "raw_data": "Peeling;245684", 
+    "quote_id": 245684, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  245899, 
+  [
+   0, 
+   1500, 
+   {
+    "raw_data": "daewoo;245798", 
+    "quote_id": 245798, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245317, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Dono;245296", 
+    "quote_id": 245296, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  245900, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Peeling;245686", 
+    "quote_id": 245686, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  245322, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Dono;245296", 
+    "quote_id": 245296, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  246222, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "Missouri Mule;246209", 
+    "quote_id": 246209, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246222, 
+  [
+   922, 
+   1722, 
+   {
+    "quote_id": 246209, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246223, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "JPSartre12;246076", 
+    "quote_id": 246076, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246994, 
+  [
+   0, 
+   680, 
+   {
+    "raw_data": "JPSartre12;246322", 
+    "quote_id": 246322, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246994, 
+  [
+   1436, 
+   1625, 
+   {
+    "quote_id": 246322, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245465, 
+  [
+   0, 
+   465, 
+   {
+    "raw_data": "Missouri Mule;245412", 
+    "quote_id": 245412, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245465, 
+  [
+   1001, 
+   1355, 
+   {
+    "quote_id": 245412, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  246991, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Dono;246985", 
+    "quote_id": 246985, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  247004, 
+  [
+   0, 
+   813, 
+   {
+    "raw_data": "daewoo;246994", 
+    "quote_id": 246994, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245682, 
+  [
+   0, 
+   1327, 
+   {
+    "raw_data": "JPSartre12;245611", 
+    "quote_id": 245611, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246023, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "JPSartre12;245908", 
+    "quote_id": 245908, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246113, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "JPSartre12;246076", 
+    "quote_id": 246076, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245908, 
+  [
+   0, 
+   2175, 
+   {
+    "raw_data": "Missouri Mule;245900", 
+    "quote_id": 245900, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245798, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Missouri Mule;245685", 
+    "quote_id": 245685, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245351, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "JPSartre12;245322", 
+    "quote_id": 245322, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245480, 
+  [
+   0, 
+   855, 
+   {
+    "raw_data": "Jo Bennett;245433", 
+    "quote_id": 245433, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  245482, 
+  [
+   0, 
+   880, 
+   {
+    "raw_data": "Missouri Mule;245479", 
+    "quote_id": 245479, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245482, 
+  [
+   1021, 
+   1512, 
+   {
+    "quote_id": 245479, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245482, 
+  [
+   2030, 
+   2654, 
+   {
+    "quote_id": 245479, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245482, 
+  [
+   3222, 
+   3517, 
+   {
+    "quote_id": 245479, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245482, 
+  [
+   3673, 
+   4400, 
+   {
+    "quote_id": 245479, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  245479, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "JPSartre12;245465", 
+    "quote_id": 245465, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246124, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "daewoo;246113", 
+    "quote_id": 246113, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  246124, 
+  [
+   246, 
+   353, 
+   {
+    "quote_id": 246113, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245613, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "ShadowPikachu;245610", 
+    "quote_id": 245610, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  246510, 
+  [
+   0, 
+   873, 
+   {
+    "raw_data": "JPSartre12;246322", 
+    "quote_id": 246322, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  245618, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "ShadowPikachu;245610", 
+    "quote_id": 245610, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  245624, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "daewoo;245618", 
+    "quote_id": 245618, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245625, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "JPSartre12;245613", 
+    "quote_id": 245613, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  246322, 
+  [
+   0, 
+   3770, 
+   {
+    "raw_data": "daewoo;246222", 
+    "quote_id": 246222, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245610, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "daewoo;245482", 
+    "quote_id": 245482, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

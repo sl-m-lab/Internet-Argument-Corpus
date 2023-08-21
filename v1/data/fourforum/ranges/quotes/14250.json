@@ -1,0 +1,386 @@
+[
+ [
+  402953, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "thelmoose;402808", 
+    "quote_id": 402808, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  402954, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Brigid;402933", 
+    "quote_id": 402933, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  402703, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Sigma;402674", 
+    "quote_id": 402674, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  402968, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "jyoshu;402954", 
+    "quote_id": 402954, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402712, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "Symbiote;402695", 
+    "quote_id": 402695, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  402463, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "jazyjason;402416", 
+    "quote_id": 402416, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  402416, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "jyoshu;402347", 
+    "quote_id": 402347, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402348, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "jyoshu;402347", 
+    "quote_id": 402347, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402351, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Sigma;402348", 
+    "quote_id": 402348, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405555, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "jyoshu;402797", 
+    "quote_id": 402797, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  405556, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "jyoshu;402954", 
+    "quote_id": 402954, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402742, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "jyoshu;402351", 
+    "quote_id": 402351, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402746, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "jyoshu;402712", 
+    "quote_id": 402712, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402748, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Symbiote;402746", 
+    "quote_id": 402746, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  405565, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Matthew S;405556", 
+    "quote_id": 405556, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  405570, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Sigma;405565", 
+    "quote_id": 405565, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  402503, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "jyoshu;402347", 
+    "quote_id": 402347, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402765, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Matthew S;402748", 
+    "quote_id": 402748, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  405590, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Matthew S;405570", 
+    "quote_id": 405570, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  402784, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Matthew S;402742", 
+    "quote_id": 402742, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  402791, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "jyoshu;402347", 
+    "quote_id": 402347, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402792, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "ShadowPikachu;402791", 
+    "quote_id": 402791, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  402794, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "jyoshu;402784", 
+    "quote_id": 402784, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402797, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "Matthew S;402794", 
+    "quote_id": 402794, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  402672, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "jazyjason;402550", 
+    "quote_id": 402550, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  402673, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "JWilliam;402503", 
+    "quote_id": 402503, 
+    "author": "JWilliam"
+   }
+  ]
+ ], 
+ [
+  402673, 
+  [
+   789, 
+   995, 
+   {
+    "raw_data": "JWilliam;402503", 
+    "quote_id": 402503, 
+    "author": "JWilliam"
+   }
+  ]
+ ], 
+ [
+  402674, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "jyoshu;402672", 
+    "quote_id": 402672, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402932, 
+  [
+   0, 
+   1351, 
+   {
+    "raw_data": "jyoshu;402347", 
+    "quote_id": 402347, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402933, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "jyoshu;402797", 
+    "quote_id": 402797, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402550, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Sigma;402463", 
+    "quote_id": 402463, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  402808, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "jyoshu;402784", 
+    "quote_id": 402784, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

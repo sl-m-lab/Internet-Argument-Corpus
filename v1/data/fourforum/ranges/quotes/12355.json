@@ -1,0 +1,252 @@
+[
+ [
+  344833, 
+  [
+   0, 
+   602, 
+   {
+    "raw_data": "Zardoz;344791", 
+    "quote_id": 344791, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  344204, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "chester;344183", 
+    "quote_id": 344183, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344214, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Zardoz;344204", 
+    "quote_id": 344204, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  344740, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Zardoz;344318", 
+    "quote_id": 344318, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  344742, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "chester;344740", 
+    "quote_id": 344740, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344754, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Archangel;344742", 
+    "quote_id": 344742, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344758, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "chester;344754", 
+    "quote_id": 344754, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344760, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Archangel;344742", 
+    "quote_id": 344742, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344763, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Matthew S;344760", 
+    "quote_id": 344760, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  344763, 
+  [
+   1015, 
+   1330, 
+   {}
+  ]
+ ], 
+ [
+  344769, 
+  [
+   0, 
+   1259, 
+   {
+    "raw_data": "Archangel;344763", 
+    "quote_id": 344763, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344771, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Matthew S;344769", 
+    "quote_id": 344769, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  344771, 
+  [
+   1217, 
+   1665, 
+   {
+    "raw_data": "Matt S", 
+    "quote_id": 344769, 
+    "unknown_author": "Matt S", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  344273, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Symbiote;344155", 
+    "quote_id": 344155, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  344791, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "chester;344740", 
+    "quote_id": 344740, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344155, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "chester;344150", 
+    "quote_id": 344150, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344162, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "isly ilwott;344154", 
+    "quote_id": 344154, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  344162, 
+  [
+   201, 
+   390, 
+   {
+    "raw_data": "symbiote;344155", 
+    "quote_id": 344155, 
+    "unknown_author": "symbiote", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344183, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Symbiote;344155", 
+    "quote_id": 344155, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  344185, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "chester;344183", 
+    "quote_id": 344183, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344318, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "chester;344214", 
+    "quote_id": 344214, 
+    "author": "chester"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,649 @@
+[
+ [
+  351621, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Penfold;351619", 
+    "quote_id": 351619, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  351756, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "T.Q;351714", 
+    "quote_id": 351714, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  351756, 
+  [
+   71, 
+   122, 
+   {
+    "raw_data": "Penfold;351722", 
+    "quote_id": 351722, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  351502, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "foundit66;351498", 
+    "quote_id": 351498, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  351764, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Archangel;351756", 
+    "quote_id": 351756, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  351765, 
+  [
+   320, 
+   567, 
+   {
+    "raw_data": "electrolyte;308340", 
+    "unknown_quote_id": 308340, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  351513, 
+  [
+   232, 
+   1036, 
+   {}
+  ]
+ ], 
+ [
+  351513, 
+  [
+   1083, 
+   1319, 
+   {}
+  ]
+ ], 
+ [
+  351513, 
+  [
+   1444, 
+   4522, 
+   {}
+  ]
+ ], 
+ [
+  351822, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "marc9000;351697", 
+    "quote_id": 351697, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  356191, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "jirmwarfare;356044", 
+    "quote_id": 356044, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356191, 
+  [
+   483, 
+   660, 
+   {
+    "quote_id": 356044, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356191, 
+  [
+   1908, 
+   2097, 
+   {
+    "quote_id": 356044, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356191, 
+  [
+   2271, 
+   2377, 
+   {
+    "quote_id": 356044, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356191, 
+  [
+   2674, 
+   2906, 
+   {
+    "quote_id": 356044, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356191, 
+  [
+   3151, 
+   3445, 
+   {
+    "quote_id": 356044, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  351781, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Archangel;351767", 
+    "quote_id": 351767, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  351783, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "foundit66;351781", 
+    "quote_id": 351781, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  356008, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "CUNxTime;355836", 
+    "quote_id": 355836, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  351530, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "foundit66;351513", 
+    "quote_id": 351513, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  356017, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jirmwarfare;355813", 
+    "quote_id": 355813, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356017, 
+  [
+   348, 
+   558, 
+   {
+    "quote_id": 355813, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356017, 
+  [
+   808, 
+   863, 
+   {
+    "quote_id": 355813, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356017, 
+  [
+   935, 
+   1201, 
+   {
+    "quote_id": 355813, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  355891, 
+  [
+   0, 
+   654, 
+   {
+    "raw_data": "marc9000;355780", 
+    "quote_id": 355780, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  356022, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "CUNxTime;355836", 
+    "quote_id": 355836, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  355780, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "jirmwarfare;355515", 
+    "quote_id": 355515, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  355780, 
+  [
+   714, 
+   1111, 
+   {
+    "raw_data": "jirmwarfare", 
+    "quote_id": 355515, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  355780, 
+  [
+   1118, 
+   1216, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 355605, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  356044, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "marc9000;356017", 
+    "quote_id": 356017, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  356044, 
+  [
+   425, 
+   666, 
+   {}
+  ]
+ ], 
+ [
+  356044, 
+  [
+   852, 
+   913, 
+   {
+    "quote_id": 356017, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  356044, 
+  [
+   934, 
+   1420, 
+   {
+    "quote_id": 356017, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  351694, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Archangel;351536", 
+    "quote_id": 351536, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  351567, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Easyrider;351530", 
+    "quote_id": 351530, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  351567, 
+  [
+   342, 
+   425, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 351530, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  351567, 
+  [
+   818, 
+   1012, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 351536, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  351697, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "simone;351694", 
+    "quote_id": 351694, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  351710, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Penfold;351707", 
+    "quote_id": 351707, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  355813, 
+  [
+   0, 
+   648, 
+   {
+    "raw_data": "marc9000;355780", 
+    "quote_id": 355780, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  351840, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Archangel;351783", 
+    "quote_id": 351783, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  351840, 
+  [
+   889, 
+   941, 
+   {
+    "raw_data": "simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  356193, 
+  [
+   0, 
+   3179, 
+   {
+    "raw_data": "foundit66;351513", 
+    "quote_id": 351513, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  351714, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Archangel;351710", 
+    "quote_id": 351710, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  355605, 
+  [
+   0, 
+   1094, 
+   {
+    "raw_data": "jirmwarfare;355515", 
+    "quote_id": 355515, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  351717, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "marc9000;351697", 
+    "quote_id": 351697, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  351722, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Archangel;351710", 
+    "quote_id": 351710, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  353516, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "Roesgen08;351502", 
+    "quote_id": 351502, 
+    "author": "Roesgen08"
+   }
+  ]
+ ], 
+ [
+  356211, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "jirmwarfare;356193", 
+    "quote_id": 356193, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356211, 
+  [
+   323, 
+   609, 
+   {
+    "quote_id": 356193, 
+    "author": "jirmwarfare"
+   }
+  ]
+ ], 
+ [
+  356211, 
+  [
+   1106, 
+   1580, 
+   {}
+  ]
+ ], 
+ [
+  356211, 
+  [
+   1716, 
+   1941, 
+   {}
+  ]
+ ], 
+ [
+  353524, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Roesgen08;351615", 
+    "quote_id": 351615, 
+    "author": "Roesgen08"
+   }
+  ]
+ ], 
+ [
+  351737, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "trebor;351717", 
+    "quote_id": 351717, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  351737, 
+  [
+   341, 
+   465, 
+   {
+    "quote_id": 351717, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  351786, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "marc9000;351737", 
+    "quote_id": 351737, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  351786, 
+  [
+   738, 
+   1148, 
+   {
+    "quote_id": 351737, 
+    "author": "marc9000"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,518 @@
+[
+ [
+  315137, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "unkerpaulie;315133", 
+    "quote_id": 315133, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315269, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "lesz;315180", 
+    "quote_id": 315180, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  315530, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "unkerpaulie;315515", 
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316013, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "lesz;315693", 
+    "quote_id": 315693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316013, 
+  [
+   2062, 
+   2361, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316013, 
+  [
+   2830, 
+   3262, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  316013, 
+  [
+   3611, 
+   4517, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 315693, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  315412, 
+  [
+   0, 
+   656, 
+   {
+    "raw_data": "Kronus;315378", 
+    "quote_id": 315378, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  316016, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "unkerpaulie;316013", 
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315299, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "unkerpaulie;315256", 
+    "quote_id": 315256, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315428, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "unkerpaulie;315269", 
+    "quote_id": 315269, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315429, 
+  [
+   0, 
+   1486, 
+   {
+    "raw_data": "unkerpaulie;315373", 
+    "quote_id": 315373, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315430, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "unkerpaulie;315412", 
+    "quote_id": 315412, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315430, 
+  [
+   652, 
+   861, 
+   {
+    "quote_id": 315412, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315430, 
+  [
+   1646, 
+   1773, 
+   {
+    "quote_id": 315412, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315943, 
+  [
+   0, 
+   642, 
+   {
+    "raw_data": "Kronus;315530", 
+    "quote_id": 315530, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  315180, 
+  [
+   0, 
+   934, 
+   {
+    "raw_data": "unkerpaulie;315133", 
+    "quote_id": 315133, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315693, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "unkerpaulie;315515", 
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315693, 
+  [
+   870, 
+   1042, 
+   {
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315693, 
+  [
+   1169, 
+   1350, 
+   {
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315693, 
+  [
+   1825, 
+   2054, 
+   {
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315693, 
+  [
+   2738, 
+   2842, 
+   {
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315693, 
+  [
+   3293, 
+   3796, 
+   {
+    "quote_id": 315515, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315969, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "unkerpaulie;315943", 
+    "quote_id": 315943, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315074, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "unkerpaulie;314950", 
+    "quote_id": 314950, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315205, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "unkerpaulie;315133", 
+    "quote_id": 315133, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315205, 
+  [
+   522, 
+   909, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 315133, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315081, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "unkerpaulie;314957", 
+    "quote_id": 314957, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315212, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "foundit66;315205", 
+    "quote_id": 315205, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  315341, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "unkerpaulie;315269", 
+    "quote_id": 315269, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316125, 
+  [
+   0, 
+   1028, 
+   {
+    "raw_data": "unkerpaulie;316013", 
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316125, 
+  [
+   1605, 
+   2061, 
+   {
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316125, 
+  [
+   2446, 
+   2906, 
+   {
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316125, 
+  [
+   3953, 
+   4294, 
+   {
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316125, 
+  [
+   4931, 
+   5200, 
+   {
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  316125, 
+  [
+   5394, 
+   5691, 
+   {
+    "quote_id": 316013, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315490, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "unkerpaulie;315412", 
+    "quote_id": 315412, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315490, 
+  [
+   459, 
+   589, 
+   {
+    "raw_data": "unkerpaulie;315412", 
+    "quote_id": 315412, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315372, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "electrolyte;315299", 
+    "quote_id": 315299, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  315373, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "Kronus;315341", 
+    "quote_id": 315341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  315374, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "unkerpaulie;315372", 
+    "quote_id": 315372, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315120, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "thelmoose;314961", 
+    "quote_id": 314961, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  315378, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "unkerpaulie;315373", 
+    "quote_id": 315373, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  315256, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "electrolyte;315137", 
+    "quote_id": 315137, 
+    "author": "electrolyte"
+   }
+  ]
+ ]
+]

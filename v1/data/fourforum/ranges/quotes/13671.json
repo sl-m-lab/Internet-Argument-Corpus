@@ -1,0 +1,37 @@
+[
+ [
+  381472, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "OldSarge;381412", 
+    "quote_id": 381412, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  381472, 
+  [
+   412, 
+   603, 
+   {
+    "quote_id": 381348, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  381412, 
+  [
+   0, 
+   1340, 
+   {
+    "raw_data": "JPSartre12;381348", 
+    "quote_id": 381348, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

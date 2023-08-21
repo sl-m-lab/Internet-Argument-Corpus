@@ -1,0 +1,213 @@
+[
+ [
+  52225, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 52221, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  52231, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 52221, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  52234, 
+  [
+   0, 
+   672, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 52231, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  52239, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 52234, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  52244, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 52239, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  52249, 
+  [
+   0, 
+   1420, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  52380, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 52366, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  52255, 
+  [
+   0, 
+   1420, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  52384, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 52380, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  53324, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 53264, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  53324, 
+  [
+   111, 
+   444, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 53264, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  53324, 
+  [
+   872, 
+   1120, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 53264, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  52300, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 52249, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  52300, 
+  [
+   446, 
+   715, 
+   {
+    "raw_data": "Alucard", 
+    "quote_id": 52255, 
+    "author": "Alucard"
+   }
+  ]
+ ], 
+ [
+  52300, 
+  [
+   996, 
+   1402, 
+   {
+    "quote_id": 52255, 
+    "author": "Alucard"
+   }
+  ]
+ ], 
+ [
+  52300, 
+  [
+   1508, 
+   2152, 
+   {
+    "quote_id": 52255, 
+    "author": "Alucard"
+   }
+  ]
+ ], 
+ [
+  52304, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 52231, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  52221, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "sinjin", 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

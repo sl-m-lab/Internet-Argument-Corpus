@@ -1,0 +1,692 @@
+[
+ [
+  403333, 
+  [
+   379, 
+   735, 
+   {}
+  ]
+ ], 
+ [
+  403206, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "T.Q;402775", 
+    "quote_id": 402775, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  403206, 
+  [
+   147, 
+   322, 
+   {
+    "quote_id": 402775, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  403206, 
+  [
+   944, 
+   2194, 
+   {}
+  ]
+ ], 
+ [
+  402391, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Easyrider;402374", 
+    "quote_id": 402374, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  402836, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "T.Q;402823", 
+    "quote_id": 402823, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  402837, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Easyrider;402836", 
+    "quote_id": 402836, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  402841, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "T.Q;402823", 
+    "quote_id": 402823, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  402714, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Accipiter;402667", 
+    "quote_id": 402667, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402714, 
+  [
+   262, 
+   351, 
+   {
+    "quote_id": 402667, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402843, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "trebor;402837", 
+    "quote_id": 402837, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  402717, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "Art Pigou;402714", 
+    "quote_id": 402714, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  407326, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "unkerpaulie;407320", 
+    "quote_id": 407320, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  407326, 
+  [
+   798, 
+   1119, 
+   {
+    "quote_id": 407320, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  407326, 
+  [
+   1421, 
+   1535, 
+   {
+    "quote_id": 407320, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  402847, 
+  [
+   0, 
+   572, 
+   {
+    "raw_data": "Easyrider;402843", 
+    "quote_id": 402843, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  402721, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Accipiter;402717", 
+    "quote_id": 402717, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402850, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Accipiter;402667", 
+    "quote_id": 402667, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402850, 
+  [
+   95, 
+   144, 
+   {
+    "raw_data": "Art Pigou;402714", 
+    "quote_id": 402714, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  402851, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "trebor;402847", 
+    "quote_id": 402847, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  402851, 
+  [
+   603, 
+   676, 
+   {
+    "raw_data": "trebor;402847", 
+    "quote_id": 402847, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  402596, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Art Pigou;402541", 
+    "quote_id": 402541, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  402725, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Accipiter;402724", 
+    "quote_id": 402724, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402854, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "trebor;402837", 
+    "quote_id": 402837, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  402983, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Sandycane;402943", 
+    "quote_id": 402943, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  402858, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "MrWriteLA;402841", 
+    "quote_id": 402841, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  403400, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "jyoshu;403397", 
+    "quote_id": 403397, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  402739, 
+  [
+   0, 
+   874, 
+   {
+    "raw_data": "Art Pigou;402725", 
+    "quote_id": 402725, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  403381, 
+  [
+   0, 
+   701, 
+   {
+    "raw_data": "trebor;403361", 
+    "quote_id": 403361, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  402870, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "jyoshu;402854", 
+    "quote_id": 402854, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  403383, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Accipiter;403333", 
+    "quote_id": 403333, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  403383, 
+  [
+   119, 
+   323, 
+   {
+    "quote_id": 403333, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  407353, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Art Pigou;407326", 
+    "quote_id": 407326, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  407353, 
+  [
+   1117, 
+   1411, 
+   {
+    "quote_id": 407326, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  407353, 
+  [
+   1940, 
+   2236, 
+   {
+    "quote_id": 407326, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  407306, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "unkerpaulie;407289", 
+    "quote_id": 407289, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  407306, 
+  [
+   484, 
+   890, 
+   {
+    "quote_id": 407289, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  403310, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Accipiter;403308", 
+    "quote_id": 403308, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402374, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Accipiter;402373", 
+    "quote_id": 402373, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  403361, 
+  [
+   0, 
+   507, 
+   {
+    "raw_data": "Accipiter;403333", 
+    "quote_id": 403333, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402760, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "T.Q;402751", 
+    "quote_id": 402751, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  402760, 
+  [
+   1122, 
+   1226, 
+   {
+    "quote_id": 402751, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  402506, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Easyrider;402374", 
+    "quote_id": 402374, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  402506, 
+  [
+   278, 
+   552, 
+   {
+    "raw_data": "Art Pigou;402395", 
+    "quote_id": 402395, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  403275, 
+  [
+   0, 
+   3717, 
+   {
+    "raw_data": "Art Pigou;403206", 
+    "quote_id": 403206, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  402642, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Accipiter;402596", 
+    "quote_id": 402596, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402517, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Accipiter;402506", 
+    "quote_id": 402506, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402724, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Art Pigou;402721", 
+    "quote_id": 402721, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  403397, 
+  [
+   0, 
+   701, 
+   {
+    "raw_data": "trebor;403361", 
+    "quote_id": 403361, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  402395, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Accipiter;402373", 
+    "quote_id": 402373, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  407388, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "unkerpaulie;407353", 
+    "quote_id": 407353, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  403299, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Accipiter;403275", 
+    "quote_id": 403275, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402667, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Art Pigou;402642", 
+    "quote_id": 402642, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  403308, 
+  [
+   5, 
+   94, 
+   {
+    "quote_id": 402667, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  403308, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Art Pigou;402714", 
+    "quote_id": 402714, 
+    "author": "Art Pigou"
+   }
+  ]
+ ], 
+ [
+  402541, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Accipiter;402506", 
+    "quote_id": 402506, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  403311, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Accipiter;403308", 
+    "quote_id": 403308, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  403391, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Accipiter;403333", 
+    "quote_id": 403333, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  402943, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Easyrider;402374", 
+    "quote_id": 402374, 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

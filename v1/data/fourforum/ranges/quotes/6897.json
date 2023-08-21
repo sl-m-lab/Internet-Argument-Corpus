@@ -1,0 +1,931 @@
+[
+ [
+  201224, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201197, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200713, 
+  [
+   0, 
+   683, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 200547, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  200714, 
+  [
+   0, 
+   672, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 200667, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  223155, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 223086, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  200734, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 200714, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  200736, 
+  [
+   0, 
+   494, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 200713, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  201249, 
+  [
+   0, 
+   946, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201198, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200750, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 200736, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  223069, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 223034, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  201776, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201717, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201651, 
+  [
+   0, 
+   635, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 201628, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  201783, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 201721, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  222781, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 222570, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  201802, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 201721, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  201802, 
+  [
+   226, 
+   421, 
+   {
+    "quote_id": 201721, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  180819, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "tiggeroo2005", 
+    "quote_id": 180817, 
+    "author": "tiggeroo2005"
+   }
+  ]
+ ], 
+ [
+  200809, 
+  [
+   0, 
+   1430, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 200654, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  200809, 
+  [
+   1540, 
+   1733, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 200641, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201324, 
+  [
+   0, 
+   1039, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 201224, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  201410, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201392, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201386, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201324, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200899, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 200736, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  200900, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Bickazer", 
+    "quote_id": 200425, 
+    "author": "Bickazer"
+   }
+  ]
+ ], 
+ [
+  201417, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201392, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222942, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 222781, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  222947, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 222942, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  222947, 
+  [
+   123, 
+   362, 
+   {
+    "raw_data": "GodIsDead", 
+    "quote_id": 221536, 
+    "author": "GodIsDead"
+   }
+  ]
+ ], 
+ [
+  201961, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Dono", 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  201965, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 201961, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  201970, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201965, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  200955, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 200927, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201984, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201982, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200965, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 200955, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  201482, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201392, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  200974, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 200965, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  222993, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222950, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223000, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 222993, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  223003, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 222993, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  223006, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 223000, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  223007, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 223003, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  202016, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 201961, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  202021, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 202016, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  200755, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 200736, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  200755, 
+  [
+   372, 
+   1889, 
+   {}
+  ]
+ ], 
+ [
+  200755, 
+  [
+   1966, 
+   2221, 
+   {
+    "quote_id": 200736, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  223028, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 223020, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  223028, 
+  [
+   277, 
+   327, 
+   {
+    "raw_data": "JPSartre", 
+    "quote_id": 222993, 
+    "unknown_author": "JPSartre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  223028, 
+  [
+   449, 
+   554, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222950, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201525, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201392, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202040, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 202021, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  223034, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 223006, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  202063, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 202021, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  201553, 
+  [
+   0, 
+   671, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 201482, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  200547, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Bickazer", 
+    "quote_id": 200425, 
+    "author": "Bickazer"
+   }
+  ]
+ ], 
+ [
+  222570, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "GodIsDead", 
+    "quote_id": 221536, 
+    "author": "GodIsDead"
+   }
+  ]
+ ], 
+ [
+  201069, 
+  [
+   0, 
+   859, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 200974, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  223086, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 223069, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  223100, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 223069, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  202110, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202063, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201611, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 201600, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  201628, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 201600, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  201129, 
+  [
+   0, 
+   1317, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201069, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201139, 
+  [
+   0, 
+   1317, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201069, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200641, 
+  [
+   0, 
+   647, 
+   {
+    "raw_data": "Bell", 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  223171, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 223155, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  223174, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 223171, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  201673, 
+  [
+   0, 
+   1045, 
+   {
+    "raw_data": "BirchTree", 
+    "quote_id": 201249, 
+    "author": "BirchTree"
+   }
+  ]
+ ], 
+ [
+  223178, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 223174, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  201164, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 200965, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  200667, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Bickazer", 
+    "quote_id": 200425, 
+    "author": "Bickazer"
+   }
+  ]
+ ], 
+ [
+  201698, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 201628, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  213995, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Bellona", 
+    "quote_id": 213959, 
+    "author": "Bellona"
+   }
+  ]
+ ], 
+ [
+  201708, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 201698, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  201197, 
+  [
+   0, 
+   841, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 201129, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  201198, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "BirchTree", 
+    "quote_id": 201139, 
+    "author": "BirchTree"
+   }
+  ]
+ ], 
+ [
+  201204, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 200965, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201721, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 201708, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  223228, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 223178, 
+    "author": "Ooaman"
+   }
+  ]
+ ]
+]

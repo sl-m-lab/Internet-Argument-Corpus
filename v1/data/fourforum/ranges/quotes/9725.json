@@ -1,0 +1,475 @@
+[
+ [
+  257286, 
+  [
+   0, 
+   98, 
+   {}
+  ]
+ ], 
+ [
+  259137, 
+  [
+   0, 
+   1309, 
+   {
+    "raw_data": "Count Otto;259095", 
+    "quote_id": 259095, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258892, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "Count Otto;258889", 
+    "quote_id": 258889, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258892, 
+  [
+   455, 
+   607, 
+   {
+    "raw_data": "Count Otto;258889", 
+    "quote_id": 258889, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258448, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "huckleberry;257978", 
+    "quote_id": 257978, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  276241, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Count Otto;276221", 
+    "quote_id": 276221, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258966, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "James;258937", 
+    "quote_id": 258937, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258966, 
+  [
+   551, 
+   963, 
+   {
+    "quote_id": 258937, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258966, 
+  [
+   1282, 
+   1485, 
+   {
+    "quote_id": 258937, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258953, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Count Otto;258889", 
+    "quote_id": 258889, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  257353, 
+  [
+   0, 
+   156, 
+   {
+    "quote_id": 257223, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  257978, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Jo Bennett;257870", 
+    "quote_id": 257870, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  258241, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Jo Bennett;258094", 
+    "quote_id": 258094, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  258885, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Count Otto;258878", 
+    "quote_id": 258878, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258506, 
+  [
+   0, 
+   961, 
+   {
+    "raw_data": "Count Otto;258448", 
+    "quote_id": 258448, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  257356, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "Symbiote;257353", 
+    "quote_id": 257353, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  258896, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "James;258892", 
+    "quote_id": 258892, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258896, 
+  [
+   667, 
+   806, 
+   {
+    "quote_id": 258892, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258896, 
+  [
+   961, 
+   1255, 
+   {
+    "quote_id": 258892, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  257364, 
+  [
+   0, 
+   636, 
+   {
+    "raw_data": "Archangel;257356", 
+    "quote_id": 257356, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  257365, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Mucusaur;257364", 
+    "quote_id": 257364, 
+    "author": "Mucusaur"
+   }
+  ]
+ ], 
+ [
+  257370, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Archangel;257365", 
+    "quote_id": 257365, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258910, 
+  [
+   0, 
+   514, 
+   {
+    "raw_data": "Count Otto;258896", 
+    "quote_id": 258896, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258910, 
+  [
+   750, 
+   895, 
+   {
+    "raw_data": "Count Otto;258896", 
+    "quote_id": 258896, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258910, 
+  [
+   1352, 
+   1609, 
+   {
+    "raw_data": "Count Otto;258896", 
+    "quote_id": 258896, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258917, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "James;258910", 
+    "quote_id": 258910, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258917, 
+  [
+   429, 
+   877, 
+   {
+    "quote_id": 258910, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258917, 
+  [
+   1059, 
+   1362, 
+   {
+    "quote_id": 258910, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  258016, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Jo Bennett;257993", 
+    "quote_id": 257993, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  258530, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "Jo Bennett;258529", 
+    "quote_id": 258529, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  258530, 
+  [
+   485, 
+   1877, 
+   {}
+  ]
+ ], 
+ [
+  258889, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "James;258885", 
+    "quote_id": 258885, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  257765, 
+  [
+   134, 
+   6635, 
+   {}
+  ]
+ ], 
+ [
+  257388, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Archangel;257356", 
+    "quote_id": 257356, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  276221, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Foxtuba;275959", 
+    "quote_id": 275959, 
+    "author": "Foxtuba"
+   }
+  ]
+ ], 
+ [
+  258878, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "huckleberry;258506", 
+    "quote_id": 258506, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  275959, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "rightwinger6914;275405", 
+    "quote_id": 275405, 
+    "author": "rightwinger6914"
+   }
+  ]
+ ], 
+ [
+  258937, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Count Otto;258917", 
+    "quote_id": 258917, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  258937, 
+  [
+   365, 
+   884, 
+   {
+    "raw_data": "Count Otto;258917", 
+    "quote_id": 258917, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  257404, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "gamehuis;257370", 
+    "quote_id": 257370, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  257405, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Symbiote;257388", 
+    "quote_id": 257388, 
+    "author": "Symbiote"
+   }
+  ]
+ ]
+]

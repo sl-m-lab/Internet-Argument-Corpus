@@ -1,0 +1,62 @@
+[
+ [
+  333100, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Penfold;333078", 
+    "quote_id": 333078, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333357, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "chester;333107", 
+    "quote_id": 333107, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  333361, 
+  [
+   0, 
+   702, 
+   {
+    "raw_data": "Joel_Henderson;333074", 
+    "quote_id": 333074, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333107, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "Joel_Henderson;333074", 
+    "quote_id": 333074, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333406, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "sinjin;333361", 
+    "quote_id": 333361, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

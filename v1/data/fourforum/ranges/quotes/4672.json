@@ -1,0 +1,85 @@
+[
+ [
+  102481, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 102377, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  102673, 
+  [
+   0, 
+   822, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 102481, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  102955, 
+  [
+   0, 
+   737, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 102954, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  103093, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 102673, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  103093, 
+  [
+   520, 
+   731, 
+   {
+    "quote_id": 102673, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  102487, 
+  [
+   0, 
+   822, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 102481, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  102457, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 102377, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ]
+]

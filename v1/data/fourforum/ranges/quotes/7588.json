@@ -1,0 +1,226 @@
+[
+ [
+  198467, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198465, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198467, 
+  [
+   307, 
+   406, 
+   {
+    "quote_id": 198465, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198468, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Platypus", 
+    "quote_id": 198467, 
+    "author": "Platypus"
+   }
+  ]
+ ], 
+ [
+  198468, 
+  [
+   249, 
+   508, 
+   {
+    "quote_id": 198467, 
+    "author": "Platypus"
+   }
+  ]
+ ], 
+ [
+  198470, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198468, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  200583, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 200464, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  200588, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 200583, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  199565, 
+  [
+   0, 
+   2038, 
+   {
+    "raw_data": "Platypus", 
+    "quote_id": 198470, 
+    "author": "Platypus"
+   }
+  ]
+ ], 
+ [
+  199565, 
+  [
+   2181, 
+   2508, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 199358, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  199565, 
+  [
+   2636, 
+   2852, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 199545, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  199565, 
+  [
+   2908, 
+   3036, 
+   {
+    "quote_id": 199545, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  200464, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 200440, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  200595, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 200583, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  199733, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "beervolcano", 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  199671, 
+  [
+   262, 
+   968, 
+   {}
+  ]
+ ], 
+ [
+  199671, 
+  [
+   1126, 
+   1542, 
+   {}
+  ]
+ ], 
+ [
+  199671, 
+  [
+   1841, 
+   2561, 
+   {}
+  ]
+ ], 
+ [
+  199545, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198465, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  199738, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 199733, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  199358, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198465, 
+    "author": "Wez"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,50 @@
+[
+ [
+  348900, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "daewoo;345813", 
+    "quote_id": 345813, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  345223, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Baron;345145", 
+    "quote_id": 345145, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  345781, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "daewoo;345711", 
+    "quote_id": 345711, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  345813, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Zardoz;345781", 
+    "quote_id": 345781, 
+    "author": "Zardoz"
+   }
+  ]
+ ]
+]

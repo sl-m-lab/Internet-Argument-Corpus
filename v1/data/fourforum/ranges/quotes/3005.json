@@ -1,0 +1,50 @@
+[
+ [
+  64259, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 64250, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  64261, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Siegfriedson", 
+    "quote_id": 64259, 
+    "author": "Siegfriedson"
+   }
+  ]
+ ], 
+ [
+  64245, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 63833, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  64250, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Siegfriedson", 
+    "quote_id": 64245, 
+    "author": "Siegfriedson"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,297 @@
+[
+ [
+  332417, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "marc9000;332401", 
+    "quote_id": 332401, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  332935, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "jyoshu;332894", 
+    "quote_id": 332894, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  332946, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "chester;332935", 
+    "quote_id": 332935, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  332307, 
+  [
+   0, 
+   619, 
+   {
+    "raw_data": "simone;332291", 
+    "quote_id": 332291, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333983, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "isly ilwott;333941", 
+    "quote_id": 333941, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  333983, 
+  [
+   1821, 
+   2325, 
+   {
+    "quote_id": 333941, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  333983, 
+  [
+   2638, 
+   3042, 
+   {
+    "quote_id": 333941, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  333983, 
+  [
+   3938, 
+   4541, 
+   {
+    "quote_id": 333941, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  333983, 
+  [
+   5860, 
+   6212, 
+   {}
+  ]
+ ], 
+ [
+  332846, 
+  [
+   0, 
+   101, 
+   {}
+  ]
+ ], 
+ [
+  332975, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "jyoshu;332946", 
+    "quote_id": 332946, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  332990, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Jo Bennett;332975", 
+    "quote_id": 332975, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  332484, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "marc9000;332401", 
+    "quote_id": 332401, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  332486, 
+  [
+   35, 
+   1662, 
+   {}
+  ]
+ ], 
+ [
+  332894, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "simone;332889", 
+    "quote_id": 332889, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332257, 
+  [
+   60, 
+   904, 
+   {}
+  ]
+ ], 
+ [
+  332268, 
+  [
+   36, 
+   184, 
+   {}
+  ]
+ ], 
+ [
+  332526, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "trebor;332417", 
+    "quote_id": 332417, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  332526, 
+  [
+   413, 
+   789, 
+   {}
+  ]
+ ], 
+ [
+  332527, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "simone;332484", 
+    "quote_id": 332484, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332401, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "simone;332291", 
+    "quote_id": 332291, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332401, 
+  [
+   410, 
+   531, 
+   {
+    "quote_id": 332291, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332401, 
+  [
+   618, 
+   932, 
+   {
+    "quote_id": 332291, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  332530, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "simone;332486", 
+    "quote_id": 332486, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333941, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "simone;332889", 
+    "quote_id": 332889, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333941, 
+  [
+   290, 
+   346, 
+   {
+    "raw_data": "Jo Bennett;332975", 
+    "quote_id": 332975, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333941, 
+  [
+   352, 
+   406, 
+   {
+    "raw_data": "chester;332990", 
+    "quote_id": 332990, 
+    "author": "chester"
+   }
+  ]
+ ]
+]

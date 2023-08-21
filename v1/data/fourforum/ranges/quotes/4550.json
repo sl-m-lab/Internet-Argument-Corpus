@@ -1,0 +1,38 @@
+[
+ [
+  98673, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 98655, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  98770, 
+  [
+   0, 
+   939, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 98673, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  98655, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 98501, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

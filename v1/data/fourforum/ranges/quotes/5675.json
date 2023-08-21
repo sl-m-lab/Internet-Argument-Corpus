@@ -1,0 +1,422 @@
+[
+ [
+  137993, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137916, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137993, 
+  [
+   682, 
+   1008, 
+   {
+    "quote_id": 137928, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137998, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Batman", 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  138001, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 137993, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  137923, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137917, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137620, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137618, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  138019, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 137961, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  137894, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137686, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  138032, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 138001, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  138032, 
+  [
+   158, 
+   460, 
+   {
+    "quote_id": 138019, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  138035, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 138032, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  138035, 
+  [
+   196, 
+   262, 
+   {
+    "quote_id": 138032, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  137916, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 137894, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  137917, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 137911, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  137917, 
+  [
+   535, 
+   629, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 137911, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  137795, 
+  [
+   0, 
+   830, 
+   {}
+  ]
+ ], 
+ [
+  137668, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 137620, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  137928, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 137923, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  137673, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 137669, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  137803, 
+  [
+   0, 
+   703, 
+   {}
+  ]
+ ], 
+ [
+  137676, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 137673, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  137806, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137801, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137686, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 137676, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  137816, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137686, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137945, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 137938, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  137947, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 137945, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  137820, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 137816, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  137950, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 137947, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  137956, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 137950, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  137801, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 137795, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  137961, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137956, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137961, 
+  [
+   137, 
+   207, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 137956, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  137965, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 137950, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  137967, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 137965, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  137977, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Batman", 
+    "quote_id": 137967, 
+    "author": "Batman"
+   }
+  ]
+ ], 
+ [
+  137981, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 137977, 
+    "author": "Big Orn"
+   }
+  ]
+ ]
+]

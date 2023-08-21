@@ -1,0 +1,677 @@
+[
+ [
+  80136, 
+  [
+   0, 
+   960, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  80224, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 80136, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80224, 
+  [
+   851, 
+   1203, 
+   {
+    "raw_data": "haulingbaoat", 
+    "quote_id": 80136, 
+    "unknown_author": "haulingbaoat", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80224, 
+  [
+   1669, 
+   2527, 
+   {
+    "raw_data": "hauling", 
+    "quote_id": 80136, 
+    "unknown_author": "hauling", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80224, 
+  [
+   2692, 
+   2866, 
+   {
+    "raw_data": "haulingboat", 
+    "quote_id": 80136, 
+    "unknown_author": "haulingboat", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  79123, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79042, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79123, 
+  [
+   820, 
+   1186, 
+   {
+    "quote_id": 79042, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79123, 
+  [
+   2084, 
+   2457, 
+   {
+    "quote_id": 79042, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79123, 
+  [
+   2678, 
+   3063, 
+   {
+    "quote_id": 79042, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79123, 
+  [
+   3359, 
+   3476, 
+   {
+    "quote_id": 79042, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79982, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 79946, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  80030, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 80019, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  79007, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 78931, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  80045, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 80037, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  79023, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 79007, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  80110, 
+  [
+   0, 
+   1219, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79031, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79023, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79033, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 79031, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  80062, 
+  [
+   0, 
+   462, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 80045, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79041, 
+  [
+   0, 
+   788, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79005, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79042, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 79041, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79042, 
+  [
+   1328, 
+   2160, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 79041, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79430, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 79123, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79430, 
+  [
+   605, 
+   1317, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 79123, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79430, 
+  [
+   1857, 
+   2029, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 79123, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79430, 
+  [
+   2233, 
+   2444, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 79123, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79430, 
+  [
+   2816, 
+   3812, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79946, 
+  [
+   0, 
+   659, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79854, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  80119, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "hauling", 
+    "unknown_author": "hauling"
+   }
+  ]
+ ], 
+ [
+  80119, 
+  [
+   346, 
+   944, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 80110, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  78928, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 78919, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  80465, 
+  [
+   0, 
+   515, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 80255, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  80356, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 80255, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  80356, 
+  [
+   486, 
+   654, 
+   {
+    "quote_id": 80255, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  79198, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 79030, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  80096, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 80062, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80096, 
+  [
+   472, 
+   919, 
+   {
+    "raw_data": "hauling", 
+    "quote_id": 80062, 
+    "unknown_author": "hauling", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80096, 
+  [
+   1126, 
+   1601, 
+   {
+    "raw_data": "hauling", 
+    "quote_id": 80062, 
+    "unknown_author": "hauling", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80096, 
+  [
+   1812, 
+   1931, 
+   {
+    "raw_data": "hauling", 
+    "quote_id": 80062, 
+    "unknown_author": "hauling", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  80354, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 80037, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  79204, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "jitobear", 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  80105, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 80090, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  80366, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 80354, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  80366, 
+  [
+   419, 
+   843, 
+   {}
+  ]
+ ], 
+ [
+  80372, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 80366, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  79854, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 79845, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  79729, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "jitobear", 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  80019, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79982, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  78964, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 78928, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  79733, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 79198, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  79734, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79430, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79735, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 79733, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  79737, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 79734, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  79738, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 79735, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  79227, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "jitobear", 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  79742, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 79738, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  79742, 
+  [
+   1036, 
+   1233, 
+   {
+    "raw_data": "famous", 
+    "quote_id": 79738, 
+    "unknown_author": "famous", 
+    "author": "Famous Amos"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,444 @@
+[
+ [
+  309504, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Phyllis;309487", 
+    "quote_id": 309487, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309508, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "electrolyte;309504", 
+    "quote_id": 309504, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309511, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "Archangel;309508", 
+    "quote_id": 309508, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309511, 
+  [
+   564, 
+   818, 
+   {
+    "raw_data": "Archangel;309508", 
+    "quote_id": 309508, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309773, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "chloe;309705", 
+    "quote_id": 309705, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  309542, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "electrolyte;309511", 
+    "quote_id": 309511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309542, 
+  [
+   268, 
+   5650, 
+   {
+    "raw_data": "chloe", 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  309545, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "electrolyte;309511", 
+    "quote_id": 309511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309545, 
+  [
+   905, 
+   1442, 
+   {
+    "quote_id": 309511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309805, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Colonel Ingus;309773", 
+    "quote_id": 309773, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  309561, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Phyllis;309487", 
+    "quote_id": 309487, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309562, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "sinjin;309561", 
+    "quote_id": 309561, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309562, 
+  [
+   365, 
+   493, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 309561, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309820, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "chloe;309805", 
+    "quote_id": 309805, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  309567, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Phyllis;309562", 
+    "quote_id": 309562, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309569, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "sinjin;309567", 
+    "quote_id": 309567, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309576, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Phyllis;309569", 
+    "quote_id": 309569, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309705, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "electrolyte;309622", 
+    "quote_id": 309622, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309584, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "sinjin;309576", 
+    "quote_id": 309576, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309584, 
+  [
+   331, 
+   449, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 309576, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309584, 
+  [
+   663, 
+   707, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 309576, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309584, 
+  [
+   1483, 
+   1563, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 309576, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  309715, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "chloe;309705", 
+    "quote_id": 309705, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  309850, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "chloe;309805", 
+    "quote_id": 309805, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  309858, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "electrolyte;309850", 
+    "quote_id": 309850, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309605, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Phyllis;309542", 
+    "quote_id": 309542, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   191, 
+   474, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   677, 
+   843, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   1084, 
+   1230, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   1314, 
+   1464, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   1667, 
+   1757, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309611, 
+  [
+   1842, 
+   2007, 
+   {
+    "raw_data": "Archangel;309545", 
+    "quote_id": 309545, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309618, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "electrolyte;309605", 
+    "quote_id": 309605, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309621, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Phyllis;309618", 
+    "quote_id": 309618, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  309622, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "electrolyte;309605", 
+    "quote_id": 309605, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  309622, 
+  [
+   187, 
+   439, 
+   {
+    "raw_data": "Phyllis;309618", 
+    "quote_id": 309618, 
+    "author": "Phyllis"
+   }
+  ]
+ ]
+]

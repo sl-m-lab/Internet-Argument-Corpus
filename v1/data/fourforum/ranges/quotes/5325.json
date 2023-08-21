@@ -1,0 +1,38 @@
+[
+ [
+  125890, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 125771, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  126102, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 126098, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  125946, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Hunter", 
+    "quote_id": 125890, 
+    "author": "Hunter"
+   }
+  ]
+ ]
+]

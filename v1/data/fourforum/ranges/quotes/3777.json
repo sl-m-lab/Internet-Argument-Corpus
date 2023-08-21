@@ -1,0 +1,61 @@
+[
+ [
+  78434, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "billsco", 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  78669, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 78649, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  78649, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 78434, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  78429, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 78418, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  78719, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 78649, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

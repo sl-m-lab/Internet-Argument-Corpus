@@ -1,0 +1,825 @@
+[
+ [
+  413056, 
+  [
+   368, 
+   1710, 
+   {}
+  ]
+ ], 
+ [
+  413443, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "fartingle;413369", 
+    "quote_id": 413369, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413445, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "fartingle;413386", 
+    "quote_id": 413386, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413063, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Ripskar;413056", 
+    "quote_id": 413056, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  413962, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Freedom;413959", 
+    "quote_id": 413959, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  413911, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "fartingle;413908", 
+    "quote_id": 413908, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413967, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413967, 
+  [
+   210, 
+   653, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413967, 
+  [
+   669, 
+   841, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413967, 
+  [
+   945, 
+   1273, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413967, 
+  [
+   1426, 
+   1501, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413967, 
+  [
+   1573, 
+   1795, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413844, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Bennedict;413804", 
+    "quote_id": 413804, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413974, 
+  [
+   0, 
+   651, 
+   {
+    "raw_data": "Freedom;413967", 
+    "quote_id": 413967, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  413977, 
+  [
+   0, 
+   947, 
+   {
+    "raw_data": "Bennedict;413974", 
+    "quote_id": 413974, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413850, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Freedom;413844", 
+    "quote_id": 413844, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  413599, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "fartingle;413582", 
+    "quote_id": 413582, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413599, 
+  [
+   285, 
+   344, 
+   {
+    "quote_id": 413582, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413986, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Bennedict;413983", 
+    "quote_id": 413983, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413868, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "dcraw5566;413859", 
+    "quote_id": 413859, 
+    "author": "dcraw5566"
+   }
+  ]
+ ], 
+ [
+  413487, 
+  [
+   0, 
+   2773, 
+   {
+    "raw_data": "pandion;413443", 
+    "quote_id": 413443, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  413488, 
+  [
+   0, 
+   1066, 
+   {
+    "raw_data": "pandion;413445", 
+    "quote_id": 413445, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  413368, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Bennedict;413063", 
+    "quote_id": 413063, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413369, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "pandion;413133", 
+    "quote_id": 413133, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  413370, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "fartingle;413368", 
+    "quote_id": 413368, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413983, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Freedom;413977", 
+    "quote_id": 413977, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  414026, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Freedom;413959", 
+    "quote_id": 413959, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  413509, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "fartingle;413487", 
+    "quote_id": 413487, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414151, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Freedom;414075", 
+    "quote_id": 414075, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  413384, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Bennedict;413370", 
+    "quote_id": 413370, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413386, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "snakespit;413376", 
+    "quote_id": 413376, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  414027, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "Bennedict;413962", 
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414027, 
+  [
+   564, 
+   736, 
+   {
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414027, 
+  [
+   780, 
+   1110, 
+   {
+    "quote_id": 413962, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414028, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Bennedict;413983", 
+    "quote_id": 413983, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414030, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Bennedict;413930", 
+    "quote_id": 413930, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414031, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "fartingle;414028", 
+    "quote_id": 414028, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413923, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Bennedict;413911", 
+    "quote_id": 413911, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413923, 
+  [
+   737, 
+   993, 
+   {
+    "quote_id": 413911, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413923, 
+  [
+   1286, 
+   1533, 
+   {
+    "quote_id": 413911, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413908, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Bennedict;413804", 
+    "quote_id": 413804, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413582, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "pandion;413509", 
+    "quote_id": 413509, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  413910, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "dcraw5566;413859", 
+    "quote_id": 413859, 
+    "author": "dcraw5566"
+   }
+  ]
+ ], 
+ [
+  413910, 
+  [
+   482, 
+   830, 
+   {
+    "quote_id": 413859, 
+    "author": "dcraw5566"
+   }
+  ]
+ ], 
+ [
+  413910, 
+  [
+   941, 
+   1159, 
+   {
+    "quote_id": 413859, 
+    "author": "dcraw5566"
+   }
+  ]
+ ], 
+ [
+  413527, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "fartingle;413488", 
+    "quote_id": 413488, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414169, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "fartingle;414151", 
+    "quote_id": 414151, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414043, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Bennedict;414031", 
+    "quote_id": 414031, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414043, 
+  [
+   275, 
+   476, 
+   {
+    "quote_id": 414031, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414043, 
+  [
+   534, 
+   964, 
+   {
+    "quote_id": 414031, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413959, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Bennedict;413911", 
+    "quote_id": 413911, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413959, 
+  [
+   303, 
+   559, 
+   {
+    "raw_data": "Bennedict;413911", 
+    "quote_id": 413911, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413959, 
+  [
+   582, 
+   806, 
+   {
+    "raw_data": "fartingle;413923", 
+    "quote_id": 413923, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413959, 
+  [
+   812, 
+   870, 
+   {
+    "raw_data": "Bennedict;413930", 
+    "quote_id": 413930, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413795, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "pandion;413599", 
+    "quote_id": 413599, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  413795, 
+  [
+   110, 
+   507, 
+   {
+    "quote_id": 413599, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  413795, 
+  [
+   783, 
+   1133, 
+   {
+    "quote_id": 413599, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  414087, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Bennedict;414078", 
+    "quote_id": 414078, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  413930, 
+  [
+   0, 
+   785, 
+   {
+    "raw_data": "fartingle;413923", 
+    "quote_id": 413923, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413933, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Bennedict;413930", 
+    "quote_id": 413930, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  414062, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "fartingle;414043", 
+    "quote_id": 414043, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  413552, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Ripskar;413056", 
+    "quote_id": 413056, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  413945, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "trebor;413933", 
+    "quote_id": 413933, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  414075, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "fartingle;414026", 
+    "quote_id": 414026, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414075, 
+  [
+   195, 
+   249, 
+   {
+    "raw_data": "fartingle;414026", 
+    "quote_id": 414026, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414075, 
+  [
+   310, 
+   348, 
+   {
+    "raw_data": "fartingle;414026", 
+    "quote_id": 414026, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414075, 
+  [
+   414, 
+   522, 
+   {
+    "raw_data": "fartingle;414026", 
+    "quote_id": 414026, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414076, 
+  [
+   0, 
+   101, 
+   {
+    "quote_id": 413910, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414076, 
+  [
+   449, 
+   593, 
+   {
+    "quote_id": 413910, 
+    "author": "fartingle"
+   }
+  ]
+ ], 
+ [
+  414078, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Freedom;414075", 
+    "quote_id": 414075, 
+    "author": "Freedom"
+   }
+  ]
+ ]
+]

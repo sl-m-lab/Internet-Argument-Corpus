@@ -1,0 +1,733 @@
+[
+ [
+  247555, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "daewoo;247478", 
+    "quote_id": 247478, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208388, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 208219, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  247638, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "daewoo;247617", 
+    "quote_id": 247617, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208518, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208513, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208525, 
+  [
+   0, 
+   1395, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208518, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208526, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208525, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208528, 
+  [
+   0, 
+   715, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208526, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208913, 
+  [
+   0, 
+   597, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 208893, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  247572, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Steeeeve;247556", 
+    "quote_id": 247556, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  208405, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208403, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208406, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Heads_On_Pikes", 
+    "quote_id": 208388, 
+    "author": "Heads_On_Pikes"
+   }
+  ]
+ ], 
+ [
+  247556, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "daewoo;247536", 
+    "quote_id": 247536, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  247440, 
+  [
+   0, 
+   979, 
+   {
+    "raw_data": "Missouri Mule;247431", 
+    "quote_id": 247431, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208926, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 208913, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  208929, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 208926, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  247458, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "gamehuis;247440", 
+    "quote_id": 247440, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  247601, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Dono;247572", 
+    "quote_id": 247572, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  208743, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208727, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208743, 
+  [
+   339, 
+   810, 
+   {}
+  ]
+ ], 
+ [
+  208684, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "Scactha", 
+    "quote_id": 208656, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  208430, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Heads_On_Pikes", 
+    "quote_id": 208388, 
+    "author": "Heads_On_Pikes"
+   }
+  ]
+ ], 
+ [
+  208433, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208403, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  247509, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Missouri Mule;247494", 
+    "unknown_quote_id": 247494, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208627, 
+  [
+   0, 
+   719, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208614, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  247478, 
+  [
+   0, 
+   979, 
+   {
+    "raw_data": "Missouri Mule;247431", 
+    "quote_id": 247431, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208571, 
+  [
+   0, 
+   448, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208526, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  247487, 
+  [
+   0, 
+   780, 
+   {
+    "raw_data": "daewoo;247478", 
+    "quote_id": 247478, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  247617, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Steeeeve;247601", 
+    "quote_id": 247601, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  247490, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Missouri Mule;247487", 
+    "quote_id": 247487, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  247536, 
+  [
+   0, 
+   819, 
+   {
+    "raw_data": "Missouri Mule;247525", 
+    "quote_id": 247525, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208580, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208531, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  247670, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Steeeeve;247638", 
+    "quote_id": 247638, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  208883, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 208856, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  208844, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208684, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208593, 
+  [
+   0, 
+   1598, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208468, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208405, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208469, 
+  [
+   12, 
+   424, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 208433, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  208854, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 208784, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  208727, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208725, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208856, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208854, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208219, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 208140, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  247525, 
+  [
+   0, 
+   597, 
+   {
+    "raw_data": "daewoo;247509", 
+    "quote_id": 247509, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208614, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 208571, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  208487, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208468, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208487, 
+  [
+   777, 
+   1030, 
+   {
+    "quote_id": 208468, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208487, 
+  [
+   1189, 
+   1484, 
+   {
+    "quote_id": 208468, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208616, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 208580, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  208616, 
+  [
+   501, 
+   1320, 
+   {
+    "quote_id": 208580, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  208491, 
+  [
+   0, 
+   1275, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208893, 
+  [
+   0, 
+   1052, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208752, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208684, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208531, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208528, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208531, 
+  [
+   601, 
+   768, 
+   {
+    "quote_id": 208528, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208531, 
+  [
+   1126, 
+   1835, 
+   {
+    "quote_id": 208528, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  247619, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Dono;247572", 
+    "quote_id": 247572, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  247542, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "daewoo;247536", 
+    "quote_id": 247536, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  208632, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 208627, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  208505, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208491, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208635, 
+  [
+   0, 
+   548, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208892, 
+  [
+   0, 
+   765, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 208890, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  208765, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208684, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  208725, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 208684, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ]
+]

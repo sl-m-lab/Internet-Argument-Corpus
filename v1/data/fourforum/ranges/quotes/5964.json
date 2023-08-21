@@ -1,0 +1,588 @@
+[
+ [
+  148096, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148093, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  148230, 
+  [
+   0, 
+   1166, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148212, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  147848, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147857, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  148253, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148214, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  148272, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148214, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  148272, 
+  [
+   800, 
+   897, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148214, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  148006, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 147923, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148006, 
+  [
+   151, 
+   544, 
+   {
+    "quote_id": 147923, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148006, 
+  [
+   1397, 
+   1639, 
+   {
+    "quote_id": 147923, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148006, 
+  [
+   1757, 
+   1990, 
+   {
+    "quote_id": 147923, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148006, 
+  [
+   2304, 
+   2585, 
+   {
+    "quote_id": 147923, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148006, 
+  [
+   2764, 
+   2889, 
+   {
+    "quote_id": 147923, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   389, 
+   613, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   1111, 
+   1162, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2477, 
+   2538, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2677, 
+   2692, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2718, 
+   2726, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2744, 
+   2749, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2754, 
+   2761, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2766, 
+   2772, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2780, 
+   2804, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   2825, 
+   2930, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   3008, 
+   3057, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   3120, 
+   3174, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   3247, 
+   3340, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147882, 
+  [
+   3411, 
+   3466, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  148011, 
+  [
+   0, 
+   753, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148006, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  148314, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 148313, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  147888, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "ColCletus", 
+    "quote_id": 147624, 
+    "author": "ColCletus"
+   }
+  ]
+ ], 
+ [
+  147888, 
+  [
+   197, 
+   227, 
+   {
+    "quote_id": 147624, 
+    "author": "ColCletus"
+   }
+  ]
+ ], 
+ [
+  147888, 
+  [
+   391, 
+   435, 
+   {
+    "quote_id": 147624, 
+    "author": "ColCletus"
+   }
+  ]
+ ], 
+ [
+  147891, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "GuyWithNoBrain", 
+    "quote_id": 147838, 
+    "author": "GuyWithNoBrain"
+   }
+  ]
+ ], 
+ [
+  147923, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 147888, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  147923, 
+  [
+   1361, 
+   1392, 
+   {
+    "raw_data": "TimTim", 
+    "quote_id": 147888, 
+    "author": "TimTim"
+   }
+  ]
+ ], 
+ [
+  148313, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 148230, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  148315, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 148272, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148315, 
+  [
+   298, 
+   375, 
+   {
+    "quote_id": 148272, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  147680, 
+  [
+   0, 
+   31, 
+   {
+    "quote_id": 147624, 
+    "author": "ColCletus"
+   }
+  ]
+ ], 
+ [
+  147680, 
+  [
+   136, 
+   166, 
+   {
+    "quote_id": 147624, 
+    "author": "ColCletus"
+   }
+  ]
+ ], 
+ [
+  152301, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 152254, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  148212, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 148096, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  148214, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 148186, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  149116, 
+  [
+   0, 
+   3407, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  148093, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 148011, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  148093, 
+  [
+   150, 
+   252, 
+   {
+    "quote_id": 148011, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  148093, 
+  [
+   1050, 
+   1537, 
+   {
+    "quote_id": 148011, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  148093, 
+  [
+   2032, 
+   2171, 
+   {
+    "quote_id": 148011, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  147838, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Demon38", 
+    "quote_id": 147680, 
+    "author": "Demon38"
+   }
+  ]
+ ]
+]

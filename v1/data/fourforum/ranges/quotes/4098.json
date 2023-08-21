@@ -1,0 +1,49 @@
+[
+ [
+  86849, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "joebrummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  87155, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 86849, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  87166, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 87155, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  86847, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 86789, 
+    "author": "billsco"
+   }
+  ]
+ ]
+]

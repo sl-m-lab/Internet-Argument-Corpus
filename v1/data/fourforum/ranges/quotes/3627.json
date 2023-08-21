@@ -1,0 +1,608 @@
+[
+ [
+  75266, 
+  [
+   0, 
+   112, 
+   {
+    "quote_id": 75245, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75909, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75906, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75884, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75882, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75906, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75899, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75545, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 75378, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  75588, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 75581, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75933, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Machalban", 
+    "quote_id": 75909, 
+    "author": "Machalban"
+   }
+  ]
+ ], 
+ [
+  75681, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75545, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  76195, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 76108, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76359, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  75313, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75899, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 75882, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  75320, 
+  [
+   110, 
+   139, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75320, 
+  [
+   1701, 
+   1730, 
+   {
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75320, 
+  [
+   1840, 
+   1908, 
+   {
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75320, 
+  [
+   1964, 
+   2060, 
+   {
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  76010, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75933, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75579, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 75245, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75581, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 75579, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  75587, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75587, 
+  [
+   230, 
+   305, 
+   {
+    "raw_data": "Joe Brummer", 
+    "quote_id": 75313, 
+    "unknown_author": "Joe Brummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75587, 
+  [
+   603, 
+   614, 
+   {
+    "raw_data": "Joe Brummer", 
+    "quote_id": 75313, 
+    "unknown_author": "Joe Brummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75587, 
+  [
+   719, 
+   856, 
+   {
+    "raw_data": "Joe Brummer", 
+    "unknown_author": "Joe Brummer"
+   }
+  ]
+ ], 
+ [
+  75587, 
+  [
+   904, 
+   983, 
+   {
+    "raw_data": "Joe Brummer", 
+    "quote_id": 75313, 
+    "unknown_author": "Joe Brummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75332, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75589, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 75320, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75589, 
+  [
+   142, 
+   171, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75589, 
+  [
+   175, 
+   575, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 75320, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75589, 
+  [
+   667, 
+   939, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 75320, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75589, 
+  [
+   996, 
+   1391, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 75320, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75589, 
+  [
+   1429, 
+   1911, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  76362, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 76359, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76108, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 76010, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  75986, 
+  [
+   0, 
+   786, 
+   {
+    "raw_data": "badax22", 
+    "quote_id": 75975, 
+    "author": "badax22"
+   }
+  ]
+ ], 
+ [
+  75875, 
+  [
+   0, 
+   1856, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75482, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 75387, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75363, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75363, 
+  [
+   279, 
+   375, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 75266, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  75238, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "badax22", 
+    "quote_id": 75231, 
+    "author": "badax22"
+   }
+  ]
+ ], 
+ [
+  76009, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "stormboy", 
+    "quote_id": 75986, 
+    "author": "stormboy"
+   }
+  ]
+ ], 
+ [
+  75882, 
+  [
+   0, 
+   1939, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 75837, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  75244, 
+  [
+   0, 
+   728, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 75238, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75245, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "badax22", 
+    "quote_id": 75244, 
+    "author": "badax22"
+   }
+  ]
+ ], 
+ [
+  75837, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 75581, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75378, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75360, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  76387, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 76362, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  75258, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 75245, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  75387, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 75378, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  75516, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 75482, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  75901, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 75884, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  75901, 
+  [
+   196, 
+   243, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 75884, 
+    "author": "Mach"
+   }
+  ]
+ ]
+]

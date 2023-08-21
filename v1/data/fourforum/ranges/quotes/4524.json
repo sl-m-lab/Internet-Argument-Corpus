@@ -1,0 +1,116 @@
+[
+ [
+  97604, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 97602, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  98402, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 98150, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  98402, 
+  [
+   1238, 
+   2648, 
+   {}
+  ]
+ ], 
+ [
+  98150, 
+  [
+   0, 
+   897, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 97966, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  97966, 
+  [
+   0, 
+   1280, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 97775, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  97775, 
+  [
+   0, 
+   938, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  97781, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 97598, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  97781, 
+  [
+   153, 
+   865, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 97598, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  98392, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "greg 79 f150", 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  97948, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 97666, 
+    "author": "pandion"
+   }
+  ]
+ ]
+]

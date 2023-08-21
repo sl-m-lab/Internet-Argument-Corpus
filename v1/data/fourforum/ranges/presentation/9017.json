@@ -1,0 +1,54 @@
+[
+ [
+  234282, 
+  [
+   596, 
+   829, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  234282, 
+  [
+   596, 
+   829, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  234282, 
+  [
+   596, 
+   829, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  234289, 
+  [
+   67, 
+   71, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  234289, 
+  [
+   267, 
+   273, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

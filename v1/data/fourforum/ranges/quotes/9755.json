@@ -1,0 +1,58 @@
+[
+ [
+  258946, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Winston Smith;258886", 
+    "quote_id": 258886, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  258886, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "obvious_child;258311", 
+    "quote_id": 258311, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  258311, 
+  [
+   0, 
+   974, 
+   {}
+  ]
+ ], 
+ [
+  258899, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Winston Smith;258886", 
+    "quote_id": 258886, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  258869, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "simone;258800", 
+    "quote_id": 258800, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

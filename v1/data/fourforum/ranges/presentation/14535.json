@@ -1,0 +1,76 @@
+[
+ [
+  409555, 
+  [
+   0, 
+   56, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  409555, 
+  [
+   0, 
+   56, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  409555, 
+  [
+   1083, 
+   1116, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  409555, 
+  [
+   1083, 
+   1116, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  409555, 
+  [
+   1329, 
+   1456, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  409555, 
+  [
+   1650, 
+   1664, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  409555, 
+  [
+   1650, 
+   1664, 
+   {
+    "category": "underline"
+   }
+  ]
+ ]
+]

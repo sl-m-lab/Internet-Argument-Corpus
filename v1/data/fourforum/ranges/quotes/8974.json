@@ -1,0 +1,638 @@
+[
+ [
+  233478, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Steeeeve;233409", 
+    "quote_id": 233409, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  233490, 
+  [
+   0, 
+   798, 
+   {
+    "raw_data": "joebrummer;233478", 
+    "quote_id": 233478, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233626, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Matthew S;233490", 
+    "quote_id": 233490, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  233627, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "jyoshu;233505", 
+    "quote_id": 233505, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233505, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "joebrummer;233478", 
+    "quote_id": 233478, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233762, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "joebrummer;233744", 
+    "quote_id": 233744, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233507, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "joebrummer;233478", 
+    "quote_id": 233478, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233507, 
+  [
+   242, 
+   759, 
+   {
+    "quote_id": 233478, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  234277, 
+  [
+   0, 
+   911, 
+   {
+    "raw_data": "jyoshu;234239", 
+    "quote_id": 234239, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234277, 
+  [
+   1408, 
+   1575, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234239, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233767, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "jyoshu;233762", 
+    "quote_id": 233762, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233820, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "jyoshu;233814", 
+    "quote_id": 233814, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233396, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Steeeeve;233317", 
+    "quote_id": 233317, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  234170, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "jyoshu;233842", 
+    "quote_id": 233842, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234170, 
+  [
+   127, 
+   333, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233842, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233790, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "jyoshu;233762", 
+    "quote_id": 233762, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233535, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "jyoshu;233505", 
+    "quote_id": 233505, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233409, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "joebrummer;233396", 
+    "quote_id": 233396, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233795, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "joebrummer;233767", 
+    "quote_id": 233767, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233671, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "joebrummer;233627", 
+    "quote_id": 233627, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233806, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "joebrummer;233767", 
+    "quote_id": 233767, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233810, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "jyoshu;233762", 
+    "quote_id": 233762, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233827, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "jyoshu;233823", 
+    "quote_id": 233823, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233827, 
+  [
+   445, 
+   508, 
+   {
+    "raw_data": "Jyoshu", 
+    "quote_id": 233823, 
+    "unknown_author": "Jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233814, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "foundit66;233810", 
+    "quote_id": 233810, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  233823, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jitobear;233820", 
+    "quote_id": 233820, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  233825, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "jyoshu;233814", 
+    "quote_id": 233814, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233825, 
+  [
+   221, 
+   368, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233814, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233825, 
+  [
+   568, 
+   794, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233814, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233699, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "joebrummer;233627", 
+    "quote_id": 233627, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233828, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "foundit66;233827", 
+    "quote_id": 233827, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  233317, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "joebrummer;233303", 
+    "quote_id": 233303, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  233833, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "jyoshu;233828", 
+    "quote_id": 233828, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233833, 
+  [
+   856, 
+   953, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233828, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233833, 
+  [
+   1006, 
+   1107, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233828, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233707, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Steeeeve;233699", 
+    "quote_id": 233699, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  233836, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "jyoshu;233828", 
+    "quote_id": 233828, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233836, 
+  [
+   317, 
+   353, 
+   {
+    "raw_data": "jyoshu;233828", 
+    "quote_id": 233828, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233836, 
+  [
+   551, 
+   578, 
+   {
+    "raw_data": "jyoshu;233828", 
+    "quote_id": 233828, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233581, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "robbie0517;233564", 
+    "quote_id": 233564, 
+    "author": "robbie0517"
+   }
+  ]
+ ], 
+ [
+  233840, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "jitobear;233836", 
+    "quote_id": 233836, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  233840, 
+  [
+   635, 
+   768, 
+   {
+    "raw_data": "jitobear;233836", 
+    "quote_id": 233836, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  233840, 
+  [
+   1111, 
+   1215, 
+   {
+    "raw_data": "jitobear;233836", 
+    "quote_id": 233836, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  233842, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "foundit66;233833", 
+    "quote_id": 233833, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  233842, 
+  [
+   101, 
+   219, 
+   {
+    "raw_data": "foundit66;233833", 
+    "quote_id": 233833, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  233844, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "jyoshu;233840", 
+    "quote_id": 233840, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233844, 
+  [
+   589, 
+   899, 
+   {
+    "raw_data": "jyoshu;233840", 
+    "quote_id": 233840, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233335, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "joebrummer;233303", 
+    "quote_id": 233303, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  234239, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "foundit66;234170", 
+    "quote_id": 234170, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  234239, 
+  [
+   810, 
+   900, 
+   {
+    "raw_data": "foundit66;234170", 
+    "quote_id": 234170, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  234239, 
+  [
+   1095, 
+   1329, 
+   {
+    "raw_data": "foundit66;234170", 
+    "quote_id": 234170, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  234239, 
+  [
+   1879, 
+   2134, 
+   {
+    "raw_data": "foundit66;234170", 
+    "quote_id": 234170, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  234239, 
+  [
+   2164, 
+   2420, 
+   {
+    "raw_data": "foundit66;234170", 
+    "quote_id": 234170, 
+    "author": "foundit66"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,109 @@
+[
+ [
+  99623, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 99619, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  99624, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99623, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99625, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 99619, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  101549, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 101042, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  101042, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 99624, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  101013, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 99619, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  101081, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Hunter", 
+    "quote_id": 101076, 
+    "author": "Hunter"
+   }
+  ]
+ ], 
+ [
+  101082, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 101042, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  101085, 
+  [
+   0, 
+   465, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,556 @@
+[
+ [
+  222210, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222182, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222213, 
+  [
+   0, 
+   814, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222184, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222213, 
+  [
+   1572, 
+   1788, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222184, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222088, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222032, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222088, 
+  [
+   894, 
+   1063, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222032, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222093, 
+  [
+   0, 
+   2093, 
+   {
+    "raw_data": "Another opinion", 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222233, 
+  [
+   0, 
+   2301, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 222210, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222235, 
+  [
+   0, 
+   112, 
+   {
+    "quote_id": 222184, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222114, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222093, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222114, 
+  [
+   983, 
+   1248, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222093, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222114, 
+  [
+   2602, 
+   2807, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222093, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  221734, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 220572, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  221734, 
+  [
+   142, 
+   291, 
+   {
+    "quote_id": 220630, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  222248, 
+  [
+   0, 
+   476, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222233, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222252, 
+  [
+   0, 
+   2465, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 222248, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  221754, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Ender_Wiggin", 
+    "quote_id": 221746, 
+    "unknown_author": "Ender_Wiggin", 
+    "author": "Ender"
+   }
+  ]
+ ], 
+ [
+  221755, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Ender_Wiggin", 
+    "quote_id": 221746, 
+    "unknown_author": "Ender_Wiggin", 
+    "author": "Ender"
+   }
+  ]
+ ], 
+ [
+  221765, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 221756, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  220614, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "GodIsDead", 
+    "quote_id": 220333, 
+    "author": "GodIsDead"
+   }
+  ]
+ ], 
+ [
+  222153, 
+  [
+   0, 
+   2589, 
+   {
+    "raw_data": "Another opinion", 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222154, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 222078, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222154, 
+  [
+   584, 
+   1202, 
+   {
+    "quote_id": 222078, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  220621, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "GodIsDead", 
+    "quote_id": 220333, 
+    "author": "GodIsDead"
+   }
+  ]
+ ], 
+ [
+  220621, 
+  [
+   134, 
+   226, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 220614, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  222158, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222154, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222158, 
+  [
+   1307, 
+   1656, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222154, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222032, 
+  [
+   0, 
+   1044, 
+   {
+    "raw_data": "Another opinion", 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  220625, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 220621, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  222290, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222252, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222035, 
+  [
+   0, 
+   770, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 221818, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222037, 
+  [
+   0, 
+   826, 
+   {
+    "raw_data": "INRI", 
+    "quote_id": 222033, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  220630, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 220625, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  222172, 
+  [
+   0, 
+   1173, 
+   {}
+  ]
+ ], 
+ [
+  222172, 
+  [
+   1349, 
+   1929, 
+   {
+    "quote_id": 222158, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222176, 
+  [
+   0, 
+   532, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 222153, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  222180, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222172, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222180, 
+  [
+   648, 
+   962, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222172, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222182, 
+  [
+   0, 
+   841, 
+   {
+    "quote_id": 222180, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222184, 
+  [
+   0, 
+   1849, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 222176, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  221803, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 221772, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  221803, 
+  [
+   430, 
+   863, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 221772, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  221811, 
+  [
+   0, 
+   1029, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 221765, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222078, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222035, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  221818, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 221811, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  221820, 
+  [
+   0, 
+   770, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 221818, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  221822, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 221820, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  221822, 
+  [
+   775, 
+   1017, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 221820, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

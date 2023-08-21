@@ -1,0 +1,509 @@
+[
+ [
+  323205, 
+  [
+   15, 
+   19, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323205, 
+  [
+   498, 
+   617, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  323205, 
+  [
+   720, 
+   723, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323205, 
+  [
+   1609, 
+   1614, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  322951, 
+  [
+   1160, 
+   2901, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  322951, 
+  [
+   1160, 
+   2901, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  322951, 
+  [
+   1160, 
+   2901, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  322951, 
+  [
+   1160, 
+   2901, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  323208, 
+  [
+   88, 
+   161, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  323208, 
+  [
+   88, 
+   161, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  323159, 
+  [
+   829, 
+   838, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323212, 
+  [
+   362, 
+   369, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  323212, 
+  [
+   362, 
+   369, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Book Antiqua&quot;"
+   }
+  ]
+ ], 
+ [
+  323212, 
+  [
+   362, 
+   369, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323212, 
+  [
+   362, 
+   491, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  323219, 
+  [
+   339, 
+   356, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  322980, 
+  [
+   571, 
+   849, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  322980, 
+  [
+   504, 
+   849, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  322980, 
+  [
+   504, 
+   849, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  322980, 
+  [
+   504, 
+   849, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Book Antiqua&quot;"
+   }
+  ]
+ ], 
+ [
+  322980, 
+  [
+   504, 
+   849, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  322980, 
+  [
+   504, 
+   849, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  322982, 
+  [
+   260, 
+   538, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  322982, 
+  [
+   193, 
+   538, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  322982, 
+  [
+   193, 
+   538, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  322982, 
+  [
+   193, 
+   538, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Book Antiqua&quot;"
+   }
+  ]
+ ], 
+ [
+  322982, 
+  [
+   193, 
+   538, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  322982, 
+  [
+   193, 
+   538, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  323249, 
+  [
+   179, 
+   186, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  322994, 
+  [
+   585, 
+   880, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  323230, 
+  [
+   487, 
+   502, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  323230, 
+  [
+   487, 
+   502, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  323142, 
+  [
+   504, 
+   510, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  323142, 
+  [
+   543, 
+   568, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  323023, 
+  [
+   676, 
+   700, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323155, 
+  [
+   193, 
+   199, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  323155, 
+  [
+   232, 
+   257, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  323155, 
+  [
+   771, 
+   791, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  323174, 
+  [
+   172, 
+   178, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323186, 
+  [
+   73, 
+   79, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323251, 
+  [
+   90, 
+   97, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323251, 
+  [
+   80, 
+   151, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  322941, 
+  [
+   920, 
+   3238, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  322941, 
+  [
+   920, 
+   3238, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  322941, 
+  [
+   920, 
+   3238, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Georgia&quot;"
+   }
+  ]
+ ], 
+ [
+  322941, 
+  [
+   920, 
+   3238, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  323198, 
+  [
+   241, 
+   245, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323198, 
+  [
+   670, 
+   673, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  323198, 
+  [
+   1195, 
+   1200, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,648 @@
+[
+ [
+  251014, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "TRIGGER;251003", 
+    "quote_id": 251003, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  252045, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "TRIGGER;251790", 
+    "quote_id": 251790, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  252045, 
+  [
+   693, 
+   983, 
+   {
+    "quote_id": 251790, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251790, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "Steeeeve;251709", 
+    "quote_id": 251709, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   0, 
+   617, 
+   {
+    "raw_data": "daewoo;251133", 
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   948, 
+   1445, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   1856, 
+   2484, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   2579, 
+   3589, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   4419, 
+   5310, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   5602, 
+   6342, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   6551, 
+   7574, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   7775, 
+   8172, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251164, 
+  [
+   8245, 
+   9064, 
+   {
+    "quote_id": 251133, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251166, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Waxy;251164", 
+    "quote_id": 251164, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251679, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Waxy;251170", 
+    "quote_id": 251170, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251170, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Master_Shake;251166", 
+    "quote_id": 251166, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  252067, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "Steeeeve;252045", 
+    "quote_id": 252045, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  251172, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Waxy;251170", 
+    "quote_id": 251170, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251046, 
+  [
+   981, 
+   1138, 
+   {}
+  ]
+ ], 
+ [
+  251046, 
+  [
+   1144, 
+   1353, 
+   {}
+  ]
+ ], 
+ [
+  251046, 
+  [
+   1359, 
+   1742, 
+   {}
+  ]
+ ], 
+ [
+  251049, 
+  [
+   0, 
+   2962, 
+   {
+    "raw_data": "daewoo;251046", 
+    "quote_id": 251046, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251058, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "sinjin;251057", 
+    "quote_id": 251057, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  251062, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Waxy;251049", 
+    "quote_id": 251049, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251062, 
+  [
+   637, 
+   986, 
+   {
+    "quote_id": 251049, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251062, 
+  [
+   2622, 
+   2847, 
+   {
+    "quote_id": 251049, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251062, 
+  [
+   3501, 
+   3858, 
+   {
+    "quote_id": 251049, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251063, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Master_Shake;251058", 
+    "quote_id": 251058, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  251709, 
+  [
+   0, 
+   856, 
+   {
+    "raw_data": "TRIGGER;251113", 
+    "quote_id": 251113, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "daewoo;251062", 
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   1230, 
+   1655, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   1901, 
+   2563, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   2962, 
+   3493, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   3781, 
+   4043, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   4696, 
+   5074, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   5342, 
+   5665, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251071, 
+  [
+   6064, 
+   6595, 
+   {
+    "quote_id": 251062, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251075, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "daewoo;251063", 
+    "quote_id": 251063, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251076, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Waxy;251071", 
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251090, 
+  [
+   0, 
+   784, 
+   {
+    "raw_data": "TRIGGER;251087", 
+    "quote_id": 251087, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251098, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Symbiote;250998", 
+    "quote_id": 250998, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  251099, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "TRIGGER;251087", 
+    "quote_id": 251087, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  252893, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "TRIGGER;250981", 
+    "quote_id": 250981, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251113, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Steeeeve;251099", 
+    "quote_id": 251099, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250988, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "TRIGGER;250981", 
+    "quote_id": 250981, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   0, 
+   768, 
+   {
+    "raw_data": "Waxy;251071", 
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   1197, 
+   1422, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   2051, 
+   2414, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   5462, 
+   5740, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   6492, 
+   6844, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   7044, 
+   7330, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   8366, 
+   8624, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  251133, 
+  [
+   9031, 
+   9325, 
+   {
+    "quote_id": 251071, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  250993, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "sinjin;250988", 
+    "quote_id": 250988, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  251000, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "TRIGGER;250981", 
+    "quote_id": 250981, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251005, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "TRIGGER;251003", 
+    "quote_id": 251003, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  251005, 
+  [
+   164, 
+   239, 
+   {
+    "raw_data": "TRIGGER;251003", 
+    "quote_id": 251003, 
+    "author": "TRIGGER"
+   }
+  ]
+ ]
+]

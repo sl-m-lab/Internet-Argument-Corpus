@@ -1,0 +1,402 @@
+[
+ [
+  258564, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "jyoshu;258559", 
+    "quote_id": 258559, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  257674, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "INRI;257653", 
+    "quote_id": 257653, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  258325, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "samiinh;258271", 
+    "quote_id": 258271, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  259358, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "BeHereNow;259322", 
+    "quote_id": 259322, 
+    "author": "BeHereNow"
+   }
+  ]
+ ], 
+ [
+  259358, 
+  [
+   212, 
+   17237, 
+   {}
+  ]
+ ], 
+ [
+  258990, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Winston Smith;258568", 
+    "quote_id": 258568, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  254498, 
+  [
+   0, 
+   2359, 
+   {
+    "raw_data": "ShadowPikachu;254483", 
+    "quote_id": 254483, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254501, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Matthew S;254498", 
+    "quote_id": 254498, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  254502, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "ShadowPikachu;254501", 
+    "quote_id": 254501, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254637, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "ShadowPikachu;254501", 
+    "quote_id": 254501, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254510, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "Matthew S;254502", 
+    "quote_id": 254502, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  254512, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "ShadowPikachu;254510", 
+    "quote_id": 254510, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254642, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Master_Shake;254637", 
+    "quote_id": 254637, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  254643, 
+  [
+   0, 
+   1874, 
+   {
+    "raw_data": "Archangel;254558", 
+    "quote_id": 254558, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  254516, 
+  [
+   0, 
+   2359, 
+   {
+    "raw_data": "ShadowPikachu;254483", 
+    "quote_id": 254483, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254517, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "Matthew S;254498", 
+    "quote_id": 254498, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  254646, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "billsco;254644", 
+    "quote_id": 254644, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  254519, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Archangel;254517", 
+    "quote_id": 254517, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  254523, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Shooterandproud;254519", 
+    "quote_id": 254519, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  254525, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Archangel;254517", 
+    "quote_id": 254517, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  254655, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "ShadowPikachu;254643", 
+    "quote_id": 254643, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254662, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "ShadowPikachu;254550", 
+    "quote_id": 254550, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254536, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Easyrider;254528", 
+    "unknown_quote_id": 254528, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  254550, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "Easyrider;254533", 
+    "unknown_quote_id": 254533, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  254553, 
+  [
+   0, 
+   382, 
+   {
+    "raw_data": "ShadowPikachu;254548", 
+    "unknown_quote_id": 254548, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254683, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "ShadowPikachu;254642", 
+    "quote_id": 254642, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254556, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Archangel;254553", 
+    "quote_id": 254553, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  254558, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "ShadowPikachu;254556", 
+    "quote_id": 254556, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  254687, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "ShadowPikachu;254483", 
+    "quote_id": 254483, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  258271, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "jyoshu;254687", 
+    "quote_id": 254687, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  259322, 
+  [
+   0, 
+   71, 
+   {}
+  ]
+ ], 
+ [
+  257789, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "simone;254727", 
+    "quote_id": 254727, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  258559, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "samiinh;258271", 
+    "quote_id": 258271, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  258559, 
+  [
+   86, 
+   143, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 258325, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,296 @@
+[
+ [
+  376591, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "snakespit;376339", 
+    "quote_id": 376339, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376591, 
+  [
+   257, 
+   4579, 
+   {
+    "raw_data": "Archangel;376336", 
+    "quote_id": 376336, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376336, 
+  [
+   4159, 
+   6320, 
+   {
+    "raw_data": "Archangel;376117", 
+    "quote_id": 376117, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376336, 
+  [
+   6326, 
+   8199, 
+   {
+    "raw_data": "Archangel;376239", 
+    "quote_id": 376239, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376339, 
+  [
+   0, 
+   1201, 
+   {
+    "raw_data": "Archangel;376299", 
+    "quote_id": 376299, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376341, 
+  [
+   0, 
+   764, 
+   {
+    "raw_data": "snakespit;376339", 
+    "quote_id": 376339, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376347, 
+  [
+   0, 
+   1912, 
+   {
+    "raw_data": "Archangel;376341", 
+    "quote_id": 376341, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376358, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "snakespit;376347", 
+    "quote_id": 376347, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376358, 
+  [
+   855, 
+   1134, 
+   {
+    "quote_id": 376347, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376358, 
+  [
+   1663, 
+   1822, 
+   {
+    "quote_id": 376347, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376358, 
+  [
+   2451, 
+   2896, 
+   {
+    "quote_id": 376347, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376512, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "Archangel;376358", 
+    "quote_id": 376358, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376512, 
+  [
+   509, 
+   1395, 
+   {}
+  ]
+ ], 
+ [
+  376512, 
+  [
+   1752, 
+   2371, 
+   {
+    "quote_id": 376358, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376512, 
+  [
+   3253, 
+   3523, 
+   {}
+  ]
+ ], 
+ [
+  376264, 
+  [
+   0, 
+   1416, 
+   {}
+  ]
+ ], 
+ [
+  376273, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "simone;376264", 
+    "quote_id": 376264, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  376661, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Archangel;376591", 
+    "quote_id": 376591, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376661, 
+  [
+   850, 
+   906, 
+   {
+    "quote_id": 376184, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376661, 
+  [
+   910, 
+   973, 
+   {
+    "quote_id": 376283, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376283, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Bassman;376243", 
+    "quote_id": 376243, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  376286, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "simone;376264", 
+    "quote_id": 376264, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  376288, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "simone;376281", 
+    "unknown_quote_id": 376281, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  376294, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "Archangel;376283", 
+    "quote_id": 376283, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  376297, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "snakespit;376294", 
+    "quote_id": 376294, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  376299, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "snakespit;376294", 
+    "quote_id": 376294, 
+    "author": "snakespit"
+   }
+  ]
+ ]
+]

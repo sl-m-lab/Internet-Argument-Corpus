@@ -1,0 +1,1731 @@
+[
+ [
+  187394, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187358, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187394, 
+  [
+   1174, 
+   1218, 
+   {
+    "quote_id": 187358, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187394, 
+  [
+   1247, 
+   1313, 
+   {
+    "quote_id": 187358, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187396, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187394, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187396, 
+  [
+   54, 
+   739, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187394, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187396, 
+  [
+   766, 
+   1206, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187394, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187398, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187399, 
+  [
+   0, 
+   791, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187398, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  188424, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 188226, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187401, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187399, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  187402, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187401, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187409, 
+  [
+   0, 
+   515, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187398, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187416, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 187409, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  187416, 
+  [
+   495, 
+   762, 
+   {
+    "quote_id": 187409, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  187416, 
+  [
+   1102, 
+   1227, 
+   {
+    "quote_id": 187409, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  188445, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 188424, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  188445, 
+  [
+   876, 
+   1060, 
+   {
+    "quote_id": 188424, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  188445, 
+  [
+   1429, 
+   1675, 
+   {
+    "quote_id": 188424, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187461, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187373, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187461, 
+  [
+   393, 
+   497, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187373, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187462, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187398, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187580, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 187577, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  187157, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187157, 
+  [
+   344, 
+   524, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187157, 
+  [
+   763, 
+   920, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187135, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187009, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 186998, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187011, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187009, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187011, 
+  [
+   373, 
+   451, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187009, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187011, 
+  [
+   581, 
+   748, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187009, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187020, 
+  [
+   0, 
+   614, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187009, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187533, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187461, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187533, 
+  [
+   643, 
+   756, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187461, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187534, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187462, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187023, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187011, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187024, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187020, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  188440, 
+  [
+   0, 
+   672, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 188424, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187027, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187023, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187029, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187024, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187033, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187029, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187036, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187024, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187037, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 187034, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  187040, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187036, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  187044, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187033, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187045, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187024, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187045, 
+  [
+   672, 
+   847, 
+   {
+    "quote_id": 187024, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187045, 
+  [
+   1107, 
+   1219, 
+   {
+    "quote_id": 187024, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187047, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187040, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187049, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187040, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187056, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187044, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187056, 
+  [
+   119, 
+   248, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187044, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187056, 
+  [
+   388, 
+   765, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187044, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187059, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187049, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  187061, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187059, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187062, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187056, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187062, 
+  [
+   226, 
+   358, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187056, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187062, 
+  [
+   453, 
+   633, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187056, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187062, 
+  [
+   763, 
+   969, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187056, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187081, 
+  [
+   0, 
+   1065, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187077, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187068, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 187047, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  187070, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187062, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187070, 
+  [
+   248, 
+   301, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187062, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187070, 
+  [
+   386, 
+   506, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187062, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187070, 
+  [
+   782, 
+   985, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187062, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187073, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187070, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187073, 
+  [
+   335, 
+   446, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187070, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187588, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187533, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187077, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187073, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187077, 
+  [
+   1226, 
+   1505, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187073, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187592, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 187577, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  187592, 
+  [
+   389, 
+   482, 
+   {
+    "raw_data": "Trebor", 
+    "unknown_author": "Trebor"
+   }
+  ]
+ ], 
+ [
+  187593, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187588, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187085, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187081, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187683, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187659, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187683, 
+  [
+   314, 
+   364, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187659, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187683, 
+  [
+   499, 
+   817, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187659, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187605, 
+  [
+   0, 
+   808, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187588, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187096, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187085, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187103, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187096, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187103, 
+  [
+   260, 
+   382, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187096, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187103, 
+  [
+   476, 
+   643, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187096, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187104, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187085, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187105, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187104, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187107, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187103, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187625, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 187622, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  187116, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187068, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187135, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187107, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187135, 
+  [
+   295, 
+   488, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187107, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187142, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187105, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187659, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187593, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187660, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 187622, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  187660, 
+  [
+   26, 
+   137, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187625, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  187150, 
+  [
+   0, 
+   514, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187142, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187669, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187159, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187142, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187675, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187669, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  187166, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187150, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187166, 
+  [
+   916, 
+   1002, 
+   {
+    "quote_id": 187150, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187166, 
+  [
+   1590, 
+   1950, 
+   {
+    "quote_id": 187150, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187167, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187157, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187167, 
+  [
+   337, 
+   568, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187157, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187168, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187159, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187170, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187166, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187170, 
+  [
+   643, 
+   1031, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187166, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187171, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187167, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187171, 
+  [
+   228, 
+   544, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187167, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187703, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 187669, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  187705, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187683, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187705, 
+  [
+   385, 
+   511, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187683, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187705, 
+  [
+   683, 
+   941, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187683, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187705, 
+  [
+   1612, 
+   2038, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187683, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  188223, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 187556, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  188223, 
+  [
+   466, 
+   787, 
+   {
+    "quote_id": 187556, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  188226, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187703, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187221, 
+  [
+   0, 
+   767, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187271, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "Diogenes99", 
+    "quote_id": 187221, 
+    "author": "Diogenes99"
+   }
+  ]
+ ], 
+ [
+  187790, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187705, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187790, 
+  [
+   544, 
+   764, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187705, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187790, 
+  [
+   1115, 
+   1401, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187705, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187805, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187703, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187316, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187168, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187326, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187316, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187329, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187326, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187336, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187329, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187336, 
+  [
+   499, 
+   834, 
+   {
+    "quote_id": 187329, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187336, 
+  [
+   1597, 
+   1669, 
+   {
+    "quote_id": 187329, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187336, 
+  [
+   1753, 
+   1952, 
+   {
+    "quote_id": 187329, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187336, 
+  [
+   2207, 
+   2391, 
+   {
+    "quote_id": 187329, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187336, 
+  [
+   2682, 
+   2807, 
+   {
+    "quote_id": 187329, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187341, 
+  [
+   0, 
+   755, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187336, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187341, 
+  [
+   922, 
+   1169, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187336, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187341, 
+  [
+   1726, 
+   2065, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187336, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187344, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187351, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187351, 
+  [
+   613, 
+   732, 
+   {
+    "quote_id": 187341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187351, 
+  [
+   1058, 
+   1220, 
+   {
+    "quote_id": 187341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187351, 
+  [
+   1570, 
+   1834, 
+   {
+    "quote_id": 187341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187351, 
+  [
+   2267, 
+   2563, 
+   {
+    "quote_id": 187341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187352, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187344, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187556, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187416, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187358, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187351, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187358, 
+  [
+   541, 
+   694, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187351, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187360, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187352, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187364, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Strel", 
+    "quote_id": 187336, 
+    "author": "Strel"
+   }
+  ]
+ ], 
+ [
+  187365, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187360, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  187366, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 187365, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  187373, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 187366, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

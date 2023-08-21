@@ -1,0 +1,361 @@
+[
+ [
+  250261, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Steeeeve;250169", 
+    "quote_id": 250169, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250261, 
+  [
+   265, 
+   361, 
+   {}
+  ]
+ ], 
+ [
+  250261, 
+  [
+   367, 
+   507, 
+   {}
+  ]
+ ], 
+ [
+  250261, 
+  [
+   616, 
+   1083, 
+   {
+    "quote_id": 250169, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250264, 
+  [
+   0, 
+   1027, 
+   {
+    "raw_data": "E Mutz;250186", 
+    "quote_id": 250186, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  250268, 
+  [
+   0, 
+   97, 
+   {
+    "quote_id": 250261, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  250270, 
+  [
+   0, 
+   799, 
+   {
+    "raw_data": "Daewoo", 
+    "quote_id": 250264, 
+    "unknown_author": "Daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  250147, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "daewoo;249439", 
+    "quote_id": 249439, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  250159, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "grammy;250147", 
+    "quote_id": 250147, 
+    "author": "grammy"
+   }
+  ]
+ ], 
+ [
+  250159, 
+  [
+   378, 
+   1153, 
+   {
+    "quote_id": 250147, 
+    "author": "grammy"
+   }
+  ]
+ ], 
+ [
+  250168, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "obvious_child;249706", 
+    "quote_id": 249706, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250169, 
+  [
+   0, 
+   2463, 
+   {
+    "raw_data": "daewoo;250159", 
+    "quote_id": 250159, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  250172, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Steeeeve;250169", 
+    "quote_id": 250169, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  249661, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "obvious_child;249532", 
+    "quote_id": 249532, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  249781, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "obvious_child;249706", 
+    "quote_id": 249706, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250306, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Steeeeve;250168", 
+    "quote_id": 250168, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250306, 
+  [
+   208, 
+   461, 
+   {
+    "quote_id": 250168, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250306, 
+  [
+   675, 
+   927, 
+   {
+    "quote_id": 250168, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250306, 
+  [
+   1126, 
+   1167, 
+   {
+    "quote_id": 250168, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250182, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "jitobear;250172", 
+    "quote_id": 250172, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  250189, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "daewoo;250159", 
+    "quote_id": 250159, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  249808, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "E Mutz;249781", 
+    "quote_id": 249781, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  250193, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Steeeeve;250191", 
+    "quote_id": 250191, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  249439, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Bassman;249436", 
+    "unknown_quote_id": 249436, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  249532, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Bassman;249456", 
+    "quote_id": 249456, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  249706, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Steeeeve;249679", 
+    "quote_id": 249679, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  254830, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "gamehuis;250311", 
+    "quote_id": 250311, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  250217, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Steeeeve;250182", 
+    "quote_id": 250182, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250217, 
+  [
+   254, 
+   365, 
+   {
+    "raw_data": "Steeeeve;250182", 
+    "quote_id": 250182, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250217, 
+  [
+   540, 
+   570, 
+   {
+    "raw_data": "Steeeeve;250182", 
+    "quote_id": 250182, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  250217, 
+  [
+   948, 
+   1095, 
+   {
+    "raw_data": "Steeeeve;250182", 
+    "quote_id": 250182, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

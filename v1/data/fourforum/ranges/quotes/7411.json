@@ -1,0 +1,2884 @@
+[
+ [
+  195073, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195012, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195073, 
+  [
+   694, 
+   802, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195012, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195073, 
+  [
+   870, 
+   994, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195012, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195073, 
+  [
+   1037, 
+   1126, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195012, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195092, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 195073, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195092, 
+  [
+   714, 
+   774, 
+   {
+    "quote_id": 195073, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195092, 
+  [
+   1078, 
+   1115, 
+   {
+    "quote_id": 195073, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195092, 
+  [
+   1228, 
+   1697, 
+   {
+    "quote_id": 195073, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195098, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194416, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   511, 
+   531, 
+   {
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   643, 
+   729, 
+   {}
+  ]
+ ], 
+ [
+  194589, 
+  [
+   1119, 
+   1328, 
+   {
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   1754, 
+   1825, 
+   {
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   1839, 
+   1891, 
+   {
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   1937, 
+   2024, 
+   {
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194589, 
+  [
+   2193, 
+   2289, 
+   {
+    "quote_id": 194552, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194591, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194558, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194591, 
+  [
+   479, 
+   659, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194558, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194591, 
+  [
+   811, 
+   909, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194558, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194593, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Linus", 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194593, 
+  [
+   574, 
+   716, 
+   {
+    "quote_id": 194591, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194593, 
+  [
+   934, 
+   1129, 
+   {
+    "quote_id": 194591, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194589, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   583, 
+   685, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194589, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   986, 
+   1093, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194589, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   1191, 
+   1462, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194589, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   2030, 
+   2074, 
+   {
+    "raw_data": "Linus", 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   2474, 
+   2632, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194589, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194594, 
+  [
+   2841, 
+   2940, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194589, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194651, 
+  [
+   0, 
+   716, 
+   {
+    "raw_data": "Matthew S", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194600, 
+  [
+   54, 
+   2293, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194141, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  196653, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Michele", 
+    "quote_id": 196577, 
+    "author": "Michele"
+   }
+  ]
+ ], 
+ [
+  196144, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195962, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195122, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195092, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195423, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195418, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195649, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 195484, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  195138, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194914, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194402, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 194362, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  194647, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194527, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  195160, 
+  [
+   0, 
+   850, 
+   {
+    "raw_data": "badax22", 
+    "quote_id": 195098, 
+    "author": "badax22"
+   }
+  ]
+ ], 
+ [
+  195160, 
+  [
+   1082, 
+   1685, 
+   {}
+  ]
+ ], 
+ [
+  195161, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195106, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195163, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 195130, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  194142, 
+  [
+   0, 
+   2239, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194141, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194148, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194142, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  194150, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194148, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194151, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 194150, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  194672, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194672, 
+  [
+   430, 
+   482, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194672, 
+  [
+   706, 
+   795, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194672, 
+  [
+   849, 
+   992, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194672, 
+  [
+   1433, 
+   1559, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194672, 
+  [
+   1935, 
+   2052, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  194163, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 194150, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  195196, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "steeeeve", 
+    "unknown_author": "steeeeve"
+   }
+  ]
+ ], 
+ [
+  195196, 
+  [
+   457, 
+   1817, 
+   {}
+  ]
+ ], 
+ [
+  195196, 
+  [
+   2204, 
+   2287, 
+   {
+    "quote_id": 194969, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195196, 
+  [
+   2823, 
+   2963, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194969, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195196, 
+  [
+   3419, 
+   3803, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195205, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 195196, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194696, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194593, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194696, 
+  [
+   734, 
+   1188, 
+   {}
+  ]
+ ], 
+ [
+  194696, 
+  [
+   1592, 
+   1805, 
+   {
+    "quote_id": 194593, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194696, 
+  [
+   1987, 
+   2260, 
+   {
+    "quote_id": 194593, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195212, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 195208, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194701, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194696, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194701, 
+  [
+   649, 
+   806, 
+   {
+    "quote_id": 194696, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  197573, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Caprii", 
+    "quote_id": 197385, 
+    "author": "Caprii"
+   }
+  ]
+ ], 
+ [
+  195440, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195407, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  194213, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194151, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194213, 
+  [
+   256, 
+   402, 
+   {
+    "raw_data": "Professor Fergusson", 
+    "unknown_author": "Professor Fergusson"
+   }
+  ]
+ ], 
+ [
+  194214, 
+  [
+   0, 
+   568, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194163, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194727, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194701, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194727, 
+  [
+   357, 
+   835, 
+   {}
+  ]
+ ], 
+ [
+  194727, 
+  [
+   1031, 
+   1140, 
+   {
+    "quote_id": 194701, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194727, 
+  [
+   1415, 
+   1729, 
+   {}
+  ]
+ ], 
+ [
+  194216, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 194183, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  194216, 
+  [
+   163, 
+   321, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 194183, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  194245, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194215, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  194245, 
+  [
+   927, 
+   1100, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194215, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  194762, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194672, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194762, 
+  [
+   471, 
+   908, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194672, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  195106, 
+  [
+   0, 
+   850, 
+   {
+    "raw_data": "badax22", 
+    "quote_id": 195098, 
+    "author": "badax22"
+   }
+  ]
+ ], 
+ [
+  195283, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 194762, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  195283, 
+  [
+   479, 
+   932, 
+   {
+    "quote_id": 194762, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  195284, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195961, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 195525, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194264, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  194266, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 194214, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  196315, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 196249, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  194789, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194534, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  194791, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194176, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194791, 
+  [
+   1033, 
+   1620, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194245, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194791, 
+  [
+   2340, 
+   2579, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194546, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194791, 
+  [
+   3062, 
+   3341, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194789, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194792, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194789, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194795, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194789, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194798, 
+  [
+   0, 
+   771, 
+   {
+    "raw_data": "beervolcano", 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  194798, 
+  [
+   810, 
+   1450, 
+   {
+    "quote_id": 194791, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  194798, 
+  [
+   1510, 
+   1983, 
+   {
+    "quote_id": 194791, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  194798, 
+  [
+   2103, 
+   2196, 
+   {
+    "quote_id": 194791, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  194798, 
+  [
+   2334, 
+   2536, 
+   {
+    "quote_id": 194791, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  194798, 
+  [
+   2665, 
+   2927, 
+   {}
+  ]
+ ], 
+ [
+  195303, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195301, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194817, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194789, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194817, 
+  [
+   456, 
+   583, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194789, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194308, 
+  [
+   0, 
+   587, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194245, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194308, 
+  [
+   1067, 
+   1674, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194245, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194823, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194727, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194823, 
+  [
+   342, 
+   525, 
+   {
+    "quote_id": 194727, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194823, 
+  [
+   647, 
+   751, 
+   {
+    "quote_id": 194727, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194823, 
+  [
+   1011, 
+   1197, 
+   {
+    "quote_id": 194727, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194823, 
+  [
+   1275, 
+   1403, 
+   {}
+  ]
+ ], 
+ [
+  194823, 
+  [
+   1622, 
+   1892, 
+   {
+    "quote_id": 194727, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194823, 
+  [
+   2199, 
+   2591, 
+   {
+    "raw_data": "From the Study Linus has not read", 
+    "unknown_author": "From the Study Linus has not read"
+   }
+  ]
+ ], 
+ [
+  195851, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195650, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  196369, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 196315, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198107, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 198100, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  198118, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 198100, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  197607, 
+  [
+   0, 
+   1014, 
+   {
+    "raw_data": "Charliegone", 
+    "quote_id": 197574, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  195406, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194264, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195407, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194266, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  195409, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "MTKnight", 
+    "quote_id": 194784, 
+    "author": "MTKnight"
+   }
+  ]
+ ], 
+ [
+  195410, 
+  [
+   0, 
+   695, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 194796, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  195412, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195413, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195303, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195418, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195412, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  195419, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195413, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  195420, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 195416, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  195420, 
+  [
+   724, 
+   924, 
+   {
+    "quote_id": 195416, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  195422, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195419, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195301, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195284, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195936, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 195572, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  194914, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "MTKnight", 
+    "quote_id": 194784, 
+    "author": "MTKnight"
+   }
+  ]
+ ], 
+ [
+  194404, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194402, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195430, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 195429, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  195430, 
+  [
+   716, 
+   810, 
+   {
+    "quote_id": 195429, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  194923, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194823, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194923, 
+  [
+   336, 
+   400, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194823, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194923, 
+  [
+   854, 
+   961, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194823, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194923, 
+  [
+   985, 
+   1288, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194823, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194923, 
+  [
+   1598, 
+   1727, 
+   {}
+  ]
+ ], 
+ [
+  194416, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194404, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  194417, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 194416, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195442, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195423, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  195443, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195422, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  194932, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194923, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194932, 
+  [
+   526, 
+   967, 
+   {}
+  ]
+ ], 
+ [
+  194932, 
+  [
+   1140, 
+   1358, 
+   {
+    "quote_id": 194923, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194932, 
+  [
+   2126, 
+   2273, 
+   {}
+  ]
+ ], 
+ [
+  195476, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195413, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  195962, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  194947, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194932, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194947, 
+  [
+   466, 
+   632, 
+   {
+    "quote_id": 194932, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194947, 
+  [
+   894, 
+   940, 
+   {
+    "quote_id": 194932, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194947, 
+  [
+   1021, 
+   1153, 
+   {}
+  ]
+ ], 
+ [
+  194947, 
+  [
+   1244, 
+   1307, 
+   {
+    "quote_id": 194932, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  197510, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 197455, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  195991, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195961, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195650, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195476, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195650, 
+  [
+   361, 
+   697, 
+   {
+    "quote_id": 195476, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194446, 
+  [
+   0, 
+   71, 
+   {
+    "quote_id": 194141, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194446, 
+  [
+   503, 
+   622, 
+   {
+    "quote_id": 194141, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  197519, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 197455, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  195474, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 195411, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  195475, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195474, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194452, 
+  [
+   0, 
+   523, 
+   {
+    "raw_data": "Cone", 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   179, 
+   248, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   652, 
+   723, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   1382, 
+   1520, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   1732, 
+   1863, 
+   {
+    "raw_data": "From Your Study", 
+    "unknown_author": "From Your Study"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   2000, 
+   2100, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   2377, 
+   2439, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   2761, 
+   2794, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195479, 
+  [
+   3085, 
+   3156, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195209, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194947, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   313, 
+   441, 
+   {}
+  ]
+ ], 
+ [
+  194969, 
+  [
+   447, 
+   611, 
+   {
+    "quote_id": 194947, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   837, 
+   1594, 
+   {
+    "raw_data": "The Study Linus STILL hasn't read", 
+    "unknown_author": "The Study Linus STILL hasn't read"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   1598, 
+   1761, 
+   {
+    "quote_id": 194947, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   2502, 
+   2678, 
+   {
+    "raw_data": "The Study", 
+    "unknown_author": "The Study"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   2756, 
+   3133, 
+   {
+    "raw_data": "The Study", 
+    "unknown_author": "The Study"
+   }
+  ]
+ ], 
+ [
+  194969, 
+  [
+   3139, 
+   3283, 
+   {
+    "raw_data": "The Study(Discussion part)", 
+    "unknown_author": "The Study(Discussion part)"
+   }
+  ]
+ ], 
+ [
+  194459, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194151, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194459, 
+  [
+   350, 
+   493, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194163, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  195484, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 195410, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  194462, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 194362, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  195492, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 195489, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  195497, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195486, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195497, 
+  [
+   160, 
+   244, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195486, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195497, 
+  [
+   979, 
+   1107, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 195489, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194474, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  197550, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 197519, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195486, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 195479, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195511, 
+  [
+   0, 
+   804, 
+   {
+    "raw_data": "Linus", 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195515, 
+  [
+   0, 
+   719, 
+   {}
+  ]
+ ], 
+ [
+  195521, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195511, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  195521, 
+  [
+   50, 
+   136, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 195511, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  194499, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 194362, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  195012, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194817, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195012, 
+  [
+   816, 
+   1033, 
+   {
+    "quote_id": 194817, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195012, 
+  [
+   1163, 
+   1837, 
+   {
+    "quote_id": 194817, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  195525, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195515, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195525, 
+  [
+   185, 
+   288, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195515, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195525, 
+  [
+   768, 
+   835, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195515, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195525, 
+  [
+   886, 
+   956, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195515, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194504, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194474, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194505, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194499, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  195530, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Linus", 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195530, 
+  [
+   384, 
+   423, 
+   {
+    "quote_id": 195525, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195530, 
+  [
+   621, 
+   1090, 
+   {
+    "quote_id": 195525, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195530, 
+  [
+   1633, 
+   1769, 
+   {
+    "quote_id": 195525, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  198091, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 197783, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194512, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "Linus", 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  198100, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Mickey Shane", 
+    "quote_id": 198091, 
+    "author": "Mickey Shane"
+   }
+  ]
+ ], 
+ [
+  197590, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Michele", 
+    "quote_id": 197573, 
+    "author": "Michele"
+   }
+  ]
+ ], 
+ [
+  194519, 
+  [
+   0, 
+   471, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194512, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  196577, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "MTKnight", 
+    "quote_id": 194784, 
+    "author": "MTKnight"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   131, 
+   183, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   453, 
+   541, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   1015, 
+   1055, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   1185, 
+   1241, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   1418, 
+   1574, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   1723, 
+   1778, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   1929, 
+   2098, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  195555, 
+  [
+   2455, 
+   2497, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 195530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194534, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194527, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194535, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 194527, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  194215, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 194148, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  198126, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 198118, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  198134, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 198126, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  194546, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 194417, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  194548, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194446, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194548, 
+  [
+   571, 
+   718, 
+   {
+    "quote_id": 194446, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195573, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 195572, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  195573, 
+  [
+   224, 
+   399, 
+   {
+    "raw_data": "Hunt", 
+    "quote_id": 194141, 
+    "unknown_author": "Hunt", 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  196598, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Michele", 
+    "quote_id": 196577, 
+    "author": "Michele"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194446, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   602, 
+   677, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   703, 
+   750, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   849, 
+   1005, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   1220, 
+   1448, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   1930, 
+   2159, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194552, 
+  [
+   2450, 
+   2634, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194459, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  195578, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 195572, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  194558, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 194504, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  194558, 
+  [
+   978, 
+   1216, 
+   {
+    "raw_data": "The Article", 
+    "unknown_author": "The Article"
+   }
+  ]
+ ]
+]

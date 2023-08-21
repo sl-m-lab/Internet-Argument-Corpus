@@ -1,0 +1,38 @@
+[
+ [
+  423993, 
+  [
+   1961, 
+   1991, 
+   {
+    "raw_data": "Brady;423903", 
+    "unknown_quote_id": 423903, 
+    "unknown_author": "Brady"
+   }
+  ]
+ ], 
+ [
+  424001, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Brady;423903", 
+    "unknown_quote_id": 423903, 
+    "unknown_author": "Brady"
+   }
+  ]
+ ], 
+ [
+  424001, 
+  [
+   119, 
+   280, 
+   {
+    "raw_data": "Bryan;423993", 
+    "quote_id": 423993, 
+    "author": "Bryan"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,61 @@
+[
+ [
+  116260, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Machalban", 
+    "quote_id": 116215, 
+    "author": "Machalban"
+   }
+  ]
+ ], 
+ [
+  118857, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 116198, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  116215, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 116198, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  118623, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 116270, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  118623, 
+  [
+   405, 
+   567, 
+   {
+    "quote_id": 116270, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ]
+]

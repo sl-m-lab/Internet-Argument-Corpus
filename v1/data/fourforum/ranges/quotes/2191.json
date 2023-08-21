@@ -1,0 +1,155 @@
+[
+ [
+  44384, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 44383, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44389, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "carla5010", 
+    "quote_id": 44384, 
+    "author": "carla5010"
+   }
+  ]
+ ], 
+ [
+  44390, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 44389, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44394, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "carla5010", 
+    "quote_id": 44390, 
+    "author": "carla5010"
+   }
+  ]
+ ], 
+ [
+  44396, 
+  [
+   0, 
+   803, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 44395, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  44407, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 44394, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44407, 
+  [
+   129, 
+   201, 
+   {
+    "quote_id": 44394, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44407, 
+  [
+   518, 
+   570, 
+   {
+    "quote_id": 44394, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44407, 
+  [
+   1001, 
+   1055, 
+   {
+    "quote_id": 44394, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44408, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 44396, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44379, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "carla5010", 
+    "quote_id": 44378, 
+    "author": "carla5010"
+   }
+  ]
+ ], 
+ [
+  44380, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 44379, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  44383, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "carla5010", 
+    "quote_id": 44380, 
+    "author": "carla5010"
+   }
+  ]
+ ]
+]

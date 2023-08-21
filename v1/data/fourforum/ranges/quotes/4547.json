@@ -1,0 +1,48 @@
+[
+ [
+  98469, 
+  [
+   0, 
+   833, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 98446, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  98469, 
+  [
+   1138, 
+   1266, 
+   {
+    "quote_id": 98446, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  98446, 
+  [
+   0, 
+   1255, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 98436, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  98446, 
+  [
+   2094, 
+   2279, 
+   {
+    "quote_id": 98436, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

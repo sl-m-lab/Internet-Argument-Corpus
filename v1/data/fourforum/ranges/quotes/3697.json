@@ -1,0 +1,776 @@
+[
+ [
+  77312, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 77196, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  77572, 
+  [
+   0, 
+   955, 
+   {
+    "raw_data": "valet_dave", 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77191, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 77160, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  77196, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 77191, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77727, 
+  [
+   0, 
+   1124, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 77661, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  76707, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 76657, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  76964, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76969, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 76967, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  76714, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76515, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76714, 
+  [
+   274, 
+   567, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76515, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76714, 
+  [
+   1176, 
+   1311, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76515, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76714, 
+  [
+   3200, 
+   3867, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76714, 
+  [
+   3996, 
+   4037, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76716, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76707, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76716, 
+  [
+   260, 
+   710, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76893, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  76893, 
+  [
+   318, 
+   444, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76749, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76893, 
+  [
+   1834, 
+   2179, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76749, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76893, 
+  [
+   2468, 
+   2921, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76749, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77672, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 77663, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77672, 
+  [
+   118, 
+   268, 
+   {
+    "raw_data": "vale_dave", 
+    "quote_id": 77547, 
+    "unknown_author": "vale_dave", 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77672, 
+  [
+   770, 
+   958, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 77663, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77556, 
+  [
+   0, 
+   1413, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 77547, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77663, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 77556, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76864, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76707, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76749, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  77688, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 77672, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   35, 
+   91, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   154, 
+   268, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   365, 
+   678, 
+   {
+    "raw_data": "Montalban ", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   682, 
+   722, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   800, 
+   866, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   1090, 
+   1628, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76716, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   1632, 
+   1704, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   2222, 
+   2266, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   2347, 
+   2422, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   2451, 
+   2590, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   2803, 
+   2993, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   3763, 
+   3926, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   4018, 
+   4154, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76766, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   4193, 
+   4390, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   4505, 
+   4603, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 76716, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   4607, 
+   4773, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76892, 
+  [
+   4829, 
+   4912, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 76782, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  77021, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 76864, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77021, 
+  [
+   407, 
+   598, 
+   {
+    "quote_id": 76864, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77021, 
+  [
+   962, 
+   1338, 
+   {
+    "quote_id": 76864, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  76766, 
+  [
+   208, 
+   520, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76766, 
+  [
+   638, 
+   1174, 
+   {
+    "quote_id": 76716, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76766, 
+  [
+   1716, 
+   2425, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  76767, 
+  [
+   0, 
+   475, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76749, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76767, 
+  [
+   1015, 
+   1468, 
+   {
+    "quote_id": 76749, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76515, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  77661, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 77572, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77160, 
+  [
+   0, 
+   704, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 77049, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77804, 
+  [
+   0, 
+   880, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 77727, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  76782, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 76716, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  77044, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76964, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77044, 
+  [
+   298, 
+   468, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76964, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77044, 
+  [
+   752, 
+   969, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76964, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77044, 
+  [
+   1514, 
+   1745, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76964, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77044, 
+  [
+   2736, 
+   2863, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 76964, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77047, 
+  [
+   0, 
+   798, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  76664, 
+  [
+   0, 
+   698, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 76657, 
+    "author": "valet_dave"
+   }
+  ]
+ ], 
+ [
+  77049, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ]
+]

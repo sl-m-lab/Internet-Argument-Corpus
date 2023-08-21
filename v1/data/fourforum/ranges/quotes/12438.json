@@ -1,0 +1,1334 @@
+[
+ [
+  363651, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Winston Smith;363624", 
+    "quote_id": 363624, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  363526, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "simone;363507", 
+    "quote_id": 363507, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348169, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "chester;348088", 
+    "quote_id": 348088, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  348430, 
+  [
+   0, 
+   1506, 
+   {
+    "raw_data": "iangb;348395", 
+    "quote_id": 348395, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  363153, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Winston Smith;363143", 
+    "quote_id": 363143, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  363153, 
+  [
+   1789, 
+   1879, 
+   {
+    "quote_id": 363143, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362386, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "CUNxTime;362384", 
+    "quote_id": 362384, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  363330, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "antonia;362485", 
+    "quote_id": 362485, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363029, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Winston Smith;363000", 
+    "quote_id": 363000, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  363029, 
+  [
+   1412, 
+   1666, 
+   {
+    "quote_id": 363000, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362390, 
+  [
+   96, 
+   640, 
+   {}
+  ]
+ ], 
+ [
+  362390, 
+  [
+   1098, 
+   1233, 
+   {}
+  ]
+ ], 
+ [
+  363509, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "simone;363507", 
+    "quote_id": 363507, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348314, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Chuz Life;348199", 
+    "quote_id": 348199, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362395, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Nebuchadnezzar;362346", 
+    "quote_id": 362346, 
+    "author": "Nebuchadnezzar"
+   }
+  ]
+ ], 
+ [
+  348316, 
+  [
+   177, 
+   553, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 348088, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  363361, 
+  [
+   0, 
+   507, 
+   {
+    "raw_data": "Zardoz;363275", 
+    "quote_id": 363275, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  363184, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "Winston Smith;363173", 
+    "quote_id": 363173, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  348195, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "Chuz Life;348169", 
+    "quote_id": 348169, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  363173, 
+  [
+   0, 
+   1609, 
+   {
+    "raw_data": "antonia;363153", 
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363173, 
+  [
+   2260, 
+   2512, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363174, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "DrNo;363164", 
+    "quote_id": 363164, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  348199, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "chester;348195", 
+    "quote_id": 348195, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  348330, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "TRIGGER;348314", 
+    "quote_id": 348314, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  348331, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Lakrite;348316", 
+    "quote_id": 348316, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  362540, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Winston Smith;362531", 
+    "quote_id": 362531, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362540, 
+  [
+   136, 
+   496, 
+   {
+    "quote_id": 362531, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362413, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Zardoz;362395", 
+    "quote_id": 362395, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  362416, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Nebuchadnezzar;362346", 
+    "quote_id": 362346, 
+    "author": "Nebuchadnezzar"
+   }
+  ]
+ ], 
+ [
+  362824, 
+  [
+   0, 
+   482, 
+   {
+    "raw_data": "antonia;362812", 
+    "quote_id": 362812, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362824, 
+  [
+   603, 
+   1266, 
+   {}
+  ]
+ ], 
+ [
+  362824, 
+  [
+   1596, 
+   2432, 
+   {
+    "quote_id": 362812, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362824, 
+  [
+   2813, 
+   3036, 
+   {
+    "quote_id": 362812, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362824, 
+  [
+   3125, 
+   3236, 
+   {
+    "quote_id": 362812, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362546, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Chuz Life;362543", 
+    "quote_id": 362543, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362546, 
+  [
+   579, 
+   712, 
+   {
+    "quote_id": 362543, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362421, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Chuz Life;362416", 
+    "quote_id": 362416, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362422, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Nebuchadnezzar;362421", 
+    "quote_id": 362421, 
+    "author": "Nebuchadnezzar"
+   }
+  ]
+ ], 
+ [
+  362551, 
+  [
+   0, 
+   6, 
+   {
+    "raw_data": "Chuz Life;362548", 
+    "quote_id": 362548, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362551, 
+  [
+   202, 
+   270, 
+   {
+    "quote_id": 362548, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362551, 
+  [
+   410, 
+   430, 
+   {
+    "quote_id": 362548, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362551, 
+  [
+   647, 
+   727, 
+   {
+    "quote_id": 362548, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362551, 
+  [
+   983, 
+   1072, 
+   {}
+  ]
+ ], 
+ [
+  346681, 
+  [
+   0, 
+   1372, 
+   {
+    "raw_data": "Archangel;346676", 
+    "quote_id": 346676, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  362556, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "antonia;362551", 
+    "quote_id": 362551, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362556, 
+  [
+   322, 
+   640, 
+   {
+    "raw_data": "antonia;362551", 
+    "quote_id": 362551, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363197, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "antonia;363174", 
+    "quote_id": 363174, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  346686, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "Chuz Life;346681", 
+    "quote_id": 346681, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  348607, 
+  [
+   49, 
+   685, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 348432, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  346689, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Archangel;346686", 
+    "quote_id": 346686, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  346564, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Winston Smith;346543", 
+    "quote_id": 346543, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  348357, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "iangb;348353", 
+    "quote_id": 348353, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348357, 
+  [
+   513, 
+   650, 
+   {
+    "raw_data": "iangb;348353", 
+    "quote_id": 348353, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348357, 
+  [
+   749, 
+   840, 
+   {
+    "raw_data": "iangb;348353", 
+    "quote_id": 348353, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348357, 
+  [
+   907, 
+   1058, 
+   {
+    "raw_data": "iangb;348353", 
+    "quote_id": 348353, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  363143, 
+  [
+   0, 
+   1316, 
+   {
+    "raw_data": "antonia;363029", 
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363143, 
+  [
+   1496, 
+   1857, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362543, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "antonia;362486", 
+    "quote_id": 362486, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   8, 
+   110, 
+   {
+    "raw_data": "antonia;363153", 
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   329, 
+   444, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   521, 
+   882, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   1376, 
+   1472, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   1522, 
+   1690, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   1828, 
+   2300, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   2470, 
+   2560, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363467, 
+  [
+   2802, 
+   2959, 
+   {
+    "quote_id": 363153, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362531, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Chuz Life;362416", 
+    "quote_id": 362416, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  348373, 
+  [
+   0, 
+   369, 
+   {}
+  ]
+ ], 
+ [
+  348373, 
+  [
+   685, 
+   774, 
+   {
+    "quote_id": 348357, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  348373, 
+  [
+   1585, 
+   1656, 
+   {}
+  ]
+ ], 
+ [
+  363222, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "DrNo;363197", 
+    "quote_id": 363197, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  363222, 
+  [
+   958, 
+   1086, 
+   {
+    "quote_id": 363197, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  362967, 
+  [
+   0, 
+   111, 
+   {
+    "quote_id": 362824, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362967, 
+  [
+   734, 
+   1105, 
+   {
+    "quote_id": 362824, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362967, 
+  [
+   1197, 
+   1257, 
+   {
+    "quote_id": 362824, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  363271, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "DrNo;363197", 
+    "quote_id": 363197, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  348377, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "iangb;348373", 
+    "quote_id": 348373, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348377, 
+  [
+   101, 
+   353, 
+   {
+    "raw_data": "iangb;348373", 
+    "quote_id": 348373, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348377, 
+  [
+   748, 
+   1035, 
+   {
+    "raw_data": "iangb;348373", 
+    "quote_id": 348373, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348377, 
+  [
+   1165, 
+   1421, 
+   {
+    "raw_data": "iangb;348373", 
+    "quote_id": 348373, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348377, 
+  [
+   1611, 
+   1765, 
+   {
+    "raw_data": "iangb;348373", 
+    "quote_id": 348373, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348378, 
+  [
+   593, 
+   741, 
+   {}
+  ]
+ ], 
+ [
+  362548, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "antonia;362546", 
+    "quote_id": 362546, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362548, 
+  [
+   133, 
+   313, 
+   {
+    "raw_data": "antonia;362546", 
+    "quote_id": 362546, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362548, 
+  [
+   610, 
+   786, 
+   {
+    "raw_data": "antonia;362546", 
+    "quote_id": 362546, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362548, 
+  [
+   816, 
+   1226, 
+   {
+    "raw_data": "antonia;362546", 
+    "quote_id": 362546, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363363, 
+  [
+   0, 
+   1093, 
+   {
+    "raw_data": "antonia;363184", 
+    "quote_id": 363184, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  348390, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "iangb;348378", 
+    "quote_id": 348378, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348390, 
+  [
+   1088, 
+   1149, 
+   {
+    "raw_data": "iangb;348378", 
+    "quote_id": 348378, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  348390, 
+  [
+   1163, 
+   1379, 
+   {
+    "raw_data": "iangb;348378", 
+    "quote_id": 348378, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  363921, 
+  [
+   0, 
+   753, 
+   {
+    "raw_data": "Winston Smith;363361", 
+    "quote_id": 363361, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  363624, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "CUNxTime;363377", 
+    "quote_id": 363377, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  362812, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Winston Smith;362607", 
+    "quote_id": 362607, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362812, 
+  [
+   1142, 
+   1394, 
+   {
+    "quote_id": 362607, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  362812, 
+  [
+   1712, 
+   1788, 
+   {}
+  ]
+ ], 
+ [
+  362812, 
+  [
+   2437, 
+   2550, 
+   {}
+  ]
+ ], 
+ [
+  362812, 
+  [
+   3738, 
+   3758, 
+   {
+    "quote_id": 362607, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  348395, 
+  [
+   0, 
+   560, 
+   {}
+  ]
+ ], 
+ [
+  362607, 
+  [
+   0, 
+   952, 
+   {
+    "raw_data": "antonia;362540", 
+    "quote_id": 362540, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363377, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "Winston Smith;363271", 
+    "quote_id": 363271, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   8, 
+   256, 
+   {
+    "raw_data": "antonia;363029", 
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   426, 
+   500, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   590, 
+   687, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   814, 
+   955, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   1005, 
+   1340, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   1506, 
+   1668, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   1877, 
+   2119, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   2248, 
+   2374, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363465, 
+  [
+   2430, 
+   2660, 
+   {
+    "quote_id": 363029, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363507, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "CUNxTime;363377", 
+    "quote_id": 363377, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  362485, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Nebuchadnezzar;362421", 
+    "quote_id": 362421, 
+    "author": "Nebuchadnezzar"
+   }
+  ]
+ ], 
+ [
+  362486, 
+  [
+   14, 
+   48, 
+   {}
+  ]
+ ], 
+ [
+  362486, 
+  [
+   54, 
+   95, 
+   {}
+  ]
+ ], 
+ [
+  363000, 
+  [
+   0, 
+   614, 
+   {
+    "raw_data": "antonia;362967", 
+    "quote_id": 362967, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363000, 
+  [
+   713, 
+   796, 
+   {
+    "quote_id": 362967, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  363000, 
+  [
+   1004, 
+   1077, 
+   {
+    "quote_id": 362967, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  362559, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Chuz Life;362556", 
+    "quote_id": 362556, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  362559, 
+  [
+   96, 
+   101, 
+   {
+    "quote_id": 362556, 
+    "author": "Chuz Life"
+   }
+  ]
+ ]
+]

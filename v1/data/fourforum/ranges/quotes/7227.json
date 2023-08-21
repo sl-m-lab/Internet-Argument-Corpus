@@ -1,0 +1,105 @@
+[
+ [
+  189412, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 189384, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  189478, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 189433, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  189478, 
+  [
+   969, 
+   1043, 
+   {
+    "quote_id": 189433, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  189478, 
+  [
+   1225, 
+   1612, 
+   {
+    "raw_data": "JT", 
+    "unknown_author": "JT"
+   }
+  ]
+ ], 
+ [
+  189384, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  189482, 
+  [
+   0, 
+   920, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  189426, 
+  [
+   0, 
+   536, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 189412, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  189426, 
+  [
+   893, 
+   1185, 
+   {
+    "quote_id": 189412, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  189433, 
+  [
+   0, 
+   1560, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 189412, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

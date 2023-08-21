@@ -1,0 +1,301 @@
+[
+ [
+  344846, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Baron;344831", 
+    "quote_id": 344831, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  344854, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "chester;344828", 
+    "quote_id": 344828, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344856, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "snakespit;344854", 
+    "quote_id": 344854, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  344863, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "chester;344856", 
+    "quote_id": 344856, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344737, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "isly ilwott;344734", 
+    "quote_id": 344734, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  344744, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "chester;344737", 
+    "quote_id": 344737, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344753, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "Archangel;344744", 
+    "quote_id": 344744, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344753, 
+  [
+   670, 
+   1097, 
+   {
+    "raw_data": "Archangel;344744", 
+    "quote_id": 344744, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344778, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "chester;344753", 
+    "quote_id": 344753, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344778, 
+  [
+   256, 
+   344, 
+   {
+    "raw_data": "chester;344753", 
+    "quote_id": 344753, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344778, 
+  [
+   532, 
+   654, 
+   {
+    "raw_data": "chester;344753", 
+    "quote_id": 344753, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344788, 
+  [
+   0, 
+   845, 
+   {
+    "raw_data": "TRIGGER;344784", 
+    "quote_id": 344784, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  344789, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "chester;344753", 
+    "quote_id": 344753, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344793, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "chester;344788", 
+    "quote_id": 344788, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344793, 
+  [
+   196, 
+   349, 
+   {
+    "raw_data": "chester;344788", 
+    "quote_id": 344788, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344793, 
+  [
+   471, 
+   600, 
+   {
+    "raw_data": "chester;344788", 
+    "quote_id": 344788, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344798, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "TRIGGER;344793", 
+    "quote_id": 344793, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  344803, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "chester;344798", 
+    "quote_id": 344798, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344803, 
+  [
+   435, 
+   509, 
+   {
+    "raw_data": "chester;344798", 
+    "quote_id": 344798, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344807, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "chester;344790", 
+    "quote_id": 344790, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344817, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "chester;344753", 
+    "quote_id": 344753, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344817, 
+  [
+   867, 
+   989, 
+   {
+    "quote_id": 344753, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  344820, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Winston Smith;344819", 
+    "quote_id": 344819, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  344828, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "snakespit;344820", 
+    "quote_id": 344820, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  344831, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "chester;344790", 
+    "quote_id": 344790, 
+    "author": "chester"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,699 @@
+[
+ [
+  204418, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 204411, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  204353, 
+  [
+   0, 
+   214, 
+   {
+    "quote_id": 204342, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204353, 
+  [
+   436, 
+   878, 
+   {
+    "quote_id": 204342, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204426, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 204411, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  204428, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 204341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  204429, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204426, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204046, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204303, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "doG", 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  204303, 
+  [
+   326, 
+   595, 
+   {
+    "raw_data": "US Constitution", 
+    "unknown_author": "US Constitution"
+   }
+  ]
+ ], 
+ [
+  204432, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204350, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204433, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204429, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204057, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 204046, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  204190, 
+  [
+   0, 
+   846, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204149, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204190, 
+  [
+   1686, 
+   1723, 
+   {
+    "quote_id": 204149, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204197, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204190, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204197, 
+  [
+   1199, 
+   1627, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204190, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204197, 
+  [
+   1767, 
+   1998, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204190, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204460, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 204432, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  204461, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204433, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204336, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204341, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 204336, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  204342, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204271, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204342, 
+  [
+   379, 
+   519, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204271, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204088, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204023, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204218, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204197, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204218, 
+  [
+   127, 
+   411, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204197, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204218, 
+  [
+   736, 
+   869, 
+   {
+    "quote_id": 204197, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204218, 
+  [
+   1128, 
+   1166, 
+   {
+    "quote_id": 204197, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204350, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 204341, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  204277, 
+  [
+   48, 
+   517, 
+   {}
+  ]
+ ], 
+ [
+  204097, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204088, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204354, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204354, 
+  [
+   586, 
+   1250, 
+   {
+    "raw_data": "Matthew S", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204237, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204218, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204237, 
+  [
+   176, 
+   496, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204218, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204237, 
+  [
+   642, 
+   896, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204218, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204237, 
+  [
+   1346, 
+   1550, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204218, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204494, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204418, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204496, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204426, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204251, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204237, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204251, 
+  [
+   289, 
+   426, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204237, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204251, 
+  [
+   1107, 
+   1549, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204237, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204251, 
+  [
+   2323, 
+   2463, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204237, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204509, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 204496, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  204411, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204009, 
+  [
+   210, 
+   433, 
+   {}
+  ]
+ ], 
+ [
+  204266, 
+  [
+   0, 
+   678, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204251, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204266, 
+  [
+   871, 
+   1642, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204251, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204397, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204394, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204398, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204397, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204271, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204266, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204271, 
+  [
+   344, 
+   694, 
+   {
+    "quote_id": 204266, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204400, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204398, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204017, 
+  [
+   0, 
+   1593, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204149, 
+  [
+   0, 
+   587, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204097, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204023, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204017, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  204283, 
+  [
+   0, 
+   1560, 
+   {
+    "raw_data": "doG", 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  204394, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204379, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204287, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 204283, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  204287, 
+  [
+   302, 
+   463, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 204149, 
+    "author": "Matthew S"
+   }
+  ]
+ ]
+]

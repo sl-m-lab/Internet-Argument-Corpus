@@ -1,0 +1,2251 @@
+[
+ [
+  426500, 
+  [
+   0, 
+   1295, 
+   {
+    "raw_data": "Pietro;426432", 
+    "quote_id": 426432, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  426501, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Galileo;426500", 
+    "quote_id": 426500, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  426501, 
+  [
+   364, 
+   475, 
+   {
+    "quote_id": 426500, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  426501, 
+  [
+   898, 
+   1454, 
+   {
+    "raw_data": "Galileo;424498", 
+    "quote_id": 424498, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370263, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Doc Jones;370259", 
+    "quote_id": 370259, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  370263, 
+  [
+   726, 
+   770, 
+   {
+    "raw_data": "Doc Jones;370259", 
+    "quote_id": 370259, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  370263, 
+  [
+   869, 
+   931, 
+   {
+    "raw_data": "Doc Jones;370259", 
+    "quote_id": 370259, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  370207, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "JPSartre12;370089", 
+    "quote_id": 370089, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370208, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370208, 
+  [
+   366, 
+   475, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370212, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "JPSartre12;370089", 
+    "quote_id": 370089, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  424553, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Galileo;424549", 
+    "quote_id": 424549, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424498, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "simone;370084", 
+    "quote_id": 370084, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424498, 
+  [
+   126, 
+   826, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   366, 
+   466, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   811, 
+   971, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   1182, 
+   1414, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   1450, 
+   1661, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   1929, 
+   2132, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   2221, 
+   2526, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   2548, 
+   2788, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   2885, 
+   3119, 
+   {}
+  ]
+ ], 
+ [
+  370231, 
+  [
+   3509, 
+   3610, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   3682, 
+   3743, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370231, 
+  [
+   3783, 
+   4082, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  424504, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "Galileo;424498", 
+    "quote_id": 424498, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370234, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Ethmi;370212", 
+    "quote_id": 370212, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  370237, 
+  [
+   0, 
+   1812, 
+   {
+    "raw_data": "Brady;370234", 
+    "quote_id": 370234, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  424510, 
+  [
+   287, 
+   310, 
+   {
+    "raw_data": "Galileo;424498", 
+    "quote_id": 424498, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424510, 
+  [
+   1935, 
+   2467, 
+   {
+    "quote_id": 424498, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  369728, 
+  [
+   0, 
+   899, 
+   {}
+  ]
+ ], 
+ [
+  424513, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Galileo;424506", 
+    "quote_id": 424506, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370249, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Nozza1;370153", 
+    "quote_id": 370153, 
+    "author": "Nozza1"
+   }
+  ]
+ ], 
+ [
+  370249, 
+  [
+   295, 
+   1840, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370249, 
+  [
+   2284, 
+   2984, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370249, 
+  [
+   3360, 
+   3632, 
+   {
+    "raw_data": "Symbiote;370208", 
+    "quote_id": 370208, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370249, 
+  [
+   3788, 
+   4175, 
+   {
+    "quote_id": 370208, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370249, 
+  [
+   4360, 
+   4432, 
+   {
+    "raw_data": "Ethmi;370212", 
+    "quote_id": 370212, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  369743, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "simone;369728", 
+    "quote_id": 369728, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370256, 
+  [
+   0, 
+   2245, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370256, 
+  [
+   2273, 
+   2438, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370256, 
+  [
+   3007, 
+   3091, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370256, 
+  [
+   6628, 
+   6699, 
+   {
+    "raw_data": "Ethmi;370170", 
+    "quote_id": 370170, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   0, 
+   2245, 
+   {
+    "raw_data": "Brady;370207", 
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   2437, 
+   2989, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   3680, 
+   3762, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   3791, 
+   3862, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   3997, 
+   4201, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   4584, 
+   4681, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   4823, 
+   5271, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   6008, 
+   6344, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   6875, 
+   6936, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   7127, 
+   7177, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370259, 
+  [
+   7561, 
+   7809, 
+   {
+    "quote_id": 370207, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370261, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Doc Jones;370259", 
+    "quote_id": 370259, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369750, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "NATO 556;369737", 
+    "quote_id": 369737, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369751, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "Tither;369743", 
+    "quote_id": 369743, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  369754, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "simone;369750", 
+    "quote_id": 369750, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369755, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;369751", 
+    "quote_id": 369751, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369758, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "NATO 556;369755", 
+    "quote_id": 369755, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369760, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;369751", 
+    "quote_id": 369751, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370273, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Brady;370234", 
+    "quote_id": 370234, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369762, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;369751", 
+    "quote_id": 369751, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424548, 
+  [
+   0, 
+   4483, 
+   {
+    "raw_data": "Pietro;424510", 
+    "quote_id": 424510, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424549, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "Doc Jones;424509", 
+    "quote_id": 424509, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  424550, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Penfold;424513", 
+    "quote_id": 424513, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  370279, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "Brady;370263", 
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370279, 
+  [
+   899, 
+   988, 
+   {
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370279, 
+  [
+   1080, 
+   1181, 
+   {
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370279, 
+  [
+   1532, 
+   2121, 
+   {
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370279, 
+  [
+   2201, 
+   2225, 
+   {
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370279, 
+  [
+   2440, 
+   2572, 
+   {}
+  ]
+ ], 
+ [
+  370279, 
+  [
+   2616, 
+   2681, 
+   {
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370280, 
+  [
+   3, 
+   129, 
+   {}
+  ]
+ ], 
+ [
+  370280, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "NATO 556;370273", 
+    "quote_id": 370273, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369769, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Tither;369762", 
+    "quote_id": 369762, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  369770, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "simone;369728", 
+    "quote_id": 369728, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370283, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Brady;370263", 
+    "quote_id": 370263, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369772, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "simone;369769", 
+    "quote_id": 369769, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369773, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "simone;369758", 
+    "quote_id": 369758, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369773, 
+  [
+   61, 
+   202, 
+   {
+    "quote_id": 369758, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369773, 
+  [
+   503, 
+   724, 
+   {
+    "quote_id": 369758, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424558, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Galileo;424548", 
+    "quote_id": 424548, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424558, 
+  [
+   260, 
+   345, 
+   {
+    "quote_id": 424548, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424558, 
+  [
+   579, 
+   781, 
+   {
+    "quote_id": 424548, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424558, 
+  [
+   2284, 
+   2563, 
+   {
+    "quote_id": 424548, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424558, 
+  [
+   3333, 
+   3442, 
+   {
+    "quote_id": 424548, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370287, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Brady;370280", 
+    "quote_id": 370280, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369776, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "simone;369769", 
+    "quote_id": 369769, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370290, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "NATO 556;370279", 
+    "quote_id": 370279, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  370290, 
+  [
+   471, 
+   543, 
+   {
+    "raw_data": "NATO 556;370279", 
+    "quote_id": 370279, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  370292, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Doc Jones;370287", 
+    "quote_id": 370287, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  370293, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Brady;370280", 
+    "quote_id": 370280, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370294, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Brady;370290", 
+    "quote_id": 370290, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370294, 
+  [
+   340, 
+   563, 
+   {
+    "quote_id": 370290, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370295, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Brady;370290", 
+    "quote_id": 370290, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370295, 
+  [
+   335, 
+   460, 
+   {
+    "quote_id": 370290, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370295, 
+  [
+   601, 
+   697, 
+   {
+    "quote_id": 370290, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370297, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "NATO 556;370293", 
+    "quote_id": 370293, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369787, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "simone;369780", 
+    "quote_id": 369780, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370301, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Brady;370292", 
+    "quote_id": 370292, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  424574, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Pietro;424558", 
+    "quote_id": 424558, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424574, 
+  [
+   702, 
+   928, 
+   {
+    "raw_data": "Pietro;424558", 
+    "quote_id": 424558, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424574, 
+  [
+   1380, 
+   2875, 
+   {
+    "raw_data": "Pietro;424558", 
+    "quote_id": 424558, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424574, 
+  [
+   3171, 
+   3938, 
+   {
+    "raw_data": "Pietro;424558", 
+    "quote_id": 424558, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424574, 
+  [
+   4220, 
+   4446, 
+   {
+    "raw_data": "Pietro;424558", 
+    "quote_id": 424558, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424575, 
+  [
+   0, 
+   2813, 
+   {
+    "raw_data": "Doc Jones;424553", 
+    "quote_id": 424553, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369792, 
+  [
+   2, 
+   53, 
+   {}
+  ]
+ ], 
+ [
+  369792, 
+  [
+   0, 
+   691, 
+   {}
+  ]
+ ], 
+ [
+  424577, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "Galileo;424575", 
+    "quote_id": 424575, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370306, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "NATO 556;370295", 
+    "quote_id": 370295, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  370306, 
+  [
+   351, 
+   421, 
+   {
+    "raw_data": "NATO 556;370295", 
+    "quote_id": 370295, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  370307, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Doc Jones;370301", 
+    "quote_id": 370301, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369797, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "simone;369789", 
+    "quote_id": 369789, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370311, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Brady;370297", 
+    "quote_id": 370297, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370311, 
+  [
+   213, 
+   257, 
+   {
+    "quote_id": 370297, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370311, 
+  [
+   294, 
+   404, 
+   {
+    "quote_id": 370297, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370312, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Brady;370306", 
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370312, 
+  [
+   154, 
+   330, 
+   {
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370312, 
+  [
+   656, 
+   674, 
+   {
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370313, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Brady;370307", 
+    "quote_id": 370307, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369802, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "simone;369769", 
+    "quote_id": 369769, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369803, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "simone;369782", 
+    "quote_id": 369782, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370317, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Brady;370297", 
+    "quote_id": 370297, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369806, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "OldSarge;369803", 
+    "quote_id": 369803, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  369807, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "simone;369806", 
+    "quote_id": 369806, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369808, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "simone;369806", 
+    "quote_id": 369806, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370325, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Brady;370314", 
+    "quote_id": 370314, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370325, 
+  [
+   126, 
+   215, 
+   {
+    "quote_id": 370314, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369816, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "simone;369806", 
+    "quote_id": 369806, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370330, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Brady;370314", 
+    "quote_id": 370314, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369775, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "simone;369750", 
+    "quote_id": 369750, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424645, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "gansao;424643", 
+    "quote_id": 424643, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  424506, 
+  [
+   0, 
+   801, 
+   {
+    "raw_data": "Doc Jones;424504", 
+    "quote_id": 424504, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  370347, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "Brady;370290", 
+    "quote_id": 370290, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369844, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "simone;369769", 
+    "quote_id": 369769, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424629, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Galileo;424549", 
+    "quote_id": 424549, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424634, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "Winston Smith;424632", 
+    "unknown_quote_id": 424632, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  369854, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "NATO 556;369737", 
+    "quote_id": 369737, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  424640, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Winston Smith;424632", 
+    "unknown_quote_id": 424632, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  424640, 
+  [
+   372, 
+   515, 
+   {
+    "quote_id": 424642, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  424640, 
+  [
+   1820, 
+   1957, 
+   {
+    "quote_id": 424642, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  424640, 
+  [
+   3677, 
+   3828, 
+   {
+    "quote_id": 424642, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  424642, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "gansao;424634", 
+    "quote_id": 424634, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  424643, 
+  [
+   0, 
+   1393, 
+   {
+    "raw_data": "Doc Jones;424642", 
+    "quote_id": 424642, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  424652, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "Doc Jones;424645", 
+    "quote_id": 424645, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369870, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Jo Bennett;369854", 
+    "quote_id": 369854, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  424656, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Doc Jones;424654", 
+    "quote_id": 424654, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369873, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "simone;369728", 
+    "quote_id": 369728, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424658, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "gansao;424656", 
+    "quote_id": 424656, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  424660, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "Doc Jones;424658", 
+    "quote_id": 424658, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  424654, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "gansao;424652", 
+    "quote_id": 424652, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369785, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "simone;369780", 
+    "quote_id": 369780, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369887, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Doc Jones;369785", 
+    "quote_id": 369785, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369887, 
+  [
+   367, 
+   590, 
+   {
+    "raw_data": "simone;369728", 
+    "quote_id": 369728, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424677, 
+  [
+   0, 
+   4437, 
+   {
+    "raw_data": "Pietro;424640", 
+    "quote_id": 424640, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  424678, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Winston Smith;424677", 
+    "quote_id": 424677, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  370408, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Brady;370314", 
+    "quote_id": 370314, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369910, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "simone;369906", 
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424699, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "gansao;424634", 
+    "quote_id": 424634, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369917, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "simone;369906", 
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369930, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "OldSarge;369870", 
+    "quote_id": 369870, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  369932, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Jo Bennett;369930", 
+    "quote_id": 369930, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  369936, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "simone;369906", 
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369936, 
+  [
+   471, 
+   584, 
+   {
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Galileo;424574", 
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   1435, 
+   1890, 
+   {
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   2523, 
+   2822, 
+   {
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   3352, 
+   3492, 
+   {
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   3748, 
+   4036, 
+   {
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   4185, 
+   4458, 
+   {
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424579, 
+  [
+   6070, 
+   6239, 
+   {
+    "quote_id": 424574, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370314, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "NATO 556;370311", 
+    "quote_id": 370311, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  370497, 
+  [
+   0, 
+   1047, 
+   {
+    "raw_data": "JPSartre12;370422", 
+    "quote_id": 370422, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370315, 
+  [
+   87, 
+   200, 
+   {
+    "raw_data": "JPSartre12;370261", 
+    "quote_id": 370261, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370315, 
+  [
+   217, 
+   223, 
+   {
+    "raw_data": "Brady;370306", 
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370315, 
+  [
+   287, 
+   375, 
+   {
+    "raw_data": "Brady;370306", 
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370315, 
+  [
+   536, 
+   609, 
+   {
+    "raw_data": "Ethmi;370170", 
+    "quote_id": 370170, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  370315, 
+  [
+   647, 
+   888, 
+   {
+    "raw_data": "Brady;370306", 
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370315, 
+  [
+   1477, 
+   1641, 
+   {
+    "raw_data": "Brady;370306", 
+    "quote_id": 370306, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  370006, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "simone;369906", 
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370013, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "simone;369906", 
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  424509, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Galileo;424506", 
+    "quote_id": 424506, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  424509, 
+  [
+   170, 
+   283, 
+   {
+    "quote_id": 424498, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  370084, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Ethmi;370013", 
+    "quote_id": 370013, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  370089, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "simone;369728", 
+    "quote_id": 369728, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370422, 
+  [
+   0, 
+   532, 
+   {
+    "raw_data": "Ethmi;370378", 
+    "quote_id": 370378, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  426450, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Enlightened One;426448", 
+    "quote_id": 426448, 
+    "author": "Enlightened One"
+   }
+  ]
+ ], 
+ [
+  370131, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Tither;370094", 
+    "quote_id": 370094, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  370153, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "JPSartre12;370089", 
+    "quote_id": 370089, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  424701, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "gansao;424643", 
+    "quote_id": 424643, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  370168, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "simone;369906", 
+    "quote_id": 369906, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370170, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "simone;370084", 
+    "quote_id": 370084, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

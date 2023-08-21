@@ -1,0 +1,82 @@
+[
+ [
+  205505, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 205501, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  205526, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 205501, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  205528, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 205526, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  205498, 
+  [
+   0, 
+   26, 
+   {}
+  ]
+ ], 
+ [
+  205532, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 205528, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  205501, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 205498, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  205503, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 205498, 
+    "author": "Matthew S"
+   }
+  ]
+ ]
+]

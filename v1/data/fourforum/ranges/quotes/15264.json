@@ -1,0 +1,416 @@
+[
+ [
+  427392, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "jitobear;427391", 
+    "quote_id": 427391, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  427395, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "daewoo;427392", 
+    "quote_id": 427392, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427397, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "poet;427395", 
+    "quote_id": 427395, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427405, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "daewoo;427397", 
+    "quote_id": 427397, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427410, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "poet;427405", 
+    "quote_id": 427405, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427423, 
+  [
+   0, 
+   611, 
+   {
+    "raw_data": "daewoo;427360", 
+    "quote_id": 427360, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427424, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "daewoo;427410", 
+    "quote_id": 427410, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427426, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "daewoo;427410", 
+    "quote_id": 427410, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427427, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "JPSartre12;427424", 
+    "quote_id": 427424, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427431, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "poet;427427", 
+    "quote_id": 427427, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427434, 
+  [
+   0, 
+   533, 
+   {
+    "raw_data": "JPSartre12;427431", 
+    "quote_id": 427431, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427442, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "poet;427434", 
+    "quote_id": 427434, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427447, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "JPSartre12;427442", 
+    "quote_id": 427442, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427449, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "poet;427447", 
+    "quote_id": 427447, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427451, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "JPSartre12;427449", 
+    "quote_id": 427449, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427327, 
+  [
+   0, 
+   876, 
+   {}
+  ]
+ ], 
+ [
+  427459, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "poet;427451", 
+    "quote_id": 427451, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427336, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "JPSartre12;427327", 
+    "quote_id": 427327, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427476, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "JPSartre12;427423", 
+    "quote_id": 427423, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427351, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "sparetime;427345", 
+    "quote_id": 427345, 
+    "author": "sparetime"
+   }
+  ]
+ ], 
+ [
+  427487, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "JPSartre12;427459", 
+    "quote_id": 427459, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427360, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "JPSartre12;427327", 
+    "quote_id": 427327, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427501, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "daewoo;427476", 
+    "quote_id": 427476, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427501, 
+  [
+   257, 
+   806, 
+   {}
+  ]
+ ], 
+ [
+  427501, 
+  [
+   812, 
+   1390, 
+   {}
+  ]
+ ], 
+ [
+  427501, 
+  [
+   1523, 
+   1793, 
+   {
+    "quote_id": 427476, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427501, 
+  [
+   1861, 
+   2476, 
+   {
+    "quote_id": 427476, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427501, 
+  [
+   2613, 
+   3114, 
+   {
+    "quote_id": 427476, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427501, 
+  [
+   3283, 
+   3935, 
+   {
+    "quote_id": 427476, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  427502, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "poet;427487", 
+    "quote_id": 427487, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427502, 
+  [
+   435, 
+   650, 
+   {
+    "quote_id": 427487, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427502, 
+  [
+   710, 
+   813, 
+   {
+    "quote_id": 427487, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  427511, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "JPSartre12;427501", 
+    "quote_id": 427501, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  427511, 
+  [
+   980, 
+   1283, 
+   {}
+  ]
+ ], 
+ [
+  427511, 
+  [
+   2040, 
+   2376, 
+   {}
+  ]
+ ], 
+ [
+  427511, 
+  [
+   3656, 
+   3962, 
+   {}
+  ]
+ ], 
+ [
+  427391, 
+  [
+   0, 
+   611, 
+   {
+    "raw_data": "daewoo;427360", 
+    "quote_id": 427360, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

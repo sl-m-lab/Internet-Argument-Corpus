@@ -1,0 +1,406 @@
+[
+ [
+  385410, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "gansao;385338", 
+    "quote_id": 385338, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  385411, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Penfold;385410", 
+    "quote_id": 385410, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  388875, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;388770", 
+    "quote_id": 388770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385304, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "simone;385303", 
+    "quote_id": 385303, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  388770, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "COBHC;388722", 
+    "quote_id": 388722, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  385371, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;385318", 
+    "quote_id": 385318, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  388900, 
+  [
+   0, 
+   547, 
+   {
+    "raw_data": "COBHC;388875", 
+    "quote_id": 388875, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  388517, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "simone;385121", 
+    "quote_id": 385121, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385318, 
+  [
+   27, 
+   1120, 
+   {}
+  ]
+ ], 
+ [
+  385320, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;385318", 
+    "quote_id": 385318, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385324, 
+  [
+   91, 
+   1093, 
+   {}
+  ]
+ ], 
+ [
+  385324, 
+  [
+   1360, 
+   2610, 
+   {}
+  ]
+ ], 
+ [
+  385325, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "simone;385322", 
+    "quote_id": 385322, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  384688, 
+  [
+   84, 
+   3083, 
+   {}
+  ]
+ ], 
+ [
+  385338, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Penfold;385336", 
+    "quote_id": 385336, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  388799, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "simone;388570", 
+    "quote_id": 388570, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385216, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "simone;385213", 
+    "quote_id": 385213, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  388941, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "simone;388900", 
+    "quote_id": 388900, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385106, 
+  [
+   0, 
+   286, 
+   {}
+  ]
+ ], 
+ [
+  385108, 
+  [
+   0, 
+   676, 
+   {}
+  ]
+ ], 
+ [
+  388722, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "simone;388582", 
+    "quote_id": 388582, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  388570, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Superlite27;388517", 
+    "quote_id": 388517, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  388570, 
+  [
+   251, 
+   273, 
+   {}
+  ]
+ ], 
+ [
+  388570, 
+  [
+   400, 
+   456, 
+   {}
+  ]
+ ], 
+ [
+  388570, 
+  [
+   577, 
+   603, 
+   {}
+  ]
+ ], 
+ [
+  385115, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "simone;385112", 
+    "quote_id": 385112, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  384736, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "JPSartre12;384688", 
+    "quote_id": 384688, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  384740, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "jazyjason;384736", 
+    "quote_id": 384736, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384742, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "OldSarge;384740", 
+    "quote_id": 384740, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  385128, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "simone;385121", 
+    "quote_id": 385121, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  388841, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "simone;388770", 
+    "quote_id": 388770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385517, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Penfold;385515", 
+    "quote_id": 385515, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  385264, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "simone;385247", 
+    "quote_id": 385247, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  385264, 
+  [
+   402, 
+   647, 
+   {}
+  ]
+ ], 
+ [
+  384754, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "jazyjason;384736", 
+    "quote_id": 384736, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  388906, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "simone;388900", 
+    "quote_id": 388900, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  388949, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "simone;388900", 
+    "quote_id": 388900, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

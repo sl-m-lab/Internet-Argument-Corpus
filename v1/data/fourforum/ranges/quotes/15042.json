@@ -1,0 +1,785 @@
+[
+ [
+  424576, 
+  [
+   0, 
+   515, 
+   {
+    "raw_data": "daewoo;424572", 
+    "quote_id": 424572, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424333, 
+  [
+   0, 
+   1184, 
+   {
+    "raw_data": "Steeeeve;424323", 
+    "quote_id": 424323, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424621, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "daewoo;424618", 
+    "quote_id": 424618, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424342, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "daewoo;424333", 
+    "quote_id": 424333, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424342, 
+  [
+   1162, 
+   1725, 
+   {
+    "raw_data": "daewoo;424333", 
+    "quote_id": 424333, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424607, 
+  [
+   0, 
+   728, 
+   {
+    "raw_data": "Xcaliber;424576", 
+    "quote_id": 424576, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424368, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Steeeeve;424355", 
+    "quote_id": 424355, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424425, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "Xcaliber;424411", 
+    "quote_id": 424411, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424425, 
+  [
+   1000, 
+   1095, 
+   {
+    "quote_id": 424411, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424485, 
+  [
+   0, 
+   701, 
+   {
+    "raw_data": "Xcaliber;424342", 
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424485, 
+  [
+   1498, 
+   2244, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424485, 
+  [
+   2465, 
+   3148, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424485, 
+  [
+   3446, 
+   4126, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424485, 
+  [
+   4256, 
+   4930, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424359, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Steeeeve;424355", 
+    "quote_id": 424355, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424361, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Xcaliber;424359", 
+    "quote_id": 424359, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424361, 
+  [
+   380, 
+   640, 
+   {
+    "quote_id": 424359, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424361, 
+  [
+   972, 
+   1701, 
+   {
+    "quote_id": 424359, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424618, 
+  [
+   0, 
+   595, 
+   {
+    "raw_data": "Xcaliber;424609", 
+    "quote_id": 424609, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424618, 
+  [
+   923, 
+   1051, 
+   {
+    "quote_id": 424609, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424618, 
+  [
+   1640, 
+   2998, 
+   {}
+  ]
+ ], 
+ [
+  424618, 
+  [
+   3705, 
+   4165, 
+   {
+    "quote_id": 424609, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424619, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "Steeeeve;424617", 
+    "quote_id": 424617, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424365, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Steeeeve;424361", 
+    "quote_id": 424361, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424622, 
+  [
+   0, 
+   695, 
+   {
+    "raw_data": "daewoo;424618", 
+    "quote_id": 424618, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424496, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "daewoo;424485", 
+    "quote_id": 424485, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424625, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Xcaliber;424342", 
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424371, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Xcaliber;424365", 
+    "quote_id": 424365, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424371, 
+  [
+   489, 
+   782, 
+   {
+    "quote_id": 424365, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424637, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "Xcaliber;424621", 
+    "quote_id": 424621, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424639, 
+  [
+   0, 
+   1250, 
+   {
+    "raw_data": "Xcaliber;424622", 
+    "quote_id": 424622, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424641, 
+  [
+   0, 
+   606, 
+   {
+    "raw_data": "Xcaliber;424609", 
+    "quote_id": 424609, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424515, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "daewoo;424485", 
+    "quote_id": 424485, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424515, 
+  [
+   1484, 
+   1606, 
+   {
+    "raw_data": "daewoo;424485", 
+    "quote_id": 424485, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   821, 
+   988, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   1484, 
+   1796, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   1811, 
+   2060, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   2197, 
+   2744, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   3361, 
+   4051, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424609, 
+  [
+   4808, 
+   5091, 
+   {
+    "raw_data": "daewoo;424607", 
+    "quote_id": 424607, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424648, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Steeeeve;424641", 
+    "quote_id": 424641, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424525, 
+  [
+   0, 
+   1184, 
+   {
+    "raw_data": "Xcaliber;424515", 
+    "quote_id": 424515, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424655, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "daewoo;424637", 
+    "quote_id": 424637, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424529, 
+  [
+   0, 
+   1185, 
+   {
+    "raw_data": "Xcaliber;424515", 
+    "quote_id": 424515, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424529, 
+  [
+   1947, 
+   2191, 
+   {
+    "quote_id": 424515, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424530, 
+  [
+   0, 
+   781, 
+   {
+    "raw_data": "Steeeeve;424496", 
+    "quote_id": 424496, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Xcaliber;424342", 
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   475, 
+   900, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   1304, 
+   1537, 
+   {}
+  ]
+ ], 
+ [
+  424355, 
+  [
+   1959, 
+   2144, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   2401, 
+   2898, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   3093, 
+   3357, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   3845, 
+   4260, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424355, 
+  [
+   4680, 
+   4835, 
+   {
+    "quote_id": 424342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424532, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "daewoo;424529", 
+    "quote_id": 424529, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424532, 
+  [
+   1209, 
+   1386, 
+   {
+    "raw_data": "daewoo;424529", 
+    "quote_id": 424529, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424532, 
+  [
+   1866, 
+   2158, 
+   {
+    "raw_data": "daewoo;424529", 
+    "quote_id": 424529, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  424411, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "Steeeeve;424371", 
+    "quote_id": 424371, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424567, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Xcaliber;424532", 
+    "quote_id": 424532, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424567, 
+  [
+   171, 
+   734, 
+   {
+    "quote_id": 424532, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424567, 
+  [
+   1079, 
+   1597, 
+   {
+    "quote_id": 424532, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424567, 
+  [
+   1945, 
+   2310, 
+   {}
+  ]
+ ], 
+ [
+  424569, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Steeeeve;424567", 
+    "quote_id": 424567, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  424572, 
+  [
+   0, 
+   702, 
+   {
+    "raw_data": "Xcaliber;424532", 
+    "quote_id": 424532, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424572, 
+  [
+   1627, 
+   2099, 
+   {
+    "quote_id": 424532, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424572, 
+  [
+   2197, 
+   2715, 
+   {
+    "quote_id": 424532, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424573, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Steeeeve;424567", 
+    "quote_id": 424567, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

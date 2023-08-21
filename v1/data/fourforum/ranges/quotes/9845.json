@@ -1,0 +1,255 @@
+[
+ [
+  261315, 
+  [
+   0, 
+   194, 
+   {}
+  ]
+ ], 
+ [
+  273382, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Winston Smith;273325", 
+    "quote_id": 273325, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  273382, 
+  [
+   950, 
+   1169, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 273325, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  273382, 
+  [
+   1464, 
+   1761, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 273325, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  261959, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "Another opinion;261315", 
+    "quote_id": 261315, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  261959, 
+  [
+   1584, 
+   2037, 
+   {
+    "quote_id": 261315, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  261959, 
+  [
+   2453, 
+   3277, 
+   {
+    "quote_id": 261315, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  261544, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "Another opinion;261400", 
+    "quote_id": 261400, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  261961, 
+  [
+   0, 
+   662, 
+   {
+    "raw_data": "Archangel;261959", 
+    "quote_id": 261959, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  272391, 
+  [
+   0, 
+   1071, 
+   {
+    "raw_data": "jyoshu;272381", 
+    "quote_id": 272381, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  262061, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Archangel;261959", 
+    "quote_id": 261959, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  262061, 
+  [
+   1275, 
+   1861, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 261959, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  262061, 
+  [
+   2584, 
+   2990, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 261959, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  262061, 
+  [
+   3810, 
+   4471, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 261959, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  272045, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "Matthew S;272024", 
+    "quote_id": 272024, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  272024, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "Zardoz;261652", 
+    "quote_id": 261652, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  261395, 
+  [
+   0, 
+   1907, 
+   {
+    "raw_data": "Another opinion;261315", 
+    "quote_id": 261315, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  268277, 
+  [
+   0, 
+   406, 
+   {
+    "quote_id": 261959, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  261400, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "huckleberry;261395", 
+    "quote_id": 261395, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  272381, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Another opinion;272045", 
+    "quote_id": 272045, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  261182, 
+  [
+   120, 
+   1399, 
+   {
+    "raw_data": "simone;260440", 
+    "unknown_quote_id": 260440, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  261182, 
+  [
+   120, 
+   2052, 
+   {}
+  ]
+ ]
+]

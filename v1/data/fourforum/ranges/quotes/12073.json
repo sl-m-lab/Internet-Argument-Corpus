@@ -1,0 +1,591 @@
+[
+ [
+  340326, 
+  [
+   0, 
+   682, 
+   {
+    "raw_data": "Steeeeve;340165", 
+    "quote_id": 340165, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340403, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "Steeeeve;340335", 
+    "quote_id": 340335, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340403, 
+  [
+   1384, 
+   1597, 
+   {
+    "quote_id": 340335, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339475, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "T.Q;339445", 
+    "quote_id": 339445, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  339475, 
+  [
+   323, 
+   410, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 339466, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  339475, 
+  [
+   658, 
+   726, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 339466, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  336035, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "sinjin;335973", 
+    "quote_id": 335973, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  340773, 
+  [
+   0, 
+   1017, 
+   {
+    "raw_data": "daewoo;340403", 
+    "quote_id": 340403, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340774, 
+  [
+   0, 
+   567, 
+   {
+    "raw_data": "Steeeeve;340773", 
+    "quote_id": 340773, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339499, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Steeeeve;336046", 
+    "quote_id": 336046, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  336044, 
+  [
+   0, 
+   3634, 
+   {
+    "raw_data": "Steeeeve;336010", 
+    "quote_id": 336010, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339501, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Steeeeve;339429", 
+    "quote_id": 339429, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  336046, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Charliegone;336044", 
+    "quote_id": 336044, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  340143, 
+  [
+   0, 
+   990, 
+   {
+    "raw_data": "daewoo;340120", 
+    "quote_id": 340120, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  335920, 
+  [
+   53, 
+   228, 
+   {
+    "raw_data": "Barack Obama", 
+    "unknown_author": "Barack Obama"
+   }
+  ]
+ ], 
+ [
+  340147, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "Steeeeve;340143", 
+    "quote_id": 340143, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340147, 
+  [
+   800, 
+   1479, 
+   {}
+  ]
+ ], 
+ [
+  340147, 
+  [
+   1577, 
+   2694, 
+   {}
+  ]
+ ], 
+ [
+  340921, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Steeeeve;340809", 
+    "quote_id": 340809, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340921, 
+  [
+   1664, 
+   1923, 
+   {
+    "quote_id": 340809, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340921, 
+  [
+   2448, 
+   2518, 
+   {
+    "quote_id": 340809, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339466, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "T.Q;339445", 
+    "quote_id": 339445, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  340809, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "daewoo;340774", 
+    "quote_id": 340774, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340809, 
+  [
+   861, 
+   1172, 
+   {
+    "quote_id": 340774, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340809, 
+  [
+   1248, 
+   1331, 
+   {
+    "quote_id": 340774, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  339530, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "obvious_child;339499", 
+    "quote_id": 339499, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339530, 
+  [
+   861, 
+   1292, 
+   {
+    "quote_id": 339499, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339531, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "obvious_child;339501", 
+    "quote_id": 339501, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339539, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Steeeeve;339530", 
+    "quote_id": 339530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339539, 
+  [
+   1061, 
+   1367, 
+   {
+    "quote_id": 339530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339539, 
+  [
+   1814, 
+   1850, 
+   {
+    "quote_id": 339530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339539, 
+  [
+   2677, 
+   2852, 
+   {
+    "quote_id": 339530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339539, 
+  [
+   3655, 
+   3860, 
+   {
+    "quote_id": 339530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339541, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Steeeeve;339531", 
+    "quote_id": 339531, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  339541, 
+  [
+   359, 
+   435, 
+   {
+    "quote_id": 339531, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340955, 
+  [
+   0, 
+   1356, 
+   {
+    "raw_data": "daewoo;340921", 
+    "quote_id": 340921, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340955, 
+  [
+   1460, 
+   1975, 
+   {
+    "quote_id": 340921, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340955, 
+  [
+   2176, 
+   2477, 
+   {
+    "quote_id": 340921, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  339429, 
+  [
+   51, 
+   323, 
+   {
+    "raw_data": "Obama", 
+    "unknown_author": "Obama"
+   }
+  ]
+ ], 
+ [
+  339429, 
+  [
+   487, 
+   682, 
+   {
+    "raw_data": "Steeeeve on Obama", 
+    "unknown_author": "Steeeeve on Obama"
+   }
+  ]
+ ], 
+ [
+  335969, 
+  [
+   0, 
+   917, 
+   {
+    "raw_data": "Steeeeve;335920", 
+    "quote_id": 335920, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  336354, 
+  [
+   0, 
+   874, 
+   {}
+  ]
+ ], 
+ [
+  339558, 
+  [
+   0, 
+   697, 
+   {
+    "raw_data": "obvious_child;339539", 
+    "quote_id": 339539, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339558, 
+  [
+   1151, 
+   1588, 
+   {
+    "quote_id": 339539, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339558, 
+  [
+   1987, 
+   2804, 
+   {
+    "quote_id": 339539, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339558, 
+  [
+   3418, 
+   3609, 
+   {
+    "quote_id": 339539, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339558, 
+  [
+   3994, 
+   4037, 
+   {
+    "quote_id": 339539, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  339558, 
+  [
+   4314, 
+   4616, 
+   {
+    "quote_id": 339539, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  340199, 
+  [
+   90, 
+   630, 
+   {
+    "raw_data": "Article", 
+    "unknown_author": "Article"
+   }
+  ]
+ ], 
+ [
+  339560, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "obvious_child;339541", 
+    "quote_id": 339541, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  340335, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "daewoo;340326", 
+    "quote_id": 340326, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340335, 
+  [
+   425, 
+   839, 
+   {
+    "quote_id": 340326, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

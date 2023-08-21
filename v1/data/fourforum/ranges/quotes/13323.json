@@ -1,0 +1,86 @@
+[
+ [
+  371426, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "modulus;371415", 
+    "quote_id": 371415, 
+    "author": "modulus"
+   }
+  ]
+ ], 
+ [
+  371011, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "modulus;370886", 
+    "quote_id": 370886, 
+    "author": "modulus"
+   }
+  ]
+ ], 
+ [
+  371022, 
+  [
+   0, 
+   782, 
+   {
+    "raw_data": "antonia;371011", 
+    "quote_id": 371011, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371312, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "JPSartre12;371022", 
+    "quote_id": 371022, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371374, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "modulus;371312", 
+    "quote_id": 371312, 
+    "author": "modulus"
+   }
+  ]
+ ], 
+ [
+  371415, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "JPSartre12;371374", 
+    "quote_id": 371374, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371445, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "JPSartre12;371426", 
+    "quote_id": 371426, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

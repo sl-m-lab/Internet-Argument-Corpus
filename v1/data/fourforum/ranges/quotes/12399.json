@@ -1,0 +1,608 @@
+[
+ [
+  345346, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Jo Bennett;345330", 
+    "quote_id": 345330, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345346, 
+  [
+   1561, 
+   1761, 
+   {
+    "raw_data": "Iuris;345334", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345346, 
+  [
+   2197, 
+   2246, 
+   {
+    "raw_data": "Iuris", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345346, 
+  [
+   5069, 
+   5190, 
+   {
+    "raw_data": "Iuris", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345346, 
+  [
+   5863, 
+   6081, 
+   {
+    "raw_data": "Iuris", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345347, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "Iuris;345334", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345474, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Winston Smith;345457", 
+    "quote_id": 345457, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345633, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Winston Smith;345631", 
+    "quote_id": 345631, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345765, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "Jo Bennett;345629", 
+    "quote_id": 345629, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345765, 
+  [
+   556, 
+   853, 
+   {}
+  ]
+ ], 
+ [
+  345642, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Jo Bennett;345633", 
+    "quote_id": 345633, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345649, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "smiley;345647", 
+    "quote_id": 345647, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  345650, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Archangel;345649", 
+    "quote_id": 345649, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345524, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Jo Bennett;345508", 
+    "quote_id": 345508, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345653, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "smiley;345650", 
+    "quote_id": 345650, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  345653, 
+  [
+   718, 
+   1179, 
+   {
+    "raw_data": "Archangel;345649", 
+    "quote_id": 345649, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345526, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Winston Smith;345464", 
+    "quote_id": 345464, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345526, 
+  [
+   484, 
+   728, 
+   {
+    "raw_data": "Jo Bennett;345508", 
+    "quote_id": 345508, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345526, 
+  [
+   795, 
+   1087, 
+   {
+    "raw_data": "Archangel;345524", 
+    "quote_id": 345524, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345461, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Winston Smith;345457", 
+    "quote_id": 345457, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345461, 
+  [
+   383, 
+   466, 
+   {
+    "quote_id": 345457, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  345654, 
+  [
+   0, 
+   453, 
+   {}
+  ]
+ ], 
+ [
+  345654, 
+  [
+   749, 
+   1244, 
+   {}
+  ]
+ ], 
+ [
+  345654, 
+  [
+   0, 
+   1245, 
+   {}
+  ]
+ ], 
+ [
+  345654, 
+  [
+   1495, 
+   1629, 
+   {
+    "quote_id": 345649, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345818, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "isly ilwott;345765", 
+    "quote_id": 345765, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  345336, 
+  [
+   102, 
+   1876, 
+   {}
+  ]
+ ], 
+ [
+  345811, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "Archangel;345764", 
+    "quote_id": 345764, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345811, 
+  [
+   643, 
+   1184, 
+   {
+    "quote_id": 345764, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345811, 
+  [
+   1409, 
+   1683, 
+   {
+    "quote_id": 345764, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345811, 
+  [
+   1770, 
+   2081, 
+   {
+    "quote_id": 345764, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345811, 
+  [
+   2171, 
+   5472, 
+   {
+    "quote_id": 345764, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345812, 
+  [
+   0, 
+   755, 
+   {
+    "raw_data": "isly ilwott;345765", 
+    "quote_id": 345765, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  345433, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Charliegone;345321", 
+    "quote_id": 345321, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Archangel;345671", 
+    "quote_id": 345671, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   445, 
+   647, 
+   {
+    "quote_id": 345671, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   674, 
+   1035, 
+   {
+    "quote_id": 345671, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   1358, 
+   1679, 
+   {
+    "quote_id": 345671, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   1954, 
+   3052, 
+   {
+    "quote_id": 345671, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   3229, 
+   3601, 
+   {
+    "quote_id": 345671, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345690, 
+  [
+   3717, 
+   3830, 
+   {}
+  ]
+ ], 
+ [
+  345564, 
+  [
+   0, 
+   494, 
+   {
+    "raw_data": "Jo Bennett;345561", 
+    "quote_id": 345561, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345821, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Jo Bennett;345812", 
+    "quote_id": 345812, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345567, 
+  [
+   71, 
+   565, 
+   {
+    "raw_data": "Jo Bennett;345561", 
+    "quote_id": 345561, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  345457, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "Iuris;345334", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345458, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Penfold;345328", 
+    "quote_id": 345328, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  345458, 
+  [
+   815, 
+   1415, 
+   {
+    "raw_data": "Iuris;345334", 
+    "quote_id": 345334, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  345458, 
+  [
+   1455, 
+   1851, 
+   {
+    "raw_data": "simone;345433", 
+    "quote_id": 345433, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  345764, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "smiley;345690", 
+    "quote_id": 345690, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  345764, 
+  [
+   676, 
+   943, 
+   {
+    "quote_id": 345690, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  345764, 
+  [
+   1494, 
+   1663, 
+   {
+    "quote_id": 345690, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  345764, 
+  [
+   1947, 
+   2055, 
+   {
+    "quote_id": 345690, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  345764, 
+  [
+   2376, 
+   2557, 
+   {}
+  ]
+ ], 
+ [
+  345333, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Penfold;345328", 
+    "quote_id": 345328, 
+    "author": "Penfold"
+   }
+  ]
+ ]
+]

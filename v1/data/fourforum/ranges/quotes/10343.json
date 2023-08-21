@@ -1,0 +1,381 @@
+[
+ [
+  283009, 
+  [
+   0, 
+   506, 
+   {
+    "raw_data": "jyoshu;282978", 
+    "quote_id": 282978, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  283010, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "chemist99a;282994", 
+    "quote_id": 282994, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  283015, 
+  [
+   0, 
+   84, 
+   {
+    "quote_id": 283010, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  283017, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "chemist99a;283016", 
+    "quote_id": 283016, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  283245, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Kronus;282970", 
+    "quote_id": 282970, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  283285, 
+  [
+   0, 
+   1397, 
+   {
+    "raw_data": "supersport;282967", 
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  283036, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "supersport;282967", 
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  283036, 
+  [
+   243, 
+   452, 
+   {
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  283036, 
+  [
+   728, 
+   753, 
+   {
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  283038, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "&quot;supersport&quot;", 
+    "quote_id": 283012, 
+    "unknown_author": "&quot", 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  283041, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "charlie horse;283038", 
+    "quote_id": 283038, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  283041, 
+  [
+   406, 
+   3345, 
+   {}
+  ]
+ ], 
+ [
+  283047, 
+  [
+   0, 
+   211, 
+   {}
+  ]
+ ], 
+ [
+  283292, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "chemist99a;283041", 
+    "quote_id": 283041, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  283250, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "chemist99a;283016", 
+    "quote_id": 283016, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284209, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 283919, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284209, 
+  [
+   153, 
+   216, 
+   {
+    "quote_id": 283919, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284209, 
+  [
+   369, 
+   429, 
+   {
+    "quote_id": 283919, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284209, 
+  [
+   579, 
+   616, 
+   {
+    "quote_id": 283919, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284209, 
+  [
+   824, 
+   886, 
+   {
+    "quote_id": 283919, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  283317, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Antibogotes;283285", 
+    "quote_id": 283285, 
+    "author": "Antibogotes"
+   }
+  ]
+ ], 
+ [
+  283320, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Antibogotes;283250", 
+    "quote_id": 283250, 
+    "author": "Antibogotes"
+   }
+  ]
+ ], 
+ [
+  283325, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Count Otto;283320", 
+    "quote_id": 283320, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  283329, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Kronus;283325", 
+    "quote_id": 283325, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  282967, 
+  [
+   0, 
+   1618, 
+   {
+    "raw_data": "Antibogotes;282966", 
+    "quote_id": 282966, 
+    "author": "Antibogotes"
+   }
+  ]
+ ], 
+ [
+  282970, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "supersport;282967", 
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  282971, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Antibogotes;282966", 
+    "quote_id": 282966, 
+    "author": "Antibogotes"
+   }
+  ]
+ ], 
+ [
+  282978, 
+  [
+   0, 
+   482, 
+   {
+    "raw_data": "supersport;282967", 
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  282983, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "jyoshu;282978", 
+    "quote_id": 282978, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  283243, 
+  [
+   179, 
+   564, 
+   {
+    "raw_data": "Kronus;282971", 
+    "quote_id": 282971, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  283244, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "supersport;282967", 
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  282994, 
+  [
+   0, 
+   114, 
+   {
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  282994, 
+  [
+   465, 
+   490, 
+   {
+    "quote_id": 282967, 
+    "author": "supersport"
+   }
+  ]
+ ]
+]

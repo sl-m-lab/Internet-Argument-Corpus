@@ -1,0 +1,792 @@
+[
+ [
+  202604, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 200808, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  203030, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 202676, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  201121, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 201119, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  203045, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 203030, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  203045, 
+  [
+   209, 
+   352, 
+   {
+    "quote_id": 203030, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  203271, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202725, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  203053, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Bassman", 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  202689, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202685, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202689, 
+  [
+   1252, 
+   1645, 
+   {
+    "quote_id": 202685, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202611, 
+  [
+   0, 
+   87, 
+   {
+    "quote_id": 202608, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202611, 
+  [
+   773, 
+   835, 
+   {
+    "quote_id": 202608, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202611, 
+  [
+   1591, 
+   1680, 
+   {
+    "quote_id": 202608, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202611, 
+  [
+   1751, 
+   1885, 
+   {
+    "quote_id": 202608, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202846, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202728, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202680, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202617, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202680, 
+  [
+   1339, 
+   1750, 
+   {
+    "quote_id": 202617, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202681, 
+  [
+   0, 
+   710, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202625, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202685, 
+  [
+   275, 
+   400, 
+   {
+    "quote_id": 202680, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  200897, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 200802, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  201156, 
+  [
+   0, 
+   84, 
+   {
+    "quote_id": 200937, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  201158, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 201156, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   0, 
+   112, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   199, 
+   271, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   910, 
+   1019, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   1290, 
+   1419, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   1984, 
+   2096, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   2717, 
+   2968, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202700, 
+  [
+   3201, 
+   3294, 
+   {
+    "quote_id": 202689, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  207609, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Freedom Fighter", 
+    "quote_id": 200762, 
+    "author": "Freedom Fighter"
+   }
+  ]
+ ], 
+ [
+  201180, 
+  [
+   0, 
+   113, 
+   {
+    "quote_id": 201158, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   128, 
+   450, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   515, 
+   818, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   946, 
+   1207, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   1295, 
+   1540, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   2202, 
+   2369, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   2511, 
+   2951, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   3097, 
+   3320, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202723, 
+  [
+   3423, 
+   3711, 
+   {
+    "quote_id": 202700, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202724, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202605, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202724, 
+  [
+   939, 
+   1150, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202605, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202725, 
+  [
+   0, 
+   156, 
+   {
+    "quote_id": 202724, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  202725, 
+  [
+   489, 
+   607, 
+   {
+    "quote_id": 202723, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202725, 
+  [
+   1065, 
+   1268, 
+   {
+    "quote_id": 202723, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202725, 
+  [
+   2974, 
+   3006, 
+   {
+    "quote_id": 202723, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202732, 
+  [
+   0, 
+   361, 
+   {
+    "quote_id": 202722, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  200937, 
+  [
+   0, 
+   1226, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 200808, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  201196, 
+  [
+   0, 
+   1085, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 201119, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  202605, 
+  [
+   0, 
+   82, 
+   {
+    "quote_id": 202604, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  202605, 
+  [
+   169, 
+   202, 
+   {
+    "quote_id": 202604, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  202605, 
+  [
+   280, 
+   347, 
+   {
+    "quote_id": 202604, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  202605, 
+  [
+   385, 
+   505, 
+   {
+    "quote_id": 202604, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  201070, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 200937, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  202608, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202605, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202608, 
+  [
+   1022, 
+   1398, 
+   {}
+  ]
+ ], 
+ [
+  202728, 
+  [
+   0, 
+   780, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202712, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  201077, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 201076, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202615, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 202611, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202615, 
+  [
+   943, 
+   1033, 
+   {
+    "quote_id": 202611, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202615, 
+  [
+   1135, 
+   1787, 
+   {
+    "quote_id": 202611, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202615, 
+  [
+   2315, 
+   2376, 
+   {
+    "quote_id": 202611, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202615, 
+  [
+   2419, 
+   2826, 
+   {
+    "quote_id": 202611, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   0, 
+   49, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   152, 
+   201, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   222, 
+   472, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   627, 
+   706, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   940, 
+   1002, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   1832, 
+   1962, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202617, 
+  [
+   2114, 
+   2246, 
+   {
+    "quote_id": 202615, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  233471, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Bassman;202676", 
+    "quote_id": 202676, 
+    "author": "Bassman"
+   }
+  ]
+ ]
+]

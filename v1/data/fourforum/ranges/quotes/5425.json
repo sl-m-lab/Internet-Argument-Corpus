@@ -1,0 +1,587 @@
+[
+ [
+  130624, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 130617, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  130624, 
+  [
+   34, 
+   73, 
+   {
+    "raw_data": "Me", 
+    "quote_id": 130565, 
+    "unknown_author": "Me", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130565, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 130400, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   352, 
+   426, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   513, 
+   651, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   759, 
+   1088, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   1398, 
+   1727, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   1907, 
+   1971, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   2049, 
+   2314, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   2458, 
+   3030, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   3372, 
+   3693, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   3912, 
+   4435, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130625, 
+  [
+   4735, 
+   4859, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130565, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130952, 
+  [
+   0, 
+   434, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 129632, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130331, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 130278, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  129567, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 129200, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130843, 
+  [
+   0, 
+   244, 
+   {
+    "quote_id": 130648, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130843, 
+  [
+   623, 
+   1216, 
+   {
+    "quote_id": 130648, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130843, 
+  [
+   1405, 
+   2015, 
+   {
+    "quote_id": 130648, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130843, 
+  [
+   2344, 
+   2778, 
+   {
+    "quote_id": 130648, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  129867, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 129773, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  129201, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 129200, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  129715, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 129714, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  129208, 
+  [
+   0, 
+   620, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 129201, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  130617, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129210, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 129208, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  129211, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 129210, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  129216, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 129213, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  130400, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 130379, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130400, 
+  [
+   368, 
+   708, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 130379, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  130400, 
+  [
+   1116, 
+   1294, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 130379, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  129219, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "foreverblue", 
+    "quote_id": 129211, 
+    "author": "foreverblue"
+   }
+  ]
+ ], 
+ [
+  129221, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 129213, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  130379, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 130331, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  130648, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "&quot;nurglitch&quot;", 
+    "quote_id": 130625, 
+    "unknown_author": "&quot", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  129758, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 129748, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  129632, 
+  [
+   0, 
+   1066, 
+   {
+    "raw_data": "xeiah", 
+    "quote_id": 129567, 
+    "author": "xeiah"
+   }
+  ]
+ ], 
+ [
+  129763, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 129748, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  130278, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "&quot;Nurglitch&quot;", 
+    "quote_id": 129894, 
+    "unknown_author": "&quot", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  129894, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129867, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129894, 
+  [
+   174, 
+   326, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129867, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129894, 
+  [
+   720, 
+   870, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129867, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129894, 
+  [
+   1132, 
+   1345, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129867, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129894, 
+  [
+   1397, 
+   1635, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129867, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129894, 
+  [
+   1930, 
+   2194, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129867, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  129773, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 129763, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130677, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130624, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  130677, 
+  [
+   110, 
+   196, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 130624, 
+    "author": "Zardoz"
+   }
+  ]
+ ]
+]

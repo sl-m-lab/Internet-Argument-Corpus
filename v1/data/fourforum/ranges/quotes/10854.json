@@ -1,0 +1,342 @@
+[
+ [
+  299179, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "jitobear;299046", 
+    "quote_id": 299046, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  299017, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Undeterred;298923", 
+    "quote_id": 298923, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299153, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Archangel;299043", 
+    "quote_id": 299043, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299153, 
+  [
+   992, 
+   1080, 
+   {
+    "raw_data": "Archangel;299043", 
+    "quote_id": 299043, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299027, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "obvious_child;299017", 
+    "quote_id": 299017, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  299030, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Archangel;299027", 
+    "quote_id": 299027, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  298908, 
+  [
+   0, 
+   727, 
+   {
+    "raw_data": "Archangel;298906", 
+    "quote_id": 298906, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  298908, 
+  [
+   812, 
+   910, 
+   {}
+  ]
+ ], 
+ [
+  299037, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "Undeterred;299030", 
+    "quote_id": 299030, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299041, 
+  [
+   0, 
+   1686, 
+   {
+    "raw_data": "Archangel;299037", 
+    "quote_id": 299037, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299043, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Undeterred;299041", 
+    "quote_id": 299041, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299043, 
+  [
+   563, 
+   677, 
+   {
+    "quote_id": 299041, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299043, 
+  [
+   880, 
+   1046, 
+   {
+    "quote_id": 299041, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299043, 
+  [
+   1225, 
+   1374, 
+   {
+    "quote_id": 299041, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299046, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Undeterred;299007", 
+    "quote_id": 299007, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  298919, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Archangel;298912", 
+    "quote_id": 298912, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  298923, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "obvious_child;298910", 
+    "quote_id": 298910, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  298924, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Archangel;298903", 
+    "quote_id": 298903, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299181, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Archangel;299160", 
+    "quote_id": 299160, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299322, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "jitobear;299046", 
+    "quote_id": 299046, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  299195, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Undeterred;299179", 
+    "quote_id": 299179, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  298944, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Archangel;298912", 
+    "quote_id": 298912, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  298970, 
+  [
+   0, 
+   717, 
+   {
+    "raw_data": "Undeterred;298923", 
+    "quote_id": 298923, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299160, 
+  [
+   0, 
+   643, 
+   {
+    "raw_data": "Undeterred;299153", 
+    "quote_id": 299153, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299160, 
+  [
+   960, 
+   1995, 
+   {
+    "quote_id": 299153, 
+    "author": "Undeterred"
+   }
+  ]
+ ], 
+ [
+  299116, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Archangel;299027", 
+    "quote_id": 299027, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299007, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "T.Q;298932", 
+    "quote_id": 298932, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  299007, 
+  [
+   869, 
+   888, 
+   {
+    "raw_data": "jitobear;298946", 
+    "quote_id": 298946, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  299007, 
+  [
+   1117, 
+   1200, 
+   {
+    "raw_data": "Neanderthal79;298976", 
+    "quote_id": 298976, 
+    "author": "Neanderthal79"
+   }
+  ]
+ ]
+]

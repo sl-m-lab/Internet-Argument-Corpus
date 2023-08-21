@@ -1,0 +1,129 @@
+[
+ [
+  72354, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 67997, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  72388, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "stormboy", 
+    "quote_id": 72354, 
+    "author": "stormboy"
+   }
+  ]
+ ], 
+ [
+  72388, 
+  [
+   600, 
+   729, 
+   {
+    "quote_id": 72354, 
+    "author": "stormboy"
+   }
+  ]
+ ], 
+ [
+  72388, 
+  [
+   828, 
+   1053, 
+   {
+    "quote_id": 72354, 
+    "author": "stormboy"
+   }
+  ]
+ ], 
+ [
+  72357, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 67997, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68809, 
+  [
+   0, 
+   684, 
+   {
+    "raw_data": "SLP", 
+    "quote_id": 67880, 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  68238, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  68238, 
+  [
+   801, 
+   973, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  68982, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 68913, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  67997, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 67885, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  68030, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ]
+]

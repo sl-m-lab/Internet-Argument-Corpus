@@ -1,0 +1,436 @@
+[
+ [
+  250710, 
+  [
+   0, 
+   1076, 
+   {
+    "raw_data": "TRIGGER;250504", 
+    "quote_id": 250504, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  248210, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "Galileo;248160", 
+    "quote_id": 248160, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  251032, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "Bryan;250983", 
+    "quote_id": 250983, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  250905, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Galileo;250710", 
+    "quote_id": 250710, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  250905, 
+  [
+   504, 
+   909, 
+   {
+    "quote_id": 250710, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  252506, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "E Mutz;250960", 
+    "quote_id": 250960, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  247329, 
+  [
+   0, 
+   91, 
+   {
+    "quote_id": 247260, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  247329, 
+  [
+   211, 
+   257, 
+   {
+    "quote_id": 247260, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  247719, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "gamehuis;247260", 
+    "quote_id": 247260, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  247720, 
+  [
+   0, 
+   80, 
+   {}
+  ]
+ ], 
+ [
+  247724, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Master_Shake;247719", 
+    "quote_id": 247719, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  248495, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "huckleberry;248210", 
+    "quote_id": 248210, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  248495, 
+  [
+   545, 
+   1275, 
+   {
+    "raw_data": "huckleberry;248210", 
+    "quote_id": 248210, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  248496, 
+  [
+   0, 
+   1647, 
+   {
+    "raw_data": "E Mutz;248246", 
+    "quote_id": 248246, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  250677, 
+  [
+   63, 
+   264, 
+   {
+    "quote_id": 248546, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  248246, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "Galileo;248160", 
+    "quote_id": 248160, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  247863, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Galileo;247799", 
+    "quote_id": 247799, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  247741, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Master_Shake;247719", 
+    "quote_id": 247719, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  247615, 
+  [
+   0, 
+   1123, 
+   {
+    "raw_data": "Galileo;247253", 
+    "quote_id": 247253, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  248777, 
+  [
+   0, 
+   1603, 
+   {
+    "raw_data": "E Mutz;248546", 
+    "quote_id": 248546, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  248526, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "Galileo;248495", 
+    "quote_id": 248495, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  247887, 
+  [
+   0, 
+   1123, 
+   {
+    "raw_data": "Galileo;247253", 
+    "quote_id": 247253, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  247631, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Galileo;247253", 
+    "quote_id": 247253, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  247260, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "emclean;247258", 
+    "quote_id": 247258, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  247903, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Master_Shake;247719", 
+    "quote_id": 247719, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  248160, 
+  [
+   0, 
+   587, 
+   {
+    "raw_data": "E Mutz;247863", 
+    "quote_id": 247863, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  247905, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Galileo;247253", 
+    "quote_id": 247253, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  248546, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Galileo;248496", 
+    "quote_id": 248496, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  248546, 
+  [
+   454, 
+   489, 
+   {
+    "raw_data": "Galileo;248496", 
+    "quote_id": 248496, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  248546, 
+  [
+   1023, 
+   1191, 
+   {
+    "raw_data": "Galileo;248496", 
+    "quote_id": 248496, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  250983, 
+  [
+   0, 
+   1584, 
+   {
+    "raw_data": "E Mutz;250960", 
+    "quote_id": 250960, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  247847, 
+  [
+   0, 
+   1123, 
+   {
+    "raw_data": "Galileo;247253", 
+    "quote_id": 247253, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  252745, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Galileo;252506", 
+    "quote_id": 252506, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  252745, 
+  [
+   334, 
+   495, 
+   {
+    "quote_id": 252506, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  252745, 
+  [
+   1124, 
+   1323, 
+   {
+    "quote_id": 252506, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  247799, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "E Mutz;247695", 
+    "quote_id": 247695, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  250709, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Yossarian;250677", 
+    "quote_id": 250677, 
+    "author": "Yossarian"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,1192 @@
+[
+ [
+  403072, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Doc Jones;403050", 
+    "quote_id": 403050, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403200, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Brady;403194", 
+    "quote_id": 403194, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  402946, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "NATO 556;402846", 
+    "quote_id": 402846, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403076, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "simone;403066", 
+    "quote_id": 403066, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403076, 
+  [
+   333, 
+   451, 
+   {
+    "quote_id": 403066, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402950, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "simone;402946", 
+    "quote_id": 402946, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402951, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Baron;402789", 
+    "quote_id": 402789, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  403194, 
+  [
+   0, 
+   601, 
+   {
+    "raw_data": "NATO 556;403159", 
+    "quote_id": 403159, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403082, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "NATO 556;403076", 
+    "quote_id": 403076, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403082, 
+  [
+   307, 
+   679, 
+   {}
+  ]
+ ], 
+ [
+  403085, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "simone;403082", 
+    "quote_id": 403082, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403086, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "simone;403082", 
+    "quote_id": 403082, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403203, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "sinjin;403182", 
+    "quote_id": 403182, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403203, 
+  [
+   1135, 
+   1191, 
+   {
+    "raw_data": "sinjin;403182", 
+    "quote_id": 403182, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403097, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "simone;403064", 
+    "quote_id": 403064, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402970, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Symbiote;402950", 
+    "quote_id": 402950, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  402971, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "simone;402970", 
+    "quote_id": 402970, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  404094, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "NATO 556;404069", 
+    "quote_id": 404069, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404219, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Galileo;404204", 
+    "quote_id": 404204, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404219, 
+  [
+   245, 
+   562, 
+   {
+    "raw_data": "&quot;Galileo&quot;", 
+    "quote_id": 403123, 
+    "unknown_author": "&quot", 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  402976, 
+  [
+   0, 
+   595, 
+   {
+    "raw_data": "Tither;402956", 
+    "quote_id": 402956, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403193, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "COBHC;403184", 
+    "quote_id": 403184, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  402987, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "simone;402946", 
+    "quote_id": 402946, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402987, 
+  [
+   989, 
+   1155, 
+   {
+    "quote_id": 402946, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402987, 
+  [
+   1212, 
+   1284, 
+   {
+    "raw_data": "simone;402970", 
+    "quote_id": 402970, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403186, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "NATO 556;403179", 
+    "quote_id": 403179, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404069, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "Galileo;404051", 
+    "quote_id": 404051, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  403174, 
+  [
+   199, 
+   266, 
+   {
+    "raw_data": "sinjin;403153", 
+    "quote_id": 403153, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403174, 
+  [
+   311, 
+   334, 
+   {
+    "raw_data": "sinjin;403153", 
+    "quote_id": 403153, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403174, 
+  [
+   520, 
+   611, 
+   {
+    "raw_data": "sinjin;403153", 
+    "quote_id": 403153, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403174, 
+  [
+   722, 
+   772, 
+   {
+    "raw_data": "sinjin;403153", 
+    "quote_id": 403153, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403174, 
+  [
+   832, 
+   997, 
+   {
+    "raw_data": "sinjin;403153", 
+    "quote_id": 403153, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  402867, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "NATO 556;402846", 
+    "quote_id": 402846, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403124, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Galileo;403123", 
+    "quote_id": 403123, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  402878, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Galileo;402872", 
+    "quote_id": 402872, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  403061, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "sinjin;402976", 
+    "quote_id": 402976, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403061, 
+  [
+   252, 
+   981, 
+   {}
+  ]
+ ], 
+ [
+  403061, 
+  [
+   1058, 
+   1465, 
+   {}
+  ]
+ ], 
+ [
+  403079, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "NATO 556;403076", 
+    "quote_id": 403076, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404108, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Penfold;404105", 
+    "quote_id": 404105, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403150, 
+  [
+   70, 
+   840, 
+   {}
+  ]
+ ], 
+ [
+  403150, 
+  [
+   871, 
+   1383, 
+   {}
+  ]
+ ], 
+ [
+  403150, 
+  [
+   1438, 
+   1543, 
+   {
+    "raw_data": "&quot;Sinjin&quot;", 
+    "quote_id": 403070, 
+    "unknown_author": "&quot", 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  404051, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "NATO 556;403124", 
+    "quote_id": 403124, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403156, 
+  [
+   0, 
+   855, 
+   {
+    "raw_data": "Doc Jones;403085", 
+    "quote_id": 403085, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403157, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "COBHC;403097", 
+    "quote_id": 403097, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403157, 
+  [
+   290, 
+   1377, 
+   {}
+  ]
+ ], 
+ [
+  403159, 
+  [
+   0, 
+   507, 
+   {
+    "raw_data": "simone;403156", 
+    "quote_id": 403156, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403034, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "simone;402970", 
+    "quote_id": 402970, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402782, 
+  [
+   0, 
+   779, 
+   {}
+  ]
+ ], 
+ [
+  403045, 
+  [
+   0, 
+   807, 
+   {
+    "raw_data": "NATO 556;402987", 
+    "quote_id": 402987, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403170, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "simone;403165", 
+    "quote_id": 403165, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403171, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "simone;403165", 
+    "quote_id": 403165, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402789, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "simone;402782", 
+    "quote_id": 402782, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402790, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Baron;402789", 
+    "quote_id": 402789, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  403047, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Galileo;403045", 
+    "quote_id": 403045, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  403177, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "simone;403157", 
+    "quote_id": 403157, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403177, 
+  [
+   26, 
+   1342, 
+   {}
+  ]
+ ], 
+ [
+  403050, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Symbiote;403047", 
+    "quote_id": 403047, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  403175, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Tither;403174", 
+    "quote_id": 403174, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403175, 
+  [
+   382, 
+   420, 
+   {
+    "quote_id": 403174, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403175, 
+  [
+   472, 
+   652, 
+   {
+    "quote_id": 403174, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403175, 
+  [
+   678, 
+   838, 
+   {}
+  ]
+ ], 
+ [
+  403175, 
+  [
+   918, 
+   1008, 
+   {
+    "quote_id": 403174, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403175, 
+  [
+   1112, 
+   1149, 
+   {
+    "quote_id": 403174, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403175, 
+  [
+   1186, 
+   1219, 
+   {
+    "quote_id": 403174, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404204, 
+  [
+   0, 
+   1025, 
+   {
+    "raw_data": "Tither;404095", 
+    "quote_id": 404095, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404204, 
+  [
+   1631, 
+   1718, 
+   {
+    "raw_data": "Penfold;404094", 
+    "quote_id": 404094, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403181, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "COBHC;403177", 
+    "quote_id": 403177, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Tither;403178", 
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   125, 
+   183, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   280, 
+   416, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   506, 
+   604, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   627, 
+   751, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   818, 
+   886, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   907, 
+   949, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   1030, 
+   1186, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   1318, 
+   1527, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   1585, 
+   1642, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403182, 
+  [
+   1698, 
+   1841, 
+   {
+    "quote_id": 403178, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403184, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "simone;403181", 
+    "quote_id": 403181, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  404209, 
+  [
+   0, 
+   598, 
+   {
+    "raw_data": "Galileo;404204", 
+    "quote_id": 404204, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  402802, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Baron;402789", 
+    "quote_id": 402789, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  404212, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "NATO 556;404209", 
+    "quote_id": 404209, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  402805, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Doc Jones;402790", 
+    "quote_id": 402790, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  402807, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "simone;402805", 
+    "quote_id": 402805, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  402807, 
+  [
+   351, 
+   431, 
+   {
+    "quote_id": 402805, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403064, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "COBHC;402971", 
+    "quote_id": 402971, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403066, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "NATO 556;402987", 
+    "quote_id": 402987, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403066, 
+  [
+   215, 
+   1167, 
+   {}
+  ]
+ ], 
+ [
+  403066, 
+  [
+   1253, 
+   1418, 
+   {
+    "raw_data": "NATO 556;402987", 
+    "quote_id": 402987, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403067, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "sinjin;403065", 
+    "quote_id": 403065, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403178, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "sinjin;403175", 
+    "quote_id": 403175, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403178, 
+  [
+   255, 
+   329, 
+   {
+    "raw_data": "sinjin;403175", 
+    "quote_id": 403175, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403178, 
+  [
+   547, 
+   645, 
+   {
+    "raw_data": "sinjin;403175", 
+    "quote_id": 403175, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403178, 
+  [
+   888, 
+   919, 
+   {
+    "raw_data": "sinjin;403175", 
+    "quote_id": 403175, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403178, 
+  [
+   1051, 
+   1133, 
+   {
+    "raw_data": "sinjin;403175", 
+    "quote_id": 403175, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403070, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Tither;403067", 
+    "quote_id": 403067, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403070, 
+  [
+   84, 
+   200, 
+   {
+    "quote_id": 403067, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403070, 
+  [
+   289, 
+   360, 
+   {
+    "quote_id": 403067, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403070, 
+  [
+   473, 
+   500, 
+   {
+    "quote_id": 403067, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404095, 
+  [
+   226, 
+   542, 
+   {
+    "raw_data": "&quot;Galileo&quot;", 
+    "quote_id": 403123, 
+    "unknown_author": "&quot", 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404095, 
+  [
+   768, 
+   948, 
+   {
+    "raw_data": "NATO 556;404069", 
+    "quote_id": 404069, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404095, 
+  [
+   997, 
+   1084, 
+   {
+    "raw_data": "Penfold;404094", 
+    "quote_id": 404094, 
+    "author": "Penfold"
+   }
+  ]
+ ]
+]

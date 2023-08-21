@@ -1,0 +1,955 @@
+[
+ [
+  380933, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Bryan;380859", 
+    "quote_id": 380859, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  380422, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Tim;380360", 
+    "quote_id": 380360, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  380935, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Winston Smith;380933", 
+    "quote_id": 380933, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380944, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Winston Smith;380933", 
+    "quote_id": 380933, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380948, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "JPSartre12;380867", 
+    "quote_id": 380867, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  380950, 
+  [
+   0, 
+   979, 
+   {
+    "raw_data": "Winston Smith;380948", 
+    "quote_id": 380948, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380951, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "zsu2357;380944", 
+    "quote_id": 380944, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  380953, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Bryan;380951", 
+    "quote_id": 380951, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  380958, 
+  [
+   0, 
+   979, 
+   {
+    "raw_data": "Winston Smith;380948", 
+    "quote_id": 380948, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380959, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Bryan;380951", 
+    "quote_id": 380951, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  380964, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "NATO 556;380953", 
+    "quote_id": 380953, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380965, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "zsu2357;380945", 
+    "quote_id": 380945, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  380969, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Penfold;380965", 
+    "quote_id": 380965, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380972, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "NATO 556;380969", 
+    "quote_id": 380969, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380976, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "gansao;380950", 
+    "quote_id": 380950, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  380977, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "NATO 556;380969", 
+    "quote_id": 380969, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380979, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "OldSarge;380972", 
+    "quote_id": 380972, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  380476, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Brady;380467", 
+    "quote_id": 380467, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380478, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Penfold;380477", 
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380478, 
+  [
+   425, 
+   470, 
+   {}
+  ]
+ ], 
+ [
+  380478, 
+  [
+   830, 
+   930, 
+   {}
+  ]
+ ], 
+ [
+  380478, 
+  [
+   1140, 
+   1342, 
+   {}
+  ]
+ ], 
+ [
+  380478, 
+  [
+   1416, 
+   1734, 
+   {
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380478, 
+  [
+   1834, 
+   2101, 
+   {
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380478, 
+  [
+   2192, 
+   2381, 
+   {
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380478, 
+  [
+   2502, 
+   2636, 
+   {
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380478, 
+  [
+   3018, 
+   3205, 
+   {}
+  ]
+ ], 
+ [
+  380478, 
+  [
+   3332, 
+   3507, 
+   {}
+  ]
+ ], 
+ [
+  380478, 
+  [
+   3609, 
+   4004, 
+   {
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380991, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "Winston Smith;380976", 
+    "quote_id": 380976, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380996, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Winston Smith;380979", 
+    "quote_id": 380979, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  381014, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "OldSarge;380999", 
+    "quote_id": 380999, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  380504, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "JPSartre12;380479", 
+    "quote_id": 380479, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  380515, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Penfold;380504", 
+    "quote_id": 380504, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381030, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Penfold;381014", 
+    "quote_id": 381014, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380519, 
+  [
+   0, 
+   494, 
+   {}
+  ]
+ ], 
+ [
+  380525, 
+  [
+   33, 
+   321, 
+   {}
+  ]
+ ], 
+ [
+  380527, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Doc Jones;380526", 
+    "quote_id": 380526, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  380529, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "OldSarge;380527", 
+    "quote_id": 380527, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  380533, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Penfold;380504", 
+    "quote_id": 380504, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380535, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Brady;380467", 
+    "quote_id": 380467, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380536, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Penfold;380504", 
+    "quote_id": 380504, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380538, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Tim;380360", 
+    "quote_id": 380360, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  380594, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Brady;380467", 
+    "quote_id": 380467, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380614, 
+  [
+   1601, 
+   1854, 
+   {}
+  ]
+ ], 
+ [
+  380614, 
+  [
+   2031, 
+   2317, 
+   {}
+  ]
+ ], 
+ [
+  380614, 
+  [
+   2424, 
+   2631, 
+   {}
+  ]
+ ], 
+ [
+  380614, 
+  [
+   2685, 
+   2994, 
+   {}
+  ]
+ ], 
+ [
+  380614, 
+  [
+   3078, 
+   3343, 
+   {
+    "quote_id": 380477, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380614, 
+  [
+   3732, 
+   4145, 
+   {}
+  ]
+ ], 
+ [
+  380615, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Doc Jones;380526", 
+    "quote_id": 380526, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  380775, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Penfold;380771", 
+    "quote_id": 380771, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381416, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Brady;381368", 
+    "unknown_quote_id": 381368, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380786, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Brady;380467", 
+    "quote_id": 380467, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380787, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Penfold;380784", 
+    "quote_id": 380784, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380787, 
+  [
+   63, 
+   144, 
+   {
+    "quote_id": 380784, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381309, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Winston Smith;380763", 
+    "quote_id": 380763, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380801, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "Winston Smith;380723", 
+    "quote_id": 380723, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380801, 
+  [
+   570, 
+   854, 
+   {
+    "raw_data": "Winston Smith;380723", 
+    "quote_id": 380723, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  381318, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "NATO 556;380969", 
+    "quote_id": 380969, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381320, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Penfold;381318", 
+    "quote_id": 381318, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381321, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "NATO 556;381320", 
+    "quote_id": 381320, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380818, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "NATO 556;380787", 
+    "quote_id": 380787, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380819, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Penfold;380784", 
+    "quote_id": 380784, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380833, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Penfold;380771", 
+    "quote_id": 380771, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380859, 
+  [
+   0, 
+   523, 
+   {
+    "raw_data": "Winston Smith;380805", 
+    "quote_id": 380805, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  381372, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Brady;381368", 
+    "unknown_quote_id": 381368, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380862, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "OldSarge;380833", 
+    "quote_id": 380833, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  381429, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Penfold;381423", 
+    "quote_id": 381423, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380867, 
+  [
+   0, 
+   841, 
+   {
+    "raw_data": "Winston Smith;380805", 
+    "quote_id": 380805, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380363, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Tim;380360", 
+    "quote_id": 380360, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  380895, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Penfold;380862", 
+    "quote_id": 380862, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380903, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "Winston Smith;380723", 
+    "quote_id": 380723, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  380904, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "NATO 556;380764", 
+    "quote_id": 380764, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380905, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "zsu2357;380904", 
+    "quote_id": 380904, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  380908, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Winston Smith;380818", 
+    "quote_id": 380818, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  381423, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Doc Jones;381416", 
+    "quote_id": 381416, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  380917, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "OldSarge;380895", 
+    "quote_id": 380895, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  380918, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "NATO 556;380905", 
+    "quote_id": 380905, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380921, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Penfold;380918", 
+    "quote_id": 380918, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380923, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Penfold;380918", 
+    "quote_id": 380918, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380924, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Penfold;380917", 
+    "quote_id": 380917, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  380412, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Tither;380383", 
+    "quote_id": 380383, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  380926, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "zsu2357;380923", 
+    "quote_id": 380923, 
+    "author": "zsu2357"
+   }
+  ]
+ ]
+]

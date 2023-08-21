@@ -1,0 +1,177 @@
+[
+ [
+  403329, 
+  [
+   0, 
+   157, 
+   {
+    "quote_id": 403265, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  403298, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "sinjin;403270", 
+    "quote_id": 403270, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403298, 
+  [
+   156, 
+   199, 
+   {
+    "raw_data": "sinjin;403270", 
+    "quote_id": 403270, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403302, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "josephdphillips;403298", 
+    "quote_id": 403298, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  403302, 
+  [
+   149, 
+   181, 
+   {
+    "quote_id": 403298, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  403302, 
+  [
+   230, 
+   340, 
+   {
+    "quote_id": 403298, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  403302, 
+  [
+   392, 
+   466, 
+   {
+    "quote_id": 403298, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  403270, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "josephdphillips;403265", 
+    "quote_id": 403265, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  404503, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Iuris;403329", 
+    "quote_id": 403329, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  405273, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "sinjin;403302", 
+    "quote_id": 403302, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  405273, 
+  [
+   166, 
+   210, 
+   {
+    "raw_data": "sinjin;403302", 
+    "quote_id": 403302, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  405346, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "sinjin;405278", 
+    "quote_id": 405278, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  405278, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "josephdphillips;405273", 
+    "quote_id": 405273, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  405278, 
+  [
+   122, 
+   195, 
+   {
+    "quote_id": 405273, 
+    "author": "josephdphillips"
+   }
+  ]
+ ], 
+ [
+  405407, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "josephdphillips;405346", 
+    "quote_id": 405346, 
+    "author": "josephdphillips"
+   }
+  ]
+ ]
+]

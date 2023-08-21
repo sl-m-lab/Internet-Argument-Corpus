@@ -1,0 +1,46 @@
+[
+ [
+  41760, 
+  [
+   982, 
+   1343, 
+   {}
+  ]
+ ], 
+ [
+  41699, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41689, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41701, 
+  [
+   0, 
+   463, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41700, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41822, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41777, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

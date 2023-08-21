@@ -1,0 +1,64 @@
+[
+ [
+  8241, 
+  [
+   0, 
+   31, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  8241, 
+  [
+   33, 
+   182, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  10349, 
+  [
+   210, 
+   218, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  6366, 
+  [
+   21, 
+   31, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  12091, 
+  [
+   0, 
+   502, 
+   {
+    "category": "color", 
+    "raw_data": "darkslateblue"
+   }
+  ]
+ ], 
+ [
+  12091, 
+  [
+   0, 
+   503, 
+   {
+    "category": "font", 
+    "raw_data": "comic sans ms"
+   }
+  ]
+ ]
+]

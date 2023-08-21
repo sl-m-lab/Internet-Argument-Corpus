@@ -1,0 +1,454 @@
+[
+ [
+  248715, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "Another opinion;248654", 
+    "quote_id": 248654, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248593, 
+  [
+   0, 
+   925, 
+   {
+    "raw_data": "DrNo;248517", 
+    "quote_id": 248517, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248665, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Shooterandproud;248593", 
+    "quote_id": 248593, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  248738, 
+  [
+   0, 
+   587, 
+   {
+    "raw_data": "DrNo;248664", 
+    "quote_id": 248664, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248738, 
+  [
+   1873, 
+   2082, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 248664, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248739, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "simone;248715", 
+    "quote_id": 248715, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  248742, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "DrNo;248665", 
+    "quote_id": 248665, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248742, 
+  [
+   334, 
+   521, 
+   {
+    "quote_id": 248665, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248742, 
+  [
+   766, 
+   985, 
+   {
+    "quote_id": 248665, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248742, 
+  [
+   1267, 
+   1346, 
+   {
+    "quote_id": 248665, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248743, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "DrNo;248664", 
+    "quote_id": 248664, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  249260, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "Another opinion;248818", 
+    "quote_id": 248818, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  249267, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Steeeeve;249260", 
+    "quote_id": 249260, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  249654, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Another opinion;249412", 
+    "quote_id": 249412, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  249654, 
+  [
+   774, 
+   1072, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 249426, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  248635, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "Another opinion;248515", 
+    "quote_id": 248515, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  249408, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "Another opinion;249335", 
+    "quote_id": 249335, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248515, 
+  [
+   0, 
+   555, 
+   {
+    "raw_data": "simone;248508", 
+    "quote_id": 248508, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  249412, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "Steeeeve;249408", 
+    "quote_id": 249408, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  249412, 
+  [
+   1027, 
+   1453, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 249408, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  248522, 
+  [
+   0, 
+   788, 
+   {
+    "raw_data": "DrNo;248517", 
+    "quote_id": 248517, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248522, 
+  [
+   1531, 
+   1668, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 248517, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248523, 
+  [
+   0, 
+   925, 
+   {
+    "raw_data": "DrNo;248517", 
+    "quote_id": 248517, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248524, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "ShadowPikachu;248523", 
+    "quote_id": 248523, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  248654, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "simone;248635", 
+    "quote_id": 248635, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  248527, 
+  [
+   0, 
+   651, 
+   {
+    "raw_data": "Another opinion;248524", 
+    "quote_id": 248524, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  249426, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Steeeeve;249408", 
+    "quote_id": 249408, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  248532, 
+  [
+   0, 
+   632, 
+   {
+    "raw_data": "ShadowPikachu;248527", 
+    "quote_id": 248527, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  248532, 
+  [
+   748, 
+   979, 
+   {
+    "raw_data": "ShadowPikachu", 
+    "quote_id": 248527, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  248535, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Another opinion;248532", 
+    "quote_id": 248532, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248535, 
+  [
+   195, 
+   1029, 
+   {
+    "raw_data": "Another opinion;248532", 
+    "quote_id": 248532, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248664, 
+  [
+   0, 
+   737, 
+   {
+    "raw_data": "Another opinion;248522", 
+    "quote_id": 248522, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248664, 
+  [
+   1334, 
+   1471, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 248517, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  248664, 
+  [
+   1477, 
+   1566, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 248522, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248537, 
+  [
+   0, 
+   432, 
+   {
+    "raw_data": "ShadowPikachu;248535", 
+    "quote_id": 248535, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  248539, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "Another opinion;248537", 
+    "quote_id": 248537, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  248818, 
+  [
+   58, 
+   323, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  249335, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Steeeeve;249260", 
+    "quote_id": 249260, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

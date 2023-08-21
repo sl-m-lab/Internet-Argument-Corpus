@@ -1,0 +1,958 @@
+[
+ [
+  115200, 
+  [
+   0, 
+   59, 
+   {
+    "quote_id": 115107, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115200, 
+  [
+   137, 
+   227, 
+   {
+    "quote_id": 115107, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115200, 
+  [
+   445, 
+   567, 
+   {
+    "quote_id": 115107, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114561, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114559, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114561, 
+  [
+   514, 
+   649, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114559, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114562, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  114566, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114562, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115329, 
+  [
+   220, 
+   260, 
+   {
+    "quote_id": 115321, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116677, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 116667, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115337, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 115333, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  117673, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 117473, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  115341, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 115337, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  114958, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114844, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116580, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 115435, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  116753, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "CvT", 
+    "quote_id": 116729, 
+    "author": "CvT"
+   }
+  ]
+ ], 
+ [
+  116858, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 115321, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116569, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "CvT", 
+    "quote_id": 116471, 
+    "author": "CvT"
+   }
+  ]
+ ], 
+ [
+  116861, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 116691, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116861, 
+  [
+   120, 
+   191, 
+   {
+    "quote_id": 116691, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114844, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  114846, 
+  [
+   0, 
+   980, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 114759, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  115333, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 115331, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  117025, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 116670, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  117026, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 116906, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  115107, 
+  [
+   0, 
+   646, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 114863, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  115109, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 114958, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  117672, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 117447, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  115484, 
+  [
+   132, 
+   154, 
+   {
+    "quote_id": 114755, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  117447, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 117027, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116729, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 116713, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  116729, 
+  [
+   473, 
+   519, 
+   {
+    "quote_id": 116713, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  116790, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116866, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "CvT", 
+    "quote_id": 116729, 
+    "author": "CvT"
+   }
+  ]
+ ], 
+ [
+  116922, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 116866, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  116667, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "lord tammerlain", 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  117034, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 117026, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  117034, 
+  [
+   661, 
+   852, 
+   {
+    "quote_id": 117026, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114755, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 114674, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  116479, 
+  [
+   0, 
+   97, 
+   {
+    "quote_id": 116471, 
+    "author": "CvT"
+   }
+  ]
+ ], 
+ [
+  114634, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 114566, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  116471, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 115436, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  116471, 
+  [
+   449, 
+   642, 
+   {
+    "quote_id": 115436, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  116471, 
+  [
+   1402, 
+   1707, 
+   {
+    "quote_id": 115436, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  116471, 
+  [
+   2073, 
+   2161, 
+   {
+    "quote_id": 115436, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  115406, 
+  [
+   69, 
+   320, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 115290, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  114511, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114508, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114513, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 114511, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  115283, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Symbiote", 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  114646, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 114566, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  115321, 
+  [
+   0, 
+   1062, 
+   {
+    "raw_data": "Symbiote", 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  115556, 
+  [
+   0, 
+   64, 
+   {
+    "quote_id": 115406, 
+    "author": "CvT"
+   }
+  ]
+ ], 
+ [
+  115290, 
+  [
+   0, 
+   86, 
+   {
+    "quote_id": 115283, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115290, 
+  [
+   814, 
+   858, 
+   {
+    "quote_id": 115283, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  117211, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  114524, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114513, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114524, 
+  [
+   262, 
+   379, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114513, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114524, 
+  [
+   660, 
+   803, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114513, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114525, 
+  [
+   0, 
+   691, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 114518, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  114530, 
+  [
+   0, 
+   727, 
+   {
+    "raw_data": "gamehuis", 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  114532, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 114529, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  115301, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114790, 
+  [
+   80, 
+   116, 
+   {
+    "quote_id": 114755, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115281, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 115142, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  116610, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 116580, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116610, 
+  [
+   197, 
+   447, 
+   {
+    "quote_id": 115425, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  117027, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  115435, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 115425, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  116719, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 116691, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114674, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114525, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  116691, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 116677, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  117502, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 117491, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  114551, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114530, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114551, 
+  [
+   264, 
+   466, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114530, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114551, 
+  [
+   479, 
+   880, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114532, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114551, 
+  [
+   1242, 
+   1386, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114530, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  117473, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 117211, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114554, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  114556, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114554, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114556, 
+  [
+   196, 
+   293, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114532, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114556, 
+  [
+   306, 
+   510, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114530, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  115326, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 115301, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  114559, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 114553, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ]
+]

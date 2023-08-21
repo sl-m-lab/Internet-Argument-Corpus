@@ -1,0 +1,741 @@
+[
+ [
+  84240, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "pnac=ww3", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84240, 
+  [
+   271, 
+   583, 
+   {
+    "quote_id": 83668, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84240, 
+  [
+   1592, 
+   1918, 
+   {
+    "quote_id": 83668, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84370, 
+  [
+   0, 
+   1888, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84245, 
+  [
+   0, 
+   1556, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 83668, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84247, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "whosthere", 
+    "quote_id": 83754, 
+    "author": "whosthere"
+   }
+  ]
+ ], 
+ [
+  84247, 
+  [
+   376, 
+   618, 
+   {
+    "quote_id": 83754, 
+    "author": "whosthere"
+   }
+  ]
+ ], 
+ [
+  84247, 
+  [
+   1083, 
+   1470, 
+   {
+    "quote_id": 83754, 
+    "author": "whosthere"
+   }
+  ]
+ ], 
+ [
+  84247, 
+  [
+   1909, 
+   2014, 
+   {
+    "quote_id": 83754, 
+    "author": "whosthere"
+   }
+  ]
+ ], 
+ [
+  84383, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84257, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84383, 
+  [
+   920, 
+   1252, 
+   {
+    "quote_id": 84257, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84383, 
+  [
+   1883, 
+   2193, 
+   {
+    "quote_id": 84257, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84383, 
+  [
+   2277, 
+   2493, 
+   {
+    "quote_id": 84257, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84512, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84423, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84512, 
+  [
+   194, 
+   311, 
+   {
+    "quote_id": 84423, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84512, 
+  [
+   589, 
+   726, 
+   {
+    "quote_id": 84423, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84512, 
+  [
+   1460, 
+   1835, 
+   {
+    "quote_id": 84423, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84257, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84247, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84257, 
+  [
+   2152, 
+   2611, 
+   {
+    "quote_id": 84247, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84257, 
+  [
+   2756, 
+   3217, 
+   {
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84721, 
+  [
+   0, 
+   1100, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 84712, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  83754, 
+  [
+   0, 
+   1556, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 83668, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84395, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84395, 
+  [
+   550, 
+   663, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84395, 
+  [
+   762, 
+   984, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84395, 
+  [
+   1497, 
+   1698, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84395, 
+  [
+   1780, 
+   1935, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84395, 
+  [
+   2122, 
+   2583, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84245, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84396, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84257, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84396, 
+  [
+   475, 
+   634, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 84386, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  84396, 
+  [
+   922, 
+   1571, 
+   {
+    "raw_data": "jskufan", 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  84658, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84403, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84663, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 84659, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  84423, 
+  [
+   0, 
+   490, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 84383, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  84423, 
+  [
+   531, 
+   798, 
+   {
+    "quote_id": 84383, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  84423, 
+  [
+   925, 
+   1275, 
+   {
+    "quote_id": 84383, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  84423, 
+  [
+   1423, 
+   1495, 
+   {
+    "quote_id": 84383, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  84423, 
+  [
+   1992, 
+   2628, 
+   {
+    "quote_id": 84383, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  84424, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 84403, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   625, 
+   718, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   756, 
+   1115, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   1257, 
+   1403, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   1540, 
+   1616, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   1812, 
+   1993, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   2205, 
+   2411, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   2500, 
+   2669, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84554, 
+  [
+   2937, 
+   3202, 
+   {
+    "quote_id": 84395, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84556, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "whosthere", 
+    "quote_id": 84370, 
+    "author": "whosthere"
+   }
+  ]
+ ], 
+ [
+  84429, 
+  [
+   0, 
+   136, 
+   {
+    "quote_id": 84396, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84429, 
+  [
+   1071, 
+   1262, 
+   {
+    "quote_id": 84386, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  84430, 
+  [
+   0, 
+   136, 
+   {
+    "quote_id": 84396, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84430, 
+  [
+   1071, 
+   1262, 
+   {
+    "quote_id": 84386, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  84430, 
+  [
+   1735, 
+   2384, 
+   {}
+  ]
+ ], 
+ [
+  84659, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 84658, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  84705, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 84663, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  84584, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84584, 
+  [
+   62, 
+   195, 
+   {
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84584, 
+  [
+   395, 
+   480, 
+   {
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84584, 
+  [
+   760, 
+   1022, 
+   {
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84584, 
+  [
+   1097, 
+   1268, 
+   {
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84584, 
+  [
+   1537, 
+   1747, 
+   {
+    "quote_id": 84554, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84719, 
+  [
+   0, 
+   1100, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 84712, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  84712, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 84705, 
+    "author": "jskufan"
+   }
+  ]
+ ]
+]

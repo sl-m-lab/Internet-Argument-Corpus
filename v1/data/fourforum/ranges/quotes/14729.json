@@ -1,0 +1,339 @@
+[
+ [
+  421186, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Steeeeve;421159", 
+    "quote_id": 421159, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  418043, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Steeeeve;418011", 
+    "quote_id": 418011, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  418043, 
+  [
+   692, 
+   1180, 
+   {
+    "quote_id": 418011, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  418053, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "daewoo;418043", 
+    "quote_id": 418043, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  418053, 
+  [
+   742, 
+   1371, 
+   {
+    "quote_id": 418043, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  418055, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Steeeeve;418053", 
+    "quote_id": 418053, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  418055, 
+  [
+   425, 
+   1203, 
+   {
+    "quote_id": 418053, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  417705, 
+  [
+   0, 
+   1446, 
+   {
+    "raw_data": "daewoo;417464", 
+    "quote_id": 417464, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417486, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Zorba;417468", 
+    "quote_id": 417468, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  417486, 
+  [
+   718, 
+   933, 
+   {
+    "quote_id": 417468, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  417486, 
+  [
+   1460, 
+   1980, 
+   {
+    "quote_id": 417468, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  417486, 
+  [
+   2519, 
+   2841, 
+   {
+    "quote_id": 417468, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  417720, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Steeeeve;417705", 
+    "quote_id": 417705, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  417720, 
+  [
+   248, 
+   529, 
+   {
+    "quote_id": 417705, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  417490, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Symbiote;417485", 
+    "quote_id": 417485, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  417490, 
+  [
+   414, 
+   608, 
+   {
+    "quote_id": 417485, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  417490, 
+  [
+   1050, 
+   1231, 
+   {
+    "quote_id": 417485, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  417490, 
+  [
+   1474, 
+   1649, 
+   {
+    "quote_id": 417485, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  417464, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Steeeeve;417439", 
+    "quote_id": 417439, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  417465, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "daewoo;417464", 
+    "quote_id": 417464, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417306, 
+  [
+   839, 
+   996, 
+   {}
+  ]
+ ], 
+ [
+  417306, 
+  [
+   74, 
+   997, 
+   {}
+  ]
+ ], 
+ [
+  418011, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "daewoo;417720", 
+    "quote_id": 417720, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  418011, 
+  [
+   338, 
+   576, 
+   {
+    "quote_id": 417720, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417468, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "daewoo;417466", 
+    "quote_id": 417466, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417468, 
+  [
+   582, 
+   677, 
+   {
+    "quote_id": 417466, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417468, 
+  [
+   900, 
+   1510, 
+   {
+    "quote_id": 417466, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417468, 
+  [
+   2040, 
+   2294, 
+   {
+    "quote_id": 417466, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  417466, 
+  [
+   0, 
+   400, 
+   {
+    "raw_data": "Zorba;417465", 
+    "quote_id": 417465, 
+    "author": "Zorba"
+   }
+  ]
+ ], 
+ [
+  417466, 
+  [
+   1400, 
+   1966, 
+   {
+    "quote_id": 417465, 
+    "author": "Zorba"
+   }
+  ]
+ ]
+]

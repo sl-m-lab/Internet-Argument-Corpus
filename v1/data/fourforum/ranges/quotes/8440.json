@@ -1,0 +1,280 @@
+[
+ [
+  224019, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 221482, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  221338, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 221332, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  224028, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 224019, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  221466, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 221386, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221466, 
+  [
+   172, 
+   244, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 221386, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221473, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 221466, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  221473, 
+  [
+   292, 
+   340, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 221466, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  334372, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "GreenMtnBoy;221442", 
+    "quote_id": 221442, 
+    "author": "GreenMtnBoy"
+   }
+  ]
+ ], 
+ [
+  334373, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "peejay;308036", 
+    "quote_id": 308036, 
+    "author": "peejay"
+   }
+  ]
+ ], 
+ [
+  334257, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "yes;324467", 
+    "quote_id": 324467, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  334257, 
+  [
+   476, 
+   678, 
+   {}
+  ]
+ ], 
+ [
+  221482, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 221346, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  334639, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "simone;334372", 
+    "quote_id": 334372, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  334641, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "simone;334373", 
+    "quote_id": 334373, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  334641, 
+  [
+   155, 
+   300, 
+   {
+    "quote_id": 334373, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  396346, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "Joel_Henderson;334641", 
+    "quote_id": 334641, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  309434, 
+  [
+   0, 
+   1012, 
+   {
+    "raw_data": "zachvac;220997", 
+    "quote_id": 220997, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  221386, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 221338, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  221386, 
+  [
+   190, 
+   263, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  239197, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Jo Bennett;221346", 
+    "quote_id": 221346, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  430945, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "GreenMtnBoy;221442", 
+    "quote_id": 221442, 
+    "author": "GreenMtnBoy"
+   }
+  ]
+ ], 
+ [
+  334181, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "zachvac;220997", 
+    "quote_id": 220997, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  334181, 
+  [
+   1144, 
+   3752, 
+   {}
+  ]
+ ], 
+ [
+  324467, 
+  [
+   0, 
+   1012, 
+   {
+    "raw_data": "zachvac;220997", 
+    "quote_id": 220997, 
+    "author": "zachvac"
+   }
+  ]
+ ]
+]

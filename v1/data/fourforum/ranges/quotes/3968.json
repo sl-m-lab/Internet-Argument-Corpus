@@ -1,0 +1,835 @@
+[
+ [
+  86274, 
+  [
+   0, 
+   538, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86260, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85483, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "BobNelson2", 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  85483, 
+  [
+   260, 
+   336, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 85464, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  86293, 
+  [
+   0, 
+   410, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 86289, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85256, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "lucky_me", 
+    "quote_id": 85137, 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  85516, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85512, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85137, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 83251, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  85507, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85497, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85507, 
+  [
+   438, 
+   534, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85497, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86318, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86293, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85141, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "lucky_me", 
+    "quote_id": 85137, 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  85529, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85525, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85403, 
+  [
+   0, 
+   378, 
+   {}
+  ]
+ ], 
+ [
+  85403, 
+  [
+   385, 
+   456, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 85360, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  86289, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86260, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85536, 
+  [
+   0, 
+   695, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85529, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85410, 
+  [
+   0, 
+   1189, 
+   {
+    "raw_data": "JustineCredible", 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85539, 
+  [
+   0, 
+   695, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85529, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85540, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85536, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85540, 
+  [
+   157, 
+   287, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 85537, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  85414, 
+  [
+   0, 
+   795, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85410, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86324, 
+  [
+   0, 
+   15, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 86316, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  85290, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85256, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86316, 
+  [
+   273, 
+   553, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86260, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85421, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85414, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85421, 
+  [
+   464, 
+   602, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85414, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85421, 
+  [
+   867, 
+   985, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85414, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85294, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 85290, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  86192, 
+  [
+   0, 
+   670, 
+   {
+    "raw_data": "lucky_me", 
+    "quote_id": 86177, 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  85512, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85498, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85300, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85294, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85303, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85294, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85502, 
+  [
+   0, 
+   663, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85479, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85308, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85300, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85565, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85540, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  83262, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "lucky_me", 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  85570, 
+  [
+   0, 
+   98, 
+   {}
+  ]
+ ], 
+ [
+  85570, 
+  [
+   104, 
+   188, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85540, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85570, 
+  [
+   549, 
+   711, 
+   {}
+  ]
+ ], 
+ [
+  85570, 
+  [
+   718, 
+   806, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85540, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85153, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85141, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  86280, 
+  [
+   0, 
+   538, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86260, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85198, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85153, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  83279, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "lucky_me", 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  85586, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85540, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85537, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85529, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85464, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85410, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85464, 
+  [
+   128, 
+   566, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85410, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85468, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "BobNelson2", 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  86238, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "lucky_me", 
+    "quote_id": 86177, 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  86238, 
+  [
+   550, 
+   766, 
+   {
+    "raw_data": "lucky_me", 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  86177, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85141, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85476, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85438, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85542, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85540, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  83302, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "lucky_me", 
+    "author": "lucky_me"
+   }
+  ]
+ ], 
+ [
+  86248, 
+  [
+   0, 
+   482, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 86238, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  85436, 
+  [
+   0, 
+   598, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85426, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85479, 
+  [
+   0, 
+   697, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 85476, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  85484, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85479, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85360, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85294, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85489, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85483, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85489, 
+  [
+   437, 
+   461, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85483, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85489, 
+  [
+   554, 
+   718, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85483, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85491, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85484, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85438, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 85436, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  85497, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 85489, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  85497, 
+  [
+   337, 
+   451, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 85489, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  85498, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 85491, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  86396, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86293, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  83582, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 83251, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  85525, 
+  [
+   0, 
+   872, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85516, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

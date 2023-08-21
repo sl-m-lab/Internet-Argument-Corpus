@@ -1,0 +1,62 @@
+[
+ [
+  303461, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Ohioprof;303453", 
+    "quote_id": 303453, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  303461, 
+  [
+   170, 
+   264, 
+   {
+    "raw_data": "Ohioprof;303453", 
+    "quote_id": 303453, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  303573, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "jyoshu;303461", 
+    "quote_id": 303461, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  303450, 
+  [
+   0, 
+   1292, 
+   {
+    "raw_data": "Ohioprof;303436", 
+    "quote_id": 303436, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  303453, 
+  [
+   0, 
+   1676, 
+   {
+    "raw_data": "jyoshu;303450", 
+    "quote_id": 303450, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,213 @@
+[
+ [
+  407808, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "sinjin;407805", 
+    "quote_id": 407805, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  407815, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "NATO 556;407804", 
+    "quote_id": 407804, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  407843, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "NATO 556;407804", 
+    "quote_id": 407804, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  407975, 
+  [
+   0, 
+   590, 
+   {
+    "raw_data": "NATO 556;407804", 
+    "quote_id": 407804, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  407981, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Galileo;407975", 
+    "quote_id": 407975, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  407859, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Penfold;407843", 
+    "quote_id": 407843, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  407870, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Penfold;407865", 
+    "quote_id": 407865, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  408031, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "NATO 556;407981", 
+    "quote_id": 407981, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  408035, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Galileo;408031", 
+    "quote_id": 408031, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  408035, 
+  [
+   327, 
+   423, 
+   {
+    "quote_id": 408031, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  408060, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Galileo;408031", 
+    "quote_id": 408031, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  407920, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "sinjin;407919", 
+    "quote_id": 407919, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  407921, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "NATO 556;407920", 
+    "quote_id": 407920, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  407923, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "sinjin;407921", 
+    "quote_id": 407921, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  408053, 
+  [
+   40, 
+   137, 
+   {
+    "raw_data": "Galileo;407975", 
+    "quote_id": 407975, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  408053, 
+  [
+   143, 
+   195, 
+   {
+    "raw_data": "Galileo;408031", 
+    "quote_id": 408031, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  407804, 
+  [
+   68, 
+   3094, 
+   {}
+  ]
+ ], 
+ [
+  407805, 
+  [
+   0, 
+   590, 
+   {
+    "raw_data": "NATO 556;407804", 
+    "quote_id": 407804, 
+    "author": "NATO 556"
+   }
+  ]
+ ]
+]

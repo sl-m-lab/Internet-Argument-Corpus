@@ -1,0 +1,773 @@
+[
+ [
+  235269, 
+  [
+   0, 
+   951, 
+   {
+    "raw_data": "Big_Bear_Scot;235259", 
+    "quote_id": 235259, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  235271, 
+  [
+   0, 
+   1209, 
+   {
+    "raw_data": "jyoshu;235269", 
+    "quote_id": 235269, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236808, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "jitobear;236805", 
+    "quote_id": 236805, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235116, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "georged;235099", 
+    "quote_id": 235099, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  236431, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Steeeeve;235352", 
+    "quote_id": 235352, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235280, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "jyoshu;235252", 
+    "quote_id": 235252, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236433, 
+  [
+   0, 
+   1301, 
+   {
+    "raw_data": "jyoshu;235428", 
+    "quote_id": 235428, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236803, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Shooterandproud;236433", 
+    "quote_id": 236433, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  235156, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "jyoshu;235139", 
+    "quote_id": 235139, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236309, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "maximus;236285", 
+    "quote_id": 236285, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  236696, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Steeeeve;235351", 
+    "quote_id": 235351, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  236805, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "jyoshu;236803", 
+    "quote_id": 236803, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235424, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "jyoshu;235355", 
+    "quote_id": 235355, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235355, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "thelmoose;235343", 
+    "quote_id": 235343, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235428, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "thelmoose;235424", 
+    "quote_id": 235424, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235428, 
+  [
+   518, 
+   1028, 
+   {
+    "raw_data": "thelmoose;235424", 
+    "quote_id": 235424, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235429, 
+  [
+   0, 
+   1301, 
+   {
+    "raw_data": "jyoshu;235428", 
+    "quote_id": 235428, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235432, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "thelmoose;235429", 
+    "quote_id": 235429, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Steeeeve;235350", 
+    "quote_id": 235350, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   371, 
+   420, 
+   {
+    "raw_data": "Steeeeve;235350", 
+    "quote_id": 235350, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   474, 
+   592, 
+   {
+    "raw_data": "Steeeeve;235350", 
+    "quote_id": 235350, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   1130, 
+   1318, 
+   {
+    "raw_data": "Steeeeve;235350", 
+    "quote_id": 235350, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   1375, 
+   1525, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 235428, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   1593, 
+   1805, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 235428, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   1992, 
+   2216, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 235428, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235434, 
+  [
+   2440, 
+   2603, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 235428, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235309, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235312, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "jyoshu;235252", 
+    "quote_id": 235252, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236853, 
+  [
+   0, 
+   596, 
+   {
+    "raw_data": "jyoshu;236808", 
+    "quote_id": 236808, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235273, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "jyoshu;235269", 
+    "quote_id": 235269, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235195, 
+  [
+   0, 
+   772, 
+   {
+    "raw_data": "simone;235179", 
+    "quote_id": 235179, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235200, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Steeeeve;235116", 
+    "quote_id": 235116, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235201, 
+  [
+   0, 
+   2507, 
+   {
+    "raw_data": "jyoshu;235139", 
+    "quote_id": 235139, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236871, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "jitobear;236853", 
+    "quote_id": 236853, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236871, 
+  [
+   585, 
+   678, 
+   {
+    "raw_data": "thelmoose;236869", 
+    "quote_id": 236853, 
+    "unknown_quote_id": 236869, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236874, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "jyoshu;236871", 
+    "quote_id": 236871, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235343, 
+  [
+   0, 
+   2507, 
+   {
+    "raw_data": "jyoshu;235139", 
+    "quote_id": 235139, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236323, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "maximus;236285", 
+    "quote_id": 236285, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  235350, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "jitobear;235249", 
+    "quote_id": 235249, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235350, 
+  [
+   418, 
+   574, 
+   {
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235350, 
+  [
+   630, 
+   1328, 
+   {}
+  ]
+ ], 
+ [
+  235350, 
+  [
+   1455, 
+   1533, 
+   {
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235351, 
+  [
+   0, 
+   777, 
+   {
+    "raw_data": "simone;235253", 
+    "quote_id": 235253, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235352, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Shooterandproud;235309", 
+    "quote_id": 235309, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  235231, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "Steeeeve;235195", 
+    "quote_id": 235195, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  236897, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "jyoshu;236871", 
+    "quote_id": 236871, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236897, 
+  [
+   91, 
+   268, 
+   {
+    "raw_data": "jyoshu;236871", 
+    "quote_id": 236871, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236897, 
+  [
+   458, 
+   544, 
+   {
+    "raw_data": "jyoshu;236871", 
+    "quote_id": 236871, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  235239, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "Steeeeve;235195", 
+    "quote_id": 235195, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235244, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Shooterandproud;235200", 
+    "quote_id": 235200, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  235244, 
+  [
+   89, 
+   197, 
+   {
+    "raw_data": "Simone", 
+    "quote_id": 235239, 
+    "unknown_author": "Simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235245, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "jitobear;235231", 
+    "quote_id": 235231, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235245, 
+  [
+   250, 
+   419, 
+   {
+    "quote_id": 235231, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235245, 
+  [
+   490, 
+   718, 
+   {
+    "quote_id": 235231, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  235249, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235249, 
+  [
+   174, 
+   238, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235249, 
+  [
+   404, 
+   510, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235249, 
+  [
+   1218, 
+   1293, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235250, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235250, 
+  [
+   174, 
+   238, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235250, 
+  [
+   404, 
+   510, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235250, 
+  [
+   1218, 
+   1293, 
+   {
+    "raw_data": "Steeeeve;235245", 
+    "quote_id": 235245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  235252, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Big_Bear_Scot;235251", 
+    "quote_id": 235251, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  235259, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "jyoshu;235252", 
+    "quote_id": 235252, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236285, 
+  [
+   0, 
+   148, 
+   {
+    "quote_id": 235434, 
+    "author": "jitobear"
+   }
+  ]
+ ]
+]

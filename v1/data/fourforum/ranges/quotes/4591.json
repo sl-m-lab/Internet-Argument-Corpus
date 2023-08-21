@@ -1,0 +1,50 @@
+[
+ [
+  99840, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 99819, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  99819, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 99661, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  99819, 
+  [
+   406, 
+   519, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 99670, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  99661, 
+  [
+   0, 
+   1397, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 99652, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ]
+]

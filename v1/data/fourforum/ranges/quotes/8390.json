@@ -1,0 +1,622 @@
+[
+ [
+  220160, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 220132, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  219990, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219986, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  220166, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 220111, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  220166, 
+  [
+   407, 
+   487, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 220111, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  220166, 
+  [
+   838, 
+   1261, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 220111, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219402, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219357, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219405, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219402, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219919, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219814, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219409, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219405, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219416, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219409, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  220187, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 220160, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219424, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Ripskar", 
+    "quote_id": 219414, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  219937, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219928, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219937, 
+  [
+   268, 
+   409, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219928, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219937, 
+  [
+   647, 
+   701, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219928, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219429, 
+  [
+   0, 
+   636, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 219426, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  219814, 
+  [
+   0, 
+   678, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219431, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219429, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219433, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 219431, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  219434, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219429, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219928, 
+  [
+   0, 
+   996, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 219919, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219440, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219434, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219441, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219433, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219443, 
+  [
+   0, 
+   731, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 219441, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  219444, 
+  [
+   0, 
+   731, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 219441, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  219445, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 219442, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  219956, 
+  [
+   0, 
+   1141, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 219943, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  219968, 
+  [
+   0, 
+   652, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219460, 
+  [
+   0, 
+   1135, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 219446, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  220357, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 220160, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  220357, 
+  [
+   365, 
+   509, 
+   {
+    "raw_data": "you", 
+    "quote_id": 220106, 
+    "unknown_author": "you", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  220104, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219996, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  220104, 
+  [
+   150, 
+   255, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219996, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  220106, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 220073, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  219596, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "GodIsDead", 
+    "quote_id": 219478, 
+    "author": "GodIsDead"
+   }
+  ]
+ ], 
+ [
+  219598, 
+  [
+   0, 
+   607, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  219983, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219968, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219986, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 219983, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219478, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 219402, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  219478, 
+  [
+   119, 
+   177, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 219426, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  219866, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 219769, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  220111, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219996, 
+  [
+   0, 
+   1773, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 219990, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219486, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219460, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219870, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Steerpike", 
+    "quote_id": 219756, 
+    "author": "Steerpike"
+   }
+  ]
+ ], 
+ [
+  219490, 
+  [
+   0, 
+   1006, 
+   {
+    "raw_data": "GodIsDead", 
+    "quote_id": 219478, 
+    "author": "GodIsDead"
+   }
+  ]
+ ], 
+ [
+  220132, 
+  [
+   0, 
+   1299, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 220106, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219765, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Steerpike", 
+    "quote_id": 219756, 
+    "author": "Steerpike"
+   }
+  ]
+ ], 
+ [
+  219766, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219357, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  220073, 
+  [
+   0, 
+   1773, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 219990, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  219769, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Dr_Sprocket", 
+    "quote_id": 219445, 
+    "author": "Dr_Sprocket"
+   }
+  ]
+ ], 
+ [
+  219952, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ]
+]

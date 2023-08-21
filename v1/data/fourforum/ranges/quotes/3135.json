@@ -1,0 +1,303 @@
+[
+ [
+  66529, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 66311, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66529, 
+  [
+   120, 
+   151, 
+   {
+    "quote_id": 66311, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66529, 
+  [
+   203, 
+   282, 
+   {
+    "quote_id": 66311, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66529, 
+  [
+   736, 
+   792, 
+   {
+    "quote_id": 66311, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66529, 
+  [
+   857, 
+   902, 
+   {
+    "quote_id": 66311, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66018, 
+  [
+   0, 
+   56, 
+   {
+    "quote_id": 66010, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66018, 
+  [
+   232, 
+   262, 
+   {
+    "quote_id": 66010, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66018, 
+  [
+   269, 
+   396, 
+   {
+    "quote_id": 66005, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66018, 
+  [
+   435, 
+   600, 
+   {
+    "quote_id": 66010, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66018, 
+  [
+   653, 
+   685, 
+   {
+    "quote_id": 66010, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66311, 
+  [
+   0, 
+   244, 
+   {
+    "quote_id": 66195, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66311, 
+  [
+   330, 
+   336, 
+   {
+    "quote_id": 66195, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66311, 
+  [
+   373, 
+   428, 
+   {
+    "quote_id": 66195, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66311, 
+  [
+   579, 
+   671, 
+   {
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66319, 
+  [
+   0, 
+   549, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 66212, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  66195, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 66018, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66195, 
+  [
+   313, 
+   419, 
+   {
+    "quote_id": 66018, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66195, 
+  [
+   435, 
+   465, 
+   {
+    "quote_id": 66018, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66195, 
+  [
+   511, 
+   557, 
+   {
+    "quote_id": 66018, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66195, 
+  [
+   721, 
+   762, 
+   {
+    "quote_id": 66018, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66009, 
+  [
+   0, 
+   221, 
+   {
+    "quote_id": 66005, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66009, 
+  [
+   361, 
+   594, 
+   {
+    "quote_id": 66005, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66010, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 66009, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66010, 
+  [
+   199, 
+   298, 
+   {
+    "quote_id": 66009, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66010, 
+  [
+   335, 
+   404, 
+   {
+    "quote_id": 66005, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66010, 
+  [
+   576, 
+   684, 
+   {
+    "quote_id": 66009, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  66331, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "quote_id": 66319, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ]
+]

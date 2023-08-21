@@ -1,0 +1,343 @@
+[
+ [
+  42628, 
+  [
+   0, 
+   491, 
+   {
+    "raw_data": "emclean", 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43397, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43396, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43397, 
+  [
+   414, 
+   728, 
+   {
+    "quote_id": 43396, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43397, 
+  [
+   812, 
+   991, 
+   {
+    "quote_id": 43396, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43396, 
+  [
+   0, 
+   65, 
+   {
+    "quote_id": 43357, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  43396, 
+  [
+   183, 
+   276, 
+   {
+    "quote_id": 43357, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  43299, 
+  [
+   0, 
+   133, 
+   {
+    "quote_id": 43290, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  43299, 
+  [
+   267, 
+   446, 
+   {
+    "quote_id": 43290, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  43301, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43299, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43301, 
+  [
+   378, 
+   467, 
+   {
+    "quote_id": 43299, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43569, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 43550, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  43569, 
+  [
+   2352, 
+   2751, 
+   {
+    "quote_id": 43550, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  43614, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "RooK", 
+    "quote_id": 43606, 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  43614, 
+  [
+   878, 
+   1330, 
+   {
+    "quote_id": 43606, 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  43457, 
+  [
+   0, 
+   176, 
+   {}
+  ]
+ ], 
+ [
+  325004, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Tim;43550", 
+    "quote_id": 43550, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  43339, 
+  [
+   114, 
+   357, 
+   {
+    "quote_id": 43301, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  43606, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 43569, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  325092, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Brady;324964", 
+    "quote_id": 324964, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  43357, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43339, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  43357, 
+  [
+   178, 
+   424, 
+   {
+    "quote_id": 43339, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  324964, 
+  [
+   0, 
+   5898, 
+   {
+    "raw_data": "Tim;43290", 
+    "quote_id": 43290, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  324965, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "daewoo;43832", 
+    "quote_id": 43832, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  325094, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Brady;324965", 
+    "quote_id": 324965, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324972, 
+  [
+   0, 
+   44, 
+   {
+    "quote_id": 324965, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  42734, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 42628, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  42734, 
+  [
+   664, 
+   738, 
+   {
+    "quote_id": 42628, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  42607, 
+  [
+   336, 
+   597, 
+   {
+    "quote_id": 42587, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  324983, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Brady;324964", 
+    "quote_id": 324964, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  43768, 
+  [
+   0, 
+   1494, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 43569, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,665 @@
+[
+ [
+  240000, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "INRI;239832", 
+    "quote_id": 239832, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240000, 
+  [
+   142, 
+   205, 
+   {
+    "quote_id": 239832, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240000, 
+  [
+   310, 
+   361, 
+   {
+    "quote_id": 239832, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240000, 
+  [
+   436, 
+   505, 
+   {
+    "quote_id": 239832, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240000, 
+  [
+   625, 
+   695, 
+   {
+    "quote_id": 239832, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240001, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "INRI;239833", 
+    "quote_id": 239833, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240001, 
+  [
+   64, 
+   171, 
+   {
+    "quote_id": 239833, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240001, 
+  [
+   219, 
+   316, 
+   {
+    "quote_id": 239833, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240001, 
+  [
+   422, 
+   460, 
+   {
+    "quote_id": 239833, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240002, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Ripskar;239845", 
+    "quote_id": 239845, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  240003, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Easyrider;239945", 
+    "quote_id": 239945, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  240714, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Shooterandproud;240289", 
+    "quote_id": 240289, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  240285, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "trebor;240178", 
+    "quote_id": 240178, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  240289, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "trebor;240244", 
+    "quote_id": 240244, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  240162, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Easyrider;240109", 
+    "quote_id": 240109, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  240178, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Shooterandproud;240162", 
+    "quote_id": 240162, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  240202, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "INRI;240084", 
+    "quote_id": 240084, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240202, 
+  [
+   299, 
+   392, 
+   {
+    "raw_data": "INRI;240084", 
+    "quote_id": 240084, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240831, 
+  [
+   0, 
+   968, 
+   {
+    "raw_data": "shield20;240717", 
+    "quote_id": 240717, 
+    "author": "shield20"
+   }
+  ]
+ ], 
+ [
+  239945, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "INRI;239833", 
+    "quote_id": 239833, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239437, 
+  [
+   774, 
+   892, 
+   {}
+  ]
+ ], 
+ [
+  239437, 
+  [
+   898, 
+   962, 
+   {}
+  ]
+ ], 
+ [
+  240084, 
+  [
+   0, 
+   187, 
+   {
+    "quote_id": 239945, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "INRI;239794", 
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   156, 
+   190, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   284, 
+   452, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   632, 
+   659, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   955, 
+   1054, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   1150, 
+   1238, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   1382, 
+   1563, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   1644, 
+   2187, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   2646, 
+   2699, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   2937, 
+   3022, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   3245, 
+   3411, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   3664, 
+   3998, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   4964, 
+   5020, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   5076, 
+   5219, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   5392, 
+   5442, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   6043, 
+   6366, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239830, 
+  [
+   6484, 
+   6534, 
+   {
+    "quote_id": 239794, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239832, 
+  [
+   0, 
+   106, 
+   {
+    "quote_id": 239830, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  239833, 
+  [
+   0, 
+   245, 
+   {
+    "quote_id": 239596, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  239845, 
+  [
+   0, 
+   720, 
+   {
+    "raw_data": "Shooterandproud;239830", 
+    "quote_id": 239830, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "INRI;239437", 
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   168, 
+   277, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   316, 
+   504, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   521, 
+   616, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   679, 
+   900, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   1000, 
+   1090, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   1235, 
+   1401, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   1548, 
+   1750, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   2130, 
+   2217, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   2228, 
+   2408, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   2661, 
+   2679, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  239596, 
+  [
+   2687, 
+   2760, 
+   {
+    "quote_id": 239437, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  240109, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Shooterandproud;240003", 
+    "quote_id": 240003, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  240240, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "trebor;240178", 
+    "quote_id": 240178, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  240244, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Easyrider;240240", 
+    "quote_id": 240240, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  240765, 
+  [
+   0, 
+   968, 
+   {
+    "raw_data": "shield20;240717", 
+    "quote_id": 240717, 
+    "author": "shield20"
+   }
+  ]
+ ]
+]

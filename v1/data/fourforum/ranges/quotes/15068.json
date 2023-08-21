@@ -1,0 +1,54 @@
+[
+ [
+  426861, 
+  [
+   0, 
+   1248, 
+   {
+    "raw_data": "daewoo;424795", 
+    "quote_id": 424795, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  432214, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "PottersvilleUSA;426861", 
+    "quote_id": 426861, 
+    "author": "PottersvilleUSA"
+   }
+  ]
+ ], 
+ [
+  424795, 
+  [
+   116, 
+   478, 
+   {}
+  ]
+ ], 
+ [
+  424795, 
+  [
+   484, 
+   839, 
+   {}
+  ]
+ ], 
+ [
+  426878, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "PottersvilleUSA;426861", 
+    "quote_id": 426861, 
+    "author": "PottersvilleUSA"
+   }
+  ]
+ ]
+]

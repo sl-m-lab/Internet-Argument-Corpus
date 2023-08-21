@@ -1,0 +1,558 @@
+[
+ [
+  171755, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 171629, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  171437, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171433, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171281, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171277, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171668, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171561, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171420, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 171309, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  171420, 
+  [
+   1875, 
+   2062, 
+   {
+    "raw_data": "adept", 
+    "quote_id": 171302, 
+    "unknown_author": "adept", 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  171297, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 171292, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  171298, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171297, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171557, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171532, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171302, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171289, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171722, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 171690, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  171434, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171433, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171436, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171427, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171309, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171289, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171566, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171561, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171571, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171561, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171571, 
+  [
+   1182, 
+   1334, 
+   {
+    "quote_id": 171561, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171957, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 171585, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  171292, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171289, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171575, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171420, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171575, 
+  [
+   333, 
+   370, 
+   {
+    "quote_id": 171420, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171580, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171427, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171565, 
+  [
+   175, 
+   232, 
+   {
+    "quote_id": 171558, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171326, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 171309, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  171326, 
+  [
+   235, 
+   466, 
+   {
+    "raw_data": "Johnhanks", 
+    "quote_id": 171309, 
+    "unknown_author": "Johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  171629, 
+  [
+   0, 
+   571, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 171579, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  171585, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 171580, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  171334, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 171289, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  171336, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 171326, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  171336, 
+  [
+   652, 
+   746, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 171326, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  171338, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  171959, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 171957, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  171745, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171433, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171362, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 171338, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  171430, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171427, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171758, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 171687, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  171758, 
+  [
+   723, 
+   1108, 
+   {
+    "quote_id": 171690, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  171581, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 171513, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171581, 
+  [
+   79, 
+   108, 
+   {
+    "quote_id": 171513, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171581, 
+  [
+   136, 
+   150, 
+   {
+    "quote_id": 171513, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171581, 
+  [
+   287, 
+   311, 
+   {
+    "quote_id": 171513, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171581, 
+  [
+   408, 
+   538, 
+   {
+    "quote_id": 171513, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  171505, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 171298, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  171582, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 171531, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  171561, 
+  [
+   74, 
+   1730, 
+   {
+    "quote_id": 171557, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  171512, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 171501, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  171562, 
+  [
+   16, 
+   338, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 171561, 
+    "author": "Bassman"
+   }
+  ]
+ ]
+]

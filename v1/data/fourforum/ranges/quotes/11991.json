@@ -1,0 +1,397 @@
+[
+ [
+  333314, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "sinjin;333306", 
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333314, 
+  [
+   330, 
+   415, 
+   {
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333314, 
+  [
+   433, 
+   673, 
+   {
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333314, 
+  [
+   1314, 
+   1425, 
+   {
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333318, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Jo Bennett;333317", 
+    "quote_id": 333317, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333320, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Jo Bennett;333317", 
+    "quote_id": 333317, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333321, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "NATO 556;333314", 
+    "quote_id": 333314, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333324, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Ethmi;333309", 
+    "quote_id": 333309, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333326, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "sinjin;333324", 
+    "quote_id": 333324, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333327, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Jo Bennett;333317", 
+    "quote_id": 333317, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333712, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "Ethmi;333247", 
+    "quote_id": 333247, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333331, 
+  [
+   0, 
+   471, 
+   {
+    "raw_data": "NATO 556;333320", 
+    "quote_id": 333320, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333332, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Ethmi;333326", 
+    "quote_id": 333326, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333336, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Jo Bennett;333331", 
+    "quote_id": 333331, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333336, 
+  [
+   82, 
+   390, 
+   {
+    "quote_id": 333331, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333336, 
+  [
+   594, 
+   878, 
+   {
+    "quote_id": 333331, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333336, 
+  [
+   1081, 
+   1474, 
+   {
+    "quote_id": 333331, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333345, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Jo Bennett;333341", 
+    "quote_id": 333341, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333345, 
+  [
+   308, 
+   557, 
+   {
+    "quote_id": 333341, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333396, 
+  [
+   0, 
+   762, 
+   {
+    "raw_data": "NATO 556;333345", 
+    "quote_id": 333345, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333293, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "Ethmi;333247", 
+    "quote_id": 333247, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333296, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "sinjin;333293", 
+    "quote_id": 333293, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333553, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "sinjin;333332", 
+    "quote_id": 333332, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333442, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "sinjin;333436", 
+    "quote_id": 333436, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333306, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "NATO 556;333296", 
+    "quote_id": 333296, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333306, 
+  [
+   251, 
+   411, 
+   {
+    "quote_id": 333296, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333306, 
+  [
+   503, 
+   661, 
+   {
+    "quote_id": 333296, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333307, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "sinjin;333293", 
+    "quote_id": 333293, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333436, 
+  [
+   0, 
+   713, 
+   {
+    "raw_data": "Charliegone;333396", 
+    "quote_id": 333396, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  333309, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "sinjin;333306", 
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333309, 
+  [
+   210, 
+   295, 
+   {
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333309, 
+  [
+   338, 
+   413, 
+   {
+    "raw_data": "Brady", 
+    "unknown_author": "Brady"
+   }
+  ]
+ ], 
+ [
+  333309, 
+  [
+   420, 
+   496, 
+   {
+    "raw_data": "Brady", 
+    "unknown_author": "Brady"
+   }
+  ]
+ ], 
+ [
+  333309, 
+  [
+   771, 
+   1123, 
+   {
+    "quote_id": 333306, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

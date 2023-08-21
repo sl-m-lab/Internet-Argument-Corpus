@@ -1,0 +1,61 @@
+[
+ [
+  423333, 
+  [
+   0, 
+   1235, 
+   {
+    "raw_data": "Steeeeve;423330", 
+    "quote_id": 423330, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  423399, 
+  [
+   0, 
+   1034, 
+   {
+    "raw_data": "Xcaliber;423342", 
+    "quote_id": 423342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  423399, 
+  [
+   1404, 
+   2585, 
+   {
+    "quote_id": 423342, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  423404, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "daewoo;423399", 
+    "quote_id": 423399, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  423685, 
+  [
+   0, 
+   1677, 
+   {
+    "raw_data": "daewoo;423333", 
+    "quote_id": 423333, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

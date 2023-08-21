@@ -1,0 +1,38 @@
+[
+ [
+  348832, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "TRIGGER;348788", 
+    "quote_id": 348788, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  327497, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "gansao;327493", 
+    "quote_id": 327493, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  348788, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Archangel;327497", 
+    "quote_id": 327497, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

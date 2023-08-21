@@ -1,0 +1,3007 @@
+[
+ [
+  234504, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "electrolyte;234453", 
+    "quote_id": 234453, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234504, 
+  [
+   1080, 
+   1743, 
+   {
+    "raw_data": "electrolyte;234453", 
+    "quote_id": 234453, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234504, 
+  [
+   2409, 
+   2667, 
+   {
+    "raw_data": "electrolyte;234453", 
+    "quote_id": 234453, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233993, 
+  [
+   0, 
+   719, 
+   {
+    "raw_data": "electrolyte;233969", 
+    "quote_id": 233969, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233993, 
+  [
+   1008, 
+   1291, 
+   {
+    "raw_data": "electrolyte;233969", 
+    "quote_id": 233969, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Yossarian;233982", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   382, 
+   542, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   717, 
+   769, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   943, 
+   1001, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   1158, 
+   1264, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   1305, 
+   1357, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   1419, 
+   1522, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   1603, 
+   1669, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   1803, 
+   1963, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   2251, 
+   2317, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   2400, 
+   2434, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233995, 
+  [
+   2481, 
+   2849, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 233982, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233996, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "johnhanks;233974", 
+    "quote_id": 233974, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  233997, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "jyoshu;233993", 
+    "quote_id": 233993, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233997, 
+  [
+   273, 
+   386, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233993, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233997, 
+  [
+   460, 
+   556, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233993, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233997, 
+  [
+   611, 
+   687, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233993, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233997, 
+  [
+   894, 
+   1025, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233993, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233998, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "jyoshu;233996", 
+    "quote_id": 233996, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  232981, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "trebor;232681", 
+    "quote_id": 232681, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  232982, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jyoshu;232682", 
+    "quote_id": 232682, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  232983, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Kronus;232684", 
+    "quote_id": 232684, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  232984, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "jyoshu;232691", 
+    "quote_id": 232691, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233497, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Easyrider;233449", 
+    "quote_id": 233449, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  232987, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "thelmoose;232693", 
+    "quote_id": 232693, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  232989, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "johnhanks;232704", 
+    "quote_id": 232704, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  234526, 
+  [
+   0, 
+   469, 
+   {
+    "raw_data": "electrolyte;234518", 
+    "quote_id": 234518, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234526, 
+  [
+   924, 
+   1056, 
+   {
+    "raw_data": "electrolyte;234518", 
+    "quote_id": 234518, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234526, 
+  [
+   1693, 
+   1826, 
+   {
+    "raw_data": "electrolyte;234518", 
+    "quote_id": 234518, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234526, 
+  [
+   2247, 
+   2507, 
+   {
+    "raw_data": "electrolyte;234518", 
+    "quote_id": 234518, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  232991, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Jill White;232981", 
+    "quote_id": 232981, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  233513, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "jyoshu;233503", 
+    "quote_id": 233503, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233513, 
+  [
+   385, 
+   512, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233503, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233004, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Jill White;232989", 
+    "quote_id": 232989, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  233519, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "jyoshu;233503", 
+    "quote_id": 233503, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234505, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "thelmoose;234439", 
+    "quote_id": 234439, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234505, 
+  [
+   657, 
+   755, 
+   {
+    "raw_data": "thelmoose;234439", 
+    "quote_id": 234439, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234505, 
+  [
+   1049, 
+   1330, 
+   {
+    "raw_data": "thelmoose;234439", 
+    "quote_id": 234439, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233529, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "jyoshu;233503", 
+    "quote_id": 233503, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234554, 
+  [
+   0, 
+   1047, 
+   {
+    "raw_data": "jyoshu;234505", 
+    "quote_id": 234505, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234554, 
+  [
+   2579, 
+   2781, 
+   {}
+  ]
+ ], 
+ [
+  233531, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "johnhanks;233519", 
+    "quote_id": 233519, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  233027, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "trebor;232991", 
+    "quote_id": 232991, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  234564, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "jyoshu;234418", 
+    "quote_id": 234418, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233542, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "jyoshu;233531", 
+    "quote_id": 233531, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234567, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "johnhanks;234564", 
+    "quote_id": 234564, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  234567, 
+  [
+   1256, 
+   1658, 
+   {
+    "raw_data": "johnhanks;234564", 
+    "quote_id": 234564, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  234574, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234574, 
+  [
+   579, 
+   899, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234576, 
+  [
+   107, 
+   379, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234577, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "thelmoose;234554", 
+    "quote_id": 234554, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234577, 
+  [
+   406, 
+   905, 
+   {
+    "raw_data": "thelmoose;234554", 
+    "quote_id": 234554, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234577, 
+  [
+   1412, 
+   1547, 
+   {
+    "raw_data": "thelmoose;234554", 
+    "quote_id": 234554, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234577, 
+  [
+   1733, 
+   2246, 
+   {
+    "raw_data": "electrolyte;234576", 
+    "quote_id": 234576, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234578, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "johnhanks;234574", 
+    "quote_id": 234574, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  234579, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234579, 
+  [
+   255, 
+   418, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234579, 
+  [
+   883, 
+   1128, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234579, 
+  [
+   1189, 
+   1332, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234579, 
+  [
+   1423, 
+   1746, 
+   {
+    "raw_data": "jyoshu;234567", 
+    "quote_id": 234567, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234580, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "jyoshu;234577", 
+    "quote_id": 234577, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234580, 
+  [
+   310, 
+   400, 
+   {
+    "quote_id": 234554, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234580, 
+  [
+   434, 
+   1215, 
+   {
+    "raw_data": "jyoshu;234577", 
+    "quote_id": 234577, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233056, 
+  [
+   3, 
+   128, 
+   {
+    "raw_data": "me", 
+    "quote_id": 232693, 
+    "unknown_author": "me", 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233056, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "Jill White;232987", 
+    "quote_id": 232987, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  233575, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "jyoshu;233531", 
+    "quote_id": 233531, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234099, 
+  [
+   0, 
+   606, 
+   {
+    "raw_data": "jyoshu;233996", 
+    "quote_id": 233996, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234174, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "electrolyte;234167", 
+    "quote_id": 234167, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234174, 
+  [
+   365, 
+   518, 
+   {
+    "raw_data": "electrolyte;234167", 
+    "quote_id": 234167, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233602, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "electrolyte;233575", 
+    "quote_id": 233575, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233602, 
+  [
+   484, 
+   595, 
+   {
+    "raw_data": "electrolyte;233575", 
+    "quote_id": 233575, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234115, 
+  [
+   185, 
+   301, 
+   {
+    "quote_id": 233995, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234115, 
+  [
+   1381, 
+   1547, 
+   {
+    "quote_id": 233995, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234115, 
+  [
+   2148, 
+   2405, 
+   {
+    "quote_id": 233949, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234115, 
+  [
+   3422, 
+   3588, 
+   {
+    "quote_id": 233998, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234518, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "jyoshu;234504", 
+    "quote_id": 234504, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234518, 
+  [
+   1391, 
+   1438, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234504, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234518, 
+  [
+   1588, 
+   1831, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234504, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234518, 
+  [
+   1972, 
+   1988, 
+   {
+    "raw_data": "jypshu", 
+    "quote_id": 234504, 
+    "unknown_author": "jypshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234518, 
+  [
+   2278, 
+   2402, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234504, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234518, 
+  [
+   2584, 
+   2764, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234504, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Yossarian;234115", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   198, 
+   233, 
+   {
+    "raw_data": "Yossarian", 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   384, 
+   560, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   883, 
+   947, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   1080, 
+   1234, 
+   {
+    "raw_data": "Yossarian", 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   1417, 
+   1504, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   1598, 
+   1684, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   1812, 
+   1990, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   2245, 
+   2350, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   2433, 
+   2520, 
+   {
+    "raw_data": "Yossarian", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234127, 
+  [
+   2909, 
+   3030, 
+   {
+    "raw_data": "Yossarian", 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  233617, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "jyoshu;233602", 
+    "quote_id": 233602, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233617, 
+  [
+   274, 
+   406, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233602, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233617, 
+  [
+   1223, 
+   1400, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233602, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233617, 
+  [
+   1639, 
+   1675, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233602, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233114, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Jill White;232636", 
+    "quote_id": 232636, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  234167, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Easyrider;234159", 
+    "quote_id": 234159, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233503, 
+  [
+   0, 
+   640, 
+   {
+    "raw_data": "johnhanks;233167", 
+    "quote_id": 233167, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  233150, 
+  [
+   0, 
+   434, 
+   {
+    "raw_data": "thelmoose;232758", 
+    "quote_id": 232758, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  232641, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "simone;232640", 
+    "quote_id": 232640, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  232645, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Jill White;232636", 
+    "quote_id": 232636, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  232646, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Kronus;232645", 
+    "quote_id": 232645, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  233167, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "jyoshu;233150", 
+    "quote_id": 233150, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233167, 
+  [
+   279, 
+   391, 
+   {
+    "raw_data": "jyoshu;233150", 
+    "quote_id": 233150, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  232660, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Jill White;232646", 
+    "quote_id": 232646, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  232662, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Kronus;232660", 
+    "quote_id": 232660, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  234202, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Easyrider;234174", 
+    "quote_id": 234174, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  234202, 
+  [
+   405, 
+   580, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 234174, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233179, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Easyrider;233172", 
+    "quote_id": 233172, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233692, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "jyoshu;233531", 
+    "quote_id": 233531, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233188, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Kronus;233179", 
+    "quote_id": 233179, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  233193, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Easyrider;233172", 
+    "quote_id": 233172, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  232682, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Jill White;232636", 
+    "quote_id": 232636, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  232684, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jyoshu;232682", 
+    "quote_id": 232682, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233202, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Easyrider;233172", 
+    "quote_id": 233172, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  232691, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Kronus;232684", 
+    "quote_id": 232684, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  232695, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "jyoshu;232691", 
+    "quote_id": 232691, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233724, 
+  [
+   0, 
+   1361, 
+   {
+    "raw_data": "Yossarian;233721", 
+    "quote_id": 233721, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234238, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Yossarian;234115", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234238, 
+  [
+   344, 
+   701, 
+   {
+    "raw_data": "Yossarian;234115", 
+    "quote_id": 234115, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  232704, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Jill White;232662", 
+    "quote_id": 232662, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  233730, 
+  [
+   0, 
+   1166, 
+   {
+    "raw_data": "Yossarian;233721", 
+    "quote_id": 233721, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234246, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "jyoshu;234238", 
+    "quote_id": 234238, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234246, 
+  [
+   747, 
+   1014, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234238, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234246, 
+  [
+   1449, 
+   1751, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234238, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234255, 
+  [
+   0, 
+   1251, 
+   {
+    "raw_data": "jyoshu;234238", 
+    "quote_id": 234238, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  232720, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Kronus;232695", 
+    "quote_id": 232695, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  232722, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "thelmoose;232693", 
+    "quote_id": 232693, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234259, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "electrolyte;234246", 
+    "quote_id": 234246, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234259, 
+  [
+   886, 
+   1070, 
+   {
+    "raw_data": "electrolyte;234246", 
+    "quote_id": 234246, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234259, 
+  [
+   1705, 
+   1827, 
+   {
+    "raw_data": "electrolyte;234246", 
+    "quote_id": 234246, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234260, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "trebor;234255", 
+    "quote_id": 234255, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "jyoshu;234526", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   521, 
+   676, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   838, 
+   986, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   1286, 
+   1339, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   1426, 
+   1638, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   2147, 
+   2300, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   2430, 
+   2543, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234543, 
+  [
+   3507, 
+   3576, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234526, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234273, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "jyoshu;234238", 
+    "quote_id": 234238, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234275, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jyoshu;234259", 
+    "quote_id": 234259, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234275, 
+  [
+   330, 
+   613, 
+   {
+    "quote_id": 234259, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234204, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Jill White;232636", 
+    "quote_id": 232636, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  232758, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "jyoshu;232722", 
+    "quote_id": 232722, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233443, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "Easyrider;233439", 
+    "quote_id": 233439, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233172, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "thelmoose;233056", 
+    "quote_id": 233056, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  234333, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Easyrider;233449", 
+    "quote_id": 233449, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233822, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Easyrider;233449", 
+    "quote_id": 233449, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233824, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "electrolyte;233617", 
+    "quote_id": 233617, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233824, 
+  [
+   441, 
+   640, 
+   {
+    "raw_data": "electrolyte;233617", 
+    "quote_id": 233617, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233826, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "jyoshu;233824", 
+    "quote_id": 233824, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233826, 
+  [
+   540, 
+   733, 
+   {
+    "raw_data": "jyoshyu", 
+    "quote_id": 233824, 
+    "unknown_author": "jyoshyu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234339, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "gaetano;234333", 
+    "quote_id": 234333, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  234339, 
+  [
+   402, 
+   468, 
+   {
+    "raw_data": "gaetano;234333", 
+    "quote_id": 234333, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  234340, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "Peeling;234273", 
+    "quote_id": 234273, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234340, 
+  [
+   448, 
+   848, 
+   {
+    "raw_data": "Peeling;234273", 
+    "quote_id": 234273, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234340, 
+  [
+   1114, 
+   1284, 
+   {
+    "raw_data": "Peeling;234273", 
+    "quote_id": 234273, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234340, 
+  [
+   1661, 
+   2190, 
+   {
+    "raw_data": "Peeling;234273", 
+    "quote_id": 234273, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234340, 
+  [
+   3987, 
+   4152, 
+   {
+    "raw_data": "Peeling;234273", 
+    "quote_id": 234273, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234340, 
+  [
+   4377, 
+   4670, 
+   {
+    "raw_data": "Peeling;234273", 
+    "quote_id": 234273, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  233829, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "electrolyte;233826", 
+    "quote_id": 233826, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233829, 
+  [
+   629, 
+   760, 
+   {
+    "raw_data": "electrolyte;233826", 
+    "quote_id": 233826, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233319, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "Kronus;233194", 
+    "quote_id": 233194, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  234349, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Easyrider;234347", 
+    "quote_id": 234347, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233838, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "jyoshu;233829", 
+    "quote_id": 233829, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233838, 
+  [
+   428, 
+   505, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233829, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233838, 
+  [
+   731, 
+   943, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233829, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233838, 
+  [
+   1510, 
+   1693, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233829, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234351, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "jyoshu;234349", 
+    "quote_id": 234349, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234353, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Easyrider;234351", 
+    "quote_id": 234351, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233843, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "electrolyte;233838", 
+    "quote_id": 233838, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233843, 
+  [
+   479, 
+   771, 
+   {
+    "raw_data": "electrolyte;233838", 
+    "quote_id": 233838, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233846, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "jyoshu;233843", 
+    "quote_id": 233843, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233846, 
+  [
+   559, 
+   648, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233843, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233846, 
+  [
+   845, 
+   940, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233843, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233846, 
+  [
+   1104, 
+   1199, 
+   {
+    "raw_data": "joshyu", 
+    "quote_id": 233843, 
+    "unknown_author": "joshyu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233846, 
+  [
+   1374, 
+   1642, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233843, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233847, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "electrolyte;233846", 
+    "quote_id": 233846, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233847, 
+  [
+   725, 
+   1097, 
+   {
+    "raw_data": "electrolyte;233846", 
+    "quote_id": 233846, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233847, 
+  [
+   1300, 
+   1572, 
+   {
+    "raw_data": "electrolyte;233846", 
+    "quote_id": 233846, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233849, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "jyoshu;233847", 
+    "quote_id": 233847, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233849, 
+  [
+   348, 
+   701, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233847, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233849, 
+  [
+   990, 
+   1037, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233847, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233849, 
+  [
+   1201, 
+   1278, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233847, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233849, 
+  [
+   1430, 
+   1491, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233847, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233849, 
+  [
+   1571, 
+   1669, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233847, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233194, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "electrolyte;233188", 
+    "quote_id": 233188, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234370, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "jyoshu;234259", 
+    "quote_id": 234259, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234370, 
+  [
+   961, 
+   1119, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234259, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234370, 
+  [
+   1364, 
+   1463, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234259, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234370, 
+  [
+   2137, 
+   2264, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234259, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233863, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "electrolyte;233849", 
+    "quote_id": 233849, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233863, 
+  [
+   342, 
+   486, 
+   {
+    "raw_data": "electrolyte;233849", 
+    "quote_id": 233849, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233863, 
+  [
+   624, 
+   850, 
+   {
+    "raw_data": "electrolyte;233849", 
+    "quote_id": 233849, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233870, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "jyoshu;233863", 
+    "quote_id": 233863, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233870, 
+  [
+   284, 
+   412, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233863, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233870, 
+  [
+   743, 
+   978, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233863, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234386, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "electrolyte;234370", 
+    "quote_id": 234370, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234386, 
+  [
+   261, 
+   391, 
+   {
+    "raw_data": "electrolyte;234370", 
+    "quote_id": 234370, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234386, 
+  [
+   1182, 
+   1462, 
+   {
+    "raw_data": "electrolyte;234370", 
+    "quote_id": 234370, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234386, 
+  [
+   1899, 
+   2136, 
+   {
+    "raw_data": "electrolyte;234370", 
+    "quote_id": 234370, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234386, 
+  [
+   2587, 
+   3253, 
+   {
+    "raw_data": "electrolyte;234370", 
+    "quote_id": 234370, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234386, 
+  [
+   3808, 
+   3880, 
+   {
+    "raw_data": "electrolyte;234370", 
+    "quote_id": 234370, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234413, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "jyoshu;234340", 
+    "quote_id": 234340, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234413, 
+  [
+   468, 
+   724, 
+   {
+    "quote_id": 234340, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234413, 
+  [
+   2135, 
+   2311, 
+   {
+    "quote_id": 234340, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234413, 
+  [
+   3048, 
+   3396, 
+   {}
+  ]
+ ], 
+ [
+  234413, 
+  [
+   3481, 
+   3695, 
+   {
+    "quote_id": 234340, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233904, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "electrolyte;233870", 
+    "quote_id": 233870, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234418, 
+  [
+   0, 
+   1031, 
+   {
+    "raw_data": "Peeling;234413", 
+    "quote_id": 234413, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234418, 
+  [
+   2384, 
+   2750, 
+   {
+    "raw_data": "Peeling;234413", 
+    "quote_id": 234413, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234418, 
+  [
+   3298, 
+   3799, 
+   {
+    "raw_data": "Peeling;234413", 
+    "quote_id": 234413, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234418, 
+  [
+   4569, 
+   4756, 
+   {
+    "raw_data": "Peeling;234413", 
+    "quote_id": 234413, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234418, 
+  [
+   4932, 
+   5261, 
+   {
+    "raw_data": "Peeling;234413", 
+    "quote_id": 234413, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  234418, 
+  [
+   6285, 
+   6616, 
+   {
+    "raw_data": "Peeling;234413", 
+    "quote_id": 234413, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  233912, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Easyrider;233904", 
+    "quote_id": 233904, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  232681, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Jill White;232636", 
+    "quote_id": 232636, 
+    "author": "Jill White"
+   }
+  ]
+ ], 
+ [
+  234439, 
+  [
+   59, 
+   371, 
+   {
+    "raw_data": "jyoshu;234418", 
+    "quote_id": 234418, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234439, 
+  [
+   564, 
+   654, 
+   {
+    "raw_data": "jyoshu;234418", 
+    "quote_id": 234418, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234439, 
+  [
+   837, 
+   1015, 
+   {
+    "raw_data": "jyoshu;234418", 
+    "quote_id": 234418, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234439, 
+  [
+   1702, 
+   1849, 
+   {
+    "raw_data": "jyoshu;234418", 
+    "quote_id": 234418, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "jyoshu;234386", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   988, 
+   1108, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   1368, 
+   1497, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   1523, 
+   1596, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   1754, 
+   1915, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   2504, 
+   2729, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   3266, 
+   3479, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   4330, 
+   4376, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   5047, 
+   5194, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  234453, 
+  [
+   5460, 
+   5606, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 234386, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233949, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "electrolyte;233870", 
+    "quote_id": 233870, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233949, 
+  [
+   444, 
+   767, 
+   {
+    "raw_data": "electrolyte;233870", 
+    "quote_id": 233870, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233439, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "thelmoose;233193", 
+    "quote_id": 233193, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233439, 
+  [
+   203, 
+   433, 
+   {
+    "raw_data": "thelmoose;233193", 
+    "quote_id": 233193, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233439, 
+  [
+   504, 
+   638, 
+   {
+    "raw_data": "thelmoose;233193", 
+    "quote_id": 233193, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233439, 
+  [
+   694, 
+   849, 
+   {
+    "raw_data": "thelmoose;233193", 
+    "quote_id": 233193, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  233957, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Ripskar;233955", 
+    "quote_id": 233955, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  233450, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Easyrider;233449", 
+    "quote_id": 233449, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  233969, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "jyoshu;233949", 
+    "quote_id": 233949, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233969, 
+  [
+   984, 
+   1154, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 233949, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233974, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "jyoshu;233957", 
+    "quote_id": 233957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  233982, 
+  [
+   0, 
+   1517, 
+   {
+    "quote_id": 233730, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233982, 
+  [
+   2653, 
+   3051, 
+   {
+    "quote_id": 233969, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233982, 
+  [
+   3477, 
+   3655, 
+   {
+    "quote_id": 233974, 
+    "author": "johnhanks"
+   }
+  ]
+ ]
+]

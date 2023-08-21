@@ -1,0 +1,60 @@
+[
+ [
+  332768, 
+  [
+   670, 
+   1035, 
+   {
+    "raw_data": "chester;332733", 
+    "unknown_quote_id": 332733, 
+    "unknown_author": "chester"
+   }
+  ]
+ ], 
+ [
+  298246, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "Archangel;298135", 
+    "quote_id": 298135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  332917, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Symbiote;332775", 
+    "quote_id": 332775, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  332917, 
+  [
+   248, 
+   479, 
+   {
+    "quote_id": 332775, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  332917, 
+  [
+   973, 
+   1103, 
+   {
+    "quote_id": 332775, 
+    "author": "Symbiote"
+   }
+  ]
+ ]
+]

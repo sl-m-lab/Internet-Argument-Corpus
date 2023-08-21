@@ -1,0 +1,84 @@
+[
+ [
+  426914, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "PottersvilleUSA;426897", 
+    "quote_id": 426897, 
+    "author": "PottersvilleUSA"
+   }
+  ]
+ ], 
+ [
+  410115, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Didymus;410112", 
+    "quote_id": 410112, 
+    "author": "Didymus"
+   }
+  ]
+ ], 
+ [
+  411140, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Didymus;411077", 
+    "quote_id": 411077, 
+    "author": "Didymus"
+   }
+  ]
+ ], 
+ [
+  411140, 
+  [
+   456, 
+   523, 
+   {
+    "quote_id": 411077, 
+    "author": "Didymus"
+   }
+  ]
+ ], 
+ [
+  411077, 
+  [
+   0, 
+   642, 
+   {
+    "raw_data": "COBHC;410115", 
+    "quote_id": 410115, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  426897, 
+  [
+   0, 
+   1159, 
+   {
+    "raw_data": "COBHC;404331", 
+    "quote_id": 404331, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  432158, 
+  [
+   0, 
+   82, 
+   {
+    "quote_id": 426897, 
+    "author": "PottersvilleUSA"
+   }
+  ]
+ ]
+]

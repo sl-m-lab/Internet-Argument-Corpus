@@ -1,0 +1,59 @@
+[
+ [
+  34454, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 34409, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34749, 
+  [
+   1357, 
+   1519, 
+   {
+    "quote_id": 34662, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34755, 
+  [
+   0, 
+   1044, 
+   {
+    "quote_id": 34750, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34755, 
+  [
+   1099, 
+   1645, 
+   {
+    "quote_id": 34750, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  34510, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 34474, 
+    "author": "Broker"
+   }
+  ]
+ ]
+]

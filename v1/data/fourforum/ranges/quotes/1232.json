@@ -1,0 +1,5094 @@
+[
+ [
+  22016, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22013, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23557, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23512, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23557, 
+  [
+   176, 
+   261, 
+   {
+    "quote_id": 23512, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23557, 
+  [
+   485, 
+   678, 
+   {
+    "quote_id": 23512, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23557, 
+  [
+   894, 
+   1122, 
+   {
+    "quote_id": 23512, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23557, 
+  [
+   1400, 
+   1444, 
+   {
+    "quote_id": 23512, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23558, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23522, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   179, 
+   213, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   266, 
+   295, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   311, 
+   481, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   573, 
+   662, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   853, 
+   949, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   1036, 
+   1195, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23561, 
+  [
+   1290, 
+   1341, 
+   {
+    "quote_id": 23523, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28178, 
+  [
+   0, 
+   32, 
+   {
+    "quote_id": 27713, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28178, 
+  [
+   48, 
+   241, 
+   {
+    "quote_id": 27713, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28178, 
+  [
+   602, 
+   787, 
+   {
+    "quote_id": 27713, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28178, 
+  [
+   3073, 
+   3112, 
+   {
+    "quote_id": 27713, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 27713, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   38, 
+   46, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   187, 
+   380, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 27713, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   386, 
+   562, 
+   {
+    "raw_data": "Mizmaxx", 
+    "unknown_author": "Mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   568, 
+   737, 
+   {
+    "raw_data": "Mizmaxx", 
+    "unknown_author": "Mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   1491, 
+   1677, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 27713, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   1683, 
+   2028, 
+   {
+    "raw_data": "Mizmaxx", 
+    "unknown_author": "Mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   2034, 
+   2158, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   3154, 
+   3427, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   3506, 
+   3663, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   3793, 
+   3881, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   4302, 
+   4420, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   4731, 
+   5196, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   5492, 
+   5847, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   6031, 
+   6359, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   6541, 
+   6580, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 27713, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28186, 
+  [
+   6586, 
+   6635, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 28178, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   273, 
+   318, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   1253, 
+   1338, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   1656, 
+   1830, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   1894, 
+   1975, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   2092, 
+   2149, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   2190, 
+   2326, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   2537, 
+   2656, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   2721, 
+   2816, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   2897, 
+   3206, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   3356, 
+   3446, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   3493, 
+   3575, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   3678, 
+   3820, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22556, 
+  [
+   3953, 
+   4137, 
+   {
+    "quote_id": 22545, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22051, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22013, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22051, 
+  [
+   1063, 
+   1155, 
+   {
+    "quote_id": 22013, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   34, 
+   130, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22762, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   204, 
+   211, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23436, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   245, 
+   343, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22762, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   349, 
+   476, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   681, 
+   878, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22762, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   884, 
+   1109, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   1894, 
+   2000, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22762, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   2006, 
+   2070, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23436, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   2332, 
+   2534, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  23475, 
+  [
+   2540, 
+   2833, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23436, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  27702, 
+  [
+   0, 
+   96, 
+   {
+    "quote_id": 27660, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  27702, 
+  [
+   398, 
+   488, 
+   {
+    "quote_id": 27660, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22585, 
+  [
+   0, 
+   79, 
+   {
+    "quote_id": 22512, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22077, 
+  [
+   0, 
+   25, 
+   {
+    "quote_id": 22016, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  22077, 
+  [
+   56, 
+   139, 
+   {
+    "quote_id": 22051, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   548, 
+   1312, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   2176, 
+   2361, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   2527, 
+   2581, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   2922, 
+   3029, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   3206, 
+   3237, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   3576, 
+   3777, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   4313, 
+   4368, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   4870, 
+   4941, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   5500, 
+   5593, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   5864, 
+   5987, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22590, 
+  [
+   6480, 
+   6594, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22556, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  27713, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 27660, 
+    "unknown_author": "Mizmaxx", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  27713, 
+  [
+   404, 
+   555, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 27702, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  27713, 
+  [
+   1158, 
+   1295, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 27702, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  27713, 
+  [
+   1648, 
+   1739, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  27713, 
+  [
+   1745, 
+   2021, 
+   {
+    "raw_data": "Mizmaxx", 
+    "quote_id": 27702, 
+    "unknown_author": "Mizmaxx", 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  27713, 
+  [
+   2832, 
+   3242, 
+   {
+    "raw_data": "Mizmaxx", 
+    "unknown_author": "Mizmaxx"
+   }
+  ]
+ ], 
+ [
+  22083, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22077, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22083, 
+  [
+   159, 
+   279, 
+   {
+    "raw_data": "parcum", 
+    "quote_id": 22077, 
+    "unknown_author": "parcum", 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22085, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Parcum", 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23650, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23636, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22612, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Parcum", 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23639, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23636, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23639, 
+  [
+   564, 
+   639, 
+   {}
+  ]
+ ], 
+ [
+  23639, 
+  [
+   2866, 
+   2892, 
+   {
+    "quote_id": 23636, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23639, 
+  [
+   2925, 
+   7349, 
+   {
+    "quote_id": 23636, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23639, 
+  [
+   7541, 
+   7799, 
+   {
+    "quote_id": 23636, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22626, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22585, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   148, 
+   251, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   298, 
+   568, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   703, 
+   973, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   1029, 
+   1185, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   1259, 
+   1323, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   1412, 
+   1675, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   1730, 
+   1769, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   1834, 
+   1958, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   2030, 
+   2120, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   2218, 
+   2306, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   2359, 
+   2395, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   2425, 
+   2506, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   2737, 
+   2963, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   3051, 
+   3231, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   3376, 
+   3759, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   3798, 
+   3997, 
+   {}
+  ]
+ ], 
+ [
+  22628, 
+  [
+   4084, 
+   4215, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   4294, 
+   4423, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   4508, 
+   4989, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22628, 
+  [
+   5311, 
+   5411, 
+   {
+    "quote_id": 22590, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22629, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22606, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22630, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22612, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22630, 
+  [
+   403, 
+   528, 
+   {
+    "quote_id": 22612, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22630, 
+  [
+   691, 
+   868, 
+   {
+    "quote_id": 22612, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22630, 
+  [
+   911, 
+   1305, 
+   {
+    "quote_id": 22612, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22612, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   313, 
+   399, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22630, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   1724, 
+   1849, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22612, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   1855, 
+   2008, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22630, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   2243, 
+   2420, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22612, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   2426, 
+   2459, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22630, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   2832, 
+   3226, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22612, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   3232, 
+   3464, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22630, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22635, 
+  [
+   3870, 
+   3941, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22630, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   89, 
+   143, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   167, 
+   212, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22545, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   240, 
+   389, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   500, 
+   603, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   609, 
+   646, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   1081, 
+   1206, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   1467, 
+   1737, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   1743, 
+   1786, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   1962, 
+   2119, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   2125, 
+   2188, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   2461, 
+   2526, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   2532, 
+   2612, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   2954, 
+   3218, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   3225, 
+   3269, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   3642, 
+   3682, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   3689, 
+   3745, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22628, 
+    "unknown_author": "Montalban", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   4155, 
+   4280, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   4287, 
+   4325, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   4395, 
+   4619, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22265, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   4643, 
+   4648, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   4830, 
+   4905, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   5177, 
+   5244, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22051, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   5345, 
+   5523, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   5662, 
+   5750, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   5756, 
+   5799, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   6206, 
+   6242, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   6248, 
+   6268, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   6420, 
+   6501, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   6507, 
+   6728, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   6773, 
+   6999, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   7025, 
+   7103, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   7499, 
+   7681, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   7687, 
+   7822, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   8201, 
+   8584, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   8590, 
+   8619, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   8768, 
+   8965, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   8971, 
+   9048, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   9377, 
+   9508, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   9514, 
+   9583, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   10144, 
+   10275, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   10281, 
+   10356, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   10421, 
+   10902, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   10908, 
+   11059, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   11613, 
+   11713, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22590, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22641, 
+  [
+   11719, 
+   11813, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22628, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   702, 
+   882, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   1017, 
+   1184, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   1261, 
+   1474, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   1634, 
+   1893, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   2044, 
+   2106, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   2139, 
+   2211, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   2402, 
+   2491, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   2536, 
+   2603, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   2621, 
+   2916, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   3023, 
+   3270, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   3390, 
+   3533, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22642, 
+  [
+   3731, 
+   3853, 
+   {
+    "quote_id": 22635, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22643, 
+  [
+   0, 
+   207, 
+   {
+    "quote_id": 22626, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22646, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22643, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22647, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22643, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22648, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22644, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22648, 
+  [
+   189, 
+   299, 
+   {
+    "quote_id": 22644, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22648, 
+  [
+   453, 
+   601, 
+   {
+    "quote_id": 22644, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22648, 
+  [
+   720, 
+   827, 
+   {
+    "quote_id": 22644, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22649, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22646, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22651, 
+  [
+   0, 
+   116, 
+   {
+    "quote_id": 22647, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22142, 
+  [
+   0, 
+   811, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22139, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22148, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22085, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22149, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 22134, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  22667, 
+  [
+   28, 
+   104, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22648, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22667, 
+  [
+   190, 
+   332, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22648, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22667, 
+  [
+   616, 
+   749, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  22667, 
+  [
+   755, 
+   864, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22648, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22667, 
+  [
+   1021, 
+   1154, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22648, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22668, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22649, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22164, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22149, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22165, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22149, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22166, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 22164, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  23703, 
+  [
+   0, 
+   653, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23650, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23704, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23683, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23705, 
+  [
+   14, 
+   186, 
+   {
+    "quote_id": 23691, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22702, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22651, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   53, 
+   127, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   224, 
+   498, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   617, 
+   698, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   1189, 
+   1251, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   1321, 
+   1352, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   1569, 
+   1818, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   1976, 
+   2039, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22705, 
+  [
+   2052, 
+   2579, 
+   {
+    "quote_id": 22667, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22706, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22668, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22707, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22670, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22707, 
+  [
+   999, 
+   1106, 
+   {
+    "quote_id": 22670, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22707, 
+  [
+   1213, 
+   1252, 
+   {
+    "quote_id": 22670, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  27572, 
+  [
+   59, 
+   133, 
+   {}
+  ]
+ ], 
+ [
+  27572, 
+  [
+   139, 
+   239, 
+   {}
+  ]
+ ], 
+ [
+  27572, 
+  [
+   435, 
+   500, 
+   {}
+  ]
+ ], 
+ [
+  27572, 
+  [
+   746, 
+   948, 
+   {}
+  ]
+ ], 
+ [
+  27572, 
+  [
+   966, 
+   1090, 
+   {}
+  ]
+ ], 
+ [
+  27572, 
+  [
+   1186, 
+   1295, 
+   {}
+  ]
+ ], 
+ [
+  22717, 
+  [
+   0, 
+   102, 
+   {
+    "quote_id": 22702, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23636, 
+  [
+   0, 
+   66, 
+   {
+    "quote_id": 23557, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23636, 
+  [
+   231, 
+   446, 
+   {
+    "quote_id": 23557, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23636, 
+  [
+   3300, 
+   3459, 
+   {
+    "quote_id": 23557, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23636, 
+  [
+   3496, 
+   3764, 
+   {
+    "quote_id": 23557, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23636, 
+  [
+   8197, 
+   8334, 
+   {
+    "quote_id": 23557, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22723, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22717, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22134, 
+  [
+   0, 
+   1546, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22125, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23775, 
+  [
+   0, 
+   12, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23683, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   80, 
+   167, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22705, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   583, 
+   859, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   865, 
+   973, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22705, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   1370, 
+   1449, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   1455, 
+   1575, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22705, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   2726, 
+   2790, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   2796, 
+   2858, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22705, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   2878, 
+   2909, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   2915, 
+   3122, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22705, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   3319, 
+   3568, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   3574, 
+   3722, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22705, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   4163, 
+   4227, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22667, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   4233, 
+   4236, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   4351, 
+   4874, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   4880, 
+   4931, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22760, 
+  [
+   5166, 
+   5309, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22762, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22723, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22764, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22728, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22262, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22166, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22263, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "gilligan8503", 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  22265, 
+  [
+   0, 
+   582, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22165, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   257, 
+   440, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   902, 
+   975, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   1086, 
+   1564, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   1670, 
+   2014, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   2092, 
+   2317, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   2496, 
+   2823, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22271, 
+  [
+   2889, 
+   3412, 
+   {
+    "quote_id": 22262, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22272, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22265, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22272, 
+  [
+   272, 
+   505, 
+   {
+    "quote_id": 22265, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23512, 
+  [
+   0, 
+   54, 
+   {
+    "quote_id": 23431, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23512, 
+  [
+   165, 
+   392, 
+   {
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23512, 
+  [
+   682, 
+   912, 
+   {
+    "quote_id": 23436, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23847, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23775, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23847, 
+  [
+   405, 
+   716, 
+   {
+    "quote_id": 23775, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22323, 
+  [
+   0, 
+   330, 
+   {
+    "quote_id": 22272, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23691, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23683, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23691, 
+  [
+   3690, 
+   3783, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23691, 
+  [
+   3796, 
+   4279, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  23691, 
+  [
+   4327, 
+   4416, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23691, 
+  [
+   5583, 
+   5882, 
+   {
+    "raw_data": "Killakozzy", 
+    "unknown_author": "Killakozzy"
+   }
+  ]
+ ], 
+ [
+  23876, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23875, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23523, 
+  [
+   0, 
+   664, 
+   {
+    "raw_data": "Parcum", 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22356, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 22323, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  23894, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23875, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23895, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23894, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22381, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22356, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22388, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 22381, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  23932, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 23875, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23431, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22728, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   522, 
+   634, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   751, 
+   921, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   1157, 
+   1256, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   1356, 
+   1771, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   1942, 
+   1995, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   2132, 
+   2319, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   2421, 
+   2850, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   2908, 
+   3013, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   3067, 
+   3292, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23435, 
+  [
+   3364, 
+   3546, 
+   {
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23436, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22762, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23436, 
+  [
+   101, 
+   165, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23436, 
+  [
+   182, 
+   280, 
+   {
+    "quote_id": 22762, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23436, 
+  [
+   412, 
+   609, 
+   {
+    "quote_id": 22762, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23436, 
+  [
+   850, 
+   956, 
+   {
+    "quote_id": 22762, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23436, 
+  [
+   1030, 
+   1234, 
+   {
+    "quote_id": 22762, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23438, 
+  [
+   0, 
+   852, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22764, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23875, 
+  [
+   0, 
+   115, 
+   {
+    "quote_id": 23691, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23455, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 23446, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  23455, 
+  [
+   323, 
+   404, 
+   {
+    "quote_id": 23446, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  23455, 
+  [
+   427, 
+   562, 
+   {
+    "quote_id": 23446, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  23455, 
+  [
+   846, 
+   1067, 
+   {
+    "quote_id": 23446, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  23455, 
+  [
+   1326, 
+   1860, 
+   {
+    "quote_id": 23446, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22271, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   472, 
+   596, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22271, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   649, 
+   954, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   960, 
+   1061, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22271, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   1798, 
+   1894, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22271, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   1926, 
+   1994, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   2194, 
+   2363, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22447, 
+  [
+   2558, 
+   2614, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22271, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23472, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23431, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   412, 
+   516, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   757, 
+   870, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   1525, 
+   1695, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   1701, 
+   1927, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   2123, 
+   2222, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   2228, 
+   2318, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   2803, 
+   3219, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   3225, 
+   3386, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   3392, 
+   3445, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   3451, 
+   3576, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   4275, 
+   4462, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   4468, 
+   4566, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   4831, 
+   5233, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   5239, 
+   5287, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   5875, 
+   5980, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22760, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   5986, 
+   6036, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   6475, 
+   6701, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   6707, 
+   6769, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23435, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   7433, 
+   7616, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 22760, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   7622, 
+   7762, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23474, 
+  [
+   8202, 
+   8504, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23476, 
+  [
+   0, 
+   534, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 23446, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  22455, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22272, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22455, 
+  [
+   150, 
+   502, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 22272, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22455, 
+  [
+   2345, 
+   2677, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  23489, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23472, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   357, 
+   505, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   640, 
+   683, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   797, 
+   885, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   1334, 
+   1759, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   1828, 
+   1850, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   1916, 
+   2106, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   2257, 
+   2442, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22468, 
+  [
+   2561, 
+   2738, 
+   {
+    "quote_id": 22447, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   123, 
+   512, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   703, 
+   777, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   901, 
+   977, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   1307, 
+   1534, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   1591, 
+   1609, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   1672, 
+   1692, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   1742, 
+   2021, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   2448, 
+   2560, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   3109, 
+   3371, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   3393, 
+   3580, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   3709, 
+   3795, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22469, 
+  [
+   3816, 
+   3889, 
+   {
+    "quote_id": 22455, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   305, 
+   362, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   383, 
+   549, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   739, 
+   824, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   978, 
+   1075, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   1191, 
+   1490, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   1521, 
+   1695, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   1741, 
+   1832, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   2208, 
+   2410, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   2913, 
+   3025, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   3094, 
+   3366, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   3456, 
+   3711, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   3750, 
+   3817, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   3868, 
+   4375, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   4716, 
+   4888, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   4943, 
+   5085, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   5157, 
+   5267, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   5397, 
+   5575, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   5711, 
+   6186, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   6208, 
+   6606, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   6627, 
+   6654, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23497, 
+  [
+   6725, 
+   6855, 
+   {
+    "quote_id": 23474, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   297, 
+   566, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   669, 
+   815, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   897, 
+   1087, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   1154, 
+   1315, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   1667, 
+   1919, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   1975, 
+   2405, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   2542, 
+   2638, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   3190, 
+   3340, 
+   {}
+  ]
+ ], 
+ [
+  23500, 
+  [
+   3372, 
+   3540, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   3609, 
+   3825, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23500, 
+  [
+   3867, 
+   3916, 
+   {
+    "quote_id": 23475, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23504, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23476, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22483, 
+  [
+   0, 
+   142, 
+   {}
+  ]
+ ], 
+ [
+  22483, 
+  [
+   917, 
+   1025, 
+   {
+    "quote_id": 22468, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22483, 
+  [
+   1760, 
+   1798, 
+   {
+    "quote_id": 22469, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22483, 
+  [
+   1976, 
+   2152, 
+   {
+    "quote_id": 22469, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22488, 
+  [
+   0, 
+   765, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22483, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22488, 
+  [
+   796, 
+   1366, 
+   {
+    "quote_id": 22483, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22488, 
+  [
+   1439, 
+   1589, 
+   {
+    "quote_id": 22483, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22488, 
+  [
+   1689, 
+   1856, 
+   {
+    "quote_id": 22483, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22488, 
+  [
+   2026, 
+   2164, 
+   {
+    "quote_id": 22483, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  23522, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 23504, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22499, 
+  [
+   0, 
+   22, 
+   {
+    "quote_id": 22488, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22499, 
+  [
+   63, 
+   126, 
+   {
+    "quote_id": 22488, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22499, 
+  [
+   263, 
+   354, 
+   {
+    "quote_id": 22488, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22499, 
+  [
+   401, 
+   561, 
+   {
+    "quote_id": 22488, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22499, 
+  [
+   850, 
+   921, 
+   {
+    "quote_id": 22488, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22500, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22499, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22500, 
+  [
+   82, 
+   209, 
+   {
+    "quote_id": 22499, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22500, 
+  [
+   240, 
+   277, 
+   {
+    "quote_id": 22499, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22500, 
+  [
+   294, 
+   572, 
+   {
+    "quote_id": 22499, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22500, 
+  [
+   616, 
+   752, 
+   {
+    "quote_id": 22499, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22509, 
+  [
+   0, 
+   42, 
+   {
+    "quote_id": 22500, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22509, 
+  [
+   173, 
+   181, 
+   {}
+  ]
+ ], 
+ [
+  22509, 
+  [
+   465, 
+   500, 
+   {
+    "quote_id": 22500, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22509, 
+  [
+   524, 
+   682, 
+   {
+    "quote_id": 22500, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21998, 
+  [
+   0, 
+   641, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 21995, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22512, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22509, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22512, 
+  [
+   132, 
+   173, 
+   {
+    "quote_id": 22509, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22512, 
+  [
+   262, 
+   284, 
+   {
+    "quote_id": 22509, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22512, 
+  [
+   327, 
+   420, 
+   {
+    "quote_id": 22509, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22009, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 22001, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  22013, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 22009, 
+    "author": "Charchuk"
+   }
+  ]
+ ]
+]

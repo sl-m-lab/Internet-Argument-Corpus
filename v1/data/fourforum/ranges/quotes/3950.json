@@ -1,0 +1,93 @@
+[
+ [
+  83083, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 83014, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  83014, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 83003, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  82986, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  82992, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 82970, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  82996, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 82986, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  82967, 
+  [
+   531, 
+   772, 
+   {}
+  ]
+ ], 
+ [
+  83003, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 82996, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  83101, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 83083, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ]
+]

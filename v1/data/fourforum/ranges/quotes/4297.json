@@ -1,0 +1,433 @@
+[
+ [
+  91531, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91445, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  93453, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91350, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  91280, 
+  [
+   0, 
+   46, 
+   {}
+  ]
+ ], 
+ [
+  91280, 
+  [
+   89, 
+   139, 
+   {}
+  ]
+ ], 
+ [
+  91280, 
+  [
+   235, 
+   381, 
+   {}
+  ]
+ ], 
+ [
+  91280, 
+  [
+   711, 
+   771, 
+   {}
+  ]
+ ], 
+ [
+  91280, 
+  [
+   1122, 
+   1166, 
+   {}
+  ]
+ ], 
+ [
+  91280, 
+  [
+   1384, 
+   1471, 
+   {
+    "quote_id": 91265, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  91290, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91265, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  91290, 
+  [
+   224, 
+   279, 
+   {}
+  ]
+ ], 
+ [
+  91290, 
+  [
+   520, 
+   580, 
+   {}
+  ]
+ ], 
+ [
+  91290, 
+  [
+   921, 
+   963, 
+   {}
+  ]
+ ], 
+ [
+  91290, 
+  [
+   1219, 
+   1306, 
+   {
+    "quote_id": 91265, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  97183, 
+  [
+   0, 
+   1089, 
+   {
+    "raw_data": "Harlequin", 
+    "quote_id": 97180, 
+    "author": "Harlequin"
+   }
+  ]
+ ], 
+ [
+  91431, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91351, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  91432, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "evident", 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  91445, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 91431, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  91445, 
+  [
+   60, 
+   162, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 91432, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  93628, 
+  [
+   694, 
+   898, 
+   {
+    "quote_id": 93548, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  97333, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 93548, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93638, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93628, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93638, 
+  [
+   245, 
+   832, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93628, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93638, 
+  [
+   1228, 
+   1352, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93628, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93781, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93665, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93781, 
+  [
+   1045, 
+   1595, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93665, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  91350, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Demon38", 
+    "quote_id": 91280, 
+    "author": "Demon38"
+   }
+  ]
+ ], 
+ [
+  91351, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 91290, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  93656, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 93638, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93664, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 93656, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93665, 
+  [
+   0, 
+   146, 
+   {
+    "quote_id": 93638, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93665, 
+  [
+   547, 
+   936, 
+   {
+    "quote_id": 93638, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93665, 
+  [
+   1647, 
+   1673, 
+   {
+    "quote_id": 93638, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91490, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91351, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  93795, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91636, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  93795, 
+  [
+   789, 
+   987, 
+   {}
+  ]
+ ], 
+ [
+  93795, 
+  [
+   1273, 
+   1431, 
+   {
+    "raw_data": "evident", 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  93795, 
+  [
+   1435, 
+   1505, 
+   {
+    "raw_data": "evident", 
+    "quote_id": 91636, 
+    "author": "evident"
+   }
+  ]
+ ], 
+ [
+  93548, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93521, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  91636, 
+  [
+   116, 
+   1028, 
+   {}
+  ]
+ ], 
+ [
+  91513, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "evident", 
+    "author": "evident"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,545 @@
+[
+ [
+  343555, 
+  [
+   0, 
+   533, 
+   {
+    "raw_data": "CUNxTime;343532", 
+    "quote_id": 343532, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343725, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "trebor;343674", 
+    "quote_id": 343674, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  342037, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "pro-con;342020", 
+    "quote_id": 342020, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  342168, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "pro-con;342157", 
+    "quote_id": 342157, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  343663, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "CUNxTime;343630", 
+    "quote_id": 343630, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  342172, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "pro-con;342155", 
+    "quote_id": 342155, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  342175, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Penfold;342172", 
+    "quote_id": 342172, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  343459, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "creamsoda31010;343420", 
+    "quote_id": 343420, 
+    "author": "creamsoda31010"
+   }
+  ]
+ ], 
+ [
+  342150, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "Matthew;342131", 
+    "quote_id": 342131, 
+    "author": "Matthew"
+   }
+  ]
+ ], 
+ [
+  342150, 
+  [
+   545, 
+   1024, 
+   {
+    "raw_data": "Matthew;342131", 
+    "quote_id": 342131, 
+    "author": "Matthew"
+   }
+  ]
+ ], 
+ [
+  342186, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "pro-con;342155", 
+    "quote_id": 342155, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  343723, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Zardoz;343722", 
+    "quote_id": 343722, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  342190, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "baconsbud;342189", 
+    "quote_id": 342189, 
+    "author": "baconsbud"
+   }
+  ]
+ ], 
+ [
+  342190, 
+  [
+   102, 
+   295, 
+   {
+    "raw_data": "baconsbud;342189", 
+    "quote_id": 342189, 
+    "author": "baconsbud"
+   }
+  ]
+ ], 
+ [
+  343600, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "CUNxTime;343557", 
+    "quote_id": 343557, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343795, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "gansao;343663", 
+    "quote_id": 343663, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  343878, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "CUNxTime;343795", 
+    "quote_id": 343795, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343869, 
+  [
+   0, 
+   948, 
+   {
+    "raw_data": "CUNxTime;343795", 
+    "quote_id": 343795, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343742, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "gansao;343723", 
+    "quote_id": 343723, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  342083, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "pro-con;342020", 
+    "quote_id": 342020, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  342087, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "pro-con;342020", 
+    "quote_id": 342020, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  342089, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Archangel;342087", 
+    "quote_id": 342087, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342090, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "smiley;342037", 
+    "quote_id": 342037, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  342091, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "T.Q;342089", 
+    "quote_id": 342089, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  343630, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "gansao;343600", 
+    "quote_id": 343600, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  342100, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Archangel;342091", 
+    "quote_id": 342091, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342100, 
+  [
+   139, 
+   171, 
+   {
+    "quote_id": 342091, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342112, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "pro-con;342095", 
+    "quote_id": 342095, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  343722, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "gansao;343663", 
+    "quote_id": 343663, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  343676, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "trebor;343674", 
+    "quote_id": 343674, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  342122, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Archangel;342091", 
+    "quote_id": 342091, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342127, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "gansao;342104", 
+    "quote_id": 342104, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  342128, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "pro-con;342095", 
+    "quote_id": 342095, 
+    "author": "pro-con"
+   }
+  ]
+ ], 
+ [
+  342129, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Matthew;342127", 
+    "quote_id": 342127, 
+    "author": "Matthew"
+   }
+  ]
+ ], 
+ [
+  342131, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "gansao;342129", 
+    "quote_id": 342129, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  342131, 
+  [
+   762, 
+   942, 
+   {
+    "quote_id": 342129, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  342135, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "T.Q;342100", 
+    "quote_id": 342100, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  342135, 
+  [
+   490, 
+   543, 
+   {
+    "quote_id": 342100, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  343674, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "gansao;343663", 
+    "quote_id": 343663, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Archangel;342135", 
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   48, 
+   164, 
+   {
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   182, 
+   438, 
+   {
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   554, 
+   603, 
+   {
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   703, 
+   790, 
+   {
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   841, 
+   1046, 
+   {
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  342141, 
+  [
+   1192, 
+   1545, 
+   {
+    "quote_id": 342135, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

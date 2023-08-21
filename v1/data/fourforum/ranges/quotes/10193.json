@@ -1,0 +1,69 @@
+[
+ [
+  276617, 
+  [
+   0, 
+   153, 
+   {}
+  ]
+ ], 
+ [
+  276843, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Zardoz;276618", 
+    "quote_id": 276618, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  276847, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "simone;276843", 
+    "quote_id": 276843, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  276949, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "simone;276612", 
+    "quote_id": 276612, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  276631, 
+  [
+   0, 
+   111, 
+   {
+    "quote_id": 276618, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  277499, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Bassman;276944", 
+    "quote_id": 276944, 
+    "author": "Bassman"
+   }
+  ]
+ ]
+]

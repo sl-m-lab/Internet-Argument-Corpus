@@ -1,0 +1,823 @@
+[
+ [
+  56069, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56059, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56069, 
+  [
+   730, 
+   814, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56059, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56069, 
+  [
+   949, 
+   1141, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56059, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56069, 
+  [
+   1225, 
+   1356, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56059, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56069, 
+  [
+   1432, 
+   1538, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56059, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56073, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56069, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56073, 
+  [
+   1570, 
+   1697, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56069, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56073, 
+  [
+   1814, 
+   1882, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56069, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56073, 
+  [
+   2043, 
+   2333, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56069, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   0, 
+   717, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   1242, 
+   1284, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   1691, 
+   1798, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   1890, 
+   1951, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   2071, 
+   2157, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   2278, 
+   2416, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56077, 
+  [
+   2505, 
+   2588, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 56073, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   0, 
+   515, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   538, 
+   936, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   1006, 
+   1090, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   1239, 
+   1351, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   1526, 
+   1639, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   1719, 
+   1799, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56098, 
+  [
+   1889, 
+   2103, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 56077, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55719, 
+  [
+   0, 
+   1743, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55604, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   130, 
+   404, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 55719, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   1770, 
+   1938, 
+   {
+    "raw_data": "jaaaman", 
+    "quote_id": 55719, 
+    "unknown_author": "jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   2062, 
+   2432, 
+   {
+    "raw_data": "jaaaman", 
+    "quote_id": 55719, 
+    "unknown_author": "jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   2721, 
+   2949, 
+   {
+    "raw_data": "jaaaman", 
+    "quote_id": 55719, 
+    "unknown_author": "jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   3121, 
+   3377, 
+   {
+    "raw_data": "jaaaman", 
+    "quote_id": 55719, 
+    "unknown_author": "jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   3583, 
+   3917, 
+   {
+    "raw_data": "Jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   4194, 
+   4587, 
+   {
+    "raw_data": "jaaaman", 
+    "quote_id": 55719, 
+    "unknown_author": "jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   4798, 
+   4894, 
+   {
+    "raw_data": "jaaaman", 
+    "quote_id": 55719, 
+    "unknown_author": "jaaaman", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55729, 
+  [
+   5193, 
+   5357, 
+   {
+    "quote_id": 55719, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  55730, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55729, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56246, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 56096, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  55740, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 55730, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55740, 
+  [
+   561, 
+   1008, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 55730, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55740, 
+  [
+   1204, 
+   1284, 
+   {
+    "raw_data": "sigma", 
+    "quote_id": 55730, 
+    "unknown_author": "sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55743, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "TheoMorphic", 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56256, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 56098, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56256, 
+  [
+   176, 
+   315, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 56098, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56256, 
+  [
+   1526, 
+   1587, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 56098, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56256, 
+  [
+   1977, 
+   2062, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 56098, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55618, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55604, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55876, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 55800, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55876, 
+  [
+   358, 
+   597, 
+   {
+    "raw_data": "Sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55876, 
+  [
+   1175, 
+   1318, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 55800, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55800, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55799, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55800, 
+  [
+   235, 
+   739, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55799, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55800, 
+  [
+   1043, 
+   1446, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55799, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55771, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 55768, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  55771, 
+  [
+   422, 
+   704, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 55768, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  55784, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 55782, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  55657, 
+  [
+   0, 
+   588, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 55651, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  55793, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 55782, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  55666, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 55664, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  55670, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 55651, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  55670, 
+  [
+   155, 
+   468, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 55651, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  55670, 
+  [
+   991, 
+   1343, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 55651, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  55799, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 55793, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  55799, 
+  [
+   459, 
+   690, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 55793, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  56059, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55876, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56059, 
+  [
+   382, 
+   702, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55876, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56059, 
+  [
+   1227, 
+   1475, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55876, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56059, 
+  [
+   1850, 
+   1968, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55876, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  56059, 
+  [
+   2206, 
+   2355, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 55876, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  55676, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 55672, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,523 @@
+[
+ [
+  346583, 
+  [
+   0, 
+   76, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  346583, 
+  [
+   0, 
+   76, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Arial Black&quot;"
+   }
+  ]
+ ], 
+ [
+  346658, 
+  [
+   0, 
+   751, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346540, 
+  [
+   0, 
+   751, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346414, 
+  [
+   731, 
+   1964, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   0, 
+   208, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   1292, 
+   1397, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   1292, 
+   1397, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   2316, 
+   2359, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   2316, 
+   2359, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   3391, 
+   3433, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346548, 
+  [
+   3391, 
+   3433, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   332, 
+   984, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   988, 
+   1982, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   1986, 
+   2313, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   2317, 
+   2760, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   2764, 
+   3168, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   3172, 
+   3735, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   3913, 
+   3967, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  346295, 
+  [
+   3833, 
+   4058, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   966, 
+   1035, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   966, 
+   1035, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   1542, 
+   1591, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   1542, 
+   1591, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   1955, 
+   1968, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   2028, 
+   2084, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   2497, 
+   2565, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   2497, 
+   2565, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   2618, 
+   2727, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   2618, 
+   2727, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346433, 
+  [
+   2999, 
+   3097, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  346563, 
+  [
+   251, 
+   305, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346563, 
+  [
+   251, 
+   305, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346438, 
+  [
+   62, 
+   109, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346438, 
+  [
+   62, 
+   109, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346438, 
+  [
+   724, 
+   760, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346438, 
+  [
+   724, 
+   760, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346833, 
+  [
+   323, 
+   356, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346578, 
+  [
+   1122, 
+   1198, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  346578, 
+  [
+   1122, 
+   1198, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  346578, 
+  [
+   1122, 
+   1198, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Arial Black&quot;"
+   }
+  ]
+ ], 
+ [
+  346585, 
+  [
+   0, 
+   76, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  346585, 
+  [
+   0, 
+   76, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  346585, 
+  [
+   0, 
+   76, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Arial Black&quot;"
+   }
+  ]
+ ], 
+ [
+  346447, 
+  [
+   0, 
+   1233, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  346464, 
+  [
+   238, 
+   253, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  346464, 
+  [
+   562, 
+   588, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346464, 
+  [
+   562, 
+   588, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  346684, 
+  [
+   217, 
+   251, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  346684, 
+  [
+   217, 
+   251, 
+   {
+    "category": "underline"
+   }
+  ]
+ ]
+]

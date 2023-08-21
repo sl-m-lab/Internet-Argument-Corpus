@@ -1,0 +1,89 @@
+[
+ [
+  232874, 
+  [
+   0, 
+   770, 
+   {
+    "raw_data": "daewoo;232872", 
+    "quote_id": 232872, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  232907, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "georged;232874", 
+    "quote_id": 232874, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  232907, 
+  [
+   653, 
+   953, 
+   {
+    "quote_id": 232874, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  232872, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "georged;232776", 
+    "quote_id": 232776, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  232659, 
+  [
+   196, 
+   680, 
+   {}
+  ]
+ ], 
+ [
+  232659, 
+  [
+   686, 
+   1461, 
+   {}
+  ]
+ ], 
+ [
+  232756, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "lord tammerlain;232738", 
+    "quote_id": 232738, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  232757, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "daewoo;232659", 
+    "quote_id": 232659, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

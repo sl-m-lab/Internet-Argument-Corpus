@@ -1,0 +1,237 @@
+[
+ [
+  381704, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Ethmi;381702", 
+    "quote_id": 381702, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381704, 
+  [
+   327, 
+   421, 
+   {
+    "quote_id": 381702, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381704, 
+  [
+   496, 
+   660, 
+   {
+    "quote_id": 381702, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381705, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Symbiote;381704", 
+    "quote_id": 381704, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  381705, 
+  [
+   42, 
+   118, 
+   {}
+  ]
+ ], 
+ [
+  381705, 
+  [
+   228, 
+   293, 
+   {
+    "quote_id": 381704, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  381705, 
+  [
+   937, 
+   1219, 
+   {}
+  ]
+ ], 
+ [
+  381705, 
+  [
+   1375, 
+   1699, 
+   {
+    "quote_id": 381699, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  381771, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "pappillion001;381759", 
+    "quote_id": 381759, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  381771, 
+  [
+   598, 
+   994, 
+   {
+    "quote_id": 381759, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  381771, 
+  [
+   1143, 
+   1276, 
+   {
+    "quote_id": 381759, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  381772, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "iangb;381757", 
+    "quote_id": 381757, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  381757, 
+  [
+   0, 
+   145, 
+   {
+    "quote_id": 381698, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381776, 
+  [
+   0, 
+   34, 
+   {
+    "quote_id": 381772, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381736, 
+  [
+   0, 
+   1337, 
+   {
+    "raw_data": "pappillion001;381725", 
+    "quote_id": 381725, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  381736, 
+  [
+   1399, 
+   1463, 
+   {
+    "quote_id": 381725, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  381734, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Penfold;381728", 
+    "quote_id": 381728, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381737, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Ethmi;381734", 
+    "quote_id": 381734, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381754, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Penfold;381737", 
+    "quote_id": 381737, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381725, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Ethmi;381698", 
+    "quote_id": 381698, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  381759, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Ethmi;381736", 
+    "quote_id": 381736, 
+    "author": "Ethmi"
+   }
+  ]
+ ]
+]

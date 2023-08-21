@@ -1,0 +1,646 @@
+[
+ [
+  178562, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 178559, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  242435, 
+  [
+   0, 
+   730, 
+   {
+    "raw_data": "jim's trucking;178133", 
+    "quote_id": 178133, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178309, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 178302, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  166918, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 166916, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  178348, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 178328, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  178348, 
+  [
+   304, 
+   982, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 178328, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  178314, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 178310, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  178063, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178011, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178063, 
+  [
+   1093, 
+   1153, 
+   {
+    "quote_id": 178024, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178320, 
+  [
+   0, 
+   482, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178309, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178067, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 178063, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  242436, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "Steeeeve;178275", 
+    "quote_id": 178275, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  178328, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178278, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178328, 
+  [
+   1006, 
+   1267, 
+   {
+    "raw_data": "Heads_On_Pikes", 
+    "quote_id": 178287, 
+    "author": "Heads_On_Pikes"
+   }
+  ]
+ ], 
+ [
+  178328, 
+  [
+   1592, 
+   1973, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178309, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178116, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 178106, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  218832, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 218785, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  189104, 
+  [
+   39, 
+   430, 
+   {
+    "raw_data": "Yahoo News", 
+    "unknown_author": "Yahoo News"
+   }
+  ]
+ ], 
+ [
+  166946, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 166918, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  178310, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178278, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178091, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 177995, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  178225, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 178091, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178225, 
+  [
+   293, 
+   422, 
+   {
+    "quote_id": 178091, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  177971, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 177966, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  178106, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 178091, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  177983, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Eve Harrington", 
+    "quote_id": 166878, 
+    "author": "Eve Harrington"
+   }
+  ]
+ ], 
+ [
+  178123, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 178120, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  177988, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 177983, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  178118, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 178116, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178119, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 178078, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  178120, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 178116, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  177995, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 177988, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178126, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 178123, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  177999, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 177971, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178001, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 177952, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  218785, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "FISHX", 
+    "quote_id": 218675, 
+    "author": "FISHX"
+   }
+  ]
+ ], 
+ [
+  178133, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 178126, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  178137, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 178133, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178273, 
+  [
+   0, 
+   1414, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178220, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178275, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Heads_On_Pikes", 
+    "quote_id": 178243, 
+    "author": "Heads_On_Pikes"
+   }
+  ]
+ ], 
+ [
+  178278, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 178273, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  178023, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178011, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178024, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 178023, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  178254, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 178225, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  178287, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 178275, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  218675, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 177966, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  178163, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178011, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  242430, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jim's trucking;177952", 
+    "quote_id": 177952, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  178167, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 178163, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  179156, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178562, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  242429, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Steeeeve;178004", 
+    "quote_id": 178004, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  178302, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178278, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178559, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 178348, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  178559, 
+  [
+   478, 
+   945, 
+   {
+    "quote_id": 178348, 
+    "author": "doG"
+   }
+  ]
+ ]
+]

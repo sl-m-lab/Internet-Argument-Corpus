@@ -1,0 +1,2405 @@
+[
+ [
+  108853, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 108805, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  107606, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 107392, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  107014, 
+  [
+   0, 
+   1684, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  136204, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 135679, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  106513, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 106463, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  109084, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Irvine", 
+    "quote_id": 108915, 
+    "author": "Irvine"
+   }
+  ]
+ ], 
+ [
+  104479, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104320, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104368, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104201, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  108645, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 107606, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  106531, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 106513, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  104484, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104479, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104028, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104491, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104419, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104494, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104479, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104496, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104493, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104713, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104540, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104713, 
+  [
+   111, 
+   412, 
+   {
+    "quote_id": 104540, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104713, 
+  [
+   438, 
+   1410, 
+   {
+    "quote_id": 104540, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104516, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106567, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 106463, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  104528, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104498, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104529, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104516, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  104531, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104498, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104532, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104529, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104534, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 104532, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  107102, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106805, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   184, 
+   260, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   416, 
+   472, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   630, 
+   678, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   790, 
+   870, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   1139, 
+   1273, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104178, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   1542, 
+   1697, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   1736, 
+   1944, 
+   {
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   2200, 
+   2272, 
+   {
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   2325, 
+   2691, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 104387, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   2850, 
+   3008, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104491, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104543, 
+  [
+   3099, 
+   3239, 
+   {
+    "quote_id": 104491, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104545, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 104543, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  107195, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106741, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  107195, 
+  [
+   800, 
+   992, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106741, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  107195, 
+  [
+   1524, 
+   1585, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106741, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  107195, 
+  [
+   1656, 
+   1950, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106741, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  104549, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104534, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104553, 
+  [
+   0, 
+   476, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104484, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  106603, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 106542, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  134766, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  138429, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 138422, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  108660, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 108645, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104565, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104491, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104565, 
+  [
+   208, 
+   350, 
+   {
+    "quote_id": 104491, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  107133, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 107014, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  107134, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 107063, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106634, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106603, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106123, 
+  [
+   0, 
+   1124, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 105365, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  106636, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 106567, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  106638, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106603, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106638, 
+  [
+   344, 
+   580, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106634, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106645, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106638, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  108695, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 108660, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  105628, 
+  [
+   0, 
+   1124, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 105365, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  105117, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 104852, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  107231, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 107230, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  108705, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 108660, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  131751, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 131570, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  106665, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106531, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106666, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106603, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106669, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106603, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106670, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106666, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  108720, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 108705, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106673, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106670, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106677, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106669, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  138422, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 136235, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  107197, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106879, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106686, 
+  [
+   0, 
+   463, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106636, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106689, 
+  [
+   0, 
+   914, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 106673, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  106690, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106677, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106692, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106677, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  106696, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106670, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  108750, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 108645, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  108750, 
+  [
+   734, 
+   777, 
+   {
+    "quote_id": 108645, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106703, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106677, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  138478, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 138429, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  107218, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 107197, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  106707, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106665, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106707, 
+  [
+   1073, 
+   1335, 
+   {
+    "quote_id": 106665, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106708, 
+  [
+   0, 
+   756, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106696, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106709, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106689, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106710, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106709, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  107223, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 107218, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106713, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106708, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106713, 
+  [
+   382, 
+   498, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106708, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106717, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 106686, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  106718, 
+  [
+   0, 
+   1384, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104671, 
+  [
+   0, 
+   729, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104553, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104163, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104127, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  108772, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 108720, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  104166, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 104163, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  108777, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 108750, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  108777, 
+  [
+   367, 
+   459, 
+   {
+    "quote_id": 108750, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  104174, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104166, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104175, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104166, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104176, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 103831, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  104178, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104166, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  107252, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 107223, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  106741, 
+  [
+   0, 
+   1255, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 106726, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  106742, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106718, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106742, 
+  [
+   1149, 
+   1310, 
+   {
+    "quote_id": 106718, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106879, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 106809, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106879, 
+  [
+   329, 
+   528, 
+   {
+    "quote_id": 106809, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106879, 
+  [
+   1482, 
+   1695, 
+   {
+    "quote_id": 106809, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106879, 
+  [
+   2632, 
+   2832, 
+   {
+    "quote_id": 106809, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  107263, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 107252, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  107263, 
+  [
+   196, 
+   365, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 107252, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  107392, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 107314, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  104706, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 104543, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  136235, 
+  [
+   0, 
+   1268, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 136204, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  108805, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 108777, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104203, 
+  [
+   0, 
+   1215, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 104176, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  104209, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104201, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  106542, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106531, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  134936, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104220, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104735, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104671, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  107230, 
+  [
+   0, 
+   1395, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  107301, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 107263, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  107301, 
+  [
+   314, 
+   497, 
+   {
+    "quote_id": 107263, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  104744, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104735, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  107314, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 107301, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106805, 
+  [
+   0, 
+   558, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106741, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106809, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106742, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106809, 
+  [
+   436, 
+   841, 
+   {
+    "quote_id": 106742, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106809, 
+  [
+   1046, 
+   1112, 
+   {
+    "quote_id": 106742, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106809, 
+  [
+   1331, 
+   2079, 
+   {
+    "quote_id": 106742, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106719, 
+  [
+   0, 
+   488, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106813, 
+  [
+   0, 
+   1123, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 106717, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  107327, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  108866, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 108853, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  108867, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 108866, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  107063, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 106864, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  104780, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104744, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104780, 
+  [
+   258, 
+   322, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104744, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104780, 
+  [
+   708, 
+   760, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104744, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104271, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 104209, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  106723, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106719, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106895, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 106813, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  106895, 
+  [
+   160, 
+   231, 
+   {
+    "quote_id": 106813, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104796, 
+  [
+   0, 
+   878, 
+   {
+    "raw_data": "Master_Shake", 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104798, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104796, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104290, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104271, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  106726, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106689, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  104297, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 104290, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104297, 
+  [
+   307, 
+   333, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104297, 
+  [
+   577, 
+   653, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104297, 
+  [
+   686, 
+   744, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104297, 
+  [
+   875, 
+   924, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104297, 
+  [
+   1110, 
+   1190, 
+   {
+    "quote_id": 104174, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  104301, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  106864, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 106638, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  108915, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 108705, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  106365, 
+  [
+   0, 
+   1880, 
+   {
+    "raw_data": "Black Phoenix", 
+    "quote_id": 106302, 
+    "author": "Black Phoenix"
+   }
+  ]
+ ], 
+ [
+  105365, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 105117, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  103809, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  107394, 
+  [
+   0, 
+   597, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 107327, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  106371, 
+  [
+   0, 
+   1880, 
+   {
+    "raw_data": "Black Phoenix", 
+    "quote_id": 106302, 
+    "author": "Black Phoenix"
+   }
+  ]
+ ], 
+ [
+  104329, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104201, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  104847, 
+  [
+   0, 
+   599, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 104028, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  104337, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 104329, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104852, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104796, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104853, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 104852, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  103831, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103800, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  107247, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 107133, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  104861, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104792, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104861, 
+  [
+   189, 
+   324, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104792, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104861, 
+  [
+   456, 
+   531, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104792, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104861, 
+  [
+   581, 
+   1058, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104792, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104352, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 104337, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  104352, 
+  [
+   391, 
+   752, 
+   {
+    "quote_id": 104337, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  104868, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104861, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104868, 
+  [
+   196, 
+   324, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104861, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104868, 
+  [
+   450, 
+   496, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104861, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  104868, 
+  [
+   692, 
+   883, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 104861, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  124331, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104166, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  124331, 
+  [
+   233, 
+   568, 
+   {}
+  ]
+ ], 
+ [
+  104880, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104868, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104880, 
+  [
+   408, 
+   524, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104868, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104880, 
+  [
+   623, 
+   809, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104868, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104880, 
+  [
+   913, 
+   1099, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104868, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  107235, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 107231, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  103866, 
+  [
+   0, 
+   1589, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 103831, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  107253, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 107247, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104387, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 104374, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  135623, 
+  [
+   0, 
+   588, 
+   {
+    "raw_data": "luminouspaint", 
+    "quote_id": 134766, 
+    "author": "luminouspaint"
+   }
+  ]
+ ], 
+ [
+  103896, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 103831, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  103896, 
+  [
+   391, 
+   738, 
+   {
+    "quote_id": 103831, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  103896, 
+  [
+   884, 
+   1307, 
+   {
+    "quote_id": 103831, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  106463, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 106365, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  104419, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104419, 
+  [
+   221, 
+   276, 
+   {
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104419, 
+  [
+   292, 
+   366, 
+   {
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104419, 
+  [
+   381, 
+   460, 
+   {
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  104419, 
+  [
+   664, 
+   738, 
+   {
+    "quote_id": 104368, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  131570, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 109084, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  135679, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 135623, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,385 @@
+[
+ [
+  377238, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Bassman;377179", 
+    "quote_id": 377179, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  377238, 
+  [
+   440, 
+   8680, 
+   {}
+  ]
+ ], 
+ [
+  377305, 
+  [
+   189, 
+   2283, 
+   {}
+  ]
+ ], 
+ [
+  377245, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "MarieAntoinette;377238", 
+    "quote_id": 377238, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377309, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Winston Smith;377308", 
+    "unknown_quote_id": 377308, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  377264, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "OldSarge;377245", 
+    "quote_id": 377245, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377267, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "MarieAntoinette;377264", 
+    "quote_id": 377264, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377332, 
+  [
+   0, 
+   1145, 
+   {
+    "raw_data": "MarieAntoinette;377294", 
+    "quote_id": 377294, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377274, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "MarieAntoinette;377264", 
+    "quote_id": 377264, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377278, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Steeeeve;377267", 
+    "quote_id": 377267, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377279, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "OldSarge;377274", 
+    "quote_id": 377274, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377281, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "MarieAntoinette;377279", 
+    "quote_id": 377279, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377282, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "MarieAntoinette;377278", 
+    "quote_id": 377278, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377284, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "OldSarge;377282", 
+    "quote_id": 377282, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377284, 
+  [
+   131, 
+   278, 
+   {
+    "quote_id": 377282, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377285, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "MarieAntoinette;377284", 
+    "quote_id": 377284, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377287, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "OldSarge;377285", 
+    "quote_id": 377285, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377289, 
+  [
+   104, 
+   2340, 
+   {}
+  ]
+ ], 
+ [
+  377290, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "MarieAntoinette;377287", 
+    "quote_id": 377287, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377291, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "MarieAntoinette;377289", 
+    "quote_id": 377289, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377294, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "OldSarge;377291", 
+    "quote_id": 377291, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  377303, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "MarieAntoinette;377278", 
+    "quote_id": 377278, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377177, 
+  [
+   155, 
+   3284, 
+   {}
+  ]
+ ], 
+ [
+  377177, 
+  [
+   3387, 
+   6653, 
+   {}
+  ]
+ ], 
+ [
+  377306, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Steeeeve;377303", 
+    "quote_id": 377303, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377306, 
+  [
+   140, 
+   195, 
+   {
+    "quote_id": 377303, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377306, 
+  [
+   260, 
+   300, 
+   {
+    "quote_id": 377303, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377306, 
+  [
+   373, 
+   416, 
+   {
+    "quote_id": 377303, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377182, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Steeeeve;377181", 
+    "quote_id": 377181, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377187, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Steeeeve;377181", 
+    "quote_id": 377181, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  377204, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "T.Q;377187", 
+    "quote_id": 377187, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  377333, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "MarieAntoinette;377306", 
+    "quote_id": 377306, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377343, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "MarieAntoinette;377306", 
+    "quote_id": 377306, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  377343, 
+  [
+   294, 
+   357, 
+   {
+    "quote_id": 377306, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ]
+]

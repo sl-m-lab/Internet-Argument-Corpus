@@ -1,0 +1,401 @@
+[
+ [
+  252418, 
+  [
+   5865, 
+   5957, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252434, 
+  [
+   0, 
+   333, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  252434, 
+  [
+   0, 
+   333, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252434, 
+  [
+   1447, 
+   3017, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252693, 
+  [
+   636, 
+   646, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252693, 
+  [
+   3102, 
+   3114, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252693, 
+  [
+   7630, 
+   7639, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252693, 
+  [
+   7666, 
+   7676, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   2722, 
+   3349, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   3457, 
+   3746, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   4465, 
+   4471, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   3973, 
+   4480, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   4608, 
+   4751, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   5243, 
+   5697, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252455, 
+  [
+   5772, 
+   5944, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252588, 
+  [
+   481, 
+   501, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  252588, 
+  [
+   922, 
+   950, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  252588, 
+  [
+   481, 
+   1186, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252588, 
+  [
+   1689, 
+   1874, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  252588, 
+  [
+   3610, 
+   3778, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  252729, 
+  [
+   3253, 
+   3311, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252729, 
+  [
+   3444, 
+   3455, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252478, 
+  [
+   813, 
+   833, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  252478, 
+  [
+   1254, 
+   1282, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  252478, 
+  [
+   813, 
+   1519, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  252478, 
+  [
+   1583, 
+   1583, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   1012, 
+   1017, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   1021, 
+   1024, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   3213, 
+   3217, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   3334, 
+   3342, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   3419, 
+   3425, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   5981, 
+   6009, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252355, 
+  [
+   6041, 
+   6087, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252617, 
+  [
+   1410, 
+   1420, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252617, 
+  [
+   3783, 
+   3792, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252617, 
+  [
+   3819, 
+   3829, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252386, 
+  [
+   415, 
+   443, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  252386, 
+  [
+   415, 
+   443, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  252386, 
+  [
+   660, 
+   664, 
+   {
+    "category": "underline"
+   }
+  ]
+ ]
+]

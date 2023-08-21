@@ -1,0 +1,540 @@
+[
+ [
+  145408, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 145170, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143363, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 143338, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143363, 
+  [
+   227, 
+   313, 
+   {
+    "quote_id": 143338, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143363, 
+  [
+   460, 
+   604, 
+   {
+    "quote_id": 143338, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143363, 
+  [
+   726, 
+   785, 
+   {
+    "quote_id": 143338, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  142724, 
+  [
+   0, 
+   659, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 135680, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  135688, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 135680, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  145546, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 145177, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  145546, 
+  [
+   1115, 
+   1450, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 145257, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  145546, 
+  [
+   1843, 
+   2448, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 145408, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  143372, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 143123, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143245, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 143108, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  145170, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 145027, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  143123, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142421, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  143123, 
+  [
+   463, 
+   544, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 142635, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  145027, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 144886, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143254, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 143245, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  145177, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 145170, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143108, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142971, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143258, 
+  [
+   0, 
+   557, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 143254, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142895, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143133, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 143123, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143133, 
+  [
+   221, 
+   375, 
+   {
+    "quote_id": 143123, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143133, 
+  [
+   399, 
+   434, 
+   {
+    "quote_id": 143123, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  143263, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 143258, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143263, 
+  [
+   161, 
+   294, 
+   {
+    "quote_id": 143258, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143263, 
+  [
+   584, 
+   655, 
+   {
+    "quote_id": 143261, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143261, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142695, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  143409, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143372, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143667, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 143133, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  143419, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 143409, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  145605, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Bell", 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  144334, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 143667, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  142421, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 135680, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  142937, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142935, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142937, 
+  [
+   229, 
+   347, 
+   {
+    "quote_id": 142935, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142937, 
+  [
+   472, 
+   719, 
+   {
+    "quote_id": 142935, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142937, 
+  [
+   832, 
+   1095, 
+   {
+    "quote_id": 142935, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142820, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142717, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142695, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 142635, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  143338, 
+  [
+   0, 
+   280, 
+   {
+    "quote_id": 143263, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  143338, 
+  [
+   660, 
+   673, 
+   {
+    "quote_id": 143263, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142708, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 142706, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  144886, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 144334, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142971, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142708, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  142717, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142695, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

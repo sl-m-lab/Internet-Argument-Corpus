@@ -1,0 +1,640 @@
+[
+ [
+  79104, 
+  [
+   0, 
+   715, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 77284, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77315, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 77285, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77317, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Nu Leader", 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77318, 
+  [
+   0, 
+   715, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 77284, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79757, 
+  [
+   0, 
+   2201, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 77413, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77334, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 77318, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  77335, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 77334, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  77337, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 77335, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  77339, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 77337, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  77341, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 77339, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  77376, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 77301, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77378, 
+  [
+   16, 
+   726, 
+   {
+    "quote_id": 77315, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  77379, 
+  [
+   21, 
+   72, 
+   {
+    "quote_id": 77376, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77380, 
+  [
+   381, 
+   485, 
+   {
+    "quote_id": 77318, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  77388, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Nu Leader", 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  80653, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Cthulhu", 
+    "quote_id": 80216, 
+    "author": "Cthulhu"
+   }
+  ]
+ ], 
+ [
+  77395, 
+  [
+   15, 
+   88, 
+   {
+    "quote_id": 77317, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77395, 
+  [
+   1106, 
+   1227, 
+   {
+    "quote_id": 77317, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77395, 
+  [
+   1595, 
+   1894, 
+   {
+    "quote_id": 77317, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77395, 
+  [
+   2223, 
+   2289, 
+   {
+    "quote_id": 77317, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77395, 
+  [
+   2742, 
+   2886, 
+   {
+    "quote_id": 77317, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  77397, 
+  [
+   19, 
+   59, 
+   {
+    "quote_id": 77388, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  80216, 
+  [
+   0, 
+   180, 
+   {}
+  ]
+ ], 
+ [
+  80216, 
+  [
+   0, 
+   349, 
+   {}
+  ]
+ ], 
+ [
+  80216, 
+  [
+   729, 
+   891, 
+   {
+    "quote_id": 79072, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79076, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 79072, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79706, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 79073, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77413, 
+  [
+   0, 
+   68, 
+   {
+    "quote_id": 77398, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  79074, 
+  [
+   1426, 
+   1661, 
+   {
+    "quote_id": 77434, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   265, 
+   334, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   806, 
+   887, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   927, 
+   968, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   1044, 
+   1242, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   1532, 
+   1569, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   1732, 
+   1771, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   1858, 
+   2057, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   2128, 
+   2309, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   2655, 
+   2749, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   2894, 
+   2998, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   3152, 
+   3188, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   3277, 
+   3378, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   3526, 
+   3634, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   3724, 
+   3835, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   3998, 
+   4041, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   4094, 
+   4422, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79075, 
+  [
+   5111, 
+   5269, 
+   {
+    "quote_id": 79069, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77290, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 77285, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77291, 
+  [
+   24, 
+   130, 
+   {
+    "quote_id": 77285, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  79089, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 77380, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  79089, 
+  [
+   611, 
+   1161, 
+   {
+    "quote_id": 77380, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77427, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "Nu Leader", 
+    "quote_id": 77284, 
+    "author": "Nu Leader"
+   }
+  ]
+ ], 
+ [
+  77301, 
+  [
+   27, 
+   99, 
+   {
+    "quote_id": 77292, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77301, 
+  [
+   517, 
+   633, 
+   {
+    "quote_id": 77292, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77301, 
+  [
+   2318, 
+   2533, 
+   {
+    "quote_id": 77292, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77301, 
+  [
+   3513, 
+   3651, 
+   {
+    "quote_id": 77292, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  77434, 
+  [
+   0, 
+   785, 
+   {
+    "raw_data": "Nu Leader", 
+    "author": "Nu Leader"
+   }
+  ]
+ ]
+]

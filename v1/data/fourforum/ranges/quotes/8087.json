@@ -1,0 +1,38 @@
+[
+ [
+  212160, 
+  [
+   0, 
+   1003, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 211942, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  212300, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Cheesejoff", 
+    "quote_id": 211994, 
+    "author": "Cheesejoff"
+   }
+  ]
+ ], 
+ [
+  212301, 
+  [
+   0, 
+   606, 
+   {
+    "raw_data": "RedMoon", 
+    "quote_id": 212160, 
+    "author": "RedMoon"
+   }
+  ]
+ ]
+]

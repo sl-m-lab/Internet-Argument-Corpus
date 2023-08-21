@@ -1,0 +1,2145 @@
+[
+ [
+  303104, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "DrNo;303096", 
+    "quote_id": 303096, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  303107, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Count Otto;303104", 
+    "quote_id": 303104, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303128, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Ghost Rider;303107", 
+    "quote_id": 303107, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303131, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Penfold;303114", 
+    "quote_id": 303114, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303132, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "sinjin;303118", 
+    "quote_id": 303118, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  303134, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Galileo;303128", 
+    "quote_id": 303128, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303134, 
+  [
+   433, 
+   596, 
+   {
+    "quote_id": 303128, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303134, 
+  [
+   944, 
+   1068, 
+   {
+    "quote_id": 303128, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303135, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "sinjin;303118", 
+    "quote_id": 303118, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  303137, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "Ghost Rider;303131", 
+    "quote_id": 303131, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303139, 
+  [
+   0, 
+   610, 
+   {
+    "raw_data": "Penfold;303137", 
+    "quote_id": 303137, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303140, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Penfold;303137", 
+    "quote_id": 303137, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303145, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Penfold;303137", 
+    "quote_id": 303137, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302647, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "Ghost Rider;302541", 
+    "quote_id": 302541, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302647, 
+  [
+   1018, 
+   1333, 
+   {
+    "quote_id": 302541, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302136, 
+  [
+   925, 
+   1046, 
+   {
+    "raw_data": "emclean;301891", 
+    "quote_id": 301891, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  302657, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Ghost Rider;302542", 
+    "quote_id": 302542, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302660, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "Count Otto;302647", 
+    "quote_id": 302647, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302660, 
+  [
+   1041, 
+   1283, 
+   {
+    "quote_id": 302647, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302660, 
+  [
+   1721, 
+   1849, 
+   {
+    "quote_id": 302647, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302150, 
+  [
+   0, 
+   920, 
+   {
+    "raw_data": "Galileo;302136", 
+    "quote_id": 302136, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  304203, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "CUNxTime;304200", 
+    "quote_id": 304200, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  304206, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Ghost Rider;304203", 
+    "quote_id": 304203, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302160, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Penfold;302152", 
+    "quote_id": 302152, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302160, 
+  [
+   701, 
+   985, 
+   {
+    "quote_id": 302152, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302166, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Penfold;302163", 
+    "quote_id": 302163, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302169, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Ghost Rider;301893", 
+    "quote_id": 301893, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302171, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Ghost Rider;302160", 
+    "quote_id": 302160, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302173, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Dane;302169", 
+    "quote_id": 302169, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302174, 
+  [
+   8, 
+   64, 
+   {
+    "raw_data": "Dane;302171", 
+    "quote_id": 302171, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302174, 
+  [
+   269, 
+   469, 
+   {
+    "quote_id": 302171, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302174, 
+  [
+   1217, 
+   1469, 
+   {
+    "quote_id": 302171, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302175, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "Ghost Rider;302174", 
+    "quote_id": 302174, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302177, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Dane;302175", 
+    "quote_id": 302175, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302178, 
+  [
+   27, 
+   450, 
+   {
+    "quote_id": 302174, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302179, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "Jo Bennett;302178", 
+    "quote_id": 302178, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  302181, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Ghost Rider;302173", 
+    "quote_id": 302173, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302182, 
+  [
+   0, 
+   612, 
+   {
+    "raw_data": "Galileo;302136", 
+    "quote_id": 302136, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  302182, 
+  [
+   1263, 
+   1569, 
+   {
+    "quote_id": 302136, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  302182, 
+  [
+   2486, 
+   2619, 
+   {
+    "quote_id": 302136, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  302866, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "redsoxlvr13;302840", 
+    "quote_id": 302840, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  304573, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Ghost Rider;303798", 
+    "quote_id": 303798, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  304574, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "Ghost Rider;304203", 
+    "quote_id": 304203, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303246, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Ghost Rider;303134", 
+    "quote_id": 303134, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303246, 
+  [
+   507, 
+   1321, 
+   {
+    "raw_data": "Ghost Rider;303134", 
+    "quote_id": 303134, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303247, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Ghost Rider;303132", 
+    "quote_id": 303132, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303248, 
+  [
+   0, 
+   742, 
+   {
+    "raw_data": "buckeyeinok;303245", 
+    "quote_id": 303245, 
+    "author": "buckeyeinok"
+   }
+  ]
+ ], 
+ [
+  303249, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Galileo;303246", 
+    "quote_id": 303246, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303249, 
+  [
+   290, 
+   393, 
+   {
+    "quote_id": 303246, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303249, 
+  [
+   769, 
+   995, 
+   {
+    "quote_id": 303246, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303250, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "Galileo;303248", 
+    "quote_id": 303248, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303251, 
+  [
+   0, 
+   807, 
+   {
+    "raw_data": "Ghost Rider;303140", 
+    "quote_id": 303140, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303253, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Galileo;303251", 
+    "quote_id": 303251, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   8, 
+   63, 
+   {
+    "raw_data": "Galileo;303966", 
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   363, 
+   413, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   649, 
+   715, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   1110, 
+   1144, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   1244, 
+   1362, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   1489, 
+   1564, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303985, 
+  [
+   1765, 
+   1917, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303789, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "CUNxTime;303596", 
+    "quote_id": 303596, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  303791, 
+  [
+   0, 
+   481, 
+   {
+    "raw_data": "Count Otto;303789", 
+    "quote_id": 303789, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302256, 
+  [
+   0, 
+   546, 
+   {
+    "raw_data": "Ghost Rider;302166", 
+    "quote_id": 302166, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303798, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Count Otto;303789", 
+    "quote_id": 303789, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "redsoxlvr13;302775", 
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   100, 
+   332, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   496, 
+   543, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   673, 
+   813, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   1008, 
+   1082, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   1247, 
+   1342, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   1505, 
+   1563, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   1708, 
+   1789, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   2273, 
+   2334, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   2357, 
+   2519, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302781, 
+  [
+   2839, 
+   2937, 
+   {
+    "quote_id": 302775, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302787, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "redsoxlvr13;302785", 
+    "quote_id": 302785, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302787, 
+  [
+   188, 
+   315, 
+   {
+    "quote_id": 302785, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302787, 
+  [
+   537, 
+   613, 
+   {
+    "quote_id": 302785, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302787, 
+  [
+   646, 
+   736, 
+   {
+    "quote_id": 302785, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302787, 
+  [
+   906, 
+   1053, 
+   {
+    "quote_id": 302785, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  303564, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Count Otto;303559", 
+    "quote_id": 303559, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302282, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "Ghost Rider;302177", 
+    "quote_id": 302177, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302283, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Dane;302169", 
+    "quote_id": 302169, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302797, 
+  [
+   8, 
+   390, 
+   {
+    "raw_data": "redsoxlvr13;302788", 
+    "quote_id": 302788, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302797, 
+  [
+   528, 
+   841, 
+   {
+    "quote_id": 302788, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302797, 
+  [
+   1642, 
+   1803, 
+   {
+    "quote_id": 302788, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  303565, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Count Otto;303559", 
+    "quote_id": 303559, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303565, 
+  [
+   240, 
+   353, 
+   {
+    "quote_id": 303559, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302802, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "redsoxlvr13;302798", 
+    "quote_id": 302798, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302809, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "redsoxlvr13;302804", 
+    "quote_id": 302804, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  303837, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "Penfold;303824", 
+    "quote_id": 303824, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302814, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "redsoxlvr13;302811", 
+    "quote_id": 302811, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302817, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "redsoxlvr13;302816", 
+    "quote_id": 302816, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302306, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "Ghost Rider;302179", 
+    "quote_id": 302179, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302822, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "redsoxlvr13;302819", 
+    "quote_id": 302819, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302824, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "redsoxlvr13;302823", 
+    "quote_id": 302823, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302826, 
+  [
+   8, 
+   25, 
+   {
+    "raw_data": "redsoxlvr13;302825", 
+    "quote_id": 302825, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302826, 
+  [
+   158, 
+   242, 
+   {
+    "quote_id": 302825, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302826, 
+  [
+   745, 
+   820, 
+   {
+    "quote_id": 302825, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302826, 
+  [
+   1041, 
+   1200, 
+   {
+    "quote_id": 302825, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302826, 
+  [
+   1376, 
+   1446, 
+   {
+    "quote_id": 302825, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302826, 
+  [
+   1474, 
+   1611, 
+   {
+    "quote_id": 302825, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302841, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "redsoxlvr13;302840", 
+    "quote_id": 302840, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302846, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Ghost Rider;302797", 
+    "quote_id": 302797, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302847, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Ghost Rider;302824", 
+    "quote_id": 302824, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302849, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Dane;302847", 
+    "quote_id": 302847, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302854, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Ghost Rider;302849", 
+    "quote_id": 302849, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  301838, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Penfold;301833", 
+    "quote_id": 301833, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  301840, 
+  [
+   0, 
+   35, 
+   {}
+  ]
+ ], 
+ [
+  302865, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Ghost Rider;302824", 
+    "quote_id": 302824, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  301842, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "emclean;301840", 
+    "quote_id": 301840, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  301844, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Jo Bennett;301842", 
+    "quote_id": 301842, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  302360, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Ripskar;302356", 
+    "quote_id": 302356, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  302363, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "Ghost Rider;302179", 
+    "quote_id": 302179, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302881, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Galileo;302866", 
+    "quote_id": 302866, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  302881, 
+  [
+   541, 
+   823, 
+   {
+    "quote_id": 302866, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  302371, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Count Otto;302363", 
+    "quote_id": 302363, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302889, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "redsoxlvr13;302886", 
+    "quote_id": 302886, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  302890, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "redsoxlvr13;302886", 
+    "quote_id": 302886, 
+    "author": "redsoxlvr13"
+   }
+  ]
+ ], 
+ [
+  301891, 
+  [
+   307, 
+   361, 
+   {
+    "quote_id": 301842, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  301894, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Penfold;301833", 
+    "quote_id": 301833, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303440, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Galileo;303248", 
+    "quote_id": 303248, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303440, 
+  [
+   839, 
+   1204, 
+   {
+    "quote_id": 303248, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303956, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Penfold;303954", 
+    "quote_id": 303954, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302425, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Ghost Rider;302371", 
+    "quote_id": 302371, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302425, 
+  [
+   99, 
+   133, 
+   {
+    "quote_id": 302371, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303966, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "Ghost Rider;303598", 
+    "quote_id": 303598, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303966, 
+  [
+   1098, 
+   2188, 
+   {
+    "raw_data": "Ghost Rider;303503", 
+    "quote_id": 303503, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303847, 
+  [
+   8, 
+   64, 
+   {
+    "raw_data": "Penfold;303824", 
+    "quote_id": 303824, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303847, 
+  [
+   84, 
+   136, 
+   {
+    "quote_id": 303824, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303847, 
+  [
+   420, 
+   648, 
+   {
+    "quote_id": 303824, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  303471, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "DrNo;303440", 
+    "quote_id": 303440, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  303473, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Count Otto;303471", 
+    "quote_id": 303471, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303987, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Galileo;303966", 
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303987, 
+  [
+   553, 
+   731, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303987, 
+  [
+   785, 
+   956, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303987, 
+  [
+   1098, 
+   1250, 
+   {
+    "quote_id": 303966, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  301942, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Symbiote;301837", 
+    "quote_id": 301837, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  303484, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "Ghost Rider;303473", 
+    "quote_id": 303473, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  301949, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "ShadowPikachu;301942", 
+    "quote_id": 301942, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  301949, 
+  [
+   627, 
+   821, 
+   {
+    "quote_id": 301942, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  301949, 
+  [
+   1071, 
+   1185, 
+   {
+    "quote_id": 301942, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  303496, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Ghost Rider;303487", 
+    "quote_id": 303487, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302662, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Ripskar;302657", 
+    "quote_id": 302657, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  302664, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Ghost Rider;302660", 
+    "quote_id": 302660, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302664, 
+  [
+   284, 
+   800, 
+   {
+    "quote_id": 302660, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302664, 
+  [
+   1387, 
+   1815, 
+   {
+    "quote_id": 302660, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302664, 
+  [
+   1965, 
+   2166, 
+   {
+    "quote_id": 302660, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303546, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Count Otto;303516", 
+    "quote_id": 303516, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303036, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Symbiote;301837", 
+    "quote_id": 301837, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  303037, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Ghost Rider;302890", 
+    "quote_id": 302890, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303038, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Brady;303036", 
+    "quote_id": 303036, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  304575, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Count Otto;304573", 
+    "quote_id": 304573, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303040, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Brady;303036", 
+    "quote_id": 303036, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  303041, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Brady;303037", 
+    "quote_id": 303037, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  302531, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Bryan;302530", 
+    "quote_id": 302530, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  303559, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Ghost Rider;303519", 
+    "quote_id": 303519, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302536, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Count Otto;302534", 
+    "quote_id": 302534, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302536, 
+  [
+   117, 
+   198, 
+   {
+    "quote_id": 302534, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302538, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Ghost Rider;302536", 
+    "quote_id": 302536, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302538, 
+  [
+   127, 
+   250, 
+   {
+    "quote_id": 302536, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  302541, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Count Otto;302538", 
+    "quote_id": 302538, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302541, 
+  [
+   551, 
+   758, 
+   {
+    "quote_id": 302538, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302542, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Penfold;302540", 
+    "quote_id": 302540, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  304082, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "DrNo;303987", 
+    "quote_id": 303987, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  304082, 
+  [
+   553, 
+   809, 
+   {
+    "raw_data": "DrNo;303987", 
+    "quote_id": 303987, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  303574, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Count Otto;303559", 
+    "quote_id": 303559, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  302551, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Bryan;302530", 
+    "quote_id": 302530, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  302551, 
+  [
+   203, 
+   370, 
+   {
+    "quote_id": 302530, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  302552, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Dane;302551", 
+    "quote_id": 302551, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  304091, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "Galileo;304082", 
+    "quote_id": 304082, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303073, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Ghost Rider;303041", 
+    "quote_id": 303041, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  303073, 
+  [
+   315, 
+   465, 
+   {
+    "raw_data": "Ghost Rider;303041", 
+    "quote_id": 303041, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  304098, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Galileo;304082", 
+    "quote_id": 304082, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303591, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "CUNxTime;303564", 
+    "quote_id": 303564, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  303594, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Bryan;303574", 
+    "quote_id": 303574, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  303594, 
+  [
+   328, 
+   555, 
+   {
+    "quote_id": 303574, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  303596, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Count Otto;303591", 
+    "quote_id": 303591, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303598, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "CUNxTime;303596", 
+    "quote_id": 303596, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  303599, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Count Otto;303559", 
+    "quote_id": 303559, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303599, 
+  [
+   328, 
+   429, 
+   {
+    "quote_id": 303516, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303600, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Count Otto;303591", 
+    "quote_id": 303591, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  303602, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Galileo;303248", 
+    "quote_id": 303248, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  303093, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Galileo;303073", 
+    "quote_id": 303073, 
+    "author": "Galileo"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,72 @@
+[
+ [
+  47398, 
+  [
+   0, 
+   81, 
+   {
+    "quote_id": 44531, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  47398, 
+  [
+   147, 
+   204, 
+   {
+    "quote_id": 44348, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  44363, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 44348, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  70252, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 44531, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  44566, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 44531, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  69183, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 44531, 
+    "author": "plotter"
+   }
+  ]
+ ]
+]

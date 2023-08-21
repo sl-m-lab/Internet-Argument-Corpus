@@ -1,0 +1,536 @@
+[
+ [
+  295040, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Archangel;295036", 
+    "quote_id": 295036, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295041, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Penfold;295040", 
+    "quote_id": 295040, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  295046, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Penfold;295040", 
+    "quote_id": 295040, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  295046, 
+  [
+   61, 
+   99, 
+   {
+    "raw_data": "Archangel;295041", 
+    "quote_id": 295041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295059, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "Archangel;295036", 
+    "quote_id": 295036, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295059, 
+  [
+   111, 
+   207, 
+   {
+    "quote_id": 295036, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295059, 
+  [
+   329, 
+   366, 
+   {
+    "quote_id": 295036, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295059, 
+  [
+   1117, 
+   1295, 
+   {
+    "quote_id": 295036, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295059, 
+  [
+   2506, 
+   2544, 
+   {
+    "raw_data": "Archangel;295041", 
+    "quote_id": 295041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295129, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Jo Bennett;295100", 
+    "quote_id": 295100, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  295073, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "thecap0;295069", 
+    "quote_id": 295069, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  295079, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "thecap0;295069", 
+    "quote_id": 295069, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  295081, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Archangel;295073", 
+    "quote_id": 295073, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295082, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Mucusaur;295079", 
+    "quote_id": 295079, 
+    "author": "Mucusaur"
+   }
+  ]
+ ], 
+ [
+  295083, 
+  [
+   0, 
+   65, 
+   {
+    "quote_id": 295079, 
+    "author": "Mucusaur"
+   }
+  ]
+ ], 
+ [
+  295083, 
+  [
+   71, 
+   97, 
+   {
+    "raw_data": "Archangel;295082", 
+    "quote_id": 295082, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295083, 
+  [
+   182, 
+   351, 
+   {
+    "raw_data": "Archangel;295082", 
+    "quote_id": 295082, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295083, 
+  [
+   447, 
+   640, 
+   {
+    "raw_data": "Archangel;295082", 
+    "quote_id": 295082, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295085, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Kronus;295083", 
+    "quote_id": 295083, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  295085, 
+  [
+   326, 
+   392, 
+   {
+    "raw_data": "capO", 
+    "quote_id": 295069, 
+    "unknown_author": "capO", 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  295085, 
+  [
+   432, 
+   497, 
+   {
+    "raw_data": "mucasar", 
+    "quote_id": 295079, 
+    "unknown_author": "mucasar", 
+    "author": "Mucusaur"
+   }
+  ]
+ ], 
+ [
+  295086, 
+  [
+   0, 
+   2607, 
+   {
+    "raw_data": "Archangel;295082", 
+    "quote_id": 295082, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295087, 
+  [
+   99, 
+   317, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 295083, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  295089, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Archangel;295085", 
+    "quote_id": 295085, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295089, 
+  [
+   659, 
+   1413, 
+   {
+    "raw_data": "Archangel;295085", 
+    "quote_id": 295085, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295091, 
+  [
+   0, 
+   685, 
+   {
+    "raw_data": "smiley;295089", 
+    "quote_id": 295089, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  284598, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "JPSartre12;284572", 
+    "quote_id": 284572, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  295099, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "Archangel;295096", 
+    "quote_id": 295096, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295099, 
+  [
+   750, 
+   848, 
+   {
+    "raw_data": "Archangel;295096", 
+    "quote_id": 295096, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295107, 
+  [
+   0, 
+   587, 
+   {
+    "raw_data": "Archangel;295096", 
+    "quote_id": 295096, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295094, 
+  [
+   0, 
+   2053, 
+   {
+    "raw_data": "Archangel;295091", 
+    "quote_id": 295091, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295112, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "Kronus;295107", 
+    "quote_id": 295107, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  295121, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Ripskar;295117", 
+    "quote_id": 295117, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  295122, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "Archangel;295112", 
+    "quote_id": 295112, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295122, 
+  [
+   681, 
+   739, 
+   {
+    "raw_data": "Archangel;295112", 
+    "quote_id": 295112, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295124, 
+  [
+   0, 
+   976, 
+   {
+    "raw_data": "Archangel;295121", 
+    "quote_id": 295121, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295125, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Kronus;295122", 
+    "quote_id": 295122, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  295126, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Ripskar;295124", 
+    "quote_id": 295124, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  295076, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Archangel;295073", 
+    "quote_id": 295073, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295131, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "Archangel;295126", 
+    "quote_id": 295126, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295131, 
+  [
+   1568, 
+   1831, 
+   {}
+  ]
+ ], 
+ [
+  295133, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "Archangel;295125", 
+    "quote_id": 295125, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  296800, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "The_Wizard;296384", 
+    "quote_id": 296384, 
+    "author": "The_Wizard"
+   }
+  ]
+ ], 
+ [
+  295142, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Archangel;295112", 
+    "quote_id": 295112, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295036, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "pandion;284598", 
+    "quote_id": 284598, 
+    "author": "pandion"
+   }
+  ]
+ ]
+]

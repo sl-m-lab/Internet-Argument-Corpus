@@ -1,0 +1,86 @@
+[
+ [
+  93218, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 93115, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  93251, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 93218, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  93238, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 93218, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  93240, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 93238, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  93049, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 93028, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  93115, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 93105, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  93052, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jkca1", 
+    "quote_id": 93049, 
+    "author": "jkca1"
+   }
+  ]
+ ]
+]

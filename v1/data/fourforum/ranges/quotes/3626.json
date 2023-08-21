@@ -1,0 +1,140 @@
+[
+ [
+  75243, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75228, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75496, 
+  [
+   0, 
+   476, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75496, 
+  [
+   980, 
+   1076, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75496, 
+  [
+   1309, 
+   1747, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75496, 
+  [
+   1892, 
+   2138, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75371, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 75243, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  75374, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75371, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75411, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75383, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75411, 
+  [
+   694, 
+   893, 
+   {
+    "quote_id": 75383, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75383, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 75376, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75610, 
+  [
+   0, 
+   1256, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  75485, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75228, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ]
+]

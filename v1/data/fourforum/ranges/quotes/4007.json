@@ -1,0 +1,580 @@
+[
+ [
+  83970, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 83963, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  86651, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 85340, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84502, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "Leo", 
+    "quote_id": 84500, 
+    "author": "Leo"
+   }
+  ]
+ ], 
+ [
+  84502, 
+  [
+   1011, 
+   1215, 
+   {
+    "quote_id": 84500, 
+    "author": "Leo"
+   }
+  ]
+ ], 
+ [
+  84502, 
+  [
+   1556, 
+   1697, 
+   {
+    "quote_id": 84500, 
+    "author": "Leo"
+   }
+  ]
+ ], 
+ [
+  85254, 
+  [
+   0, 
+   781, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84288, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85258, 
+  [
+   0, 
+   622, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 85254, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84364, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84289, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  136848, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 86651, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  136848, 
+  [
+   71, 
+   386, 
+   {
+    "quote_id": 86651, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84369, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 84364, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84499, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 84458, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  84500, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84477, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84654, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Leo", 
+    "quote_id": 84499, 
+    "author": "Leo"
+   }
+  ]
+ ], 
+ [
+  84374, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 84369, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  83995, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 83963, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  85284, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 84235, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84134, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 84130, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  85340, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 85258, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  83883, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 83874, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  84142, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 84134, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84144, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 84134, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84273, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84209, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84021, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 83995, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84021, 
+  [
+   578, 
+   801, 
+   {
+    "raw_data": "jeff", 
+    "quote_id": 83995, 
+    "unknown_author": "jeff", 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84021, 
+  [
+   911, 
+   1151, 
+   {
+    "raw_data": "jeff", 
+    "quote_id": 83995, 
+    "unknown_author": "jeff", 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  136086, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 136018, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  84288, 
+  [
+   0, 
+   573, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 84197, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84289, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84209, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84035, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 83995, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84036, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83970, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84168, 
+  [
+   0, 
+   130, 
+   {
+    "quote_id": 84144, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84168, 
+  [
+   598, 
+   852, 
+   {
+    "quote_id": 84144, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84168, 
+  [
+   1187, 
+   1271, 
+   {
+    "quote_id": 84130, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84492, 
+  [
+   0, 
+   545, 
+   {
+    "raw_data": "Leo", 
+    "quote_id": 84442, 
+    "author": "Leo"
+   }
+  ]
+ ], 
+ [
+  84130, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 84086, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  84179, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 84035, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  84061, 
+  [
+   95, 
+   1175, 
+   {}
+  ]
+ ], 
+ [
+  84062, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84060, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84197, 
+  [
+   0, 
+   962, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 84142, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  84064, 
+  [
+   0, 
+   297, 
+   {
+    "quote_id": 84060, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84067, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84060, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  83941, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 83865, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  83950, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83941, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83957, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 83950, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84086, 
+  [
+   0, 
+   102, 
+   {
+    "quote_id": 84067, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  84215, 
+  [
+   0, 
+   6926, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 84179, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  83963, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 83950, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  84477, 
+  [
+   0, 
+   545, 
+   {
+    "raw_data": "Leo", 
+    "quote_id": 84442, 
+    "author": "Leo"
+   }
+  ]
+ ]
+]

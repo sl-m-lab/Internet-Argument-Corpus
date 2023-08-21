@@ -1,0 +1,52 @@
+[
+ [
+  276393, 
+  [
+   0, 
+   604, 
+   {}
+  ]
+ ], 
+ [
+  276394, 
+  [
+   859, 
+   1431, 
+   {
+    "raw_data": "from article", 
+    "unknown_author": "from article"
+   }
+  ]
+ ], 
+ [
+  276394, 
+  [
+   2870, 
+   3167, 
+   {
+    "raw_data": "article", 
+    "unknown_author": "article"
+   }
+  ]
+ ], 
+ [
+  276370, 
+  [
+   25, 
+   1176, 
+   {}
+  ]
+ ], 
+ [
+  276375, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "simone;276370", 
+    "quote_id": 276370, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

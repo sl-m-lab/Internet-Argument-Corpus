@@ -1,0 +1,784 @@
+[
+ [
+  284802, 
+  [
+   27, 
+   194, 
+   {}
+  ]
+ ], 
+ [
+  284803, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "supersport;284768", 
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   343, 
+   458, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   588, 
+   652, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   741, 
+   785, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   1199, 
+   1235, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   1302, 
+   1406, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   1524, 
+   1754, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   1854, 
+   1950, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   2203, 
+   2297, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284803, 
+  [
+   2351, 
+   2537, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284812, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "supersport;284788", 
+    "quote_id": 284788, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284945, 
+  [
+   0, 
+   742, 
+   {
+    "raw_data": "chemist99a;284880", 
+    "quote_id": 284880, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284947, 
+  [
+   0, 
+   77, 
+   {
+    "quote_id": 284945, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284947, 
+  [
+   121, 
+   276, 
+   {
+    "quote_id": 284945, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284947, 
+  [
+   544, 
+   677, 
+   {
+    "quote_id": 284945, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284947, 
+  [
+   809, 
+   900, 
+   {
+    "quote_id": 284945, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284896, 
+  [
+   562, 
+   2436, 
+   {}
+  ]
+ ], 
+ [
+  285260, 
+  [
+   0, 
+   278, 
+   {
+    "quote_id": 285133, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  285133, 
+  [
+   0, 
+   514, 
+   {
+    "raw_data": "chemist99a;284947", 
+    "quote_id": 284947, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284878, 
+  [
+   0, 
+   775, 
+   {
+    "raw_data": "chemist99a;284769", 
+    "quote_id": 284769, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284880, 
+  [
+   0, 
+   76, 
+   {
+    "quote_id": 284878, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284880, 
+  [
+   261, 
+   353, 
+   {
+    "quote_id": 284878, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284880, 
+  [
+   452, 
+   579, 
+   {
+    "quote_id": 284878, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284880, 
+  [
+   750, 
+   891, 
+   {
+    "quote_id": 284878, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  284889, 
+  [
+   0, 
+   812, 
+   {
+    "raw_data": "supersport;284887", 
+    "quote_id": 284887, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284891, 
+  [
+   0, 
+   517, 
+   {}
+  ]
+ ], 
+ [
+  284892, 
+  [
+   184, 
+   1170, 
+   {}
+  ]
+ ], 
+ [
+  284893, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "chemist99a;284892", 
+    "quote_id": 284892, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284894, 
+  [
+   0, 
+   223, 
+   {}
+  ]
+ ], 
+ [
+  284895, 
+  [
+   0, 
+   49, 
+   {
+    "quote_id": 284890, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284769, 
+  [
+   0, 
+   182, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284769, 
+  [
+   337, 
+   452, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284769, 
+  [
+   545, 
+   609, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284769, 
+  [
+   641, 
+   700, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284769, 
+  [
+   873, 
+   919, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284769, 
+  [
+   1090, 
+   1126, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284770, 
+  [
+   0, 
+   279, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284770, 
+  [
+   587, 
+   788, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284770, 
+  [
+   1508, 
+   4725, 
+   {}
+  ]
+ ], 
+ [
+  284772, 
+  [
+   355, 
+   768, 
+   {
+    "raw_data": "supersport", 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   1079, 
+   1263, 
+   {
+    "raw_data": "supersport", 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   1448, 
+   1631, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   1817, 
+   1964, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   2424, 
+   2685, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   2992, 
+   3069, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   3100, 
+   3503, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   3700, 
+   3804, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   4139, 
+   4259, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   4403, 
+   4774, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   4906, 
+   5002, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   5188, 
+   5284, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   5326, 
+   5374, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   5404, 
+   6138, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   6643, 
+   7380, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   7497, 
+   8090, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284772, 
+  [
+   8105, 
+   8277, 
+   {}
+  ]
+ ], 
+ [
+  284773, 
+  [
+   0, 
+   105, 
+   {
+    "quote_id": 284771, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284775, 
+  [
+   424, 
+   482, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284775, 
+  [
+   501, 
+   859, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284775, 
+  [
+   1172, 
+   1378, 
+   {
+    "quote_id": 284768, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284776, 
+  [
+   0, 
+   146, 
+   {}
+  ]
+ ], 
+ [
+  284777, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "chemist99a;284773", 
+    "quote_id": 284773, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284777, 
+  [
+   247, 
+   552, 
+   {
+    "raw_data": "chemist99a;284773", 
+    "quote_id": 284773, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284779, 
+  [
+   78, 
+   210, 
+   {}
+  ]
+ ], 
+ [
+  284780, 
+  [
+   0, 
+   213, 
+   {
+    "quote_id": 284777, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284781, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "chemist99a;284779", 
+    "quote_id": 284779, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284783, 
+  [
+   0, 
+   627, 
+   {
+    "quote_id": 284781, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284785, 
+  [
+   0, 
+   194, 
+   {
+    "quote_id": 284782, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284785, 
+  [
+   1321, 
+   2922, 
+   {}
+  ]
+ ], 
+ [
+  284788, 
+  [
+   0, 
+   1033, 
+   {
+    "raw_data": "chemist99a;284785", 
+    "quote_id": 284785, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284789, 
+  [
+   0, 
+   178, 
+   {
+    "quote_id": 284777, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  284791, 
+  [
+   0, 
+   820, 
+   {
+    "quote_id": 284788, 
+    "author": "supersport"
+   }
+  ]
+ ]
+]

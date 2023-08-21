@@ -1,0 +1,868 @@
+[
+ [
+  172929, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 172764, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  172930, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172917, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  173707, 
+  [
+   0, 
+   552, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173665, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173707, 
+  [
+   1395, 
+   1817, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173665, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173707, 
+  [
+   2482, 
+   2691, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173665, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   135, 
+   337, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   674, 
+   764, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   844, 
+   937, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   967, 
+   1118, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   1176, 
+   1249, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174017, 
+  [
+   1524, 
+   1584, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173707, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173064, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 172992, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173064, 
+  [
+   1223, 
+   1271, 
+   {
+    "quote_id": 173016, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  172681, 
+  [
+   32, 
+   105, 
+   {
+    "raw_data": "Bassman", 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172683, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172682, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172685, 
+  [
+   0, 
+   462, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172684, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172688, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172686, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172691, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172689, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172692, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 172691, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  172692, 
+  [
+   489, 
+   796, 
+   {
+    "quote_id": 172691, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 173039, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   275, 
+   289, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173064, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   467, 
+   624, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173064, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   749, 
+   940, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173064, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   1147, 
+   1302, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173064, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   1549, 
+   1603, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173064, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   1607, 
+   1685, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  173082, 
+  [
+   1825, 
+   1845, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173064, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173088, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173082, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174147, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174132, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174147, 
+  [
+   259, 
+   565, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174132, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174147, 
+  [
+   866, 
+   999, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174132, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174147, 
+  [
+   1726, 
+   1805, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174132, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174147, 
+  [
+   2040, 
+   2246, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174132, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   225, 
+   556, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   887, 
+   963, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   1460, 
+   1485, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   1694, 
+   1748, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   2056, 
+   2326, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174096, 
+  [
+   2606, 
+   2685, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 174017, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173108, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173082, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173108, 
+  [
+   412, 
+   734, 
+   {
+    "raw_data": "cell_death", 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173108, 
+  [
+   1384, 
+   1625, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173082, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173108, 
+  [
+   1734, 
+   1868, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173082, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173108, 
+  [
+   2046, 
+   2191, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173082, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  174132, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 174096, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174132, 
+  [
+   224, 
+   384, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 174096, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174132, 
+  [
+   694, 
+   992, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 174096, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174132, 
+  [
+   1129, 
+   1274, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 174096, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  174132, 
+  [
+   1357, 
+   1454, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 174096, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  172731, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172692, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172731, 
+  [
+   475, 
+   665, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172692, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172731, 
+  [
+   890, 
+   982, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172692, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172992, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 172930, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  172992, 
+  [
+   812, 
+   1087, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 172874, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  172737, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 172685, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  172739, 
+  [
+   0, 
+   491, 
+   {
+    "raw_data": "Bassman", 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172741, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 172731, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  172874, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 172737, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  172752, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 172741, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173011, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 172992, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173012, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 172992, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  173016, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 173012, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  172763, 
+  [
+   101, 
+   755, 
+   {}
+  ]
+ ], 
+ [
+  173665, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173108, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173665, 
+  [
+   684, 
+   922, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173108, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  173665, 
+  [
+   1349, 
+   1448, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 173108, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  172904, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 172739, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  173039, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 173016, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  172913, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172904, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172927, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172904, 
+    "author": "Bassman"
+   }
+  ]
+ ]
+]

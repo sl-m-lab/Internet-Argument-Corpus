@@ -1,0 +1,2186 @@
+[
+ [
+  32772, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32767, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   0, 
+   447, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   616, 
+   798, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   1023, 
+   1269, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   1485, 
+   2080, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   2235, 
+   2275, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   2389, 
+   2689, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45581, 
+  [
+   3269, 
+   3608, 
+   {
+    "quote_id": 45567, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "David2004", 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   929, 
+   1001, 
+   {
+    "raw_data": "David2004", 
+    "quote_id": 32464, 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   1639, 
+   1746, 
+   {
+    "raw_data": "David2004", 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   2317, 
+   2567, 
+   {
+    "raw_data": "David2004", 
+    "quote_id": 32464, 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   2977, 
+   3121, 
+   {
+    "raw_data": "David2004", 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   3537, 
+   3678, 
+   {
+    "raw_data": "David2004", 
+    "quote_id": 32464, 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  32791, 
+  [
+   3977, 
+   4152, 
+   {
+    "raw_data": "David2004", 
+    "quote_id": 32464, 
+    "author": "David2004"
+   }
+  ]
+ ], 
+ [
+  33309, 
+  [
+   0, 
+   545, 
+   {
+    "raw_data": "Gator", 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  32802, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32484, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32802, 
+  [
+   418, 
+   542, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32484, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32802, 
+  [
+   1928, 
+   2198, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32484, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32803, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32524, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33318, 
+  [
+   0, 
+   973, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 33187, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  32807, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32581, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32807, 
+  [
+   1623, 
+   1724, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32581, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32815, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32602, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32817, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32602, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32818, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 32815, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  32819, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32602, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32822, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32772, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32827, 
+  [
+   0, 
+   2812, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 32822, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  32828, 
+  [
+   0, 
+   605, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 32819, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  98365, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 98356, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  32834, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32830, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  94277, 
+  [
+   0, 
+   904, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  96269, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 96253, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  32860, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32841, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33386, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33337, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33392, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 33390, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  33400, 
+  [
+   13, 
+   60, 
+   {
+    "quote_id": 33392, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33400, 
+  [
+   185, 
+   298, 
+   {
+    "quote_id": 33392, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33400, 
+  [
+   517, 
+   657, 
+   {
+    "quote_id": 33392, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45690, 
+  [
+   12, 
+   113, 
+   {
+    "quote_id": 45600, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45690, 
+  [
+   179, 
+   367, 
+   {
+    "quote_id": 45600, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45690, 
+  [
+   592, 
+   1079, 
+   {
+    "quote_id": 45678, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45690, 
+  [
+   1228, 
+   1415, 
+   {
+    "quote_id": 45678, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33411, 
+  [
+   0, 
+   761, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  33415, 
+  [
+   13, 
+   162, 
+   {
+    "quote_id": 33411, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33415, 
+  [
+   250, 
+   594, 
+   {
+    "quote_id": 33411, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33415, 
+  [
+   825, 
+   929, 
+   {
+    "quote_id": 33411, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45591, 
+  [
+   0, 
+   1585, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  32917, 
+  [
+   0, 
+   522, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32900, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  46758, 
+  [
+   0, 
+   184, 
+   {
+    "quote_id": 45700, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  46758, 
+  [
+   450, 
+   769, 
+   {
+    "quote_id": 45700, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  46758, 
+  [
+   875, 
+   1127, 
+   {
+    "quote_id": 45700, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  46758, 
+  [
+   1165, 
+   2055, 
+   {}
+  ]
+ ], 
+ [
+  46758, 
+  [
+   2240, 
+   2613, 
+   {
+    "quote_id": 45700, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45226, 
+  [
+   13, 
+   1287, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33473, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33452, 
+  [
+   0, 
+   533, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  33456, 
+  [
+   0, 
+   483, 
+   {
+    "quote_id": 33452, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33456, 
+  [
+   910, 
+   1119, 
+   {
+    "quote_id": 33452, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32949, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32929, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33473, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  33476, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "plotter", 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33480, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33477, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33314, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 33187, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  32981, 
+  [
+   1614, 
+   1801, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32949, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33499, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 33476, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  33518, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33499, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33518, 
+  [
+   717, 
+   805, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33499, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33010, 
+  [
+   0, 
+   1983, 
+   {
+    "raw_data": "Gator", 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  33011, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32984, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33535, 
+  [
+   128, 
+   2093, 
+   {}
+  ]
+ ], 
+ [
+  32514, 
+  [
+   0, 
+   904, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32503, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33523, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   660, 
+   727, 
+   {
+    "raw_data": "plotter", 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   2247, 
+   2322, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33523, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   3181, 
+   3236, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33523, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   3624, 
+   3703, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33499, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   4084, 
+   4113, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33499, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33545, 
+  [
+   4569, 
+   4633, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33523, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32524, 
+  [
+   0, 
+   548, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32519, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33551, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 33535, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   352, 
+   567, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   1424, 
+   1630, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   1894, 
+   2039, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   2965, 
+   3068, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   3755, 
+   4324, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   4709, 
+   4788, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45700, 
+  [
+   5862, 
+   5919, 
+   {
+    "quote_id": 45581, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  32533, 
+  [
+   122, 
+   232, 
+   {
+    "quote_id": 32484, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32533, 
+  [
+   360, 
+   495, 
+   {
+    "quote_id": 32514, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32533, 
+  [
+   900, 
+   1125, 
+   {
+    "quote_id": 32524, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33559, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 33545, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  33561, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 33545, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  97063, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 96269, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33064, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33056, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  96060, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 95834, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  32581, 
+  [
+   0, 
+   626, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  32596, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32590, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  32602, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32599, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   60, 
+   152, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   370, 
+   462, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   1615, 
+   1683, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   1695, 
+   1785, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   2248, 
+   2366, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   2928, 
+   2981, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   3524, 
+   3652, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   4499, 
+   4551, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   5019, 
+   5098, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   5823, 
+   5858, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   6799, 
+   6816, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   7259, 
+   7395, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   7821, 
+   7999, 
+   {
+    "raw_data": "plotter", 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   8764, 
+   8849, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33117, 
+  [
+   9343, 
+   9454, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33010, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33123, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33103, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33123, 
+  [
+   814, 
+   932, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33103, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33123, 
+  [
+   1118, 
+   1254, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33103, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33125, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33125, 
+  [
+   1224, 
+   1351, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33125, 
+  [
+   2120, 
+   2200, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33127, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33127, 
+  [
+   1168, 
+   1311, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33127, 
+  [
+   2041, 
+   2211, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32619, 
+  [
+   0, 
+   522, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32616, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33132, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  32625, 
+  [
+   0, 
+   549, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32624, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33138, 
+  [
+   0, 
+   885, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 33134, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  32628, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32626, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33148, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33148, 
+  [
+   2082, 
+   2179, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32809, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33156, 
+  [
+   0, 
+   1363, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33138, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33156, 
+  [
+   1774, 
+   5822, 
+   {}
+  ]
+ ], 
+ [
+  33156, 
+  [
+   6157, 
+   6422, 
+   {
+    "quote_id": 33138, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33156, 
+  [
+   6881, 
+   7167, 
+   {}
+  ]
+ ], 
+ [
+  33156, 
+  [
+   7685, 
+   7772, 
+   {
+    "quote_id": 33138, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45445, 
+  [
+   0, 
+   995, 
+   {
+    "quote_id": 45416, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45445, 
+  [
+   1088, 
+   1329, 
+   {
+    "quote_id": 45416, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45445, 
+  [
+   1430, 
+   1805, 
+   {
+    "quote_id": 45416, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45445, 
+  [
+   2091, 
+   2175, 
+   {
+    "quote_id": 45226, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45445, 
+  [
+   2184, 
+   2313, 
+   {
+    "quote_id": 45226, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  33168, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33166, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33172, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33169, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  33175, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 33173, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  33182, 
+  [
+   0, 
+   535, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 33180, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   139, 
+   247, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   377, 
+   460, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   611, 
+   723, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   1001, 
+   1156, 
+   {
+    "raw_data": "plotter", 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   1231, 
+   1365, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   1484, 
+   1622, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33184, 
+  [
+   3288, 
+   3419, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33128, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33186, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Robbie", 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  33187, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "plotter", 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33187, 
+  [
+   346, 
+   448, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33152, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33187, 
+  [
+   938, 
+   1084, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 33152, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33190, 
+  [
+   13, 
+   408, 
+   {
+    "raw_data": "plotter", 
+    "quote_id": 32581, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  33190, 
+  [
+   1213, 
+   1432, 
+   {}
+  ]
+ ], 
+ [
+  33190, 
+  [
+   1438, 
+   1831, 
+   {}
+  ]
+ ], 
+ [
+  33191, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 33139, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  98204, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 97063, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  33523, 
+  [
+   0, 
+   1268, 
+   {
+    "raw_data": "Gator", 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  45416, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  32715, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 32630, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  45550, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45445, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45550, 
+  [
+   1068, 
+   1157, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45445, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45550, 
+  [
+   1583, 
+   1669, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45445, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45550, 
+  [
+   1807, 
+   1930, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45445, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45550, 
+  [
+   2128, 
+   2388, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  33263, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 33186, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   0, 
+   362, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   543, 
+   879, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   1307, 
+   1546, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   1701, 
+   2317, 
+   {}
+  ]
+ ], 
+ [
+  45562, 
+  [
+   2491, 
+   2621, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   2698, 
+   2886, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   3178, 
+   3468, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   3838, 
+   4062, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   4294, 
+   4454, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   4601, 
+   4719, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45562, 
+  [
+   5069, 
+   5196, 
+   {
+    "quote_id": 45550, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   818, 
+   1130, 
+   {}
+  ]
+ ], 
+ [
+  45567, 
+  [
+   1388, 
+   1638, 
+   {
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   1697, 
+   1774, 
+   {
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   3379, 
+   3563, 
+   {
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   3666, 
+   3887, 
+   {
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   4743, 
+   5083, 
+   {
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  45567, 
+  [
+   5138, 
+   5259, 
+   {
+    "quote_id": 45562, 
+    "author": "SilentPoet"
+   }
+  ]
+ ]
+]

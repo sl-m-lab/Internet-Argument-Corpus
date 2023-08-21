@@ -1,0 +1,460 @@
+[
+ [
+  252294, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "dislexia;244409", 
+    "quote_id": 244409, 
+    "author": "dislexia"
+   }
+  ]
+ ], 
+ [
+  366092, 
+  [
+   0, 
+   618, 
+   {
+    "raw_data": "Shooterandproud;252294", 
+    "quote_id": 252294, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  411416, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "DrNo;366092", 
+    "quote_id": 366092, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  233624, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "Matthew S;233585", 
+    "quote_id": 233585, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  244258, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "dislexia;244196", 
+    "quote_id": 244196, 
+    "author": "dislexia"
+   }
+  ]
+ ], 
+ [
+  244258, 
+  [
+   164, 
+   415, 
+   {
+    "quote_id": 244196, 
+    "author": "dislexia"
+   }
+  ]
+ ], 
+ [
+  244258, 
+  [
+   794, 
+   994, 
+   {
+    "quote_id": 244196, 
+    "author": "dislexia"
+   }
+  ]
+ ], 
+ [
+  233635, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Steeeeve;233624", 
+    "quote_id": 233624, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  269860, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "BenR;269690", 
+    "quote_id": 269690, 
+    "author": "BenR"
+   }
+  ]
+ ], 
+ [
+  269860, 
+  [
+   329, 
+   519, 
+   {
+    "quote_id": 269690, 
+    "author": "BenR"
+   }
+  ]
+ ], 
+ [
+  269860, 
+  [
+   623, 
+   859, 
+   {
+    "quote_id": 269690, 
+    "author": "BenR"
+   }
+  ]
+ ], 
+ [
+  411301, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "BenR;269690", 
+    "quote_id": 269690, 
+    "author": "BenR"
+   }
+  ]
+ ], 
+ [
+  233510, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Shooterandproud;232438", 
+    "quote_id": 232438, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  233510, 
+  [
+   178, 
+   255, 
+   {
+    "raw_data": "Shooterandproud;232438", 
+    "quote_id": 232438, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  233510, 
+  [
+   307, 
+   455, 
+   {
+    "raw_data": "Shooterandproud;232438", 
+    "quote_id": 232438, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  233514, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "USAalltheWay;233375", 
+    "unknown_quote_id": 233375, 
+    "unknown_author": "USAalltheWay"
+   }
+  ]
+ ], 
+ [
+  233514, 
+  [
+   386, 
+   588, 
+   {}
+  ]
+ ], 
+ [
+  237360, 
+  [
+   0, 
+   756, 
+   {
+    "raw_data": "yb-yellow;236949", 
+    "quote_id": 236949, 
+    "author": "yb-yellow"
+   }
+  ]
+ ], 
+ [
+  237362, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Shooterandproud;232438", 
+    "quote_id": 232438, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  234040, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "zachvac;233635", 
+    "quote_id": 233635, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  238140, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "doG;237362", 
+    "quote_id": 237362, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  269690, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "nocturnal09;238172", 
+    "quote_id": 238172, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  238270, 
+  [
+   0, 
+   756, 
+   {
+    "raw_data": "yb-yellow;236949", 
+    "quote_id": 236949, 
+    "author": "yb-yellow"
+   }
+  ]
+ ], 
+ [
+  238272, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "nocturnal09;238172", 
+    "quote_id": 238172, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  238273, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "Steeeeve;238206", 
+    "quote_id": 238206, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  351650, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "nocturnal09;238172", 
+    "quote_id": 238172, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  351650, 
+  [
+   836, 
+   1281, 
+   {
+    "raw_data": "Shooterandproud;238272", 
+    "quote_id": 238272, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  351650, 
+  [
+   2893, 
+   3008, 
+   {
+    "raw_data": "Unriggable;269763", 
+    "quote_id": 269763, 
+    "author": "Unriggable"
+   }
+  ]
+ ], 
+ [
+  238160, 
+  [
+   0, 
+   9, 
+   {
+    "raw_data": "Daddy Man;238140", 
+    "quote_id": 238140, 
+    "author": "Daddy Man"
+   }
+  ]
+ ], 
+ [
+  244196, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Shooterandproud;232438", 
+    "quote_id": 232438, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  411302, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "DrNo;366092", 
+    "quote_id": 366092, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  411302, 
+  [
+   349, 
+   611, 
+   {
+    "quote_id": 366092, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  411302, 
+  [
+   1136, 
+   1176, 
+   {
+    "quote_id": 366092, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  233576, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Matthew S;233514", 
+    "quote_id": 233514, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  233585, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Steeeeve;233576", 
+    "quote_id": 233576, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  394622, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Shooterandproud;232438", 
+    "quote_id": 232438, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  233463, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "USAalltheWay;233375", 
+    "unknown_quote_id": 233375, 
+    "unknown_author": "USAalltheWay"
+   }
+  ]
+ ], 
+ [
+  238206, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "nocturnal09;238202", 
+    "quote_id": 238202, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  353173, 
+  [
+   0, 
+   605, 
+   {
+    "raw_data": "simone;351691", 
+    "quote_id": 351691, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

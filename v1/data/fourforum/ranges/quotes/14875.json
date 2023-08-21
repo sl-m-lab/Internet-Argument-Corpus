@@ -1,0 +1,158 @@
+[
+ [
+  421697, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "COBHC;421688", 
+    "quote_id": 421688, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  421697, 
+  [
+   913, 
+   980, 
+   {
+    "raw_data": "COBHC;421688", 
+    "quote_id": 421688, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  421861, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Xcaliber;421697", 
+    "quote_id": 421697, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  421861, 
+  [
+   123, 
+   812, 
+   {
+    "quote_id": 421697, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  421861, 
+  [
+   942, 
+   1212, 
+   {}
+  ]
+ ], 
+ [
+  421861, 
+  [
+   1345, 
+   1949, 
+   {}
+  ]
+ ], 
+ [
+  421861, 
+  [
+   1955, 
+   2068, 
+   {
+    "quote_id": 421697, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  421861, 
+  [
+   2186, 
+   2477, 
+   {
+    "quote_id": 421697, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  421574, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Bassman;421571", 
+    "quote_id": 421571, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  421671, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Xcaliber;421574", 
+    "quote_id": 421574, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  421685, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "COBHC;421671", 
+    "quote_id": 421671, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  421685, 
+  [
+   459, 
+   570, 
+   {
+    "raw_data": "COBHC;421671", 
+    "quote_id": 421671, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  421688, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Xcaliber;421685", 
+    "quote_id": 421685, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  421688, 
+  [
+   407, 
+   475, 
+   {
+    "quote_id": 421685, 
+    "author": "Xcaliber"
+   }
+  ]
+ ]
+]

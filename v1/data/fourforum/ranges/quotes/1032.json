@@ -1,0 +1,439 @@
+[
+ [
+  17281, 
+  [
+   0, 
+   869, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 17217, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17668, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 17621, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  17366, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "TheoMorphic", 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17546, 
+  [
+   0, 
+   660, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 17433, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17548, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17435, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17305, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "DHard3006", 
+    "quote_id": 17281, 
+    "author": "DHard3006"
+   }
+  ]
+ ], 
+ [
+  17305, 
+  [
+   270, 
+   379, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17281, 
+    "author": "DHard3006"
+   }
+  ]
+ ], 
+ [
+  17305, 
+  [
+   698, 
+   796, 
+   {
+    "raw_data": "DHard3006", 
+    "quote_id": 17281, 
+    "author": "DHard3006"
+   }
+  ]
+ ], 
+ [
+  17553, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 17303, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17302, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17228, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17302, 
+  [
+   965, 
+   1104, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17228, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17303, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 17238, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  17303, 
+  [
+   321, 
+   641, 
+   {
+    "raw_data": "Rev. HellH0und ", 
+    "quote_id": 17238, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  17433, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 17400, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  17435, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "TheoMorphic", 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17435, 
+  [
+   447, 
+   844, 
+   {
+    "raw_data": "TheoMorphic", 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17308, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 17303, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17308, 
+  [
+   476, 
+   1324, 
+   {
+    "quote_id": 17303, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17455, 
+  [
+   0, 
+   1147, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17458, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 17455, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  17674, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 17668, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  17604, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17458, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17606, 
+  [
+   0, 
+   1182, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 17604, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  17612, 
+  [
+   0, 
+   719, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17606, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17613, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 17612, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  17364, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17228, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17621, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 17612, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  17238, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 17217, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17238, 
+  [
+   2145, 
+   2287, 
+   {
+    "quote_id": 17217, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17238, 
+  [
+   2337, 
+   2695, 
+   {
+    "quote_id": 17217, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17368, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17258, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17508, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17458, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17258, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 17217, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  17262, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17258, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17395, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 17370, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  17400, 
+  [
+   0, 
+   898, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17395, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  17620, 
+  [
+   0, 
+   719, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 17606, 
+    "author": "montalban"
+   }
+  ]
+ ]
+]

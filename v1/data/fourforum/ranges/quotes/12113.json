@@ -1,0 +1,990 @@
+[
+ [
+  337025, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "isly ilwott;337021", 
+    "quote_id": 337021, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337282, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "Jo Bennett;337235", 
+    "quote_id": 337235, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337029, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "sinjin;337025", 
+    "quote_id": 337025, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337414, 
+  [
+   0, 
+   928, 
+   {
+    "raw_data": "Steeeeve;337377", 
+    "quote_id": 337377, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337159, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "sinjin;337142", 
+    "quote_id": 337142, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337032, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "sinjin;337025", 
+    "quote_id": 337025, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337162, 
+  [
+   0, 
+   964, 
+   {
+    "raw_data": "isly ilwott;337159", 
+    "quote_id": 337159, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337036, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Steeeeve;337032", 
+    "quote_id": 337032, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337038, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "isly ilwott;337036", 
+    "quote_id": 337036, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337038, 
+  [
+   267, 
+   427, 
+   {
+    "quote_id": 337036, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337169, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "chester;337162", 
+    "quote_id": 337162, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337170, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Steeeeve;337157", 
+    "quote_id": 337157, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337431, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Jo Bennett;337414", 
+    "quote_id": 337414, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337431, 
+  [
+   283, 
+   420, 
+   {
+    "quote_id": 337414, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337431, 
+  [
+   776, 
+   1074, 
+   {
+    "quote_id": 337414, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337176, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "sinjin;337170", 
+    "quote_id": 337170, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337050, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "sinjin;337038", 
+    "quote_id": 337038, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337050, 
+  [
+   210, 
+   377, 
+   {
+    "quote_id": 337038, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337051, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "sinjin;337038", 
+    "quote_id": 337038, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337051, 
+  [
+   571, 
+   740, 
+   {
+    "quote_id": 337038, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337053, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "sinjin;337052", 
+    "quote_id": 337052, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337054, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Steeeeve;337050", 
+    "quote_id": 337050, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337157, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "sinjin;337142", 
+    "quote_id": 337142, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337056, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "isly ilwott;337053", 
+    "quote_id": 337053, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337057, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Penfold;337056", 
+    "quote_id": 337056, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  337058, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "sinjin;337052", 
+    "quote_id": 337052, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337060, 
+  [
+   0, 
+   588, 
+   {
+    "raw_data": "isly ilwott;337058", 
+    "quote_id": 337058, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337061, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "sinjin;337060", 
+    "quote_id": 337060, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337063, 
+  [
+   0, 
+   784, 
+   {
+    "raw_data": "isly ilwott;337061", 
+    "quote_id": 337061, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337065, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "sinjin;337063", 
+    "quote_id": 337063, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337287, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Steeeeve;337282", 
+    "quote_id": 337282, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337068, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "isly ilwott;337065", 
+    "quote_id": 337065, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  337453, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Steeeeve;337431", 
+    "quote_id": 337431, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340142, 
+  [
+   0, 
+   1415, 
+   {
+    "raw_data": "daewoo;340124", 
+    "quote_id": 340124, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340142, 
+  [
+   1691, 
+   2004, 
+   {
+    "quote_id": 340124, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340142, 
+  [
+   2289, 
+   2515, 
+   {
+    "quote_id": 340124, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340142, 
+  [
+   2844, 
+   3008, 
+   {
+    "quote_id": 340124, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  337071, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "sinjin;337060", 
+    "quote_id": 337060, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337072, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "chester;337071", 
+    "quote_id": 337071, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337288, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Jo Bennett;337287", 
+    "quote_id": 337287, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  340400, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "Steeeeve;340332", 
+    "quote_id": 340332, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337076, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "chester;337054", 
+    "quote_id": 337054, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337076, 
+  [
+   480, 
+   553, 
+   {
+    "quote_id": 337054, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337076, 
+  [
+   625, 
+   727, 
+   {
+    "quote_id": 337054, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337076, 
+  [
+   787, 
+   858, 
+   {
+    "quote_id": 337054, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337566, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Jo Bennett;337448", 
+    "quote_id": 337448, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337078, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Steeeeve;337076", 
+    "quote_id": 337076, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340151, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Steeeeve;340142", 
+    "quote_id": 340142, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  340151, 
+  [
+   488, 
+   1301, 
+   {}
+  ]
+ ], 
+ [
+  337210, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "sinjin;337184", 
+    "quote_id": 337184, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337210, 
+  [
+   585, 
+   856, 
+   {
+    "raw_data": "CNN (based on Consumer Reports)", 
+    "unknown_author": "CNN (based on Consumer Reports)"
+   }
+  ]
+ ], 
+ [
+  337567, 
+  [
+   0, 
+   763, 
+   {
+    "raw_data": "chester;337453", 
+    "quote_id": 337453, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  340164, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "daewoo;340151", 
+    "quote_id": 340151, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340164, 
+  [
+   419, 
+   2230, 
+   {
+    "quote_id": 340151, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  340321, 
+  [
+   0, 
+   1386, 
+   {
+    "raw_data": "Steeeeve;340164", 
+    "quote_id": 340164, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337357, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Steeeeve;337288", 
+    "quote_id": 337288, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337359, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Steeeeve;337281", 
+    "quote_id": 337281, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337359, 
+  [
+   675, 
+   805, 
+   {
+    "quote_id": 337281, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337359, 
+  [
+   1203, 
+   1519, 
+   {
+    "quote_id": 337281, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337359, 
+  [
+   1782, 
+   2132, 
+   {
+    "quote_id": 337281, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337359, 
+  [
+   2735, 
+   3159, 
+   {
+    "quote_id": 337281, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337359, 
+  [
+   3324, 
+   3531, 
+   {
+    "quote_id": 337281, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337281, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "obvious_child;337261", 
+    "quote_id": 337261, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  337678, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Jo Bennett;337663", 
+    "quote_id": 337663, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337678, 
+  [
+   605, 
+   688, 
+   {
+    "quote_id": 337663, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337678, 
+  [
+   1655, 
+   1979, 
+   {
+    "quote_id": 337663, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337635, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Jo Bennett;337594", 
+    "quote_id": 337594, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337635, 
+  [
+   406, 
+   546, 
+   {
+    "quote_id": 337594, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337635, 
+  [
+   932, 
+   1061, 
+   {
+    "quote_id": 337594, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337635, 
+  [
+   1124, 
+   1887, 
+   {
+    "quote_id": 337594, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337118, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "sinjin;337078", 
+    "quote_id": 337078, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337119, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "chester;337071", 
+    "quote_id": 337071, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  337377, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "Jo Bennett;337357", 
+    "quote_id": 337357, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  337122, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "sinjin;337068", 
+    "quote_id": 337068, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337189, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "sinjin;337170", 
+    "quote_id": 337170, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337380, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "sinjin;337371", 
+    "quote_id": 337371, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  337383, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "obvious_child;337359", 
+    "quote_id": 337359, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  337383, 
+  [
+   664, 
+   1052, 
+   {
+    "quote_id": 337359, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  337383, 
+  [
+   1616, 
+   1869, 
+   {
+    "quote_id": 337359, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  337383, 
+  [
+   2209, 
+   2802, 
+   {
+    "quote_id": 337359, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  337383, 
+  [
+   3001, 
+   3156, 
+   {
+    "quote_id": 337359, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  337383, 
+  [
+   3426, 
+   3843, 
+   {
+    "quote_id": 337359, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  340332, 
+  [
+   0, 
+   1071, 
+   {
+    "raw_data": "daewoo;340321", 
+    "quote_id": 340321, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  337261, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Steeeeve;337176", 
+    "quote_id": 337176, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  337134, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "sinjin;337068", 
+    "quote_id": 337068, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

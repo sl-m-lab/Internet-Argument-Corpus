@@ -1,0 +1,299 @@
+[
+ [
+  98821, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  98822, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "pickleweaseler", 
+    "quote_id": 98821, 
+    "author": "pickleweaseler"
+   }
+  ]
+ ], 
+ [
+  94473, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94452, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100376, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 94423, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  94488, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95130, 
+  [
+   0, 
+   642, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 94945, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95132, 
+  [
+   0, 
+   997, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  94369, 
+  [
+   0, 
+   538, 
+   {}
+  ]
+ ], 
+ [
+  94754, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 94718, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  94779, 
+  [
+   0, 
+   522, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 94718, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  94779, 
+  [
+   1228, 
+   1894, 
+   {
+    "quote_id": 94718, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  98977, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "pickleweaseler", 
+    "quote_id": 98924, 
+    "author": "pickleweaseler"
+   }
+  ]
+ ], 
+ [
+  98889, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 98822, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  94423, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "pickleweaseler", 
+    "quote_id": 94369, 
+    "author": "pickleweaseler"
+   }
+  ]
+ ], 
+ [
+  95326, 
+  [
+   0, 
+   1375, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 95130, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  95075, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 94945, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95076, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 95075, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  95078, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 95076, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  95591, 
+  [
+   0, 
+   873, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95595, 
+  [
+   0, 
+   649, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 95586, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  98924, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 98888, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94190, 
+  [
+   131, 
+   620, 
+   {}
+  ]
+ ], 
+ [
+  95344, 
+  [
+   0, 
+   935, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 95326, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95602, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "greg 79 f150", 
+    "quote_id": 95586, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95602, 
+  [
+   417, 
+   653, 
+   {
+    "quote_id": 95586, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ], 
+ [
+  95602, 
+  [
+   789, 
+   1439, 
+   {
+    "quote_id": 95586, 
+    "author": "greg 79 f150"
+   }
+  ]
+ ]
+]

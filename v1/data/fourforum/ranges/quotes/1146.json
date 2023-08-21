@@ -1,0 +1,776 @@
+[
+ [
+  28800, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "VeniVedi", 
+    "quote_id": 28776, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28800, 
+  [
+   263, 
+   658, 
+   {
+    "quote_id": 28776, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28800, 
+  [
+   914, 
+   1101, 
+   {
+    "quote_id": 28776, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28800, 
+  [
+   1156, 
+   1350, 
+   {
+    "quote_id": 28776, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28800, 
+  [
+   1713, 
+   1892, 
+   {
+    "quote_id": 28776, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28546, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 28539, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  27267, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 19969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29061, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29054, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  26251, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 26159, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  25996, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "quote_id": 25964, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  26125, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 25996, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  29070, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 29061, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29070, 
+  [
+   704, 
+   771, 
+   {
+    "quote_id": 29049, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  26093, 
+  [
+   0, 
+   506, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  19984, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 19969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  26133, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  26133, 
+  [
+   683, 
+   948, 
+   {}
+  ]
+ ], 
+ [
+  28569, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 28546, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  28569, 
+  [
+   1468, 
+   1563, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 28546, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  27929, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "VeniVedi", 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  27929, 
+  [
+   98, 
+   262, 
+   {
+    "raw_data": "VeniVedi", 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  26142, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  28592, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "VeniVedi", 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28592, 
+  [
+   977, 
+   1140, 
+   {
+    "raw_data": "VeniVedi", 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28581, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 28539, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29226, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29140, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  29227, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29140, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  28464, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28465, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 26251, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  26034, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 25996, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  26034, 
+  [
+   191, 
+   367, 
+   {
+    "quote_id": 25996, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  25715, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 24919, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  20021, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 19969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23478, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 23392, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  29628, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 19969, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  26122, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 23478, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28610, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "VeniVedi", 
+    "quote_id": 28581, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28610, 
+  [
+   332, 
+   521, 
+   {
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28610, 
+  [
+   685, 
+   1124, 
+   {
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28610, 
+  [
+   1173, 
+   1686, 
+   {
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  20035, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 20021, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  26565, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 26251, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  24929, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "bud095", 
+    "quote_id": 24920, 
+    "author": "bud095"
+   }
+  ]
+ ], 
+ [
+  28490, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28781, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "VeniVedi", 
+    "quote_id": 28776, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  24912, 
+  [
+   0, 
+   605, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 24865, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  24915, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 24913, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  29140, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 29107, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  25813, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  24918, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "bud095", 
+    "quote_id": 24915, 
+    "author": "bud095"
+   }
+  ]
+ ], 
+ [
+  24920, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Robbie", 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  29107, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Hank", 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  23392, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 20035, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  23393, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "bud095", 
+    "quote_id": 23306, 
+    "author": "bud095"
+   }
+  ]
+ ], 
+ [
+  24675, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "Morfos", 
+    "author": "Morfos"
+   }
+  ]
+ ], 
+ [
+  24935, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 24929, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  28776, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 28660, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  25964, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 25813, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28654, 
+  [
+   0, 
+   598, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28660, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 28654, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  26089, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 25996, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  29050, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "VeniVedi", 
+    "quote_id": 28581, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28539, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "VeniVedi", 
+    "quote_id": 28464, 
+    "author": "VeniVedi"
+   }
+  ]
+ ], 
+ [
+  28541, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 28490, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  28541, 
+  [
+   181, 
+   418, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 28490, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  29054, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 29049, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  28629, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 28610, 
+    "author": "Hank"
+   }
+  ]
+ ]
+]

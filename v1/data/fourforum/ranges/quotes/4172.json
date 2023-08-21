@@ -1,0 +1,239 @@
+[
+ [
+  88324, 
+  [
+   0, 
+   1714, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 88317, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88326, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 88324, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  88327, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 88326, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  88328, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 88326, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  88336, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 88293, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  88337, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 88328, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  88339, 
+  [
+   0, 
+   324, 
+   {
+    "quote_id": 88338, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  88472, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 88425, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  88367, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 88336, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  88368, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 88337, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88368, 
+  [
+   149, 
+   381, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88368, 
+  [
+   489, 
+   537, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 88337, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88369, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 88339, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88371, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 88303, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  88375, 
+  [
+   0, 
+   209, 
+   {
+    "quote_id": 88294, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  88380, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Tigerlilly", 
+    "quote_id": 88375, 
+    "author": "Tigerlilly"
+   }
+  ]
+ ], 
+ [
+  88406, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 88394, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  88425, 
+  [
+   0, 
+   1348, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 88371, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  88299, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 88294, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  88303, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 88299, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

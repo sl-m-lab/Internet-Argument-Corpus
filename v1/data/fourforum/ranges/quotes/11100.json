@@ -1,0 +1,851 @@
+[
+ [
+  307219, 
+  [
+   0, 
+   131, 
+   {
+    "quote_id": 307192, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  311190, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "El Arte;311071", 
+    "quote_id": 311071, 
+    "author": "El Arte"
+   }
+  ]
+ ], 
+ [
+  311190, 
+  [
+   176, 
+   425, 
+   {
+    "quote_id": 311071, 
+    "author": "El Arte"
+   }
+  ]
+ ], 
+ [
+  311190, 
+  [
+   475, 
+   596, 
+   {
+    "quote_id": 311071, 
+    "author": "El Arte"
+   }
+  ]
+ ], 
+ [
+  311063, 
+  [
+   0, 
+   990, 
+   {
+    "raw_data": "El Arte;311039", 
+    "quote_id": 311039, 
+    "author": "El Arte"
+   }
+  ]
+ ], 
+ [
+  307100, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Archangel;307060", 
+    "quote_id": 307060, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  307103, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Peeling;307100", 
+    "quote_id": 307100, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  307232, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "obvious_child;307192", 
+    "quote_id": 307192, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  307105, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Archangel;307103", 
+    "quote_id": 307103, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  307105, 
+  [
+   447, 
+   635, 
+   {
+    "quote_id": 307060, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  307238, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "thelmoose;307232", 
+    "quote_id": 307232, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  307238, 
+  [
+   338, 
+   419, 
+   {
+    "quote_id": 307232, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  307238, 
+  [
+   495, 
+   785, 
+   {
+    "quote_id": 307232, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  307243, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "obvious_child;307238", 
+    "quote_id": 307238, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308014, 
+  [
+   0, 
+   112, 
+   {
+    "quote_id": 307288, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  307122, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Archangel;307060", 
+    "quote_id": 307060, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308663, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "jim's trucking;308606", 
+    "quote_id": 308606, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  307129, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "jim's trucking;307122", 
+    "quote_id": 307122, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  311071, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "jim's trucking;311063", 
+    "quote_id": 311063, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Zardoz;308216", 
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   189, 
+   380, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   1637, 
+   1961, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   2490, 
+   2643, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   2860, 
+   2973, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   3069, 
+   3178, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   3495, 
+   3767, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   3867, 
+   4186, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   4610, 
+   4856, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   4935, 
+   5078, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   5571, 
+   5677, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   5955, 
+   6119, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   6471, 
+   6526, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   6573, 
+   6736, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   6822, 
+   7383, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   8097, 
+   8496, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   8851, 
+   9270, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308549, 
+  [
+   9388, 
+   9954, 
+   {
+    "quote_id": 308216, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308216, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "jim's trucking;308203", 
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308216, 
+  [
+   169, 
+   417, 
+   {
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308216, 
+  [
+   614, 
+   1148, 
+   {
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308216, 
+  [
+   1633, 
+   2107, 
+   {
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308216, 
+  [
+   2335, 
+   2832, 
+   {
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  307155, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "Iuris;307149", 
+    "quote_id": 307149, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  308181, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Zardoz;308100", 
+    "quote_id": 308100, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308181, 
+  [
+   364, 
+   424, 
+   {
+    "quote_id": 308100, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "jim's trucking;308549", 
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   212, 
+   882, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   1427, 
+   1805, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   1975, 
+   2114, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   2506, 
+   2717, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   2894, 
+   2984, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   3653, 
+   3962, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   4435, 
+   4529, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   4777, 
+   5195, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   5541, 
+   5608, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   6418, 
+   6901, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   7653, 
+   7923, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   8072, 
+   8418, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   8505, 
+   8546, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   8890, 
+   8968, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   9090, 
+   9327, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   10096, 
+   10396, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   10426, 
+   10587, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   10695, 
+   10942, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   11129, 
+   11159, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   12344, 
+   12473, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308578, 
+  [
+   13087, 
+   13223, 
+   {
+    "quote_id": 308549, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308198, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "jim's trucking;308181", 
+    "quote_id": 308181, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  308203, 
+  [
+   0, 
+   2918, 
+   {
+    "raw_data": "Zardoz;308198", 
+    "quote_id": 308198, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308081, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Iuris;308014", 
+    "quote_id": 308014, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  307192, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Iuris;307171", 
+    "quote_id": 307171, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  311037, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "Zardoz;307050", 
+    "quote_id": 307050, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308606, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Zardoz;308579", 
+    "quote_id": 308579, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  311039, 
+  [
+   0, 
+   476, 
+   {
+    "raw_data": "jim's trucking;308203", 
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  311039, 
+  [
+   634, 
+   1133, 
+   {
+    "quote_id": 308203, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

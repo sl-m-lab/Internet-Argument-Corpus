@@ -1,0 +1,946 @@
+[
+ [
+  45446, 
+  [
+   13, 
+   152, 
+   {
+    "quote_id": 45284, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  45446, 
+  [
+   209, 
+   505, 
+   {
+    "quote_id": 45284, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  41095, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41054, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41095, 
+  [
+   734, 
+   959, 
+   {
+    "quote_id": 41054, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41023, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   1277, 
+   1364, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   2095, 
+   2174, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41023, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   2812, 
+   2971, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   3315, 
+   3397, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41023, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   3783, 
+   3965, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41227, 
+  [
+   4451, 
+   4659, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41566, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41561, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41566, 
+  [
+   1003, 
+   1197, 
+   {
+    "quote_id": 41561, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41566, 
+  [
+   1316, 
+   1487, 
+   {
+    "quote_id": 41561, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41247, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41243, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41247, 
+  [
+   346, 
+   560, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41243, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41247, 
+  [
+   729, 
+   1116, 
+   {
+    "raw_data": "Broker", 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41764, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 41762, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41255, 
+  [
+   0, 
+   348, 
+   {
+    "quote_id": 41235, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  41255, 
+  [
+   499, 
+   847, 
+   {
+    "quote_id": 41235, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  41255, 
+  [
+   1355, 
+   1446, 
+   {
+    "quote_id": 41235, 
+    "author": "plotter"
+   }
+  ]
+ ], 
+ [
+  41640, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Ghost", 
+    "quote_id": 41637, 
+    "author": "Ghost"
+   }
+  ]
+ ], 
+ [
+  45227, 
+  [
+   0, 
+   1322, 
+   {
+    "quote_id": 43026, 
+    "author": "remrem"
+   }
+  ]
+ ], 
+ [
+  41772, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "remrem", 
+    "quote_id": 41703, 
+    "author": "remrem"
+   }
+  ]
+ ], 
+ [
+  40628, 
+  [
+   0, 
+   78, 
+   {
+    "quote_id": 40545, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  40628, 
+  [
+   433, 
+   484, 
+   {
+    "quote_id": 40545, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  40926, 
+  [
+   0, 
+   56, 
+   {
+    "quote_id": 40631, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  40926, 
+  [
+   200, 
+   252, 
+   {
+    "quote_id": 40631, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  40926, 
+  [
+   353, 
+   396, 
+   {
+    "quote_id": 40631, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  40926, 
+  [
+   559, 
+   966, 
+   {}
+  ]
+ ], 
+ [
+  40926, 
+  [
+   1313, 
+   1438, 
+   {
+    "quote_id": 40631, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  40631, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "syklopps61", 
+    "quote_id": 40628, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40631, 
+  [
+   1048, 
+   1181, 
+   {
+    "quote_id": 40628, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  41023, 
+  [
+   0, 
+   855, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 40980, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41023, 
+  [
+   1583, 
+   2238, 
+   {
+    "quote_id": 41009, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  41023, 
+  [
+   2368, 
+   2927, 
+   {
+    "quote_id": 41009, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  45284, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 45227, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  41543, 
+  [
+   0, 
+   2339, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41532, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41559, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41553, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   0, 
+   546, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   734, 
+   1237, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   1458, 
+   2181, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   2600, 
+   3230, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   3441, 
+   3777, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   4095, 
+   4473, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   5971, 
+   6449, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41265, 
+  [
+   7466, 
+   8234, 
+   {
+    "quote_id": 41227, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41549, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41544, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  41942, 
+  [
+   0, 
+   3655, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 41748, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  41175, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41095, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41175, 
+  [
+   449, 
+   576, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41095, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41175, 
+  [
+   652, 
+   756, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41095, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41175, 
+  [
+   1164, 
+   1364, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41095, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41175, 
+  [
+   2393, 
+   2507, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 41095, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  41564, 
+  [
+   0, 
+   1100, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 41561, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  40545, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "The_Comedian", 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  40545, 
+  [
+   474, 
+   653, 
+   {
+    "quote_id": 40537, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  41186, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Nallyo", 
+    "quote_id": 41009, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  41186, 
+  [
+   796, 
+   899, 
+   {
+    "raw_data": "Nallyo", 
+    "quote_id": 41009, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  41186, 
+  [
+   1101, 
+   1352, 
+   {
+    "raw_data": "Nallyo", 
+    "quote_id": 41009, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  41186, 
+  [
+   3060, 
+   3188, 
+   {
+    "raw_data": "Nallyo", 
+    "quote_id": 41009, 
+    "author": "Nallyo"
+   }
+  ]
+ ], 
+ [
+  41446, 
+  [
+   0, 
+   650, 
+   {
+    "raw_data": "syklopps61", 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40934, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "syklopps61", 
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40934, 
+  [
+   248, 
+   339, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40934, 
+  [
+   397, 
+   549, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40934, 
+  [
+   697, 
+   1034, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40934, 
+  [
+   1288, 
+   1703, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40936, 
+  [
+   8, 
+   114, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 40934, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  40936, 
+  [
+   150, 
+   200, 
+   {
+    "quote_id": 40934, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  40936, 
+  [
+   257, 
+   397, 
+   {
+    "quote_id": 40934, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  40936, 
+  [
+   577, 
+   689, 
+   {
+    "quote_id": 40934, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  40939, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "syklopps61", 
+    "quote_id": 40936, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40939, 
+  [
+   192, 
+   362, 
+   {
+    "quote_id": 40936, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40939, 
+  [
+   701, 
+   728, 
+   {
+    "quote_id": 40936, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40942, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "syklopps61", 
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40942, 
+  [
+   467, 
+   558, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40942, 
+  [
+   911, 
+   1063, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40942, 
+  [
+   1640, 
+   1977, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40942, 
+  [
+   2751, 
+   3166, 
+   {
+    "quote_id": 40926, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  40689, 
+  [
+   208, 
+   7009, 
+   {}
+  ]
+ ], 
+ [
+  41588, 
+  [
+   62, 
+   6249, 
+   {}
+  ]
+ ], 
+ [
+  41592, 
+  [
+   0, 
+   367, 
+   {}
+  ]
+ ], 
+ [
+  41748, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "The_Comedian", 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  41085, 
+  [
+   0, 
+   147, 
+   {
+    "quote_id": 40942, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

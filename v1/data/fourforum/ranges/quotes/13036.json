@@ -1,0 +1,603 @@
+[
+ [
+  363538, 
+  [
+   0, 
+   532, 
+   {
+    "raw_data": "Doc Jones;363490", 
+    "quote_id": 363490, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  363413, 
+  [
+   0, 
+   709, 
+   {
+    "raw_data": "Galileo;362589", 
+    "quote_id": 362589, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  363542, 
+  [
+   0, 
+   1782, 
+   {
+    "raw_data": "unkerpaulie;363538", 
+    "quote_id": 363538, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363548, 
+  [
+   292, 
+   829, 
+   {}
+  ]
+ ], 
+ [
+  363549, 
+  [
+   0, 
+   1258, 
+   {
+    "raw_data": "OldSarge;363542", 
+    "quote_id": 363542, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  363551, 
+  [
+   66, 
+   871, 
+   {}
+  ]
+ ], 
+ [
+  362658, 
+  [
+   0, 
+   636, 
+   {
+    "raw_data": "Galileo;362589", 
+    "quote_id": 362589, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  362659, 
+  [
+   0, 
+   1100, 
+   {
+    "raw_data": "OldSarge;362658", 
+    "quote_id": 362658, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  363812, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "unkerpaulie;363803", 
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363812, 
+  [
+   582, 
+   683, 
+   {
+    "raw_data": "unkerpaulie;363803", 
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363814, 
+  [
+   0, 
+   3737, 
+   {
+    "raw_data": "unkerpaulie;363803", 
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363560, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "unkerpaulie;363549", 
+    "quote_id": 363549, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "unkerpaulie;363695", 
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   761, 
+   871, 
+   {
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   1074, 
+   1376, 
+   {
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   2096, 
+   2213, 
+   {
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   3256, 
+   3324, 
+   {
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   3788, 
+   3837, 
+   {
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363719, 
+  [
+   3993, 
+   4323, 
+   {
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363693, 
+  [
+   0, 
+   992, 
+   {
+    "raw_data": "unkerpaulie;363590", 
+    "quote_id": 363590, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  362672, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Galileo;362589", 
+    "quote_id": 362589, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  363570, 
+  [
+   0, 
+   1782, 
+   {
+    "raw_data": "unkerpaulie;363538", 
+    "quote_id": 363538, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363702, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "unkerpaulie;363695", 
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363702, 
+  [
+   853, 
+   2358, 
+   {}
+  ]
+ ], 
+ [
+  363702, 
+  [
+   2457, 
+   2825, 
+   {}
+  ]
+ ], 
+ [
+  363702, 
+  [
+   2889, 
+   3213, 
+   {}
+  ]
+ ], 
+ [
+  363702, 
+  [
+   3458, 
+   4763, 
+   {}
+  ]
+ ], 
+ [
+  363702, 
+  [
+   4941, 
+   5650, 
+   {}
+  ]
+ ], 
+ [
+  363702, 
+  [
+   5702, 
+   6256, 
+   {
+    "raw_data": "&quot;Richard Henry Lee&quot;", 
+    "unknown_author": "&quot"
+   }
+  ]
+ ], 
+ [
+  363579, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "OldSarge;363575", 
+    "quote_id": 363575, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  363594, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "unkerpaulie;363590", 
+    "quote_id": 363590, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  362687, 
+  [
+   0, 
+   636, 
+   {
+    "raw_data": "Galileo;362589", 
+    "quote_id": 362589, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  363698, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "unkerpaulie;363695", 
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363698, 
+  [
+   167, 
+   191, 
+   {
+    "raw_data": "unkerpaulie;363695", 
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363583, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "NATO 556;363579", 
+    "quote_id": 363579, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  362698, 
+  [
+   0, 
+   923, 
+   {
+    "raw_data": "unkerpaulie;362692", 
+    "quote_id": 362692, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363618, 
+  [
+   0, 
+   3575, 
+   {
+    "raw_data": "NATO 556;363610", 
+    "quote_id": 363610, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  362706, 
+  [
+   0, 
+   923, 
+   {
+    "raw_data": "unkerpaulie;362692", 
+    "quote_id": 362692, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363555, 
+  [
+   0, 
+   916, 
+   {
+    "raw_data": "unkerpaulie;363549", 
+    "quote_id": 363549, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363610, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "unkerpaulie;363590", 
+    "quote_id": 363590, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363610, 
+  [
+   845, 
+   1054, 
+   {
+    "quote_id": 363590, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363610, 
+  [
+   3398, 
+   3827, 
+   {
+    "quote_id": 363590, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363739, 
+  [
+   0, 
+   1450, 
+   {
+    "raw_data": "unkerpaulie;363695", 
+    "quote_id": 363695, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363490, 
+  [
+   0, 
+   923, 
+   {
+    "raw_data": "unkerpaulie;362692", 
+    "quote_id": 362692, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363810, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "unkerpaulie;363803", 
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363810, 
+  [
+   1103, 
+   1865, 
+   {
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363810, 
+  [
+   2206, 
+   2561, 
+   {
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363810, 
+  [
+   3279, 
+   3502, 
+   {
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363810, 
+  [
+   3743, 
+   4014, 
+   {
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  363810, 
+  [
+   4362, 
+   4489, 
+   {
+    "quote_id": 363803, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  362737, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "unkerpaulie;362692", 
+    "quote_id": 362692, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  362737, 
+  [
+   565, 
+   935, 
+   {
+    "quote_id": 362692, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  362619, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "Galileo;362589", 
+    "quote_id": 362589, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  362619, 
+  [
+   696, 
+   852, 
+   {}
+  ]
+ ]
+]

@@ -1,0 +1,306 @@
+[
+ [
+  101394, 
+  [
+   0, 
+   640, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 101371, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  101140, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 100773, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  101141, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 101135, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  101274, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 101215, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  101403, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 101394, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  101594, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 101586, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  183718, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 103077, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  101163, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "Tysic", 
+    "quote_id": 101141, 
+    "author": "Tysic"
+   }
+  ]
+ ], 
+ [
+  101421, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 101403, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  101551, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 101499, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  101552, 
+  [
+   0, 
+   619, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 101551, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  101681, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 101554, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  101554, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 101552, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  101685, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 101681, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  184238, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 184019, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  101454, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 101453, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  101583, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 101554, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  101586, 
+  [
+   0, 
+   936, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 101583, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  101215, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "Tysic", 
+    "quote_id": 101141, 
+    "author": "Tysic"
+   }
+  ]
+ ], 
+ [
+  182889, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Sammy Grevano", 
+    "quote_id": 182885, 
+    "author": "Sammy Grevano"
+   }
+  ]
+ ], 
+ [
+  182889, 
+  [
+   328, 
+   345, 
+   {}
+  ]
+ ], 
+ [
+  182889, 
+  [
+   518, 
+   587, 
+   {}
+  ]
+ ], 
+ [
+  101138, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 100743, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  103077, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "jc70417", 
+    "quote_id": 103074, 
+    "author": "jc70417"
+   }
+  ]
+ ], 
+ [
+  183028, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 182993, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  101371, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 101274, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

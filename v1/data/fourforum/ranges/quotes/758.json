@@ -1,0 +1,841 @@
+[
+ [
+  14080, 
+  [
+   35, 
+   86, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   421, 
+   527, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   569, 
+   612, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   664, 
+   1069, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   2722, 
+   2809, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   2919, 
+   3105, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   3188, 
+   3248, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   3558, 
+   4160, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   4445, 
+   4564, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   4679, 
+   4803, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   4838, 
+   4877, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   5025, 
+   5153, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   5178, 
+   5211, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   5460, 
+   5522, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   5605, 
+   5704, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  14080, 
+  [
+   5924, 
+   6001, 
+   {
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   1522, 
+   1614, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   2283, 
+   2447, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   2809, 
+   2894, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   3104, 
+   3173, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   3590, 
+   3742, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   4100, 
+   4151, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   4237, 
+   4313, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   4744, 
+   4853, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   4981, 
+   5074, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   5201, 
+   5335, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   5553, 
+   5736, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   6089, 
+   6134, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   6204, 
+   6291, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   6306, 
+   6481, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13835, 
+  [
+   6951, 
+   7035, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13829, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  141838, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "canadianman77", 
+    "quote_id": 141805, 
+    "author": "canadianman77"
+   }
+  ]
+ ], 
+ [
+  141805, 
+  [
+   0, 
+   1369, 
+   {
+    "raw_data": "Evolution", 
+    "quote_id": 11206, 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  142275, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "canadianman77", 
+    "quote_id": 142219, 
+    "author": "canadianman77"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "notsofast", 
+    "quote_id": 13851, 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   289, 
+   360, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   517, 
+   594, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   747, 
+   999, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   1272, 
+   1448, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   1976, 
+   2116, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   2353, 
+   2461, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   2597, 
+   2660, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   3191, 
+   3393, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   3482, 
+   3546, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   3640, 
+   3729, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   3844, 
+   3949, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   4461, 
+   4592, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   4914, 
+   4989, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   5038, 
+   5172, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   5918, 
+   5963, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   6157, 
+   6274, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   6359, 
+   6521, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   7128, 
+   7214, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  13863, 
+  [
+   7498, 
+   7608, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 13837, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  142910, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 142447, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  142401, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 142275, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  141890, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 141838, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  142219, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 141902, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  141902, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "canadianman77", 
+    "quote_id": 141890, 
+    "author": "canadianman77"
+   }
+  ]
+ ], 
+ [
+  11216, 
+  [
+   0, 
+   884, 
+   {
+    "raw_data": "Evolution", 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  14041, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "prometheus", 
+    "quote_id": 14033, 
+    "author": "prometheus"
+   }
+  ]
+ ], 
+ [
+  138407, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "biotron", 
+    "quote_id": 138392, 
+    "author": "biotron"
+   }
+  ]
+ ], 
+ [
+  11245, 
+  [
+   0, 
+   59, 
+   {
+    "quote_id": 11240, 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  142447, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "canadianman77", 
+    "quote_id": 142401, 
+    "author": "canadianman77"
+   }
+  ]
+ ], 
+ [
+  11248, 
+  [
+   251, 
+   309, 
+   {
+    "quote_id": 11206, 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  11248, 
+  [
+   605, 
+   644, 
+   {
+    "quote_id": 11206, 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  11248, 
+  [
+   778, 
+   903, 
+   {}
+  ]
+ ], 
+ [
+  11248, 
+  [
+   1354, 
+   1421, 
+   {
+    "quote_id": 11206, 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  11248, 
+  [
+   1441, 
+   1561, 
+   {}
+  ]
+ ], 
+ [
+  11248, 
+  [
+   1595, 
+   1676, 
+   {
+    "quote_id": 11206, 
+    "author": "Evolution"
+   }
+  ]
+ ], 
+ [
+  11248, 
+  [
+   1714, 
+   1749, 
+   {}
+  ]
+ ], 
+ [
+  11248, 
+  [
+   1844, 
+   1969, 
+   {}
+  ]
+ ]
+]

@@ -1,0 +1,109 @@
+[
+ [
+  344643, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Tither;344305", 
+    "quote_id": 344305, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  344305, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "TRIGGER;344264", 
+    "quote_id": 344264, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  344264, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Tither;344127", 
+    "quote_id": 344127, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  344649, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "TRIGGER;344264", 
+    "quote_id": 344264, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  344119, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Tither;344118", 
+    "quote_id": 344118, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  344272, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "isly ilwott;344119", 
+    "quote_id": 344119, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  344272, 
+  [
+   334, 
+   613, 
+   {
+    "quote_id": 344145, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  344118, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "isly ilwott;344115", 
+    "quote_id": 344115, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  344151, 
+  [
+   0, 
+   698, 
+   {
+    "raw_data": "NATO 556;344145", 
+    "quote_id": 344145, 
+    "author": "NATO 556"
+   }
+  ]
+ ]
+]

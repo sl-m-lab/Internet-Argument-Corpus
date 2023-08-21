@@ -1,0 +1,707 @@
+[
+ [
+  371585, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Winston Smith;371573", 
+    "quote_id": 371573, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372230, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "antonia;372179", 
+    "quote_id": 372179, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372230, 
+  [
+   307, 
+   331, 
+   {
+    "quote_id": 372179, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372230, 
+  [
+   682, 
+   738, 
+   {
+    "quote_id": 372179, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372112, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "antonia;372062", 
+    "quote_id": 372062, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372112, 
+  [
+   534, 
+   675, 
+   {
+    "quote_id": 372062, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372112, 
+  [
+   791, 
+   827, 
+   {
+    "quote_id": 372062, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372112, 
+  [
+   982, 
+   1074, 
+   {
+    "quote_id": 372062, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372112, 
+  [
+   1238, 
+   1274, 
+   {
+    "quote_id": 372062, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372500, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "antonia;372428", 
+    "quote_id": 372428, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372500, 
+  [
+   419, 
+   431, 
+   {
+    "quote_id": 372428, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372500, 
+  [
+   544, 
+   599, 
+   {}
+  ]
+ ], 
+ [
+  371360, 
+  [
+   0, 
+   681, 
+   {
+    "raw_data": "antonia;371332", 
+    "quote_id": 371332, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371492, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "antonia;371332", 
+    "quote_id": 371332, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372519, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Winston Smith;372500", 
+    "quote_id": 372500, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372519, 
+  [
+   156, 
+   227, 
+   {
+    "quote_id": 372500, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372519, 
+  [
+   581, 
+   733, 
+   {
+    "quote_id": 372500, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372519, 
+  [
+   1066, 
+   1226, 
+   {
+    "quote_id": 372500, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372519, 
+  [
+   1344, 
+   1440, 
+   {
+    "quote_id": 372500, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  374190, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Easyrider;371544", 
+    "quote_id": 371544, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  371761, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "antonia;371689", 
+    "quote_id": 371689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371761, 
+  [
+   194, 
+   280, 
+   {
+    "quote_id": 371689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371761, 
+  [
+   466, 
+   915, 
+   {
+    "quote_id": 371689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371761, 
+  [
+   1001, 
+   1147, 
+   {
+    "quote_id": 371689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371761, 
+  [
+   1220, 
+   1397, 
+   {
+    "quote_id": 371689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  371761, 
+  [
+   2245, 
+   2423, 
+   {
+    "quote_id": 371689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  373044, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Baron;373039", 
+    "quote_id": 373039, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  373044, 
+  [
+   302, 
+   360, 
+   {
+    "quote_id": 373039, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  372427, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "JPSartre12;372317", 
+    "quote_id": 372317, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  372428, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Winston Smith;372334", 
+    "quote_id": 372334, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372428, 
+  [
+   339, 
+   500, 
+   {
+    "quote_id": 372334, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372428, 
+  [
+   537, 
+   617, 
+   {
+    "quote_id": 372334, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372428, 
+  [
+   674, 
+   725, 
+   {
+    "quote_id": 372334, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372687, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "Winston Smith;372671", 
+    "quote_id": 372671, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372179, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Winston Smith;372112", 
+    "quote_id": 372112, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372179, 
+  [
+   658, 
+   764, 
+   {
+    "quote_id": 372112, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372179, 
+  [
+   913, 
+   1058, 
+   {
+    "quote_id": 372112, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372179, 
+  [
+   1323, 
+   1406, 
+   {
+    "quote_id": 372112, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372179, 
+  [
+   1440, 
+   1466, 
+   {
+    "quote_id": 372112, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372180, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Winston Smith;372113", 
+    "quote_id": 372113, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372315, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Winston Smith;372230", 
+    "quote_id": 372230, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372315, 
+  [
+   467, 
+   808, 
+   {
+    "quote_id": 372230, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372315, 
+  [
+   1129, 
+   1454, 
+   {
+    "quote_id": 372230, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372315, 
+  [
+   1880, 
+   1947, 
+   {
+    "quote_id": 372230, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372317, 
+  [
+   0, 
+   1079, 
+   {
+    "raw_data": "antonia;372315", 
+    "quote_id": 372315, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372062, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Winston Smith;371761", 
+    "quote_id": 371761, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372062, 
+  [
+   425, 
+   599, 
+   {
+    "quote_id": 371761, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372062, 
+  [
+   749, 
+   825, 
+   {
+    "quote_id": 371761, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372062, 
+  [
+   871, 
+   934, 
+   {
+    "quote_id": 371761, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372062, 
+  [
+   1036, 
+   1140, 
+   {
+    "quote_id": 371761, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372709, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "antonia;372687", 
+    "quote_id": 372687, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372707, 
+  [
+   0, 
+   1125, 
+   {
+    "raw_data": "antonia;372689", 
+    "quote_id": 372689, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  372327, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "JPSartre12;372317", 
+    "quote_id": 372317, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371689, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Winston Smith;371673", 
+    "quote_id": 371673, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  371689, 
+  [
+   286, 
+   311, 
+   {
+    "quote_id": 371673, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  371689, 
+  [
+   432, 
+   675, 
+   {
+    "quote_id": 371673, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  371689, 
+  [
+   771, 
+   1006, 
+   {
+    "quote_id": 371673, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  371689, 
+  [
+   1796, 
+   1876, 
+   {
+    "quote_id": 371673, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  373031, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Winston Smith;372891", 
+    "quote_id": 372891, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  372334, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "antonia;372315", 
+    "quote_id": 372315, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  374131, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Mintaka;373736", 
+    "quote_id": 373736, 
+    "author": "Mintaka"
+   }
+  ]
+ ], 
+ [
+  372858, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "Winston Smith;372707", 
+    "quote_id": 372707, 
+    "author": "Winston Smith"
+   }
+  ]
+ ]
+]

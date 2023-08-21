@@ -1,0 +1,619 @@
+[
+ [
+  29444, 
+  [
+   15, 
+   136, 
+   {
+    "quote_id": 29414, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29444, 
+  [
+   495, 
+   602, 
+   {
+    "quote_id": 29414, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29444, 
+  [
+   840, 
+   956, 
+   {
+    "quote_id": 29414, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29444, 
+  [
+   1092, 
+   1311, 
+   {
+    "quote_id": 29414, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29444, 
+  [
+   1413, 
+   1771, 
+   {
+    "quote_id": 29414, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29444, 
+  [
+   2137, 
+   2384, 
+   {
+    "quote_id": 29414, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  34860, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 29239, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  34860, 
+  [
+   312, 
+   362, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 29239, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29326, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29254, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29469, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29469, 
+  [
+   514, 
+   643, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29444, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29469, 
+  [
+   671, 
+   818, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29444, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29469, 
+  [
+   1330, 
+   1458, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29469, 
+  [
+   1720, 
+   1813, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29469, 
+  [
+   1844, 
+   2199, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   0, 
+   273, 
+   {
+    "quote_id": 29469, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   297, 
+   443, 
+   {
+    "quote_id": 29469, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   490, 
+   508, 
+   {
+    "quote_id": 29469, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   576, 
+   683, 
+   {
+    "quote_id": 29469, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   801, 
+   858, 
+   {
+    "quote_id": 29469, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   895, 
+   916, 
+   {
+    "quote_id": 29469, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29471, 
+  [
+   1051, 
+   1177, 
+   {}
+  ]
+ ], 
+ [
+  29347, 
+  [
+   27, 
+   61, 
+   {
+    "quote_id": 29265, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29347, 
+  [
+   67, 
+   119, 
+   {
+    "quote_id": 29326, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29476, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29471, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29476, 
+  [
+   166, 
+   267, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29476, 
+  [
+   907, 
+   1006, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29471, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29477, 
+  [
+   0, 
+   120, 
+   {
+    "quote_id": 29476, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29477, 
+  [
+   1107, 
+   1231, 
+   {
+    "quote_id": 29476, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29477, 
+  [
+   1401, 
+   1463, 
+   {
+    "quote_id": 29476, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29351, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29356, 
+  [
+   0, 
+   523, 
+   {
+    "quote_id": 29351, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29356, 
+  [
+   747, 
+   1050, 
+   {
+    "quote_id": 29351, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29616, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29466, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29745, 
+  [
+   0, 
+   766, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 29616, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29492, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "SilentPoet", 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29492, 
+  [
+   517, 
+   536, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29477, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29243, 
+  [
+   0, 
+   542, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29244, 
+  [
+   0, 
+   80, 
+   {
+    "quote_id": 29239, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29376, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29356, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29249, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29244, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29249, 
+  [
+   190, 
+   280, 
+   {}
+  ]
+ ], 
+ [
+  29254, 
+  [
+   0, 
+   73, 
+   {
+    "quote_id": 29249, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  34503, 
+  [
+   0, 
+   824, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 34433, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  29257, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29254, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29258, 
+  [
+   0, 
+   50, 
+   {
+    "quote_id": 29257, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29392, 
+  [
+   0, 
+   127, 
+   {
+    "quote_id": 29376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  29265, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29258, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  30551, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 29239, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  34523, 
+  [
+   0, 
+   543, 
+   {}
+  ]
+ ], 
+ [
+  34527, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 34503, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  29414, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29392, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29414, 
+  [
+   224, 
+   299, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29392, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  29414, 
+  [
+   416, 
+   616, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 29392, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  34797, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "mizmaxx", 
+    "quote_id": 34523, 
+    "author": "mizmaxx"
+   }
+  ]
+ ]
+]

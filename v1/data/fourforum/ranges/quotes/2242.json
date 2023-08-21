@@ -1,0 +1,141 @@
+[
+ [
+  45506, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 45493, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  45506, 
+  [
+   903, 
+   1182, 
+   {
+    "quote_id": 45493, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  45506, 
+  [
+   1836, 
+   1979, 
+   {
+    "quote_id": 45493, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  45602, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 45506, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45602, 
+  [
+   948, 
+   1590, 
+   {
+    "quote_id": 45506, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45602, 
+  [
+   2067, 
+   2197, 
+   {
+    "quote_id": 45506, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45493, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 45488, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45590, 
+  [
+   0, 
+   1460, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 45488, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  45628, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 45602, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  45628, 
+  [
+   240, 
+   709, 
+   {
+    "quote_id": 45602, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  48478, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 47605, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  47605, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 45628, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

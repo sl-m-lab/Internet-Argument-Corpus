@@ -1,0 +1,764 @@
+[
+ [
+  410627, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Penfold;410593", 
+    "quote_id": 410593, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  410632, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Penfold;410593", 
+    "quote_id": 410593, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  410644, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Easyrider;410632", 
+    "quote_id": 410632, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  410645, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "pappillion001;410627", 
+    "quote_id": 410627, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  410973, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "theRVSG;410966", 
+    "quote_id": 410966, 
+    "author": "theRVSG"
+   }
+  ]
+ ], 
+ [
+  409881, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "Steeeeve;409855", 
+    "quote_id": 409855, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409881, 
+  [
+   963, 
+   1335, 
+   {
+    "quote_id": 409855, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409881, 
+  [
+   1502, 
+   1721, 
+   {
+    "quote_id": 409855, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409881, 
+  [
+   2077, 
+   2265, 
+   {
+    "quote_id": 409855, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409882, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "pappillion001;409881", 
+    "quote_id": 409881, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409882, 
+  [
+   1893, 
+   1975, 
+   {
+    "quote_id": 409881, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409882, 
+  [
+   2625, 
+   2971, 
+   {
+    "quote_id": 409881, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409882, 
+  [
+   3097, 
+   3557, 
+   {
+    "quote_id": 409881, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409245, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "jitobear;409172", 
+    "quote_id": 409172, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  409245, 
+  [
+   1276, 
+   1370, 
+   {
+    "quote_id": 409172, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  409245, 
+  [
+   1485, 
+   1610, 
+   {
+    "quote_id": 409172, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  409630, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Steeeeve;409053", 
+    "quote_id": 409053, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410657, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "pappillion001;410627", 
+    "quote_id": 410627, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  410661, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Steeeeve;410655", 
+    "quote_id": 410655, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410661, 
+  [
+   201, 
+   269, 
+   {
+    "quote_id": 410645, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  409126, 
+  [
+   0, 
+   996, 
+   {
+    "raw_data": "Jo Bennett;408989", 
+    "quote_id": 408989, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  410545, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "raych123;410542", 
+    "quote_id": 410542, 
+    "author": "raych123"
+   }
+  ]
+ ], 
+ [
+  410655, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Easyrider;410632", 
+    "quote_id": 410632, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Steeeeve;409670", 
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   2316, 
+   2585, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   3160, 
+   3263, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   3907, 
+   4138, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   4951, 
+   5158, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   5370, 
+   5412, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   5513, 
+   5653, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409789, 
+  [
+   6054, 
+   6201, 
+   {
+    "quote_id": 409670, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "pappillion001;409789", 
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   968, 
+   1101, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   1559, 
+   1764, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   1928, 
+   2145, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   2195, 
+   2397, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   2632, 
+   3021, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   3303, 
+   3775, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409794, 
+  [
+   3996, 
+   4205, 
+   {
+    "quote_id": 409789, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409669, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "CCR1994;409630", 
+    "quote_id": 409630, 
+    "author": "CCR1994"
+   }
+  ]
+ ], 
+ [
+  409670, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "pappillion001;409245", 
+    "quote_id": 409245, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409670, 
+  [
+   1369, 
+   1607, 
+   {
+    "quote_id": 409245, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409670, 
+  [
+   1655, 
+   1798, 
+   {
+    "quote_id": 409245, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409670, 
+  [
+   1945, 
+   2037, 
+   {
+    "quote_id": 409245, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409033, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "COBHC;408988", 
+    "quote_id": 408988, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  409033, 
+  [
+   2102, 
+   2271, 
+   {
+    "quote_id": 408988, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  409033, 
+  [
+   2596, 
+   2825, 
+   {
+    "quote_id": 408988, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  410570, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "raych123;410542", 
+    "quote_id": 410542, 
+    "author": "raych123"
+   }
+  ]
+ ], 
+ [
+  409423, 
+  [
+   0, 
+   169, 
+   {
+    "quote_id": 408988, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  409053, 
+  [
+   0, 
+   652, 
+   {
+    "raw_data": "COBHC;408988", 
+    "quote_id": 408988, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  410662, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "Steeeeve;410657", 
+    "quote_id": 410657, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Steeeeve;409794", 
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   891, 
+   1026, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   1615, 
+   2067, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   2075, 
+   2233, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   2508, 
+   2552, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   2649, 
+   2878, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   3645, 
+   3923, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   4066, 
+   4281, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409837, 
+  [
+   4887, 
+   5334, 
+   {
+    "quote_id": 409794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  409085, 
+  [
+   0, 
+   448, 
+   {
+    "raw_data": "Jo Bennett;408989", 
+    "quote_id": 408989, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  409085, 
+  [
+   1608, 
+   2152, 
+   {
+    "quote_id": 408989, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  409855, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "pappillion001;409837", 
+    "quote_id": 409837, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409855, 
+  [
+   891, 
+   1154, 
+   {
+    "quote_id": 409837, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409855, 
+  [
+   1532, 
+   1617, 
+   {
+    "quote_id": 409837, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409855, 
+  [
+   1643, 
+   2398, 
+   {
+    "quote_id": 409837, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  409855, 
+  [
+   2623, 
+   2982, 
+   {
+    "quote_id": 409837, 
+    "author": "pappillion001"
+   }
+  ]
+ ]
+]

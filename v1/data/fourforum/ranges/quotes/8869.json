@@ -1,0 +1,97 @@
+[
+ [
+  231014, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Symbiote;231002", 
+    "quote_id": 231002, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  231021, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "supersport;231014", 
+    "quote_id": 231014, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  231186, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Master_Shake;231060", 
+    "quote_id": 231060, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  231186, 
+  [
+   292, 
+   468, 
+   {
+    "raw_data": "Master_Shake;231060", 
+    "quote_id": 231060, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  231060, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "supersport;231000", 
+    "quote_id": 231000, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  231002, 
+  [
+   0, 
+   40, 
+   {
+    "quote_id": 231000, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  231196, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "supersport;231186", 
+    "quote_id": 231186, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  231199, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "supersport;231186", 
+    "quote_id": 231186, 
+    "author": "supersport"
+   }
+  ]
+ ]
+]

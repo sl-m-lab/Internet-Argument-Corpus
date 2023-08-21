@@ -1,0 +1,50 @@
+[
+ [
+  235591, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "simone;235574", 
+    "quote_id": 235574, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235593, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "daewoo;235591", 
+    "quote_id": 235591, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  235549, 
+  [
+   0, 
+   776, 
+   {
+    "raw_data": "simone;235406", 
+    "quote_id": 235406, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235409, 
+  [
+   0, 
+   778, 
+   {
+    "raw_data": "simone;235406", 
+    "quote_id": 235406, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

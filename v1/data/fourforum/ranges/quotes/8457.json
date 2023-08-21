@@ -1,0 +1,513 @@
+[
+ [
+  224522, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 224393, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  241231, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "emclean;221619", 
+    "quote_id": 221619, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  224279, 
+  [
+   0, 
+   354, 
+   {
+    "quote_id": 224201, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  224796, 
+  [
+   0, 
+   1057, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  233634, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "mae;233594", 
+    "quote_id": 233594, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  232612, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Love Never Dies;232456", 
+    "quote_id": 232456, 
+    "author": "Love Never Dies"
+   }
+  ]
+ ], 
+ [
+  232241, 
+  [
+   0, 
+   1385, 
+   {
+    "raw_data": "aussieseek.com;221274", 
+    "quote_id": 221274, 
+    "author": "aussieseek.com"
+   }
+  ]
+ ], 
+ [
+  233768, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Shooterandproud;233470", 
+    "quote_id": 233470, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  233388, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Love Never Dies;232456", 
+    "quote_id": 232456, 
+    "author": "Love Never Dies"
+   }
+  ]
+ ], 
+ [
+  224305, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "aussieseek.com", 
+    "author": "aussieseek.com"
+   }
+  ]
+ ], 
+ [
+  224305, 
+  [
+   211, 
+   264, 
+   {
+    "quote_id": 221274, 
+    "author": "aussieseek.com"
+   }
+  ]
+ ], 
+ [
+  224305, 
+  [
+   400, 
+   594, 
+   {
+    "quote_id": 221274, 
+    "author": "aussieseek.com"
+   }
+  ]
+ ], 
+ [
+  233522, 
+  [
+   0, 
+   82, 
+   {}
+  ]
+ ], 
+ [
+  221619, 
+  [
+   0, 
+   149, 
+   {}
+  ]
+ ], 
+ [
+  221619, 
+  [
+   356, 
+   478, 
+   {}
+  ]
+ ], 
+ [
+  221619, 
+  [
+   1015, 
+   1068, 
+   {}
+  ]
+ ], 
+ [
+  225717, 
+  [
+   0, 
+   434, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  225718, 
+  [
+   0, 
+   2829, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 224954, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  233783, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "pickleweaseler;233768", 
+    "quote_id": 233768, 
+    "author": "pickleweaseler"
+   }
+  ]
+ ], 
+ [
+  224442, 
+  [
+   268, 
+   780, 
+   {
+    "quote_id": 224364, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  225728, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 224796, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  224330, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "ray", 
+    "quote_id": 224267, 
+    "author": "ray"
+   }
+  ]
+ ], 
+ [
+  224333, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 224330, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  224337, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "ray", 
+    "quote_id": 224333, 
+    "author": "ray"
+   }
+  ]
+ ], 
+ [
+  224337, 
+  [
+   181, 
+   396, 
+   {
+    "raw_data": "ray", 
+    "quote_id": 224333, 
+    "author": "ray"
+   }
+  ]
+ ], 
+ [
+  224337, 
+  [
+   534, 
+   651, 
+   {
+    "raw_data": "ray", 
+    "quote_id": 224333, 
+    "author": "ray"
+   }
+  ]
+ ], 
+ [
+  224337, 
+  [
+   716, 
+   917, 
+   {
+    "raw_data": "ray", 
+    "quote_id": 224333, 
+    "author": "ray"
+   }
+  ]
+ ], 
+ [
+  232402, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Love Never Dies;232271", 
+    "quote_id": 232271, 
+    "author": "Love Never Dies"
+   }
+  ]
+ ], 
+ [
+  224467, 
+  [
+   0, 
+   33, 
+   {}
+  ]
+ ], 
+ [
+  224467, 
+  [
+   206, 
+   274, 
+   {
+    "quote_id": 224393, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  224868, 
+  [
+   136, 
+   228, 
+   {
+    "raw_data": "Bryan", 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  224868, 
+  [
+   418, 
+   902, 
+   {
+    "raw_data": "Bryan", 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  224868, 
+  [
+   1672, 
+   1753, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 224796, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  224357, 
+  [
+   0, 
+   347, 
+   {
+    "quote_id": 224333, 
+    "author": "ray"
+   }
+  ]
+ ], 
+ [
+  224357, 
+  [
+   822, 
+   853, 
+   {
+    "quote_id": 224337, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  224103, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "aussieseek.com", 
+    "author": "aussieseek.com"
+   }
+  ]
+ ], 
+ [
+  224103, 
+  [
+   92, 
+   241, 
+   {}
+  ]
+ ], 
+ [
+  224103, 
+  [
+   308, 
+   392, 
+   {}
+  ]
+ ], 
+ [
+  224103, 
+  [
+   405, 
+   453, 
+   {}
+  ]
+ ], 
+ [
+  224103, 
+  [
+   598, 
+   688, 
+   {}
+  ]
+ ], 
+ [
+  224103, 
+  [
+   719, 
+   765, 
+   {}
+  ]
+ ], 
+ [
+  224103, 
+  [
+   846, 
+   911, 
+   {}
+  ]
+ ], 
+ [
+  224232, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 224211, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  224242, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 224232, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  224242, 
+  [
+   350, 
+   592, 
+   {}
+  ]
+ ], 
+ [
+  224242, 
+  [
+   278, 
+   1653, 
+   {}
+  ]
+ ], 
+ [
+  224211, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 224201, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  233470, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "pickleweaseler;233388", 
+    "quote_id": 233388, 
+    "author": "pickleweaseler"
+   }
+  ]
+ ]
+]

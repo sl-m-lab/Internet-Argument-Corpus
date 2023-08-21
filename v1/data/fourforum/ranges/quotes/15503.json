@@ -1,0 +1,431 @@
+[
+ [
+  436354, 
+  [
+   0, 
+   884, 
+   {
+    "raw_data": "Brutus;434843", 
+    "quote_id": 434843, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  436357, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Matthew S;436354", 
+    "quote_id": 436354, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  436364, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Matthew S;436354", 
+    "quote_id": 436354, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  436364, 
+  [
+   636, 
+   2233, 
+   {}
+  ]
+ ], 
+ [
+  436364, 
+  [
+   2640, 
+   2904, 
+   {}
+  ]
+ ], 
+ [
+  436364, 
+  [
+   2910, 
+   3024, 
+   {}
+  ]
+ ], 
+ [
+  436364, 
+  [
+   3030, 
+   3130, 
+   {}
+  ]
+ ], 
+ [
+  436364, 
+  [
+   3136, 
+   3287, 
+   {}
+  ]
+ ], 
+ [
+  436493, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "Steeeeve;436476", 
+    "quote_id": 436476, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436622, 
+  [
+   0, 
+   1240, 
+   {
+    "raw_data": "daewoo;436585", 
+    "quote_id": 436585, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436622, 
+  [
+   1356, 
+   1611, 
+   {
+    "quote_id": 436585, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436622, 
+  [
+   1855, 
+   2116, 
+   {
+    "quote_id": 436585, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436497, 
+  [
+   0, 
+   1012, 
+   {
+    "raw_data": "daewoo;436492", 
+    "quote_id": 436492, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436501, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "daewoo;436443", 
+    "quote_id": 436443, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436638, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Steeeeve;436622", 
+    "quote_id": 436622, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436638, 
+  [
+   384, 
+   622, 
+   {
+    "quote_id": 436622, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436638, 
+  [
+   641, 
+   740, 
+   {
+    "quote_id": 436622, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436527, 
+  [
+   0, 
+   1168, 
+   {
+    "raw_data": "Steeeeve;436497", 
+    "quote_id": 436497, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436528, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "E Mutz;436357", 
+    "quote_id": 436357, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  436552, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "daewoo;436527", 
+    "quote_id": 436527, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436552, 
+  [
+   1050, 
+   1443, 
+   {
+    "quote_id": 436527, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436552, 
+  [
+   1779, 
+   1853, 
+   {
+    "quote_id": 436527, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436552, 
+  [
+   1986, 
+   2062, 
+   {
+    "quote_id": 436527, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436492, 
+  [
+   0, 
+   603, 
+   {
+    "raw_data": "Steeeeve;436474", 
+    "quote_id": 436474, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436670, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "daewoo;436443", 
+    "quote_id": 436443, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436424, 
+  [
+   0, 
+   1230, 
+   {
+    "raw_data": "TRIGGER;436349", 
+    "quote_id": 436349, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  436425, 
+  [
+   0, 
+   861, 
+   {
+    "raw_data": "Symbiote;436364", 
+    "quote_id": 436364, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  436426, 
+  [
+   0, 
+   884, 
+   {
+    "raw_data": "Brutus;434843", 
+    "quote_id": 434843, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  436427, 
+  [
+   290, 
+   700, 
+   {}
+  ]
+ ], 
+ [
+  436428, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Symbiote;436427", 
+    "quote_id": 436427, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  436430, 
+  [
+   0, 
+   234, 
+   {}
+  ]
+ ], 
+ [
+  436441, 
+  [
+   0, 
+   733, 
+   {
+    "raw_data": "Symbiote;436430", 
+    "quote_id": 436430, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  436442, 
+  [
+   0, 
+   92, 
+   {
+    "quote_id": 436441, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  436443, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Symbiote;436442", 
+    "quote_id": 436442, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  436585, 
+  [
+   0, 
+   810, 
+   {
+    "raw_data": "Steeeeve;436552", 
+    "quote_id": 436552, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436585, 
+  [
+   980, 
+   1310, 
+   {
+    "quote_id": 436552, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436585, 
+  [
+   2560, 
+   2689, 
+   {
+    "quote_id": 436552, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436585, 
+  [
+   2954, 
+   3027, 
+   {
+    "quote_id": 436552, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  436476, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "daewoo;436443", 
+    "quote_id": 436443, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

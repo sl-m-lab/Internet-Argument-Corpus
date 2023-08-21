@@ -1,0 +1,666 @@
+[
+ [
+  424833, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Brady;424809", 
+    "quote_id": 424809, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  424833, 
+  [
+   153, 
+   184, 
+   {
+    "raw_data": "Brady;423903", 
+    "unknown_quote_id": 423903, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422018, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Xcaliber;422011", 
+    "quote_id": 422011, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  422018, 
+  [
+   314, 
+   367, 
+   {
+    "quote_id": 422011, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  422018, 
+  [
+   598, 
+   643, 
+   {
+    "quote_id": 422011, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  424835, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Tither;424833", 
+    "quote_id": 424833, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  422026, 
+  [
+   0, 
+   1125, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422026, 
+  [
+   1207, 
+   1234, 
+   {
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422413, 
+  [
+   0, 
+   2394, 
+   {
+    "raw_data": "Bryan;421984", 
+    "quote_id": 421984, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  422034, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Doc Jones;422015", 
+    "quote_id": 422015, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422034, 
+  [
+   1482, 
+   1687, 
+   {
+    "quote_id": 422015, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422042, 
+  [
+   0, 
+   897, 
+   {
+    "raw_data": "Superlite27;422038", 
+    "quote_id": 422038, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  422044, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "Tither;422039", 
+    "quote_id": 422039, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  422050, 
+  [
+   0, 
+   1925, 
+   {
+    "raw_data": "J Miro;422034", 
+    "quote_id": 422034, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422050, 
+  [
+   2152, 
+   2491, 
+   {
+    "quote_id": 422034, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422050, 
+  [
+   2716, 
+   2858, 
+   {
+    "quote_id": 422034, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422051, 
+  [
+   0, 
+   70, 
+   {}
+  ]
+ ], 
+ [
+  422051, 
+  [
+   176, 
+   251, 
+   {}
+  ]
+ ], 
+ [
+  422062, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422062, 
+  [
+   214, 
+   437, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422062, 
+  [
+   700, 
+   851, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422062, 
+  [
+   1064, 
+   1196, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422062, 
+  [
+   1302, 
+   1407, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422062, 
+  [
+   1460, 
+   1735, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422062, 
+  [
+   1811, 
+   1891, 
+   {
+    "raw_data": "J Miro;422018", 
+    "quote_id": 422018, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421944, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "J Miro;421943", 
+    "quote_id": 421943, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421947, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "J Miro;421943", 
+    "quote_id": 421943, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421949, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Pietro;421947", 
+    "quote_id": 421947, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421949, 
+  [
+   276, 
+   473, 
+   {
+    "quote_id": 421947, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421949, 
+  [
+   846, 
+   921, 
+   {}
+  ]
+ ], 
+ [
+  421949, 
+  [
+   970, 
+   1036, 
+   {
+    "quote_id": 421947, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421950, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "jyoshu;421944", 
+    "quote_id": 421944, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  421953, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "J Miro;421949", 
+    "quote_id": 421949, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421953, 
+  [
+   335, 
+   565, 
+   {
+    "quote_id": 421949, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421953, 
+  [
+   690, 
+   819, 
+   {
+    "quote_id": 421949, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421953, 
+  [
+   1043, 
+   1081, 
+   {
+    "quote_id": 421949, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421953, 
+  [
+   1156, 
+   1243, 
+   {
+    "quote_id": 421949, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  421953, 
+  [
+   1313, 
+   1435, 
+   {
+    "quote_id": 421949, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422410, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "jyoshu;421944", 
+    "quote_id": 421944, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  424866, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Tither;424833", 
+    "quote_id": 424833, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  421967, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "J Miro;421957", 
+    "quote_id": 421957, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422117, 
+  [
+   0, 
+   2414, 
+   {
+    "raw_data": "J Miro;422034", 
+    "quote_id": 422034, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  424811, 
+  [
+   576, 
+   1825, 
+   {
+    "raw_data": "Brady;424809", 
+    "quote_id": 424809, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422000, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "J Miro;421955", 
+    "quote_id": 421955, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422000, 
+  [
+   481, 
+   605, 
+   {
+    "quote_id": 421955, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422000, 
+  [
+   1002, 
+   1070, 
+   {
+    "quote_id": 421955, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422130, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Doc Jones;422119", 
+    "quote_id": 422119, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422132, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "zsu2357;422130", 
+    "quote_id": 422130, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  422133, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Doc Jones;422132", 
+    "quote_id": 422132, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422011, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "J Miro;421955", 
+    "quote_id": 421955, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422011, 
+  [
+   226, 
+   352, 
+   {
+    "raw_data": "J Miro;421955", 
+    "quote_id": 421955, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422011, 
+  [
+   416, 
+   486, 
+   {
+    "raw_data": "J Miro;421955", 
+    "quote_id": 421955, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422015, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "J Miro;422009", 
+    "quote_id": 422009, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422015, 
+  [
+   166, 
+   529, 
+   {
+    "quote_id": 422009, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422015, 
+  [
+   583, 
+   813, 
+   {
+    "quote_id": 422009, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422015, 
+  [
+   936, 
+   1408, 
+   {
+    "quote_id": 422009, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422015, 
+  [
+   1462, 
+   1639, 
+   {
+    "quote_id": 422009, 
+    "author": "J Miro"
+   }
+  ]
+ ], 
+ [
+  422015, 
+  [
+   1753, 
+   1911, 
+   {
+    "quote_id": 422009, 
+    "author": "J Miro"
+   }
+  ]
+ ]
+]

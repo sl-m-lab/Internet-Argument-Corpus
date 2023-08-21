@@ -1,0 +1,948 @@
+[
+ [
+  66701, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 66650, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  66701, 
+  [
+   640, 
+   1201, 
+   {}
+  ]
+ ], 
+ [
+  66701, 
+  [
+   1305, 
+   1560, 
+   {}
+  ]
+ ], 
+ [
+  67342, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67335, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67472, 
+  [
+   0, 
+   2382, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 67342, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  69848, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 69794, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  69848, 
+  [
+   476, 
+   889, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 69794, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  69848, 
+  [
+   1825, 
+   2108, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 69794, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  77358, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "pseudo", 
+    "quote_id": 77266, 
+    "author": "pseudo"
+   }
+  ]
+ ], 
+ [
+  77401, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "pseudo", 
+    "quote_id": 77390, 
+    "author": "pseudo"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   283, 
+   396, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   567, 
+   702, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   1080, 
+   1265, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   1666, 
+   2069, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   3126, 
+   4024, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   4471, 
+   4803, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   5066, 
+   5163, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   5267, 
+   5396, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72094, 
+  [
+   5408, 
+   5510, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72080, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  69794, 
+  [
+   0, 
+   192, 
+   {
+    "quote_id": 68607, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  69794, 
+  [
+   460, 
+   521, 
+   {
+    "quote_id": 68607, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67630, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67572, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67630, 
+  [
+   248, 
+   385, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67572, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67630, 
+  [
+   870, 
+   904, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67572, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67507, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67472, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67641, 
+  [
+   0, 
+   122, 
+   {
+    "quote_id": 67630, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67641, 
+  [
+   867, 
+   1225, 
+   {
+    "quote_id": 67630, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67641, 
+  [
+   1231, 
+   1342, 
+   {
+    "quote_id": 67630, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67641, 
+  [
+   1540, 
+   1551, 
+   {
+    "quote_id": 67630, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67641, 
+  [
+   1627, 
+   2682, 
+   {
+    "quote_id": 67342, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  77539, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "pseudo", 
+    "quote_id": 77410, 
+    "author": "pseudo"
+   }
+  ]
+ ], 
+ [
+  67647, 
+  [
+   0, 
+   528, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67641, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67647, 
+  [
+   1565, 
+   1772, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67641, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67647, 
+  [
+   2095, 
+   2171, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67641, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67647, 
+  [
+   2746, 
+   2858, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67641, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67647, 
+  [
+   2979, 
+   3041, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67641, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  77400, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "pseudo", 
+    "quote_id": 77391, 
+    "author": "pseudo"
+   }
+  ]
+ ], 
+ [
+  78882, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "pseudo", 
+    "quote_id": 78151, 
+    "author": "pseudo"
+   }
+  ]
+ ], 
+ [
+  77411, 
+  [
+   0, 
+   541, 
+   {
+    "raw_data": "&quot;sigmus&quot;", 
+    "quote_id": 72051, 
+    "unknown_author": "&quot", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  70744, 
+  [
+   0, 
+   206, 
+   {
+    "quote_id": 69848, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  70744, 
+  [
+   264, 
+   679, 
+   {
+    "quote_id": 69848, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  70744, 
+  [
+   789, 
+   1296, 
+   {
+    "quote_id": 69848, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  70744, 
+  [
+   1983, 
+   2162, 
+   {
+    "quote_id": 69848, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  70745, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 70744, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  70745, 
+  [
+   64, 
+   168, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 70744, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  70745, 
+  [
+   426, 
+   615, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 70744, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  70745, 
+  [
+   1231, 
+   1609, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 70744, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  70745, 
+  [
+   2344, 
+   2454, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 70744, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  70745, 
+  [
+   2548, 
+   2682, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 70744, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   0, 
+   183, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   189, 
+   246, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   359, 
+   554, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   673, 
+   717, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   858, 
+   1019, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   1210, 
+   1978, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   3287, 
+   3308, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   3646, 
+   3807, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   3910, 
+   4111, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72080, 
+  [
+   4246, 
+   4787, 
+   {
+    "quote_id": 72051, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67811, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67806, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72038, 
+  [
+   0, 
+   391, 
+   {
+    "quote_id": 70745, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72038, 
+  [
+   465, 
+   1064, 
+   {
+    "quote_id": 70745, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72038, 
+  [
+   1253, 
+   1375, 
+   {
+    "quote_id": 70745, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72038, 
+  [
+   1489, 
+   1573, 
+   {
+    "quote_id": 70745, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72038, 
+  [
+   2026, 
+   2119, 
+   {
+    "quote_id": 70745, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67565, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 67507, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67569, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 67565, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72051, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72038, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72051, 
+  [
+   726, 
+   909, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72038, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72051, 
+  [
+   1687, 
+   1794, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72038, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72051, 
+  [
+   1987, 
+   2434, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 72038, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  72051, 
+  [
+   2645, 
+   3158, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  67572, 
+  [
+   0, 
+   335, 
+   {
+    "quote_id": 67569, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67572, 
+  [
+   459, 
+   1021, 
+   {
+    "quote_id": 67569, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  67572, 
+  [
+   1164, 
+   1616, 
+   {
+    "quote_id": 67569, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  68602, 
+  [
+   0, 
+   463, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 67811, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  68602, 
+  [
+   943, 
+   1045, 
+   {
+    "quote_id": 67342, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  68607, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 68602, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  68607, 
+  [
+   445, 
+   753, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 68602, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  68607, 
+  [
+   1051, 
+   1460, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 68602, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  68607, 
+  [
+   1923, 
+   1978, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 68602, 
+    "author": "maximus"
+   }
+  ]
+ ]
+]

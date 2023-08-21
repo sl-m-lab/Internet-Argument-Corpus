@@ -1,0 +1,485 @@
+[
+ [
+  312109, 
+  [
+   0, 
+   1227, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  312109, 
+  [
+   0, 
+   1227, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  312109, 
+  [
+   0, 
+   1227, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Comic Sans MS&quot;"
+   }
+  ]
+ ], 
+ [
+  312109, 
+  [
+   0, 
+   1227, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  312109, 
+  [
+   0, 
+   1227, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  312109, 
+  [
+   0, 
+   1227, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  417040, 
+  [
+   616, 
+   621, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  315297, 
+  [
+   39, 
+   71, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  315297, 
+  [
+   39, 
+   71, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  315297, 
+  [
+   72, 
+   92, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  315297, 
+  [
+   72, 
+   92, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   0, 
+   25, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   0, 
+   25, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;6&quot;"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   0, 
+   25, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Comic Sans MS&quot;"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   0, 
+   25, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   27, 
+   624, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   27, 
+   624, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   27, 
+   624, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Comic Sans MS&quot;"
+   }
+  ]
+ ], 
+ [
+  299555, 
+  [
+   27, 
+   624, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  300870, 
+  [
+   12, 
+   92, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  299329, 
+  [
+   39, 
+   71, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  299329, 
+  [
+   39, 
+   71, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  299329, 
+  [
+   72, 
+   92, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  299329, 
+  [
+   72, 
+   92, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  300102, 
+  [
+   0, 
+   3, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  300102, 
+  [
+   0, 
+   3, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  300102, 
+  [
+   0, 
+   3, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  299335, 
+  [
+   39, 
+   71, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  299335, 
+  [
+   39, 
+   71, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  299335, 
+  [
+   72, 
+   92, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  299335, 
+  [
+   72, 
+   92, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  300280, 
+  [
+   15, 
+   18, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  313180, 
+  [
+   685, 
+   691, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  300259, 
+  [
+   0, 
+   1420, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  300259, 
+  [
+   0, 
+   1420, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  300259, 
+  [
+   0, 
+   1420, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Comic Sans MS&quot;"
+   }
+  ]
+ ], 
+ [
+  300259, 
+  [
+   0, 
+   1420, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  299364, 
+  [
+   39, 
+   71, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  299364, 
+  [
+   39, 
+   71, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  299364, 
+  [
+   72, 
+   92, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  299364, 
+  [
+   72, 
+   92, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  300261, 
+  [
+   86, 
+   89, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  312741, 
+  [
+   161, 
+   186, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;White&quot;"
+   }
+  ]
+ ], 
+ [
+  312741, 
+  [
+   161, 
+   186, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;1&quot;"
+   }
+  ]
+ ], 
+ [
+  349161, 
+  [
+   558, 
+   607, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  300538, 
+  [
+   187, 
+   190, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

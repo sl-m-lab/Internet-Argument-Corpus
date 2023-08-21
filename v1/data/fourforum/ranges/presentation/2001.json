@@ -1,0 +1,75 @@
+[
+ [
+  40736, 
+  [
+   31, 
+   56, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  40736, 
+  [
+   164, 
+   168, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  40736, 
+  [
+   263, 
+   267, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  40736, 
+  [
+   280, 
+   288, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  40736, 
+  [
+   293, 
+   298, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  40736, 
+  [
+   289, 
+   317, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  40875, 
+  [
+   103, 
+   108, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ]
+]

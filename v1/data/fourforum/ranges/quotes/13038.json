@@ -1,0 +1,193 @@
+[
+ [
+  363398, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "chester;363324", 
+    "quote_id": 363324, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  362762, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "simone;362657", 
+    "quote_id": 362657, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  363787, 
+  [
+   8, 
+   45, 
+   {
+    "raw_data": "chester;363746", 
+    "quote_id": 363746, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  363787, 
+  [
+   632, 
+   678, 
+   {
+    "quote_id": 363746, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  362902, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "simone;362884", 
+    "quote_id": 362884, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  363163, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "simone;363043", 
+    "quote_id": 363043, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  362655, 
+  [
+   82, 
+   695, 
+   {}
+  ]
+ ], 
+ [
+  362655, 
+  [
+   716, 
+   2306, 
+   {}
+  ]
+ ], 
+ [
+  363043, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "CUNxTime;362962", 
+    "quote_id": 362962, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  363786, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "simone;363223", 
+    "quote_id": 363223, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  363746, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "CUNxTime;363398", 
+    "quote_id": 363398, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364142, 
+  [
+   24, 
+   596, 
+   {
+    "quote_id": 363787, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364142, 
+  [
+   1048, 
+   1253, 
+   {
+    "quote_id": 363787, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  363130, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "simone;363043", 
+    "quote_id": 363043, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364159, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "chester;364142", 
+    "quote_id": 364142, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  364159, 
+  [
+   168, 
+   388, 
+   {
+    "quote_id": 364142, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  364159, 
+  [
+   1230, 
+   1442, 
+   {
+    "quote_id": 364142, 
+    "author": "chester"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,70 @@
+[
+ [
+  88675, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 88668, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  88717, 
+  [
+   0, 
+   664, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 88675, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88721, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 88717, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  88566, 
+  [
+   127, 
+   1321, 
+   {}
+  ]
+ ], 
+ [
+  88823, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 88721, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  88826, 
+  [
+   0, 
+   901, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 88823, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

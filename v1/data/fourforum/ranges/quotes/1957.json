@@ -1,0 +1,47 @@
+[
+ [
+  40008, 
+  [
+   0, 
+   171, 
+   {
+    "quote_id": 39765, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  40008, 
+  [
+   226, 
+   572, 
+   {
+    "quote_id": 39765, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  40011, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 40008, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  40011, 
+  [
+   931, 
+   1019, 
+   {
+    "quote_id": 40008, 
+    "author": "rapture"
+   }
+  ]
+ ]
+]

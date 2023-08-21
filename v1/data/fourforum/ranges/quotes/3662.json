@@ -1,0 +1,50 @@
+[
+ [
+  75857, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75741, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75755, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75748, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75748, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75741, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  75741, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 75678, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

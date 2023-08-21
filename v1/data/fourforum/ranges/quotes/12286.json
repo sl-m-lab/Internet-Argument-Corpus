@@ -1,0 +1,615 @@
+[
+ [
+  343820, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "CUNxTime;343791", 
+    "quote_id": 343791, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343662, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "ocoee;342443", 
+    "quote_id": 342443, 
+    "author": "ocoee"
+   }
+  ]
+ ], 
+ [
+  343662, 
+  [
+   186, 
+   326, 
+   {
+    "raw_data": "chester;342445", 
+    "quote_id": 342445, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343662, 
+  [
+   332, 
+   997, 
+   {
+    "raw_data": "ocoee;342447", 
+    "quote_id": 342447, 
+    "author": "ocoee"
+   }
+  ]
+ ], 
+ [
+  343662, 
+  [
+   1003, 
+   1167, 
+   {
+    "raw_data": "chester;342870", 
+    "quote_id": 342870, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343662, 
+  [
+   1471, 
+   1650, 
+   {
+    "quote_id": 342870, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343574, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "CUNxTime;343534", 
+    "quote_id": 343534, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343574, 
+  [
+   486, 
+   661, 
+   {
+    "quote_id": 343534, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  342445, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "ocoee;342443", 
+    "quote_id": 342443, 
+    "author": "ocoee"
+   }
+  ]
+ ], 
+ [
+  343994, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "chester;342870", 
+    "quote_id": 342870, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343994, 
+  [
+   353, 
+   752, 
+   {
+    "raw_data": "T.Q;343820", 
+    "quote_id": 343820, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "chester;343774", 
+    "quote_id": 343774, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   1021, 
+   1201, 
+   {
+    "raw_data": "ocoee;342443", 
+    "quote_id": 342443, 
+    "author": "ocoee"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   1207, 
+   1347, 
+   {
+    "raw_data": "chester;342445", 
+    "quote_id": 342445, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   1353, 
+   2018, 
+   {
+    "raw_data": "ocoee;342447", 
+    "quote_id": 342447, 
+    "author": "ocoee"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   2024, 
+   2188, 
+   {
+    "raw_data": "chester;342870", 
+    "quote_id": 342870, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   2492, 
+   2671, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 342870, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343874, 
+  [
+   1021, 
+   3535, 
+   {
+    "raw_data": "Archangel Post 19", 
+    "unknown_author": "Archangel Post 19"
+   }
+  ]
+ ], 
+ [
+  344004, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "Archangel;343994", 
+    "quote_id": 343994, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  343888, 
+  [
+   0, 
+   195, 
+   {}
+  ]
+ ], 
+ [
+  343888, 
+  [
+   201, 
+   237, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 343513, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343636, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "T.Q;343574", 
+    "quote_id": 343574, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  342870, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "ocoee;342447", 
+    "quote_id": 342447, 
+    "author": "ocoee"
+   }
+  ]
+ ], 
+ [
+  343513, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "chester;342870", 
+    "quote_id": 342870, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343516, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "CUNxTime;343513", 
+    "quote_id": 343513, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  343650, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "CUNxTime;343636", 
+    "quote_id": 343636, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "T.Q;344004", 
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   287, 
+   513, 
+   {
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   806, 
+   1372, 
+   {
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   1801, 
+   1941, 
+   {
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   2343, 
+   2706, 
+   {
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   2791, 
+   3102, 
+   {
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344041, 
+  [
+   3935, 
+   4145, 
+   {
+    "quote_id": 344004, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Archangel;344041", 
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   230, 
+   294, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   372, 
+   482, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   591, 
+   698, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   829, 
+   982, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   994, 
+   1060, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   1203, 
+   1401, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   1446, 
+   1628, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   1742, 
+   1955, 
+   {}
+  ]
+ ], 
+ [
+  344054, 
+  [
+   1977, 
+   2052, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   2125, 
+   2172, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   2432, 
+   2658, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   2704, 
+   2778, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   2813, 
+   3133, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   3421, 
+   3570, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344054, 
+  [
+   3648, 
+   4227, 
+   {
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  344057, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "T.Q;344054", 
+    "quote_id": 344054, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344057, 
+  [
+   697, 
+   847, 
+   {}
+  ]
+ ], 
+ [
+  344057, 
+  [
+   1492, 
+   1556, 
+   {
+    "quote_id": 344054, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344057, 
+  [
+   1758, 
+   1968, 
+   {
+    "raw_data": "tq", 
+    "quote_id": 344004, 
+    "unknown_author": "tq", 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  344057, 
+  [
+   2003, 
+   2566, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 344041, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

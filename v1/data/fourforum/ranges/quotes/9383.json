@@ -1,0 +1,235 @@
+[
+ [
+  245574, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Sigma;245551", 
+    "quote_id": 245551, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  245574, 
+  [
+   261, 
+   374, 
+   {
+    "quote_id": 245551, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  245516, 
+  [
+   0, 
+   402, 
+   {
+    "quote_id": 245511, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  245516, 
+  [
+   572, 
+   777, 
+   {
+    "raw_data": "Another opinion;245511", 
+    "quote_id": 245511, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  245511, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "nocturnal09;245202", 
+    "quote_id": 245202, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  245581, 
+  [
+   0, 
+   1027, 
+   {
+    "raw_data": "Another opinion;245531", 
+    "quote_id": 245531, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  245581, 
+  [
+   1271, 
+   1945, 
+   {
+    "quote_id": 245531, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  245597, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "daewoo;245581", 
+    "quote_id": 245581, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245551, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 245434, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245551, 
+  [
+   356, 
+   629, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 245516, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245201, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "nocturnal09;245194", 
+    "quote_id": 245194, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  245203, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "nocturnal09;245202", 
+    "quote_id": 245202, 
+    "author": "nocturnal09"
+   }
+  ]
+ ], 
+ [
+  245590, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "daewoo;245574", 
+    "quote_id": 245574, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245590, 
+  [
+   356, 
+   488, 
+   {
+    "raw_data": "daewoo;245574", 
+    "quote_id": 245574, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245590, 
+  [
+   742, 
+   1012, 
+   {
+    "raw_data": "daewoo;245574", 
+    "quote_id": 245574, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245434, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "electrolyte;245225", 
+    "quote_id": 245225, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  245531, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "daewoo;245516", 
+    "quote_id": 245516, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245586, 
+  [
+   0, 
+   615, 
+   {
+    "raw_data": "daewoo;245574", 
+    "quote_id": 245574, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  245586, 
+  [
+   1010, 
+   2171, 
+   {}
+  ]
+ ], 
+ [
+  245245, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "electrolyte;245225", 
+    "quote_id": 245225, 
+    "author": "electrolyte"
+   }
+  ]
+ ]
+]

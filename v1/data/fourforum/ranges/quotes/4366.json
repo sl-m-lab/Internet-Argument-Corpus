@@ -1,0 +1,878 @@
+[
+ [
+  93059, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 93034, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  93445, 
+  [
+   0, 
+   543, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93438, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  93445, 
+  [
+   1309, 
+   1388, 
+   {
+    "quote_id": 93438, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  93825, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93514, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93448, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 93441, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  93321, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 93310, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  93450, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93445, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  96254, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 95465, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  93326, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 93321, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  93840, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93825, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93955, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93929, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  94231, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 94177, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  94231, 
+  [
+   2973, 
+   3087, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 94177, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  94492, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 94231, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  94495, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 94178, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  94497, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 94495, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  93346, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93293, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93349, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93274, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  94502, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 94497, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  93873, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 93840, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  94504, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 94231, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  94504, 
+  [
+   101, 
+   133, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 94492, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  94507, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 94502, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  93438, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93433, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93438, 
+  [
+   1013, 
+   1094, 
+   {
+    "quote_id": 93433, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  96564, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 96254, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  93961, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93929, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93428, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 93427, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93514, 
+  [
+   0, 
+   1084, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  93886, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93873, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93248, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 93230, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93505, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93445, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93505, 
+  [
+   663, 
+   818, 
+   {
+    "raw_data": "heavenbound", 
+    "quote_id": 93445, 
+    "unknown_author": "heavenbound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93505, 
+  [
+   1233, 
+   1331, 
+   {
+    "quote_id": 93445, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93505, 
+  [
+   1502, 
+   1668, 
+   {
+    "quote_id": 93445, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93250, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93248, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93252, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 93250, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  95465, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 94504, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  93128, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 93059, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  93386, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 93346, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93386, 
+  [
+   329, 
+   448, 
+   {
+    "quote_id": 93346, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93515, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93514, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93265, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93248, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  95958, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 94519, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  94519, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 94495, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   293, 
+   473, 
+   {
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   619, 
+   813, 
+   {
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   900, 
+   1260, 
+   {
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   1334, 
+   2426, 
+   {
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   2530, 
+   2696, 
+   {
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93274, 
+  [
+   2792, 
+   2956, 
+   {
+    "quote_id": 93265, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  94175, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 93034, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  93024, 
+  [
+   1912, 
+   1990, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93024, 
+  [
+   2120, 
+   2181, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93024, 
+  [
+   2375, 
+   2458, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93024, 
+  [
+   3263, 
+   3364, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93024, 
+  [
+   3763, 
+   3912, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93024, 
+  [
+   5192, 
+   5260, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  94177, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93929, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  94178, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 94177, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  93929, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93886, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  95468, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 94497, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  93293, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93422, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 93024, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93295, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "HeavenBound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  93427, 
+  [
+   0, 
+   5913, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  93429, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 93427, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93431, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93429, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  95992, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Silent_eko", 
+    "quote_id": 95958, 
+    "author": "Silent_eko"
+   }
+  ]
+ ], 
+ [
+  93433, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93429, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  93433, 
+  [
+   504, 
+   611, 
+   {}
+  ]
+ ], 
+ [
+  93434, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 93431, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  93947, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93886, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  93310, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 93248, 
+    "author": "HeavenBound"
+   }
+  ]
+ ]
+]

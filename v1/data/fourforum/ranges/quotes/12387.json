@@ -1,0 +1,60 @@
+[
+ [
+  345057, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "trebor;345055", 
+    "quote_id": 345055, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  345107, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Simone", 
+    "quote_id": 345012, 
+    "unknown_author": "Simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  345107, 
+  [
+   140, 
+   483, 
+   {
+    "raw_data": "Isly", 
+    "quote_id": 345027, 
+    "unknown_author": "Isly", 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  345012, 
+  [
+   18, 
+   866, 
+   {}
+  ]
+ ], 
+ [
+  345055, 
+  [
+   0, 
+   900, 
+   {
+    "raw_data": "isly ilwott;345027", 
+    "quote_id": 345027, 
+    "author": "isly ilwott"
+   }
+  ]
+ ]
+]

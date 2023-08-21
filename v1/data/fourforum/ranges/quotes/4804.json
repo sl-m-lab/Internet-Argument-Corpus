@@ -1,0 +1,323 @@
+[
+ [
+  107016, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107002, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107025, 
+  [
+   0, 
+   999, 
+   {
+    "raw_data": "Vitalij", 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107032, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107016, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107035, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 107025, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  106656, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 106611, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  106658, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 106656, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  107044, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107032, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107044, 
+  [
+   580, 
+   1077, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107032, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107044, 
+  [
+   1330, 
+   1588, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107032, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107055, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107044, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107055, 
+  [
+   412, 
+   657, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107044, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107055, 
+  [
+   1623, 
+   1875, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107044, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107062, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107055, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107062, 
+  [
+   403, 
+   739, 
+   {
+    "quote_id": 107055, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107062, 
+  [
+   1176, 
+   1464, 
+   {
+    "quote_id": 107055, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107064, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107035, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107070, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 107064, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  107071, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107070, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107074, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 107071, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  107079, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107074, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107081, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107062, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107083, 
+  [
+   0, 
+   643, 
+   {
+    "raw_data": "Vitalij", 
+    "quote_id": 107081, 
+    "author": "Vitalij"
+   }
+  ]
+ ], 
+ [
+  107090, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107079, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107090, 
+  [
+   193, 
+   286, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 107083, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  107002, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 106656, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  107002, 
+  [
+   659, 
+   741, 
+   {
+    "raw_data": "VTCruiser", 
+    "quote_id": 106658, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  106621, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 106615, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ]
+]

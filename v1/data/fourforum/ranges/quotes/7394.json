@@ -1,0 +1,596 @@
+[
+ [
+  193926, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193895, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193926, 
+  [
+   214, 
+   678, 
+   {}
+  ]
+ ], 
+ [
+  193799, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193799, 
+  [
+   478, 
+   565, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193799, 
+  [
+   790, 
+   1186, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193799, 
+  [
+   1648, 
+   1973, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193799, 
+  [
+   2177, 
+   2291, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  194061, 
+  [
+   0, 
+   661, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193949, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193809, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "VTCruiser", 
+    "quote_id": 193799, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193809, 
+  [
+   470, 
+   544, 
+   {
+    "quote_id": 193799, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193809, 
+  [
+   705, 
+   835, 
+   {
+    "quote_id": 193799, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193809, 
+  [
+   967, 
+   1308, 
+   {
+    "quote_id": 193799, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193809, 
+  [
+   1718, 
+   1807, 
+   {
+    "quote_id": 193799, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193809, 
+  [
+   2250, 
+   2358, 
+   {
+    "quote_id": 193799, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193683, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193821, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193809, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193821, 
+  [
+   514, 
+   663, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193809, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193821, 
+  [
+   966, 
+   1087, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193809, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193821, 
+  [
+   1255, 
+   1655, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193809, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193821, 
+  [
+   2131, 
+   2565, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193809, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193821, 
+  [
+   2625, 
+   2800, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193809, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193823, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193820, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193823, 
+  [
+   464, 
+   512, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193820, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193823, 
+  [
+   657, 
+   879, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193820, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193823, 
+  [
+   983, 
+   1264, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193820, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193827, 
+  [
+   0, 
+   94, 
+   {
+    "quote_id": 193823, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "VTCrusier", 
+    "quote_id": 193821, 
+    "unknown_author": "VTCrusier", 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   209, 
+   302, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   461, 
+   669, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   979, 
+   1015, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   1141, 
+   1291, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   1472, 
+   1729, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   2112, 
+   2181, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193831, 
+  [
+   2230, 
+   2282, 
+   {}
+  ]
+ ], 
+ [
+  193831, 
+  [
+   2328, 
+   2497, 
+   {
+    "quote_id": 193821, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  193949, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  194101, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 194061, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  193723, 
+  [
+   0, 
+   760, 
+   {
+    "raw_data": "Linus", 
+    "quote_id": 193720, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193723, 
+  [
+   1051, 
+   1208, 
+   {
+    "quote_id": 193720, 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193881, 
+  [
+   0, 
+   1241, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  193881, 
+  [
+   1615, 
+   1775, 
+   {
+    "quote_id": 193863, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  194267, 
+  [
+   0, 
+   604, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 194101, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  193757, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 193685, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  193762, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 193723, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  193762, 
+  [
+   166, 
+   282, 
+   {
+    "quote_id": 193723, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  193762, 
+  [
+   580, 
+   704, 
+   {
+    "quote_id": 193723, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  193762, 
+  [
+   1074, 
+   1152, 
+   {
+    "quote_id": 193723, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  193894, 
+  [
+   0, 
+   476, 
+   {
+    "raw_data": "Linus", 
+    "author": "Linus"
+   }
+  ]
+ ], 
+ [
+  193895, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  193896, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 193862, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  193772, 
+  [
+   0, 
+   601, 
+   {
+    "raw_data": "Cone", 
+    "quote_id": 193757, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  194045, 
+  [
+   0, 
+   1241, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

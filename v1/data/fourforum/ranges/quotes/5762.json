@@ -1,0 +1,659 @@
+[
+ [
+  141056, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 141014, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  141058, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 141048, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  140931, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 140830, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140931, 
+  [
+   471, 
+   755, 
+   {}
+  ]
+ ], 
+ [
+  140931, 
+  [
+   923, 
+   1189, 
+   {
+    "quote_id": 140830, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140931, 
+  [
+   1515, 
+   1829, 
+   {
+    "quote_id": 140830, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141064, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 141056, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141064, 
+  [
+   667, 
+   1001, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 141056, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141064, 
+  [
+   1602, 
+   1790, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 141056, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141067, 
+  [
+   0, 
+   3183, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  141196, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 141048, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  141196, 
+  [
+   564, 
+   973, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 141110, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  141070, 
+  [
+   0, 
+   1412, 
+   {
+    "raw_data": "gamehuis", 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  140815, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "SymonTemplar", 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140815, 
+  [
+   556, 
+   711, 
+   {}
+  ]
+ ], 
+ [
+  140815, 
+  [
+   1255, 
+   1260, 
+   {
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140947, 
+  [
+   0, 
+   2290, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  141145, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 141056, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141145, 
+  [
+   72, 
+   247, 
+   {
+    "quote_id": 141056, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141145, 
+  [
+   859, 
+   901, 
+   {
+    "quote_id": 141056, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140696, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 140693, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  141123, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 141092, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  140830, 
+  [
+   0, 
+   896, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  140968, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 140947, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140968, 
+  [
+   736, 
+   904, 
+   {
+    "quote_id": 140947, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140968, 
+  [
+   962, 
+   1325, 
+   {
+    "quote_id": 140947, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140968, 
+  [
+   1514, 
+   1739, 
+   {
+    "quote_id": 140947, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140968, 
+  [
+   2481, 
+   2574, 
+   {
+    "quote_id": 140947, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140968, 
+  [
+   3329, 
+   3740, 
+   {}
+  ]
+ ], 
+ [
+  140968, 
+  [
+   4091, 
+   4295, 
+   {}
+  ]
+ ], 
+ [
+  141098, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 141092, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  140971, 
+  [
+   0, 
+   2768, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  140980, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 140971, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140980, 
+  [
+   450, 
+   574, 
+   {
+    "quote_id": 140971, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140980, 
+  [
+   725, 
+   933, 
+   {
+    "quote_id": 140971, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140980, 
+  [
+   1063, 
+   1800, 
+   {
+    "quote_id": 140971, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140980, 
+  [
+   1824, 
+   2615, 
+   {}
+  ]
+ ], 
+ [
+  140983, 
+  [
+   0, 
+   1051, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  141114, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 141111, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  141114, 
+  [
+   124, 
+   251, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  141502, 
+  [
+   0, 
+   1170, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  141152, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 141145, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  140867, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 140766, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  140867, 
+  [
+   264, 
+   452, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 140766, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  140996, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 140983, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140996, 
+  [
+   1048, 
+   1140, 
+   {
+    "quote_id": 140983, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140996, 
+  [
+   1332, 
+   1626, 
+   {
+    "quote_id": 140983, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140996, 
+  [
+   2196, 
+   2354, 
+   {
+    "quote_id": 140983, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140996, 
+  [
+   2513, 
+   2860, 
+   {
+    "quote_id": 140983, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141111, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 141098, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  141227, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 141110, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  141011, 
+  [
+   80, 
+   470, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 140987, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  141014, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 140733, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140766, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 140733, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  140766, 
+  [
+   341, 
+   485, 
+   {
+    "quote_id": 140733, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  141024, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 141017, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  141045, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 141024, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  142966, 
+  [
+   74, 
+   3801, 
+   {}
+  ]
+ ], 
+ [
+  141048, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 140867, 
+    "author": "fracas"
+   }
+  ]
+ ]
+]

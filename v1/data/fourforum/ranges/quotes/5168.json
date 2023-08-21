@@ -1,0 +1,510 @@
+[
+ [
+  120710, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 120707, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  120716, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120710, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120717, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 120716, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  120720, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120717, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120728, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120725, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120602, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 120597, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  120735, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120728, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120736, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120734, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120996, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 120975, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  120741, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120735, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120999, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 120926, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  120745, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120736, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120748, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120741, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120754, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121013, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120996, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120763, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120748, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120763, 
+  [
+   382, 
+   438, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120748, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120763, 
+  [
+   484, 
+   766, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120765, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120717, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120766, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120763, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120767, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120754, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  120768, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120688, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120769, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  121922, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 121013, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  120771, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120774, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120767, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120779, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120745, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  120780, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120745, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  120782, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 120780, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  120655, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 120597, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  121940, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 121928, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  121942, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121940, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120793, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120771, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120802, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120728, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120802, 
+  [
+   841, 
+   1079, 
+   {
+    "quote_id": 120763, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  120802, 
+  [
+   1114, 
+   1300, 
+   {
+    "quote_id": 120748, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120807, 
+  [
+   0, 
+   1474, 
+   {
+    "raw_data": "Truthsayer", 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  121960, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 121928, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  120813, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120807, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120688, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120658, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  120826, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Truthsayer", 
+    "quote_id": 120813, 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  120959, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120725, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 120720, 
+    "author": "Eddie"
+   }
+  ]
+ ]
+]

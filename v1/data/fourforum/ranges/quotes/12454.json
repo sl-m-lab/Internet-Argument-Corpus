@@ -1,0 +1,678 @@
+[
+ [
+  346903, 
+  [
+   0, 
+   339, 
+   {
+    "quote_id": 346900, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346908, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "jyoshu;346903", 
+    "quote_id": 346903, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347037, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "foundit66;346996", 
+    "quote_id": 346996, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348574, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "foundit66;347060", 
+    "quote_id": 347060, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348574, 
+  [
+   720, 
+   823, 
+   {
+    "raw_data": "foundit66;347060", 
+    "quote_id": 347060, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348574, 
+  [
+   906, 
+   1121, 
+   {
+    "raw_data": "foundit66;347060", 
+    "quote_id": 347060, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348574, 
+  [
+   1498, 
+   1670, 
+   {
+    "raw_data": "foundit66;347060", 
+    "quote_id": 347060, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346911, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "jyoshu;346903", 
+    "quote_id": 346903, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346911, 
+  [
+   857, 
+   913, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 346908, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  347040, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "jyoshu;347037", 
+    "quote_id": 347037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347040, 
+  [
+   1252, 
+   2674, 
+   {}
+  ]
+ ], 
+ [
+  347041, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347041, 
+  [
+   1417, 
+   1495, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347041, 
+  [
+   1629, 
+   1971, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347037, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346918, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "foundit66;346911", 
+    "quote_id": 346911, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346918, 
+  [
+   292, 
+   422, 
+   {
+    "raw_data": "foundit66;346911", 
+    "quote_id": 346911, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346918, 
+  [
+   739, 
+   771, 
+   {
+    "raw_data": "foundit66;346911", 
+    "quote_id": 346911, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  347055, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "foundit66;347041", 
+    "quote_id": 347041, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  347056, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "foundit66;347051", 
+    "quote_id": 347051, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346929, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "jyoshu;346918", 
+    "quote_id": 346918, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346929, 
+  [
+   875, 
+   1182, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346918, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346929, 
+  [
+   1303, 
+   1370, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346918, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347060, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "jyoshu;347055", 
+    "quote_id": 347055, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347060, 
+  [
+   415, 
+   1083, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347055, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347060, 
+  [
+   2138, 
+   2858, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347055, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347060, 
+  [
+   3796, 
+   3958, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347056, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  347060, 
+  [
+   4344, 
+   4474, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 347056, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "jyoshu;348574", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   544, 
+   715, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   966, 
+   1163, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   1390, 
+   1463, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   2047, 
+   2216, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   2509, 
+   2706, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  348604, 
+  [
+   3014, 
+   3309, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 348574, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346957, 
+  [
+   0, 
+   520, 
+   {
+    "raw_data": "foundit66;346929", 
+    "quote_id": 346929, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346957, 
+  [
+   1381, 
+   1437, 
+   {
+    "raw_data": "foundit66;346929", 
+    "quote_id": 346929, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346957, 
+  [
+   1580, 
+   1670, 
+   {
+    "raw_data": "foundit66;346929", 
+    "quote_id": 346929, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346958, 
+  [
+   0, 
+   854, 
+   {
+    "raw_data": "jyoshu;346957", 
+    "quote_id": 346957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346961, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "Brigid;346958", 
+    "quote_id": 346958, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  346962, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "jyoshu;346957", 
+    "quote_id": 346957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346962, 
+  [
+   1002, 
+   1140, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346962, 
+  [
+   1916, 
+   1974, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346962, 
+  [
+   2216, 
+   2290, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346962, 
+  [
+   2347, 
+   2883, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346957, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346970, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "jyoshu;346965", 
+    "quote_id": 346965, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346970, 
+  [
+   397, 
+   506, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346965, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346989, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "foundit66;346970", 
+    "quote_id": 346970, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346993, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "jyoshu;346989", 
+    "quote_id": 346989, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346993, 
+  [
+   284, 
+   548, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346989, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346994, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "foundit66;346993", 
+    "quote_id": 346993, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346994, 
+  [
+   619, 
+   726, 
+   {
+    "raw_data": "foundit66;346973", 
+    "quote_id": 346993, 
+    "unknown_quote_id": 346973, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346994, 
+  [
+   1015, 
+   1089, 
+   {
+    "raw_data": "foundit66;346973", 
+    "quote_id": 346993, 
+    "unknown_quote_id": 346973, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  346996, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "jyoshu;346994", 
+    "quote_id": 346994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346996, 
+  [
+   2791, 
+   2909, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346996, 
+  [
+   3128, 
+   3287, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346996, 
+  [
+   3774, 
+   3784, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 346994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  346998, 
+  [
+   568, 
+   3550, 
+   {}
+  ]
+ ]
+]

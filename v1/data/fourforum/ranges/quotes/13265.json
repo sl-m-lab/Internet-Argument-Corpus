@@ -1,0 +1,242 @@
+[
+ [
+  369345, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Brady;369331", 
+    "quote_id": 369331, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369349, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "NATO 556;369345", 
+    "quote_id": 369345, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369382, 
+  [
+   0, 
+   1003, 
+   {
+    "raw_data": "Brady;369331", 
+    "quote_id": 369331, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369479, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "NATO 556;369345", 
+    "quote_id": 369345, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369585, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Doc Jones;369530", 
+    "quote_id": 369530, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369545, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "NATO 556;369533", 
+    "quote_id": 369533, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  369563, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "OldSarge;369557", 
+    "quote_id": 369557, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  369518, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Brady;369479", 
+    "quote_id": 369479, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369565, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Doc Jones;369563", 
+    "quote_id": 369563, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369565, 
+  [
+   316, 
+   470, 
+   {
+    "quote_id": 369563, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369361, 
+  [
+   50, 
+   1592, 
+   {}
+  ]
+ ], 
+ [
+  369362, 
+  [
+   309, 
+   885, 
+   {}
+  ]
+ ], 
+ [
+  369557, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Doc Jones;369545", 
+    "quote_id": 369545, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  369975, 
+  [
+   0, 
+   1003, 
+   {
+    "raw_data": "Brady;369331", 
+    "quote_id": 369331, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369368, 
+  [
+   0, 
+   1003, 
+   {
+    "raw_data": "Brady;369331", 
+    "quote_id": 369331, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369368, 
+  [
+   0, 
+   1004, 
+   {
+    "quote_id": 369331, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369530, 
+  [
+   0, 
+   636, 
+   {
+    "raw_data": "OldSarge;369518", 
+    "quote_id": 369518, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  369533, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Brady;369479", 
+    "quote_id": 369479, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369533, 
+  [
+   87, 
+   153, 
+   {
+    "quote_id": 369479, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369533, 
+  [
+   292, 
+   312, 
+   {
+    "quote_id": 369479, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  369566, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "sinjin;369565", 
+    "quote_id": 369565, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,447 @@
+[
+ [
+  405898, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "NATO 556;405892", 
+    "quote_id": 405892, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405899, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Galileo;405898", 
+    "quote_id": 405898, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  406061, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Brady;405794", 
+    "quote_id": 405794, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  407317, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Galileo;407315", 
+    "quote_id": 407315, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405526, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Galileo;405524", 
+    "quote_id": 405524, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405912, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "NATO 556;405899", 
+    "quote_id": 405899, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405916, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Galileo;405912", 
+    "quote_id": 405912, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405916, 
+  [
+   215, 
+   311, 
+   {
+    "quote_id": 405912, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405923, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "NATO 556;405916", 
+    "quote_id": 405916, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405796, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Brady;405794", 
+    "quote_id": 405794, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  405925, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Galileo;405923", 
+    "quote_id": 405923, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405926, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "NATO 556;405925", 
+    "quote_id": 405925, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405799, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "NATO 556;405796", 
+    "quote_id": 405796, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405928, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "NATO 556;405927", 
+    "quote_id": 405927, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405805, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Brady;405799", 
+    "quote_id": 405799, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  406063, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Galileo;406061", 
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405809, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "NATO 556;405805", 
+    "quote_id": 405805, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405812, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Sigma;405809", 
+    "quote_id": 405809, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405943, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Galileo;405928", 
+    "quote_id": 405928, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405816, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "NATO 556;405812", 
+    "quote_id": 405812, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405818, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Sigma;405816", 
+    "quote_id": 405816, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405820, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "NATO 556;405818", 
+    "quote_id": 405818, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405829, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Sigma;405820", 
+    "quote_id": 405820, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405829, 
+  [
+   594, 
+   678, 
+   {
+    "quote_id": 405820, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405831, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "NATO 556;405829", 
+    "quote_id": 405829, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405833, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Sigma;405831", 
+    "quote_id": 405831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405835, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "NATO 556;405833", 
+    "quote_id": 405833, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  405835, 
+  [
+   305, 
+   496, 
+   {
+    "raw_data": "NATO 556;405833", 
+    "quote_id": 405833, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  406094, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Sigma;405835", 
+    "quote_id": 405835, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  406065, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Galileo;406061", 
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  406065, 
+  [
+   108, 
+   190, 
+   {
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  406065, 
+  [
+   246, 
+   410, 
+   {
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  406065, 
+  [
+   871, 
+   1006, 
+   {
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  406065, 
+  [
+   1157, 
+   1306, 
+   {
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  406065, 
+  [
+   1427, 
+   1889, 
+   {
+    "quote_id": 406061, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405927, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "Galileo;405926", 
+    "quote_id": 405926, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  405880, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Sigma;405835", 
+    "quote_id": 405835, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  405117, 
+  [
+   103, 
+   2211, 
+   {}
+  ]
+ ]
+]

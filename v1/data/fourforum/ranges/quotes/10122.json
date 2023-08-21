@@ -1,0 +1,96 @@
+[
+ [
+  273539, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "wascallywabbit;273460", 
+    "quote_id": 273460, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  273573, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "supersport;273539", 
+    "quote_id": 273539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  273573, 
+  [
+   3529, 
+   4091, 
+   {
+    "quote_id": 273539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  273581, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "supersport;273557", 
+    "quote_id": 273557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  273681, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "supersport;273539", 
+    "quote_id": 273539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  273681, 
+  [
+   500, 
+   875, 
+   {
+    "quote_id": 273539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  273557, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Kronus;273550", 
+    "quote_id": 273550, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  273564, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "supersport;273557", 
+    "quote_id": 273557, 
+    "author": "supersport"
+   }
+  ]
+ ]
+]

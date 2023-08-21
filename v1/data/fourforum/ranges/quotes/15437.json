@@ -1,0 +1,69 @@
+[
+ [
+  433120, 
+  [
+   0, 
+   836, 
+   {
+    "raw_data": "Galileo;433014", 
+    "quote_id": 433014, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  433034, 
+  [
+   0, 
+   836, 
+   {
+    "raw_data": "Galileo;433014", 
+    "quote_id": 433014, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  433034, 
+  [
+   892, 
+   1193, 
+   {
+    "quote_id": 433014, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  433008, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "Doc Jones;432998", 
+    "quote_id": 432998, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  433023, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Galileo;433014", 
+    "quote_id": 433014, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  433023, 
+  [
+   217, 
+   3462, 
+   {}
+  ]
+ ]
+]

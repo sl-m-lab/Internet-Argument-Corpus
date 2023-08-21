@@ -1,0 +1,828 @@
+[
+ [
+  359808, 
+  [
+   0, 
+   587, 
+   {
+    "raw_data": "Doc Jones;359734", 
+    "quote_id": 359734, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  359809, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "NATO 556;359733", 
+    "quote_id": 359733, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  359809, 
+  [
+   1724, 
+   2020, 
+   {
+    "raw_data": "NATO 556;359733", 
+    "quote_id": 359733, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  360962, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "T.Q;360960", 
+    "quote_id": 360960, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361091, 
+  [
+   0, 
+   771, 
+   {
+    "raw_data": "NATO 556;361090", 
+    "quote_id": 361090, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  359813, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Galileo;359808", 
+    "quote_id": 359808, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  359815, 
+  [
+   0, 
+   1778, 
+   {
+    "raw_data": "Galileo;359809", 
+    "quote_id": 359809, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  361100, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "T.Q;361091", 
+    "quote_id": 361091, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361090, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "T.Q;361087", 
+    "quote_id": 361087, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Doc Jones;361100", 
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   292, 
+   413, 
+   {
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   457, 
+   565, 
+   {
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   659, 
+   720, 
+   {
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   1045, 
+   1116, 
+   {
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   1221, 
+   1285, 
+   {
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361102, 
+  [
+   1373, 
+   1731, 
+   {
+    "quote_id": 361100, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361233, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Ethmi;361229", 
+    "quote_id": 361229, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  359826, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "Galileo;359808", 
+    "quote_id": 359808, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  361326, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Tither;361190", 
+    "quote_id": 361190, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  360960, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Doc Jones;360958", 
+    "quote_id": 360958, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361114, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "T.Q;361108", 
+    "quote_id": 361108, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  360860, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Doc Jones;360855", 
+    "quote_id": 360855, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361118, 
+  [
+   455, 
+   699, 
+   {}
+  ]
+ ], 
+ [
+  361118, 
+  [
+   749, 
+   868, 
+   {}
+  ]
+ ], 
+ [
+  361119, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "T.Q;361117", 
+    "quote_id": 361117, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361123, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "T.Q;361121", 
+    "quote_id": 361121, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  359592, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Penfold;359586", 
+    "quote_id": 359586, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  359593, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Penfold;359586", 
+    "quote_id": 359586, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  360967, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Doc Jones;360962", 
+    "quote_id": 360962, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  360967, 
+  [
+   263, 
+   378, 
+   {
+    "quote_id": 360962, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  359726, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "OldSarge;359572", 
+    "quote_id": 359572, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  361135, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "T.Q;361102", 
+    "quote_id": 361102, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  359733, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Galileo;359726", 
+    "quote_id": 359726, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  359733, 
+  [
+   374, 
+   1079, 
+   {
+    "quote_id": 359726, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  359733, 
+  [
+   1205, 
+   1417, 
+   {
+    "quote_id": 359726, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  359734, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "sinjin;359626", 
+    "quote_id": 359626, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  359740, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "Galileo;359726", 
+    "quote_id": 359726, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  359617, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "Doc Jones;359593", 
+    "quote_id": 359593, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  360900, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "T.Q;360860", 
+    "quote_id": 360860, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361654, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "T.Q;361395", 
+    "quote_id": 361395, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  359750, 
+  [
+   0, 
+   777, 
+   {
+    "raw_data": "Tither;359740", 
+    "quote_id": 359740, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  361110, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "T.Q;361108", 
+    "quote_id": 361108, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  359626, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Doc Jones;359604", 
+    "quote_id": 359604, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361291, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "Archangel;361288", 
+    "quote_id": 361288, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  359629, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Penfold;359586", 
+    "quote_id": 359586, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  361294, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "JPSartre12;361291", 
+    "quote_id": 361291, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  361296, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "Archangel;361288", 
+    "quote_id": 361288, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  360018, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "Doc Jones;359824", 
+    "quote_id": 359824, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  360018, 
+  [
+   495, 
+   1060, 
+   {
+    "raw_data": "Doc Jones;359824", 
+    "quote_id": 359824, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361302, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "grizzly6626;361296", 
+    "quote_id": 361296, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  361357, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "T.Q;361326", 
+    "quote_id": 361326, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361342, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "grizzly6626;361296", 
+    "quote_id": 361296, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  361342, 
+  [
+   239, 
+   537, 
+   {
+    "raw_data": "T.Q;361326", 
+    "quote_id": 361326, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  359648, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "zsu2357;359629", 
+    "quote_id": 359629, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  361116, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "T.Q;361113", 
+    "quote_id": 361113, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361083, 
+  [
+   376, 
+   1079, 
+   {}
+  ]
+ ], 
+ [
+  360961, 
+  [
+   0, 
+   2655, 
+   {
+    "raw_data": "Galileo;360950", 
+    "quote_id": 360950, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  361190, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "T.Q;361121", 
+    "quote_id": 361121, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  360041, 
+  [
+   0, 
+   11, 
+   {
+    "raw_data": "NATO 556;360036", 
+    "quote_id": 360036, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  361194, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "T.Q;361091", 
+    "quote_id": 361091, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361194, 
+  [
+   519, 
+   1322, 
+   {}
+  ]
+ ], 
+ [
+  361323, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "grizzly6626;361296", 
+    "quote_id": 361296, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  361106, 
+  [
+   0, 
+   1069, 
+   {
+    "raw_data": "T.Q;361102", 
+    "quote_id": 361102, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361070, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "T.Q;360967", 
+    "quote_id": 360967, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  361333, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Galileo;360018", 
+    "quote_id": 360018, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  361333, 
+  [
+   361, 
+   1094, 
+   {
+    "quote_id": 360018, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  360950, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Doc Jones;360855", 
+    "quote_id": 360855, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361080, 
+  [
+   0, 
+   1932, 
+   {
+    "raw_data": "Doc Jones;361070", 
+    "quote_id": 361070, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  361108, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "Doc Jones;361107", 
+    "quote_id": 361107, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  359675, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "zsu2357;359629", 
+    "quote_id": 359629, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  360958, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "T.Q;360860", 
+    "quote_id": 360860, 
+    "author": "T.Q"
+   }
+  ]
+ ]
+]

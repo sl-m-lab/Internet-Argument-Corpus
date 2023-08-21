@@ -1,0 +1,241 @@
+[
+ [
+  136579, 
+  [
+   0, 
+   735, 
+   {}
+  ]
+ ], 
+ [
+  136717, 
+  [
+   0, 
+   686, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 136677, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  136594, 
+  [
+   16, 
+   202, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136585, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136707, 
+  [
+   0, 
+   686, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 136677, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  136737, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136717, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136743, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 136737, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  136751, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136743, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136755, 
+  [
+   0, 
+   732, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 136751, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  136756, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136755, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136509, 
+  [
+   1436, 
+   1906, 
+   {}
+  ]
+ ], 
+ [
+  136767, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 136756, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  136769, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136767, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136519, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 136509, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  136523, 
+  [
+   0, 
+   275, 
+   {
+    "quote_id": 136509, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  136657, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136585, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136539, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136519, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136546, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 136539, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  136546, 
+  [
+   315, 
+   477, 
+   {}
+  ]
+ ], 
+ [
+  136677, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136585, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136551, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 136539, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  136559, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 136551, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ]
+]

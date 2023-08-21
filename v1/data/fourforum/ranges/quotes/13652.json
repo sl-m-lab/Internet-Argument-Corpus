@@ -1,0 +1,73 @@
+[
+ [
+  381376, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "OldSarge;380589", 
+    "quote_id": 380589, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  381376, 
+  [
+   679, 
+   812, 
+   {
+    "quote_id": 380589, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  381410, 
+  [
+   0, 
+   855, 
+   {
+    "raw_data": "MarieAntoinette;381376", 
+    "quote_id": 381376, 
+    "author": "MarieAntoinette"
+   }
+  ]
+ ], 
+ [
+  380876, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Penfold;380863", 
+    "quote_id": 380863, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381422, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "OldSarge;381410", 
+    "quote_id": 381410, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  381467, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Penfold;381422", 
+    "quote_id": 381422, 
+    "author": "Penfold"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,1919 @@
+[
+ [
+  151554, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 151547, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  54790, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 54552, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  203808, 
+  [
+   0, 
+   1118, 
+   {
+    "raw_data": "nazsmith", 
+    "quote_id": 203729, 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  59921, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 59846, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56341, 
+  [
+   0, 
+   514, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 56294, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56341, 
+  [
+   732, 
+   1732, 
+   {
+    "raw_data": "jpsarte", 
+    "quote_id": 56294, 
+    "unknown_author": "jpsarte", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  151579, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 151554, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  52766, 
+  [
+   0, 
+   1524, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  201759, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 201627, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  53792, 
+  [
+   0, 
+   1947, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 53599, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  55329, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 54989, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56359, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 56341, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56359, 
+  [
+   498, 
+   867, 
+   {
+    "quote_id": 56341, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56359, 
+  [
+   1171, 
+   1336, 
+   {
+    "quote_id": 56341, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176689, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 176353, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  151090, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 59921, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  55861, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55749, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  176905, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 176689, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  55864, 
+  [
+   0, 
+   1120, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 55861, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  53599, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53529, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85058, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 51842, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  55875, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55752, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  55875, 
+  [
+   215, 
+   295, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55752, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  55875, 
+  [
+   353, 
+   425, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55752, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  55875, 
+  [
+   536, 
+   552, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55752, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  55371, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55329, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  151130, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 151090, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  53853, 
+  [
+   0, 
+   465, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53792, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85086, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 85058, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  54888, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 54790, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  152176, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Truthsayer", 
+    "quote_id": 151857, 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  55410, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 55371, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  55410, 
+  [
+   730, 
+   897, 
+   {
+    "quote_id": 55371, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  151162, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 151130, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  51839, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 51837, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  52865, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 52811, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  52865, 
+  [
+   377, 
+   636, 
+   {
+    "quote_id": 52811, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  52865, 
+  [
+   779, 
+   896, 
+   {
+    "quote_id": 52811, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  51842, 
+  [
+   0, 
+   693, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 51839, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  51844, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 51842, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  54465, 
+  [
+   0, 
+   956, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 54409, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  52873, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 52811, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  198595, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 198593, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  55961, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 55875, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  52891, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 52865, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  52891, 
+  [
+   201, 
+   334, 
+   {
+    "raw_data": "JP", 
+    "quote_id": 52865, 
+    "unknown_author": "JP", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  52891, 
+  [
+   502, 
+   575, 
+   {
+    "raw_data": "JP", 
+    "quote_id": 52865, 
+    "unknown_author": "JP", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  52893, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 52873, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  198597, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198595, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  59846, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 59834, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53934, 
+  [
+   0, 
+   837, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 53853, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  53940, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 52022, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  198677, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 198634, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53441, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 52891, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  85186, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 85086, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  85186, 
+  [
+   150, 
+   322, 
+   {}
+  ]
+ ], 
+ [
+  52934, 
+  [
+   0, 
+   1201, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 52893, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  203809, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "nazsmith", 
+    "quote_id": 203730, 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  199370, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 199061, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56011, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 55864, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  54989, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 54888, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  153308, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Pravda", 
+    "quote_id": 153279, 
+    "author": "Pravda"
+   }
+  ]
+ ], 
+ [
+  156090, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 156067, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  56034, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 56011, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56034, 
+  [
+   234, 
+   283, 
+   {
+    "quote_id": 56011, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56034, 
+  [
+   517, 
+   1217, 
+   {
+    "quote_id": 56011, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  53989, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53934, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56045, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56045, 
+  [
+   655, 
+   1084, 
+   {
+    "raw_data": "jpsarte", 
+    "quote_id": 56034, 
+    "unknown_author": "jpsarte", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53487, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53441, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85236, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 85229, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  85236, 
+  [
+   264, 
+   1256, 
+   {}
+  ]
+ ], 
+ [
+  154367, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153005, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154367, 
+  [
+   582, 
+   1133, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153892, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  176898, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 176807, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  52999, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 52934, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  152329, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 151890, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  54552, 
+  [
+   0, 
+   1657, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 54465, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  53529, 
+  [
+   0, 
+   815, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 53487, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  152347, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 152329, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  155932, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "GreenMtnBoy", 
+    "quote_id": 155924, 
+    "author": "GreenMtnBoy"
+   }
+  ]
+ ], 
+ [
+  153892, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 153285, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  198952, 
+  [
+   0, 
+   803, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  154409, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 154367, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  154411, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153892, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154411, 
+  [
+   266, 
+   367, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153892, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154411, 
+  [
+   537, 
+   682, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153892, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154411, 
+  [
+   1001, 
+   1041, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153892, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  198956, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 198952, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  56109, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 56045, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56109, 
+  [
+   509, 
+   901, 
+   {
+    "quote_id": 56045, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  151857, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "SymonTemplar", 
+    "quote_id": 151824, 
+    "author": "SymonTemplar"
+   }
+  ]
+ ], 
+ [
+  154421, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 154411, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154421, 
+  [
+   428, 
+   592, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 154411, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154421, 
+  [
+   911, 
+   1223, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 154411, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  52022, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 51842, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  54409, 
+  [
+   0, 
+   894, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 53989, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  152381, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 152347, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  154431, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 154421, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154431, 
+  [
+   479, 
+   792, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 154421, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154431, 
+  [
+   968, 
+   1343, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 154421, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  198711, 
+  [
+   0, 
+   1258, 
+   {
+    "raw_data": "Charliegone", 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  198711, 
+  [
+   2025, 
+   2343, 
+   {
+    "quote_id": 198641, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  151887, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Truthsayer", 
+    "quote_id": 151857, 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  203600, 
+  [
+   980, 
+   1097, 
+   {
+    "raw_data": "Truthsayer", 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  204118, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 203862, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  56159, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 56109, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  201787, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Truthsayer", 
+    "quote_id": 201614, 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  198630, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 51837, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  151406, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 151162, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  151406, 
+  [
+   414, 
+   1665, 
+   {}
+  ]
+ ], 
+ [
+  154486, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 154431, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  199034, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 198956, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  83835, 
+  [
+   0, 
+   917, 
+   {
+    "raw_data": "caicos2", 
+    "quote_id": 83820, 
+    "author": "caicos2"
+   }
+  ]
+ ], 
+ [
+  151420, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 150938, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  199061, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 199034, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  203730, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 203678, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  85229, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85186, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56213, 
+  [
+   0, 
+   793, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 56159, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56213, 
+  [
+   1281, 
+   1606, 
+   {
+    "quote_id": 56159, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56217, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 56213, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  56217, 
+  [
+   641, 
+   925, 
+   {
+    "raw_data": "jpsarte", 
+    "quote_id": 56213, 
+    "unknown_author": "jpsarte", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  150938, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "bonddm", 
+    "quote_id": 85058, 
+    "author": "bonddm"
+   }
+  ]
+ ], 
+ [
+  201627, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Truthsayer", 
+    "quote_id": 201614, 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  203677, 
+  [
+   0, 
+   832, 
+   {
+    "raw_data": "nazsmith", 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  203678, 
+  [
+   0, 
+   721, 
+   {
+    "raw_data": "nazsmith", 
+    "quote_id": 203600, 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  156067, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 155932, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  153005, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 152329, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  55732, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 55717, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154550, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 154409, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154550, 
+  [
+   283, 
+   359, 
+   {
+    "quote_id": 154409, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154550, 
+  [
+   478, 
+   689, 
+   {
+    "quote_id": 154409, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154550, 
+  [
+   781, 
+   923, 
+   {
+    "quote_id": 154409, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154550, 
+  [
+   994, 
+   1239, 
+   {
+    "quote_id": 154409, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  154550, 
+  [
+   1256, 
+   1825, 
+   {
+    "raw_data": "TS", 
+    "quote_id": 154416, 
+    "unknown_author": "TS", 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  59834, 
+  [
+   0, 
+   873, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 59820, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  154555, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 154550, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198593, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 176898, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  52811, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 52766, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  52811, 
+  [
+   1672, 
+   2305, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 52766, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  52676, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 52040, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  55749, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 55746, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  55752, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  198605, 
+  [
+   0, 
+   617, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 174825, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  198608, 
+  [
+   0, 
+   617, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 174825, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  203729, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 203677, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  198610, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 198593, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  198611, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 198610, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  153047, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 153005, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  151514, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 151420, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  56294, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  56294, 
+  [
+   676, 
+   1218, 
+   {
+    "quote_id": 56217, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  198634, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 198611, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  151532, 
+  [
+   0, 
+   759, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 151514, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  52717, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 52676, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  52717, 
+  [
+   710, 
+   1304, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 52676, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  58871, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 56359, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58871, 
+  [
+   511, 
+   807, 
+   {
+    "raw_data": "jpsatre", 
+    "quote_id": 56359, 
+    "unknown_author": "jpsatre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  58871, 
+  [
+   1221, 
+   1529, 
+   {
+    "raw_data": "jpsarte", 
+    "quote_id": 56359, 
+    "unknown_author": "jpsarte", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  151547, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 151532, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  198655, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "sglaine", 
+    "quote_id": 198597, 
+    "author": "sglaine"
+   }
+  ]
+ ], 
+ [
+  198655, 
+  [
+   108, 
+   377, 
+   {
+    "raw_data": "Charliegone", 
+    "quote_id": 198641, 
+    "author": "Charliegone"
+   }
+  ]
+ ]
+]

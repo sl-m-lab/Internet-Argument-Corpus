@@ -1,0 +1,336 @@
+[
+ [
+  252897, 
+  [
+   306, 
+   657, 
+   {
+    "quote_id": 252865, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  252897, 
+  [
+   728, 
+   1105, 
+   {
+    "quote_id": 252865, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  252869, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "Prodi;252866", 
+    "quote_id": 252866, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  254088, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Prodi;254087", 
+    "quote_id": 254087, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  254087, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "Count Otto;253875", 
+    "quote_id": 253875, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252895, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   341, 
+   673, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252895, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   875, 
+   1208, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252895, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   1595, 
+   1951, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252895, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   2319, 
+   2788, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252895, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   3061, 
+   3279, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 252897, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   3649, 
+   4214, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252911, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   4926, 
+   5097, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252911, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   5188, 
+   5469, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252911, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   5664, 
+   6204, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 252911, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   6443, 
+   6651, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 252919, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   7921, 
+   8303, 
+   {
+    "raw_data": "trebor", 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   8559, 
+   8734, 
+   {
+    "raw_data": "slp", 
+    "quote_id": 252966, 
+    "unknown_author": "slp", 
+    "author": "SLP"
+   }
+  ]
+ ], 
+ [
+  253870, 
+  [
+   8872, 
+   9090, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 253615, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  252880, 
+  [
+   226, 
+   290, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 252869, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  252880, 
+  [
+   571, 
+   720, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 252869, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  252880, 
+  [
+   1096, 
+   1263, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 252869, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  253875, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Prodi;252880", 
+    "quote_id": 252880, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  254703, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Count Otto", 
+    "quote_id": 254088, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  254703, 
+  [
+   217, 
+   483, 
+   {
+    "raw_data": "Count Otto", 
+    "quote_id": 254088, 
+    "author": "Count Otto"
+   }
+  ]
+ ], 
+ [
+  252919, 
+  [
+   525, 
+   933, 
+   {
+    "raw_data": "Prodi;252880", 
+    "quote_id": 252880, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  252952, 
+  [
+   0, 
+   1534, 
+   {
+    "raw_data": "Prodi;252880", 
+    "quote_id": 252880, 
+    "author": "Prodi"
+   }
+  ]
+ ], 
+ [
+  253615, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Prodi;253142", 
+    "quote_id": 253142, 
+    "author": "Prodi"
+   }
+  ]
+ ]
+]

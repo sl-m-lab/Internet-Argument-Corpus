@@ -1,0 +1,73 @@
+[
+ [
+  114563, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 114558, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  114568, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 114563, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  114552, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 114533, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  114517, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 114502, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  114520, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 114515, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  114533, 
+  [
+   0, 
+   418, 
+   {
+    "quote_id": 114517, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ]
+]

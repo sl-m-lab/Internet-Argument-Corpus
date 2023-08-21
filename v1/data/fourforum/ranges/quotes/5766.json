@@ -1,0 +1,3821 @@
+[
+ [
+  142337, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142270, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144386, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144360, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144387, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144362, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  141829, 
+  [
+   0, 
+   1805, 
+   {
+    "raw_data": "Detrean", 
+    "quote_id": 140734, 
+    "author": "Detrean"
+   }
+  ]
+ ], 
+ [
+  142342, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143361, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 143352, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  143370, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143332, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143370, 
+  [
+   400, 
+   550, 
+   {
+    "quote_id": 143332, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143370, 
+  [
+   605, 
+   1053, 
+   {
+    "quote_id": 143332, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143370, 
+  [
+   1208, 
+   1357, 
+   {
+    "quote_id": 143332, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  144898, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144739, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145934, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145910, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145934, 
+  [
+   379, 
+   572, 
+   {
+    "quote_id": 145910, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145934, 
+  [
+   603, 
+   1042, 
+   {
+    "quote_id": 145910, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145934, 
+  [
+   1561, 
+   2183, 
+   {
+    "quote_id": 145910, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145934, 
+  [
+   2469, 
+   2669, 
+   {
+    "quote_id": 145910, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  143378, 
+  [
+   0, 
+   68, 
+   {
+    "quote_id": 143370, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143378, 
+  [
+   414, 
+   443, 
+   {
+    "quote_id": 143370, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143378, 
+  [
+   619, 
+   675, 
+   {
+    "quote_id": 143370, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143378, 
+  [
+   927, 
+   979, 
+   {
+    "quote_id": 143370, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145940, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145918, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145940, 
+  [
+   259, 
+   361, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145918, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145940, 
+  [
+   688, 
+   816, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145918, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145940, 
+  [
+   1096, 
+   1155, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145918, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145940, 
+  [
+   1260, 
+   1342, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145918, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145940, 
+  [
+   1618, 
+   1672, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145918, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  144919, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144711, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144408, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144387, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145283, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145276, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144418, 
+  [
+   0, 
+   828, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144408, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  141860, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 141828, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143366, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143361, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  144422, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144418, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144422, 
+  [
+   174, 
+   269, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144418, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144422, 
+  [
+   519, 
+   645, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144418, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144432, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144422, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144432, 
+  [
+   218, 
+   458, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144422, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144432, 
+  [
+   749, 
+   861, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144422, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144432, 
+  [
+   973, 
+   1098, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144422, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  142898, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 142846, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145977, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145942, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145983, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145940, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145983, 
+  [
+   113, 
+   165, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145940, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145983, 
+  [
+   183, 
+   325, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145940, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145983, 
+  [
+   369, 
+   565, 
+   {}
+  ]
+ ], 
+ [
+  145983, 
+  [
+   603, 
+   696, 
+   {}
+  ]
+ ], 
+ [
+  145983, 
+  [
+   797, 
+   924, 
+   {}
+  ]
+ ], 
+ [
+  145983, 
+  [
+   1143, 
+   1271, 
+   {}
+  ]
+ ], 
+ [
+  145983, 
+  [
+   1622, 
+   1711, 
+   {}
+  ]
+ ], 
+ [
+  145983, 
+  [
+   1764, 
+   2290, 
+   {}
+  ]
+ ], 
+ [
+  145983, 
+  [
+   2437, 
+   2743, 
+   {}
+  ]
+ ], 
+ [
+  143424, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143116, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143424, 
+  [
+   186, 
+   1186, 
+   {}
+  ]
+ ], 
+ [
+  143424, 
+  [
+   1212, 
+   2055, 
+   {}
+  ]
+ ], 
+ [
+  143424, 
+  [
+   2067, 
+   2224, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143116, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143426, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143326, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142915, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142580, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142916, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142917, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 142846, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142918, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142703, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142919, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 142747, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142921, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142757, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  141900, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 141828, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143437, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143433, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143440, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 143437, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  143442, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143440, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  144980, 
+  [
+   0, 
+   83, 
+   {
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143957, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 143955, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143961, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 143957, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  142938, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142938, 
+  [
+   127, 
+   199, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142938, 
+  [
+   225, 
+   253, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142938, 
+  [
+   342, 
+   384, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142945, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  144254, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144176, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145870, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145870, 
+  [
+   601, 
+   1421, 
+   {}
+  ]
+ ], 
+ [
+  145870, 
+  [
+   1427, 
+   1561, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145870, 
+  [
+   1670, 
+   2355, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145870, 
+  [
+   2515, 
+   3392, 
+   {}
+  ]
+ ], 
+ [
+  145870, 
+  [
+   3402, 
+   4008, 
+   {}
+  ]
+ ], 
+ [
+  145870, 
+  [
+   4016, 
+   4482, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145870, 
+  [
+   4820, 
+   5744, 
+   {}
+  ]
+ ], 
+ [
+  143979, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 143978, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  143980, 
+  [
+   20, 
+   638, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143721, 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  143981, 
+  [
+   24, 
+   144, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145006, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145006, 
+  [
+   178, 
+   376, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145006, 
+  [
+   442, 
+   572, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145006, 
+  [
+   1070, 
+   1264, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145006, 
+  [
+   1398, 
+   1529, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145006, 
+  [
+   1608, 
+   1754, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144979, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145256, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145248, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145256, 
+  [
+   104, 
+   185, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145248, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  143986, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 143838, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  143987, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 143838, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  143988, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 143987, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143993, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 143955, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143994, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143986, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144319, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144287, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142973, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 142740, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142463, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142976, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 142846, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144576, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144574, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145653, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145635, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145653, 
+  [
+   382, 
+   642, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145635, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145653, 
+  [
+   786, 
+   935, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145635, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145653, 
+  [
+   1628, 
+   1728, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145635, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143838, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143720, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142470, 
+  [
+   0, 
+   15, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 142308, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  142473, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142289, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143500, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143448, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142481, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142337, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  144018, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 143987, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143508, 
+  [
+   528, 
+   648, 
+   {
+    "quote_id": 143424, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  143509, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143440, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143727, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143720, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142494, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142337, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142496, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 142463, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  144549, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144418, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144038, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143986, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143534, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143433, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143534, 
+  [
+   257, 
+   384, 
+   {
+    "quote_id": 143433, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143536, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143534, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142513, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 142505, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  145267, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145256, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145267, 
+  [
+   460, 
+   532, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145256, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143540, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 143536, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145078, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "JakeCJB", 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145078, 
+  [
+   267, 
+   426, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145006, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145078, 
+  [
+   578, 
+   736, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145006, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145078, 
+  [
+   1054, 
+   1165, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145006, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  143549, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143448, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  144064, 
+  [
+   0, 
+   817, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 144038, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  142019, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Detrean", 
+    "quote_id": 141993, 
+    "author": "Detrean"
+   }
+  ]
+ ], 
+ [
+  142020, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 141828, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144076, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144064, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145954, 
+  [
+   0, 
+   568, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145953, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145616, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145172, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145617, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145617, 
+  [
+   446, 
+   754, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145617, 
+  [
+   859, 
+   1454, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  142547, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142513, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142549, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142297, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142549, 
+  [
+   312, 
+   460, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142297, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142549, 
+  [
+   774, 
+   921, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142297, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142549, 
+  [
+   989, 
+   1087, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142297, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142549, 
+  [
+   1150, 
+   1365, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142297, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142549, 
+  [
+   1612, 
+   2172, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142297, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142551, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142496, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144601, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144549, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144601, 
+  [
+   467, 
+   616, 
+   {
+    "raw_data": "JPSartre", 
+    "quote_id": 144549, 
+    "unknown_author": "JPSartre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144601, 
+  [
+   946, 
+   1104, 
+   {
+    "raw_data": "JPSartre", 
+    "quote_id": 144549, 
+    "unknown_author": "JPSartre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144601, 
+  [
+   1169, 
+   1231, 
+   {
+    "raw_data": "JPSartre", 
+    "quote_id": 144549, 
+    "unknown_author": "JPSartre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144601, 
+  [
+   1366, 
+   1626, 
+   {
+    "raw_data": "JPSartre", 
+    "quote_id": 144549, 
+    "unknown_author": "JPSartre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144601, 
+  [
+   2026, 
+   2433, 
+   {
+    "raw_data": "JPSartre", 
+    "unknown_author": "JPSartre"
+   }
+  ]
+ ], 
+ [
+  143653, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "unknown_author": "BushAlltheWay"
+   }
+  ]
+ ], 
+ [
+  144096, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144064, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144610, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144363, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142563, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 142549, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  142289, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 142271, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  145134, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145134, 
+  [
+   246, 
+   387, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145134, 
+  [
+   465, 
+   553, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145134, 
+  [
+   919, 
+   1138, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145134, 
+  [
+   1350, 
+   1945, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145078, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145135, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  142578, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 142547, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  142580, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 142551, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  143605, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "melsucceeds", 
+    "quote_id": 143549, 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  142586, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 142563, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  143614, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 143605, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142591, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142580, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144129, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144064, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144140, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 144129, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  142087, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Detrean", 
+    "quote_id": 142076, 
+    "author": "Detrean"
+   }
+  ]
+ ], 
+ [
+  144138, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "joebrummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  143115, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142900, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  143116, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 142976, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  143116, 
+  [
+   227, 
+   500, 
+   {
+    "quote_id": 142976, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  143629, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 143605, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144143, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 144076, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  143632, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "melsucceeds", 
+    "quote_id": 143629, 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  142610, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142586, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144006, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143988, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145172, 
+  [
+   0, 
+   740, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144687, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144601, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  143644, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 143632, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142110, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 142089, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  144005, 
+  [
+   19, 
+   207, 
+   {
+    "raw_data": "melsucceeds", 
+    "quote_id": 143980, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143648, 
+  [
+   17, 
+   400, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  143649, 
+  [
+   15, 
+   157, 
+   {
+    "raw_data": "melsucceeds", 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  142629, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 142481, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  142629, 
+  [
+   881, 
+   1035, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142494, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144683, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144549, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143661, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "melsucceeds", 
+    "quote_id": 143629, 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  143150, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143125, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142639, 
+  [
+   0, 
+   401, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 142591, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  142639, 
+  [
+   616, 
+   924, 
+   {
+    "quote_id": 142591, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  142639, 
+  [
+   1130, 
+   1421, 
+   {
+    "quote_id": 142591, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  143152, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143125, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  143665, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "unknown_author": "BushAlltheWay"
+   }
+  ]
+ ], 
+ [
+  143666, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143448, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  142133, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 142110, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143671, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 143668, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  145720, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145720, 
+  [
+   640, 
+   936, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145720, 
+  [
+   1775, 
+   2239, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145653, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  143430, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143125, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  143430, 
+  [
+   637, 
+   1252, 
+   {}
+  ]
+ ], 
+ [
+  143430, 
+  [
+   1258, 
+   1605, 
+   {}
+  ]
+ ], 
+ [
+  143430, 
+  [
+   1611, 
+   2839, 
+   {}
+  ]
+ ], 
+ [
+  144176, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 144144, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  144176, 
+  [
+   611, 
+   654, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 144144, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  143680, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 143661, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144608, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144358, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144708, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144687, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144790, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144739, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  142665, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142639, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144714, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144386, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  143691, 
+  [
+   19, 
+   521, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 143508, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144354, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144140, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143182, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143116, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143182, 
+  [
+   181, 
+   338, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143116, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143183, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 143150, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  145635, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "BobNelson2", 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145635, 
+  [
+   460, 
+   496, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145617, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145635, 
+  [
+   535, 
+   703, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145617, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  145635, 
+  [
+   973, 
+   1139, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145617, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  143188, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 143152, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  143189, 
+  [
+   0, 
+   983, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143183, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144214, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144214, 
+  [
+   376, 
+   554, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  143332, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143326, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145245, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145245, 
+  [
+   264, 
+   336, 
+   {
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145245, 
+  [
+   498, 
+   856, 
+   {
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145245, 
+  [
+   961, 
+   1165, 
+   {
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145245, 
+  [
+   1291, 
+   2033, 
+   {
+    "quote_id": 145134, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  143711, 
+  [
+   24, 
+   1030, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143691, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  143711, 
+  [
+   1408, 
+   2521, 
+   {}
+  ]
+ ], 
+ [
+  144739, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144711, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144358, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 143853, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  143720, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 143714, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  143721, 
+  [
+   19, 
+   780, 
+   {
+    "raw_data": "JustineCredible", 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  145763, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145720, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145763, 
+  [
+   372, 
+   511, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145720, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145772, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145720, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144749, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144715, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142703, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 142463, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  145264, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145256, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144787, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 144775, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  144020, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143986, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144251, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144138, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145276, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 145267, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144144, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144138, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144021, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 143961, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144259, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 144254, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  145914, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 145910, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  144261, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144259, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144774, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144749, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144775, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144715, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143326, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 143302, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  144266, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 144261, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  142737, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142665, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  144274, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144176, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144274, 
+  [
+   525, 
+   702, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144176, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144274, 
+  [
+   1770, 
+   1891, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144176, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  142740, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 141900, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  144277, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144266, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144278, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144259, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144791, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144776, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  142744, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 142563, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  144793, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144574, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144287, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 144278, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  142752, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 142744, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142753, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 142748, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  144776, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 144775, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  143267, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143125, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  144808, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 144791, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  145836, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 145792, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  144305, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144287, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143433, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 143426, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  142268, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Detrean", 
+    "quote_id": 140734, 
+    "author": "Detrean"
+   }
+  ]
+ ], 
+ [
+  142270, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 141798, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  142271, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142270, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144321, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144287, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144834, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144808, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144715, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 144576, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  144331, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 144259, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142801, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142578, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144914, 
+  [
+   0, 
+   268, 
+   {
+    "quote_id": 144144, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  142806, 
+  [
+   0, 
+   603, 
+   {
+    "raw_data": "melsucceeds", 
+    "quote_id": 142801, 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  142297, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Detrean", 
+    "quote_id": 140734, 
+    "author": "Detrean"
+   }
+  ]
+ ], 
+ [
+  144870, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 144714, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144861, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144776, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144861, 
+  [
+   677, 
+   788, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144776, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  144861, 
+  [
+   910, 
+   1066, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 144776, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  142814, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142629, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  143328, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142898, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  143330, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143326, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143330, 
+  [
+   152, 
+   241, 
+   {
+    "quote_id": 143182, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  142819, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Raastee", 
+    "quote_id": 142806, 
+    "author": "Raastee"
+   }
+  ]
+ ], 
+ [
+  142308, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142270, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142311, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142289, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  144360, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 143993, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144362, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 144251, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  144363, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 144277, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  142316, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143853, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143720, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143854, 
+  [
+   19, 
+   390, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 143711, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143854, 
+  [
+   508, 
+   889, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 143711, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143854, 
+  [
+   909, 
+   1471, 
+   {}
+  ]
+ ], 
+ [
+  144979, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144861, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144979, 
+  [
+   309, 
+   401, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144861, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144979, 
+  [
+   813, 
+   925, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144861, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  144979, 
+  [
+   1262, 
+   1315, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144861, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  145918, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145914, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145918, 
+  [
+   173, 
+   494, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 145914, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  145910, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 145870, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145910, 
+  [
+   672, 
+   777, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 145870, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145910, 
+  [
+   978, 
+   1130, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 145870, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  145910, 
+  [
+   1579, 
+   1907, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 145870, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  143352, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 143328, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  144890, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 144870, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  142844, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 142752, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  142846, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Raastee", 
+    "quote_id": 142806, 
+    "author": "Raastee"
+   }
+  ]
+ ]
+]

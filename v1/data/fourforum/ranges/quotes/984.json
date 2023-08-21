@@ -1,0 +1,74 @@
+[
+ [
+  16424, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16375, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  15981, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 15575, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  15983, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 15880, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  15880, 
+  [
+   0, 
+   720, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 15863, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  16319, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 16204, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  15679, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 15575, 
+    "author": "montalban"
+   }
+  ]
+ ]
+]

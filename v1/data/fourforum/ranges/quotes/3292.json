@@ -1,0 +1,618 @@
+[
+ [
+  91522, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91519, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91522, 
+  [
+   818, 
+   1010, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  93014, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 93007, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  91398, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91389, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91398, 
+  [
+   239, 
+   757, 
+   {
+    "raw_data": "jims trucking", 
+    "quote_id": 91389, 
+    "unknown_author": "jims trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91529, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91389, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91530, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91529, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91537, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91522, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91537, 
+  [
+   1045, 
+   1527, 
+   {
+    "quote_id": 91522, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91540, 
+  [
+   0, 
+   664, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91537, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91540, 
+  [
+   767, 
+   1193, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91537, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91415, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91398, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91415, 
+  [
+   393, 
+   495, 
+   {
+    "quote_id": 91398, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91415, 
+  [
+   529, 
+   1003, 
+   {
+    "quote_id": 91398, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91589, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91574, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91589, 
+  [
+   591, 
+   857, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91574, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  92144, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 92126, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  91184, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "eighteentwelve", 
+    "quote_id": 79272, 
+    "author": "eighteentwelve"
+   }
+  ]
+ ], 
+ [
+  91592, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91589, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91592, 
+  [
+   120, 
+   182, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91529, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91318, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "eighteentwelve", 
+    "quote_id": 79272, 
+    "author": "eighteentwelve"
+   }
+  ]
+ ], 
+ [
+  93111, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 93107, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91320, 
+  [
+   0, 
+   945, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91184, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  79417, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "eighteentwelve", 
+    "quote_id": 79272, 
+    "author": "eighteentwelve"
+   }
+  ]
+ ], 
+ [
+  91574, 
+  [
+   0, 
+   465, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91529, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91574, 
+  [
+   818, 
+   1194, 
+   {
+    "raw_data": "wsm", 
+    "quote_id": 91529, 
+    "unknown_author": "wsm", 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91574, 
+  [
+   1478, 
+   2007, 
+   {
+    "raw_data": "wsm", 
+    "quote_id": 91529, 
+    "unknown_author": "wsm", 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91574, 
+  [
+   2365, 
+   2715, 
+   {
+    "raw_data": "wsm", 
+    "quote_id": 91529, 
+    "unknown_author": "wsm", 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91594, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91592, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93003, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 92692, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  91342, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91320, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93007, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 93003, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91603, 
+  [
+   0, 
+   618, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91594, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91606, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91603, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93145, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 93111, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91354, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "wsm2506", 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  92126, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91603, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93027, 
+  [
+   0, 
+   734, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 93014, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  93031, 
+  [
+   0, 
+   614, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 93027, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  93037, 
+  [
+   0, 
+   824, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 93031, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91376, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91354, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  69758, 
+  [
+   0, 
+   2064, 
+   {
+    "raw_data": "badax22", 
+    "author": "badax22"
+   }
+  ]
+ ], 
+ [
+  92692, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 92126, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  91515, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 91464, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  91389, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 91376, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  91518, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91415, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91518, 
+  [
+   771, 
+   799, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91415, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91518, 
+  [
+   1232, 
+   1945, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 91415, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  91519, 
+  [
+   0, 
+   448, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 91518, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91519, 
+  [
+   889, 
+   1082, 
+   {
+    "quote_id": 91518, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91519, 
+  [
+   1120, 
+   1352, 
+   {
+    "quote_id": 91518, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  91519, 
+  [
+   1516, 
+   1836, 
+   {}
+  ]
+ ]
+]

@@ -1,0 +1,50 @@
+[
+ [
+  239264, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "JPSartre12;239207", 
+    "quote_id": 239207, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239303, 
+  [
+   0, 
+   1836, 
+   {
+    "raw_data": "electrolyte;239264", 
+    "quote_id": 239264, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239207, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "electrolyte;239198", 
+    "quote_id": 239198, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239198, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "JPSartre12;239159", 
+    "quote_id": 239159, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

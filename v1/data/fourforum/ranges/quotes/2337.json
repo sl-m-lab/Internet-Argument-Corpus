@@ -1,0 +1,38 @@
+[
+ [
+  47915, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 47889, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  47932, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 47921, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  47921, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 47915, 
+    "author": "galton"
+   }
+  ]
+ ]
+]

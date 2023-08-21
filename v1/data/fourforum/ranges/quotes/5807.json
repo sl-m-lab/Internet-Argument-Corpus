@@ -1,0 +1,638 @@
+[
+ [
+  142784, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142750, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  149761, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 149737, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  142344, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 141843, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  150167, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 150159, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  150707, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150707, 
+  [
+   255, 
+   333, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150707, 
+  [
+   525, 
+   646, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150159, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 149966, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  150034, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142344, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150332, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 150323, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  142681, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142667, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  143129, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142784, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142618, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142439, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142750, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142667, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142750, 
+  [
+   205, 
+   880, 
+   {
+    "raw_data": "WS", 
+    "unknown_author": "WS"
+   }
+  ]
+ ], 
+ [
+  142374, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142344, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150317, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 149966, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  142384, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "WhiteFalcon", 
+    "quote_id": 142374, 
+    "author": "WhiteFalcon"
+   }
+  ]
+ ], 
+ [
+  152571, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150323, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 150167, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  150196, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "Cush", 
+    "quote_id": 150080, 
+    "author": "Cush"
+   }
+  ]
+ ], 
+ [
+  142391, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142384, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142392, 
+  [
+   0, 
+   178, 
+   {
+    "quote_id": 142344, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142394, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 142392, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  142396, 
+  [
+   0, 
+   168, 
+   {
+    "quote_id": 142394, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  142397, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 142396, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  142397, 
+  [
+   96, 
+   200, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 142396, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  150334, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 150317, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  150594, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 150317, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  150595, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150393, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150596, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 150477, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  142667, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 142462, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  150476, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142434, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142425, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142434, 
+  [
+   239, 
+   306, 
+   {
+    "quote_id": 142425, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142434, 
+  [
+   408, 
+   641, 
+   {
+    "quote_id": 142425, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142434, 
+  [
+   773, 
+   867, 
+   {
+    "quote_id": 142425, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  149966, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 149852, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  142422, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "WhiteFalcon", 
+    "quote_id": 142374, 
+    "author": "WhiteFalcon"
+   }
+  ]
+ ], 
+ [
+  150080, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "cushla_machree", 
+    "quote_id": 150034, 
+    "author": "cushla_machree"
+   }
+  ]
+ ], 
+ [
+  149852, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 149761, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  149600, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 141843, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  142435, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 142422, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  150886, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 150394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142439, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Clerisian", 
+    "quote_id": 142434, 
+    "author": "Clerisian"
+   }
+  ]
+ ], 
+ [
+  149737, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "mae", 
+    "quote_id": 142681, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  142630, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "FISHX", 
+    "quote_id": 142528, 
+    "author": "FISHX"
+   }
+  ]
+ ], 
+ [
+  152430, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Pravda", 
+    "quote_id": 150896, 
+    "author": "Pravda"
+   }
+  ]
+ ], 
+ [
+  150393, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 150317, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  150394, 
+  [
+   0, 
+   413, 
+   {
+    "quote_id": 150034, 
+    "author": "cushla_machree"
+   }
+  ]
+ ], 
+ [
+  142331, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 141843, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  142462, 
+  [
+   0, 
+   692, 
+   {
+    "raw_data": "Winston Smith", 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  142462, 
+  [
+   830, 
+   2072, 
+   {}
+  ]
+ ], 
+ [
+  142335, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 142332, 
+    "author": "Symbiote"
+   }
+  ]
+ ]
+]

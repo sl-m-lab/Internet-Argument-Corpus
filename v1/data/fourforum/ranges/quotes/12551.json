@@ -1,0 +1,138 @@
+[
+ [
+  349480, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "jyoshu;349458", 
+    "quote_id": 349458, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  349481, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Cyberateos;349435", 
+    "quote_id": 349435, 
+    "author": "Cyberateos"
+   }
+  ]
+ ], 
+ [
+  349643, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "chester;349480", 
+    "quote_id": 349480, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  349643, 
+  [
+   348, 
+   518, 
+   {
+    "raw_data": "chester;349480", 
+    "quote_id": 349480, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  349555, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "cyberateos;349435", 
+    "quote_id": 349435, 
+    "unknown_author": "cyberateos", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  349526, 
+  [
+   111, 
+   247, 
+   {
+    "quote_id": 349458, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  349526, 
+  [
+   462, 
+   616, 
+   {
+    "quote_id": 349480, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  349526, 
+  [
+   864, 
+   944, 
+   {
+    "quote_id": 349480, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  349526, 
+  [
+   1150, 
+   1322, 
+   {}
+  ]
+ ], 
+ [
+  349526, 
+  [
+   1354, 
+   1399, 
+   {
+    "quote_id": 349480, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  349657, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "chester;349481", 
+    "quote_id": 349481, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  349564, 
+  [
+   12, 
+   53, 
+   {
+    "quote_id": 349555, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

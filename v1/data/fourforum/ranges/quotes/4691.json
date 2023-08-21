@@ -1,0 +1,1850 @@
+[
+ [
+  114695, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 114686, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  114184, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 114080, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  114705, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 114695, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  114711, 
+  [
+   0, 
+   1914, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 114705, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  113841, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 113839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  113841, 
+  [
+   701, 
+   1508, 
+   {
+    "raw_data": "WSJ", 
+    "unknown_author": "WSJ"
+   }
+  ]
+ ], 
+ [
+  113841, 
+  [
+   1668, 
+   1796, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 113839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  118342, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118165, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  114769, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 114711, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117859, 
+  [
+   0, 
+   1016, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117625, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117859, 
+  [
+   1328, 
+   1503, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117625, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117859, 
+  [
+   1628, 
+   2450, 
+   {
+    "raw_data": "SteveRogers", 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117859, 
+  [
+   2680, 
+   2916, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117625, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  113772, 
+  [
+   13, 
+   13145, 
+   {
+    "raw_data": "WSJ", 
+    "unknown_author": "WSJ"
+   }
+  ]
+ ], 
+ [
+  118973, 
+  [
+   0, 
+   905, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118954, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  114307, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 114184, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  114319, 
+  [
+   0, 
+   506, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 114307, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  103572, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 103306, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  116888, 
+  [
+   0, 
+   733, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 116582, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  114850, 
+  [
+   2008, 
+   2794, 
+   {}
+  ]
+ ], 
+ [
+  114850, 
+  [
+   2819, 
+   3693, 
+   {}
+  ]
+ ], 
+ [
+  114850, 
+  [
+   3770, 
+   4310, 
+   {}
+  ]
+ ], 
+ [
+  114850, 
+  [
+   4347, 
+   5347, 
+   {}
+  ]
+ ], 
+ [
+  114341, 
+  [
+   135, 
+   270, 
+   {
+    "quote_id": 114319, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  113833, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 113798, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  113833, 
+  [
+   346, 
+   993, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 113790, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  118954, 
+  [
+   0, 
+   635, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 118715, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  113839, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 113833, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117937, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117859, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117937, 
+  [
+   807, 
+   924, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117859, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117937, 
+  [
+   1339, 
+   1561, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117859, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117937, 
+  [
+   1884, 
+   2114, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117859, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  103613, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 103572, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  117953, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117937, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117953, 
+  [
+   574, 
+   979, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117937, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117953, 
+  [
+   1165, 
+   1478, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117937, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  116933, 
+  [
+   0, 
+   1056, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 116888, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  113864, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 113841, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  113864, 
+  [
+   296, 
+   1421, 
+   {}
+  ]
+ ], 
+ [
+  113864, 
+  [
+   2276, 
+   2436, 
+   {}
+  ]
+ ], 
+ [
+  116939, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "SteveRogers", 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  116939, 
+  [
+   867, 
+   1499, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118477, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118342, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118478, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118223, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118478, 
+  [
+   713, 
+   825, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118223, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118478, 
+  [
+   916, 
+   1163, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118223, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  113871, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 113833, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  113871, 
+  [
+   245, 
+   522, 
+   {
+    "quote_id": 113833, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  113871, 
+  [
+   636, 
+   933, 
+   {
+    "quote_id": 113833, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117970, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117970, 
+  [
+   1265, 
+   1429, 
+   {
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117970, 
+  [
+   1534, 
+   1597, 
+   {
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117970, 
+  [
+   1725, 
+   2134, 
+   {
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117970, 
+  [
+   2413, 
+   2567, 
+   {
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117970, 
+  [
+   2790, 
+   2859, 
+   {
+    "quote_id": 116933, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118485, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118478, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118485, 
+  [
+   135, 
+   309, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118478, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118485, 
+  [
+   681, 
+   762, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118478, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118485, 
+  [
+   888, 
+   977, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118478, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  119010, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 118973, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  103652, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 103613, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  103656, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 103652, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  119021, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 119010, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  119022, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118696, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  113790, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 113772, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  116985, 
+  [
+   0, 
+   696, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 116957, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  119034, 
+  [
+   0, 
+   1183, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 119021, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  119034, 
+  [
+   1230, 
+   3548, 
+   {}
+  ]
+ ], 
+ [
+  117501, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117002, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   408, 
+   540, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117002, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   571, 
+   818, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117002, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   977, 
+   1284, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117002, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   1602, 
+   1755, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117002, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   1965, 
+   2104, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117005, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   2137, 
+   2414, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117005, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  117501, 
+  [
+   2690, 
+   2795, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 117005, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  113930, 
+  [
+   0, 
+   806, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  115979, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 115097, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  119052, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 119044, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  114482, 
+  [
+   0, 
+   885, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  118070, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117953, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118070, 
+  [
+   327, 
+   505, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117953, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118070, 
+  [
+   799, 
+   923, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117953, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118072, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 117970, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118075, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 117970, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118154, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118114, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  114497, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 114482, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  114497, 
+  [
+   247, 
+   337, 
+   {
+    "quote_id": 114482, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  113986, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118086, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118070, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118086, 
+  [
+   412, 
+   694, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118070, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118086, 
+  [
+   739, 
+   1113, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118070, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  103250, 
+  [
+   0, 
+   1426, 
+   {
+    "raw_data": "Gerro_", 
+    "quote_id": 103072, 
+    "author": "Gerro_"
+   }
+  ]
+ ], 
+ [
+  103251, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 103249, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  118103, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118086, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118103, 
+  [
+   1116, 
+   1153, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118086, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118103, 
+  [
+   1254, 
+   1609, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118086, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118107, 
+  [
+   0, 
+   645, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118075, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118113, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118107, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118114, 
+  [
+   0, 
+   946, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118103, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118114, 
+  [
+   1019, 
+   1110, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118103, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118114, 
+  [
+   1147, 
+   1765, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118103, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118117, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118072, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118117, 
+  [
+   266, 
+   751, 
+   {
+    "quote_id": 118072, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118117, 
+  [
+   954, 
+   1547, 
+   {}
+  ]
+ ], 
+ [
+  118117, 
+  [
+   1910, 
+   2072, 
+   {
+    "quote_id": 118072, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118117, 
+  [
+   2330, 
+   3141, 
+   {}
+  ]
+ ], 
+ [
+  116582, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 115981, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  114023, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 113971, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118122, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118117, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118122, 
+  [
+   480, 
+   837, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118117, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118122, 
+  [
+   1495, 
+   1747, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118117, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118122, 
+  [
+   3531, 
+   4327, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118117, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118124, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118114, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118124, 
+  [
+   200, 
+   229, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118114, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118124, 
+  [
+   482, 
+   1243, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118114, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118125, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118124, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118125, 
+  [
+   149, 
+   392, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118124, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118125, 
+  [
+   481, 
+   737, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118124, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118125, 
+  [
+   899, 
+   1001, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118124, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  114037, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 114023, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  118135, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118135, 
+  [
+   2124, 
+   2205, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118125, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118135, 
+  [
+   2248, 
+   2402, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118125, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118135, 
+  [
+   3032, 
+   3086, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118125, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117625, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117501, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117625, 
+  [
+   1248, 
+   1399, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117501, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117625, 
+  [
+   1584, 
+   1894, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117501, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117625, 
+  [
+   2577, 
+   2779, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117501, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117625, 
+  [
+   2934, 
+   3202, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117501, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  117625, 
+  [
+   3361, 
+   3457, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 117501, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118165, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118154, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118146, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118122, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118146, 
+  [
+   882, 
+   1531, 
+   {
+    "quote_id": 118122, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118146, 
+  [
+   1688, 
+   1860, 
+   {}
+  ]
+ ], 
+ [
+  118146, 
+  [
+   1991, 
+   2764, 
+   {}
+  ]
+ ], 
+ [
+  118146, 
+  [
+   2798, 
+   3862, 
+   {}
+  ]
+ ], 
+ [
+  118147, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118135, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118147, 
+  [
+   317, 
+   616, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118135, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118147, 
+  [
+   982, 
+   2552, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118135, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118147, 
+  [
+   3146, 
+   3179, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118135, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118147, 
+  [
+   3241, 
+   3862, 
+   {
+    "raw_data": "SteveRogers", 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118153, 
+  [
+   0, 
+   590, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118153, 
+  [
+   1404, 
+   1458, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118147, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118153, 
+  [
+   1689, 
+   1876, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 118147, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  103306, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 103249, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  103317, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "Gerro_", 
+    "quote_id": 103072, 
+    "author": "Gerro_"
+   }
+  ]
+ ], 
+ [
+  103317, 
+  [
+   776, 
+   1608, 
+   {
+    "quote_id": 103072, 
+    "author": "Gerro_"
+   }
+  ]
+ ], 
+ [
+  114080, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 113971, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  118696, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118477, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  111604, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "jjhays", 
+    "quote_id": 111559, 
+    "author": "jjhays"
+   }
+  ]
+ ], 
+ [
+  111604, 
+  [
+   729, 
+   798, 
+   {
+    "quote_id": 111559, 
+    "author": "jjhays"
+   }
+  ]
+ ], 
+ [
+  118715, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118696, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  118223, 
+  [
+   0, 
+   802, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118153, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118223, 
+  [
+   1237, 
+   1458, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118153, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118223, 
+  [
+   1578, 
+   1988, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 118153, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  118223, 
+  [
+   2243, 
+   2455, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 118154, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  114670, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 114652, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  114676, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 114670, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  114686, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 114676, 
+    "author": "fracas"
+   }
+  ]
+ ]
+]

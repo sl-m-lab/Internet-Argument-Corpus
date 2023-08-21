@@ -1,0 +1,838 @@
+[
+ [
+  86025, 
+  [
+   0, 
+   1207, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 86023, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86026, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 86025, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  86026, 
+  [
+   166, 
+   257, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 86025, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  86028, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86031, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 86028, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  86034, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 86011, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  92181, 
+  [
+   0, 
+   1970, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 91977, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93208, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 93177, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  86061, 
+  [
+   0, 
+   530, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 86034, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  87603, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "Ahkmed Dalarhai", 
+    "unknown_author": "Ahkmed Dalarhai"
+   }
+  ]
+ ], 
+ [
+  87610, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 87603, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  86082, 
+  [
+   0, 
+   774, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 86061, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  86089, 
+  [
+   0, 
+   574, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86089, 
+  [
+   1015, 
+   1143, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86089, 
+  [
+   1279, 
+   1548, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86089, 
+  [
+   1800, 
+   1872, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86089, 
+  [
+   1897, 
+   2066, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  86089, 
+  [
+   2146, 
+   2674, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85580, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 85315, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  86094, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "joebrummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85583, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 85574, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  85688, 
+  [
+   0, 
+   705, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85688, 
+  [
+   1243, 
+   1512, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85589, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 85574, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  85595, 
+  [
+   0, 
+   584, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85589, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  93289, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 93208, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  93299, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 92834, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  85626, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 85574, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  85640, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 85574, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  92825, 
+  [
+   0, 
+   2298, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 92779, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  85660, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 85640, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  85661, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 85625, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  85661, 
+  [
+   299, 
+   368, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 85625, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  92831, 
+  [
+   0, 
+   783, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 92825, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   586, 
+   795, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   1037, 
+   1263, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   1901, 
+   1983, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   2069, 
+   2363, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   2484, 
+   3010, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   3039, 
+   3118, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   3208, 
+   3328, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   3522, 
+   3718, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   3754, 
+   4267, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93344, 
+  [
+   4363, 
+   4439, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93324, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  85665, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85665, 
+  [
+   687, 
+   819, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85665, 
+  [
+   1016, 
+   1289, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85665, 
+  [
+   1377, 
+   1618, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85665, 
+  [
+   1803, 
+   2333, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92834, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 92825, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  92838, 
+  [
+   0, 
+   471, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 92834, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  93360, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93354, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  85682, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85682, 
+  [
+   443, 
+   577, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85660, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85684, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85665, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  93366, 
+  [
+   0, 
+   670, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93362, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93368, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93367, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  93401, 
+  [
+   0, 
+   1913, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 93370, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  85326, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 85315, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  85358, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 85356, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  91993, 
+  [
+   0, 
+   1970, 
+   {
+    "raw_data": "Tala Kismet", 
+    "quote_id": 91977, 
+    "author": "Tala Kismet"
+   }
+  ]
+ ], 
+ [
+  141198, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 141191, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  85916, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 85470, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  85926, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 85916, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  86092, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 86034, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  86092, 
+  [
+   377, 
+   672, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 86034, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  85470, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 85358, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  93177, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 92838, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  86011, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 85916, 
+    "author": "mana'ia"
+   }
+  ]
+ ]
+]

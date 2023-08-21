@@ -1,0 +1,138 @@
+[
+ [
+  328643, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "gansao;328630", 
+    "quote_id": 328630, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328646, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "simone;328643", 
+    "quote_id": 328643, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  328648, 
+  [
+   0, 
+   1091, 
+   {
+    "raw_data": "Another opinion;328637", 
+    "quote_id": 328637, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  328648, 
+  [
+   2188, 
+   2578, 
+   {}
+  ]
+ ], 
+ [
+  328618, 
+  [
+   80, 
+   321, 
+   {}
+  ]
+ ], 
+ [
+  328653, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "gansao;328646", 
+    "quote_id": 328646, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328656, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "simone;328648", 
+    "quote_id": 328648, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  328656, 
+  [
+   833, 
+   1251, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 328648, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  328656, 
+  [
+   1518, 
+   2016, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 328648, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  328661, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Another opinion;328656", 
+    "quote_id": 328656, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  328630, 
+  [
+   0, 
+   443, 
+   {
+    "raw_data": "simone;328618", 
+    "quote_id": 328618, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  328668, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "simone;328661", 
+    "quote_id": 328661, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

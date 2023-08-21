@@ -1,0 +1,72 @@
+[
+ [
+  75880, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "chugalugalug", 
+    "author": "chugalugalug"
+   }
+  ]
+ ], 
+ [
+  76139, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 75994, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  76145, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 76053, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76053, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 75994, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  75994, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "ValiantForTruth", 
+    "author": "ValiantForTruth"
+   }
+  ]
+ ], 
+ [
+  75935, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 75880, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ]
+]

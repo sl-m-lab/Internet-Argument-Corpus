@@ -1,0 +1,49 @@
+[
+ [
+  86184, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 86174, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  86270, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 86184, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  86270, 
+  [
+   1281, 
+   1629, 
+   {
+    "quote_id": 86184, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  86174, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 85427, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

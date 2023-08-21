@@ -1,0 +1,61 @@
+[
+ [
+  69251, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 69207, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  69396, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 69374, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  69397, 
+  [
+   0, 
+   1736, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 69382, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  69400, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "Close_slave_can", 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  69374, 
+  [
+   0, 
+   463, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 69319, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,61 @@
+[
+ [
+  239424, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "billsco;239295", 
+    "quote_id": 239295, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  239436, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "flaja;239424", 
+    "quote_id": 239424, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239436, 
+  [
+   369, 
+   578, 
+   {
+    "raw_data": "flaja;239424", 
+    "quote_id": 239424, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239436, 
+  [
+   674, 
+   1178, 
+   {
+    "raw_data": "flaja;239424", 
+    "quote_id": 239424, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239478, 
+  [
+   0, 
+   47, 
+   {
+    "quote_id": 239436, 
+    "author": "billsco"
+   }
+  ]
+ ]
+]

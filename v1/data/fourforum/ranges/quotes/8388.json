@@ -1,0 +1,107 @@
+[
+ [
+  220578, 
+  [
+   0, 
+   27, 
+   {
+    "quote_id": 220237, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  219275, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 219242, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  220237, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 220056, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  220237, 
+  [
+   2093, 
+   3138, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 220056, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  219473, 
+  [
+   360, 
+   462, 
+   {
+    "quote_id": 219371, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  220056, 
+  [
+   0, 
+   670, 
+   {
+    "raw_data": "Galileo", 
+    "quote_id": 220040, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  220057, 
+  [
+   0, 
+   1444, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 219601, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  234172, 
+  [
+   0, 
+   80, 
+   {
+    "quote_id": 234142, 
+    "author": "Crunker"
+   }
+  ]
+ ], 
+ [
+  234142, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "emclean;219473", 
+    "quote_id": 219473, 
+    "author": "emclean"
+   }
+  ]
+ ]
+]

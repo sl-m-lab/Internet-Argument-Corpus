@@ -1,0 +1,72 @@
+[
+ [
+  283014, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Antibogotes;282954", 
+    "quote_id": 282954, 
+    "author": "Antibogotes"
+   }
+  ]
+ ], 
+ [
+  283054, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "pureflow;283051", 
+    "quote_id": 283051, 
+    "author": "pureflow"
+   }
+  ]
+ ], 
+ [
+  282959, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "wascallywabbit;280690", 
+    "quote_id": 280690, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  283032, 
+  [
+   0, 
+   138, 
+   {
+    "quote_id": 283014, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  283004, 
+  [
+   0, 
+   1432, 
+   {
+    "raw_data": "Antibogotes;282959", 
+    "quote_id": 282959, 
+    "author": "Antibogotes"
+   }
+  ]
+ ], 
+ [
+  283005, 
+  [
+   0, 
+   36, 
+   {
+    "quote_id": 283004, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ]
+]

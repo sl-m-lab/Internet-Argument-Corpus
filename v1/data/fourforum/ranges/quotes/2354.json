@@ -1,0 +1,50 @@
+[
+ [
+  49072, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 49045, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  49078, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 49072, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  49074, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 48425, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  49045, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 48425, 
+    "author": "Haulingboat"
+   }
+  ]
+ ]
+]

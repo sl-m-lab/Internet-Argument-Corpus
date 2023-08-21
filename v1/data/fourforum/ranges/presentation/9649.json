@@ -1,0 +1,805 @@
+[
+ [
+  254464, 
+  [
+   190, 
+   200, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   2076, 
+   2230, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   2076, 
+   2230, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   2570, 
+   2585, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   2395, 
+   2715, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Indigo&quot;"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   2395, 
+   2715, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   3284, 
+   3819, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   3823, 
+   3836, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   4046, 
+   4133, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   4181, 
+   4721, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   4725, 
+   4740, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   4807, 
+   4882, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254209, 
+  [
+   4957, 
+   5213, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254697, 
+  [
+   1290, 
+   1296, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254697, 
+  [
+   2291, 
+   2296, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   2482, 
+   2485, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   3102, 
+   3256, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   3102, 
+   3256, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   3367, 
+   3377, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   3647, 
+   3661, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   3472, 
+   3792, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Indigo&quot;"
+   }
+  ]
+ ], 
+ [
+  254282, 
+  [
+   3472, 
+   3792, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   51, 
+   158, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   51, 
+   158, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   250, 
+   388, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   250, 
+   388, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   400, 
+   417, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   564, 
+   651, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   564, 
+   651, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   679, 
+   806, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   679, 
+   806, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   1111, 
+   1315, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   1111, 
+   1315, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   1686, 
+   1857, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   1686, 
+   1857, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254305, 
+  [
+   1881, 
+   1884, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254385, 
+  [
+   322, 
+   404, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254385, 
+  [
+   322, 
+   404, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254385, 
+  [
+   780, 
+   787, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254385, 
+  [
+   1260, 
+   1267, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   141, 
+   248, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   141, 
+   248, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   388, 
+   526, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   388, 
+   526, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   538, 
+   555, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   1102, 
+   1189, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   1102, 
+   1189, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   1236, 
+   1363, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   1236, 
+   1363, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   1757, 
+   1961, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   1757, 
+   1961, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   2522, 
+   2693, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   2522, 
+   2693, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254293, 
+  [
+   2717, 
+   2720, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254585, 
+  [
+   69, 
+   79, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   254, 
+   336, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   254, 
+   336, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   595, 
+   604, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   2338, 
+   2345, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   3415, 
+   3674, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   3415, 
+   3675, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  254393, 
+  [
+   4525, 
+   4532, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254362, 
+  [
+   160, 
+   247, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254362, 
+  [
+   160, 
+   247, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254362, 
+  [
+   1254, 
+   1257, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254383, 
+  [
+   322, 
+   404, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254383, 
+  [
+   322, 
+   404, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254383, 
+  [
+   663, 
+   672, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254383, 
+  [
+   1605, 
+   1612, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254383, 
+  [
+   2085, 
+   2092, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254365, 
+  [
+   96, 
+   130, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254365, 
+  [
+   96, 
+   130, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  254398, 
+  [
+   1564, 
+   2200, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkGreen&quot;"
+   }
+  ]
+ ], 
+ [
+  254398, 
+  [
+   1564, 
+   2200, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254398, 
+  [
+   2338, 
+   2341, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254398, 
+  [
+   4679, 
+   4679, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  254398, 
+  [
+   4783, 
+   5042, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  254398, 
+  [
+   4783, 
+   5042, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

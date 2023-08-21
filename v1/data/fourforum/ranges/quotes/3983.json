@@ -1,0 +1,688 @@
+[
+ [
+  159232, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159229, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  83969, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 83944, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  159234, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159233, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  159216, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159212, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  159233, 
+  [
+   0, 
+   935, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159232, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  83977, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83969, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83977, 
+  [
+   453, 
+   588, 
+   {
+    "quote_id": 83969, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  159243, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159242, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  83854, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 83853, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  83858, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 83855, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  83994, 
+  [
+   0, 
+   595, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83969, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  159246, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159243, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  83869, 
+  [
+   0, 
+   811, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 83858, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  83872, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 83869, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84208, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 84191, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84002, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 83994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84002, 
+  [
+   559, 
+   668, 
+   {
+    "quote_id": 83994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84002, 
+  [
+   1040, 
+   1062, 
+   {
+    "quote_id": 83994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84002, 
+  [
+   1150, 
+   1270, 
+   {
+    "quote_id": 83994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  159239, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159234, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  84014, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84125, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  159219, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159216, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  84020, 
+  [
+   0, 
+   627, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 83994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84039, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 84020, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84039, 
+  [
+   534, 
+   847, 
+   {
+    "quote_id": 83994, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  83980, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83969, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83980, 
+  [
+   1399, 
+   1758, 
+   {
+    "quote_id": 83969, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84042, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83969, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  84174, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 84125, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83663, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "whosthere", 
+    "quote_id": 83652, 
+    "author": "whosthere"
+   }
+  ]
+ ], 
+ [
+  83924, 
+  [
+   0, 
+   670, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83915, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83982, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "snakespit", 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83670, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 83663, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  159226, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159222, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  84191, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 84014, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  84191, 
+  [
+   1331, 
+   1866, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 84014, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  159200, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159195, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  83940, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 83924, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  83940, 
+  [
+   182, 
+   784, 
+   {
+    "quote_id": 83924, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  83940, 
+  [
+   1023, 
+   1755, 
+   {
+    "quote_id": 83924, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  83944, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 83940, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  83817, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 83815, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  84199, 
+  [
+   0, 
+   1401, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  159212, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "Redratio1", 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  159213, 
+  [
+   531, 
+   598, 
+   {}
+  ]
+ ], 
+ [
+  83824, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 83818, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  159208, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159200, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  84212, 
+  [
+   0, 
+   876, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84208, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  159221, 
+  [
+   0, 
+   651, 
+   {
+    "raw_data": "Symbiote", 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  159222, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159219, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  159209, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159208, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  159209, 
+  [
+   404, 
+   505, 
+   {
+    "quote_id": 159208, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  159209, 
+  [
+   760, 
+   939, 
+   {
+    "quote_id": 159208, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  84218, 
+  [
+   0, 
+   707, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 84191, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84218, 
+  [
+   2201, 
+   2437, 
+   {
+    "quote_id": 84191, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84218, 
+  [
+   2919, 
+   3140, 
+   {
+    "quote_id": 84191, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  159228, 
+  [
+   0, 
+   557, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 159226, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  159229, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 159228, 
+    "author": "Redratio1"
+   }
+  ]
+ ]
+]

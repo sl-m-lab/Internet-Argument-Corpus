@@ -1,0 +1,73 @@
+[
+ [
+  293920, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "jim's trucking;293846", 
+    "quote_id": 293846, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  293814, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Archangel;293785", 
+    "quote_id": 293785, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  293846, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "electrolyte;293814", 
+    "quote_id": 293814, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  293785, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Symbiote;293784", 
+    "quote_id": 293784, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  293788, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Archangel;293785", 
+    "quote_id": 293785, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  293788, 
+  [
+   840, 
+   1004, 
+   {
+    "quote_id": 293785, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

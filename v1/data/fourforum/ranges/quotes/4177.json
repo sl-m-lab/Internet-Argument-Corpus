@@ -1,0 +1,378 @@
+[
+ [
+  89735, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "McBelbo", 
+    "quote_id": 89699, 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89482, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "McBelbo", 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89739, 
+  [
+   0, 
+   100, 
+   {
+    "quote_id": 89699, 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89741, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "McBelbo", 
+    "quote_id": 89699, 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89620, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 89610, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89371, 
+  [
+   192, 
+   212, 
+   {
+    "quote_id": 89198, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89371, 
+  [
+   350, 
+   536, 
+   {
+    "quote_id": 89198, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89371, 
+  [
+   725, 
+   1100, 
+   {
+    "quote_id": 89198, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89371, 
+  [
+   2792, 
+   3030, 
+   {
+    "quote_id": 89198, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89509, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "McBelbo", 
+    "quote_id": 89371, 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89509, 
+  [
+   445, 
+   595, 
+   {
+    "quote_id": 89371, 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89509, 
+  [
+   901, 
+   928, 
+   {
+    "quote_id": 89371, 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  88748, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 88439, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  88752, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "McBelbo", 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   112, 
+   263, 
+   {}
+  ]
+ ], 
+ [
+  89699, 
+  [
+   713, 
+   899, 
+   {
+    "quote_id": 89509, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   1126, 
+   1357, 
+   {
+    "quote_id": 89509, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   1704, 
+   1908, 
+   {
+    "quote_id": 89610, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   2520, 
+   2801, 
+   {
+    "quote_id": 89472, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   3272, 
+   3334, 
+   {
+    "quote_id": 89472, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   3409, 
+   3718, 
+   {
+    "quote_id": 89472, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   4048, 
+   4322, 
+   {
+    "quote_id": 89472, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89699, 
+  [
+   4713, 
+   4882, 
+   {
+    "quote_id": 89472, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89187, 
+  [
+   9, 
+   308, 
+   {
+    "quote_id": 89076, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89187, 
+  [
+   653, 
+   883, 
+   {
+    "quote_id": 89076, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89187, 
+  [
+   1280, 
+   1512, 
+   {
+    "quote_id": 89076, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89187, 
+  [
+   2041, 
+   2156, 
+   {
+    "quote_id": 89076, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89444, 
+  [
+   0, 
+   123, 
+   {
+    "quote_id": 89417, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89444, 
+  [
+   206, 
+   628, 
+   {
+    "quote_id": 89417, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89444, 
+  [
+   1119, 
+   1265, 
+   {
+    "quote_id": 89417, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89063, 
+  [
+   306, 
+   436, 
+   {
+    "quote_id": 88752, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89063, 
+  [
+   671, 
+   800, 
+   {
+    "quote_id": 88752, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  89198, 
+  [
+   0, 
+   3213, 
+   {
+    "raw_data": "McBelbo", 
+    "author": "McBelbo"
+   }
+  ]
+ ], 
+ [
+  89076, 
+  [
+   0, 
+   1871, 
+   {
+    "raw_data": "McBelbo", 
+    "author": "McBelbo"
+   }
+  ]
+ ]
+]

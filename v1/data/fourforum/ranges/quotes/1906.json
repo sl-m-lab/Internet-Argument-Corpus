@@ -1,0 +1,448 @@
+[
+ [
+  40972, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 40679, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38671, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38671, 
+  [
+   261, 
+   385, 
+   {}
+  ]
+ ], 
+ [
+  38671, 
+  [
+   1160, 
+   1198, 
+   {}
+  ]
+ ], 
+ [
+  38672, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "gallo", 
+    "quote_id": 38671, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  38674, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 38635, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  38674, 
+  [
+   117, 
+   142, 
+   {
+    "quote_id": 38635, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  38674, 
+  [
+   270, 
+   321, 
+   {
+    "quote_id": 38635, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  38676, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 38674, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38677, 
+  [
+   0, 
+   65, 
+   {}
+  ]
+ ], 
+ [
+  38681, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 38677, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38681, 
+  [
+   405, 
+   518, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 38674, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  40758, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 40657, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  40759, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 40661, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  40657, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "carla5010", 
+    "quote_id": 40416, 
+    "author": "carla5010"
+   }
+  ]
+ ], 
+ [
+  38868, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "gallo", 
+    "quote_id": 38681, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  38868, 
+  [
+   555, 
+   640, 
+   {
+    "quote_id": 38681, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  38868, 
+  [
+   659, 
+   804, 
+   {
+    "quote_id": 38681, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  38868, 
+  [
+   858, 
+   1066, 
+   {
+    "quote_id": 38681, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40661, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "carla5010", 
+    "quote_id": 40417, 
+    "author": "carla5010"
+   }
+  ]
+ ], 
+ [
+  38882, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "gallo", 
+    "quote_id": 38685, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "gallo", 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   280, 
+   359, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   409, 
+   638, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   696, 
+   774, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   807, 
+   908, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   946, 
+   1278, 
+   {}
+  ]
+ ], 
+ [
+  40679, 
+  [
+   1378, 
+   1477, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   1632, 
+   1873, 
+   {}
+  ]
+ ], 
+ [
+  40679, 
+  [
+   2080, 
+   2323, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   2434, 
+   2717, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   2745, 
+   2821, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  40679, 
+  [
+   3006, 
+   3145, 
+   {
+    "quote_id": 38889, 
+    "author": "gallo"
+   }
+  ]
+ ], 
+ [
+  38889, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38889, 
+  [
+   665, 
+   734, 
+   {
+    "quote_id": 38868, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38889, 
+  [
+   1250, 
+   1292, 
+   {
+    "quote_id": 38868, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38889, 
+  [
+   1633, 
+   1766, 
+   {}
+  ]
+ ], 
+ [
+  38889, 
+  [
+   2374, 
+   2513, 
+   {
+    "quote_id": 38882, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  38635, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  40760, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 40679, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  40760, 
+  [
+   308, 
+   483, 
+   {
+    "quote_id": 40679, 
+    "author": "rapture"
+   }
+  ]
+ ]
+]

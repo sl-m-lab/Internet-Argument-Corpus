@@ -1,0 +1,424 @@
+[
+ [
+  73228, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 73110, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73492, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73110, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 73109, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  73242, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  73244, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 73110, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73244, 
+  [
+   182, 
+   396, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  73244, 
+  [
+   664, 
+   1179, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  73244, 
+  [
+   1276, 
+   1526, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 73109, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  73307, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 73215, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73518, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 73109, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  73266, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73146, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 73114, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  73151, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 73146, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73160, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 73151, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  73635, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 73518, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  73433, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  73433, 
+  [
+   330, 
+   830, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  73433, 
+  [
+   905, 
+   1098, 
+   {
+    "raw_data": "Alan Ryan", 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  73434, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 73215, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73434, 
+  [
+   196, 
+   312, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 73307, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  73434, 
+  [
+   763, 
+   815, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 73307, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  73434, 
+  [
+   902, 
+   980, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 73307, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  73435, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 73242, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73435, 
+  [
+   148, 
+   239, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 73313, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  73313, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 73242, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73187, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 73160, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73445, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 73435, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73713, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 73435, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  73713, 
+  [
+   152, 
+   177, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  73713, 
+  [
+   281, 
+   557, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  73713, 
+  [
+   593, 
+   767, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  73714, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 73650, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  73215, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  73215, 
+  [
+   178, 
+   333, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  73215, 
+  [
+   530, 
+   638, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 73187, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  73215, 
+  [
+   783, 
+   1167, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ]
+]

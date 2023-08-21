@@ -1,0 +1,96 @@
+[
+ [
+  276531, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "mae;272775", 
+    "quote_id": 272775, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  217211, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  217243, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 217211, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  217265, 
+  [
+   2350, 
+   2425, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 217243, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  217272, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 217265, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  217272, 
+  [
+   36, 
+   85, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  217275, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 217272, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  217426, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Ooaman", 
+    "quote_id": 217272, 
+    "author": "Ooaman"
+   }
+  ]
+ ]
+]

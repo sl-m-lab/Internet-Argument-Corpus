@@ -1,0 +1,75 @@
+[
+ [
+  425536, 
+  [
+   377, 
+   786, 
+   {
+    "raw_data": "Paul Krugman", 
+    "unknown_author": "Paul Krugman"
+   }
+  ]
+ ], 
+ [
+  425624, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Steeeeve;425536", 
+    "quote_id": 425536, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  425624, 
+  [
+   933, 
+   1051, 
+   {
+    "quote_id": 425536, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  425624, 
+  [
+   1607, 
+   1744, 
+   {
+    "quote_id": 425536, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  425624, 
+  [
+   1832, 
+   2154, 
+   {}
+  ]
+ ], 
+ [
+  425624, 
+  [
+   2205, 
+   2594, 
+   {}
+  ]
+ ], 
+ [
+  425645, 
+  [
+   0, 
+   434, 
+   {
+    "raw_data": "daewoo;425631", 
+    "quote_id": 425631, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

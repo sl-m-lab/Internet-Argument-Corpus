@@ -1,0 +1,288 @@
+[
+ [
+  405906, 
+  [
+   0, 
+   1082, 
+   {
+    "raw_data": "jyoshu;405743", 
+    "quote_id": 405743, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  405651, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "simone;404950", 
+    "quote_id": 404950, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  405657, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Sandycane;405651", 
+    "quote_id": 405651, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  405669, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "Easyrider;405657", 
+    "quote_id": 405657, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  405931, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "Sandycane;405906", 
+    "quote_id": 405906, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  405933, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Sandycane;405669", 
+    "quote_id": 405669, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  405936, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "mata;405933", 
+    "quote_id": 405933, 
+    "author": "mata"
+   }
+  ]
+ ], 
+ [
+  405962, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "Sandycane;405954", 
+    "quote_id": 405954, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  405954, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Easyrider;405931", 
+    "quote_id": 405931, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  405954, 
+  [
+   245, 
+   538, 
+   {
+    "quote_id": 405906, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  404938, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Steeeeve;404935", 
+    "quote_id": 404935, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  404945, 
+  [
+   0, 
+   1979, 
+   {
+    "raw_data": "Sandycane;404931", 
+    "quote_id": 404931, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  404954, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "Sandycane;404931", 
+    "quote_id": 404931, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  404957, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "simone;404956", 
+    "quote_id": 404956, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  405987, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "Easyrider;405962", 
+    "quote_id": 405962, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  404968, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Easyrider;404957", 
+    "quote_id": 404957, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  405738, 
+  [
+   0, 
+   1522, 
+   {
+    "raw_data": "Sandycane;404931", 
+    "quote_id": 404931, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  405741, 
+  [
+   0, 
+   469, 
+   {
+    "raw_data": "jyoshu;405738", 
+    "quote_id": 405738, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  405743, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "Sandycane;405741", 
+    "quote_id": 405741, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  405043, 
+  [
+   0, 
+   552, 
+   {
+    "raw_data": "Easyrider;404954", 
+    "quote_id": 404954, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  406002, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Sandycane;404938", 
+    "quote_id": 404938, 
+    "author": "Sandycane"
+   }
+  ]
+ ], 
+ [
+  406003, 
+  [
+   0, 
+   1859, 
+   {
+    "raw_data": "Zardoz;405998", 
+    "quote_id": 405998, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  406004, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Steeeeve;406002", 
+    "quote_id": 406002, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  406004, 
+  [
+   201, 
+   286, 
+   {
+    "quote_id": 406002, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,62 @@
+[
+ [
+  347552, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "TRIGGER;347550", 
+    "quote_id": 347550, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  347586, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "sinjin;347580", 
+    "quote_id": 347580, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  347580, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "TRIGGER;347556", 
+    "quote_id": 347556, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  347550, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;347547", 
+    "quote_id": 347547, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  347551, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;347547", 
+    "quote_id": 347547, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

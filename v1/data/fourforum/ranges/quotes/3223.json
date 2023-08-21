@@ -1,0 +1,416 @@
+[
+ [
+  68097, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 68043, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  68098, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 68077, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  67972, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67853, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  67848, 
+  [
+   0, 
+   515, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 67822, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  67853, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 67848, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  67854, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67853, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  68077, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67989, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  67858, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 67854, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  67859, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67858, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  67860, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 67859, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  67989, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 67972, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  67862, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67860, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  68100, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 68043, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  67645, 
+  [
+   0, 
+   541, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67626, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  68043, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 67989, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  67653, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 67645, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  67786, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67786, 
+  [
+   395, 
+   490, 
+   {
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67786, 
+  [
+   529, 
+   715, 
+   {
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67786, 
+  [
+   755, 
+   783, 
+   {
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67659, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 67645, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  67660, 
+  [
+   0, 
+   1027, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67659, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67663, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67659, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67671, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67671, 
+  [
+   659, 
+   1113, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67671, 
+  [
+   1198, 
+   1241, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67671, 
+  [
+   1312, 
+   1376, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67679, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 67653, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  67680, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67659, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67680, 
+  [
+   684, 
+   760, 
+   {
+    "quote_id": 67659, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67680, 
+  [
+   1014, 
+   1311, 
+   {
+    "quote_id": 67659, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67680, 
+  [
+   1739, 
+   1799, 
+   {
+    "quote_id": 67659, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67690, 
+  [
+   0, 
+   908, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 67665, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  67658, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 67653, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68085, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 68077, 
+    "author": "Mach"
+   }
+  ]
+ ]
+]

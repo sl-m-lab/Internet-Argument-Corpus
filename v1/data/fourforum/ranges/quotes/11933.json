@@ -1,0 +1,613 @@
+[
+ [
+  332032, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Penfold;332031", 
+    "quote_id": 332031, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  332032, 
+  [
+   164, 
+   246, 
+   {
+    "quote_id": 332031, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  332033, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "NATO 556;331935", 
+    "quote_id": 331935, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332034, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "NATO 556;332032", 
+    "quote_id": 332032, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332204, 
+  [
+   0, 
+   224, 
+   {}
+  ]
+ ], 
+ [
+  332204, 
+  [
+   398, 
+   1028, 
+   {}
+  ]
+ ], 
+ [
+  332204, 
+  [
+   1210, 
+   1879, 
+   {}
+  ]
+ ], 
+ [
+  332204, 
+  [
+   2008, 
+   2183, 
+   {
+    "quote_id": 331967, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332204, 
+  [
+   2261, 
+   2465, 
+   {
+    "quote_id": 331967, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332204, 
+  [
+   2500, 
+   2892, 
+   {}
+  ]
+ ], 
+ [
+  332204, 
+  [
+   3055, 
+   3098, 
+   {
+    "raw_data": "Ethmi", 
+    "quote_id": 332185, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  332204, 
+  [
+   3099, 
+   3163, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  331673, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Brady;331666", 
+    "quote_id": 331666, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  331929, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "iangb;331915", 
+    "quote_id": 331915, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331932, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Penfold;331826", 
+    "quote_id": 331826, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331932, 
+  [
+   987, 
+   1372, 
+   {
+    "raw_data": "Penfold", 
+    "quote_id": 331675, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331680, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "Penfold;331675", 
+    "quote_id": 331675, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331679, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Brady;331666", 
+    "quote_id": 331666, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  331687, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "Penfold;331675", 
+    "quote_id": 331675, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  332060, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Penfold;332034", 
+    "quote_id": 332034, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331948, 
+  [
+   0, 
+   452, 
+   {
+    "quote_id": 331929, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  331835, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Penfold;331826", 
+    "quote_id": 331826, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331708, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "Archangel;331673", 
+    "quote_id": 331673, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  331708, 
+  [
+   793, 
+   1317, 
+   {
+    "raw_data": "Penfold;331675", 
+    "quote_id": 331675, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331708, 
+  [
+   1323, 
+   1932, 
+   {
+    "raw_data": "Archangel;331687", 
+    "quote_id": 331687, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  331708, 
+  [
+   1938, 
+   2008, 
+   {
+    "raw_data": "Penfold;331702", 
+    "quote_id": 331702, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   8, 
+   174, 
+   {
+    "raw_data": "iangb;332204", 
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   575, 
+   653, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   726, 
+   820, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   1203, 
+   1258, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   1827, 
+   1897, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   2680, 
+   2707, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   2745, 
+   2774, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332221, 
+  [
+   2813, 
+   2935, 
+   {
+    "quote_id": 332204, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  333246, 
+  [
+   0, 
+   407, 
+   {
+    "raw_data": "Galileo;332130", 
+    "quote_id": 332130, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  331967, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "iangb;331948", 
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331967, 
+  [
+   1082, 
+   1640, 
+   {
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331967, 
+  [
+   2515, 
+   2608, 
+   {
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331967, 
+  [
+   2757, 
+   2800, 
+   {
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331967, 
+  [
+   2985, 
+   3068, 
+   {
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331967, 
+  [
+   3282, 
+   3523, 
+   {
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  331712, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Archangel;331708", 
+    "quote_id": 331708, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  332185, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Penfold;332144", 
+    "quote_id": 332144, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  331976, 
+  [
+   0, 
+   1247, 
+   {
+    "raw_data": "iangb;331948", 
+    "quote_id": 331948, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332130, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "NATO 556;332043", 
+    "quote_id": 332043, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332122, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "NATO 556;331987", 
+    "quote_id": 331987, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332002, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "NATO 556;331987", 
+    "quote_id": 331987, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  331881, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "Penfold;331675", 
+    "quote_id": 331675, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  332144, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "NATO 556;332043", 
+    "quote_id": 332043, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  332150, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Galileo;332130", 
+    "quote_id": 332130, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  332150, 
+  [
+   499, 
+   644, 
+   {}
+  ]
+ ], 
+ [
+  332151, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Penfold;332144", 
+    "quote_id": 332144, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  332057, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Brady;331666", 
+    "quote_id": 331666, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  332031, 
+  [
+   0, 
+   927, 
+   {
+    "raw_data": "Archangel;331932", 
+    "quote_id": 331932, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

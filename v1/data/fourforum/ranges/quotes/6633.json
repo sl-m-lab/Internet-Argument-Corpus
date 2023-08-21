@@ -1,0 +1,722 @@
+[
+ [
+  171264, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 171235, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  171521, 
+  [
+   0, 
+   535, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 171039, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173444, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173432, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173444, 
+  [
+   255, 
+   479, 
+   {
+    "quote_id": 173432, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173444, 
+  [
+   2037, 
+   2342, 
+   {
+    "quote_id": 173432, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  171269, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 171236, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173195, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  171533, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 171425, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173198, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173195, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173586, 
+  [
+   0, 
+   586, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173477, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173586, 
+  [
+   685, 
+   1322, 
+   {}
+  ]
+ ], 
+ [
+  172957, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 172902, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  171423, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 171264, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  171425, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  287011, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "daewoo;173687", 
+    "quote_id": 173687, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  287012, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Ooaman;173737", 
+    "quote_id": 173737, 
+    "author": "Ooaman"
+   }
+  ]
+ ], 
+ [
+  173477, 
+  [
+   0, 
+   190, 
+   {
+    "quote_id": 173444, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173477, 
+  [
+   578, 
+   826, 
+   {
+    "quote_id": 173444, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173477, 
+  [
+   1413, 
+   1720, 
+   {
+    "quote_id": 173444, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173477, 
+  [
+   2163, 
+   2531, 
+   {
+    "quote_id": 173444, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173737, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 173687, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173484, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173477, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173484, 
+  [
+   761, 
+   1266, 
+   {
+    "quote_id": 173477, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173484, 
+  [
+   1455, 
+   1700, 
+   {
+    "quote_id": 173477, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173484, 
+  [
+   2388, 
+   2572, 
+   {
+    "quote_id": 173477, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173484, 
+  [
+   2798, 
+   2987, 
+   {
+    "quote_id": 173477, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  174513, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 174391, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173496, 
+  [
+   0, 
+   400, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 173488, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  174399, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 174391, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173504, 
+  [
+   0, 
+   400, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 173488, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173508, 
+  [
+   0, 
+   1600, 
+   {
+    "raw_data": "Bell", 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  174406, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 174391, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  173667, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173663, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173771, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173678, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173771, 
+  [
+   283, 
+   468, 
+   {
+    "quote_id": 173678, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  171086, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 171073, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  171091, 
+  [
+   0, 
+   535, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 171039, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  188630, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "Charliegone", 
+    "quote_id": 188567, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  173663, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 173484, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173663, 
+  [
+   677, 
+   892, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 173484, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173663, 
+  [
+   1091, 
+   1347, 
+   {
+    "quote_id": 173484, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173663, 
+  [
+   1826, 
+   1986, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 173508, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  173663, 
+  [
+   2288, 
+   2517, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 173567, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  171232, 
+  [
+   0, 
+   545, 
+   {
+    "raw_data": "Phantos", 
+    "quote_id": 171090, 
+    "author": "Phantos"
+   }
+  ]
+ ], 
+ [
+  171235, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 171091, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  171235, 
+  [
+   555, 
+   999, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 171091, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  171235, 
+  [
+   1362, 
+   1421, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 171091, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  171236, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 171097, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  172902, 
+  [
+   284, 
+   644, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 171269, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  174128, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173812, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  174128, 
+  [
+   1491, 
+   1587, 
+   {
+    "quote_id": 173812, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173678, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 173667, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  173812, 
+  [
+   612, 
+   703, 
+   {
+    "raw_data": "daeoo", 
+    "quote_id": 173687, 
+    "unknown_author": "daeoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173812, 
+  [
+   1269, 
+   1350, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 173687, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173687, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173663, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173687, 
+  [
+   301, 
+   489, 
+   {
+    "quote_id": 173663, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173687, 
+  [
+   1570, 
+   1950, 
+   {
+    "quote_id": 173663, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173432, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 173198, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  173822, 
+  [
+   0, 
+   145, 
+   {
+    "quote_id": 173812, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173822, 
+  [
+   256, 
+   663, 
+   {
+    "quote_id": 173812, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173822, 
+  [
+   1497, 
+   1551, 
+   {
+    "quote_id": 173812, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  173567, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 173432, 
+    "author": "Bell"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,1790 @@
+[
+ [
+  371201, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Nozza1;371081", 
+    "quote_id": 371081, 
+    "author": "Nozza1"
+   }
+  ]
+ ], 
+ [
+  371201, 
+  [
+   141, 
+   199, 
+   {
+    "raw_data": "Nozza1;371069", 
+    "quote_id": 371069, 
+    "author": "Nozza1"
+   }
+  ]
+ ], 
+ [
+  371202, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "NATO 556;371090", 
+    "quote_id": 371090, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371202, 
+  [
+   92, 
+   132, 
+   {
+    "quote_id": 371090, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371202, 
+  [
+   151, 
+   205, 
+   {
+    "quote_id": 371090, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371202, 
+  [
+   226, 
+   312, 
+   {}
+  ]
+ ], 
+ [
+  371203, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "zsu2357;371123", 
+    "quote_id": 371123, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  371204, 
+  [
+   0, 
+   631, 
+   {
+    "raw_data": "Doc Jones;371164", 
+    "quote_id": 371164, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371204, 
+  [
+   693, 
+   787, 
+   {
+    "quote_id": 371164, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371205, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "sinjin;371202", 
+    "quote_id": 371202, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371205, 
+  [
+   374, 
+   387, 
+   {
+    "quote_id": 371202, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371205, 
+  [
+   557, 
+   572, 
+   {
+    "quote_id": 371202, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371205, 
+  [
+   748, 
+   827, 
+   {}
+  ]
+ ], 
+ [
+  371206, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "NATO 556;371205", 
+    "quote_id": 371205, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371206, 
+  [
+   184, 
+   393, 
+   {
+    "raw_data": "NATO 556;371071", 
+    "quote_id": 371071, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371206, 
+  [
+   477, 
+   650, 
+   {
+    "quote_id": 371205, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371206, 
+  [
+   695, 
+   855, 
+   {
+    "quote_id": 371205, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371206, 
+  [
+   1223, 
+   1389, 
+   {
+    "quote_id": 371205, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371206, 
+  [
+   1476, 
+   1615, 
+   {
+    "quote_id": 371205, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371219, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "sinjin;371206", 
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371219, 
+  [
+   262, 
+   301, 
+   {
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371219, 
+  [
+   414, 
+   775, 
+   {
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371219, 
+  [
+   1035, 
+   1077, 
+   {
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371219, 
+  [
+   1173, 
+   1211, 
+   {
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371219, 
+  [
+   1297, 
+   1320, 
+   {
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371223, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "sinjin;371203", 
+    "quote_id": 371203, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371224, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "sinjin;371203", 
+    "quote_id": 371203, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371226, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "sinjin;371206", 
+    "quote_id": 371206, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371236, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "NATO 556;371218", 
+    "quote_id": 371218, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Doc Jones;371219", 
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   171, 
+   274, 
+   {
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   332, 
+   582, 
+   {
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   667, 
+   753, 
+   {
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   850, 
+   897, 
+   {
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   913, 
+   966, 
+   {
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371239, 
+  [
+   1047, 
+   1111, 
+   {
+    "quote_id": 371219, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371240, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Doc Jones;371223", 
+    "quote_id": 371223, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371240, 
+  [
+   197, 
+   229, 
+   {
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371241, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "zsu2357;371224", 
+    "quote_id": 371224, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  371244, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "OldSarge;371226", 
+    "quote_id": 371226, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371247, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "sinjin;371244", 
+    "quote_id": 371244, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371251, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "OldSarge;371247", 
+    "quote_id": 371247, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371253, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "sinjin;371251", 
+    "quote_id": 371251, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371783, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "NATO 556;371489", 
+    "quote_id": 371489, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371783, 
+  [
+   226, 
+   1000, 
+   {
+    "raw_data": "NATO 556;371489", 
+    "quote_id": 371489, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371272, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "sinjin;371201", 
+    "quote_id": 371201, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371785, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Doc Jones;371439", 
+    "quote_id": 371439, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371785, 
+  [
+   74, 
+   113, 
+   {
+    "raw_data": "sinjin;371440", 
+    "quote_id": 371440, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371785, 
+  [
+   119, 
+   152, 
+   {
+    "raw_data": "Doc Jones;371469", 
+    "quote_id": 371469, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371277, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "OldSarge;371253", 
+    "quote_id": 371253, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371790, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "sinjin;371785", 
+    "quote_id": 371785, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371793, 
+  [
+   0, 
+   1269, 
+   {
+    "raw_data": "Doc Jones;371502", 
+    "quote_id": 371502, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371282, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Mosheh Thezion;371144", 
+    "quote_id": 371144, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  371795, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "JPSartre12;371793", 
+    "quote_id": 371793, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371798, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Tither;371795", 
+    "quote_id": 371795, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  371812, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Tither;371811", 
+    "quote_id": 371811, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  371898, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Doc Jones;371852", 
+    "quote_id": 371852, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371898, 
+  [
+   261, 
+   857, 
+   {
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371898, 
+  [
+   1030, 
+   1295, 
+   {
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371811, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "JPSartre12;371798", 
+    "quote_id": 371798, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371811, 
+  [
+   392, 
+   631, 
+   {
+    "raw_data": "&quot;Doc&quot;", 
+    "quote_id": 371502, 
+    "unknown_author": "&quot", 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371300, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "sinjin;371277", 
+    "quote_id": 371277, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371814, 
+  [
+   0, 
+   615, 
+   {
+    "raw_data": "JPSartre12;371812", 
+    "quote_id": 371812, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371815, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "JPSartre12;371798", 
+    "quote_id": 371798, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371817, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "sinjin;371783", 
+    "quote_id": 371783, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371817, 
+  [
+   180, 
+   313, 
+   {
+    "quote_id": 371783, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371821, 
+  [
+   0, 
+   2182, 
+   {
+    "raw_data": "Doc Jones;371815", 
+    "quote_id": 371815, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371822, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "JPSartre12;371821", 
+    "quote_id": 371821, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371827, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "Doc Jones;371822", 
+    "quote_id": 371822, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371827, 
+  [
+   744, 
+   865, 
+   {
+    "quote_id": 371822, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371837, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "JPSartre12;371827", 
+    "quote_id": 371827, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371837, 
+  [
+   473, 
+   620, 
+   {
+    "quote_id": 371827, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371843, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Doc Jones;371837", 
+    "quote_id": 371837, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371843, 
+  [
+   124, 
+   486, 
+   {}
+  ]
+ ], 
+ [
+  371843, 
+  [
+   519, 
+   1504, 
+   {
+    "quote_id": 371837, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371340, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "sinjin;371244", 
+    "quote_id": 371244, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371345, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "JPSartre12;371282", 
+    "quote_id": 371282, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371346, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "Nozza123;371339", 
+    "quote_id": 371339, 
+    "author": "Nozza123"
+   }
+  ]
+ ], 
+ [
+  371352, 
+  [
+   0, 
+   1090, 
+   {
+    "raw_data": "Mosheh Thezion;371346", 
+    "quote_id": 371346, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  371353, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Ethmi;371352", 
+    "quote_id": 371352, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  371354, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "sinjin;371240", 
+    "quote_id": 371240, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371354, 
+  [
+   709, 
+   2262, 
+   {}
+  ]
+ ], 
+ [
+  371910, 
+  [
+   132, 
+   369, 
+   {
+    "raw_data": "tither", 
+    "unknown_author": "tither"
+   }
+  ]
+ ], 
+ [
+  371370, 
+  [
+   0, 
+   1240, 
+   {
+    "raw_data": "OldSarge;371365", 
+    "quote_id": 371365, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371911, 
+  [
+   0, 
+   410, 
+   {
+    "raw_data": "JPSartre12;371910", 
+    "quote_id": 371910, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371899, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Bryan;371874", 
+    "quote_id": 371874, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  371899, 
+  [
+   541, 
+   909, 
+   {
+    "quote_id": 371815, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371902, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "Tither", 
+    "quote_id": 371899, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  371904, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "JPSartre12;371902", 
+    "quote_id": 371902, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371904, 
+  [
+   100, 
+   245, 
+   {}
+  ]
+ ], 
+ [
+  371904, 
+  [
+   315, 
+   566, 
+   {}
+  ]
+ ], 
+ [
+  371905, 
+  [
+   44, 
+   2201, 
+   {}
+  ]
+ ], 
+ [
+  371396, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "OldSarge;371300", 
+    "quote_id": 371300, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371398, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "OldSarge;371386", 
+    "quote_id": 371386, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371399, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Nozza123;371340", 
+    "quote_id": 371340, 
+    "author": "Nozza123"
+   }
+  ]
+ ], 
+ [
+  371914, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "JPSartre12;371910", 
+    "quote_id": 371910, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371403, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "sinjin;371398", 
+    "quote_id": 371398, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371406, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "NATO 556;371403", 
+    "quote_id": 371403, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371408, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "sinjin;371406", 
+    "quote_id": 371406, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371420, 
+  [
+   0, 
+   851, 
+   {
+    "raw_data": "NATO 556;371408", 
+    "quote_id": 371408, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371421, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "NATO 556;371408", 
+    "quote_id": 371408, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371421, 
+  [
+   217, 
+   457, 
+   {
+    "quote_id": 371408, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371421, 
+  [
+   641, 
+   1077, 
+   {
+    "quote_id": 371408, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371422, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "sinjin;371421", 
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371425, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "JPSartre12;371422", 
+    "quote_id": 371422, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371427, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "sinjin;371425", 
+    "quote_id": 371425, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371428, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Doc Jones;371420", 
+    "quote_id": 371420, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371428, 
+  [
+   344, 
+   409, 
+   {
+    "raw_data": "Doc Jones;354647", 
+    "unknown_quote_id": 354647, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371429, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "JPSartre12;371427", 
+    "quote_id": 371427, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371439, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "sinjin;371428", 
+    "quote_id": 371428, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371439, 
+  [
+   500, 
+   597, 
+   {
+    "quote_id": 371428, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371439, 
+  [
+   936, 
+   958, 
+   {
+    "quote_id": 371428, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371439, 
+  [
+   1031, 
+   1173, 
+   {}
+  ]
+ ], 
+ [
+  371440, 
+  [
+   149, 
+   217, 
+   {
+    "raw_data": "Doc Jones;371439", 
+    "quote_id": 371439, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "sinjin;371421", 
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   173, 
+   350, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   591, 
+   705, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   731, 
+   781, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   890, 
+   1002, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   1095, 
+   1171, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   1203, 
+   1266, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   1287, 
+   1362, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371442, 
+  [
+   1419, 
+   1487, 
+   {
+    "quote_id": 371421, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371469, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "sinjin;371440", 
+    "quote_id": 371440, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371469, 
+  [
+   80, 
+   165, 
+   {
+    "quote_id": 371440, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371469, 
+  [
+   1124, 
+   1163, 
+   {
+    "quote_id": 371440, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371471, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "sinjin;371429", 
+    "quote_id": 371429, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371471, 
+  [
+   263, 
+   558, 
+   {
+    "raw_data": "Doc Jones;371439", 
+    "quote_id": 371439, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  370975, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Symbiote;370940", 
+    "quote_id": 370940, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  370982, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Mosheh Thezion;370963", 
+    "quote_id": 370963, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  370984, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Symbiote;370973", 
+    "quote_id": 370973, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  371499, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Mosheh Thezion;371353", 
+    "quote_id": 371353, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  371501, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "sinjin;371398", 
+    "quote_id": 371398, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371502, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "zsu2357;371501", 
+    "quote_id": 371501, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  371851, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "JPSartre12;371843", 
+    "quote_id": 371843, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371014, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "sinjin;371013", 
+    "quote_id": 371013, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371027, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Mosheh Thezion;370963", 
+    "quote_id": 370963, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  371069, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Doc Jones;370975", 
+    "quote_id": 370975, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  371070, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Nozza1;371069", 
+    "quote_id": 371069, 
+    "author": "Nozza1"
+   }
+  ]
+ ], 
+ [
+  371071, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "sinjin;371070", 
+    "quote_id": 371070, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371077, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "NATO 556;371071", 
+    "quote_id": 371071, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371077, 
+  [
+   336, 
+   462, 
+   {
+    "quote_id": 371071, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371081, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "sinjin;371070", 
+    "quote_id": 371070, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371083, 
+  [
+   0, 
+   1099, 
+   {
+    "raw_data": "sinjin;371077", 
+    "quote_id": 371077, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371090, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "sinjin;371077", 
+    "quote_id": 371077, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371090, 
+  [
+   90, 
+   171, 
+   {
+    "quote_id": 371077, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371090, 
+  [
+   221, 
+   442, 
+   {
+    "quote_id": 371077, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371106, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "NATO 556;371090", 
+    "quote_id": 371090, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  371271, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "sinjin;371203", 
+    "quote_id": 371203, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371123, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "sinjin;371070", 
+    "quote_id": 371070, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  371144, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "JPSartre12;371027", 
+    "quote_id": 371027, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371145, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "zsu2357;370982", 
+    "quote_id": 370982, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  371852, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "JPSartre12;371843", 
+    "quote_id": 371843, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  371852, 
+  [
+   258, 
+   319, 
+   {}
+  ]
+ ], 
+ [
+  371164, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "OldSarge;371106", 
+    "quote_id": 371106, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  371168, 
+  [
+   0, 
+   728, 
+   {
+    "raw_data": "Doc Jones;371164", 
+    "quote_id": 371164, 
+    "author": "Doc Jones"
+   }
+  ]
+ ]
+]

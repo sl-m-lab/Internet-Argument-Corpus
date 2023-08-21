@@ -1,0 +1,908 @@
+[
+ [
+  348674, 
+  [
+   0, 
+   682, 
+   {
+    "raw_data": "CUNxTime;348636", 
+    "quote_id": 348636, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  348676, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "simone;348666", 
+    "quote_id": 348666, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348609, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Easyrider;348605", 
+    "quote_id": 348605, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348178, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "DrD;348158", 
+    "quote_id": 348158, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  348178, 
+  [
+   587, 
+   1092, 
+   {
+    "raw_data": "DrD;348158", 
+    "quote_id": 348158, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  348178, 
+  [
+   1395, 
+   1610, 
+   {
+    "raw_data": "DrD;348158", 
+    "quote_id": 348158, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  348180, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "foundit66;348155", 
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348309, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "foundit66", 
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348309, 
+  [
+   221, 
+   313, 
+   {
+    "raw_data": "foundit66", 
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348309, 
+  [
+   466, 
+   647, 
+   {
+    "raw_data": "foundit66", 
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348182, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Easyrider;348178", 
+    "quote_id": 348178, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348182, 
+  [
+   903, 
+   948, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348178, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348182, 
+  [
+   1649, 
+   1840, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348178, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348182, 
+  [
+   1988, 
+   2095, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348178, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348182, 
+  [
+   2734, 
+   2776, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348178, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348182, 
+  [
+   3083, 
+   3219, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348178, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348311, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "simone;348267", 
+    "quote_id": 348267, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348311, 
+  [
+   375, 
+   462, 
+   {
+    "quote_id": 348267, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348185, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "foundit66;348182", 
+    "quote_id": 348182, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348185, 
+  [
+   597, 
+   612, 
+   {
+    "raw_data": "foundit66;348182", 
+    "quote_id": 348182, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348186, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "DrD;348184", 
+    "quote_id": 348184, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  348443, 
+  [
+   0, 
+   2191, 
+   {
+    "raw_data": "foundit66;348155", 
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Easyrider;348185", 
+    "quote_id": 348185, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   763, 
+   990, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   1514, 
+   1574, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   1882, 
+   1899, 
+   {
+    "raw_data": "EasyRider", 
+    "unknown_author": "EasyRider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   2070, 
+   2198, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   2516, 
+   2594, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   3209, 
+   3338, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   3562, 
+   3616, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   4118, 
+   4258, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   4339, 
+   4392, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   4617, 
+   4849, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   5262, 
+   5570, 
+   {
+    "raw_data": "EasyRider", 
+    "unknown_author": "EasyRider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   5687, 
+   5784, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   6078, 
+   6228, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   6290, 
+   6402, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   6687, 
+   6721, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348189, 
+  [
+   7289, 
+   7333, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348185, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348592, 
+  [
+   0, 
+   2005, 
+   {}
+  ]
+ ], 
+ [
+  348451, 
+  [
+   0, 
+   758, 
+   {
+    "raw_data": "foundit66;348155", 
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348451, 
+  [
+   891, 
+   950, 
+   {
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348451, 
+  [
+   1111, 
+   1246, 
+   {
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348451, 
+  [
+   1566, 
+   1896, 
+   {
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348451, 
+  [
+   2052, 
+   2232, 
+   {
+    "quote_id": 348155, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  348198, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Symbiote;348191", 
+    "quote_id": 348191, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  348591, 
+  [
+   85, 
+   828, 
+   {}
+  ]
+ ], 
+ [
+  348345, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Lakrite;348309", 
+    "quote_id": 348309, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  348605, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "simone;348592", 
+    "quote_id": 348592, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348352, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "T.Q;348324", 
+    "quote_id": 348324, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  348352, 
+  [
+   262, 
+   492, 
+   {
+    "raw_data": "simone;348267", 
+    "quote_id": 348267, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348352, 
+  [
+   637, 
+   724, 
+   {
+    "quote_id": 348267, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  348359, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Lakrite;348309", 
+    "quote_id": 348309, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  348359, 
+  [
+   669, 
+   814, 
+   {
+    "raw_data": "Lakrite", 
+    "quote_id": 348309, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  348359, 
+  [
+   1233, 
+   1367, 
+   {
+    "raw_data": "Lakrite", 
+    "quote_id": 348309, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  348359, 
+  [
+   1900, 
+   2078, 
+   {
+    "raw_data": "Lakrite", 
+    "quote_id": 348309, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  348108, 
+  [
+   59, 
+   750, 
+   {}
+  ]
+ ], 
+ [
+  348442, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Archangel;348352", 
+    "quote_id": 348352, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  348267, 
+  [
+   0, 
+   963, 
+   {
+    "raw_data": "Archangel;348154", 
+    "quote_id": 348154, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  348153, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "DrD;348108", 
+    "quote_id": 348108, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  348154, 
+  [
+   0, 
+   790, 
+   {
+    "raw_data": "DrNo;348153", 
+    "quote_id": 348153, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  348155, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "DrNo;348153", 
+    "quote_id": 348153, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  348155, 
+  [
+   1126, 
+   1318, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 348154, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  348155, 
+  [
+   2155, 
+   2282, 
+   {
+    "raw_data": "Archie", 
+    "quote_id": 348154, 
+    "unknown_author": "Archie", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  348156, 
+  [
+   103, 
+   468, 
+   {
+    "raw_data": "Rush Limbaugh", 
+    "unknown_author": "Rush Limbaugh"
+   }
+  ]
+ ], 
+ [
+  348158, 
+  [
+   0, 
+   790, 
+   {
+    "raw_data": "DrNo;348153", 
+    "quote_id": 348153, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Easyrider;348180", 
+    "quote_id": 348180, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   376, 
+   449, 
+   {
+    "raw_data": "EasyRider", 
+    "unknown_author": "EasyRider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   713, 
+   774, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   1152, 
+   1220, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   1741, 
+   1921, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   2001, 
+   2253, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   2424, 
+   2540, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   3163, 
+   3262, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  348181, 
+  [
+   3550, 
+   3689, 
+   {
+    "raw_data": "EasyRider", 
+    "quote_id": 348180, 
+    "unknown_author": "EasyRider", 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

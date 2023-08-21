@@ -1,0 +1,471 @@
+[
+ [
+  73344, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73343, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73347, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73342, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73348, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 73347, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  72585, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 72581, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  72586, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 72584, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  72591, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 72585, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  72592, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 72586, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  73363, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 73322, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  73363, 
+  [
+   127, 
+   325, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73330, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73363, 
+  [
+   1709, 
+   3623, 
+   {}
+  ]
+ ], 
+ [
+  73372, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73342, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73373, 
+  [
+   27, 
+   88, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 73364, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  73373, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  73373, 
+  [
+   896, 
+   1197, 
+   {}
+  ]
+ ], 
+ [
+  73373, 
+  [
+   1258, 
+   1616, 
+   {}
+  ]
+ ], 
+ [
+  73373, 
+  [
+   1737, 
+   2069, 
+   {}
+  ]
+ ], 
+ [
+  73376, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 73373, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  72774, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "kickin50", 
+    "quote_id": 72767, 
+    "author": "kickin50"
+   }
+  ]
+ ], 
+ [
+  72614, 
+  [
+   0, 
+   772, 
+   {
+    "raw_data": "kickin50", 
+    "quote_id": 72610, 
+    "author": "kickin50"
+   }
+  ]
+ ], 
+ [
+  72622, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "kickin50", 
+    "quote_id": 72610, 
+    "author": "kickin50"
+   }
+  ]
+ ], 
+ [
+  73352, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73348, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  72766, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 72669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  72766, 
+  [
+   190, 
+   395, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  72646, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 72622, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  73288, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "jskufan", 
+    "quote_id": 72584, 
+    "author": "jskufan"
+   }
+  ]
+ ], 
+ [
+  73378, 
+  [
+   0, 
+   658, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 73376, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  72659, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "Traveler", 
+    "quote_id": 72586, 
+    "author": "Traveler"
+   }
+  ]
+ ], 
+ [
+  72669, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "kickin50", 
+    "quote_id": 72646, 
+    "author": "kickin50"
+   }
+  ]
+ ], 
+ [
+  73381, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 73378, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  72673, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 72669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  72673, 
+  [
+   402, 
+   562, 
+   {}
+  ]
+ ], 
+ [
+  72673, 
+  [
+   621, 
+   882, 
+   {}
+  ]
+ ], 
+ [
+  72673, 
+  [
+   886, 
+   992, 
+   {}
+  ]
+ ], 
+ [
+  72675, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "pnac=ww3", 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  72675, 
+  [
+   380, 
+   541, 
+   {}
+  ]
+ ], 
+ [
+  72688, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 72669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  73330, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 73322, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  73332, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 73322, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  73336, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73332, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73338, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73332, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73342, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 73336, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  73343, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 73338, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,82 @@
+[
+ [
+  215492, 
+  [
+   143, 
+   813, 
+   {}
+  ]
+ ], 
+ [
+  215532, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Daedalus", 
+    "quote_id": 215492, 
+    "author": "Daedalus"
+   }
+  ]
+ ], 
+ [
+  215507, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Daedalus", 
+    "quote_id": 215485, 
+    "author": "Daedalus"
+   }
+  ]
+ ], 
+ [
+  215699, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 215583, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  215716, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 215699, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  215579, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 215507, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  215583, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 215579, 
+    "author": "pandion"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,14091 @@
+[
+ [
+  206866, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "trebor", 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  206868, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 206687, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  206871, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 206689, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  206873, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 206693, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  206873, 
+  [
+   252, 
+   336, 
+   {
+    "quote_id": 206693, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  206874, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206868, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206875, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206716, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206875, 
+  [
+   749, 
+   1001, 
+   {
+    "quote_id": 206716, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206875, 
+  [
+   1112, 
+   1203, 
+   {}
+  ]
+ ], 
+ [
+  206875, 
+  [
+   1383, 
+   1502, 
+   {
+    "quote_id": 206716, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206875, 
+  [
+   1606, 
+   1864, 
+   {}
+  ]
+ ], 
+ [
+  206881, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 206874, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  330758, 
+  [
+   0, 
+   718, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  213035, 
+  [
+   0, 
+   432, 
+   {
+    "quote_id": 212553, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  206899, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206899, 
+  [
+   206, 
+   351, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206875, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206905, 
+  [
+   1158, 
+   1528, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206914, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206873, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  329795, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Archangel;316952", 
+    "quote_id": 316952, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329795, 
+  [
+   378, 
+   592, 
+   {}
+  ]
+ ], 
+ [
+  329795, 
+  [
+   622, 
+   1009, 
+   {
+    "quote_id": 316952, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329802, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Snakespit", 
+    "quote_id": 329795, 
+    "unknown_author": "Snakespit", 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  329804, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Archangel;329802", 
+    "quote_id": 329802, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  208974, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208847, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208974, 
+  [
+   934, 
+   998, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208847, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  329811, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Archangel;329806", 
+    "quote_id": 329806, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329812, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "snakespit;329811", 
+    "quote_id": 329811, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  211029, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210902, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211029, 
+  [
+   121, 
+   178, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210902, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211029, 
+  [
+   530, 
+   599, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210902, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206938, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206968, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 206938, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206968, 
+  [
+   510, 
+   731, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 206938, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206996, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 206938, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206996, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206996, 
+  [
+   527, 
+   841, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206968, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209057, 
+  [
+   0, 
+   715, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  211107, 
+  [
+   23, 
+   138, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209064, 
+  [
+   0, 
+   339, 
+   {}
+  ]
+ ], 
+ [
+  329922, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "Penfold;329919", 
+    "quote_id": 329919, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  329929, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "Archangel;329922", 
+    "quote_id": 329922, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329932, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "Archangel;329922", 
+    "quote_id": 329922, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329935, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "trebor;329929", 
+    "quote_id": 329929, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  329944, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Archangel;329909", 
+    "quote_id": 329909, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329944, 
+  [
+   1393, 
+   1833, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329944, 
+  [
+   2293, 
+   2440, 
+   {
+    "quote_id": 329909, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329944, 
+  [
+   2714, 
+   2880, 
+   {
+    "quote_id": 329909, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329944, 
+  [
+   3460, 
+   3592, 
+   {
+    "quote_id": 329909, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329951, 
+  [
+   0, 
+   735, 
+   {
+    "raw_data": "pandion;329944", 
+    "quote_id": 329944, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  210640, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 210636, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210640, 
+  [
+   277, 
+   543, 
+   {
+    "quote_id": 210636, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210640, 
+  [
+   670, 
+   834, 
+   {
+    "quote_id": 210636, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210640, 
+  [
+   1165, 
+   1447, 
+   {
+    "quote_id": 210636, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210640, 
+  [
+   1682, 
+   1859, 
+   {}
+  ]
+ ], 
+ [
+  210640, 
+  [
+   1979, 
+   2130, 
+   {}
+  ]
+ ], 
+ [
+  329957, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "Archangel;329951", 
+    "quote_id": 329951, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329957, 
+  [
+   129, 
+   231, 
+   {
+    "quote_id": 329951, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329957, 
+  [
+   499, 
+   583, 
+   {
+    "quote_id": 329951, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329957, 
+  [
+   715, 
+   800, 
+   {
+    "quote_id": 329951, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329957, 
+  [
+   1036, 
+   1117, 
+   {
+    "quote_id": 329951, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329957, 
+  [
+   1327, 
+   1421, 
+   {
+    "quote_id": 329951, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  207081, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 206996, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209959, 
+  [
+   0, 
+   394, 
+   {
+    "quote_id": 209952, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  329966, 
+  [
+   43, 
+   343, 
+   {}
+  ]
+ ], 
+ [
+  329967, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Peeling;329966", 
+    "quote_id": 329966, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  329970, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Archangel;329967", 
+    "quote_id": 329967, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  207091, 
+  [
+   0, 
+   98, 
+   {}
+  ]
+ ], 
+ [
+  207091, 
+  [
+   104, 
+   261, 
+   {}
+  ]
+ ], 
+ [
+  207091, 
+  [
+   267, 
+   397, 
+   {}
+  ]
+ ], 
+ [
+  207091, 
+  [
+   403, 
+   2893, 
+   {}
+  ]
+ ], 
+ [
+  207091, 
+  [
+   2899, 
+   3023, 
+   {}
+  ]
+ ], 
+ [
+  207091, 
+  [
+   3124, 
+   5223, 
+   {}
+  ]
+ ], 
+ [
+  207100, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   229, 
+   359, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   409, 
+   444, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   494, 
+   593, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   643, 
+   742, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   1041, 
+   1213, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   1407, 
+   1623, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   1937, 
+   2141, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   2309, 
+   2380, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   2388, 
+   2446, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   2513, 
+   2581, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   2657, 
+   2773, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   2876, 
+   3206, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   3683, 
+   3927, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   4170, 
+   4182, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   4243, 
+   4394, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   4592, 
+   4665, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   4742, 
+   4976, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   5532, 
+   5609, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  207100, 
+  [
+   5838, 
+   6054, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 207081, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  213252, 
+  [
+   0, 
+   436, 
+   {
+    "quote_id": 213043, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  213262, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 213252, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   1064, 
+   1176, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   1385, 
+   1649, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   1783, 
+   2208, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   2674, 
+   3217, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   3692, 
+   3794, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   4031, 
+   4256, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   4550, 
+   5007, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   5360, 
+   5450, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   5469, 
+   5577, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   5628, 
+   5684, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 205811, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   6032, 
+   6300, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   6464, 
+   6834, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   7209, 
+   8037, 
+   {}
+  ]
+ ], 
+ [
+  211219, 
+  [
+   8051, 
+   8788, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   8880, 
+   9069, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   9169, 
+   9450, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   9933, 
+   10578, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   10698, 
+   11004, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   11059, 
+   11332, 
+   {}
+  ]
+ ], 
+ [
+  211219, 
+  [
+   11395, 
+   11887, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   12443, 
+   12942, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   13063, 
+   13305, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   13426, 
+   13627, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211219, 
+  [
+   13964, 
+   14165, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211221, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211221, 
+  [
+   620, 
+   899, 
+   {}
+  ]
+ ], 
+ [
+  211221, 
+  [
+   1180, 
+   1506, 
+   {}
+  ]
+ ], 
+ [
+  211226, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   338, 
+   724, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   953, 
+   1027, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   1147, 
+   1374, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   1517, 
+   1636, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   1782, 
+   1888, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   1782, 
+   1911, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   2023, 
+   2125, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   2393, 
+   2545, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   2608, 
+   2705, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   2835, 
+   2899, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   3021, 
+   3124, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   3207, 
+   3408, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   3776, 
+   3863, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211221, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211226, 
+  [
+   4059, 
+   4145, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211221, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211230, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  213288, 
+  [
+   0, 
+   113, 
+   {
+    "quote_id": 213262, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  208604, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 208597, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  208604, 
+  [
+   181, 
+   305, 
+   {
+    "quote_id": 208597, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  208604, 
+  [
+   471, 
+   723, 
+   {
+    "quote_id": 208597, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   0, 
+   781, 
+   {
+    "raw_data": "iangb;330767", 
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   1220, 
+   2317, 
+   {
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   4824, 
+   5600, 
+   {
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   6136, 
+   6228, 
+   {
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   6737, 
+   7674, 
+   {
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   8319, 
+   9185, 
+   {}
+  ]
+ ], 
+ [
+  330811, 
+  [
+   9809, 
+   9928, 
+   {
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330811, 
+  [
+   10212, 
+   10425, 
+   {
+    "quote_id": 330767, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  209297, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   279, 
+   501, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   886, 
+   999, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   1116, 
+   1174, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   1365, 
+   1501, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   1633, 
+   1738, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   1899, 
+   2160, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   2476, 
+   2532, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   2592, 
+   2714, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   3149, 
+   3264, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   3346, 
+   3421, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   3548, 
+   3807, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   4126, 
+   4226, 
+   {
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211351, 
+  [
+   4347, 
+   4701, 
+   {}
+  ]
+ ], 
+ [
+  209307, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209307, 
+  [
+   538, 
+   653, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209307, 
+  [
+   815, 
+   974, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209307, 
+  [
+   1467, 
+   1638, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209307, 
+  [
+   1799, 
+   1871, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211356, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 211230, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  211356, 
+  [
+   605, 
+   1198, 
+   {
+    "quote_id": 211230, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  211356, 
+  [
+   1325, 
+   1844, 
+   {
+    "quote_id": 211230, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  211356, 
+  [
+   1931, 
+   2207, 
+   {
+    "quote_id": 211230, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   173, 
+   303, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   395, 
+   789, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   929, 
+   1317, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   1410, 
+   1607, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   1707, 
+   1869, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   1970, 
+   2585, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   2713, 
+   2898, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   3041, 
+   3129, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   3240, 
+   3422, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   3597, 
+   3903, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   4004, 
+   4170, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   4267, 
+   4411, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   4573, 
+   4769, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   4820, 
+   4950, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   5009, 
+   5654, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211358, 
+  [
+   5695, 
+   6263, 
+   {}
+  ]
+ ], 
+ [
+  211365, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   288, 
+   377, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   780, 
+   885, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   1177, 
+   1341, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   1609, 
+   1869, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   1609, 
+   2176, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   2879, 
+   3004, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   3079, 
+   3149, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   3460, 
+   3575, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   3858, 
+   4090, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   4781, 
+   4888, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211365, 
+  [
+   5230, 
+   5305, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211351, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  207270, 
+  [
+   0, 
+   98, 
+   {}
+  ]
+ ], 
+ [
+  207270, 
+  [
+   104, 
+   261, 
+   {}
+  ]
+ ], 
+ [
+  207270, 
+  [
+   267, 
+   397, 
+   {}
+  ]
+ ], 
+ [
+  207270, 
+  [
+   403, 
+   2893, 
+   {}
+  ]
+ ], 
+ [
+  207270, 
+  [
+   2899, 
+   3024, 
+   {}
+  ]
+ ], 
+ [
+  207270, 
+  [
+   3232, 
+   3475, 
+   {}
+  ]
+ ], 
+ [
+  208629, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208566, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330181, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "T.Q;329970", 
+    "quote_id": 329970, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  206924, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 206912, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  330188, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Archangel;330181", 
+    "quote_id": 330181, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330189, 
+  [
+   0, 
+   2798, 
+   {
+    "raw_data": "Archangel;330181", 
+    "quote_id": 330181, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329806, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "snakespit;329805", 
+    "quote_id": 329805, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  330204, 
+  [
+   0, 
+   638, 
+   {
+    "raw_data": "T.Q;330189", 
+    "quote_id": 330189, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  212048, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Rovdak", 
+    "quote_id": 211949, 
+    "author": "Rovdak"
+   }
+  ]
+ ], 
+ [
+  330217, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Archangel;330204", 
+    "quote_id": 330204, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330217, 
+  [
+   375, 
+   529, 
+   {
+    "quote_id": 330204, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330217, 
+  [
+   663, 
+   819, 
+   {
+    "quote_id": 330204, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330220, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "obvious_child;330219", 
+    "quote_id": 330219, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  330220, 
+  [
+   129, 
+   268, 
+   {
+    "quote_id": 330219, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  330223, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "T.Q;330220", 
+    "quote_id": 330220, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  330233, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Archangel;329967", 
+    "quote_id": 329967, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330233, 
+  [
+   278, 
+   579, 
+   {}
+  ]
+ ], 
+ [
+  330233, 
+  [
+   583, 
+   832, 
+   {
+    "quote_id": 329967, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330240, 
+  [
+   0, 
+   2543, 
+   {
+    "raw_data": "Peeling;330233", 
+    "quote_id": 330233, 
+    "author": "Peeling"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "The Skeptic;334286", 
+    "quote_id": 334286, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   1306, 
+   1535, 
+   {
+    "raw_data": "T.Q;329970", 
+    "quote_id": 329970, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   1541, 
+   2179, 
+   {
+    "raw_data": "T.Q;330189", 
+    "quote_id": 330189, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   2185, 
+   7136, 
+   {
+    "raw_data": "Archangel;330204", 
+    "quote_id": 330204, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   7142, 
+   7650, 
+   {
+    "raw_data": "T.Q;330217", 
+    "quote_id": 330217, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   7656, 
+   7917, 
+   {
+    "raw_data": "obvious_child;330219", 
+    "quote_id": 330219, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   7923, 
+   7986, 
+   {
+    "raw_data": "T.Q;330220", 
+    "quote_id": 330220, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   7992, 
+   8161, 
+   {
+    "raw_data": "obvious_child;330223", 
+    "quote_id": 330223, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  334338, 
+  [
+   8167, 
+   10370, 
+   {
+    "raw_data": "Archangel;330240", 
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  211459, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211459, 
+  [
+   129, 
+   864, 
+   {}
+  ]
+ ], 
+ [
+  211459, 
+  [
+   872, 
+   984, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   0, 
+   396, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   580, 
+   865, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   1011, 
+   1124, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211226, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   1187, 
+   1258, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   1286, 
+   1658, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   1710, 
+   1778, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   1885, 
+   2064, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   2109, 
+   2199, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211461, 
+  [
+   2238, 
+   2737, 
+   {
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211459, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   155, 
+   181, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211459, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   311, 
+   483, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   738, 
+   873, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   1219, 
+   1270, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   1343, 
+   1413, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211365, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   1343, 
+   1431, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   1564, 
+   1604, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   1863, 
+   1958, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   2179, 
+   2212, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   2568, 
+   2596, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211502, 
+  [
+   2915, 
+   3192, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211461, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209489, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Belfrey", 
+    "quote_id": 209297, 
+    "author": "Belfrey"
+   }
+  ]
+ ], 
+ [
+  209489, 
+  [
+   350, 
+   500, 
+   {}
+  ]
+ ], 
+ [
+  209489, 
+  [
+   779, 
+   900, 
+   {
+    "quote_id": 209297, 
+    "author": "Belfrey"
+   }
+  ]
+ ], 
+ [
+  209489, 
+  [
+   2144, 
+   2510, 
+   {}
+  ]
+ ], 
+ [
+  209489, 
+  [
+   2887, 
+   3057, 
+   {}
+  ]
+ ], 
+ [
+  209489, 
+  [
+   3253, 
+   3483, 
+   {
+    "quote_id": 209297, 
+    "author": "Belfrey"
+   }
+  ]
+ ], 
+ [
+  209492, 
+  [
+   0, 
+   31, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209495, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209495, 
+  [
+   383, 
+   693, 
+   {}
+  ]
+ ], 
+ [
+  209495, 
+  [
+   925, 
+   1084, 
+   {
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209495, 
+  [
+   1131, 
+   1532, 
+   {
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209495, 
+  [
+   1777, 
+   1866, 
+   {
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209495, 
+  [
+   2078, 
+   2255, 
+   {}
+  ]
+ ], 
+ [
+  209496, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 209492, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  209496, 
+  [
+   268, 
+   360, 
+   {
+    "quote_id": 209492, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   199, 
+   351, 
+   {}
+  ]
+ ], 
+ [
+  209508, 
+  [
+   0, 
+   416, 
+   {}
+  ]
+ ], 
+ [
+  209508, 
+  [
+   1028, 
+   1344, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   2216, 
+   2563, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   3334, 
+   3777, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   4115, 
+   4234, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   4275, 
+   4595, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   4684, 
+   4734, 
+   {
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   5249, 
+   5369, 
+   {
+    "quote_id": 209495, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   5574, 
+   5701, 
+   {
+    "quote_id": 209495, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   5740, 
+   5963, 
+   {
+    "quote_id": 209495, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   6379, 
+   6538, 
+   {
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   6376, 
+   6578, 
+   {}
+  ]
+ ], 
+ [
+  209508, 
+  [
+   6795, 
+   7031, 
+   {
+    "quote_id": 209495, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   7271, 
+   7360, 
+   {
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   7271, 
+   7564, 
+   {}
+  ]
+ ], 
+ [
+  209508, 
+  [
+   8149, 
+   8373, 
+   {
+    "quote_id": 209492, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   8149, 
+   8413, 
+   {}
+  ]
+ ], 
+ [
+  209508, 
+  [
+   8471, 
+   8563, 
+   {
+    "quote_id": 209492, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  209508, 
+  [
+   8469, 
+   8619, 
+   {}
+  ]
+ ], 
+ [
+  209511, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209511, 
+  [
+   275, 
+   321, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209511, 
+  [
+   373, 
+   428, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209511, 
+  [
+   538, 
+   588, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209511, 
+  [
+   709, 
+   827, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209489, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209511, 
+  [
+   709, 
+   861, 
+   {
+    "raw_data": "Collin", 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212757, 
+  [
+   0, 
+   204, 
+   {}
+  ]
+ ], 
+ [
+  212757, 
+  [
+   999, 
+   1090, 
+   {
+    "quote_id": 212485, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212757, 
+  [
+   1597, 
+   1802, 
+   {
+    "quote_id": 212551, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212757, 
+  [
+   2206, 
+   2521, 
+   {}
+  ]
+ ], 
+ [
+  212757, 
+  [
+   3150, 
+   3360, 
+   {
+    "quote_id": 212551, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212757, 
+  [
+   3447, 
+   3562, 
+   {
+    "quote_id": 212551, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211595, 
+  [
+   11, 
+   239, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211595, 
+  [
+   259, 
+   455, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211595, 
+  [
+   471, 
+   559, 
+   {
+    "quote_id": 211358, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211598, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 211470, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  211598, 
+  [
+   569, 
+   929, 
+   {
+    "quote_id": 211470, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  211598, 
+  [
+   1255, 
+   1640, 
+   {}
+  ]
+ ], 
+ [
+  211599, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211502, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211599, 
+  [
+   503, 
+   755, 
+   {
+    "quote_id": 211502, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211599, 
+  [
+   987, 
+   1336, 
+   {
+    "quote_id": 211502, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211599, 
+  [
+   1523, 
+   1710, 
+   {
+    "quote_id": 211502, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211599, 
+  [
+   1742, 
+   1868, 
+   {
+    "quote_id": 211502, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211589, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   517, 
+   571, 
+   {}
+  ]
+ ], 
+ [
+  211603, 
+  [
+   579, 
+   820, 
+   {
+    "quote_id": 211589, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   854, 
+   983, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   1009, 
+   1096, 
+   {
+    "quote_id": 211241, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   1115, 
+   1421, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   1440, 
+   1590, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211603, 
+  [
+   1671, 
+   1918, 
+   {
+    "quote_id": 211589, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211604, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211592, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211604, 
+  [
+   430, 
+   541, 
+   {
+    "quote_id": 211592, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211604, 
+  [
+   702, 
+   931, 
+   {
+    "quote_id": 211592, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211607, 
+  [
+   0, 
+   427, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211594, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211607, 
+  [
+   534, 
+   830, 
+   {
+    "quote_id": 211594, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211607, 
+  [
+   1040, 
+   1286, 
+   {
+    "quote_id": 211594, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  330395, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Archangel;330240", 
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330395, 
+  [
+   305, 
+   870, 
+   {}
+  ]
+ ], 
+ [
+  330395, 
+  [
+   934, 
+   1112, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330395, 
+  [
+   1525, 
+   1715, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330395, 
+  [
+   3710, 
+   4035, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330395, 
+  [
+   4364, 
+   4767, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330407, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330410, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Archangel;330407", 
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330410, 
+  [
+   185, 
+   254, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330426, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Archangel;330407", 
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211599, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   316, 
+   398, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211599, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   822, 
+   997, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211599, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   2086, 
+   2107, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211599, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   2186, 
+   2266, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211599, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   2442, 
+   2645, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   2850, 
+   2999, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   3473, 
+   3568, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211607, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   3693, 
+   3769, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211607, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211652, 
+  [
+   3914, 
+   3957, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211607, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   87, 
+   244, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   711, 
+   1157, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   1233, 
+   1288, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   1363, 
+   1569, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   1739, 
+   2024, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   2227, 
+   2520, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   2654, 
+   2850, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   3070, 
+   3215, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   3304, 
+   3426, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   3569, 
+   3898, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   4084, 
+   4164, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   4229, 
+   4498, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 208185, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   4508, 
+   5013, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   5169, 
+   5365, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   5733, 
+   5941, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   6502, 
+   6733, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   6833, 
+   7208, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   7339, 
+   7386, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209649, 
+  [
+   7475, 
+   7766, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209650, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 209511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209650, 
+  [
+   374, 
+   419, 
+   {
+    "quote_id": 209511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209650, 
+  [
+   451, 
+   554, 
+   {
+    "quote_id": 209511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209650, 
+  [
+   614, 
+   728, 
+   {
+    "quote_id": 209511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209650, 
+  [
+   883, 
+   1053, 
+   {
+    "quote_id": 209511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209659, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209650, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   150, 
+   219, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209650, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   427, 
+   447, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209650, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   479, 
+   581, 
+   {
+    "quote_id": 209511, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   479, 
+   617, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   1151, 
+   1313, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209668, 
+  [
+   1529, 
+   1579, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209650, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209669, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209650, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  334615, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "The Skeptic;334611", 
+    "quote_id": 334611, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  330526, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "trebor;330426", 
+    "quote_id": 330426, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  330670, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Archangel;330656", 
+    "quote_id": 330656, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330670, 
+  [
+   595, 
+   1126, 
+   {
+    "quote_id": 330656, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330670, 
+  [
+   1625, 
+   2165, 
+   {
+    "quote_id": 330656, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330670, 
+  [
+   2536, 
+   2576, 
+   {}
+  ]
+ ], 
+ [
+  209704, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Archangel;330407", 
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   357, 
+   764, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   806, 
+   1131, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   1135, 
+   1267, 
+   {
+    "quote_id": 330240, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   1374, 
+   1518, 
+   {
+    "quote_id": 329967, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   1542, 
+   2063, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   2591, 
+   3038, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   3131, 
+   4067, 
+   {}
+  ]
+ ], 
+ [
+  330565, 
+  [
+   4095, 
+   4328, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   4770, 
+   5071, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   5193, 
+   5431, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   5608, 
+   5803, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   6006, 
+   6403, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330565, 
+  [
+   6545, 
+   6655, 
+   {
+    "quote_id": 330407, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  209734, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209734, 
+  [
+   230, 
+   331, 
+   {
+    "raw_data": "GazzaElliot", 
+    "quote_id": 209726, 
+    "unknown_author": "GazzaElliot", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209734, 
+  [
+   587, 
+   770, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209738, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209738, 
+  [
+   80, 
+   178, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209738, 
+  [
+   286, 
+   387, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209738, 
+  [
+   1116, 
+   1321, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209738, 
+  [
+   1715, 
+   1898, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209726, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  330579, 
+  [
+   0, 
+   743, 
+   {
+    "raw_data": "Archangel;330526", 
+    "quote_id": 330526, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  211820, 
+  [
+   114, 
+   236, 
+   {}
+  ]
+ ], 
+ [
+  211820, 
+  [
+   476, 
+   628, 
+   {}
+  ]
+ ], 
+ [
+  211820, 
+  [
+   806, 
+   953, 
+   {
+    "quote_id": 211589, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211820, 
+  [
+   985, 
+   1236, 
+   {}
+  ]
+ ], 
+ [
+  211820, 
+  [
+   1383, 
+   1623, 
+   {
+    "quote_id": 211589, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211820, 
+  [
+   2636, 
+   2875, 
+   {
+    "quote_id": 211603, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211822, 
+  [
+   0, 
+   223, 
+   {
+    "quote_id": 211604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211822, 
+  [
+   477, 
+   626, 
+   {
+    "quote_id": 211604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211822, 
+  [
+   763, 
+   864, 
+   {
+    "quote_id": 211604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211822, 
+  [
+   889, 
+   999, 
+   {
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211828, 
+  [
+   0, 
+   95, 
+   {
+    "quote_id": 211607, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211828, 
+  [
+   439, 
+   639, 
+   {
+    "quote_id": 211607, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211828, 
+  [
+   957, 
+   1000, 
+   {
+    "quote_id": 211607, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330614, 
+  [
+   0, 
+   3800, 
+   {
+    "raw_data": "Archangel;330606", 
+    "quote_id": 330606, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330616, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "smiley;330614", 
+    "quote_id": 330614, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330620, 
+  [
+   0, 
+   872, 
+   {
+    "raw_data": "Archangel;330616", 
+    "quote_id": 330616, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330624, 
+  [
+   0, 
+   72, 
+   {
+    "quote_id": 330606, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330624, 
+  [
+   1724, 
+   2238, 
+   {
+    "raw_data": "Terry Pratchett in The Science Of Discworld", 
+    "unknown_author": "Terry Pratchett in The Science Of Discworld"
+   }
+  ]
+ ], 
+ [
+  330625, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "smiley;330620", 
+    "quote_id": 330620, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330630, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Archangel;330625", 
+    "quote_id": 330625, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330632, 
+  [
+   0, 
+   1880, 
+   {
+    "raw_data": "iangb;330624", 
+    "quote_id": 330624, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330634, 
+  [
+   0, 
+   632, 
+   {
+    "raw_data": "Archangel;330632", 
+    "quote_id": 330632, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330635, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "smiley;330630", 
+    "quote_id": 330630, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330639, 
+  [
+   0, 
+   553, 
+   {
+    "raw_data": "Archangel;330635", 
+    "quote_id": 330635, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330641, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "iangb;330629", 
+    "quote_id": 330629, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330643, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Archangel;330641", 
+    "quote_id": 330641, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330643, 
+  [
+   292, 
+   3177, 
+   {}
+  ]
+ ], 
+ [
+  211861, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211652, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211861, 
+  [
+   333, 
+   467, 
+   {}
+  ]
+ ], 
+ [
+  211861, 
+  [
+   702, 
+   905, 
+   {
+    "quote_id": 211652, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211861, 
+  [
+   911, 
+   996, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211861, 
+  [
+   1019, 
+   1234, 
+   {
+    "quote_id": 211652, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211861, 
+  [
+   1492, 
+   1657, 
+   {
+    "quote_id": 211652, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211861, 
+  [
+   1759, 
+   1892, 
+   {
+    "quote_id": 211652, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211861, 
+  [
+   2095, 
+   2384, 
+   {
+    "quote_id": 211652, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211870, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211870, 
+  [
+   535, 
+   704, 
+   {
+    "quote_id": 211820, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211870, 
+  [
+   866, 
+   1738, 
+   {}
+  ]
+ ], 
+ [
+  211870, 
+  [
+   2159, 
+   2287, 
+   {
+    "quote_id": 211820, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211870, 
+  [
+   2897, 
+   3045, 
+   {
+    "quote_id": 211820, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211870, 
+  [
+   3096, 
+   3378, 
+   {
+    "quote_id": 211820, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   99, 
+   162, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   259, 
+   315, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   469, 
+   612, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   809, 
+   893, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   809, 
+   909, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   1065, 
+   1177, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   1545, 
+   1637, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   1694, 
+   1887, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   1932, 
+   2032, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211861, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211871, 
+  [
+   2510, 
+   2584, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330656, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "smiley;330639", 
+    "quote_id": 330639, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330656, 
+  [
+   4630, 
+   6702, 
+   {
+    "raw_data": "Archangel;330596", 
+    "quote_id": 330596, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  211877, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211822, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211877, 
+  [
+   319, 
+   402, 
+   {
+    "quote_id": 211822, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211877, 
+  [
+   449, 
+   577, 
+   {
+    "quote_id": 211822, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211877, 
+  [
+   633, 
+   696, 
+   {}
+  ]
+ ], 
+ [
+  211879, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211828, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211879, 
+  [
+   448, 
+   555, 
+   {
+    "quote_id": 211828, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211879, 
+  [
+   668, 
+   870, 
+   {
+    "quote_id": 211828, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  330666, 
+  [
+   57, 
+   75, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330667, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "T.Q;330666", 
+    "quote_id": 330666, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   82, 
+   157, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   225, 
+   618, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   965, 
+   1048, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   1095, 
+   1196, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   1526, 
+   1700, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   2038, 
+   2223, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   2789, 
+   2917, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   3695, 
+   3772, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   3866, 
+   4003, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   4150, 
+   4400, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   4797, 
+   4843, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   4898, 
+   5211, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   5369, 
+   5493, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   5727, 
+   5880, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209836, 
+  [
+   6047, 
+   6196, 
+   {
+    "quote_id": 207981, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   374, 
+   563, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   677, 
+   1037, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   1152, 
+   1201, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   1314, 
+   1352, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   1476, 
+   1801, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   1953, 
+   2097, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211886, 
+  [
+   2239, 
+   2349, 
+   {
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  330678, 
+  [
+   54, 
+   72, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330678, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "T.Q;330666", 
+    "quote_id": 330666, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  330678, 
+  [
+   80, 
+   243, 
+   {
+    "raw_data": "obvious_child;330667", 
+    "quote_id": 330667, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  330681, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "smiley;330670", 
+    "quote_id": 330670, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330681, 
+  [
+   593, 
+   1084, 
+   {
+    "quote_id": 330670, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330681, 
+  [
+   1335, 
+   1698, 
+   {
+    "quote_id": 330670, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330681, 
+  [
+   1941, 
+   2106, 
+   {
+    "quote_id": 330670, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330681, 
+  [
+   2689, 
+   3001, 
+   {
+    "quote_id": 330670, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330682, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "T.Q;330679", 
+    "quote_id": 330679, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  330682, 
+  [
+   837, 
+   2702, 
+   {
+    "raw_data": "Archangel;330591", 
+    "quote_id": 330591, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  211901, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211879, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211901, 
+  [
+   646, 
+   662, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211879, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330689, 
+  [
+   0, 
+   37, 
+   {
+    "quote_id": 330682, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330689, 
+  [
+   308, 
+   2128, 
+   {
+    "raw_data": "Archangel;330682", 
+    "quote_id": 330682, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   103, 
+   167, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   202, 
+   297, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   405, 
+   507, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   729, 
+   834, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   1027, 
+   1128, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   1200, 
+   1310, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   1380, 
+   1505, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   1573, 
+   1713, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   2144, 
+   2276, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211906, 
+  [
+   2442, 
+   2495, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211886, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330693, 
+  [
+   0, 
+   2486, 
+   {
+    "raw_data": "Archangel;330678", 
+    "quote_id": 330678, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   3, 
+   58, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   0, 
+   128, 
+   {}
+  ]
+ ], 
+ [
+  209862, 
+  [
+   252, 
+   457, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   249, 
+   619, 
+   {}
+  ]
+ ], 
+ [
+  209862, 
+  [
+   1165, 
+   1324, 
+   {
+    "quote_id": 209307, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   1162, 
+   1364, 
+   {}
+  ]
+ ], 
+ [
+  209862, 
+  [
+   1777, 
+   1970, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   2160, 
+   2373, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   2573, 
+   2652, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   3054, 
+   3184, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   3272, 
+   3445, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   3561, 
+   3619, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   4819, 
+   4964, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   6574, 
+   6929, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   7191, 
+   7399, 
+   {
+    "quote_id": 209508, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   7191, 
+   7638, 
+   {}
+  ]
+ ], 
+ [
+  209862, 
+  [
+   7878, 
+   8190, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   8705, 
+   8791, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   8909, 
+   9028, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209862, 
+  [
+   9293, 
+   9349, 
+   {
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211911, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211871, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  330696, 
+  [
+   213, 
+   512, 
+   {
+    "raw_data": "article", 
+    "unknown_author": "article"
+   }
+  ]
+ ], 
+ [
+  209875, 
+  [
+   183, 
+   238, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209649, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209875, 
+  [
+   183, 
+   302, 
+   {
+    "raw_data": "Collin", 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209875, 
+  [
+   508, 
+   697, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 209862, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  209875, 
+  [
+   888, 
+   1067, 
+   {
+    "raw_data": "Collin", 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  330710, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "iangb;330696", 
+    "quote_id": 330696, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330712, 
+  [
+   0, 
+   1485, 
+   {
+    "raw_data": "Archangel;330695", 
+    "quote_id": 330695, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330712, 
+  [
+   1680, 
+   3624, 
+   {}
+  ]
+ ], 
+ [
+  330714, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "trebor;330712", 
+    "quote_id": 330712, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  330714, 
+  [
+   706, 
+   1947, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 330693, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  205789, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 205783, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  209887, 
+  [
+   0, 
+   198, 
+   {
+    "quote_id": 209875, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209887, 
+  [
+   749, 
+   915, 
+   {
+    "quote_id": 209875, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  205793, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205789, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   0, 
+   175, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   685, 
+   833, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   1002, 
+   1251, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   1366, 
+   1449, 
+   {}
+  ]
+ ], 
+ [
+  211939, 
+  [
+   1664, 
+   1825, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   2376, 
+   2467, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   2664, 
+   3020, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   3410, 
+   3443, 
+   {
+    "quote_id": 211870, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   3729, 
+   3876, 
+   {
+    "quote_id": 211877, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   4151, 
+   4285, 
+   {}
+  ]
+ ], 
+ [
+  211939, 
+  [
+   4501, 
+   4756, 
+   {
+    "quote_id": 211877, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   5001, 
+   5102, 
+   {
+    "quote_id": 211879, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   5813, 
+   5914, 
+   {
+    "quote_id": 211879, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211939, 
+  [
+   6068, 
+   6156, 
+   {
+    "quote_id": 211879, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209898, 
+  [
+   393, 
+   1592, 
+   {}
+  ]
+ ], 
+ [
+  211949, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 211879, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211949, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211949, 
+  [
+   196, 
+   306, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 210912, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  211949, 
+  [
+   174, 
+   349, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  211949, 
+  [
+   174, 
+   607, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  205806, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 205793, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205810, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 205783, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  205811, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 205810, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   292, 
+   351, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   387, 
+   725, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   853, 
+   890, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   1006, 
+   1327, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   1601, 
+   1802, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   1856, 
+   1980, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   2114, 
+   2671, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   3043, 
+   3316, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   3334, 
+   3826, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   3902, 
+   4132, 
+   {}
+  ]
+ ], 
+ [
+  209910, 
+  [
+   4270, 
+   4548, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   4654, 
+   4763, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   4834, 
+   4983, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   5154, 
+   5378, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209910, 
+  [
+   5626, 
+   5934, 
+   {
+    "quote_id": 209836, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  209911, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209911, 
+  [
+   203, 
+   401, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209881, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209911, 
+  [
+   750, 
+   1115, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209881, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209911, 
+  [
+   1372, 
+   1765, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209881, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209911, 
+  [
+   1899, 
+   2339, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209881, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  206676, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206573, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206676, 
+  [
+   502, 
+   1006, 
+   {
+    "quote_id": 206573, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206676, 
+  [
+   1579, 
+   1815, 
+   {
+    "quote_id": 206573, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  209916, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209898, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209916, 
+  [
+   163, 
+   419, 
+   {
+    "quote_id": 209898, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209916, 
+  [
+   507, 
+   596, 
+   {}
+  ]
+ ], 
+ [
+  209916, 
+  [
+   604, 
+   758, 
+   {
+    "raw_data": "T/O", 
+    "unknown_author": "T/O"
+   }
+  ]
+ ], 
+ [
+  209916, 
+  [
+   790, 
+   873, 
+   {
+    "raw_data": "T/O", 
+    "unknown_author": "T/O"
+   }
+  ]
+ ], 
+ [
+  209916, 
+  [
+   915, 
+   1083, 
+   {}
+  ]
+ ], 
+ [
+  330753, 
+  [
+   0, 
+   785, 
+   {
+    "raw_data": "Archangel;330738", 
+    "quote_id": 330738, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  205827, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 205819, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  209926, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209916, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209926, 
+  [
+   565, 
+   643, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209916, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209926, 
+  [
+   726, 
+   863, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209916, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209926, 
+  [
+   1113, 
+   1180, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209916, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330760, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "trebor;330753", 
+    "quote_id": 330753, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  209929, 
+  [
+   562, 
+   778, 
+   {}
+  ]
+ ], 
+ [
+  209929, 
+  [
+   955, 
+   1110, 
+   {}
+  ]
+ ], 
+ [
+  209929, 
+  [
+   1463, 
+   1539, 
+   {
+    "quote_id": 209916, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330763, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "smiley;330758", 
+    "quote_id": 330758, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330763, 
+  [
+   868, 
+   1118, 
+   {
+    "raw_data": "iangb;330724", 
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330763, 
+  [
+   1846, 
+   2032, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330763, 
+  [
+   2915, 
+   3293, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330763, 
+  [
+   5068, 
+   5633, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330763, 
+  [
+   6522, 
+   6926, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330765, 
+  [
+   0, 
+   548, 
+   {}
+  ]
+ ], 
+ [
+  330765, 
+  [
+   0, 
+   892, 
+   {}
+  ]
+ ], 
+ [
+  330767, 
+  [
+   0, 
+   717, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330767, 
+  [
+   1506, 
+   1898, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330767, 
+  [
+   3041, 
+   3521, 
+   {}
+  ]
+ ], 
+ [
+  330767, 
+  [
+   4399, 
+   5508, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330767, 
+  [
+   6451, 
+   6612, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330767, 
+  [
+   7151, 
+   7591, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330767, 
+  [
+   7926, 
+   8709, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  209940, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209881, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209940, 
+  [
+   800, 
+   894, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209881, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   413, 
+   459, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   561, 
+   611, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   719, 
+   822, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   930, 
+   1054, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   1386, 
+   1553, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   1965, 
+   2043, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   2468, 
+   2654, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   3097, 
+   3201, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   3336, 
+   3487, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209947, 
+  [
+   3537, 
+   3858, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209891, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  209949, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209946, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  209952, 
+  [
+   0, 
+   484, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 209887, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  330786, 
+  [
+   0, 
+   691, 
+   {
+    "raw_data": "smiley;330765", 
+    "quote_id": 330765, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  205862, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205789, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  205863, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 205811, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  330796, 
+  [
+   0, 
+   2976, 
+   {
+    "raw_data": "Archangel;330786", 
+    "quote_id": 330786, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330796, 
+  [
+   3068, 
+   3261, 
+   {
+    "quote_id": 330786, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  209966, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 209959, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  205883, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 205819, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  205896, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 205863, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330831, 
+  [
+   0, 
+   429, 
+   {
+    "quote_id": 330811, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330831, 
+  [
+   1335, 
+   1357, 
+   {}
+  ]
+ ], 
+ [
+  330831, 
+  [
+   1617, 
+   2143, 
+   {
+    "quote_id": 330811, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330831, 
+  [
+   2492, 
+   2990, 
+   {
+    "quote_id": 330811, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330831, 
+  [
+   3376, 
+   4000, 
+   {}
+  ]
+ ], 
+ [
+  330831, 
+  [
+   4584, 
+   5197, 
+   {}
+  ]
+ ], 
+ [
+  330831, 
+  [
+   5815, 
+   6046, 
+   {}
+  ]
+ ], 
+ [
+  330831, 
+  [
+   6203, 
+   6447, 
+   {
+    "quote_id": 330811, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  205904, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 205863, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  205904, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "trebor", 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  205907, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 205863, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330853, 
+  [
+   0, 
+   614, 
+   {
+    "raw_data": "iangb;330831", 
+    "quote_id": 330831, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330853, 
+  [
+   954, 
+   1234, 
+   {
+    "quote_id": 330831, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330853, 
+  [
+   1352, 
+   1604, 
+   {
+    "quote_id": 330831, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330853, 
+  [
+   1839, 
+   2223, 
+   {
+    "quote_id": 330831, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330853, 
+  [
+   2493, 
+   2826, 
+   {
+    "quote_id": 330831, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  205930, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 205907, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  205930, 
+  [
+   253, 
+   614, 
+   {}
+  ]
+ ], 
+ [
+  205930, 
+  [
+   694, 
+   916, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205789, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  205931, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 205904, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  330860, 
+  [
+   0, 
+   330, 
+   {
+    "quote_id": 330853, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330860, 
+  [
+   617, 
+   725, 
+   {
+    "quote_id": 330853, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330860, 
+  [
+   978, 
+   1203, 
+   {
+    "quote_id": 330853, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330860, 
+  [
+   1695, 
+   2483, 
+   {}
+  ]
+ ], 
+ [
+  207981, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   793, 
+   925, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   1020, 
+   1465, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   1578, 
+   1801, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   1985, 
+   2209, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   2406, 
+   2641, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   2857, 
+   3076, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   3165, 
+   3235, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   3384, 
+   3503, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   3765, 
+   3934, 
+   {
+    "quote_id": 206830, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   3997, 
+   4091, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   4100, 
+   4123, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206833, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   4448, 
+   4510, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   4518, 
+   4621, 
+   {
+    "quote_id": 206833, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   4757, 
+   4862, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   4870, 
+   4970, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206833, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   5135, 
+   5225, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  207981, 
+  [
+   5234, 
+   5389, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206833, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  207982, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206899, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  207982, 
+  [
+   454, 
+   1387, 
+   {}
+  ]
+ ], 
+ [
+  207982, 
+  [
+   1643, 
+   2212, 
+   {
+    "quote_id": 206899, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  207985, 
+  [
+   0, 
+   1156, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  207985, 
+  [
+   1483, 
+   2231, 
+   {
+    "quote_id": 206905, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  207986, 
+  [
+   0, 
+   128, 
+   {
+    "quote_id": 206912, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  207986, 
+  [
+   290, 
+   558, 
+   {
+    "quote_id": 206912, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  207988, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 206996, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  207989, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 207091, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  207989, 
+  [
+   456, 
+   748, 
+   {
+    "quote_id": 207091, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  207990, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 207270, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  207990, 
+  [
+   275, 
+   322, 
+   {
+    "quote_id": 207270, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  205949, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 205931, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330878, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "Archangel;330875", 
+    "quote_id": 330875, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  208014, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 207988, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330606, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "iangb;330599", 
+    "quote_id": 330599, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  205974, 
+  [
+   0, 
+   234, 
+   {}
+  ]
+ ], 
+ [
+  205974, 
+  [
+   240, 
+   400, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330915, 
+  [
+   0, 
+   392, 
+   {
+    "quote_id": 330875, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330925, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "iangb;330915", 
+    "quote_id": 330915, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  332983, 
+  [
+   0, 
+   1354, 
+   {
+    "raw_data": "Darles Charwin;332966", 
+    "quote_id": 332966, 
+    "author": "Darles Charwin"
+   }
+  ]
+ ], 
+ [
+  332986, 
+  [
+   0, 
+   1354, 
+   {
+    "raw_data": "Darles Charwin;332966", 
+    "quote_id": 332966, 
+    "author": "Darles Charwin"
+   }
+  ]
+ ], 
+ [
+  332986, 
+  [
+   1360, 
+   1495, 
+   {
+    "raw_data": "pandion;332983", 
+    "quote_id": 332983, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  330942, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Archangel;330925", 
+    "quote_id": 330925, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330945, 
+  [
+   0, 
+   381, 
+   {
+    "quote_id": 330925, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  208074, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208076, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 207985, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208076, 
+  [
+   435, 
+   526, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 207985, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208076, 
+  [
+   727, 
+   872, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 207985, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330960, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "smiley;330942", 
+    "quote_id": 330942, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  330960, 
+  [
+   192, 
+   417, 
+   {
+    "raw_data": "inference", 
+    "unknown_author": "inference"
+   }
+  ]
+ ], 
+ [
+  208081, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 208074, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208081, 
+  [
+   594, 
+   673, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 208074, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206045, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205974, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206045, 
+  [
+   903, 
+   1962, 
+   {}
+  ]
+ ], 
+ [
+  206045, 
+  [
+   1972, 
+   2483, 
+   {}
+  ]
+ ], 
+ [
+  206045, 
+  [
+   2493, 
+   3207, 
+   {}
+  ]
+ ], 
+ [
+  206045, 
+  [
+   3217, 
+   3578, 
+   {}
+  ]
+ ], 
+ [
+  330977, 
+  [
+   0, 
+   129, 
+   {}
+  ]
+ ], 
+ [
+  330977, 
+  [
+   223, 
+   478, 
+   {}
+  ]
+ ], 
+ [
+  330977, 
+  [
+   0, 
+   904, 
+   {}
+  ]
+ ], 
+ [
+  330977, 
+  [
+   968, 
+   1130, 
+   {}
+  ]
+ ], 
+ [
+  212210, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 211901, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  212210, 
+  [
+   711, 
+   2159, 
+   {}
+  ]
+ ], 
+ [
+  212210, 
+  [
+   2222, 
+   2248, 
+   {
+    "quote_id": 211901, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   978, 
+   1193, 
+   {
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   1296, 
+   1481, 
+   {
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   1984, 
+   2048, 
+   {
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   2137, 
+   2246, 
+   {
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   2339, 
+   2498, 
+   {
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  212218, 
+  [
+   2731, 
+   2966, 
+   {
+    "quote_id": 211906, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  333053, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Darles Charwin;332966", 
+    "quote_id": 332966, 
+    "author": "Darles Charwin"
+   }
+  ]
+ ], 
+ [
+  333053, 
+  [
+   916, 
+   1095, 
+   {
+    "quote_id": 332966, 
+    "author": "Darles Charwin"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   877, 
+   961, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   1067, 
+   1166, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   1273, 
+   1464, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   1483, 
+   1651, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   1786, 
+   1868, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   2195, 
+   2472, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212225, 
+  [
+   2698, 
+   2963, 
+   {
+    "quote_id": 211939, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212226, 
+  [
+   0, 
+   77, 
+   {
+    "quote_id": 211598, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208134, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205789, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  212233, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 212226, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  206097, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 205810, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  208150, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 208074, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208150, 
+  [
+   630, 
+   920, 
+   {
+    "quote_id": 208074, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208153, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 208076, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208153, 
+  [
+   308, 
+   406, 
+   {
+    "quote_id": 208076, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208153, 
+  [
+   548, 
+   641, 
+   {
+    "quote_id": 208076, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208153, 
+  [
+   679, 
+   854, 
+   {
+    "quote_id": 208076, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  212250, 
+  [
+   0, 
+   235, 
+   {
+    "quote_id": 212241, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212250, 
+  [
+   577, 
+   690, 
+   {
+    "quote_id": 212241, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212250, 
+  [
+   1620, 
+   1786, 
+   {
+    "quote_id": 212241, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  206116, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 206097, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  206119, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206116, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206130, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206116, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208185, 
+  [
+   0, 
+   175, 
+   {
+    "quote_id": 208076, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208185, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208186, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 208185, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  206142, 
+  [
+   0, 
+   510, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206116, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  331074, 
+  [
+   78, 
+   795, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  212321, 
+  [
+   0, 
+   376, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212321, 
+  [
+   948, 
+   1066, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212321, 
+  [
+   1159, 
+   1455, 
+   {}
+  ]
+ ], 
+ [
+  212321, 
+  [
+   1677, 
+   1811, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  206179, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 205949, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  212324, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 212321, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206181, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 205974, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206181, 
+  [
+   574, 
+   836, 
+   {}
+  ]
+ ], 
+ [
+  206182, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206116, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206182, 
+  [
+   153, 
+   352, 
+   {}
+  ]
+ ], 
+ [
+  206200, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206179, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206202, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206179, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206202, 
+  [
+   125, 
+   266, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206179, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206202, 
+  [
+   432, 
+   599, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206203, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 206130, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  206204, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206206, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206204, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206216, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206179, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206219, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 206200, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  206219, 
+  [
+   373, 
+   1042, 
+   {
+    "quote_id": 206200, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  206220, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 206202, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206220, 
+  [
+   107, 
+   270, 
+   {
+    "quote_id": 206202, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206220, 
+  [
+   389, 
+   591, 
+   {
+    "quote_id": 206202, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206220, 
+  [
+   853, 
+   909, 
+   {
+    "quote_id": 206202, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206220, 
+  [
+   1171, 
+   1264, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  206221, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206204, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206222, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 206216, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  209134, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 209057, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206238, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206221, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208293, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208153, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212551, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 212324, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212551, 
+  [
+   378, 
+   512, 
+   {}
+  ]
+ ], 
+ [
+  212551, 
+  [
+   727, 
+   990, 
+   {
+    "quote_id": 212324, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212551, 
+  [
+   1316, 
+   1524, 
+   {
+    "quote_id": 212324, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212551, 
+  [
+   1744, 
+   1986, 
+   {
+    "quote_id": 212324, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  206254, 
+  [
+   0, 
+   97, 
+   {}
+  ]
+ ], 
+ [
+  206254, 
+  [
+   225, 
+   316, 
+   {}
+  ]
+ ], 
+ [
+  206258, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206222, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206258, 
+  [
+   567, 
+   611, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206222, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206259, 
+  [
+   59, 
+   306, 
+   {}
+  ]
+ ], 
+ [
+  206261, 
+  [
+   0, 
+   119, 
+   {}
+  ]
+ ], 
+ [
+  206264, 
+  [
+   0, 
+   98, 
+   {}
+  ]
+ ], 
+ [
+  206270, 
+  [
+   0, 
+   173, 
+   {}
+  ]
+ ], 
+ [
+  206283, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206228, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206283, 
+  [
+   395, 
+   550, 
+   {
+    "quote_id": 206228, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206283, 
+  [
+   1074, 
+   1166, 
+   {
+    "quote_id": 206228, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206285, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206238, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206287, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206258, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206287, 
+  [
+   487, 
+   577, 
+   {
+    "quote_id": 206258, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206288, 
+  [
+   0, 
+   520, 
+   {}
+  ]
+ ], 
+ [
+  206288, 
+  [
+   884, 
+   953, 
+   {}
+  ]
+ ], 
+ [
+  206289, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206261, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206290, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "DamEtel", 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206291, 
+  [
+   0, 
+   346, 
+   {}
+  ]
+ ], 
+ [
+  206292, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206270, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206292, 
+  [
+   587, 
+   737, 
+   {
+    "quote_id": 206270, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206292, 
+  [
+   803, 
+   1182, 
+   {
+    "quote_id": 206270, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206293, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206288, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206293, 
+  [
+   481, 
+   499, 
+   {
+    "quote_id": 206288, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206294, 
+  [
+   0, 
+   157, 
+   {}
+  ]
+ ], 
+ [
+  206294, 
+  [
+   163, 
+   292, 
+   {}
+  ]
+ ], 
+ [
+  206294, 
+  [
+   610, 
+   2706, 
+   {}
+  ]
+ ], 
+ [
+  206295, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206289, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206296, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206291, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206296, 
+  [
+   548, 
+   935, 
+   {
+    "quote_id": 206291, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206296, 
+  [
+   1027, 
+   1317, 
+   {
+    "quote_id": 206291, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206297, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206295, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206298, 
+  [
+   0, 
+   367, 
+   {}
+  ]
+ ], 
+ [
+  206298, 
+  [
+   373, 
+   423, 
+   {}
+  ]
+ ], 
+ [
+  206298, 
+  [
+   927, 
+   13703, 
+   {}
+  ]
+ ], 
+ [
+  206299, 
+  [
+   61, 
+   37590, 
+   {}
+  ]
+ ], 
+ [
+  206302, 
+  [
+   0, 
+   299, 
+   {}
+  ]
+ ], 
+ [
+  206302, 
+  [
+   305, 
+   427, 
+   {}
+  ]
+ ], 
+ [
+  206306, 
+  [
+   0, 
+   167, 
+   {}
+  ]
+ ], 
+ [
+  206306, 
+  [
+   173, 
+   358, 
+   {}
+  ]
+ ], 
+ [
+  206306, 
+  [
+   366, 
+   402, 
+   {}
+  ]
+ ], 
+ [
+  206307, 
+  [
+   0, 
+   396, 
+   {}
+  ]
+ ], 
+ [
+  206307, 
+  [
+   402, 
+   494, 
+   {}
+  ]
+ ], 
+ [
+  208359, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 208293, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208376, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 208186, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  212473, 
+  [
+   121, 
+   468, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212473, 
+  [
+   1039, 
+   1201, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212473, 
+  [
+   1916, 
+   2031, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212473, 
+  [
+   2323, 
+   2440, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212473, 
+  [
+   3067, 
+   3200, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212473, 
+  [
+   3379, 
+   3487, 
+   {
+    "quote_id": 212263, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  208378, 
+  [
+   0, 
+   126, 
+   {}
+  ]
+ ], 
+ [
+  208378, 
+  [
+   132, 
+   695, 
+   {}
+  ]
+ ], 
+ [
+  208378, 
+  [
+   703, 
+   748, 
+   {}
+  ]
+ ], 
+ [
+  212478, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 212473, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212485, 
+  [
+   0, 
+   161, 
+   {
+    "quote_id": 212478, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212485, 
+  [
+   262, 
+   300, 
+   {
+    "quote_id": 212478, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212485, 
+  [
+   678, 
+   838, 
+   {
+    "quote_id": 212478, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  316940, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Kronus;205783", 
+    "quote_id": 205783, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  316945, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Archangel;316940", 
+    "quote_id": 316940, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316945, 
+  [
+   514, 
+   743, 
+   {
+    "raw_data": "Archangel;316940", 
+    "quote_id": 316940, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316945, 
+  [
+   1173, 
+   1289, 
+   {
+    "raw_data": "Archangel;316940", 
+    "quote_id": 316940, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316947, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "electrolyte;316945", 
+    "quote_id": 316945, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316947, 
+  [
+   509, 
+   931, 
+   {
+    "quote_id": 316945, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   496, 
+   619, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   809, 
+   866, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   1050, 
+   1074, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   1120, 
+   1218, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   1564, 
+   1670, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   1992, 
+   2098, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   2244, 
+   2505, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316949, 
+  [
+   2699, 
+   2748, 
+   {
+    "raw_data": "Archangel;316947", 
+    "quote_id": 316947, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316952, 
+  [
+   1170, 
+   2199, 
+   {
+    "raw_data": "Kronus;205783", 
+    "quote_id": 205783, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  316952, 
+  [
+   2205, 
+   6962, 
+   {
+    "raw_data": "Archangel;316940", 
+    "quote_id": 316940, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316955, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "Archangel;316952", 
+    "quote_id": 316952, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316955, 
+  [
+   843, 
+   1177, 
+   {
+    "raw_data": "Archangel;316952", 
+    "quote_id": 316952, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316974, 
+  [
+   0, 
+   1012, 
+   {
+    "raw_data": "electrolyte;316955", 
+    "quote_id": 316955, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316974, 
+  [
+   1320, 
+   1937, 
+   {
+    "quote_id": 316955, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316974, 
+  [
+   2440, 
+   2740, 
+   {
+    "quote_id": 316955, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316974, 
+  [
+   2876, 
+   3343, 
+   {
+    "quote_id": 316955, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316974, 
+  [
+   4653, 
+   5248, 
+   {
+    "quote_id": 316955, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 209668, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   602, 
+   664, 
+   {
+    "quote_id": 209668, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   789, 
+   1410, 
+   {}
+  ]
+ ], 
+ [
+  209891, 
+  [
+   1519, 
+   1664, 
+   {
+    "quote_id": 209668, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   1839, 
+   1884, 
+   {
+    "quote_id": 209668, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   2276, 
+   2562, 
+   {
+    "quote_id": 209668, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   2653, 
+   2885, 
+   {
+    "quote_id": 209668, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  209891, 
+  [
+   3046, 
+   4397, 
+   {}
+  ]
+ ], 
+ [
+  316997, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316997, 
+  [
+   560, 
+   887, 
+   {
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316997, 
+  [
+   1040, 
+   1245, 
+   {
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316997, 
+  [
+   1313, 
+   1508, 
+   {
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316997, 
+  [
+   1977, 
+   2318, 
+   {
+    "quote_id": 316940, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316997, 
+  [
+   2548, 
+   2991, 
+   {}
+  ]
+ ], 
+ [
+  214598, 
+  [
+   109, 
+   308, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   740, 
+   1071, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   1464, 
+   1540, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   1712, 
+   1801, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   1900, 
+   2004, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   2417, 
+   2555, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   2836, 
+   3023, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   3667, 
+   3752, 
+   {
+    "quote_id": 212904, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   3896, 
+   3955, 
+   {
+    "quote_id": 212907, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   4035, 
+   4400, 
+   {
+    "quote_id": 212907, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   4641, 
+   4816, 
+   {
+    "quote_id": 212907, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   5065, 
+   5167, 
+   {
+    "quote_id": 212907, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214598, 
+  [
+   5485, 
+   5567, 
+   {
+    "quote_id": 212907, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   90, 
+   226, 
+   {
+    "raw_data": "electrolyte;316949", 
+    "quote_id": 316949, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   251, 
+   387, 
+   {
+    "raw_data": "electrolyte;316949", 
+    "quote_id": 316949, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   497, 
+   580, 
+   {
+    "raw_data": "electrolyte;316949", 
+    "quote_id": 316949, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   689, 
+   754, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   818, 
+   875, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   1036, 
+   1158, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   1393, 
+   1475, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   1762, 
+   1864, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   2091, 
+   2275, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   2409, 
+   2533, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   2605, 
+   3148, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   4871, 
+   5273, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   5547, 
+   5613, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   5959, 
+   6208, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   6548, 
+   6753, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  316999, 
+  [
+   6873, 
+   7161, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  212553, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 212485, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212554, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 212478, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212554, 
+  [
+   97, 
+   218, 
+   {
+    "quote_id": 212478, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212554, 
+  [
+   226, 
+   410, 
+   {
+    "quote_id": 212478, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  212561, 
+  [
+   174, 
+   268, 
+   {
+    "quote_id": 212485, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212561, 
+  [
+   450, 
+   819, 
+   {
+    "quote_id": 212485, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212561, 
+  [
+   1236, 
+   1606, 
+   {
+    "quote_id": 212473, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212561, 
+  [
+   2487, 
+   2678, 
+   {
+    "quote_id": 212473, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  206418, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206285, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206418, 
+  [
+   63, 
+   130, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206418, 
+  [
+   853, 
+   967, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206418, 
+  [
+   1174, 
+   1494, 
+   {}
+  ]
+ ], 
+ [
+  206418, 
+  [
+   1500, 
+   1570, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206296, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210532, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 209929, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212241, 
+  [
+   0, 
+   686, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 212234, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  214654, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   540, 
+   822, 
+   {
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   945, 
+   1059, 
+   {
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   1232, 
+   1344, 
+   {
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   1414, 
+   1621, 
+   {
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   1810, 
+   1927, 
+   {
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   2531, 
+   2599, 
+   {
+    "quote_id": 206283, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206504, 
+  [
+   2623, 
+   2680, 
+   {
+    "quote_id": 205863, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330695, 
+  [
+   0, 
+   1735, 
+   {
+    "raw_data": "trebor;330693", 
+    "quote_id": 330693, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  206509, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206181, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206509, 
+  [
+   94, 
+   243, 
+   {
+    "raw_data": "dametel", 
+    "unknown_author": "dametel", 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206509, 
+  [
+   249, 
+   369, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206290, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206509, 
+  [
+   379, 
+   478, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206294, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  206512, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 206299, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  208566, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 208185, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  208568, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 208378, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  208568, 
+  [
+   535, 
+   1030, 
+   {
+    "quote_id": 208378, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  210619, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210532, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210619, 
+  [
+   355, 
+   493, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210532, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210619, 
+  [
+   651, 
+   918, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210619, 
+  [
+   1400, 
+   1631, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   263, 
+   496, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   547, 
+   657, 
+   {}
+  ]
+ ], 
+ [
+  206527, 
+  [
+   710, 
+   1220, 
+   {}
+  ]
+ ], 
+ [
+  206527, 
+  [
+   1635, 
+   1743, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   1915, 
+   1998, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   2438, 
+   2636, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   2867, 
+   3109, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206527, 
+  [
+   3165, 
+   3293, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206531, 
+  [
+   0, 
+   233, 
+   {
+    "quote_id": 206418, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  210630, 
+  [
+   0, 
+   132, 
+   {}
+  ]
+ ], 
+ [
+  210630, 
+  [
+   140, 
+   388, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 210619, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210630, 
+  [
+   438, 
+   588, 
+   {}
+  ]
+ ], 
+ [
+  210630, 
+  [
+   764, 
+   915, 
+   {
+    "quote_id": 210619, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210630, 
+  [
+   1121, 
+   1596, 
+   {
+    "quote_id": 210619, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210630, 
+  [
+   1709, 
+   1929, 
+   {
+    "quote_id": 210619, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  206535, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206504, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206535, 
+  [
+   650, 
+   999, 
+   {}
+  ]
+ ], 
+ [
+  206535, 
+  [
+   1044, 
+   1224, 
+   {
+    "quote_id": 206504, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206535, 
+  [
+   1320, 
+   1551, 
+   {
+    "quote_id": 206504, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206535, 
+  [
+   1692, 
+   2052, 
+   {
+    "quote_id": 206504, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206535, 
+  [
+   2240, 
+   2400, 
+   {
+    "quote_id": 206504, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206535, 
+  [
+   2546, 
+   2701, 
+   {
+    "quote_id": 206504, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206536, 
+  [
+   0, 
+   684, 
+   {
+    "raw_data": "nazsmith", 
+    "quote_id": 206523, 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  210636, 
+  [
+   0, 
+   165, 
+   {
+    "quote_id": 210630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210636, 
+  [
+   658, 
+   852, 
+   {
+    "quote_id": 210630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210636, 
+  [
+   1143, 
+   1248, 
+   {
+    "quote_id": 210630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210636, 
+  [
+   1278, 
+   1510, 
+   {}
+  ]
+ ], 
+ [
+  206544, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206536, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208597, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208566, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208597, 
+  [
+   219, 
+   359, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208566, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208597, 
+  [
+   490, 
+   644, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208566, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210895, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Collin", 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210895, 
+  [
+   195, 
+   388, 
+   {
+    "quote_id": 210659, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210895, 
+  [
+   506, 
+   628, 
+   {
+    "quote_id": 210659, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210895, 
+  [
+   771, 
+   965, 
+   {
+    "quote_id": 210659, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210895, 
+  [
+   1053, 
+   1142, 
+   {
+    "quote_id": 210659, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  210895, 
+  [
+   1237, 
+   1275, 
+   {
+    "quote_id": 210659, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  206556, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206527, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206556, 
+  [
+   531, 
+   623, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   0, 
+   211, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   225, 
+   343, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   611, 
+   672, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   978, 
+   1237, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   1368, 
+   1506, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   1709, 
+   1795, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   1893, 
+   2000, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   2077, 
+   2180, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210659, 
+  [
+   2210, 
+   2314, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206570, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206536, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212263, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 212250, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212263, 
+  [
+   692, 
+   1057, 
+   {
+    "quote_id": 212250, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  212263, 
+  [
+   1445, 
+   1688, 
+   {
+    "quote_id": 212250, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  206573, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206573, 
+  [
+   386, 
+   429, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206581, 
+  [
+   0, 
+   507, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206573, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   0, 
+   56, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   182, 
+   265, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   802, 
+   1001, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   1037, 
+   1157, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   1365, 
+   1819, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   2963, 
+   3426, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   4066, 
+   4293, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   4499, 
+   4781, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   5240, 
+   5330, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   5502, 
+   5927, 
+   {}
+  ]
+ ], 
+ [
+  211241, 
+  [
+   6737, 
+   6889, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   7028, 
+   7392, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   8171, 
+   8253, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   8407, 
+   8490, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   8825, 
+   8923, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   8959, 
+   9333, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   9533, 
+   9639, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   9753, 
+   9804, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   9882, 
+   9967, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   9999, 
+   10102, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   10226, 
+   10335, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  211241, 
+  [
+   10373, 
+   10700, 
+   {
+    "quote_id": 211219, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208634, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208634, 
+  [
+   351, 
+   467, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208604, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208634, 
+  [
+   1161, 
+   1232, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210683, 
+  [
+   0, 
+   71, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210683, 
+  [
+   457, 
+   574, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210683, 
+  [
+   629, 
+   745, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210683, 
+  [
+   868, 
+   1005, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210683, 
+  [
+   1163, 
+   1337, 
+   {
+    "quote_id": 210640, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212749, 
+  [
+   55, 
+   198, 
+   {
+    "quote_id": 212225, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212749, 
+  [
+   587, 
+   708, 
+   {
+    "quote_id": 212225, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212749, 
+  [
+   962, 
+   1176, 
+   {
+    "quote_id": 212225, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212749, 
+  [
+   1616, 
+   1833, 
+   {
+    "quote_id": 212225, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206612, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 206570, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  214805, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "The Skeptic", 
+    "quote_id": 213252, 
+    "author": "The Skeptic"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   470, 
+   501, 
+   {
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   660, 
+   742, 
+   {
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   849, 
+   980, 
+   {
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   1063, 
+   1239, 
+   {
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   1390, 
+   1524, 
+   {
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206616, 
+  [
+   1719, 
+   1806, 
+   {
+    "quote_id": 206535, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206617, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206573, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  208681, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 208634, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210736, 
+  [
+   86, 
+   508, 
+   {
+    "quote_id": 210532, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210736, 
+  [
+   1274, 
+   1741, 
+   {
+    "quote_id": 210532, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210736, 
+  [
+   2828, 
+   3319, 
+   {}
+  ]
+ ], 
+ [
+  210736, 
+  [
+   5288, 
+   5762, 
+   {
+    "quote_id": 210532, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   247, 
+   670, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   840, 
+   1223, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   1546, 
+   1949, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   2085, 
+   2212, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   2466, 
+   2974, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   3176, 
+   3310, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   3412, 
+   3482, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   3615, 
+   3846, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   4041, 
+   4280, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   4494, 
+   4804, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214840, 
+  [
+   5073, 
+   5095, 
+   {
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214841, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "birdan", 
+    "quote_id": 214654, 
+    "author": "birdan"
+   }
+  ]
+ ], 
+ [
+  214841, 
+  [
+   246, 
+   411, 
+   {
+    "raw_data": "porchuster", 
+    "quote_id": 214802, 
+    "unknown_author": "porchuster", 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  214841, 
+  [
+   608, 
+   857, 
+   {
+    "quote_id": 214802, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  214841, 
+  [
+   1005, 
+   1241, 
+   {
+    "quote_id": 214802, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  214841, 
+  [
+   1335, 
+   1412, 
+   {
+    "quote_id": 214802, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   45, 
+   169, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214840, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   356, 
+   438, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   356, 
+   517, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   685, 
+   873, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214840, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   1093, 
+   1227, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 214598, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   1093, 
+   1318, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   1648, 
+   1724, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214840, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   1813, 
+   1917, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214840, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   1974, 
+   2013, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214841, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   2107, 
+   2203, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214841, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   2429, 
+   2525, 
+   {
+    "raw_data": "Walking-fish", 
+    "quote_id": 214802, 
+    "unknown_author": "Walking-fish", 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  214842, 
+  [
+   2429, 
+   2609, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  330719, 
+  [
+   0, 
+   1041, 
+   {
+    "raw_data": "Archangel;330714", 
+    "quote_id": 330714, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   121, 
+   192, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   273, 
+   422, 
+   {}
+  ]
+ ], 
+ [
+  214848, 
+  [
+   477, 
+   592, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   715, 
+   928, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   974, 
+   1124, 
+   {}
+  ]
+ ], 
+ [
+  214848, 
+  [
+   1606, 
+   1792, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   1999, 
+   2136, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   2254, 
+   2341, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   2492, 
+   2710, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  214848, 
+  [
+   2770, 
+   2884, 
+   {
+    "quote_id": 214842, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  208864, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 208853, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208864, 
+  [
+   130, 
+   287, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206670, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 206556, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206670, 
+  [
+   606, 
+   788, 
+   {
+    "quote_id": 206556, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  206671, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 206570, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   74, 
+   223, 
+   {}
+  ]
+ ], 
+ [
+  214867, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   578, 
+   689, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   936, 
+   971, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   1271, 
+   1408, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   1627, 
+   1688, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   1798, 
+   1991, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   2244, 
+   2346, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   2483, 
+   2538, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   2803, 
+   2850, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  214867, 
+  [
+   2996, 
+   3087, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 214848, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206678, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "nazsmith", 
+    "quote_id": 206612, 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  206683, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206616, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206683, 
+  [
+   435, 
+   533, 
+   {
+    "quote_id": 206616, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206683, 
+  [
+   684, 
+   758, 
+   {
+    "quote_id": 206616, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206683, 
+  [
+   982, 
+   1123, 
+   {
+    "quote_id": 206616, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206683, 
+  [
+   1312, 
+   1498, 
+   {}
+  ]
+ ], 
+ [
+  206683, 
+  [
+   1594, 
+   1762, 
+   {
+    "quote_id": 206616, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206685, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 206616, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  206687, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "nazsmith", 
+    "quote_id": 206612, 
+    "author": "nazsmith"
+   }
+  ]
+ ], 
+ [
+  206693, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206671, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  208751, 
+  [
+   0, 
+   325, 
+   {}
+  ]
+ ], 
+ [
+  206716, 
+  [
+   0, 
+   251, 
+   {}
+  ]
+ ], 
+ [
+  206716, 
+  [
+   257, 
+   369, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206676, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206716, 
+  [
+   796, 
+   1354, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206676, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206716, 
+  [
+   1733, 
+   1787, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206676, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206716, 
+  [
+   1857, 
+   1997, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206676, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212900, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 212561, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212900, 
+  [
+   467, 
+   875, 
+   {
+    "quote_id": 212561, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212900, 
+  [
+   1063, 
+   1935, 
+   {
+    "quote_id": 212561, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212900, 
+  [
+   2423, 
+   2812, 
+   {
+    "quote_id": 212561, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "GazzaElliott", 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   651, 
+   788, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   1129, 
+   1178, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   1264, 
+   1323, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   1426, 
+   1610, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   1726, 
+   1973, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   2123, 
+   2821, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   3020, 
+   3128, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212904, 
+  [
+   3223, 
+   3525, 
+   {
+    "quote_id": 212749, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   559, 
+   850, 
+   {
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   921, 
+   1419, 
+   {
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   1526, 
+   1921, 
+   {
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   2299, 
+   2919, 
+   {
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   3107, 
+   3184, 
+   {
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  212907, 
+  [
+   3299, 
+   3379, 
+   {
+    "quote_id": 212757, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  330738, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "iangb;330724", 
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330738, 
+  [
+   978, 
+   1164, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330738, 
+  [
+   2047, 
+   2425, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330738, 
+  [
+   4200, 
+   4765, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  330738, 
+  [
+   5654, 
+   6058, 
+   {
+    "quote_id": 330724, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  208814, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  212919, 
+  [
+   0, 
+   281, 
+   {
+    "quote_id": 212900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212919, 
+  [
+   484, 
+   659, 
+   {
+    "quote_id": 212900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212919, 
+  [
+   958, 
+   1127, 
+   {
+    "quote_id": 212900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212919, 
+  [
+   1460, 
+   1679, 
+   {
+    "quote_id": 212900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212919, 
+  [
+   1771, 
+   1986, 
+   {
+    "quote_id": 212900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210876, 
+  [
+   0, 
+   150, 
+   {}
+  ]
+ ], 
+ [
+  210876, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210876, 
+  [
+   683, 
+   876, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210876, 
+  [
+   1113, 
+   1210, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210876, 
+  [
+   1338, 
+   1440, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 210630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  329673, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Archangel;316974", 
+    "quote_id": 316974, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329673, 
+  [
+   100, 
+   300, 
+   {
+    "raw_data": "electrolyte;316945", 
+    "quote_id": 316945, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  208847, 
+  [
+   0, 
+   542, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 208629, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  208847, 
+  [
+   909, 
+   1119, 
+   {
+    "quote_id": 208629, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  210896, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "T.Q", 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  210896, 
+  [
+   606, 
+   722, 
+   {
+    "quote_id": 210683, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  210896, 
+  [
+   983, 
+   1134, 
+   {
+    "quote_id": 210683, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  210896, 
+  [
+   1288, 
+   1366, 
+   {
+    "quote_id": 210683, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "GazzaElliott", 
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   91, 
+   411, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   829, 
+   1155, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   1293, 
+   1401, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   1552, 
+   1797, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   1865, 
+   2171, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   2363, 
+   2507, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   2555, 
+   2930, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   3102, 
+   3841, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   4189, 
+   5092, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   5299, 
+   5609, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   5917, 
+   6383, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   6508, 
+   6963, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  210900, 
+  [
+   7084, 
+   7167, 
+   {
+    "quote_id": 210736, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  208853, 
+  [
+   116, 
+   176, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 208634, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210902, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 210876, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210902, 
+  [
+   434, 
+   790, 
+   {}
+  ]
+ ], 
+ [
+  210902, 
+  [
+   860, 
+   1229, 
+   {
+    "quote_id": 210876, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   0, 
+   409, 
+   {}
+  ]
+ ], 
+ [
+  210912, 
+  [
+   904, 
+   1032, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   1418, 
+   1555, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   1990, 
+   2046, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   2599, 
+   2781, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   3117, 
+   3154, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   3620, 
+   3778, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   4622, 
+   4960, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   5896, 
+   6093, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   7028, 
+   7322, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   8129, 
+   8244, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  210912, 
+  [
+   8752, 
+   8863, 
+   {
+    "quote_id": 210900, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212970, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Collin", 
+    "quote_id": 212919, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212970, 
+  [
+   409, 
+   699, 
+   {
+    "quote_id": 212919, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212970, 
+  [
+   857, 
+   1181, 
+   {
+    "quote_id": 212919, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212970, 
+  [
+   1259, 
+   1342, 
+   {
+    "quote_id": 212919, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212970, 
+  [
+   1719, 
+   1792, 
+   {
+    "quote_id": 212919, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  212970, 
+  [
+   1882, 
+   2145, 
+   {}
+  ]
+ ], 
+ [
+  212970, 
+  [
+   2466, 
+   2609, 
+   {
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  206830, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206683, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206830, 
+  [
+   719, 
+   856, 
+   {
+    "quote_id": 206683, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206830, 
+  [
+   1311, 
+   1520, 
+   {
+    "quote_id": 206683, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206830, 
+  [
+   1976, 
+   2153, 
+   {
+    "quote_id": 206683, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206830, 
+  [
+   2397, 
+   2479, 
+   {}
+  ]
+ ], 
+ [
+  206830, 
+  [
+   2708, 
+   2828, 
+   {
+    "quote_id": 206683, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206832, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 206689, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  206833, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206685, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206833, 
+  [
+   35, 
+   86, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206833, 
+  [
+   162, 
+   255, 
+   {
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206833, 
+  [
+   287, 
+   349, 
+   {
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206833, 
+  [
+   461, 
+   566, 
+   {
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  206833, 
+  [
+   675, 
+   765, 
+   {
+    "quote_id": 206531, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212979, 
+  [
+   0, 
+   203, 
+   {
+    "quote_id": 212970, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212979, 
+  [
+   427, 
+   575, 
+   {
+    "quote_id": 212970, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212979, 
+  [
+   883, 
+   1061, 
+   {
+    "quote_id": 212970, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212979, 
+  [
+   1309, 
+   1370, 
+   {
+    "quote_id": 212970, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  212979, 
+  [
+   1569, 
+   1658, 
+   {}
+  ]
+ ], 
+ [
+  212979, 
+  [
+   1836, 
+   2057, 
+   {}
+  ]
+ ], 
+ [
+  212979, 
+  [
+   2560, 
+   2747, 
+   {
+    "quote_id": 212970, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "terry107;329615", 
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   582, 
+   932, 
+   {}
+  ]
+ ], 
+ [
+  329716, 
+  [
+   1322, 
+   1362, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   1491, 
+   1708, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   1799, 
+   2177, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   2459, 
+   2509, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   2681, 
+   2734, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   2869, 
+   2998, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   3210, 
+   3248, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   3777, 
+   3843, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  329716, 
+  [
+   4108, 
+   4173, 
+   {
+    "quote_id": 329615, 
+    "author": "terry107"
+   }
+  ]
+ ], 
+ [
+  206847, 
+  [
+   162, 
+   501, 
+   {}
+  ]
+ ]
+]

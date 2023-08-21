@@ -1,0 +1,1118 @@
+[
+ [
+  51200, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51178, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  50689, 
+  [
+   0, 
+   604, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50684, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  51205, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 51198, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  50698, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50689, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50705, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50698, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  54291, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 54257, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  50712, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50705, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50712, 
+  [
+   231, 
+   466, 
+   {
+    "quote_id": 50705, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50712, 
+  [
+   550, 
+   656, 
+   {
+    "quote_id": 50705, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50724, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50712, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50724, 
+  [
+   383, 
+   459, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50712, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50724, 
+  [
+   787, 
+   1122, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50712, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  51242, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51207, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  50732, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50724, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50734, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50732, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50735, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 50734, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  50737, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 50735, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  51764, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51588, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  51773, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51771, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  50754, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50757, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50745, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50757, 
+  [
+   284, 
+   434, 
+   {
+    "quote_id": 50745, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50767, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 50757, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  50770, 
+  [
+   69, 
+   590, 
+   {}
+  ]
+ ], 
+ [
+  50770, 
+  [
+   704, 
+   1655, 
+   {}
+  ]
+ ], 
+ [
+  50770, 
+  [
+   1661, 
+   1916, 
+   {}
+  ]
+ ], 
+ [
+  51283, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 51279, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  50773, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50666, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50782, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 50757, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  50784, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  50785, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 50784, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  50786, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  51315, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51273, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  51315, 
+  [
+   1144, 
+   1229, 
+   {
+    "quote_id": 51283, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  53589, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 53587, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  51480, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 51283, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  54445, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 54258, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  51374, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51359, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  51374, 
+  [
+   207, 
+   310, 
+   {
+    "quote_id": 51359, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  51374, 
+  [
+   1063, 
+   1151, 
+   {
+    "quote_id": 51359, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  51374, 
+  [
+   1167, 
+   1420, 
+   {
+    "quote_id": 51359, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  54452, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 54445, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  54459, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 54452, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  50877, 
+  [
+   0, 
+   1311, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 50848, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  50881, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 50867, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  54516, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 54452, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  54546, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 54459, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  50473, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 50408, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  50989, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "ryaneverk2", 
+    "quote_id": 50919, 
+    "author": "ryaneverk2"
+   }
+  ]
+ ], 
+ [
+  50990, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 50867, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  50993, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "ryaneverk2", 
+    "quote_id": 50919, 
+    "author": "ryaneverk2"
+   }
+  ]
+ ], 
+ [
+  53555, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51783, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  51519, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 51283, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  53579, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 53565, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  53580, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53579, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53581, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 53580, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  50513, 
+  [
+   328, 
+   1598, 
+   {}
+  ]
+ ], 
+ [
+  53587, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53581, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  50517, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50513, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50519, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50517, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50525, 
+  [
+   0, 
+   394, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50519, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50526, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 50459, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  50531, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50525, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  51558, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50531, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  51558, 
+  [
+   665, 
+   953, 
+   {
+    "quote_id": 50531, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50666, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50651, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  51279, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 51273, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  53648, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 53644, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  53651, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 53589, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  53653, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 53589, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   44, 
+   261, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53653, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   377, 
+   897, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   1050, 
+   1227, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   1486, 
+   1580, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53653, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   1634, 
+   2022, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   2140, 
+   2657, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   2768, 
+   2934, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   3115, 
+   3413, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   3433, 
+   3623, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   3680, 
+   3917, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   3983, 
+   4492, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   4530, 
+   4645, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53653, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  53655, 
+  [
+   4664, 
+   5199, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53653, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  50592, 
+  [
+   0, 
+   569, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 50404, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  50593, 
+  [
+   0, 
+   746, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50531, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  50602, 
+  [
+   0, 
+   1380, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 50593, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  53681, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 53671, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  53664, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 53648, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  50628, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50602, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  53717, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53681, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  50672, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 50666, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  54257, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 53681, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  54258, 
+  [
+   0, 
+   2970, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 54236, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  50677, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Rev. HellH0und", 
+    "quote_id": 50672, 
+    "author": "Rev. HellH0und"
+   }
+  ]
+ ], 
+ [
+  51198, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "ryaneverk2", 
+    "quote_id": 51139, 
+    "author": "ryaneverk2"
+   }
+  ]
+ ], 
+ [
+  50687, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50684, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

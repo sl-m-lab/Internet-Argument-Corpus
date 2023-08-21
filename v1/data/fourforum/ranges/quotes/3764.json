@@ -1,0 +1,86 @@
+[
+ [
+  80801, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 79901, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  81000, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 80810, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  80810, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 80801, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  78190, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 78176, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  79377, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "pseudo", 
+    "quote_id": 78190, 
+    "author": "pseudo"
+   }
+  ]
+ ], 
+ [
+  79386, 
+  [
+   0, 
+   612, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 79377, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  79901, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 79386, 
+    "author": "Mach"
+   }
+  ]
+ ]
+]

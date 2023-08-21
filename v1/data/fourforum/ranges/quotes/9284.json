@@ -1,0 +1,614 @@
+[
+ [
+  242826, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "ShadowPikachu;242798", 
+    "quote_id": 242798, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242826, 
+  [
+   615, 
+   833, 
+   {
+    "raw_data": "foundit", 
+    "quote_id": 242804, 
+    "unknown_author": "foundit", 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242829, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "jyoshu;242826", 
+    "quote_id": 242826, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242829, 
+  [
+   181, 
+   271, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242826, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242829, 
+  [
+   454, 
+   773, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242831, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "foundit66;242829", 
+    "quote_id": 242829, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242648, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "DrNo;242638", 
+    "quote_id": 242638, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  242709, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "thelmoose;242648", 
+    "quote_id": 242648, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  242840, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "ShadowPikachu;242771", 
+    "quote_id": 242771, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242842, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "jyoshu;242831", 
+    "quote_id": 242831, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242842, 
+  [
+   166, 
+   331, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242831, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242842, 
+  [
+   740, 
+   851, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242831, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242715, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "DrNo;242709", 
+    "quote_id": 242709, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  243034, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "jyoshu;242976", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242976, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "foundit66;242842", 
+    "quote_id": 242842, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242976, 
+  [
+   712, 
+   957, 
+   {
+    "raw_data": "foundit66;242842", 
+    "quote_id": 242842, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242976, 
+  [
+   1026, 
+   1217, 
+   {
+    "raw_data": "foundit66;242842", 
+    "quote_id": 242842, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242976, 
+  [
+   1473, 
+   1640, 
+   {
+    "raw_data": "foundit66;242842", 
+    "quote_id": 242842, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242843, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "zachvac;242840", 
+    "quote_id": 242840, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  243029, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "jyoshu;242976", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  243029, 
+  [
+   296, 
+   351, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  243029, 
+  [
+   529, 
+   661, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  243029, 
+  [
+   1019, 
+   1078, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  243029, 
+  [
+   1369, 
+   1615, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  243029, 
+  [
+   1875, 
+   2133, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242976, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242865, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "jyoshu;242779", 
+    "quote_id": 242779, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242633, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Matthew S;242220", 
+    "quote_id": 242220, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  242769, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "DrNo;242709", 
+    "quote_id": 242709, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  242771, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "DrNo;242709", 
+    "quote_id": 242709, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  242773, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "thelmoose;242769", 
+    "quote_id": 242769, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  242776, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "jyoshu;242773", 
+    "quote_id": 242773, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242777, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "jyoshu;242773", 
+    "quote_id": 242773, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242777, 
+  [
+   661, 
+   870, 
+   {
+    "raw_data": "jyoshu;242773", 
+    "quote_id": 242773, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242777, 
+  [
+   1091, 
+   1387, 
+   {
+    "raw_data": "jyoshu;242773", 
+    "quote_id": 242773, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242778, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "jyoshu;242773", 
+    "quote_id": 242773, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242779, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "ShadowPikachu;242776", 
+    "quote_id": 242776, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242779, 
+  [
+   290, 
+   430, 
+   {
+    "raw_data": "thelmoose;242778", 
+    "quote_id": 242778, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  242779, 
+  [
+   767, 
+   1839, 
+   {
+    "raw_data": "thelmoose;242777", 
+    "quote_id": 242777, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  242784, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "jyoshu;242779", 
+    "quote_id": 242779, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242786, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "jyoshu;242779", 
+    "quote_id": 242779, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242787, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "ShadowPikachu;242784", 
+    "quote_id": 242784, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242787, 
+  [
+   253, 
+   460, 
+   {
+    "raw_data": "ShadowPikachu;242784", 
+    "quote_id": 242784, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242789, 
+  [
+   0, 
+   546, 
+   {
+    "raw_data": "jyoshu;242787", 
+    "quote_id": 242787, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242792, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "ShadowPikachu;242789", 
+    "quote_id": 242789, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242798, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "jyoshu;242792", 
+    "quote_id": 242792, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242800, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "jyoshu;242792", 
+    "quote_id": 242792, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  242803, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "foundit66;242800", 
+    "quote_id": 242800, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242804, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "ShadowPikachu;242798", 
+    "quote_id": 242798, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242804, 
+  [
+   1757, 
+   2045, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 242798, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  242810, 
+  [
+   0, 
+   1832, 
+   {
+    "raw_data": "foundit66;242804", 
+    "quote_id": 242804, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  242837, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "jyoshu;242826", 
+    "quote_id": 242826, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

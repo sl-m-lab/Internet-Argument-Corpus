@@ -1,0 +1,136 @@
+[
+ [
+  197699, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Cone", 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  197670, 
+  [
+   122, 
+   220, 
+   {}
+  ]
+ ], 
+ [
+  197671, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Mickey Shane", 
+    "author": "Mickey Shane"
+   }
+  ]
+ ], 
+ [
+  197872, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "Caprii", 
+    "quote_id": 197699, 
+    "author": "Caprii"
+   }
+  ]
+ ], 
+ [
+  197872, 
+  [
+   593, 
+   817, 
+   {
+    "raw_data": "Caprii", 
+    "quote_id": 197699, 
+    "author": "Caprii"
+   }
+  ]
+ ], 
+ [
+  197872, 
+  [
+   1106, 
+   1265, 
+   {
+    "raw_data": "Caprii", 
+    "quote_id": 197699, 
+    "author": "Caprii"
+   }
+  ]
+ ], 
+ [
+  197651, 
+  [
+   58, 
+   730, 
+   {
+    "raw_data": "News Article", 
+    "unknown_author": "News Article"
+   }
+  ]
+ ], 
+ [
+  197688, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Mickey Shane", 
+    "quote_id": 197670, 
+    "author": "Mickey Shane"
+   }
+  ]
+ ], 
+ [
+  197688, 
+  [
+   322, 
+   470, 
+   {
+    "raw_data": "Mickey Shane", 
+    "quote_id": 197670, 
+    "author": "Mickey Shane"
+   }
+  ]
+ ], 
+ [
+  197882, 
+  [
+   0, 
+   337, 
+   {
+    "quote_id": 197872, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  197882, 
+  [
+   717, 
+   998, 
+   {
+    "quote_id": 197872, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  197882, 
+  [
+   2208, 
+   2445, 
+   {
+    "quote_id": 197872, 
+    "author": "Cone"
+   }
+  ]
+ ]
+]

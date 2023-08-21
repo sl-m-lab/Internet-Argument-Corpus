@@ -1,0 +1,483 @@
+[
+ [
+  361220, 
+  [
+   0, 
+   1118, 
+   {
+    "raw_data": "Winston Smith;361188", 
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361220, 
+  [
+   2512, 
+   2739, 
+   {
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361220, 
+  [
+   3934, 
+   4117, 
+   {
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361220, 
+  [
+   4203, 
+   4383, 
+   {
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361220, 
+  [
+   4884, 
+   5000, 
+   {
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361220, 
+  [
+   5867, 
+   6168, 
+   {
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361220, 
+  [
+   6915, 
+   7143, 
+   {
+    "quote_id": 361188, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361368, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Baron;361366", 
+    "quote_id": 361366, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  361115, 
+  [
+   0, 
+   904, 
+   {
+    "raw_data": "antonia;360754", 
+    "quote_id": 360754, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360754, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Winston Smith;360704", 
+    "quote_id": 360704, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360754, 
+  [
+   1048, 
+   1176, 
+   {
+    "quote_id": 360704, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361161, 
+  [
+   0, 
+   760, 
+   {
+    "raw_data": "antonia;361105", 
+    "quote_id": 361105, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360773, 
+  [
+   0, 
+   904, 
+   {
+    "raw_data": "antonia;360754", 
+    "quote_id": 360754, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360774, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Winston Smith;360773", 
+    "quote_id": 360773, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360775, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "antonia;360754", 
+    "quote_id": 360754, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361163, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Penfold;361115", 
+    "quote_id": 361115, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  361548, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "mae;361466", 
+    "quote_id": 361466, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  360781, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Winston Smith;360775", 
+    "quote_id": 360775, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360781, 
+  [
+   400, 
+   651, 
+   {}
+  ]
+ ], 
+ [
+  360781, 
+  [
+   739, 
+   1186, 
+   {
+    "quote_id": 360775, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361165, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Winston Smith;361161", 
+    "quote_id": 361161, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361165, 
+  [
+   274, 
+   505, 
+   {
+    "quote_id": 361161, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361165, 
+  [
+   807, 
+   861, 
+   {
+    "quote_id": 361161, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360786, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "antonia;360781", 
+    "quote_id": 360781, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  360786, 
+  [
+   193, 
+   305, 
+   {
+    "quote_id": 360781, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361555, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "omomom;361552", 
+    "quote_id": 361552, 
+    "author": "omomom"
+   }
+  ]
+ ], 
+ [
+  361300, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Winston Smith;361281", 
+    "quote_id": 361281, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361300, 
+  [
+   654, 
+   783, 
+   {
+    "quote_id": 361281, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361300, 
+  [
+   830, 
+   881, 
+   {
+    "quote_id": 361281, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361312, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "Winston Smith;361281", 
+    "quote_id": 361281, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  361188, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "antonia;361165", 
+    "quote_id": 361165, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361188, 
+  [
+   1217, 
+   1509, 
+   {
+    "quote_id": 361165, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361188, 
+  [
+   2113, 
+   2382, 
+   {
+    "quote_id": 361165, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361188, 
+  [
+   2506, 
+   2832, 
+   {
+    "quote_id": 361165, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361446, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Baron;361366", 
+    "quote_id": 361366, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  361332, 
+  [
+   0, 
+   665, 
+   {
+    "raw_data": "antonia;361300", 
+    "quote_id": 361300, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  361336, 
+  [
+   0, 
+   1105, 
+   {
+    "raw_data": "mae;361312", 
+    "quote_id": 361312, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  361336, 
+  [
+   1775, 
+   1851, 
+   {
+    "quote_id": 361312, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  361336, 
+  [
+   2348, 
+   2530, 
+   {
+    "quote_id": 361312, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  361336, 
+  [
+   3143, 
+   3356, 
+   {
+    "quote_id": 361312, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  361465, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Baron;361368", 
+    "quote_id": 361368, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  361466, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "JPSartre12;361369", 
+    "quote_id": 361369, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

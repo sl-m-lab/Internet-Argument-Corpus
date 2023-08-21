@@ -1,0 +1,50 @@
+[
+ [
+  89757, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 89730, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  89729, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Choscura", 
+    "quote_id": 89661, 
+    "author": "Choscura"
+   }
+  ]
+ ], 
+ [
+  89730, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 89729, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  89714, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Choscura", 
+    "quote_id": 89661, 
+    "author": "Choscura"
+   }
+  ]
+ ]
+]

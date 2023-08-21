@@ -1,0 +1,229 @@
+[
+ [
+  123360, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "tomharrybill", 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123363, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 123360, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  123771, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123582, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  123368, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123363, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123337, 
+  [
+   0, 
+   635, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123335, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  123498, 
+  [
+   0, 
+   635, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123335, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  123339, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123337, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123372, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123368, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  123373, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 123372, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  123344, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 123339, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  123345, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123344, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123775, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "sassi", 
+    "quote_id": 123771, 
+    "author": "sassi"
+   }
+  ]
+ ], 
+ [
+  123348, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123344, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123582, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "sassi", 
+    "quote_id": 123498, 
+    "author": "sassi"
+   }
+  ]
+ ], 
+ [
+  123351, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123348, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  123352, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123344, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123355, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 123352, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  123357, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123355, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123358, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123351, 
+    "author": "tomharrybill"
+   }
+  ]
+ ]
+]

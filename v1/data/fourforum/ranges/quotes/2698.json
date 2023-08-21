@@ -1,0 +1,598 @@
+[
+ [
+  57348, 
+  [
+   0, 
+   38, 
+   {}
+  ]
+ ], 
+ [
+  59274, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 59154, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59274, 
+  [
+   1070, 
+   1495, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 59154, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   542, 
+   664, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   842, 
+   927, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 59154, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   1163, 
+   1196, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 59154, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   1739, 
+   1861, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   2662, 
+   2751, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 59154, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   3345, 
+   3518, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   4000, 
+   4129, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  59167, 
+  [
+   4521, 
+   4569, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 59154, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59424, 
+  [
+   904, 
+   2829, 
+   {}
+  ]
+ ], 
+ [
+  59425, 
+  [
+   0, 
+   237, 
+   {
+    "quote_id": 59167, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 59167, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   243, 
+   1415, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   2291, 
+   3488, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   3618, 
+   4040, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   5065, 
+   5438, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   6165, 
+   7090, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59556, 
+  [
+   8223, 
+   8740, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59557, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59557, 
+  [
+   308, 
+   4739, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  57384, 
+  [
+   0, 
+   798, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 57378, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  57396, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57384, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   30, 
+   418, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   17044, 
+   17374, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   20195, 
+   20488, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   22426, 
+   22963, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   26314, 
+   26657, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   26870, 
+   27427, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57528, 
+  [
+   28368, 
+   28852, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  59426, 
+  [
+   0, 
+   3506, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 59388, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59554, 
+  [
+   0, 
+   564, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  59554, 
+  [
+   1297, 
+   1591, 
+   {
+    "raw_data": "Truthkeeper", 
+    "quote_id": 59427, 
+    "unknown_author": "Truthkeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  59554, 
+  [
+   2122, 
+   2463, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   541, 
+   873, 
+   {
+    "raw_data": "truthkeeper", 
+    "unknown_author": "truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   1044, 
+   1339, 
+   {
+    "raw_data": "truthkeeper", 
+    "unknown_author": "truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   1538, 
+   2077, 
+   {
+    "raw_data": "truthkeeper", 
+    "unknown_author": "truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   2225, 
+   2567, 
+   {
+    "raw_data": "truthkeeper", 
+    "unknown_author": "truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   2749, 
+   3310, 
+   {
+    "raw_data": "truthkeeper", 
+    "unknown_author": "truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57032, 
+  [
+   3375, 
+   3878, 
+   {
+    "raw_data": "truthkeeper", 
+    "unknown_author": "truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57421, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 57396, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  59610, 
+  [
+   0, 
+   894, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  57693, 
+  [
+   0, 
+   25942, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57695, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 57693, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  57703, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57695, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57705, 
+  [
+   1261, 
+   1531, 
+   {
+    "raw_data": "mizmaxx", 
+    "quote_id": 57703, 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  57705, 
+  [
+   4174, 
+   4543, 
+   {
+    "raw_data": "mizmaxx", 
+    "quote_id": 57703, 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  57343, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "TruthKeeper", 
+    "quote_id": 57018, 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  57343, 
+  [
+   336, 
+   1561, 
+   {
+    "raw_data": "TruthKeeper", 
+    "author": "TruthKeeper"
+   }
+  ]
+ ], 
+ [
+  57343, 
+  [
+   2459, 
+   3593, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ], 
+ [
+  57343, 
+  [
+   3778, 
+   5135, 
+   {
+    "raw_data": "Truthkeeper", 
+    "unknown_author": "Truthkeeper"
+   }
+  ]
+ ]
+]

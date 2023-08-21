@@ -1,0 +1,85 @@
+[
+ [
+  266538, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Winston Smith;265228", 
+    "quote_id": 265228, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  266538, 
+  [
+   243, 
+   475, 
+   {
+    "quote_id": 265228, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  265228, 
+  [
+   0, 
+   894, 
+   {
+    "raw_data": "obvious_child;264471", 
+    "quote_id": 264471, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  287920, 
+  [
+   0, 
+   432, 
+   {
+    "raw_data": "obvious_child;266538", 
+    "quote_id": 266538, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  74453, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 74450, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  265327, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Winston Smith;265228", 
+    "quote_id": 265228, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  264469, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Duo_Maxwell;74450", 
+    "quote_id": 74450, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,193 @@
+[
+ [
+  333600, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "NATO 556;333589", 
+    "quote_id": 333589, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333698, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;333566", 
+    "quote_id": 333566, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333768, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Penfold;333747", 
+    "quote_id": 333747, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333768, 
+  [
+   113, 
+   170, 
+   {
+    "quote_id": 333747, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333706, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Penfold;333585", 
+    "quote_id": 333585, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333580, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;333566", 
+    "quote_id": 333566, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  333709, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Ethmi;333706", 
+    "quote_id": 333706, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333744, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Penfold;333721", 
+    "quote_id": 333721, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333619, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Penfold;333600", 
+    "quote_id": 333600, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333589, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Penfold;333585", 
+    "quote_id": 333585, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333750, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Penfold;333747", 
+    "quote_id": 333747, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333626, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "NATO 556;333619", 
+    "quote_id": 333619, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  333748, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Penfold;333721", 
+    "quote_id": 333721, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  333747, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Ethmi;333744", 
+    "quote_id": 333744, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333747, 
+  [
+   257, 
+   288, 
+   {
+    "raw_data": "Ethmi;333556", 
+    "quote_id": 333556, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  333566, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Ethmi;333556", 
+    "quote_id": 333556, 
+    "author": "Ethmi"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,326 @@
+[
+ [
+  236153, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "INRI;236135", 
+    "quote_id": 236135, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236296, 
+  [
+   0, 
+   1215, 
+   {
+    "raw_data": "INRI;236175", 
+    "quote_id": 236175, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236175, 
+  [
+   0, 
+   298, 
+   {
+    "quote_id": 236139, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236175, 
+  [
+   890, 
+   1206, 
+   {
+    "quote_id": 236153, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  235931, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "INRI;235862", 
+    "quote_id": 235862, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236319, 
+  [
+   0, 
+   914, 
+   {
+    "raw_data": "INRI;236311", 
+    "quote_id": 236311, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  235936, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Easyrider;235871", 
+    "quote_id": 235871, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  235938, 
+  [
+   0, 
+   141, 
+   {
+    "quote_id": 235894, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235938, 
+  [
+   273, 
+   461, 
+   {
+    "quote_id": 235894, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235938, 
+  [
+   627, 
+   756, 
+   {
+    "quote_id": 235931, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  235938, 
+  [
+   961, 
+   1056, 
+   {
+    "quote_id": 235931, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  235938, 
+  [
+   1092, 
+   1149, 
+   {
+    "quote_id": 235936, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  236325, 
+  [
+   0, 
+   914, 
+   {
+    "raw_data": "INRI;236311", 
+    "quote_id": 236311, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236103, 
+  [
+   0, 
+   1765, 
+   {
+    "raw_data": "INRI;236013", 
+    "quote_id": 236013, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  235850, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "simone;235836", 
+    "quote_id": 235836, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235861, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "INRI;235857", 
+    "quote_id": 235857, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  235862, 
+  [
+   0, 
+   254, 
+   {
+    "quote_id": 235861, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235863, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "thelmoose;235861", 
+    "quote_id": 235861, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  235866, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "INRI;235862", 
+    "quote_id": 235862, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  235871, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "simone;235866", 
+    "quote_id": 235866, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236135, 
+  [
+   0, 
+   396, 
+   {
+    "quote_id": 236103, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  236013, 
+  [
+   0, 
+   150, 
+   {
+    "quote_id": 235941, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236013, 
+  [
+   766, 
+   838, 
+   {
+    "quote_id": 235941, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236013, 
+  [
+   1605, 
+   1786, 
+   {}
+  ]
+ ], 
+ [
+  236013, 
+  [
+   1972, 
+   2158, 
+   {}
+  ]
+ ], 
+ [
+  236013, 
+  [
+   2164, 
+   2375, 
+   {}
+  ]
+ ], 
+ [
+  235890, 
+  [
+   0, 
+   486, 
+   {
+    "quote_id": 235866, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  235894, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "INRI;235862", 
+    "quote_id": 235862, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  235897, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Easyrider;235871", 
+    "quote_id": 235871, 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

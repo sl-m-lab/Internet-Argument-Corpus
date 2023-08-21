@@ -1,0 +1,118 @@
+[
+ [
+  365669, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "CUNxTime;359899", 
+    "quote_id": 359899, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  359752, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "simone;359742", 
+    "quote_id": 359742, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  359753, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "CUNxTime;359752", 
+    "quote_id": 359752, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  365935, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "chester;365669", 
+    "quote_id": 365669, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  359761, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Steamroller;359753", 
+    "quote_id": 359753, 
+    "author": "Steamroller"
+   }
+  ]
+ ], 
+ [
+  365567, 
+  [
+   0, 
+   674, 
+   {
+    "raw_data": "simone;359846", 
+    "quote_id": 359846, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  359899, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "simone;359853", 
+    "quote_id": 359853, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  359899, 
+  [
+   140, 
+   201, 
+   {}
+  ]
+ ], 
+ [
+  359742, 
+  [
+   40, 
+   2116, 
+   {}
+  ]
+ ], 
+ [
+  359742, 
+  [
+   2182, 
+   2304, 
+   {}
+  ]
+ ], 
+ [
+  359743, 
+  [
+   70, 
+   611, 
+   {}
+  ]
+ ]
+]

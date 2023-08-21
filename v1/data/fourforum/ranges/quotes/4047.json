@@ -1,0 +1,599 @@
+[
+ [
+  85377, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85255, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85378, 
+  [
+   0, 
+   681, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85305, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85378, 
+  [
+   807, 
+   1009, 
+   {
+    "raw_data": "JPSartre", 
+    "quote_id": 85305, 
+    "unknown_author": "JPSartre", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85379, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85379, 
+  [
+   431, 
+   634, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85379, 
+  [
+   846, 
+   1066, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85255, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85191, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85003, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 84885, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   0, 
+   952, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   1109, 
+   1786, 
+   {
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   2015, 
+   2806, 
+   {
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   3084, 
+   3610, 
+   {
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   3901, 
+   4509, 
+   {
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   4652, 
+   5197, 
+   {
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   5254, 
+   5630, 
+   {
+    "raw_data": "joebummer", 
+    "unknown_author": "joebummer"
+   }
+  ]
+ ], 
+ [
+  85388, 
+  [
+   6001, 
+   6518, 
+   {
+    "quote_id": 85372, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  85008, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84861, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85008, 
+  [
+   210, 
+   293, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84861, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85011, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85008, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85011, 
+  [
+   262, 
+   455, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85008, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85011, 
+  [
+   625, 
+   938, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85008, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84886, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84861, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84888, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 84886, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  85917, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 84885, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85024, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85003, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85034, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85011, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85037, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85024, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85037, 
+  [
+   213, 
+   479, 
+   {}
+  ]
+ ], 
+ [
+  85037, 
+  [
+   510, 
+   637, 
+   {}
+  ]
+ ], 
+ [
+  85295, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85255, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85301, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 85191, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  85305, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85295, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85050, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85039, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85307, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85305, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85054, 
+  [
+   0, 
+   1264, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85050, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  84928, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 84885, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  84934, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84928, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  85191, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85034, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85191, 
+  [
+   207, 
+   442, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 85034, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  85328, 
+  [
+   0, 
+   1454, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85305, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85306, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85301, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  84970, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 84934, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85364, 
+  [
+   0, 
+   1089, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85328, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85368, 
+  [
+   0, 
+   925, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 85328, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85368, 
+  [
+   1228, 
+   1390, 
+   {
+    "quote_id": 85328, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  85372, 
+  [
+   0, 
+   1454, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85305, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85374, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85374, 
+  [
+   1112, 
+   1377, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85374, 
+  [
+   1764, 
+   1924, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85374, 
+  [
+   2025, 
+   2247, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  85374, 
+  [
+   2983, 
+   3297, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 85368, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

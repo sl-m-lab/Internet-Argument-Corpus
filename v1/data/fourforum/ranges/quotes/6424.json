@@ -1,0 +1,816 @@
+[
+ [
+  164864, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 164420, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  163716, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 162834, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  163716, 
+  [
+   147, 
+   253, 
+   {
+    "quote_id": 162834, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  163723, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 162973, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  163723, 
+  [
+   286, 
+   422, 
+   {
+    "quote_id": 162973, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  163723, 
+  [
+   454, 
+   489, 
+   {
+    "quote_id": 162973, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  163723, 
+  [
+   659, 
+   817, 
+   {
+    "quote_id": 162973, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  163723, 
+  [
+   1101, 
+   1188, 
+   {
+    "quote_id": 162973, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  163723, 
+  [
+   1315, 
+   1406, 
+   {
+    "quote_id": 162973, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  163726, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 162992, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  164368, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "jsaid2009", 
+    "quote_id": 164017, 
+    "author": "jsaid2009"
+   }
+  ]
+ ], 
+ [
+  164368, 
+  [
+   379, 
+   455, 
+   {
+    "quote_id": 164017, 
+    "author": "jsaid2009"
+   }
+  ]
+ ], 
+ [
+  165013, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 164991, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165013, 
+  [
+   447, 
+   907, 
+   {
+    "quote_id": 164991, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165013, 
+  [
+   1173, 
+   1451, 
+   {
+    "quote_id": 164991, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165013, 
+  [
+   1923, 
+   2432, 
+   {
+    "quote_id": 164991, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  162973, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 162681, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  162973, 
+  [
+   523, 
+   805, 
+   {
+    "quote_id": 162681, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  163744, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  163746, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 163726, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   517, 
+   558, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   775, 
+   878, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   2251, 
+   2355, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   2564, 
+   2677, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   2887, 
+   3232, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   3905, 
+   3989, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165027, 
+  [
+   4069, 
+   4142, 
+   {
+    "quote_id": 165013, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  163877, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 163833, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  164392, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 164368, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164392, 
+  [
+   288, 
+   375, 
+   {
+    "quote_id": 164368, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164392, 
+  [
+   667, 
+   793, 
+   {
+    "quote_id": 164368, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164017, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 163828, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164017, 
+  [
+   205, 
+   332, 
+   {
+    "quote_id": 163828, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   421, 
+   620, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   727, 
+   927, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   1479, 
+   1971, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   2147, 
+   2319, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   2419, 
+   2489, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   2541, 
+   2657, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   2749, 
+   2937, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   2974, 
+   3104, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  165047, 
+  [
+   3164, 
+   3268, 
+   {
+    "quote_id": 165027, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  164875, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 163877, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164875, 
+  [
+   404, 
+   479, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 163877, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164875, 
+  [
+   666, 
+   689, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 164449, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  164875, 
+  [
+   705, 
+   734, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 164449, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  164875, 
+  [
+   783, 
+   898, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 164449, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  164420, 
+  [
+   0, 
+   462, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 164368, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   89, 
+   186, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   259, 
+   772, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   1151, 
+   1587, 
+   {}
+  ]
+ ], 
+ [
+  165063, 
+  [
+   1949, 
+   2039, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   2514, 
+   2799, 
+   {}
+  ]
+ ], 
+ [
+  165063, 
+  [
+   3337, 
+   3381, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   4020, 
+   4049, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   4809, 
+   4863, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  165063, 
+  [
+   4979, 
+   5054, 
+   {
+    "quote_id": 165047, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164449, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 163743, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  165999, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 164875, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  163828, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 163743, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  163828, 
+  [
+   419, 
+   576, 
+   {
+    "raw_data": "jsaid2009", 
+    "quote_id": 163746, 
+    "author": "jsaid2009"
+   }
+  ]
+ ], 
+ [
+  163833, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 163828, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  164989, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 164875, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  164989, 
+  [
+   370, 
+   547, 
+   {
+    "quote_id": 164875, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  164989, 
+  [
+   755, 
+   948, 
+   {
+    "quote_id": 164875, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  164862, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "jsaid2009", 
+    "quote_id": 164392, 
+    "author": "jsaid2009"
+   }
+  ]
+ ], 
+ [
+  164862, 
+  [
+   269, 
+   546, 
+   {
+    "quote_id": 164392, 
+    "author": "jsaid2009"
+   }
+  ]
+ ], 
+ [
+  164862, 
+  [
+   755, 
+   819, 
+   {
+    "quote_id": 164392, 
+    "author": "jsaid2009"
+   }
+  ]
+ ], 
+ [
+  164991, 
+  [
+   0, 
+   762, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 164864, 
+    "author": "gnojek"
+   }
+  ]
+ ]
+]

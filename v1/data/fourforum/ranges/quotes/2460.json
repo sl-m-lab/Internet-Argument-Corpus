@@ -1,0 +1,57 @@
+[
+ [
+  51778, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 51730, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  51971, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "Tim", 
+    "quote_id": 51897, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  59091, 
+  [
+   0, 
+   151, 
+   {}
+  ]
+ ], 
+ [
+  52087, 
+  [
+   0, 
+   213, 
+   {
+    "quote_id": 51971, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ], 
+ [
+  51897, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 51730, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ]
+]

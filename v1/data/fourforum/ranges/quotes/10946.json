@@ -1,0 +1,827 @@
+[
+ [
+  302342, 
+  [
+   0, 
+   1032, 
+   {
+    "raw_data": "Steeeeve;302326", 
+    "quote_id": 302326, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  302345, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Archangel;302342", 
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302345, 
+  [
+   252, 
+   638, 
+   {
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302345, 
+  [
+   1474, 
+   1615, 
+   {
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302345, 
+  [
+   2303, 
+   2475, 
+   {
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302350, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "obvious_child;302345", 
+    "quote_id": 302345, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302350, 
+  [
+   206, 
+   1031, 
+   {
+    "quote_id": 302345, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302350, 
+  [
+   1756, 
+   1841, 
+   {
+    "quote_id": 302345, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302483, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "Archangel;302463", 
+    "quote_id": 302463, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302485, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "obvious_child;302483", 
+    "quote_id": 302483, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302358, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "HonestAbe;302353", 
+    "quote_id": 302353, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302489, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Archangel;302485", 
+    "quote_id": 302485, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302361, 
+  [
+   0, 
+   692, 
+   {
+    "raw_data": "Archangel;302305", 
+    "quote_id": 302305, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302490, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "Archangel;302463", 
+    "quote_id": 302463, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302364, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "HonestAbe;302353", 
+    "quote_id": 302353, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302370, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "obvious_child;302345", 
+    "quote_id": 302345, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302372, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Archangel;302350", 
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302372, 
+  [
+   371, 
+   685, 
+   {
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302372, 
+  [
+   2179, 
+   2355, 
+   {
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302372, 
+  [
+   2582, 
+   2799, 
+   {
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302372, 
+  [
+   2956, 
+   3132, 
+   {
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302372, 
+  [
+   3433, 
+   3577, 
+   {
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302373, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "HonestAbe;302353", 
+    "quote_id": 302353, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302374, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Penfold;302370", 
+    "quote_id": 302370, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302375, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "DrD;302365", 
+    "quote_id": 302365, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  302391, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "obvious_child;302372", 
+    "quote_id": 302372, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302391, 
+  [
+   564, 
+   676, 
+   {
+    "quote_id": 302372, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302391, 
+  [
+   2033, 
+   2227, 
+   {
+    "quote_id": 302372, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302391, 
+  [
+   2646, 
+   2751, 
+   {
+    "quote_id": 302372, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302391, 
+  [
+   3115, 
+   3191, 
+   {
+    "quote_id": 302372, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302393, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "DrD;302365", 
+    "quote_id": 302365, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  302393, 
+  [
+   1006, 
+   1698, 
+   {
+    "raw_data": "Archangel;302305", 
+    "quote_id": 302305, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Archangel;302391", 
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   473, 
+   666, 
+   {}
+  ]
+ ], 
+ [
+  302395, 
+  [
+   1446, 
+   1661, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   1903, 
+   2064, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   2213, 
+   2361, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   2801, 
+   2973, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   3391, 
+   3577, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   3863, 
+   4126, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   4342, 
+   4446, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   4523, 
+   4826, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302395, 
+  [
+   5186, 
+   5246, 
+   {
+    "quote_id": 302391, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302528, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "obvious_child;302520", 
+    "quote_id": 302520, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302413, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Penfold;302341", 
+    "quote_id": 302341, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302414, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "Archangel;302342", 
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302414, 
+  [
+   1198, 
+   1339, 
+   {
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302414, 
+  [
+   1636, 
+   1808, 
+   {
+    "quote_id": 302342, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302415, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Archangel;302398", 
+    "quote_id": 302398, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302545, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Archangel;302528", 
+    "quote_id": 302528, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302545, 
+  [
+   673, 
+   818, 
+   {
+    "quote_id": 302528, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302545, 
+  [
+   1243, 
+   1402, 
+   {
+    "quote_id": 302528, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302545, 
+  [
+   1471, 
+   1637, 
+   {
+    "quote_id": 302350, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302419, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Archangel;302398", 
+    "quote_id": 302398, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302628, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Archangel;302560", 
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302628, 
+  [
+   793, 
+   858, 
+   {
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302628, 
+  [
+   1039, 
+   1249, 
+   {
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302628, 
+  [
+   1504, 
+   1792, 
+   {
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302628, 
+  [
+   2098, 
+   2432, 
+   {
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302560, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "child", 
+    "unknown_author": "child", 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302560, 
+  [
+   156, 
+   383, 
+   {
+    "raw_data": "lArchangels link", 
+    "unknown_author": "lArchangels link", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302560, 
+  [
+   958, 
+   1391, 
+   {
+    "raw_data": "child", 
+    "quote_id": 302545, 
+    "unknown_author": "child", 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  302305, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "DrD;302303", 
+    "quote_id": 302303, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  314189, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Archangel;302305", 
+    "quote_id": 302305, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302193, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "DrD;302192", 
+    "quote_id": 302192, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  302626, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Archangel;302560", 
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302626, 
+  [
+   564, 
+   1129, 
+   {
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302626, 
+  [
+   2094, 
+   2428, 
+   {
+    "quote_id": 302560, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302626, 
+  [
+   3421, 
+   3650, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302197, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "DrD;302192", 
+    "quote_id": 302192, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  302326, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Penfold;302314", 
+    "quote_id": 302314, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302463, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Steeeeve;302415", 
+    "quote_id": 302415, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

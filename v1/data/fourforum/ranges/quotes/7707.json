@@ -1,0 +1,979 @@
+[
+ [
+  201728, 
+  [
+   0, 
+   2469, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 201700, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  201602, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201596, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201602, 
+  [
+   710, 
+   1571, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201732, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 201729, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  201733, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 201729, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  201610, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201602, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201610, 
+  [
+   412, 
+   693, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201742, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201737, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201746, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201742, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201747, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201732, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201620, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201610, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201620, 
+  [
+   215, 
+   972, 
+   {
+    "quote_id": 201610, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201620, 
+  [
+   1401, 
+   1578, 
+   {
+    "raw_data": "Scalia", 
+    "unknown_author": "Scalia"
+   }
+  ]
+ ], 
+ [
+  201620, 
+  [
+   2062, 
+   2165, 
+   {
+    "raw_data": "1986 Confirmation hearing", 
+    "unknown_author": "1986 Confirmation hearing"
+   }
+  ]
+ ], 
+ [
+  201494, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201424, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201753, 
+  [
+   0, 
+   315, 
+   {
+    "quote_id": 201747, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  201629, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201609, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201629, 
+  [
+   138, 
+   259, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201609, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201629, 
+  [
+   875, 
+   1000, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201609, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201505, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "beervolcano", 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  201506, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201494, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201506, 
+  [
+   876, 
+   1406, 
+   {
+    "raw_data": "kronus", 
+    "quote_id": 201494, 
+    "unknown_author": "kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201762, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201753, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201762, 
+  [
+   870, 
+   2337, 
+   {
+    "quote_id": 201753, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201637, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201633, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201637, 
+  [
+   1178, 
+   1327, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201633, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201637, 
+  [
+   1616, 
+   1680, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201633, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201637, 
+  [
+   1733, 
+   1841, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201633, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201643, 
+  [
+   0, 
+   253, 
+   {
+    "quote_id": 201637, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201643, 
+  [
+   1537, 
+   1689, 
+   {
+    "quote_id": 201637, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201643, 
+  [
+   2237, 
+   2280, 
+   {
+    "quote_id": 201637, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201643, 
+  [
+   2362, 
+   2724, 
+   {
+    "quote_id": 201637, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201774, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201733, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201774, 
+  [
+   218, 
+   526, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201733, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201777, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 201774, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  201777, 
+  [
+   376, 
+   521, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 201774, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  201778, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201777, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201780, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 201778, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  201653, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201643, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201653, 
+  [
+   185, 
+   307, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201643, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201653, 
+  [
+   385, 
+   636, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201643, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201653, 
+  [
+   1189, 
+   1269, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201643, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201653, 
+  [
+   1679, 
+   1919, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201643, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201653, 
+  [
+   2109, 
+   2356, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201643, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201782, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201780, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201737, 
+  [
+   0, 
+   801, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201733, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201785, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "doG", 
+    "quote_id": 201782, 
+    "author": "doG"
+   }
+  ]
+ ], 
+ [
+  201530, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201505, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201878, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201924, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 201918, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  201633, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201629, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201633, 
+  [
+   1180, 
+   1348, 
+   {
+    "quote_id": 201629, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201911, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 201878, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  201911, 
+  [
+   722, 
+   1098, 
+   {
+    "raw_data": "Daewoo", 
+    "quote_id": 201762, 
+    "unknown_author": "Daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  201911, 
+  [
+   1221, 
+   1318, 
+   {
+    "raw_data": "Daewoo", 
+    "quote_id": 201762, 
+    "unknown_author": "Daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  201911, 
+  [
+   1854, 
+   2077, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201777, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201911, 
+  [
+   2622, 
+   2772, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201780, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201911, 
+  [
+   3178, 
+   3308, 
+   {}
+  ]
+ ], 
+ [
+  201676, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201653, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201676, 
+  [
+   168, 
+   236, 
+   {
+    "quote_id": 201653, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201676, 
+  [
+   334, 
+   719, 
+   {
+    "quote_id": 201653, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201676, 
+  [
+   1180, 
+   1531, 
+   {
+    "quote_id": 201653, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201676, 
+  [
+   1909, 
+   2091, 
+   {
+    "quote_id": 201653, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201676, 
+  [
+   3189, 
+   3211, 
+   {
+    "quote_id": 201653, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201549, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201506, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201763, 
+  [
+   0, 
+   1564, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201753, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201560, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 201530, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  201560, 
+  [
+   569, 
+   698, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201549, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201560, 
+  [
+   783, 
+   908, 
+   {
+    "quote_id": 201549, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201560, 
+  [
+   1334, 
+   1489, 
+   {
+    "raw_data": "Opinion of Court", 
+    "unknown_author": "Opinion of Court"
+   }
+  ]
+ ], 
+ [
+  201571, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201560, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201571, 
+  [
+   295, 
+   657, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201700, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201424, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201830, 
+  [
+   101, 
+   398, 
+   {}
+  ]
+ ], 
+ [
+  201578, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201578, 
+  [
+   504, 
+   605, 
+   {
+    "quote_id": 201571, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201578, 
+  [
+   704, 
+   1036, 
+   {
+    "quote_id": 201571, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201581, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201571, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201918, 
+  [
+   0, 
+   529, 
+   {
+    "quote_id": 201911, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201596, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201578, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201596, 
+  [
+   437, 
+   531, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201578, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201596, 
+  [
+   1420, 
+   1716, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201578, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201726, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 201676, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  201727, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201726, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

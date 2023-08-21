@@ -1,0 +1,145 @@
+[
+ [
+  312815, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Archangel;312800", 
+    "quote_id": 312800, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312826, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Archangel;312819", 
+    "quote_id": 312819, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312826, 
+  [
+   191, 
+   290, 
+   {
+    "raw_data": "Archangel;312819", 
+    "quote_id": 312819, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312826, 
+  [
+   407, 
+   462, 
+   {
+    "raw_data": "Archangel;312819", 
+    "quote_id": 312819, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312826, 
+  [
+   549, 
+   671, 
+   {
+    "raw_data": "Archangel;312819", 
+    "quote_id": 312819, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312828, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 312819, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312828, 
+  [
+   172, 
+   252, 
+   {
+    "raw_data": "lyteboy", 
+    "quote_id": 312826, 
+    "unknown_author": "lyteboy", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  312830, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Archangel;312828", 
+    "quote_id": 312828, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312830, 
+  [
+   293, 
+   458, 
+   {
+    "raw_data": "Archangel;312828", 
+    "quote_id": 312828, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  312831, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "electrolyte;312830", 
+    "quote_id": 312830, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  312831, 
+  [
+   305, 
+   365, 
+   {
+    "quote_id": 312830, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  312831, 
+  [
+   440, 
+   544, 
+   {
+    "quote_id": 312830, 
+    "author": "electrolyte"
+   }
+  ]
+ ]
+]

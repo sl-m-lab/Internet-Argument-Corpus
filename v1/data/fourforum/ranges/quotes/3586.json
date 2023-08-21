@@ -1,0 +1,926 @@
+[
+ [
+  74626, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 74620, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  74628, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 74601, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  74629, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 74615, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74630, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 74628, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  74945, 
+  [
+   0, 
+   443, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 74689, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75757, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75752, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75653, 
+  [
+   0, 
+   652, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75602, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75309, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75224, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75309, 
+  [
+   2015, 
+   2307, 
+   {
+    "quote_id": 75224, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75608, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75508, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75608, 
+  [
+   1085, 
+   1609, 
+   {
+    "raw_data": "occamsrazor", 
+    "quote_id": 75508, 
+    "unknown_author": "occamsrazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75608, 
+  [
+   2346, 
+   2494, 
+   {
+    "raw_data": "occamsrazor", 
+    "quote_id": 75508, 
+    "unknown_author": "occamsrazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  74642, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 74630, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75156, 
+  [
+   0, 
+   548, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75114, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75162, 
+  [
+   0, 
+   2536, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  74655, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 74628, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75730, 
+  [
+   0, 
+   1766, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75723, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75590, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 75540, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  74662, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 74618, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75431, 
+  [
+   0, 
+   670, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75324, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75434, 
+  [
+   0, 
+   1582, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75327, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75527, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75508, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75692, 
+  [
+   0, 
+   627, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75653, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75692, 
+  [
+   857, 
+   1049, 
+   {
+    "quote_id": 75653, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75692, 
+  [
+   1303, 
+   1491, 
+   {
+    "quote_id": 75653, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75692, 
+  [
+   1870, 
+   1998, 
+   {
+    "quote_id": 75653, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  74669, 
+  [
+   0, 
+   891, 
+   {
+    "raw_data": "CCR1994", 
+    "quote_id": 74662, 
+    "author": "CCR1994"
+   }
+  ]
+ ], 
+ [
+  75192, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 74693, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75321, 
+  [
+   0, 
+   2386, 
+   {
+    "raw_data": "OccamsRazor", 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75196, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 75095, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  76224, 
+  [
+   0, 
+   869, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75720, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  74689, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 74642, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75330, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75321, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  74693, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "CCR1994", 
+    "quote_id": 74662, 
+    "author": "CCR1994"
+   }
+  ]
+ ], 
+ [
+  75078, 
+  [
+   0, 
+   549, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75068, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75591, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 75562, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75720, 
+  [
+   0, 
+   1503, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75704, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75722, 
+  [
+   0, 
+   829, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75591, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75723, 
+  [
+   0, 
+   1997, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75720, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75088, 
+  [
+   0, 
+   846, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75078, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75602, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75431, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75091, 
+  [
+   0, 
+   549, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75068, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75093, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75091, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75095, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75091, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75224, 
+  [
+   0, 
+   1119, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75192, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75609, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75538, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75104, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75088, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75104, 
+  [
+   477, 
+   997, 
+   {
+    "raw_data": "hauling", 
+    "quote_id": 75088, 
+    "unknown_author": "hauling", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75105, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75091, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75619, 
+  [
+   0, 
+   705, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75608, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75619, 
+  [
+   1352, 
+   2081, 
+   {
+    "quote_id": 75608, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75619, 
+  [
+   3509, 
+   4128, 
+   {
+    "quote_id": 75608, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75619, 
+  [
+   4696, 
+   5131, 
+   {
+    "quote_id": 75608, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75619, 
+  [
+   5197, 
+   5632, 
+   {}
+  ]
+ ], 
+ [
+  75110, 
+  [
+   0, 
+   822, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   157, 
+   190, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   278, 
+   342, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   447, 
+   542, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   571, 
+   692, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   897, 
+   1023, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   1120, 
+   1211, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   1229, 
+   1282, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   1407, 
+   1424, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   1477, 
+   1755, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75112, 
+  [
+   1997, 
+   2025, 
+   {
+    "quote_id": 75105, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75114, 
+  [
+   0, 
+   808, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75110, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75538, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 75527, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  75752, 
+  [
+   0, 
+   1320, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 75732, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  75508, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 75324, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75508, 
+  [
+   454, 
+   853, 
+   {
+    "quote_id": 75324, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75508, 
+  [
+   1387, 
+   1578, 
+   {
+    "quote_id": 75324, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75766, 
+  [
+   0, 
+   1416, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75730, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  74615, 
+  [
+   0, 
+   716, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 74572, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  75540, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75538, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  74618, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 74601, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  75327, 
+  [
+   0, 
+   410, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 75321, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  75562, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 75538, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  75562, 
+  [
+   462, 
+   517, 
+   {
+    "quote_id": 75540, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ]
+]

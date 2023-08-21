@@ -1,0 +1,1429 @@
+[
+ [
+  421888, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "sinjin;421883", 
+    "quote_id": 421883, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421889, 
+  [
+   0, 
+   1438, 
+   {
+    "raw_data": "Pietro;421888", 
+    "quote_id": 421888, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421890, 
+  [
+   0, 
+   490, 
+   {
+    "raw_data": "Galileo;421863", 
+    "quote_id": 421863, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421893, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "sinjin;421889", 
+    "quote_id": 421889, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421893, 
+  [
+   1031, 
+   1165, 
+   {
+    "quote_id": 421889, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421894, 
+  [
+   0, 
+   1787, 
+   {
+    "raw_data": "Bryan;421890", 
+    "quote_id": 421890, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  421895, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Pietro;421893", 
+    "quote_id": 421893, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421895, 
+  [
+   420, 
+   508, 
+   {
+    "quote_id": 421893, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421895, 
+  [
+   682, 
+   1088, 
+   {
+    "quote_id": 421893, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421901, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "sinjin;421900", 
+    "quote_id": 421900, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421908, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "sinjin;421900", 
+    "quote_id": 421900, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421936, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "sinjin;421883", 
+    "quote_id": 421883, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421945, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Galileo;421936", 
+    "quote_id": 421936, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421973, 
+  [
+   240, 
+   343, 
+   {}
+  ]
+ ], 
+ [
+  421995, 
+  [
+   0, 
+   651, 
+   {
+    "raw_data": "Pietro;421945", 
+    "quote_id": 421945, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421996, 
+  [
+   37, 
+   1079, 
+   {}
+  ]
+ ], 
+ [
+  421996, 
+  [
+   1298, 
+   3375, 
+   {}
+  ]
+ ], 
+ [
+  421997, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "sinjin;421995", 
+    "quote_id": 421995, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  423891, 
+  [
+   272, 
+   932, 
+   {
+    "raw_data": "Brady;423884", 
+    "quote_id": 423884, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422005, 
+  [
+   71, 
+   598, 
+   {}
+  ]
+ ], 
+ [
+  422005, 
+  [
+   641, 
+   828, 
+   {}
+  ]
+ ], 
+ [
+  422005, 
+  [
+   881, 
+   1841, 
+   {}
+  ]
+ ], 
+ [
+  422007, 
+  [
+   0, 
+   102, 
+   {}
+  ]
+ ], 
+ [
+  422007, 
+  [
+   304, 
+   439, 
+   {
+    "quote_id": 421889, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422008, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "sinjin;421995", 
+    "quote_id": 421995, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422013, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "simone;422004", 
+    "quote_id": 422004, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  422014, 
+  [
+   54, 
+   588, 
+   {
+    "raw_data": "Galileo;422010", 
+    "quote_id": 422010, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422020, 
+  [
+   0, 
+   968, 
+   {
+    "raw_data": "Pietro;422014", 
+    "quote_id": 422014, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422021, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Pietro;421997", 
+    "quote_id": 421997, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422025, 
+  [
+   40, 
+   566, 
+   {
+    "raw_data": "Galileo;422020", 
+    "quote_id": 422020, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422027, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "sinjin;422024", 
+    "quote_id": 422024, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422028, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "Pietro;422025", 
+    "quote_id": 422025, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422029, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "sinjin;422021", 
+    "quote_id": 422021, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422029, 
+  [
+   823, 
+   1079, 
+   {
+    "raw_data": "sinjin;422024", 
+    "quote_id": 422024, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422030, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "sinjin;422024", 
+    "quote_id": 422024, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422031, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Galileo;422010", 
+    "quote_id": 422010, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422033, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Galileo;422027", 
+    "quote_id": 422027, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422037, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Galileo;422032", 
+    "quote_id": 422032, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422040, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "sinjin;422028", 
+    "quote_id": 422028, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422041, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Galileo;422032", 
+    "quote_id": 422032, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422043, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Tither;422031", 
+    "quote_id": 422031, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Pietro;422029", 
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   398, 
+   638, 
+   {
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   756, 
+   984, 
+   {
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   1084, 
+   1308, 
+   {
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   1395, 
+   1778, 
+   {
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   1826, 
+   2037, 
+   {
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   2084, 
+   2290, 
+   {
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422045, 
+  [
+   2368, 
+   2700, 
+   {
+    "quote_id": 422029, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422048, 
+  [
+   192, 
+   234, 
+   {
+    "raw_data": "sinjin;422045", 
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422049, 
+  [
+   0, 
+   647, 
+   {
+    "raw_data": "Pietro;422041", 
+    "quote_id": 422041, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422052, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Pietro;422048", 
+    "quote_id": 422048, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422054, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Galileo;422032", 
+    "quote_id": 422032, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422056, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "zsu2357;422054", 
+    "quote_id": 422054, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  422057, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "sinjin;422024", 
+    "quote_id": 422024, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422058, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "sinjin;422045", 
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422059, 
+  [
+   749, 
+   908, 
+   {}
+  ]
+ ], 
+ [
+  422059, 
+  [
+   1446, 
+   1596, 
+   {}
+  ]
+ ], 
+ [
+  422060, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "sinjin;422056", 
+    "quote_id": 422056, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422069, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "zsu2357;422057", 
+    "quote_id": 422057, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  422071, 
+  [
+   0, 
+   735, 
+   {
+    "raw_data": "Galileo;422049", 
+    "quote_id": 422049, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "sinjin;422052", 
+    "quote_id": 422052, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   316, 
+   410, 
+   {
+    "quote_id": 422052, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   648, 
+   757, 
+   {
+    "quote_id": 422052, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   1004, 
+   1102, 
+   {
+    "quote_id": 422052, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   1292, 
+   1402, 
+   {
+    "raw_data": "sinjin;422045", 
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   1885, 
+   1996, 
+   {
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   2163, 
+   2257, 
+   {
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   2396, 
+   2477, 
+   {
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   2779, 
+   2820, 
+   {
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   3309, 
+   3381, 
+   {
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422075, 
+  [
+   3698, 
+   3728, 
+   {
+    "quote_id": 422045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422076, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Pietro;422071", 
+    "quote_id": 422071, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422077, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "sinjin;422076", 
+    "quote_id": 422076, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422078, 
+  [
+   0, 
+   522, 
+   {
+    "raw_data": "Pietro;422077", 
+    "quote_id": 422077, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422081, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "sinjin;422078", 
+    "quote_id": 422078, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Pietro;422075", 
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   196, 
+   424, 
+   {
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   568, 
+   805, 
+   {
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   905, 
+   992, 
+   {
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   1100, 
+   1523, 
+   {
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   1665, 
+   1889, 
+   {
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   2079, 
+   2558, 
+   {
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422082, 
+  [
+   2752, 
+   3059, 
+   {
+    "quote_id": 422075, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422084, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Pietro;422081", 
+    "quote_id": 422081, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422084, 
+  [
+   361, 
+   564, 
+   {
+    "quote_id": 422081, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "sinjin;422082", 
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   825, 
+   963, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   1177, 
+   1270, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   1827, 
+   1928, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   2122, 
+   2257, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   2480, 
+   2664, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   3118, 
+   3203, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422085, 
+  [
+   3655, 
+   3783, 
+   {
+    "quote_id": 422082, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422123, 
+  [
+   422, 
+   500, 
+   {
+    "raw_data": "sinjin;419653", 
+    "unknown_quote_id": 419653, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422123, 
+  [
+   1278, 
+   6302, 
+   {
+    "raw_data": "Bryan;405961", 
+    "unknown_quote_id": 405961, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  422125, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "sinjin;422124", 
+    "quote_id": 422124, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422125, 
+  [
+   1006, 
+   1084, 
+   {
+    "raw_data": "sinjin;419653", 
+    "unknown_quote_id": 419653, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422131, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "sinjin;422126", 
+    "quote_id": 422126, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422141, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "sinjin;422126", 
+    "quote_id": 422126, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422142, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Tither;422125", 
+    "quote_id": 422125, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  423920, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Brady;423903", 
+    "quote_id": 423903, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  423922, 
+  [
+   0, 
+   84, 
+   {}
+  ]
+ ], 
+ [
+  421830, 
+  [
+   359, 
+   533, 
+   {}
+  ]
+ ], 
+ [
+  421838, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "simone;421835", 
+    "quote_id": 421835, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  421843, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "simone;421835", 
+    "quote_id": 421835, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  421847, 
+  [
+   223, 
+   534, 
+   {
+    "raw_data": "Galileo;421845", 
+    "quote_id": 421845, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421847, 
+  [
+   2541, 
+   2886, 
+   {
+    "quote_id": 421845, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421847, 
+  [
+   4081, 
+   4448, 
+   {}
+  ]
+ ], 
+ [
+  421847, 
+  [
+   6381, 
+   6564, 
+   {
+    "quote_id": 421845, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  423903, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Pietro;423891", 
+    "quote_id": 423891, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421857, 
+  [
+   254, 
+   894, 
+   {}
+  ]
+ ], 
+ [
+  423906, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Brady;423903", 
+    "quote_id": 423903, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  423906, 
+  [
+   465, 
+   825, 
+   {}
+  ]
+ ], 
+ [
+  421859, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "simone;421851", 
+    "quote_id": 421851, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  421862, 
+  [
+   0, 
+   1536, 
+   {
+    "raw_data": "Galileo;421845", 
+    "quote_id": 421845, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  423914, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Brady;423903", 
+    "quote_id": 423903, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  421869, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "simone;421851", 
+    "quote_id": 421851, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  421870, 
+  [
+   216, 
+   365, 
+   {
+    "raw_data": "simone;421851", 
+    "quote_id": 421851, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  421874, 
+  [
+   818, 
+   967, 
+   {
+    "raw_data": "simone;421851", 
+    "quote_id": 421851, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  421876, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Galileo;421863", 
+    "quote_id": 421863, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421876, 
+  [
+   206, 
+   276, 
+   {
+    "quote_id": 421863, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421876, 
+  [
+   1592, 
+   1949, 
+   {
+    "quote_id": 421863, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  421878, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "COBHC;421865", 
+    "quote_id": 421865, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  421882, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "sinjin;421878", 
+    "quote_id": 421878, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  421883, 
+  [
+   0, 
+   533, 
+   {
+    "raw_data": "Pietro;421876", 
+    "quote_id": 421876, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  421887, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "COBHC;421882", 
+    "quote_id": 421882, 
+    "author": "COBHC"
+   }
+  ]
+ ]
+]

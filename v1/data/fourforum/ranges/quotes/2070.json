@@ -1,0 +1,143 @@
+[
+ [
+  42880, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42878, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  44545, 
+  [
+   0, 
+   490, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 44502, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  44502, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 44497, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  44362, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 42896, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  44587, 
+  [
+   0, 
+   715, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 44545, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  42896, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42878, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  44497, 
+  [
+   0, 
+   1063, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 44490, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  44497, 
+  [
+   1739, 
+   2365, 
+   {
+    "quote_id": 44490, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  44497, 
+  [
+   3599, 
+   3845, 
+   {
+    "quote_id": 44490, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  44497, 
+  [
+   4292, 
+   5347, 
+   {
+    "quote_id": 44490, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  42935, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42926, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42201, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42191, 
+    "author": "Broker"
+   }
+  ]
+ ]
+]

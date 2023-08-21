@@ -1,0 +1,789 @@
+[
+ [
+  121409, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121249, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120459, 
+  [
+   0, 
+   1477, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120457, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121356, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120995, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120462, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120459, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120462, 
+  [
+   472, 
+   598, 
+   {
+    "quote_id": 120459, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120465, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Redratio1", 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  120469, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Redratio1", 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121241, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 121202, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  120990, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 120956, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  121783, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 121770, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  121249, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 121244, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  120995, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 120948, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  121743, 
+  [
+   0, 
+   484, 
+   {
+    "raw_data": "Desaix", 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  120617, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Redratio1", 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121770, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 121743, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  121006, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 120932, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  121480, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121452, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120501, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 120488, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  120759, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120698, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121144, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121143, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120948, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120624, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121146, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121145, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121439, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 121432, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  121789, 
+  [
+   0, 
+   125, 
+   {
+    "quote_id": 121783, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121789, 
+  [
+   294, 
+   378, 
+   {
+    "quote_id": 121783, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121789, 
+  [
+   405, 
+   508, 
+   {
+    "quote_id": 121783, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121151, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Redratio1", 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121408, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 121356, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  121153, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 121146, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121029, 
+  [
+   0, 
+   142, 
+   {
+    "quote_id": 121006, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121158, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121151, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121415, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 121409, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  122440, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121143, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  122440, 
+  [
+   310, 
+   507, 
+   {
+    "quote_id": 121143, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120649, 
+  [
+   0, 
+   2307, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120617, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121143, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  120783, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120759, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121809, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 121770, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  120530, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120501, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121173, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 121158, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121145, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120825, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121432, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121429, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121049, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 121029, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  121049, 
+  [
+   191, 
+   389, 
+   {
+    "quote_id": 121029, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  121049, 
+  [
+   680, 
+   1008, 
+   {
+    "quote_id": 121029, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  120799, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120759, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121442, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121439, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120932, 
+  [
+   0, 
+   389, 
+   {
+    "quote_id": 120825, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121447, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121439, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121451, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 121442, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  121452, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "SteveRogers", 
+    "quote_id": 121447, 
+    "author": "SteveRogers"
+   }
+  ]
+ ], 
+ [
+  121298, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121241, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121298, 
+  [
+   220, 
+   390, 
+   {
+    "quote_id": 121241, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121298, 
+  [
+   1081, 
+   1414, 
+   {
+    "quote_id": 121241, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120815, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120799, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121457, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Missouri Mule", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121202, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121173, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120820, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120815, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121080, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120617, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121080, 
+  [
+   199, 
+   315, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120799, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121080, 
+  [
+   437, 
+   606, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120820, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120825, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 120820, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  120698, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 120667, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  121726, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 121429, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121726, 
+  [
+   55, 
+   133, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 120948, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  121726, 
+  [
+   139, 
+   268, 
+   {
+    "raw_data": "MM's reply", 
+    "quote_id": 120995, 
+    "unknown_author": "MM's reply", 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  121429, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 121356, 
+    "author": "Desaix"
+   }
+  ]
+ ]
+]

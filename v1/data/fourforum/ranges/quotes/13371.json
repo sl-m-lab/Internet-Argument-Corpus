@@ -1,0 +1,529 @@
+[
+ [
+  372416, 
+  [
+   0, 
+   653, 
+   {
+    "raw_data": "simone;372368", 
+    "quote_id": 372368, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372354, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Jo Bennett;372350", 
+    "quote_id": 372350, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372356, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "OldSarge;372354", 
+    "quote_id": 372354, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372358, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Jo Bennett;372356", 
+    "quote_id": 372356, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372362, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Jo Bennett;372350", 
+    "quote_id": 372350, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372365, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "gansao;372362", 
+    "quote_id": 372362, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372366, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "OldSarge;372365", 
+    "quote_id": 372365, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372367, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "gansao;372362", 
+    "quote_id": 372362, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372368, 
+  [
+   0, 
+   1482, 
+   {
+    "raw_data": "OldSarge;372358", 
+    "quote_id": 372358, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372368, 
+  [
+   1649, 
+   1726, 
+   {
+    "quote_id": 372358, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372502, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Jo Bennett;372445", 
+    "quote_id": 372445, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372502, 
+  [
+   862, 
+   962, 
+   {
+    "raw_data": "Jo Bennett;372445", 
+    "quote_id": 372445, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372502, 
+  [
+   1035, 
+   1553, 
+   {
+    "raw_data": "Jo Bennett;372445", 
+    "quote_id": 372445, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372248, 
+  [
+   0, 
+   159, 
+   {}
+  ]
+ ], 
+ [
+  372382, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone;372367", 
+    "quote_id": 372367, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372512, 
+  [
+   0, 
+   697, 
+   {
+    "raw_data": "gansao;372502", 
+    "quote_id": 372502, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372514, 
+  [
+   0, 
+   601, 
+   {
+    "raw_data": "Jo Bennett;372512", 
+    "quote_id": 372512, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372516, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "gansao;372514", 
+    "quote_id": 372514, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372490, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "gansao;372449", 
+    "quote_id": 372449, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372573, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "OldSarge;372561", 
+    "quote_id": 372561, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372530, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Jo Bennett;372516", 
+    "quote_id": 372516, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372532, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "gansao;372530", 
+    "quote_id": 372530, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372533, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Jo Bennett;372532", 
+    "quote_id": 372532, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372533, 
+  [
+   312, 
+   451, 
+   {
+    "raw_data": "Jo Bennett;372532", 
+    "quote_id": 372532, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372537, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "gansao;372533", 
+    "quote_id": 372533, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372286, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "simone;372248", 
+    "quote_id": 372248, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372288, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "gansao;372286", 
+    "quote_id": 372286, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372545, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Jo Bennett;372516", 
+    "quote_id": 372516, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372426, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "OldSarge;372416", 
+    "quote_id": 372416, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372429, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Jo Bennett;372426", 
+    "quote_id": 372426, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372558, 
+  [
+   0, 
+   1273, 
+   {}
+  ]
+ ], 
+ [
+  372561, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "simone;372558", 
+    "quote_id": 372558, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372580, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Jo Bennett;372537", 
+    "quote_id": 372537, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372570, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "simone;372568", 
+    "quote_id": 372568, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372445, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "gansao;372429", 
+    "quote_id": 372429, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372449, 
+  [
+   0, 
+   1041, 
+   {
+    "raw_data": "Jo Bennett;372445", 
+    "quote_id": 372445, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372450, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "simone;372447", 
+    "quote_id": 372447, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372452, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "simone;372447", 
+    "quote_id": 372447, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  372453, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "gansao;372449", 
+    "quote_id": 372449, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372456, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "OldSarge;372453", 
+    "quote_id": 372453, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372590, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "gansao;372588", 
+    "quote_id": 372588, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  372343, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "OldSarge;372288", 
+    "quote_id": 372288, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  372348, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Jo Bennett;372343", 
+    "quote_id": 372343, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  372349, 
+  [
+   80, 
+   353, 
+   {}
+  ]
+ ], 
+ [
+  372350, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "OldSarge;372348", 
+    "quote_id": 372348, 
+    "author": "OldSarge"
+   }
+  ]
+ ]
+]

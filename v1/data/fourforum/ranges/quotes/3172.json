@@ -1,0 +1,320 @@
+[
+ [
+  67074, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 66909, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  66760, 
+  [
+   0, 
+   335, 
+   {}
+  ]
+ ], 
+ [
+  66761, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 66760, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  66762, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 66761, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   143, 
+   315, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   714, 
+   945, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   1711, 
+   1877, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   2080, 
+   2229, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   2822, 
+   3046, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   3307, 
+   3573, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66897, 
+  [
+   3889, 
+   4309, 
+   {
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66909, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 66762, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  66856, 
+  [
+   626, 
+   762, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 66743, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   123, 
+   294, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   579, 
+   809, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   1990, 
+   2155, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   2333, 
+   2481, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   2782, 
+   3005, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   4138, 
+   4403, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66900, 
+  [
+   5137, 
+   5558, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 66889, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  66872, 
+  [
+   26, 
+   536, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   600, 
+   1916, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   2038, 
+   2246, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   2321, 
+   2812, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   2954, 
+   3221, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   3356, 
+   3893, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   4479, 
+   4777, 
+   {}
+  ]
+ ], 
+ [
+  66872, 
+  [
+   4862, 
+   5427, 
+   {}
+  ]
+ ]
+]

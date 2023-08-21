@@ -1,0 +1,387 @@
+[
+ [
+  333444, 
+  [
+   0, 
+   924, 
+   {
+    "raw_data": "marc9000;333389", 
+    "quote_id": 333389, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  333582, 
+  [
+   0, 
+   1712, 
+   {
+    "raw_data": "Another opinion;333373", 
+    "quote_id": 333373, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333582, 
+  [
+   2013, 
+   2479, 
+   {
+    "raw_data": "Another opinion;333373", 
+    "quote_id": 333373, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333582, 
+  [
+   3037, 
+   3552, 
+   {
+    "raw_data": "Another opinion;333373", 
+    "quote_id": 333373, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333582, 
+  [
+   3651, 
+   4997, 
+   {
+    "raw_data": "Another opinion;333373", 
+    "quote_id": 333373, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333223, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Another opinion;333163", 
+    "quote_id": 333163, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333360, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "Another opinion;333132", 
+    "quote_id": 333132, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333110, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "CUNxTime;333045", 
+    "quote_id": 333045, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333373, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "CUNxTime;333360", 
+    "quote_id": 333360, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333373, 
+  [
+   2234, 
+   2664, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 333360, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333373, 
+  [
+   3135, 
+   3288, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 333360, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333373, 
+  [
+   3807, 
+   4141, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 333360, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333634, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "CUNxTime;333582", 
+    "quote_id": 333582, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333634, 
+  [
+   656, 
+   1202, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 333582, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333634, 
+  [
+   3972, 
+   4710, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 333582, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333123, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "chester;333110", 
+    "quote_id": 333110, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  333129, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "CUNxTime;333123", 
+    "quote_id": 333123, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333132, 
+  [
+   0, 
+   810, 
+   {
+    "raw_data": "CUNxTime;333045", 
+    "quote_id": 333045, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  333389, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Another opinion;333285", 
+    "quote_id": 333285, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333389, 
+  [
+   224, 
+   424, 
+   {
+    "quote_id": 333285, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333389, 
+  [
+   469, 
+   555, 
+   {
+    "quote_id": 333285, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  333389, 
+  [
+   1272, 
+   1812, 
+   {}
+  ]
+ ], 
+ [
+  333135, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "simone;333016", 
+    "quote_id": 333016, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333137, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "99%BEEF;333135", 
+    "quote_id": 333135, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  333016, 
+  [
+   0, 
+   733, 
+   {}
+  ]
+ ], 
+ [
+  333152, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "99%BEEF;333135", 
+    "quote_id": 333135, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  333155, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "99%BEEF;333135", 
+    "quote_id": 333135, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  333285, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "marc9000;333223", 
+    "quote_id": 333223, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  333033, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Jo Bennett;333021", 
+    "quote_id": 333021, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  333162, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "simone;333152", 
+    "quote_id": 333152, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333162, 
+  [
+   256, 
+   573, 
+   {
+    "quote_id": 333155, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  333163, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "simone;333152", 
+    "quote_id": 333152, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333054, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "CUNxTime;333045", 
+    "quote_id": 333045, 
+    "author": "CUNxTime"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,37 @@
+[
+ [
+  80380, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 79893, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  79893, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 79873, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  80398, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 79873, 
+    "author": "zachvac"
+   }
+  ]
+ ]
+]

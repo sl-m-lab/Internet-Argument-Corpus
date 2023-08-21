@@ -1,0 +1,2025 @@
+[
+ [
+  384003, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "gansao;384001", 
+    "quote_id": 384001, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384004, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "jazyjason;384003", 
+    "quote_id": 384003, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384008, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "JPSartre12;382831", 
+    "quote_id": 382831, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  382985, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "jazyjason;382893", 
+    "quote_id": 382893, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384012, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "jyoshu;384008", 
+    "quote_id": 384008, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384013, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "gansao;384004", 
+    "quote_id": 384004, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  382893, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "gansao;382832", 
+    "quote_id": 382832, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384537, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "jazyjason;384340", 
+    "quote_id": 384340, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384537, 
+  [
+   1362, 
+   1600, 
+   {
+    "raw_data": "jazyjason;384340", 
+    "quote_id": 384340, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384537, 
+  [
+   2189, 
+   2360, 
+   {
+    "raw_data": "jazyjason;384340", 
+    "quote_id": 384340, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384537, 
+  [
+   2649, 
+   2864, 
+   {
+    "raw_data": "jazyjason;384340", 
+    "quote_id": 384340, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384537, 
+  [
+   3511, 
+   3618, 
+   {
+    "raw_data": "jazyjason;384340", 
+    "quote_id": 384340, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384566, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "jazyjason;384499", 
+    "quote_id": 384499, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384566, 
+  [
+   395, 
+   429, 
+   {
+    "raw_data": "jazyjason;384499", 
+    "quote_id": 384499, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384572, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "gansao;384566", 
+    "quote_id": 384566, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384572, 
+  [
+   480, 
+   689, 
+   {
+    "quote_id": 384566, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384578, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "JPSartre12;384572", 
+    "quote_id": 384572, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  384578, 
+  [
+   901, 
+   979, 
+   {
+    "raw_data": "JPSartre12;384572", 
+    "quote_id": 384572, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  384580, 
+  [
+   0, 
+   696, 
+   {
+    "raw_data": "jyoshu;384537", 
+    "quote_id": 384537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384580, 
+  [
+   1545, 
+   2103, 
+   {
+    "raw_data": "jyoshu;384537", 
+    "quote_id": 384537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384580, 
+  [
+   2722, 
+   3301, 
+   {
+    "raw_data": "jyoshu;384537", 
+    "quote_id": 384537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384580, 
+  [
+   3585, 
+   3864, 
+   {
+    "raw_data": "jyoshu;384537", 
+    "quote_id": 384537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384580, 
+  [
+   4213, 
+   4752, 
+   {
+    "raw_data": "jyoshu;384537", 
+    "quote_id": 384537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384580, 
+  [
+   5122, 
+   6450, 
+   {
+    "raw_data": "jyoshu;384537", 
+    "quote_id": 384537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384095, 
+  [
+   0, 
+   834, 
+   {
+    "raw_data": "Archangel;383661", 
+    "quote_id": 383661, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  384098, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Matthew S;384095", 
+    "quote_id": 384095, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384100, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "gansao;384098", 
+    "quote_id": 384098, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384103, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Matthew S;384100", 
+    "quote_id": 384100, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384362, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Matthew S;384358", 
+    "quote_id": 384358, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384131, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Matthew S;384100", 
+    "quote_id": 384100, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384132, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Matthew S;384095", 
+    "quote_id": 384095, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384364, 
+  [
+   0, 
+   603, 
+   {
+    "raw_data": "gansao;384361", 
+    "quote_id": 384361, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384145, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "jazyjason;384132", 
+    "quote_id": 384132, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384367, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "jazyjason;384360", 
+    "quote_id": 384360, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383644, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "JPSartre12;382831", 
+    "quote_id": 382831, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  384499, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "gansao;384468", 
+    "quote_id": 384468, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384499, 
+  [
+   399, 
+   406, 
+   {
+    "raw_data": "gansao;384468", 
+    "quote_id": 384468, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384169, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Matthew S;384095", 
+    "quote_id": 384095, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384172, 
+  [
+   0, 
+   1035, 
+   {
+    "raw_data": "jazyjason;384132", 
+    "quote_id": 384132, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383661, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "jazyjason;382893", 
+    "quote_id": 382893, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383664, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "el_erico;383644", 
+    "quote_id": 383644, 
+    "author": "el_erico"
+   }
+  ]
+ ], 
+ [
+  384179, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "jazyjason;384131", 
+    "quote_id": 384131, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384181, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "Matthew S;384172", 
+    "quote_id": 384172, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384182, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Matthew S;384173", 
+    "quote_id": 384173, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  383676, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Easyrider;383674", 
+    "quote_id": 383674, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  383683, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Penfold;383679", 
+    "quote_id": 383679, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  383711, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "el_erico;383644", 
+    "quote_id": 383644, 
+    "author": "el_erico"
+   }
+  ]
+ ], 
+ [
+  383715, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "gansao;382985", 
+    "quote_id": 382985, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383716, 
+  [
+   0, 
+   729, 
+   {
+    "raw_data": "MrWriteLA;383711", 
+    "quote_id": 383711, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383717, 
+  [
+   0, 
+   834, 
+   {
+    "raw_data": "Archangel;383661", 
+    "quote_id": 383661, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383718, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "jazyjason;382893", 
+    "quote_id": 382893, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383718, 
+  [
+   282, 
+   1116, 
+   {
+    "raw_data": "Archangel;383661", 
+    "quote_id": 383661, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383718, 
+  [
+   1122, 
+   1816, 
+   {
+    "raw_data": "jazyjason;383717", 
+    "quote_id": 383717, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383721, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "jazyjason;383715", 
+    "quote_id": 383715, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384468, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "jazyjason;384404", 
+    "quote_id": 384404, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384468, 
+  [
+   601, 
+   718, 
+   {
+    "raw_data": "jazyjason;384404", 
+    "quote_id": 384404, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   429, 
+   732, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   951, 
+   1024, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   1284, 
+   1481, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   1678, 
+   1948, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   2113, 
+   2285, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   2918, 
+   3098, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  385092, 
+  [
+   3236, 
+   3519, 
+   {
+    "raw_data": "jazyjason;384580", 
+    "quote_id": 384580, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383776, 
+  [
+   0, 
+   868, 
+   {
+    "raw_data": "Archangel;383718", 
+    "quote_id": 383718, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383777, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "gansao;383721", 
+    "quote_id": 383721, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383790, 
+  [
+   0, 
+   1216, 
+   {
+    "raw_data": "jazyjason;383776", 
+    "quote_id": 383776, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384173, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Easyrider;384169", 
+    "quote_id": 384169, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  383811, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Archangel;383790", 
+    "quote_id": 383790, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383821, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "gansao;383721", 
+    "quote_id": 383721, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384337, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Easyrider;384169", 
+    "quote_id": 384169, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  384338, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "Matthew S;384172", 
+    "quote_id": 384172, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384339, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "gansao;384179", 
+    "quote_id": 384179, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384340, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "jyoshu;384145", 
+    "quote_id": 384145, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384340, 
+  [
+   941, 
+   1548, 
+   {
+    "raw_data": "jyoshu;384145", 
+    "quote_id": 384145, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384340, 
+  [
+   1977, 
+   2906, 
+   {
+    "raw_data": "jyoshu;384145", 
+    "quote_id": 384145, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384340, 
+  [
+   3553, 
+   4378, 
+   {
+    "raw_data": "jyoshu;384145", 
+    "quote_id": 384145, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  384355, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "gansao;384352", 
+    "quote_id": 384352, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384358, 
+  [
+   0, 
+   786, 
+   {
+    "raw_data": "jazyjason;384338", 
+    "quote_id": 384338, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384360, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Matthew S;384358", 
+    "quote_id": 384358, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  384361, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "jazyjason;384355", 
+    "quote_id": 384355, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383850, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "jim's trucking;383821", 
+    "quote_id": 383821, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  382828, 
+  [
+   101, 
+   1013, 
+   {}
+  ]
+ ], 
+ [
+  382828, 
+  [
+   1042, 
+   1714, 
+   {}
+  ]
+ ], 
+ [
+  384365, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "gansao;384362", 
+    "quote_id": 384362, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  382831, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "MrWriteLA;382828", 
+    "quote_id": 382828, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  384373, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "Matthew S;384367", 
+    "quote_id": 384367, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  383862, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "jazyjason;383850", 
+    "quote_id": 383850, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384376, 
+  [
+   0, 
+   1525, 
+   {
+    "raw_data": "jazyjason;384364", 
+    "quote_id": 384364, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384377, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "Matthew S;384367", 
+    "quote_id": 384367, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  383866, 
+  [
+   0, 
+   705, 
+   {
+    "raw_data": "jazyjason;383777", 
+    "quote_id": 383777, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  384383, 
+  [
+   214, 
+   297, 
+   {
+    "raw_data": "Matthew S;384173", 
+    "quote_id": 384173, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  383884, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "gansao;383866", 
+    "quote_id": 383866, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383885, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "sinjin;383882", 
+    "quote_id": 383884, 
+    "unknown_quote_id": 383882, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383889, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "gansao;383885", 
+    "quote_id": 383885, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383891, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "sinjin;383889", 
+    "quote_id": 383889, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  384404, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "gansao;384376", 
+    "quote_id": 384376, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  384404, 
+  [
+   637, 
+   1245, 
+   {
+    "raw_data": "gansao;384376", 
+    "quote_id": 384376, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383893, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "gansao;383891", 
+    "quote_id": 383891, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383893, 
+  [
+   248, 
+   382, 
+   {
+    "quote_id": 383891, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383893, 
+  [
+   456, 
+   555, 
+   {
+    "quote_id": 383891, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383893, 
+  [
+   676, 
+   781, 
+   {
+    "quote_id": 383891, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383897, 
+  [
+   0, 
+   525, 
+   {
+    "raw_data": "sinjin;383893", 
+    "quote_id": 383893, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383902, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "gansao;383897", 
+    "quote_id": 383897, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383902, 
+  [
+   154, 
+   313, 
+   {
+    "quote_id": 383897, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383902, 
+  [
+   340, 
+   516, 
+   {
+    "quote_id": 383897, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383902, 
+  [
+   668, 
+   766, 
+   {
+    "quote_id": 383897, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383905, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "sinjin;383902", 
+    "quote_id": 383902, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383908, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "gansao;383905", 
+    "quote_id": 383905, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383908, 
+  [
+   193, 
+   236, 
+   {
+    "quote_id": 383905, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383908, 
+  [
+   360, 
+   494, 
+   {
+    "quote_id": 383905, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383908, 
+  [
+   545, 
+   622, 
+   {}
+  ]
+ ], 
+ [
+  383910, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "sinjin;383908", 
+    "quote_id": 383908, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383912, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "gansao;383910", 
+    "quote_id": 383910, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383912, 
+  [
+   218, 
+   281, 
+   {
+    "quote_id": 383910, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383912, 
+  [
+   330, 
+   474, 
+   {
+    "quote_id": 383910, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383912, 
+  [
+   587, 
+   633, 
+   {
+    "quote_id": 383910, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383915, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "sinjin;383912", 
+    "quote_id": 383912, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  382892, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "JPSartre12;382831", 
+    "quote_id": 382831, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  383917, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "gansao;383915", 
+    "quote_id": 383915, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383917, 
+  [
+   107, 
+   181, 
+   {
+    "quote_id": 383915, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383917, 
+  [
+   256, 
+   380, 
+   {
+    "quote_id": 383915, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383919, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "sinjin;383917", 
+    "quote_id": 383917, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383923, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "gansao;383919", 
+    "quote_id": 383919, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383923, 
+  [
+   190, 
+   231, 
+   {
+    "quote_id": 383919, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383923, 
+  [
+   342, 
+   399, 
+   {
+    "quote_id": 383919, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383923, 
+  [
+   601, 
+   704, 
+   {
+    "quote_id": 383919, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383923, 
+  [
+   833, 
+   953, 
+   {
+    "quote_id": 383919, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383924, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "MrWriteLA;383921", 
+    "quote_id": 383921, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383929, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Archangel;383862", 
+    "quote_id": 383862, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  383931, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "MrWriteLA;383921", 
+    "quote_id": 383921, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383933, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "gansao;383866", 
+    "quote_id": 383866, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383933, 
+  [
+   257, 
+   390, 
+   {
+    "raw_data": "gansao;383866", 
+    "quote_id": 383866, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383933, 
+  [
+   499, 
+   652, 
+   {
+    "raw_data": "gansao;383866", 
+    "quote_id": 383866, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383933, 
+  [
+   856, 
+   958, 
+   {
+    "raw_data": "gansao;383866", 
+    "quote_id": 383866, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383933, 
+  [
+   1216, 
+   1613, 
+   {
+    "raw_data": "gansao;383866", 
+    "quote_id": 383866, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383934, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "gansao;383930", 
+    "unknown_quote_id": 383930, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383934, 
+  [
+   138, 
+   193, 
+   {
+    "raw_data": "gansao;383930", 
+    "unknown_quote_id": 383930, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383934, 
+  [
+   300, 
+   457, 
+   {
+    "raw_data": "gansao;383930", 
+    "unknown_quote_id": 383930, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383934, 
+  [
+   554, 
+   728, 
+   {
+    "raw_data": "gansao;383930", 
+    "unknown_quote_id": 383930, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383942, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "MrWriteLA;383937", 
+    "quote_id": 383937, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383945, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "gansao;383942", 
+    "quote_id": 383942, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383948, 
+  [
+   0, 
+   566, 
+   {
+    "raw_data": "MrWriteLA;383937", 
+    "quote_id": 383937, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383949, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "gansao;383942", 
+    "quote_id": 383942, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383951, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "sinjin;383949", 
+    "quote_id": 383949, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383953, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "gansao;383952", 
+    "quote_id": 383952, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383955, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "sinjin;383954", 
+    "quote_id": 383954, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383956, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "jazyjason;383945", 
+    "quote_id": 383945, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383957, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "gansao;383956", 
+    "quote_id": 383956, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383958, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "jazyjason;383953", 
+    "quote_id": 383953, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383960, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "jazyjason;383957", 
+    "quote_id": 383957, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383961, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "gansao;383958", 
+    "quote_id": 383958, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383962, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "gansao;383960", 
+    "quote_id": 383960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383963, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "jazyjason;383961", 
+    "quote_id": 383961, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383965, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "jazyjason;383962", 
+    "quote_id": 383962, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383967, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "gansao;383963", 
+    "quote_id": 383963, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383968, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "gansao;383965", 
+    "quote_id": 383965, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383970, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "jazyjason;383953", 
+    "quote_id": 383953, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383973, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "MrWriteLA;383970", 
+    "quote_id": 383970, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383974, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "jazyjason;383967", 
+    "quote_id": 383967, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383975, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "MrWriteLA;383970", 
+    "quote_id": 383970, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  383976, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "jazyjason;383968", 
+    "quote_id": 383968, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383978, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "gansao;383975", 
+    "quote_id": 383975, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383981, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "gansao;383975", 
+    "quote_id": 383975, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383982, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "gansao;383976", 
+    "quote_id": 383976, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  382960, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "jazyjason;382892", 
+    "quote_id": 382892, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383984, 
+  [
+   0, 
+   382, 
+   {
+    "raw_data": "jazyjason;383978", 
+    "quote_id": 383978, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  383987, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "gansao;383975", 
+    "quote_id": 383975, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383987, 
+  [
+   153, 
+   166, 
+   {
+    "raw_data": "sinjin;383981", 
+    "quote_id": 383981, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  383993, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "gansao;383984", 
+    "quote_id": 383984, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  383998, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "jazyjason;383997", 
+    "quote_id": 383997, 
+    "author": "jazyjason"
+   }
+  ]
+ ]
+]

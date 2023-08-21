@@ -1,0 +1,72 @@
+[
+ [
+  39044, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  39045, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 39044, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  39045, 
+  [
+   77, 
+   129, 
+   {
+    "quote_id": 39044, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  44050, 
+  [
+   0, 
+   1115, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 39480, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  39702, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 39454, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  39703, 
+  [
+   0, 
+   1115, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 39480, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ]
+]

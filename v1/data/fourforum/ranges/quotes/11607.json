@@ -1,0 +1,408 @@
+[
+ [
+  324096, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Brady;323992", 
+    "quote_id": 323992, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324099, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "Omegamon_X;324096", 
+    "quote_id": 324096, 
+    "author": "Omegamon_X"
+   }
+  ]
+ ], 
+ [
+  324488, 
+  [
+   0, 
+   1436, 
+   {
+    "raw_data": "Brady;323972", 
+    "quote_id": 323972, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  323977, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Brady;323972", 
+    "quote_id": 323972, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324490, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "iangb;324483", 
+    "quote_id": 324483, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324492, 
+  [
+   0, 
+   375, 
+   {
+    "quote_id": 324490, 
+    "author": "Omegamon_X"
+   }
+  ]
+ ], 
+ [
+  324492, 
+  [
+   918, 
+   1136, 
+   {
+    "quote_id": 324489, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324497, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "iangb;324492", 
+    "quote_id": 324492, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324497, 
+  [
+   619, 
+   875, 
+   {
+    "quote_id": 324492, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324116, 
+  [
+   0, 
+   144, 
+   {
+    "quote_id": 323979, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  323992, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Symbiote;323979", 
+    "quote_id": 323979, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  324521, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "iangb;324492", 
+    "quote_id": 324492, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324521, 
+  [
+   523, 
+   712, 
+   {
+    "quote_id": 324492, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324521, 
+  [
+   835, 
+   1092, 
+   {
+    "quote_id": 324492, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324914, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Brady;324806", 
+    "quote_id": 324806, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324914, 
+  [
+   913, 
+   973, 
+   {}
+  ]
+ ], 
+ [
+  324914, 
+  [
+   1135, 
+   1423, 
+   {
+    "quote_id": 324806, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324489, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "iangb;324483", 
+    "quote_id": 324483, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324981, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Brady;324961", 
+    "quote_id": 324961, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324806, 
+  [
+   0, 
+   917, 
+   {
+    "raw_data": "grizzly6626;324784", 
+    "quote_id": 324784, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  324806, 
+  [
+   1107, 
+   1284, 
+   {
+    "raw_data": "grizzly6626;324784", 
+    "quote_id": 324784, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  324808, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "Shooterandproud;324488", 
+    "quote_id": 324488, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324303, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "chester;324099", 
+    "quote_id": 324099, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324816, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Brady;324808", 
+    "quote_id": 324808, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  326358, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Brady;324808", 
+    "quote_id": 324808, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  325080, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Brady;324962", 
+    "quote_id": 324962, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  325081, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Brady;324961", 
+    "quote_id": 324961, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324815, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Brady;324806", 
+    "quote_id": 324806, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324815, 
+  [
+   376, 
+   436, 
+   {
+    "quote_id": 324806, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324815, 
+  [
+   455, 
+   556, 
+   {
+    "quote_id": 324806, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324815, 
+  [
+   656, 
+   842, 
+   {
+    "quote_id": 324806, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  324961, 
+  [
+   0, 
+   1752, 
+   {
+    "raw_data": "grizzly6626;324958", 
+    "quote_id": 324958, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  324962, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Ethmi;324914", 
+    "quote_id": 324914, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  324469, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "iangb;324464", 
+    "quote_id": 324464, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324982, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Brady;324962", 
+    "quote_id": 324962, 
+    "author": "Brady"
+   }
+  ]
+ ]
+]

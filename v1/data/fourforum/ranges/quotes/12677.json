@@ -1,0 +1,46 @@
+[
+ [
+  352816, 
+  [
+   52, 
+   1235, 
+   {}
+  ]
+ ], 
+ [
+  371688, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "simone;352816", 
+    "quote_id": 352816, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  371721, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "simone;371697", 
+    "quote_id": 371697, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  371697, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "OldSarge;371688", 
+    "quote_id": 371688, 
+    "author": "OldSarge"
+   }
+  ]
+ ]
+]

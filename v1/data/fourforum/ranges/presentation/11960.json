@@ -1,0 +1,64 @@
+[
+ [
+  332381, 
+  [
+   0, 
+   50, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  332381, 
+  [
+   0, 
+   50, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  332381, 
+  [
+   0, 
+   50, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  332381, 
+  [
+   0, 
+   50, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  332381, 
+  [
+   52, 
+   4182, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  332381, 
+  [
+   52, 
+   4182, 
+   {
+    "category": "indent"
+   }
+  ]
+ ]
+]

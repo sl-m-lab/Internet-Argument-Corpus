@@ -1,0 +1,48 @@
+[
+ [
+  64385, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64135, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64431, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 64385, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64390, 
+  [
+   264, 
+   308, 
+   {
+    "quote_id": 64385, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64135, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "mana'ia", 
+    "author": "mana'ia"
+   }
+  ]
+ ]
+]

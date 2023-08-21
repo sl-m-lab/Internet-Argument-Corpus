@@ -1,0 +1,299 @@
+[
+ [
+  308609, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Archangel;308605", 
+    "quote_id": 308605, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309763, 
+  [
+   0, 
+   2807, 
+   {
+    "raw_data": "Zardoz;309748", 
+    "quote_id": 309748, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308205, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "Archangel;308125", 
+    "quote_id": 308125, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308205, 
+  [
+   663, 
+   969, 
+   {
+    "quote_id": 308125, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308205, 
+  [
+   1006, 
+   1346, 
+   {
+    "quote_id": 308125, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308205, 
+  [
+   2398, 
+   2720, 
+   {
+    "quote_id": 308125, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308116, 
+  [
+   3150, 
+   3521, 
+   {
+    "raw_data": "Archy", 
+    "quote_id": 307755, 
+    "unknown_author": "Archy", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308125, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Zardoz;308116", 
+    "quote_id": 308116, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308125, 
+  [
+   392, 
+   671, 
+   {
+    "quote_id": 308116, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308125, 
+  [
+   1332, 
+   1504, 
+   {
+    "quote_id": 308116, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  307744, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "electrolyte;307711", 
+    "quote_id": 307711, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  307745, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 307726, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  307748, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Jo Bennett;307747", 
+    "quote_id": 307747, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  307754, 
+  [
+   814, 
+   1024, 
+   {}
+  ]
+ ], 
+ [
+  307754, 
+  [
+   1630, 
+   4120, 
+   {}
+  ]
+ ], 
+ [
+  307755, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "Zardoz;307754", 
+    "quote_id": 307754, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  307755, 
+  [
+   1105, 
+   3884, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  307755, 
+  [
+   4053, 
+   4476, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 307678, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  308657, 
+  [
+   161, 
+   2196, 
+   {
+    "raw_data": "Link from J's link", 
+    "unknown_author": "Link from J's link"
+   }
+  ]
+ ], 
+ [
+  308148, 
+  [
+   0, 
+   7225, 
+   {
+    "raw_data": "Zardoz;308116", 
+    "quote_id": 308116, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  307678, 
+  [
+   122, 
+   337, 
+   {
+    "raw_data": "Trebor", 
+    "unknown_author": "Trebor"
+   }
+  ]
+ ], 
+ [
+  308199, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "trebor;308148", 
+    "quote_id": 308148, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  307688, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Archangel;307681", 
+    "quote_id": 307681, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  307693, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Archangel;307681", 
+    "quote_id": 307681, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308605, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "jyoshu;308600", 
+    "quote_id": 308600, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  307711, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "smiley;307693", 
+    "quote_id": 307693, 
+    "author": "smiley"
+   }
+  ]
+ ]
+]

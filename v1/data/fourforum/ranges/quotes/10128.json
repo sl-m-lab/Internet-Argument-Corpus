@@ -1,0 +1,97 @@
+[
+ [
+  274688, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Winston Smith;274143", 
+    "quote_id": 274143, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  273707, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Winston Smith;273645", 
+    "quote_id": 273645, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  274767, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "chloe;273707", 
+    "quote_id": 273707, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  275152, 
+  [
+   0, 
+   12, 
+   {
+    "raw_data": "Winston Smith;274766", 
+    "quote_id": 274766, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  275071, 
+  [
+   0, 
+   200, 
+   {
+    "quote_id": 275055, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  274839, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Winston Smith;273645", 
+    "quote_id": 273645, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  274840, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Winston Smith;274143", 
+    "quote_id": 274143, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  275055, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "gman;274840", 
+    "quote_id": 274840, 
+    "author": "gman"
+   }
+  ]
+ ]
+]

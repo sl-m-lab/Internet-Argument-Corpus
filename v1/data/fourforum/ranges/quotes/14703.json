@@ -1,0 +1,495 @@
+[
+ [
+  416385, 
+  [
+   0, 
+   849, 
+   {
+    "raw_data": "Tither;416373", 
+    "quote_id": 416373, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  416386, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "NATO 556;416360", 
+    "quote_id": 416360, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416388, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "sinjin;416386", 
+    "quote_id": 416386, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416390, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "sinjin;416385", 
+    "quote_id": 416385, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416390, 
+  [
+   265, 
+   296, 
+   {
+    "quote_id": 416385, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416390, 
+  [
+   496, 
+   549, 
+   {
+    "quote_id": 416385, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416390, 
+  [
+   837, 
+   906, 
+   {}
+  ]
+ ], 
+ [
+  416390, 
+  [
+   1241, 
+   1332, 
+   {
+    "quote_id": 416385, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416391, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "NATO 556;416388", 
+    "quote_id": 416388, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416395, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "sinjin;416391", 
+    "quote_id": 416391, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416403, 
+  [
+   285, 
+   349, 
+   {
+    "raw_data": "sinjin;416385", 
+    "quote_id": 416385, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416403, 
+  [
+   866, 
+   1025, 
+   {}
+  ]
+ ], 
+ [
+  416403, 
+  [
+   1563, 
+   1713, 
+   {}
+  ]
+ ], 
+ [
+  416404, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "sinjin;416391", 
+    "quote_id": 416391, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416404, 
+  [
+   625, 
+   736, 
+   {
+    "quote_id": 416391, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416543, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Winston Smith;416531", 
+    "unknown_quote_id": 416531, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  416423, 
+  [
+   103, 
+   4301, 
+   {}
+  ]
+ ], 
+ [
+  416445, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "Winston Smith;416433", 
+    "unknown_quote_id": 416433, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  416502, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Penfold;416500", 
+    "quote_id": 416500, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  416502, 
+  [
+   128, 
+   719, 
+   {}
+  ]
+ ], 
+ [
+  416460, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "Winston Smith;416433", 
+    "unknown_quote_id": 416433, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  416461, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "NATO 556;416460", 
+    "quote_id": 416460, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416462, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Tither;416403", 
+    "quote_id": 416403, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  416467, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "sinjin;416462", 
+    "quote_id": 416462, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416342, 
+  [
+   94, 
+   1001, 
+   {}
+  ]
+ ], 
+ [
+  416472, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "sinjin;416461", 
+    "quote_id": 416461, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416349, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "sinjin;416343", 
+    "quote_id": 416343, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416354, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "sinjin;416343", 
+    "quote_id": 416343, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416354, 
+  [
+   488, 
+   542, 
+   {
+    "quote_id": 416343, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416354, 
+  [
+   563, 
+   616, 
+   {
+    "quote_id": 416343, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416355, 
+  [
+   0, 
+   436, 
+   {
+    "raw_data": "NATO 556;416354", 
+    "quote_id": 416354, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416356, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "NATO 556;416354", 
+    "quote_id": 416354, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416360, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "sinjin;416355", 
+    "quote_id": 416355, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416360, 
+  [
+   1848, 
+   1918, 
+   {
+    "raw_data": "sinjin;416356", 
+    "quote_id": 416356, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416488, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "Winston Smith;416487", 
+    "unknown_quote_id": 416487, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  416500, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "NATO 556;416488", 
+    "quote_id": 416488, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416373, 
+  [
+   47, 
+   101, 
+   {
+    "raw_data": "sinjin;416343", 
+    "quote_id": 416343, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  416373, 
+  [
+   105, 
+   116, 
+   {
+    "raw_data": "NATO 556;416354", 
+    "quote_id": 416354, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  416374, 
+  [
+   0, 
+   484, 
+   {
+    "raw_data": "Tither;416373", 
+    "quote_id": 416373, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  416374, 
+  [
+   594, 
+   763, 
+   {
+    "quote_id": 416373, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  416374, 
+  [
+   860, 
+   1043, 
+   {}
+  ]
+ ], 
+ [
+  416504, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Penfold;416500", 
+    "quote_id": 416500, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  416639, 
+  [
+   0, 
+   212, 
+   {}
+  ]
+ ], 
+ [
+  416639, 
+  [
+   790, 
+   885, 
+   {}
+  ]
+ ], 
+ [
+  416639, 
+  [
+   964, 
+   1186, 
+   {}
+  ]
+ ]
+]

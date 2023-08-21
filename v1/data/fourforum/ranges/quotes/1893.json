@@ -1,0 +1,1403 @@
+[
+ [
+  39298, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 39287, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  39174, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39132, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39174, 
+  [
+   220, 
+   700, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39132, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39174, 
+  [
+   1074, 
+   1458, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39132, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39174, 
+  [
+   1624, 
+   2033, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39132, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  38919, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 38896, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38971, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 38941, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38971, 
+  [
+   157, 
+   248, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 38941, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38971, 
+  [
+   444, 
+   517, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38940, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38971, 
+  [
+   689, 
+   728, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38940, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38927, 
+  [
+   0, 
+   1080, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 38919, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39183, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39174, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39183, 
+  [
+   292, 
+   564, 
+   {}
+  ]
+ ], 
+ [
+  39187, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39183, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39187, 
+  [
+   858, 
+   1432, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39183, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39316, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 39287, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  39063, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39063, 
+  [
+   552, 
+   764, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39063, 
+  [
+   1002, 
+   1174, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39063, 
+  [
+   1324, 
+   1587, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39003, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39063, 
+  [
+   2215, 
+   2357, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39003, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39063, 
+  [
+   2511, 
+   2819, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39003, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39064, 
+  [
+   0, 
+   679, 
+   {
+    "raw_data": "RooK", 
+    "quote_id": 38989, 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  39065, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 38990, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39209, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39206, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39209, 
+  [
+   301, 
+   381, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39206, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39209, 
+  [
+   442, 
+   544, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39206, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39209, 
+  [
+   586, 
+   738, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39206, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38939, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 38919, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  38939, 
+  [
+   597, 
+   703, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 38919, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  38940, 
+  [
+   23, 
+   591, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38933, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38940, 
+  [
+   756, 
+   1420, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38933, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38940, 
+  [
+   2173, 
+   2306, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38933, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38941, 
+  [
+   136, 
+   245, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38933, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38941, 
+  [
+   724, 
+   824, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38933, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38947, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38940, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38948, 
+  [
+   0, 
+   2318, 
+   {
+    "raw_data": "RooK", 
+    "quote_id": 38947, 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  38822, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 38815, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  39210, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39187, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39210, 
+  [
+   599, 
+   799, 
+   {}
+  ]
+ ], 
+ [
+  39367, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 39361, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39102, 
+  [
+   0, 
+   267, 
+   {
+    "quote_id": 39099, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39102, 
+  [
+   685, 
+   985, 
+   {
+    "quote_id": 39099, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39215, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39209, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39215, 
+  [
+   151, 
+   184, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39209, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39215, 
+  [
+   261, 
+   358, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39209, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39216, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39215, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39216, 
+  [
+   294, 
+   365, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39215, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39216, 
+  [
+   431, 
+   506, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39215, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38577, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "3sgte", 
+    "quote_id": 38560, 
+    "author": "3sgte"
+   }
+  ]
+ ], 
+ [
+  39099, 
+  [
+   0, 
+   1597, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 39096, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  39099, 
+  [
+   2008, 
+   2230, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 39096, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  39223, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39216, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39223, 
+  [
+   2025, 
+   2080, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39216, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39223, 
+  [
+   2175, 
+   2385, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39216, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38984, 
+  [
+   0, 
+   241, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 38977, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38984, 
+  [
+   294, 
+   551, 
+   {
+    "quote_id": 38977, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38841, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38822, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39226, 
+  [
+   0, 
+   1524, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39223, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39226, 
+  [
+   1560, 
+   1729, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39223, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39226, 
+  [
+   1912, 
+   2039, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39223, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39226, 
+  [
+   2103, 
+   2190, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39223, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39226, 
+  [
+   2329, 
+   2528, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39223, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38559, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 38519, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  38844, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38841, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38974, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38971, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38974, 
+  [
+   475, 
+   665, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38971, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38977, 
+  [
+   248, 
+   452, 
+   {
+    "raw_data": "RooK", 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  39106, 
+  [
+   0, 
+   407, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 39102, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  39106, 
+  [
+   686, 
+   1066, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 39102, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  39206, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39200, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39206, 
+  [
+   873, 
+   1011, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39200, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38980, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 38977, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  39237, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39226, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39237, 
+  [
+   276, 
+   449, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39226, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39237, 
+  [
+   603, 
+   657, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39226, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39237, 
+  [
+   898, 
+   1027, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39226, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39237, 
+  [
+   1190, 
+   1218, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39226, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38983, 
+  [
+   392, 
+   507, 
+   {
+    "raw_data": "RooK", 
+    "quote_id": 38980, 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  38983, 
+  [
+   656, 
+   774, 
+   {
+    "raw_data": "RooK", 
+    "quote_id": 38980, 
+    "author": "RooK"
+   }
+  ]
+ ], 
+ [
+  38856, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38844, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38987, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 38984, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  38987, 
+  [
+   93, 
+   425, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 38984, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  39244, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39237, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39244, 
+  [
+   376, 
+   522, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39237, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39244, 
+  [
+   732, 
+   967, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39237, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39244, 
+  [
+   1739, 
+   1959, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38989, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "hvozdany", 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38864, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38856, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39096, 
+  [
+   0, 
+   2259, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39003, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38866, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38864, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38990, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 38987, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38990, 
+  [
+   49, 
+   264, 
+   {
+    "quote_id": 38987, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38990, 
+  [
+   281, 
+   1134, 
+   {
+    "quote_id": 38987, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  38872, 
+  [
+   41, 
+   1196, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38872, 
+  [
+   1310, 
+   1357, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38866, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38872, 
+  [
+   1439, 
+   1708, 
+   {
+    "raw_data": "Sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38875, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39132, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39106, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39132, 
+  [
+   409, 
+   521, 
+   {
+    "quote_id": 39106, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39132, 
+  [
+   1010, 
+   1803, 
+   {
+    "quote_id": 39003, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38878, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Sigma", 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38878, 
+  [
+   360, 
+   1515, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39205, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39196, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39200, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39187, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  39200, 
+  [
+   1079, 
+   1355, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 39187, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38883, 
+  [
+   0, 
+   749, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38652, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38885, 
+  [
+   0, 
+   791, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 38883, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  38896, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38885, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38770, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 38652, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  38519, 
+  [
+   0, 
+   564, 
+   {
+    "raw_data": "3sgte", 
+    "quote_id": 38517, 
+    "author": "3sgte"
+   }
+  ]
+ ], 
+ [
+  38778, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 38770, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  39295, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "justanotherguy", 
+    "unknown_author": "justanotherguy"
+   }
+  ]
+ ], 
+ [
+  38652, 
+  [
+   0, 
+   521, 
+   {
+    "raw_data": "The_Comedian", 
+    "quote_id": 38577, 
+    "author": "The_Comedian"
+   }
+  ]
+ ], 
+ [
+  39253, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39244, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39253, 
+  [
+   242, 
+   358, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39244, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39253, 
+  [
+   497, 
+   1001, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39244, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39253, 
+  [
+   1114, 
+   1368, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39244, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  39253, 
+  [
+   1624, 
+   1677, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 39244, 
+    "author": "Sigma"
+   }
+  ]
+ ]
+]

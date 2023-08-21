@@ -1,0 +1,995 @@
+[
+ [
+  357120, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Tither;357108", 
+    "quote_id": 357108, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357376, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Penfold;357374", 
+    "quote_id": 357374, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357124, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "NATO 556;357102", 
+    "quote_id": 357102, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357127, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "NATO 556;357083", 
+    "quote_id": 357083, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  358152, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "antonia;357284", 
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357260, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "antonia;357214", 
+    "quote_id": 357214, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357252, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "antonia;357214", 
+    "quote_id": 357214, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357252, 
+  [
+   352, 
+   638, 
+   {
+    "quote_id": 357214, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357295, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "NATO 556;357287", 
+    "quote_id": 357287, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357295, 
+  [
+   204, 
+   302, 
+   {
+    "quote_id": 357287, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357295, 
+  [
+   507, 
+   587, 
+   {
+    "quote_id": 357287, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357295, 
+  [
+   971, 
+   1076, 
+   {
+    "quote_id": 357287, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357295, 
+  [
+   1334, 
+   1402, 
+   {
+    "quote_id": 357287, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357374, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "NATO 556;357373", 
+    "quote_id": 357373, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357380, 
+  [
+   0, 
+   900, 
+   {
+    "raw_data": "NATO 556;357376", 
+    "quote_id": 357376, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357408, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "NATO 556;357314", 
+    "quote_id": 357314, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357284, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Doc Jones;357252", 
+    "quote_id": 357252, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  357284, 
+  [
+   784, 
+   1507, 
+   {
+    "quote_id": 357252, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  357284, 
+  [
+   1872, 
+   2675, 
+   {
+    "quote_id": 357252, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  357285, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Tither;357260", 
+    "quote_id": 357260, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357285, 
+  [
+   730, 
+   826, 
+   {
+    "quote_id": 357260, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357285, 
+  [
+   1134, 
+   1185, 
+   {
+    "quote_id": 357260, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "antonia;357284", 
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   212, 
+   378, 
+   {
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   535, 
+   712, 
+   {
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   961, 
+   1189, 
+   {
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   1244, 
+   1295, 
+   {
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   2407, 
+   2478, 
+   {
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357287, 
+  [
+   3011, 
+   3169, 
+   {
+    "quote_id": 357284, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357167, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "Archangel;357124", 
+    "quote_id": 357124, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  357169, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "CUNxTime;357167", 
+    "quote_id": 357167, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  357377, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "NATO 556;357353", 
+    "quote_id": 357353, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357427, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "sinjin;357090", 
+    "quote_id": 357090, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357385, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Penfold;357380", 
+    "quote_id": 357380, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357175, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "CUNxTime;357167", 
+    "quote_id": 357167, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  357175, 
+  [
+   236, 
+   339, 
+   {
+    "raw_data": "&quot;Archangel&quot;", 
+    "quote_id": 357124, 
+    "unknown_author": "&quot", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "antonia;357295", 
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   283, 
+   352, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   739, 
+   801, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   977, 
+   1079, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   1264, 
+   1436, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   1953, 
+   2008, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   2214, 
+   2336, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   2923, 
+   2989, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357305, 
+  [
+   3123, 
+   3213, 
+   {
+    "quote_id": 357295, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357179, 
+  [
+   196, 
+   334, 
+   {
+    "raw_data": "&quot;Doc Jones&quot;", 
+    "quote_id": 357165, 
+    "unknown_author": "&quot", 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  357428, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;357101", 
+    "quote_id": 357101, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357188, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Penfold;357187", 
+    "quote_id": 357187, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357189, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Tither;357175", 
+    "quote_id": 357175, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357190, 
+  [
+   313, 
+   353, 
+   {
+    "raw_data": "&quot;Penfold&quot;", 
+    "quote_id": 357187, 
+    "unknown_author": "&quot", 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357191, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "CUNxTime;357189", 
+    "quote_id": 357189, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  358090, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "antonia;357377", 
+    "quote_id": 357377, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357367, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "NATO 556;357365", 
+    "quote_id": 357365, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357199, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Chuz Life;357096", 
+    "quote_id": 357096, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  357200, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "Archangel;357124", 
+    "quote_id": 357124, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  357200, 
+  [
+   429, 
+   530, 
+   {
+    "raw_data": "CUNxTime;357167", 
+    "quote_id": 357167, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  357200, 
+  [
+   996, 
+   1256, 
+   {
+    "raw_data": "Tither;357175", 
+    "quote_id": 357175, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357335, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "NATO 556;357305", 
+    "quote_id": 357305, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357083, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Penfold;357080", 
+    "quote_id": 357080, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357214, 
+  [
+   161, 
+   417, 
+   {}
+  ]
+ ], 
+ [
+  357214, 
+  [
+   713, 
+   811, 
+   {
+    "quote_id": 357188, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  357214, 
+  [
+   952, 
+   1081, 
+   {
+    "quote_id": 357190, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  357088, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "NATO 556;357083", 
+    "quote_id": 357083, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357328, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Penfold;357317", 
+    "quote_id": 357317, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357090, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "NATO 556;357077", 
+    "quote_id": 357077, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357361, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Penfold;357356", 
+    "quote_id": 357356, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357092, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "Chuz Life;357088", 
+    "quote_id": 357088, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  357093, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "sinjin;357092", 
+    "quote_id": 357092, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357095, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Chuz Life;357093", 
+    "quote_id": 357093, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  357096, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Penfold;357094", 
+    "quote_id": 357094, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357097, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "sinjin;357095", 
+    "quote_id": 357095, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357354, 
+  [
+   0, 
+   698, 
+   {
+    "raw_data": "NATO 556;357353", 
+    "quote_id": 357353, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357099, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Chuz Life;357097", 
+    "quote_id": 357097, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  357099, 
+  [
+   707, 
+   734, 
+   {
+    "quote_id": 357097, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  357100, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "sinjin;357090", 
+    "quote_id": 357090, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357101, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "NATO 556;357100", 
+    "quote_id": 357100, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357360, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "antonia;357335", 
+    "quote_id": 357335, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357105, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "NATO 556;357102", 
+    "quote_id": 357102, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  357107, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "sinjin;357105", 
+    "quote_id": 357105, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357108, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;357101", 
+    "quote_id": 357101, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357365, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Penfold;357356", 
+    "quote_id": 357356, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357353, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "antonia;357335", 
+    "quote_id": 357335, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  357373, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Penfold;357367", 
+    "quote_id": 357367, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  357118, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "sinjin;357090", 
+    "quote_id": 357090, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  357119, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "NATO 556;357107", 
+    "quote_id": 357107, 
+    "author": "NATO 556"
+   }
+  ]
+ ]
+]

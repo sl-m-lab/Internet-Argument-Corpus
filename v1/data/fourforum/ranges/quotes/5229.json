@@ -1,0 +1,86 @@
+[
+ [
+  123362, 
+  [
+   0, 
+   4138, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 123309, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  123365, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123362, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123330, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123324, 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  123442, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "tomharrybill", 
+    "quote_id": 123397, 
+    "author": "tomharrybill"
+   }
+  ]
+ ], 
+ [
+  123349, 
+  [
+   0, 
+   543, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 123330, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  123448, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 123445, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  123397, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "JustineCredible", 
+    "quote_id": 123365, 
+    "author": "JustineCredible"
+   }
+  ]
+ ]
+]

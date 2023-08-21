@@ -1,0 +1,703 @@
+[
+ [
+  128386, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 128344, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  128772, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 128338, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129004, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  129035, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  129806, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 129339, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  129806, 
+  [
+   1575, 
+   1605, 
+   {
+    "quote_id": 129339, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  128529, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 128386, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  131090, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Perry5", 
+    "quote_id": 131089, 
+    "author": "Perry5"
+   }
+  ]
+ ], 
+ [
+  131140, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 131122, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  129368, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 129348, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  129368, 
+  [
+   313, 
+   341, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 129353, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  128804, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 128772, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  131185, 
+  [
+   0, 
+   1160, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 131160, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  128553, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 127878, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  128554, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 128344, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  129961, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 129406, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  131122, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 131090, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  128951, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  128951, 
+  [
+   575, 
+   803, 
+   {
+    "quote_id": 128832, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  128951, 
+  [
+   992, 
+   1501, 
+   {
+    "quote_id": 128832, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  131160, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 131146, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  129339, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 129258, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129339, 
+  [
+   831, 
+   1042, 
+   {
+    "quote_id": 129258, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  131786, 
+  [
+   0, 
+   660, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 131185, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  128832, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  128832, 
+  [
+   295, 
+   474, 
+   {
+    "quote_id": 128804, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  128832, 
+  [
+   645, 
+   724, 
+   {
+    "quote_id": 128804, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  128832, 
+  [
+   961, 
+   1085, 
+   {
+    "quote_id": 128804, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129348, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 129339, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  131146, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 131140, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  131788, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "Perry5", 
+    "quote_id": 131716, 
+    "author": "Perry5"
+   }
+  ]
+ ], 
+ [
+  127693, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 127229, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  129232, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 129001, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  128344, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 128338, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  127705, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 127100, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  131806, 
+  [
+   0, 
+   1078, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 131786, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  131806, 
+  [
+   2676, 
+   2771, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 131786, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129251, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 129232, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129251, 
+  [
+   991, 
+   1197, 
+   {
+    "quote_id": 129232, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  128741, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 128529, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  128742, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "peddler8111", 
+    "quote_id": 128554, 
+    "author": "peddler8111"
+   }
+  ]
+ ], 
+ [
+  129256, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "JT", 
+    "quote_id": 129236, 
+    "unknown_author": "JT", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129256, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129256, 
+  [
+   218, 
+   868, 
+   {
+    "quote_id": 129236, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129001, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 128951, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129001, 
+  [
+   896, 
+   1079, 
+   {
+    "quote_id": 128951, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129001, 
+  [
+   1160, 
+   1327, 
+   {
+    "quote_id": 128951, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  129258, 
+  [
+   0, 
+   645, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 129251, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  129258, 
+  [
+   821, 
+   1085, 
+   {
+    "quote_id": 129251, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  127212, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 127100, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  131822, 
+  [
+   0, 
+   1621, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  129009, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 129004, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  129009, 
+  [
+   111, 
+   197, 
+   {
+    "quote_id": 129004, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  129009, 
+  [
+   219, 
+   351, 
+   {
+    "quote_id": 129004, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  131187, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 131140, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  131192, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 131187, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  128761, 
+  [
+   0, 
+   849, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 128741, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  128763, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 128761, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  127229, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 127212, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  129406, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 129368, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

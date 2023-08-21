@@ -1,0 +1,55 @@
+[
+ [
+  201921, 
+  [
+   74, 
+   120, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  201921, 
+  [
+   74, 
+   120, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  201923, 
+  [
+   244, 
+   429, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Palatino Linotype&quot;"
+   }
+  ]
+ ], 
+ [
+  202054, 
+  [
+   775, 
+   788, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  202074, 
+  [
+   122, 
+   353, 
+   {
+    "category": "font", 
+    "raw_data": "&quot;Palatino Linotype&quot;"
+   }
+  ]
+ ]
+]

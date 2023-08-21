@@ -1,0 +1,404 @@
+[
+ [
+  168555, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 168511, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  168465, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 168450, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168469, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 168465, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  168227, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Orion", 
+    "quote_id": 165970, 
+    "author": "Orion"
+   }
+  ]
+ ], 
+ [
+  168489, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 168474, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165809, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Trebor", 
+    "quote_id": 165710, 
+    "unknown_author": "Trebor", 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  165813, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Johnson", 
+    "quote_id": 165812, 
+    "unknown_author": "Johnson", 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  165942, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165881, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165817, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165813, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168511, 
+  [
+   0, 
+   728, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 168505, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  165825, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165819, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168505, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 168489, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  168390, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Johnson", 
+    "unknown_author": "Johnson"
+   }
+  ]
+ ], 
+ [
+  168392, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 168390, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168392, 
+  [
+   203, 
+   238, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 168390, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165833, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165826, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165833, 
+  [
+   116, 
+   179, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165826, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168395, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Johnson", 
+    "quote_id": 168392, 
+    "unknown_author": "Johnson", 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  168395, 
+  [
+   200, 
+   528, 
+   {
+    "raw_data": "Johnson", 
+    "unknown_author": "Johnson"
+   }
+  ]
+ ], 
+ [
+  165710, 
+  [
+   60, 
+   1032, 
+   {}
+  ]
+ ], 
+ [
+  165970, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Orion - Yesterday, 10:07 PM", 
+    "unknown_author": "Orion - Yesterday, 10:07 PM"
+   }
+  ]
+ ], 
+ [
+  165970, 
+  [
+   64, 
+   126, 
+   {
+    "raw_data": "Easyrider - Today, 06:28 AM", 
+    "quote_id": 165819, 
+    "unknown_author": "Easyrider - Today, 06:28 AM", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168406, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 168395, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  168406, 
+  [
+   350, 
+   554, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 168395, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165847, 
+  [
+   0, 
+   631, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165809, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165850, 
+  [
+   0, 
+   946, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 165808, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165728, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 165723, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  168420, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  165734, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 165728, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  168427, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Johnson", 
+    "unknown_author": "Johnson"
+   }
+  ]
+ ], 
+ [
+  168427, 
+  [
+   238, 
+   385, 
+   {
+    "raw_data": "Johnson", 
+    "quote_id": 168406, 
+    "unknown_author": "Johnson", 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  168559, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 168555, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  165881, 
+  [
+   0, 
+   985, 
+   {
+    "raw_data": "Trebor", 
+    "unknown_author": "Trebor"
+   }
+  ]
+ ], 
+ [
+  168447, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

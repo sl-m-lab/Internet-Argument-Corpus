@@ -1,0 +1,38 @@
+[
+ [
+  95333, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 95150, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  95150, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 94702, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  94702, 
+  [
+   0, 
+   821, 
+   {
+    "raw_data": "valet_dave", 
+    "quote_id": 94679, 
+    "author": "valet_dave"
+   }
+  ]
+ ]
+]

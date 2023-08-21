@@ -1,0 +1,61 @@
+[
+ [
+  354435, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 354294, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  354435, 
+  [
+   192, 
+   355, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 354301, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  354435, 
+  [
+   590, 
+   762, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 354428, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  354667, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "Lakrite;354435", 
+    "quote_id": 354435, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  354686, 
+  [
+   0, 
+   542, 
+   {
+    "quote_id": 354667, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

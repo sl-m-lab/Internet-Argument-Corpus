@@ -1,0 +1,532 @@
+[
+ [
+  285955, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "jim's trucking;285947", 
+    "quote_id": 285947, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286345, 
+  [
+   1, 
+   242, 
+   {
+    "raw_data": "Kronus;286170", 
+    "quote_id": 286170, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286345, 
+  [
+   391, 
+   541, 
+   {
+    "quote_id": 286170, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286345, 
+  [
+   668, 
+   905, 
+   {
+    "quote_id": 286170, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286345, 
+  [
+   1034, 
+   1162, 
+   {
+    "quote_id": 286171, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  285076, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "jim's trucking;285072", 
+    "quote_id": 285072, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286101, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "jim's trucking;286063", 
+    "quote_id": 286063, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286101, 
+  [
+   436, 
+   571, 
+   {
+    "raw_data": "jim's trucking;286063", 
+    "quote_id": 286063, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286101, 
+  [
+   665, 
+   766, 
+   {
+    "raw_data": "jim's trucking;286063", 
+    "quote_id": 286063, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  285084, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "jim's trucking;285072", 
+    "quote_id": 285072, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286110, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Kronus;286101", 
+    "quote_id": 286101, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286110, 
+  [
+   476, 
+   629, 
+   {
+    "quote_id": 286101, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286110, 
+  [
+   705, 
+   923, 
+   {
+    "quote_id": 286101, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286110, 
+  [
+   1000, 
+   1228, 
+   {
+    "quote_id": 286101, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286117, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "jim's trucking;286110", 
+    "quote_id": 286110, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286117, 
+  [
+   800, 
+   884, 
+   {
+    "raw_data": "jim's trucking;286110", 
+    "quote_id": 286110, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286117, 
+  [
+   1228, 
+   1300, 
+   {
+    "raw_data": "jim's trucking;286110", 
+    "quote_id": 286110, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286117, 
+  [
+   1645, 
+   1719, 
+   {
+    "raw_data": "jim's trucking;286110", 
+    "quote_id": 286110, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286117, 
+  [
+   1922, 
+   1965, 
+   {
+    "raw_data": "jim's trucking;286110", 
+    "quote_id": 286110, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286366, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Kronus;286171", 
+    "quote_id": 286171, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  285879, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "samiinh;285076", 
+    "quote_id": 285076, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  285879, 
+  [
+   99, 
+   538, 
+   {
+    "raw_data": "Kronus;285084", 
+    "quote_id": 285084, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286175, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Kronus;286171", 
+    "quote_id": 286171, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286402, 
+  [
+   0, 
+   1651, 
+   {
+    "raw_data": "daewoo;286366", 
+    "quote_id": 286366, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  286022, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "jim's trucking;285905", 
+    "quote_id": 285905, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286022, 
+  [
+   945, 
+   989, 
+   {
+    "raw_data": "jim's trucking;285905", 
+    "quote_id": 285905, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286023, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Steeeeve;285908", 
+    "quote_id": 285908, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  286155, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Kronus;286117", 
+    "quote_id": 286117, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286155, 
+  [
+   1157, 
+   1495, 
+   {
+    "quote_id": 286117, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286155, 
+  [
+   2223, 
+   2562, 
+   {
+    "quote_id": 286117, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286155, 
+  [
+   3074, 
+   3271, 
+   {
+    "quote_id": 286117, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286155, 
+  [
+   3467, 
+   3591, 
+   {
+    "quote_id": 286117, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286155, 
+  [
+   3683, 
+   3744, 
+   {
+    "raw_data": "chemist99a;286121", 
+    "quote_id": 286121, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  285902, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "jim's trucking;285879", 
+    "quote_id": 285879, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  285905, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Kronus;285902", 
+    "quote_id": 285902, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  285908, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Kronus;285902", 
+    "quote_id": 285902, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  286168, 
+  [
+   0, 
+   654, 
+   {
+    "raw_data": "jyoshu;286120", 
+    "quote_id": 286120, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  286170, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "jim's trucking;286155", 
+    "quote_id": 286155, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286170, 
+  [
+   323, 
+   669, 
+   {
+    "raw_data": "jim's trucking;286155", 
+    "quote_id": 286155, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286170, 
+  [
+   825, 
+   1019, 
+   {
+    "raw_data": "jim's trucking;286155", 
+    "quote_id": 286155, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  286171, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "daewoo;286168", 
+    "quote_id": 286168, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  285928, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "sinjin;285919", 
+    "quote_id": 285919, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  286063, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Kronus;286029", 
+    "quote_id": 286029, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  285943, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "jim's trucking;285928", 
+    "quote_id": 285928, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  285947, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "sinjin;285943", 
+    "quote_id": 285943, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

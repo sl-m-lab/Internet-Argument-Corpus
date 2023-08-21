@@ -1,0 +1,50 @@
+[
+ [
+  51043, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 51003, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  50985, 
+  [
+   0, 
+   717, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 50967, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  50996, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 50985, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  51003, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 50996, 
+    "author": "Big Orn"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,225 @@
+[
+ [
+  314667, 
+  [
+   682, 
+   769, 
+   {
+    "raw_data": "marc9000;314666", 
+    "quote_id": 314666, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  350217, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "marc9000;314669", 
+    "quote_id": 314669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314666, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 313998, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  305323, 
+  [
+   0, 
+   825, 
+   {
+    "raw_data": "marc9000;305140", 
+    "quote_id": 305140, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314669, 
+  [
+   0, 
+   678, 
+   {
+    "raw_data": "electrolyte;314667", 
+    "quote_id": 314667, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  314669, 
+  [
+   810, 
+   926, 
+   {
+    "quote_id": 314667, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  313998, 
+  [
+   2469, 
+   2657, 
+   {}
+  ]
+ ], 
+ [
+  314672, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "marc9000;314669", 
+    "quote_id": 314669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314672, 
+  [
+   156, 
+   247, 
+   {
+    "raw_data": "marc9000;314669", 
+    "quote_id": 314669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314672, 
+  [
+   381, 
+   467, 
+   {
+    "raw_data": "marc9000;314669", 
+    "quote_id": 314669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314672, 
+  [
+   779, 
+   915, 
+   {
+    "raw_data": "marc9000;314669", 
+    "quote_id": 314669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314672, 
+  [
+   1080, 
+   1113, 
+   {
+    "raw_data": "marc9000;314669", 
+    "quote_id": 314669, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  305140, 
+  [
+   385, 
+   609, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  305140, 
+  [
+   694, 
+   846, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  305140, 
+  [
+   874, 
+   1010, 
+   {}
+  ]
+ ], 
+ [
+  305140, 
+  [
+   1556, 
+   1806, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  305140, 
+  [
+   1845, 
+   1982, 
+   {}
+  ]
+ ], 
+ [
+  305140, 
+  [
+   2010, 
+   2261, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  304981, 
+  [
+   59, 
+   163, 
+   {
+    "raw_data": "marc9000;304963", 
+    "unknown_quote_id": 304963, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  314838, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "sinjin;314671", 
+    "quote_id": 314671, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

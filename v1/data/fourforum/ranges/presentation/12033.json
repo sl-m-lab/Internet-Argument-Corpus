@@ -1,0 +1,54 @@
+[
+ [
+  334604, 
+  [
+   101, 
+   166, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;1&quot;"
+   }
+  ]
+ ], 
+ [
+  334604, 
+  [
+   101, 
+   166, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Silver&quot;"
+   }
+  ]
+ ], 
+ [
+  334931, 
+  [
+   449, 
+   456, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  334931, 
+  [
+   598, 
+   601, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  334587, 
+  [
+   182, 
+   194, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

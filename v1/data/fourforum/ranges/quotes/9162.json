@@ -1,0 +1,965 @@
+[
+ [
+  239362, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "simone;239356", 
+    "quote_id": 239356, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239362, 
+  [
+   3069, 
+   3153, 
+   {
+    "raw_data": "simone;239356", 
+    "quote_id": 239356, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239362, 
+  [
+   5581, 
+   5622, 
+   {
+    "raw_data": "simone;239356", 
+    "quote_id": 239356, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239363, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "VTCruiser;239355", 
+    "quote_id": 239355, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239368, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "georged;239363", 
+    "quote_id": 239363, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239368, 
+  [
+   393, 
+   447, 
+   {
+    "raw_data": "georged;239339", 
+    "quote_id": 239339, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  238858, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Matthew S;238674", 
+    "quote_id": 238674, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  238861, 
+  [
+   0, 
+   747, 
+   {
+    "raw_data": "jim's trucking;238858", 
+    "quote_id": 238858, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238866, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Matthew S;238861", 
+    "quote_id": 238861, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  239252, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "obvious_child;239190", 
+    "quote_id": 239190, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239253, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "VTCruiser;239252", 
+    "quote_id": 239252, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239254, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "obvious_child;238953", 
+    "quote_id": 238953, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238871, 
+  [
+   0, 
+   1037, 
+   {
+    "raw_data": "jim's trucking;238866", 
+    "quote_id": 238866, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  239256, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "obvious_child;239253", 
+    "quote_id": 239253, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239257, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "VTCruiser;239252", 
+    "quote_id": 239252, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239258, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "VTCruiser;239256", 
+    "quote_id": 239256, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239258, 
+  [
+   108, 
+   234, 
+   {
+    "quote_id": 239256, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239258, 
+  [
+   269, 
+   363, 
+   {
+    "quote_id": 239256, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239258, 
+  [
+   515, 
+   654, 
+   {}
+  ]
+ ], 
+ [
+  239259, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "obvious_child;239257", 
+    "quote_id": 239257, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239260, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "obvious_child;239258", 
+    "quote_id": 239258, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238877, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "jim's trucking;238858", 
+    "quote_id": 238858, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238877, 
+  [
+   912, 
+   1210, 
+   {
+    "quote_id": 238858, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "obvious_child;238877", 
+    "quote_id": 238877, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   279, 
+   436, 
+   {
+    "quote_id": 238877, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   589, 
+   724, 
+   {
+    "quote_id": 238877, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   960, 
+   1017, 
+   {
+    "quote_id": 238877, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   1070, 
+   1109, 
+   {
+    "quote_id": 238877, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   1184, 
+   1437, 
+   {
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238883, 
+  [
+   1542, 
+   1664, 
+   {
+    "quote_id": 238877, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239268, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "obvious_child;238953", 
+    "quote_id": 238953, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239268, 
+  [
+   80, 
+   444, 
+   {
+    "raw_data": "VTCruiser;239254", 
+    "quote_id": 239254, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239268, 
+  [
+   448, 
+   476, 
+   {
+    "raw_data": "VTCruiser;239259", 
+    "quote_id": 239259, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239345, 
+  [
+   0, 
+   879, 
+   {
+    "raw_data": "VTCruiser;238940", 
+    "quote_id": 238940, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  238940, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "snakespit;238902", 
+    "quote_id": 238902, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  238891, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "jitobear;238885", 
+    "quote_id": 238885, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  238895, 
+  [
+   0, 
+   664, 
+   {
+    "raw_data": "jim's trucking;238891", 
+    "quote_id": 238891, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  239156, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Rekhyt2238;239149", 
+    "quote_id": 239149, 
+    "author": "Rekhyt2238"
+   }
+  ]
+ ], 
+ [
+  238902, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "jim's trucking;238858", 
+    "quote_id": 238858, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  239162, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "obvious_child;239156", 
+    "quote_id": 239156, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  238908, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "jim's trucking;238883", 
+    "quote_id": 238883, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238908, 
+  [
+   270, 
+   415, 
+   {
+    "quote_id": 238883, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238908, 
+  [
+   598, 
+   828, 
+   {
+    "quote_id": 238883, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238908, 
+  [
+   1117, 
+   1162, 
+   {
+    "quote_id": 238883, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238908, 
+  [
+   1419, 
+   1518, 
+   {
+    "quote_id": 238883, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  238908, 
+  [
+   1600, 
+   1746, 
+   {
+    "quote_id": 238883, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  239343, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "snakespit;238902", 
+    "quote_id": 238902, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  238918, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "jyoshu;238871", 
+    "quote_id": 238871, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  238664, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "VTCruiser;238662", 
+    "quote_id": 238662, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239435, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "VTCruiser;239381", 
+    "quote_id": 239381, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239308, 
+  [
+   0, 
+   817, 
+   {
+    "raw_data": "electrolyte;239268", 
+    "quote_id": 239268, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239309, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "georged;239293", 
+    "quote_id": 239293, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239438, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "VTCruiser;239381", 
+    "quote_id": 239381, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  238674, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "VTCruiser;238662", 
+    "quote_id": 238662, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239348, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "simone;239342", 
+    "quote_id": 239342, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239348, 
+  [
+   269, 
+   523, 
+   {
+    "raw_data": "simone;239345", 
+    "quote_id": 239345, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239190, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Rekhyt2238;239168", 
+    "quote_id": 239168, 
+    "author": "Rekhyt2238"
+   }
+  ]
+ ], 
+ [
+  239396, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "VTCruiser;239260", 
+    "quote_id": 239260, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239450, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "VTCruiser;239381", 
+    "quote_id": 239381, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  238939, 
+  [
+   0, 
+   382, 
+   {
+    "raw_data": "georged;238918", 
+    "quote_id": 238918, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239165, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Rekhyt2238;239162", 
+    "quote_id": 239162, 
+    "author": "Rekhyt2238"
+   }
+  ]
+ ], 
+ [
+  239293, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "VTCruiser;239259", 
+    "quote_id": 239259, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239452, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "jim's trucking;238866", 
+    "quote_id": 238866, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  239333, 
+  [
+   0, 
+   558, 
+   {
+    "raw_data": "georged;239318", 
+    "quote_id": 239318, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  238952, 
+  [
+   0, 
+   879, 
+   {
+    "raw_data": "VTCruiser;238940", 
+    "quote_id": 238940, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  238953, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "VTCruiser;238940", 
+    "quote_id": 238940, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  238953, 
+  [
+   654, 
+   725, 
+   {
+    "quote_id": 238940, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239339, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "VTCruiser;239333", 
+    "quote_id": 239333, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239340, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "georged;239339", 
+    "quote_id": 239339, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239341, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "VTCruiser;238662", 
+    "quote_id": 238662, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239342, 
+  [
+   0, 
+   747, 
+   {
+    "raw_data": "jim's trucking;238858", 
+    "quote_id": 238858, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  239344, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "simone;239342", 
+    "quote_id": 239342, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239089, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "daewoo;238939", 
+    "quote_id": 238939, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  239089, 
+  [
+   363, 
+   439, 
+   {
+    "quote_id": 238953, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  239347, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "VTCruiser;239254", 
+    "quote_id": 239254, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239349, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "VTCruiser;239259", 
+    "quote_id": 239259, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239350, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "VTCruiser;239348", 
+    "quote_id": 239348, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239352, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "VTCruiser;239340", 
+    "quote_id": 239340, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239355, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "georged;239352", 
+    "quote_id": 239352, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  239356, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "VTCruiser;239340", 
+    "quote_id": 239340, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  239357, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "simone;239350", 
+    "quote_id": 239350, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239381, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "jitobear;239374", 
+    "quote_id": 239374, 
+    "author": "jitobear"
+   }
+  ]
+ ]
+]

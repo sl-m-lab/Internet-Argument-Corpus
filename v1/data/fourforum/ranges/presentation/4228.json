@@ -1,0 +1,53 @@
+[
+ [
+  90765, 
+  [
+   422, 
+   424, 
+   {
+    "category": "color", 
+    "raw_data": "Red"
+   }
+  ]
+ ], 
+ [
+  90702, 
+  [
+   26, 
+   34, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  90725, 
+  [
+   26, 
+   34, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  90736, 
+  [
+   0, 
+   22, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  90738, 
+  [
+   35, 
+   51, 
+   {
+    "category": "underline"
+   }
+  ]
+ ]
+]

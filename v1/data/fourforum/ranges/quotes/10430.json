@@ -1,0 +1,253 @@
+[
+ [
+  285857, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "obvious_child;285803", 
+    "quote_id": 285803, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  285539, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "obvious_child;285522", 
+    "quote_id": 285522, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  285542, 
+  [
+   0, 
+   282, 
+   {
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285543, 
+  [
+   0, 
+   190, 
+   {
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285544, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "chemist99a;285543", 
+    "quote_id": 285543, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  285546, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "supersport;285544", 
+    "quote_id": 285544, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285547, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "chemist99a;285546", 
+    "quote_id": 285546, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  285627, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "feindslayer;285624", 
+    "quote_id": 285624, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  285627, 
+  [
+   297, 
+   368, 
+   {
+    "quote_id": 285624, 
+    "author": "feindslayer"
+   }
+  ]
+ ], 
+ [
+  285803, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "chemist99a;285770", 
+    "quote_id": 285770, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  285559, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "supersport;285539", 
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285559, 
+  [
+   234, 
+   312, 
+   {
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285559, 
+  [
+   700, 
+   807, 
+   {
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285559, 
+  [
+   971, 
+   1113, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285559, 
+  [
+   1617, 
+   1778, 
+   {
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285559, 
+  [
+   1861, 
+   1981, 
+   {
+    "quote_id": 285539, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285624, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "obvious_child;285522", 
+    "quote_id": 285522, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  285531, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "chemist99a;285526", 
+    "quote_id": 285526, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  285770, 
+  [
+   0, 
+   135, 
+   {
+    "quote_id": 285627, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  285534, 
+  [
+   0, 
+   66, 
+   {
+    "quote_id": 285531, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  285621, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "supersport;285620", 
+    "quote_id": 285620, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  285621, 
+  [
+   102, 
+   244, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ]
+]

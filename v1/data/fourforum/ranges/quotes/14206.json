@@ -1,0 +1,686 @@
+[
+ [
+  400515, 
+  [
+   0, 
+   1027, 
+   {
+    "raw_data": "Galileo;400475", 
+    "quote_id": 400475, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400518, 
+  [
+   0, 
+   491, 
+   {
+    "raw_data": "NATO 556;400488", 
+    "quote_id": 400488, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400518, 
+  [
+   795, 
+   967, 
+   {
+    "raw_data": "NATO 556;400488", 
+    "quote_id": 400488, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400518, 
+  [
+   1686, 
+   2072, 
+   {
+    "raw_data": "NATO 556;400488", 
+    "quote_id": 400488, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400519, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Shooterandproud;400515", 
+    "quote_id": 400515, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Galileo;400518", 
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   657, 
+   795, 
+   {
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   1226, 
+   1356, 
+   {
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   1647, 
+   1817, 
+   {
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   1892, 
+   2161, 
+   {
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   2342, 
+   2637, 
+   {
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400529, 
+  [
+   2784, 
+   3088, 
+   {
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400531, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Galileo;400519", 
+    "quote_id": 400519, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400531, 
+  [
+   60, 
+   313, 
+   {
+    "quote_id": 400519, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400536, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Galileo;400518", 
+    "quote_id": 400518, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400543, 
+  [
+   0, 
+   1053, 
+   {
+    "raw_data": "NATO 556;400488", 
+    "quote_id": 400488, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400544, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Galileo;400519", 
+    "quote_id": 400519, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  402161, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Winston Smith;402088", 
+    "quote_id": 402088, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  402088, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Addison48;401884", 
+    "quote_id": 401884, 
+    "author": "Addison48"
+   }
+  ]
+ ], 
+ [
+  401884, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Winston Smith;401874", 
+    "quote_id": 401874, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  402094, 
+  [
+   53, 
+   263, 
+   {
+    "raw_data": "Winston Smith;402088", 
+    "quote_id": 402088, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  402108, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Winston Smith;402100", 
+    "quote_id": 402100, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  401859, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Shooterandproud;400746", 
+    "quote_id": 400746, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  401860, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Addison48;401009", 
+    "quote_id": 401009, 
+    "author": "Addison48"
+   }
+  ]
+ ], 
+ [
+  401862, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Winston Smith;401860", 
+    "quote_id": 401860, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  401867, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "COBHC;400731", 
+    "quote_id": 400731, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  401868, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Addison48;401862", 
+    "quote_id": 401862, 
+    "author": "Addison48"
+   }
+  ]
+ ], 
+ [
+  401872, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Winston Smith;401868", 
+    "quote_id": 401868, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  400727, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Addison48;400538", 
+    "quote_id": 400538, 
+    "author": "Addison48"
+   }
+  ]
+ ], 
+ [
+  400729, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Galileo;400727", 
+    "quote_id": 400727, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400730, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Galileo;400727", 
+    "quote_id": 400727, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400731, 
+  [
+   0, 
+   67, 
+   {}
+  ]
+ ], 
+ [
+  400732, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "NATO 556;400529", 
+    "quote_id": 400529, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400732, 
+  [
+   459, 
+   1167, 
+   {
+    "raw_data": "NATO 556;400529", 
+    "quote_id": 400529, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400732, 
+  [
+   1381, 
+   1448, 
+   {
+    "raw_data": "NATO 556;400529", 
+    "quote_id": 400529, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400732, 
+  [
+   2213, 
+   2386, 
+   {
+    "raw_data": "NATO 556;400529", 
+    "quote_id": 400529, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400732, 
+  [
+   2507, 
+   2646, 
+   {
+    "raw_data": "NATO 556;400529", 
+    "quote_id": 400529, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400732, 
+  [
+   2788, 
+   3015, 
+   {
+    "raw_data": "NATO 556;400529", 
+    "quote_id": 400529, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  400746, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Galileo;400519", 
+    "quote_id": 400519, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Galileo;400732", 
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   186, 
+   391, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   620, 
+   657, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   709, 
+   1120, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   1206, 
+   1343, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   1717, 
+   1829, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   1898, 
+   2031, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400752, 
+  [
+   2191, 
+   2236, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  401009, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Galileo;400727", 
+    "quote_id": 400727, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  401939, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Winston Smith;401859", 
+    "quote_id": 401859, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  401939, 
+  [
+   410, 
+   451, 
+   {
+    "raw_data": "Winston Smith;401867", 
+    "quote_id": 401867, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Galileo;400732", 
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   160, 
+   366, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   577, 
+   777, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   826, 
+   1381, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   1568, 
+   1681, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   1821, 
+   1955, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  400758, 
+  [
+   2057, 
+   2102, 
+   {
+    "quote_id": 400732, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  401912, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "Brady;401815", 
+    "quote_id": 401815, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  401913, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Winston Smith;401874", 
+    "quote_id": 401874, 
+    "author": "Winston Smith"
+   }
+  ]
+ ]
+]

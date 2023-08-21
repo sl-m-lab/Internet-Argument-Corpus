@@ -1,0 +1,438 @@
+[
+ [
+  333447, 
+  [
+   0, 
+   87, 
+   {}
+  ]
+ ], 
+ [
+  333447, 
+  [
+   158, 
+   289, 
+   {
+    "quote_id": 333072, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333192, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Phyllis;333116", 
+    "quote_id": 333116, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333192, 
+  [
+   235, 
+   582, 
+   {}
+  ]
+ ], 
+ [
+  333192, 
+  [
+   654, 
+   804, 
+   {
+    "quote_id": 333116, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333192, 
+  [
+   1462, 
+   1589, 
+   {
+    "quote_id": 333116, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333192, 
+  [
+   1734, 
+   2192, 
+   {
+    "quote_id": 333116, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333195, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "Steeeeve;333140", 
+    "quote_id": 333140, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  333965, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "Phyllis;333491", 
+    "quote_id": 333491, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Joel_Henderson;333192", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   286, 
+   415, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   1083, 
+   1391, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   1701, 
+   1834, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   2037, 
+   2150, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   2385, 
+   2594, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   2716, 
+   3108, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333201, 
+  [
+   3413, 
+   3697, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333192, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333230, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "Joel_Henderson;333195", 
+    "quote_id": 333195, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333230, 
+  [
+   413, 
+   696, 
+   {
+    "quote_id": 333195, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333084, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "Joel_Henderson;333072", 
+    "quote_id": 333072, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333350, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "simone;333297", 
+    "quote_id": 333297, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333102, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "Phyllis;333084", 
+    "quote_id": 333084, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333104, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "Phyllis;333084", 
+    "quote_id": 333084, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  333104, 
+  [
+   2598, 
+   2812, 
+   {}
+  ]
+ ], 
+ [
+  333491, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "simone;333447", 
+    "quote_id": 333447, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  334519, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "simone;334370", 
+    "quote_id": 334370, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Joel_Henderson;333104", 
+    "quote_id": 333104, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   363, 
+   605, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333104, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   627, 
+   974, 
+   {
+    "raw_data": "Roe v. Wade", 
+    "unknown_author": "Roe v. Wade"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   1134, 
+   1714, 
+   {
+    "quote_id": 333104, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   1849, 
+   1978, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333104, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   2020, 
+   2201, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333104, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333116, 
+  [
+   3322, 
+   4186, 
+   {
+    "raw_data": "Joel_Henderson", 
+    "quote_id": 333104, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333264, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "Steeeeve;333230", 
+    "quote_id": 333230, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  350294, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "simone;350270", 
+    "quote_id": 350270, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  333297, 
+  [
+   0, 
+   130, 
+   {
+    "quote_id": 333072, 
+    "author": "Joel_Henderson"
+   }
+  ]
+ ], 
+ [
+  333175, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Steeeeve;333140", 
+    "quote_id": 333140, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  333175, 
+  [
+   302, 
+   493, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 333140, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,519 @@
+[
+ [
+  198912, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198878, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198912, 
+  [
+   168, 
+   219, 
+   {
+    "raw_data": "Kronos", 
+    "quote_id": 198901, 
+    "unknown_author": "Kronos", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198529, 
+  [
+   0, 
+   552, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198511, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198530, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198501, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198915, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198912, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198538, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198530, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198675, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198626, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198555, 
+  [
+   0, 
+   1146, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198529, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198940, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198915, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198942, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 198936, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  198568, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198433, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198727, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198716, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198727, 
+  [
+   476, 
+   633, 
+   {
+    "quote_id": 198716, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198584, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 198569, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  199098, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198912, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198716, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198675, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198848, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198732, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198848, 
+  [
+   701, 
+   815, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198763, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198979, 
+  [
+   0, 
+   766, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198940, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198979, 
+  [
+   2226, 
+   2379, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198940, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198985, 
+  [
+   519, 
+   641, 
+   {
+    "quote_id": 198979, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198732, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198716, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198732, 
+  [
+   483, 
+   642, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198716, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198482, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198471, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198484, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198482, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198485, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198482, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198878, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198848, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198878, 
+  [
+   381, 
+   483, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198848, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  198878, 
+  [
+   541, 
+   707, 
+   {
+    "raw_data": "Steve", 
+    "quote_id": 198763, 
+    "unknown_author": "Steve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198878, 
+  [
+   786, 
+   898, 
+   {
+    "raw_data": "steve", 
+    "quote_id": 198763, 
+    "unknown_author": "steve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198626, 
+  [
+   229, 
+   1013, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198538, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198499, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198485, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198500, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198471, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198501, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198500, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198763, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Wez", 
+    "quote_id": 198654, 
+    "author": "Wez"
+   }
+  ]
+ ], 
+ [
+  198763, 
+  [
+   497, 
+   878, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 198675, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  198511, 
+  [
+   0, 
+   796, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198499, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198900, 
+  [
+   0, 
+   483, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198763, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198900, 
+  [
+   1237, 
+   1445, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198763, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198901, 
+  [
+   0, 
+   548, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 198848, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  199030, 
+  [
+   0, 
+   514, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198985, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  199030, 
+  [
+   1538, 
+   1674, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198985, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  198654, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 198626, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

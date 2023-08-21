@@ -1,0 +1,125 @@
+[
+ [
+  315104, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Iuris;315066", 
+    "quote_id": 315066, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  315104, 
+  [
+   853, 
+   1242, 
+   {
+    "quote_id": 315066, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  315104, 
+  [
+   1961, 
+   2061, 
+   {
+    "quote_id": 315066, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  315366, 
+  [
+   133, 
+   196, 
+   {
+    "quote_id": 315311, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  315366, 
+  [
+   209, 
+   356, 
+   {
+    "quote_id": 315207, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  315207, 
+  [
+   0, 
+   12, 
+   {
+    "quote_id": 315104, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  315207, 
+  [
+   39, 
+   373, 
+   {
+    "quote_id": 315104, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  315207, 
+  [
+   1091, 
+   1142, 
+   {
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  315370, 
+  [
+   836, 
+   976, 
+   {
+    "raw_data": "Tony Benn", 
+    "unknown_author": "Tony Benn"
+   }
+  ]
+ ], 
+ [
+  315311, 
+  [
+   0, 
+   708, 
+   {
+    "raw_data": "Iuris;315207", 
+    "quote_id": 315207, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  315483, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Iuris;315366", 
+    "quote_id": 315366, 
+    "author": "Iuris"
+   }
+  ]
+ ]
+]

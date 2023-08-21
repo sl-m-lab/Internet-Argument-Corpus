@@ -1,0 +1,726 @@
+[
+ [
+  397568, 
+  [
+   0, 
+   1060, 
+   {
+    "raw_data": "Brigid;397547", 
+    "quote_id": 397547, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397572, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Jo Bennett;397565", 
+    "quote_id": 397565, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397830, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Penfold;397799", 
+    "quote_id": 397799, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  397577, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Jo Bennett;397565", 
+    "quote_id": 397565, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397849, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "Archangel;397792", 
+    "quote_id": 397792, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397583, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "99%BEEF;397559", 
+    "quote_id": 397559, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397583, 
+  [
+   78, 
+   145, 
+   {
+    "quote_id": 397559, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397583, 
+  [
+   201, 
+   348, 
+   {
+    "quote_id": 397559, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397584, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "Archangel;397561", 
+    "quote_id": 397561, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397585, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Jo Bennett;397565", 
+    "quote_id": 397565, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397586, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Winston Smith;397568", 
+    "quote_id": 397568, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397587, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Symbiote;397575", 
+    "quote_id": 397575, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  397591, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Winston Smith;397566", 
+    "quote_id": 397566, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397591, 
+  [
+   216, 
+   288, 
+   {
+    "raw_data": "Brigid;397583", 
+    "quote_id": 397583, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397591, 
+  [
+   534, 
+   730, 
+   {
+    "raw_data": "Brigid;397583", 
+    "quote_id": 397583, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397848, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Winston Smith;397791", 
+    "quote_id": 397791, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397593, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "99%BEEF;397591", 
+    "quote_id": 397591, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397593, 
+  [
+   331, 
+   463, 
+   {
+    "quote_id": 397591, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397593, 
+  [
+   627, 
+   1247, 
+   {
+    "quote_id": 397591, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397722, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Archangel;397668", 
+    "quote_id": 397668, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397852, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "simone;397849", 
+    "quote_id": 397849, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397597, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "99%BEEF;397559", 
+    "quote_id": 397559, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397599, 
+  [
+   0, 
+   870, 
+   {
+    "raw_data": "Archangel;397561", 
+    "quote_id": 397561, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397600, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Winston Smith;397566", 
+    "quote_id": 397566, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397601, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Symbiote;397575", 
+    "quote_id": 397575, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  397730, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Winston Smith;397722", 
+    "quote_id": 397722, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397610, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Brigid;397593", 
+    "quote_id": 397593, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397610, 
+  [
+   259, 
+   415, 
+   {
+    "raw_data": "Brigid;397593", 
+    "quote_id": 397593, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397610, 
+  [
+   721, 
+   927, 
+   {
+    "raw_data": "Brigid;397593", 
+    "quote_id": 397593, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397611, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "simone;397597", 
+    "quote_id": 397597, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397611, 
+  [
+   252, 
+   310, 
+   {
+    "raw_data": "simone;397597", 
+    "quote_id": 397597, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  397612, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "99%BEEF;397610", 
+    "quote_id": 397610, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397612, 
+  [
+   1125, 
+   1238, 
+   {
+    "quote_id": 397610, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397612, 
+  [
+   1348, 
+   1652, 
+   {
+    "quote_id": 397610, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397612, 
+  [
+   1687, 
+   1830, 
+   {
+    "quote_id": 397610, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397616, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "99%BEEF;397611", 
+    "quote_id": 397611, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397747, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "COBHC;397741", 
+    "quote_id": 397741, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397623, 
+  [
+   0, 
+   1540, 
+   {
+    "raw_data": "Brigid;397612", 
+    "quote_id": 397612, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397754, 
+  [
+   0, 
+   19, 
+   {
+    "raw_data": "Jo Bennett;397747", 
+    "quote_id": 397747, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397634, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Brigid;397584", 
+    "quote_id": 397584, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397636, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "99%BEEF;397610", 
+    "quote_id": 397610, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397636, 
+  [
+   671, 
+   769, 
+   {
+    "quote_id": 397610, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397638, 
+  [
+   0, 
+   1564, 
+   {
+    "raw_data": "Archangel;397634", 
+    "quote_id": 397634, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397640, 
+  [
+   0, 
+   625, 
+   {
+    "raw_data": "Winston Smith;397638", 
+    "quote_id": 397638, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397899, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Archangel;397852", 
+    "quote_id": 397852, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397775, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "COBHC;397754", 
+    "quote_id": 397754, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  397906, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Penfold;397799", 
+    "quote_id": 397799, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  397653, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Archangel;397640", 
+    "quote_id": 397640, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397655, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "Jo Bennett;397653", 
+    "quote_id": 397653, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397784, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Jo Bennett;397775", 
+    "quote_id": 397775, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397784, 
+  [
+   198, 
+   295, 
+   {
+    "raw_data": "Jo Bennett;382886", 
+    "unknown_quote_id": 382886, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  397659, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Brigid;397612", 
+    "quote_id": 397612, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397791, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Archangel;397730", 
+    "quote_id": 397730, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397792, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Winston Smith;397791", 
+    "quote_id": 397791, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397665, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Archangel;397640", 
+    "quote_id": 397640, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397666, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "Archangel;397640", 
+    "quote_id": 397640, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397668, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Winston Smith;397665", 
+    "quote_id": 397665, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  397799, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "Archangel;397792", 
+    "quote_id": 397792, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  397561, 
+  [
+   0, 
+   1060, 
+   {
+    "raw_data": "Brigid;397547", 
+    "quote_id": 397547, 
+    "author": "Brigid"
+   }
+  ]
+ ], 
+ [
+  397566, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "99%BEEF;397559", 
+    "quote_id": 397559, 
+    "author": "99%BEEF"
+   }
+  ]
+ ], 
+ [
+  397567, 
+  [
+   0, 
+   870, 
+   {
+    "raw_data": "Archangel;397561", 
+    "quote_id": 397561, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

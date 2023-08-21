@@ -1,0 +1,38 @@
+[
+ [
+  365323, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "Doc Jones;365301", 
+    "quote_id": 365301, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365341, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "OldSarge;365323", 
+    "quote_id": 365323, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365301, 
+  [
+   0, 
+   5385, 
+   {
+    "raw_data": "OldSarge;365005", 
+    "quote_id": 365005, 
+    "author": "OldSarge"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,38 @@
+[
+ [
+  73360, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73271, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  73460, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 73360, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  73277, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 73271, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

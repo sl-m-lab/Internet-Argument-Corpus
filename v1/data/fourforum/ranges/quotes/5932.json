@@ -1,0 +1,227 @@
+[
+ [
+  146498, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146491, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146500, 
+  [
+   0, 
+   582, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  146500, 
+  [
+   1820, 
+   2002, 
+   {
+    "quote_id": 146448, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  146373, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 146369, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  146757, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146745, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146493, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146491, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146415, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 146373, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  146448, 
+  [
+   0, 
+   598, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146415, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146448, 
+  [
+   1060, 
+   1337, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146415, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146448, 
+  [
+   1473, 
+   2181, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146415, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146815, 
+  [
+   0, 
+   890, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 146757, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  146483, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  146519, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 146493, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  146519, 
+  [
+   597, 
+   667, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 146498, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  146745, 
+  [
+   0, 
+   550, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 146661, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  146491, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 146369, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  146365, 
+  [
+   0, 
+   374, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 146364, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  146661, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146500, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146661, 
+  [
+   249, 
+   486, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146500, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

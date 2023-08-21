@@ -1,0 +1,54 @@
+[
+ [
+  91767, 
+  [
+   0, 
+   31, 
+   {
+    "category": "color", 
+    "raw_data": "Purple"
+   }
+  ]
+ ], 
+ [
+  91767, 
+  [
+   0, 
+   31, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  91767, 
+  [
+   0, 
+   31, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  91767, 
+  [
+   0, 
+   31, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  91767, 
+  [
+   0, 
+   31, 
+   {
+    "category": "center"
+   }
+  ]
+ ]
+]

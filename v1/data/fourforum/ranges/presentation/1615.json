@@ -1,0 +1,65 @@
+[
+ [
+  34653, 
+  [
+   0, 
+   76, 
+   {
+    "category": "color", 
+    "raw_data": "DarkSlateBlue"
+   }
+  ]
+ ], 
+ [
+  34653, 
+  [
+   0, 
+   76, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  37655, 
+  [
+   34, 
+   37, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  34782, 
+  [
+   0, 
+   443, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  34782, 
+  [
+   0, 
+   443, 
+   {
+    "category": "font", 
+    "raw_data": "Century Gothic"
+   }
+  ]
+ ], 
+ [
+  34782, 
+  [
+   0, 
+   443, 
+   {
+    "category": "color", 
+    "raw_data": "Indigo"
+   }
+  ]
+ ]
+]

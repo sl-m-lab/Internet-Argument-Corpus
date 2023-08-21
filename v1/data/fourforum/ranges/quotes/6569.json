@@ -1,0 +1,763 @@
+[
+ [
+  170219, 
+  [
+   0, 
+   629, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 170196, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  168966, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 168688, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169057, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 168976, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  169871, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 169146, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169871, 
+  [
+   301, 
+   359, 
+   {
+    "quote_id": 169146, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  168976, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 168966, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  170307, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "John Hanks", 
+    "quote_id": 169886, 
+    "unknown_author": "John Hanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169876, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 169155, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  169877, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169871, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169877, 
+  [
+   517, 
+   643, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169871, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169650, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 169627, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  169650, 
+  [
+   287, 
+   529, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 169627, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  169650, 
+  [
+   885, 
+   1239, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 169627, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  169881, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 169877, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169881, 
+  [
+   1208, 
+   1234, 
+   {
+    "quote_id": 169877, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169627, 
+  [
+   0, 
+   758, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  168989, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169886, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169881, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169886, 
+  [
+   706, 
+   988, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169881, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169286, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 169166, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  170406, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 170223, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  168743, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 168721, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  168946, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 168929, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  170411, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 170345, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  170411, 
+  [
+   308, 
+   671, 
+   {
+    "quote_id": 170345, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  168881, 
+  [
+   0, 
+   562, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 168562, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  168754, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 168751, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  169054, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 168961, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  168886, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 168721, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  168886, 
+  [
+   159, 
+   189, 
+   {
+    "quote_id": 168751, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  168887, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 168881, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  168888, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 168754, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  169657, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 169650, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169146, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169055, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169146, 
+  [
+   329, 
+   430, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169055, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  168891, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 168886, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  168895, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 168891, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  168895, 
+  [
+   308, 
+   419, 
+   {
+    "quote_id": 168891, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  169155, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169054, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  168775, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 168721, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  169161, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 169158, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  169166, 
+  [
+   0, 
+   586, 
+   {
+    "raw_data": "johnhanks", 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  170447, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 170406, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  170449, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 170447, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  168916, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 168887, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  170456, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 170449, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  168926, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 168916, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  168926, 
+  [
+   333, 
+   624, 
+   {
+    "quote_id": 168916, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  169055, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 168966, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  169055, 
+  [
+   393, 
+   517, 
+   {
+    "quote_id": 168966, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  168928, 
+  [
+   567, 
+   922, 
+   {}
+  ]
+ ], 
+ [
+  168929, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "Phunting", 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169826, 
+  [
+   311, 
+   1218, 
+   {
+    "raw_data": "The Nine Satanic Statements", 
+    "unknown_author": "The Nine Satanic Statements"
+   }
+  ]
+ ], 
+ [
+  169147, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 168989, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  169190, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 169166, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  169833, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "The Nine Satanic Sins", 
+    "unknown_author": "The Nine Satanic Sins"
+   }
+  ]
+ ], 
+ [
+  169835, 
+  [
+   0, 
+   1003, 
+   {
+    "raw_data": "The Eleven Satanic Rules of the Earth", 
+    "unknown_author": "The Eleven Satanic Rules of the Earth"
+   }
+  ]
+ ], 
+ [
+  169837, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 169161, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  168688, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 168562, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  168945, 
+  [
+   0, 
+   129, 
+   {
+    "quote_id": 168928, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  168945, 
+  [
+   446, 
+   531, 
+   {
+    "quote_id": 168928, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  168690, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 168688, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  170345, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169876, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  170196, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 169835, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  169841, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 168886, 
+    "author": "Phunting"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,829 @@
+[
+ [
+  258697, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "jyoshu;258684", 
+    "quote_id": 258684, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258708, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "thelmoose;258697", 
+    "quote_id": 258697, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258708, 
+  [
+   1242, 
+   1475, 
+   {
+    "raw_data": "thelmoose;258697", 
+    "quote_id": 258697, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258708, 
+  [
+   1880, 
+   1949, 
+   {
+    "raw_data": "thelmoose;258697", 
+    "quote_id": 258697, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258708, 
+  [
+   2555, 
+   2709, 
+   {
+    "raw_data": "thelmoose;258697", 
+    "quote_id": 258697, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258581, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Shooterandproud;258580", 
+    "quote_id": 258580, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258582, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Shooterandproud;258580", 
+    "quote_id": 258580, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258585, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Archangel;258582", 
+    "quote_id": 258582, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258585, 
+  [
+   446, 
+   685, 
+   {
+    "quote_id": 258582, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258970, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258589, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "Shooterandproud;258585", 
+    "quote_id": 258585, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258590, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Shooterandproud;258585", 
+    "quote_id": 258585, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258590, 
+  [
+   908, 
+   1013, 
+   {
+    "quote_id": 258585, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258981, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "thelmoose;258970", 
+    "quote_id": 258970, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259034, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "thelmoose;258968", 
+    "quote_id": 258968, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259034, 
+  [
+   1740, 
+   1837, 
+   {
+    "raw_data": "thelmoose;258968", 
+    "quote_id": 258968, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259034, 
+  [
+   2192, 
+   2537, 
+   {
+    "raw_data": "thelmoose;258968", 
+    "quote_id": 258968, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259246, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "thelmoose;259044", 
+    "quote_id": 259044, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259246, 
+  [
+   309, 
+   568, 
+   {
+    "raw_data": "thelmoose;259044", 
+    "quote_id": 259044, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258736, 
+  [
+   0, 
+   913, 
+   {
+    "raw_data": "jyoshu;258708", 
+    "quote_id": 258708, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258736, 
+  [
+   1026, 
+   1424, 
+   {
+    "raw_data": "jyoshu;258708", 
+    "quote_id": 258708, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258736, 
+  [
+   1675, 
+   1996, 
+   {
+    "raw_data": "jyoshu;258708", 
+    "quote_id": 258708, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258736, 
+  [
+   2351, 
+   2628, 
+   {
+    "raw_data": "jyoshu;258708", 
+    "quote_id": 258708, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258736, 
+  [
+   2741, 
+   3147, 
+   {
+    "raw_data": "jyoshu;258708", 
+    "quote_id": 258708, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258745, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "thelmoose;258736", 
+    "quote_id": 258736, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258745, 
+  [
+   231, 
+   468, 
+   {
+    "raw_data": "thelmoose;258736", 
+    "quote_id": 258736, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258745, 
+  [
+   1562, 
+   1887, 
+   {
+    "raw_data": "thelmoose;258736", 
+    "quote_id": 258736, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258751, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "thelmoose;258747", 
+    "quote_id": 258747, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259015, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Zardoz;258981", 
+    "quote_id": 258981, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  258632, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Shooterandproud;258585", 
+    "quote_id": 258585, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258769, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "jyoshu;258751", 
+    "quote_id": 258751, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258769, 
+  [
+   523, 
+   896, 
+   {
+    "raw_data": "jyoshu;258751", 
+    "quote_id": 258751, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258770, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "thelmoose;258769", 
+    "quote_id": 258769, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258770, 
+  [
+   198, 
+   338, 
+   {
+    "raw_data": "thelmoose;258769", 
+    "quote_id": 258769, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258770, 
+  [
+   487, 
+   781, 
+   {
+    "raw_data": "thelmoose;258769", 
+    "quote_id": 258769, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258770, 
+  [
+   1247, 
+   1549, 
+   {
+    "raw_data": "thelmoose;258769", 
+    "quote_id": 258769, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258645, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258646, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "thelmoose;258645", 
+    "quote_id": 258645, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  259257, 
+  [
+   0, 
+   382, 
+   {
+    "raw_data": "jyoshu;259246", 
+    "quote_id": 259246, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258905, 
+  [
+   23, 
+   627, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258650, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "jyoshu;258646", 
+    "quote_id": 258646, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258651, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Zardoz;258632", 
+    "quote_id": 258632, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  258651, 
+  [
+   201, 
+   428, 
+   {
+    "quote_id": 258632, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  258651, 
+  [
+   514, 
+   828, 
+   {
+    "quote_id": 258632, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  258651, 
+  [
+   1003, 
+   1216, 
+   {
+    "quote_id": 258632, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  258653, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258653, 
+  [
+   824, 
+   1259, 
+   {
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258653, 
+  [
+   1805, 
+   2333, 
+   {
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258653, 
+  [
+   2538, 
+   2988, 
+   {
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258655, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jyoshu;258646", 
+    "quote_id": 258646, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258655, 
+  [
+   146, 
+   606, 
+   {
+    "quote_id": 258646, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258655, 
+  [
+   706, 
+   969, 
+   {
+    "quote_id": 258646, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258655, 
+  [
+   1335, 
+   1459, 
+   {
+    "quote_id": 258646, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258655, 
+  [
+   1553, 
+   1850, 
+   {
+    "quote_id": 258646, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258659, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "thelmoose;258650", 
+    "quote_id": 258650, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258659, 
+  [
+   524, 
+   608, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 258655, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  258659, 
+  [
+   1624, 
+   1845, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 258655, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  259044, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "jyoshu;259034", 
+    "quote_id": 259034, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  259044, 
+  [
+   1412, 
+   1676, 
+   {
+    "raw_data": "jyoshu;259034", 
+    "quote_id": 259034, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  259044, 
+  [
+   1702, 
+   1995, 
+   {
+    "quote_id": 258773, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258661, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "jyoshu;258659", 
+    "quote_id": 258659, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  258662, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  258663, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Zardoz;258632", 
+    "quote_id": 258632, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  259047, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  259047, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "gaetano;258891", 
+    "quote_id": 258891, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  259052, 
+  [
+   25, 
+   347, 
+   {
+    "raw_data": "gaetano;258891", 
+    "quote_id": 258891, 
+    "author": "gaetano"
+   }
+  ]
+ ], 
+ [
+  258925, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Archangel;258590", 
+    "quote_id": 258590, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  259317, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "thelmoose;259257", 
+    "quote_id": 259257, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258684, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "thelmoose;258661", 
+    "quote_id": 258661, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  258773, 
+  [
+   0, 
+   558, 
+   {
+    "raw_data": "jyoshu;258770", 
+    "quote_id": 258770, 
+    "author": "jyoshu"
+   }
+  ]
+ ]
+]

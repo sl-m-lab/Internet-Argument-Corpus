@@ -1,0 +1,897 @@
+[
+ [
+  292268, 
+  [
+   3043, 
+   3083, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303655, 
+  [
+   75, 
+   79, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  303655, 
+  [
+   0, 
+   136, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  303655, 
+  [
+   0, 
+   136, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303655, 
+  [
+   0, 
+   136, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  303655, 
+  [
+   141, 
+   145, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303244, 
+  [
+   362, 
+   373, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303294, 
+  [
+   51, 
+   62, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303294, 
+  [
+   170, 
+   187, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292034, 
+  [
+   254, 
+   276, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292037, 
+  [
+   254, 
+   276, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292037, 
+  [
+   822, 
+   4910, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292037, 
+  [
+   822, 
+   4910, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292039, 
+  [
+   0, 
+   20, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292040, 
+  [
+   0, 
+   4579, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Sienna&quot;"
+   }
+  ]
+ ], 
+ [
+  292040, 
+  [
+   0, 
+   4579, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292040, 
+  [
+   0, 
+   4579, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292041, 
+  [
+   0, 
+   5897, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Sienna&quot;"
+   }
+  ]
+ ], 
+ [
+  292041, 
+  [
+   0, 
+   5897, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292041, 
+  [
+   0, 
+   5897, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292044, 
+  [
+   0, 
+   4707, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Sienna&quot;"
+   }
+  ]
+ ], 
+ [
+  292044, 
+  [
+   0, 
+   4707, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292044, 
+  [
+   0, 
+   4707, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292047, 
+  [
+   397, 
+   4485, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292047, 
+  [
+   397, 
+   4485, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292047, 
+  [
+   4617, 
+   4745, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292052, 
+  [
+   254, 
+   276, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292053, 
+  [
+   966, 
+   1009, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   0, 
+   235, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   366, 
+   596, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   716, 
+   858, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   932, 
+   1160, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   1203, 
+   1218, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   1287, 
+   1595, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   1740, 
+   2395, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   2613, 
+   2950, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   3065, 
+   3102, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   3213, 
+   3428, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   3579, 
+   3665, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   3815, 
+   3859, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   3937, 
+   4037, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292055, 
+  [
+   4073, 
+   4081, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292057, 
+  [
+   35, 
+   43, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292090, 
+  [
+   397, 
+   4485, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292090, 
+  [
+   397, 
+   4485, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292095, 
+  [
+   0, 
+   20, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292118, 
+  [
+   536, 
+   591, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292138, 
+  [
+   412, 
+   422, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292138, 
+  [
+   2210, 
+   2223, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292138, 
+  [
+   2348, 
+   2364, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  306015, 
+  [
+   1240, 
+   1310, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303481, 
+  [
+   75, 
+   79, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  303481, 
+  [
+   0, 
+   136, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  303481, 
+  [
+   0, 
+   136, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  303481, 
+  [
+   0, 
+   136, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  297363, 
+  [
+   112, 
+   153, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292250, 
+  [
+   370, 
+   2026, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  292250, 
+  [
+   370, 
+   2026, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292250, 
+  [
+   370, 
+   2026, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292251, 
+  [
+   93, 
+   7378, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  292251, 
+  [
+   93, 
+   7378, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292251, 
+  [
+   93, 
+   7378, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292254, 
+  [
+   93, 
+   223, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  292254, 
+  [
+   93, 
+   223, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292254, 
+  [
+   93, 
+   223, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292255, 
+  [
+   370, 
+   1134, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  292255, 
+  [
+   370, 
+   1134, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292255, 
+  [
+   370, 
+   1134, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292256, 
+  [
+   836, 
+   3618, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292259, 
+  [
+   5, 
+   35, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292259, 
+  [
+   433, 
+   462, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292259, 
+  [
+   934, 
+   964, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292259, 
+  [
+   934, 
+   964, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  292259, 
+  [
+   1484, 
+   1487, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292262, 
+  [
+   96, 
+   131, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292264, 
+  [
+   221, 
+   490, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292264, 
+  [
+   495, 
+   889, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  292264, 
+  [
+   495, 
+   889, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292264, 
+  [
+   198, 
+   2646, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Navy&quot;"
+   }
+  ]
+ ], 
+ [
+  292264, 
+  [
+   198, 
+   2646, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;3&quot;"
+   }
+  ]
+ ], 
+ [
+  292264, 
+  [
+   198, 
+   2646, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292265, 
+  [
+   96, 
+   131, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  292266, 
+  [
+   798, 
+   855, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  292267, 
+  [
+   0, 
+   1751, 
+   {
+    "category": "indent"
+   }
+  ]
+ ], 
+ [
+  292267, 
+  [
+   2335, 
+   2339, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  297402, 
+  [
+   2996, 
+   2999, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  305569, 
+  [
+   295, 
+   298, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

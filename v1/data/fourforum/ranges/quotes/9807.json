@@ -1,0 +1,403 @@
+[
+ [
+  260354, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "gamehuis;260166", 
+    "quote_id": 260166, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260145, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "gamehuis;260096", 
+    "quote_id": 260096, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260381, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "gamehuis;260166", 
+    "quote_id": 260166, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260381, 
+  [
+   708, 
+   1083, 
+   {
+    "raw_data": "gamehuis;260166", 
+    "quote_id": 260166, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260391, 
+  [
+   0, 
+   154, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260391, 
+  [
+   268, 
+   384, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260391, 
+  [
+   616, 
+   714, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260391, 
+  [
+   858, 
+   974, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260391, 
+  [
+   1146, 
+   1362, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260391, 
+  [
+   1818, 
+   1950, 
+   {
+    "quote_id": 260164, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  260398, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "Master_Shake;260381", 
+    "quote_id": 260381, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  260401, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "gamehuis;260398", 
+    "quote_id": 260398, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260401, 
+  [
+   269, 
+   453, 
+   {
+    "raw_data": "gamehuis;260398", 
+    "quote_id": 260398, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260402, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Master_Shake;260401", 
+    "quote_id": 260401, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  260404, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "gamehuis;260096", 
+    "quote_id": 260096, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260153, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "wascallywabbit;260145", 
+    "quote_id": 260145, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260155, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "gamehuis;260096", 
+    "quote_id": 260096, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260162, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Master_Shake;260155", 
+    "quote_id": 260155, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  260164, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "gamehuis;260162", 
+    "quote_id": 260162, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260166, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Master_Shake;260164", 
+    "quote_id": 260164, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  260166, 
+  [
+   377, 
+   814, 
+   {
+    "raw_data": "Master_Shake;260164", 
+    "quote_id": 260164, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  260177, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "gamehuis;260166", 
+    "quote_id": 260166, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260183, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "wascallywabbit;260145", 
+    "quote_id": 260145, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260183, 
+  [
+   617, 
+   941, 
+   {
+    "quote_id": 260145, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260443, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "gamehuis;260402", 
+    "quote_id": 260402, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260191, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "jitobear;260171", 
+    "quote_id": 260171, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  260197, 
+  [
+   0, 
+   656, 
+   {}
+  ]
+ ], 
+ [
+  260197, 
+  [
+   735, 
+   1056, 
+   {
+    "quote_id": 260153, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260197, 
+  [
+   1465, 
+   1672, 
+   {
+    "quote_id": 260153, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260197, 
+  [
+   1879, 
+   2084, 
+   {
+    "quote_id": 260153, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260197, 
+  [
+   3340, 
+   3381, 
+   {
+    "quote_id": 260153, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260197, 
+  [
+   3509, 
+   3665, 
+   {
+    "quote_id": 260153, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260197, 
+  [
+   3968, 
+   4288, 
+   {
+    "quote_id": 260153, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  260214, 
+  [
+   797, 
+   990, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  260214, 
+  [
+   1202, 
+   2061, 
+   {
+    "quote_id": 260197, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ]
+]

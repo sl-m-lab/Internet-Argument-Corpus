@@ -1,0 +1,364 @@
+[
+ [
+  271866, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "supersport;271847", 
+    "quote_id": 271847, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271874, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "chemist99a;271840", 
+    "quote_id": 271840, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271748, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "chemist99a;271740", 
+    "quote_id": 271740, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271749, 
+  [
+   0, 
+   112, 
+   {
+    "quote_id": 271748, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271749, 
+  [
+   458, 
+   725, 
+   {
+    "quote_id": 271752, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271886, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "wascallywabbit;271874", 
+    "quote_id": 271874, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271762, 
+  [
+   0, 
+   412, 
+   {
+    "quote_id": 271752, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271773, 
+  [
+   0, 
+   1139, 
+   {
+    "raw_data": "chemist99a;271762", 
+    "quote_id": 271762, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271775, 
+  [
+   0, 
+   1141, 
+   {
+    "raw_data": "chemist99a;271691", 
+    "quote_id": 271691, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271818, 
+  [
+   0, 
+   58, 
+   {
+    "quote_id": 271773, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271818, 
+  [
+   143, 
+   488, 
+   {}
+  ]
+ ], 
+ [
+  271818, 
+  [
+   494, 
+   645, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271818, 
+  [
+   2168, 
+   2274, 
+   {
+    "quote_id": 271773, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271819, 
+  [
+   0, 
+   1370, 
+   {
+    "raw_data": "wascallywabbit;271775", 
+    "quote_id": 271775, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271824, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "chemist99a;271819", 
+    "quote_id": 271819, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271828, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "wascallywabbit;271824", 
+    "quote_id": 271824, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271831, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Klown;271828", 
+    "quote_id": 271828, 
+    "author": "Klown"
+   }
+  ]
+ ], 
+ [
+  271832, 
+  [
+   0, 
+   452, 
+   {
+    "quote_id": 271824, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271835, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "chemist99a;271832", 
+    "quote_id": 271832, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271836, 
+  [
+   0, 
+   161, 
+   {
+    "quote_id": 271773, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271836, 
+  [
+   462, 
+   598, 
+   {
+    "quote_id": 271773, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271836, 
+  [
+   1360, 
+   1584, 
+   {
+    "quote_id": 271773, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271840, 
+  [
+   0, 
+   264, 
+   {
+    "quote_id": 271835, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271841, 
+  [
+   0, 
+   127, 
+   {
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271841, 
+  [
+   235, 
+   343, 
+   {
+    "quote_id": 271773, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271841, 
+  [
+   349, 
+   826, 
+   {
+    "quote_id": 271818, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271847, 
+  [
+   136, 
+   864, 
+   {
+    "raw_data": "chemist99a;271841", 
+    "quote_id": 271841, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271853, 
+  [
+   2, 
+   41, 
+   {
+    "quote_id": 271847, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271731, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "supersport;271724", 
+    "quote_id": 271724, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271733, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "chemist99a;271731", 
+    "quote_id": 271731, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271735, 
+  [
+   0, 
+   90, 
+   {
+    "quote_id": 271733, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  271738, 
+  [
+   0, 
+   936, 
+   {
+    "raw_data": "chemist99a;271735", 
+    "quote_id": 271735, 
+    "author": "chemist99a"
+   }
+  ]
+ ]
+]

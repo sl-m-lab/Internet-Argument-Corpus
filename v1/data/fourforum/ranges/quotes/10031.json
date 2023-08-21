@@ -1,0 +1,132 @@
+[
+ [
+  271842, 
+  [
+   0, 
+   614, 
+   {}
+  ]
+ ], 
+ [
+  271929, 
+  [
+   0, 
+   1010, 
+   {
+    "raw_data": "chemist99a;271888", 
+    "quote_id": 271888, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271888, 
+  [
+   0, 
+   448, 
+   {
+    "quote_id": 271868, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271953, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "wascallywabbit;271933", 
+    "quote_id": 271933, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  269428, 
+  [
+   36, 
+   2524, 
+   {}
+  ]
+ ], 
+ [
+  269431, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "chemist99a;269429", 
+    "quote_id": 269429, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  269431, 
+  [
+   372, 
+   1889, 
+   {}
+  ]
+ ], 
+ [
+  271833, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "prschuster;271723", 
+    "quote_id": 271723, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  271931, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "wascallywabbit;271929", 
+    "quote_id": 271929, 
+    "author": "wascallywabbit"
+   }
+  ]
+ ], 
+ [
+  271868, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "chemist99a;271842", 
+    "quote_id": 271842, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271868, 
+  [
+   1826, 
+   1926, 
+   {
+    "quote_id": 271842, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271933, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "chemist99a;271931", 
+    "quote_id": 271931, 
+    "author": "chemist99a"
+   }
+  ]
+ ]
+]

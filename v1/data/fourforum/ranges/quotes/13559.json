@@ -1,0 +1,38 @@
+[
+ [
+  379351, 
+  [
+   0, 
+   2021, 
+   {
+    "raw_data": "Montanae;377716", 
+    "quote_id": 377716, 
+    "author": "Montanae"
+   }
+  ]
+ ], 
+ [
+  379608, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Winston Smith;379351", 
+    "quote_id": 379351, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  379065, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "SeriousSister08;378957", 
+    "quote_id": 378957, 
+    "author": "SeriousSister08"
+   }
+  ]
+ ]
+]

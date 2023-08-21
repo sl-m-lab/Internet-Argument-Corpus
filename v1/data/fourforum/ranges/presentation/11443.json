@@ -1,0 +1,463 @@
+[
+ [
+  324498, 
+  [
+   125, 
+   128, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  325147, 
+  [
+   127, 
+   131, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  325147, 
+  [
+   369, 
+   371, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  325155, 
+  [
+   61, 
+   65, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  325155, 
+  [
+   303, 
+   305, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  325166, 
+  [
+   50, 
+   55, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  325166, 
+  [
+   99, 
+   102, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  325169, 
+  [
+   10, 
+   15, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  325169, 
+  [
+   59, 
+   62, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324540, 
+  [
+   151, 
+   192, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  324671, 
+  [
+   64, 
+   111, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324671, 
+  [
+   64, 
+   111, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   64, 
+   111, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   64, 
+   111, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   704, 
+   707, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   708, 
+   726, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkOrange&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   727, 
+   733, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Lime&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   734, 
+   740, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;RoyalBlue&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   740, 
+   745, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Purple&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   746, 
+   748, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   749, 
+   761, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;7&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   704, 
+   761, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   643, 
+   762, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  324676, 
+  [
+   564, 
+   762, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  324681, 
+  [
+   64, 
+   111, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324681, 
+  [
+   64, 
+   111, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  319050, 
+  [
+   356, 
+   361, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324308, 
+  [
+   1361, 
+   1393, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  324308, 
+  [
+   1361, 
+   1393, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324311, 
+  [
+   0, 
+   32, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  324311, 
+  [
+   0, 
+   32, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324575, 
+  [
+   5, 
+   46, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  319213, 
+  [
+   336, 
+   341, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  319213, 
+  [
+   609, 
+   612, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  319213, 
+  [
+   1886, 
+   1892, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  319213, 
+  [
+   2267, 
+   2278, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  319213, 
+  [
+   2545, 
+   2555, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  319213, 
+  [
+   3431, 
+   3436, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  326584, 
+  [
+   124, 
+   126, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  326584, 
+  [
+   1324, 
+   1326, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  326584, 
+  [
+   1691, 
+   1702, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  326584, 
+  [
+   2314, 
+   2317, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  324471, 
+  [
+   125, 
+   128, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  324345, 
+  [
+   0, 
+   32, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  324345, 
+  [
+   0, 
+   32, 
+   {
+    "category": "italic"
+   }
+  ]
+ ]
+]

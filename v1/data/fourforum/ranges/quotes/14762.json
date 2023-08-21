@@ -1,0 +1,699 @@
+[
+ [
+  419179, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Easyrider;419175", 
+    "quote_id": 419175, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419205, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Bennedict;419194", 
+    "quote_id": 419194, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  418444, 
+  [
+   0, 
+   1427, 
+   {
+    "raw_data": "Bassman;418411", 
+    "quote_id": 418411, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  419817, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Xcaliber;419320", 
+    "quote_id": 419320, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  419161, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "Easyrider;419134", 
+    "quote_id": 419134, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  418457, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Bassman;418411", 
+    "quote_id": 418411, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  418458, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Xcaliber;418376", 
+    "quote_id": 418376, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  418461, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Bennedict;418444", 
+    "quote_id": 418444, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  418464, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Bassman;418461", 
+    "quote_id": 418461, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  419879, 
+  [
+   0, 
+   471, 
+   {
+    "raw_data": "jazyjason;419836", 
+    "quote_id": 419836, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  419243, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Bennedict;419179", 
+    "quote_id": 419179, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  419826, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Stonewall;419825", 
+    "quote_id": 419825, 
+    "author": "Stonewall"
+   }
+  ]
+ ], 
+ [
+  419891, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Easyrider;419879", 
+    "quote_id": 419879, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419891, 
+  [
+   140, 
+   224, 
+   {
+    "quote_id": 419879, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419255, 
+  [
+   0, 
+   792, 
+   {
+    "raw_data": "pappillion001;419243", 
+    "quote_id": 419243, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  419260, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Easyrider;419255", 
+    "quote_id": 419255, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419261, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Easyrider;419255", 
+    "quote_id": 419255, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419134, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Bennedict;418937", 
+    "quote_id": 418937, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  419775, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Xcaliber;419773", 
+    "quote_id": 419773, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  419008, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Bennedict;418934", 
+    "quote_id": 418934, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  419777, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Bennedict;419775", 
+    "quote_id": 419775, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  418378, 
+  [
+   0, 
+   704, 
+   {
+    "raw_data": "Xcaliber;418376", 
+    "quote_id": 418376, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  418382, 
+  [
+   0, 
+   598, 
+   {
+    "raw_data": "Easyrider;418378", 
+    "quote_id": 418378, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  418384, 
+  [
+   0, 
+   773, 
+   {
+    "raw_data": "Bennedict;418382", 
+    "quote_id": 418382, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  419284, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Easyrider;419255", 
+    "quote_id": 419255, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419285, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Xcaliber;419260", 
+    "quote_id": 419260, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  419288, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "pappillion001;419285", 
+    "quote_id": 419285, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  418393, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Easyrider;418384", 
+    "quote_id": 418384, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419291, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "pappillion001;419285", 
+    "quote_id": 419285, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  419296, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Easyrider;419291", 
+    "quote_id": 419291, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419175, 
+  [
+   0, 
+   1251, 
+   {
+    "raw_data": "Xcaliber;419171", 
+    "quote_id": 419171, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   116, 
+   318, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   493, 
+   717, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   1201, 
+   1423, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   2281, 
+   2575, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   3236, 
+   3492, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   4853, 
+   5162, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   5950, 
+   6150, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   6772, 
+   7057, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   7928, 
+   8195, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  420072, 
+  [
+   8989, 
+   9356, 
+   {
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419177, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Easyrider;419175", 
+    "quote_id": 419175, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  418410, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Bennedict;418406", 
+    "quote_id": 418406, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  418411, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "Xcaliber;418410", 
+    "quote_id": 418410, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  419820, 
+  [
+   0, 
+   3771, 
+   {
+    "raw_data": "Easyrider;419817", 
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419773, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Bennedict;419769", 
+    "quote_id": 419769, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  419825, 
+  [
+   0, 
+   6525, 
+   {
+    "raw_data": "Easyrider;419817", 
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419186, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Bennedict;419179", 
+    "quote_id": 419179, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  418932, 
+  [
+   0, 
+   1199, 
+   {
+    "raw_data": "Stonewall;418469", 
+    "quote_id": 418469, 
+    "author": "Stonewall"
+   }
+  ]
+ ], 
+ [
+  419317, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "snakespit;419299", 
+    "quote_id": 419299, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  418934, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Bassman;418461", 
+    "quote_id": 418461, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  418423, 
+  [
+   0, 
+   602, 
+   {
+    "raw_data": "Bennedict;418372", 
+    "quote_id": 418372, 
+    "author": "Bennedict"
+   }
+  ]
+ ], 
+ [
+  418936, 
+  [
+   0, 
+   1199, 
+   {
+    "raw_data": "Stonewall;418469", 
+    "quote_id": 418469, 
+    "author": "Stonewall"
+   }
+  ]
+ ], 
+ [
+  418937, 
+  [
+   0, 
+   974, 
+   {
+    "raw_data": "Xcaliber;418935", 
+    "quote_id": 418935, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  419194, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Easyrider;419186", 
+    "quote_id": 419186, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419903, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Easyrider;419879", 
+    "quote_id": 419879, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419903, 
+  [
+   131, 
+   167, 
+   {
+    "raw_data": "Easyrider;419879 ", 
+    "quote_id": 419879, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419903, 
+  [
+   230, 
+   314, 
+   {
+    "raw_data": "Easyrider;419879", 
+    "quote_id": 419879, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  419836, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Easyrider;419817", 
+    "quote_id": 419817, 
+    "author": "Easyrider"
+   }
+  ]
+ ]
+]

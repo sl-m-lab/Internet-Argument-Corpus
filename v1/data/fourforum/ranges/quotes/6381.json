@@ -1,0 +1,141 @@
+[
+ [
+  160712, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 160701, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  160811, 
+  [
+   0, 
+   34, 
+   {
+    "quote_id": 160723, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  160844, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Iuris", 
+    "quote_id": 160811, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  161202, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 160847, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  161202, 
+  [
+   470, 
+   642, 
+   {
+    "quote_id": 160847, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  160847, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 160844, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  160723, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 160712, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  160852, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 160847, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  160701, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 160658, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  160701, 
+  [
+   174, 
+   215, 
+   {
+    "quote_id": 160658, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  160701, 
+  [
+   275, 
+   305, 
+   {
+    "quote_id": 160658, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  160701, 
+  [
+   718, 
+   808, 
+   {
+    "quote_id": 160658, 
+    "author": "gnojek"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,448 @@
+[
+ [
+  202003, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201962, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202003, 
+  [
+   459, 
+   594, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201962, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202003, 
+  [
+   791, 
+   1575, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201962, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202073, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 202003, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  202073, 
+  [
+   505, 
+   827, 
+   {}
+  ]
+ ], 
+ [
+  202013, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201904, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201632, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201630, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202019, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 202003, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  201764, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 201760, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202076, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 202019, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202026, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201630, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202157, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202082, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201904, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Dono", 
+    "quote_id": 201831, 
+    "author": "Dono"
+   }
+  ]
+ ], 
+ [
+  202078, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 202076, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201909, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201904, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201912, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 201909, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  201914, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 201913, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  201760, 
+  [
+   210, 
+   1628, 
+   {}
+  ]
+ ], 
+ [
+  201926, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201914, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201933, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201914, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201934, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 201933, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  201938, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201934, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201942, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201938, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201945, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201945, 
+  [
+   216, 
+   288, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201942, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201948, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201949, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201934, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201950, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 201949, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  201952, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201950, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201952, 
+  [
+   273, 
+   421, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201950, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201953, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201948, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  202082, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 202078, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201831, 
+  [
+   0, 
+   590, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 201764, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  201962, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "johnson", 
+    "quote_id": 201952, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  201962, 
+  [
+   168, 
+   384, 
+   {
+    "quote_id": 201952, 
+    "author": "johnson"
+   }
+  ]
+ ], 
+ [
+  201963, 
+  [
+   0, 
+   621, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201953, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  201967, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 201963, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  201968, 
+  [
+   0, 
+   609, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 201967, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

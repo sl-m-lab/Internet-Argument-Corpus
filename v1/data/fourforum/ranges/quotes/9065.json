@@ -1,0 +1,1771 @@
+[
+ [
+  236547, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "epaphras_faith;236492", 
+    "quote_id": 236492, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "simone;236547", 
+    "quote_id": 236547, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   506, 
+   666, 
+   {
+    "quote_id": 235939, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   703, 
+   925, 
+   {
+    "quote_id": 235944, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   949, 
+   1706, 
+   {
+    "quote_id": 236197, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   1734, 
+   1967, 
+   {
+    "quote_id": 236198, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   1992, 
+   2727, 
+   {
+    "quote_id": 236204, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  236560, 
+  [
+   2795, 
+   3264, 
+   {
+    "quote_id": 236381, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236563, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Easyrider;236536", 
+    "quote_id": 236536, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  236600, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "INRI;236525", 
+    "quote_id": 236525, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236602, 
+  [
+   0, 
+   840, 
+   {
+    "raw_data": "Matthew S;236600", 
+    "quote_id": 236600, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236605, 
+  [
+   0, 
+   1111, 
+   {
+    "raw_data": "peteratwar;236602", 
+    "quote_id": 236602, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236614, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Matthew S;236605", 
+    "quote_id": 236605, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236635, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "peteratwar;236614", 
+    "quote_id": 236614, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236646, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Matthew S;236635", 
+    "quote_id": 236635, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236651, 
+  [
+   0, 
+   929, 
+   {
+    "raw_data": "peteratwar;236646", 
+    "quote_id": 236646, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236149, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "Matthew S;235939", 
+    "quote_id": 235939, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236179, 
+  [
+   308, 
+   397, 
+   {
+    "quote_id": 235939, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236182, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "INRI;236180", 
+    "quote_id": 236180, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236695, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Matthew S;236605", 
+    "quote_id": 236605, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236188, 
+  [
+   0, 
+   28, 
+   {}
+  ]
+ ], 
+ [
+  236190, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "Matthew S;235939", 
+    "quote_id": 235939, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236204, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "jitobear;236198", 
+    "quote_id": 236198, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236719, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Matthew S;236651", 
+    "quote_id": 236651, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236210, 
+  [
+   0, 
+   713, 
+   {
+    "raw_data": "epaphras_faith;236204", 
+    "quote_id": 236204, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  236230, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "jitobear;236210", 
+    "quote_id": 236210, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236747, 
+  [
+   0, 
+   952, 
+   {
+    "raw_data": "peteratwar;236719", 
+    "quote_id": 236719, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236757, 
+  [
+   0, 
+   848, 
+   {
+    "raw_data": "Matthew S;236747", 
+    "quote_id": 236747, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236760, 
+  [
+   0, 
+   659, 
+   {
+    "raw_data": "INRI;236754", 
+    "quote_id": 236754, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236760, 
+  [
+   780, 
+   1318, 
+   {
+    "raw_data": "INRI;236754", 
+    "quote_id": 236754, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236410, 
+  [
+   0, 
+   1318, 
+   {
+    "raw_data": "epaphras_faith;236230", 
+    "quote_id": 236230, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  236260, 
+  [
+   0, 
+   1318, 
+   {
+    "raw_data": "epaphras_faith;236230", 
+    "quote_id": 236230, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  236783, 
+  [
+   239, 
+   308, 
+   {}
+  ]
+ ], 
+ [
+  236786, 
+  [
+   0, 
+   111, 
+   {
+    "quote_id": 236760, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236786, 
+  [
+   596, 
+   724, 
+   {
+    "quote_id": 236760, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236789, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236789, 
+  [
+   560, 
+   581, 
+   {
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236790, 
+  [
+   0, 
+   41, 
+   {
+    "quote_id": 236783, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236790, 
+  [
+   183, 
+   272, 
+   {}
+  ]
+ ], 
+ [
+  236793, 
+  [
+   0, 
+   59, 
+   {
+    "quote_id": 236789, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  237317, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "Matthew S;236922", 
+    "quote_id": 236922, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  237321, 
+  [
+   0, 
+   230, 
+   {
+    "quote_id": 237320, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  237324, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "INRI;237321", 
+    "quote_id": 237321, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  237330, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "johnhanks;237034", 
+    "quote_id": 237034, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  236313, 
+  [
+   0, 
+   1602, 
+   {
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236314, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236314, 
+  [
+   196, 
+   625, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236314, 
+  [
+   908, 
+   1045, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236314, 
+  [
+   1165, 
+   1562, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236314, 
+  [
+   1657, 
+   2051, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236315, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236318, 
+  [
+   0, 
+   1602, 
+   {
+    "raw_data": "INRI;236212", 
+    "quote_id": 236212, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  237348, 
+  [
+   0, 
+   620, 
+   {
+    "raw_data": "Matthew S;237324", 
+    "quote_id": 237324, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  237447, 
+  [
+   0, 
+   1952, 
+   {
+    "raw_data": "jitobear;236865", 
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236344, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "simone;236327", 
+    "quote_id": 236327, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236345, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Jo Bennett;236320", 
+    "quote_id": 236320, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  236347, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "jyoshu;236318", 
+    "quote_id": 236318, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236348, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "simone;236327", 
+    "quote_id": 236327, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236349, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "trebor;236344", 
+    "quote_id": 236344, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   165, 
+   230, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   315, 
+   354, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   379, 
+   632, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   812, 
+   1013, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   1087, 
+   1675, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   1859, 
+   2082, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236865, 
+  [
+   2208, 
+   2634, 
+   {
+    "raw_data": "INRI;236786", 
+    "quote_id": 236786, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  237381, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "simone;237001", 
+    "quote_id": 237001, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236361, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "jyoshu;236353", 
+    "quote_id": 236353, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   0, 
+   27, 
+   {
+    "quote_id": 236314, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   1756, 
+   1841, 
+   {
+    "quote_id": 236314, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   2265, 
+   2350, 
+   {
+    "quote_id": 236314, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   2766, 
+   2874, 
+   {
+    "quote_id": 236315, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   3894, 
+   4015, 
+   {
+    "quote_id": 236320, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   4221, 
+   4300, 
+   {
+    "quote_id": 236320, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   5512, 
+   5568, 
+   {
+    "quote_id": 236347, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236363, 
+  [
+   5840, 
+   5947, 
+   {
+    "quote_id": 236327, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236375, 
+  [
+   0, 
+   694, 
+   {
+    "raw_data": "jitobear;236260", 
+    "quote_id": 236260, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   475, 
+   891, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   1013, 
+   1099, 
+   {}
+  ]
+ ], 
+ [
+  236384, 
+  [
+   1439, 
+   1587, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   2017, 
+   2146, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   2176, 
+   2311, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   2464, 
+   2688, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   2875, 
+   3002, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   3069, 
+   3208, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   3374, 
+   3597, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   3728, 
+   3926, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236384, 
+  [
+   4051, 
+   4118, 
+   {
+    "raw_data": "INRI;236363", 
+    "quote_id": 236363, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236385, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "simone;236381", 
+    "quote_id": 236381, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   0, 
+   135, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   447, 
+   645, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   717, 
+   735, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   904, 
+   965, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   1253, 
+   1310, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   1512, 
+   1670, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   1733, 
+   1762, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   1883, 
+   1991, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236392, 
+  [
+   2301, 
+   2494, 
+   {
+    "quote_id": 236384, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236396, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   0, 
+   71, 
+   {
+    "quote_id": 236858, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   407, 
+   456, 
+   {
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   547, 
+   622, 
+   {
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   1214, 
+   1382, 
+   {
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   1476, 
+   1540, 
+   {
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   1624, 
+   1728, 
+   {
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236914, 
+  [
+   1789, 
+   1837, 
+   {
+    "quote_id": 236865, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236922, 
+  [
+   0, 
+   596, 
+   {
+    "raw_data": "peteratwar;236757", 
+    "quote_id": 236757, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236922, 
+  [
+   683, 
+   895, 
+   {
+    "quote_id": 236757, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  236411, 
+  [
+   0, 
+   158, 
+   {
+    "quote_id": 236396, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  236353, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Matthew S;236347", 
+    "quote_id": 236347, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  237448, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "peteratwar;237317", 
+    "quote_id": 237317, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  237452, 
+  [
+   0, 
+   620, 
+   {
+    "raw_data": "Matthew S;237324", 
+    "quote_id": 237324, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236432, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  237457, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "Steeeeve;237452", 
+    "quote_id": 237452, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  236437, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "jitobear;236432", 
+    "quote_id": 236432, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236455, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Easyrider;236437", 
+    "quote_id": 236437, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  235944, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "Matthew S;235939", 
+    "quote_id": 235939, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236457, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "jitobear;236455", 
+    "quote_id": 236455, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  236972, 
+  [
+   0, 
+   160, 
+   {
+    "quote_id": 236922, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   918, 
+   1024, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   1070, 
+   1244, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   1335, 
+   1629, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   1758, 
+   1842, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   2025, 
+   2099, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   2297, 
+   2348, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236975, 
+  [
+   2392, 
+   2557, 
+   {
+    "raw_data": "INRI;236914", 
+    "quote_id": 236914, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236465, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "trebor;236457", 
+    "quote_id": 236457, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236978, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "INRI;236972", 
+    "quote_id": 236972, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236978, 
+  [
+   497, 
+   689, 
+   {
+    "raw_data": "INRI;236972", 
+    "quote_id": 236972, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236984, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Matthew S;236978", 
+    "quote_id": 236978, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236988, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Easyrider;236984", 
+    "quote_id": 236984, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   409, 
+   493, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   578, 
+   688, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   889, 
+   942, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   1023, 
+   1309, 
+   {}
+  ]
+ ], 
+ [
+  236481, 
+  [
+   1315, 
+   1428, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   1486, 
+   1731, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   1884, 
+   1940, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  236481, 
+  [
+   2083, 
+   2529, 
+   {
+    "raw_data": "INRI;236392", 
+    "quote_id": 236392, 
+    "author": "INRI"
+   }
+  ]
+ ], 
+ [
+  237001, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Easyrider;236984", 
+    "quote_id": 236984, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  236492, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "ArchaicGuy;236410", 
+    "quote_id": 236410, 
+    "author": "ArchaicGuy"
+   }
+  ]
+ ], 
+ [
+  237034, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Easyrider;236984", 
+    "quote_id": 236984, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  236525, 
+  [
+   0, 
+   73, 
+   {
+    "quote_id": 236481, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236525, 
+  [
+   1755, 
+   1948, 
+   {
+    "quote_id": 236481, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236525, 
+  [
+   2494, 
+   2588, 
+   {
+    "quote_id": 236481, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236525, 
+  [
+   2951, 
+   3047, 
+   {
+    "quote_id": 236481, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236525, 
+  [
+   3238, 
+   3297, 
+   {
+    "quote_id": 236481, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236525, 
+  [
+   3397, 
+   3540, 
+   {
+    "quote_id": 236481, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  236536, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "trebor;236457", 
+    "quote_id": 236457, 
+    "author": "trebor"
+   }
+  ]
+ ]
+]

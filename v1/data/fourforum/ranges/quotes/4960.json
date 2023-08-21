@@ -1,0 +1,49 @@
+[
+ [
+  113288, 
+  [
+   0, 
+   756, 
+   {
+    "raw_data": "francke", 
+    "quote_id": 113074, 
+    "author": "francke"
+   }
+  ]
+ ], 
+ [
+  124760, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Hunter", 
+    "quote_id": 113288, 
+    "author": "Hunter"
+   }
+  ]
+ ], 
+ [
+  124760, 
+  [
+   125, 
+   440, 
+   {
+    "raw_data": "Hunter", 
+    "author": "Hunter"
+   }
+  ]
+ ], 
+ [
+  113302, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Hunter", 
+    "quote_id": 113288, 
+    "author": "Hunter"
+   }
+  ]
+ ]
+]

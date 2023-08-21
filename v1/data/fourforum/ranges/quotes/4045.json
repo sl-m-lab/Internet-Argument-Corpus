@@ -1,0 +1,62 @@
+[
+ [
+  84838, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "pnac=ww3", 
+    "quote_id": 84830, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  84876, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84846, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84849, 
+  [
+   0, 
+   743, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 84846, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  84846, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 84838, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  84857, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 84849, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

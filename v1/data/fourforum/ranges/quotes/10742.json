@@ -1,0 +1,529 @@
+[
+ [
+  295042, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Penfold;295037", 
+    "quote_id": 295037, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  295043, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Archangel;295042", 
+    "quote_id": 295042, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295044, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Bassman;295043", 
+    "quote_id": 295043, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  295045, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "electrolyte;295044", 
+    "quote_id": 295044, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  295048, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Bassman;295045", 
+    "quote_id": 295045, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  295055, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "T.Q;295053", 
+    "quote_id": 295053, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  295057, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Archangel;295055", 
+    "quote_id": 295055, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295058, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "Matthew S;295057", 
+    "quote_id": 295057, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  295060, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Bassman;295058", 
+    "quote_id": 295058, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  295319, 
+  [
+   818, 
+   914, 
+   {}
+  ]
+ ], 
+ [
+  295321, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   502, 
+   690, 
+   {
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   782, 
+   842, 
+   {
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   1051, 
+   1098, 
+   {
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   1158, 
+   1218, 
+   {
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   1303, 
+   1430, 
+   {
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   1501, 
+   1579, 
+   {
+    "quote_id": 295319, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295321, 
+  [
+   1816, 
+   1896, 
+   {
+    "quote_id": 295319, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295066, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Matthew S;295060", 
+    "quote_id": 295060, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  295071, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Archangel;295066", 
+    "quote_id": 295066, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295200, 
+  [
+   0, 
+   1189, 
+   {
+    "raw_data": "E Mutz;295174", 
+    "quote_id": 295174, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  295074, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "T.Q;295071", 
+    "quote_id": 295071, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  295078, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Archangel;295066", 
+    "quote_id": 295066, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   368, 
+   416, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   1076, 
+   1146, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   1465, 
+   1597, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   2179, 
+   2219, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   2520, 
+   2604, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   2735, 
+   2840, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   3041, 
+   3189, 
+   {
+    "raw_data": "Archangel;295319", 
+    "quote_id": 295319, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295335, 
+  [
+   3304, 
+   3386, 
+   {
+    "raw_data": "Archangel;295316", 
+    "quote_id": 295316, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295080, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "T.Q;295077", 
+    "quote_id": 295077, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  295080, 
+  [
+   448, 
+   608, 
+   {
+    "raw_data": "T.Q;295071", 
+    "quote_id": 295071, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  295084, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Archangel;295080", 
+    "quote_id": 295080, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295218, 
+  [
+   0, 
+   874, 
+   {
+    "raw_data": "jitobear;295135", 
+    "quote_id": 295135, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  295293, 
+  [
+   0, 
+   1189, 
+   {
+    "raw_data": "E Mutz;295174", 
+    "quote_id": 295174, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  295095, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Archangel;295080", 
+    "quote_id": 295080, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295095, 
+  [
+   309, 
+   514, 
+   {
+    "quote_id": 295080, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295095, 
+  [
+   663, 
+   1064, 
+   {
+    "quote_id": 295080, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295127, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "jitobear;295114", 
+    "quote_id": 295114, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  295135, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "Matthew S;295127", 
+    "quote_id": 295127, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  295012, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Archangel;295006", 
+    "quote_id": 295006, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  295316, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "T.Q;295314", 
+    "unknown_quote_id": 295314, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  295037, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Archangel;295030", 
+    "quote_id": 295030, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

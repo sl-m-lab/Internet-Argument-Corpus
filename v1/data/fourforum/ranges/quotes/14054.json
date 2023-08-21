@@ -1,0 +1,288 @@
+[
+ [
+  396051, 
+  [
+   0, 
+   88, 
+   {}
+  ]
+ ], 
+ [
+  396051, 
+  [
+   210, 
+   330, 
+   {}
+  ]
+ ], 
+ [
+  396052, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "simone;396051", 
+    "quote_id": 396051, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  396052, 
+  [
+   341, 
+   583, 
+   {
+    "quote_id": 396051, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  396052, 
+  [
+   829, 
+   983, 
+   {
+    "quote_id": 396051, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  395925, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Steeeeve;395813", 
+    "quote_id": 395813, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  396055, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "simone;396051", 
+    "quote_id": 396051, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  395929, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "JPSartre12;395856", 
+    "quote_id": 395856, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  396193, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "simone;396075", 
+    "quote_id": 396075, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  395813, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "simone;395801", 
+    "quote_id": 395801, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  395823, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Steeeeve;395813", 
+    "quote_id": 395813, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  395839, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "Easyrider;395823", 
+    "quote_id": 395823, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  396224, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Esdraelon;396052", 
+    "quote_id": 396052, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  396224, 
+  [
+   272, 
+   508, 
+   {
+    "raw_data": "Esdraelon;396052", 
+    "quote_id": 396052, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  396224, 
+  [
+   577, 
+   643, 
+   {
+    "raw_data": "Esdraelon;396052", 
+    "quote_id": 396052, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  396224, 
+  [
+   763, 
+   882, 
+   {
+    "raw_data": "Esdraelon;396052", 
+    "quote_id": 396052, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  395974, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "simone;395929", 
+    "quote_id": 395929, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  395722, 
+  [
+   214, 
+   965, 
+   {}
+  ]
+ ], 
+ [
+  395854, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "simone;395815", 
+    "quote_id": 395815, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  395991, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "JPSartre12;395856", 
+    "quote_id": 395856, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  396240, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "simone;396224", 
+    "quote_id": 396224, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  396005, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "jitobear;395991", 
+    "quote_id": 395991, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  396008, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "simone;395929", 
+    "quote_id": 395929, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  396010, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "jitobear;395991", 
+    "quote_id": 395991, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  396022, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "jitobear;395991", 
+    "quote_id": 395991, 
+    "author": "jitobear"
+   }
+  ]
+ ]
+]

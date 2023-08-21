@@ -1,0 +1,472 @@
+[
+ [
+  307969, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "daewoo;307963", 
+    "quote_id": 307963, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  307969, 
+  [
+   618, 
+   956, 
+   {
+    "quote_id": 307963, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  307969, 
+  [
+   1104, 
+   1418, 
+   {
+    "quote_id": 307963, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  308483, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "CUNxTime;306139", 
+    "quote_id": 306139, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309644, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Jo Bennett;309631", 
+    "quote_id": 309631, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  309644, 
+  [
+   0, 
+   905, 
+   {}
+  ]
+ ], 
+ [
+  309134, 
+  [
+   0, 
+   625, 
+   {
+    "raw_data": "CUNxTime;309128", 
+    "quote_id": 309128, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309519, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "CUNxTime;309416", 
+    "quote_id": 309416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  307988, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "CUNxTime;307962", 
+    "quote_id": 307962, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309526, 
+  [
+   0, 
+   607, 
+   {
+    "raw_data": "Jo Bennett;309439", 
+    "quote_id": 309439, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  309400, 
+  [
+   0, 
+   1210, 
+   {
+    "raw_data": "CUNxTime;309374", 
+    "quote_id": 309374, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  385071, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "CUNxTime;385053", 
+    "quote_id": 385053, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  385053, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "mysticjbyrd;384626", 
+    "quote_id": 384626, 
+    "author": "mysticjbyrd"
+   }
+  ]
+ ], 
+ [
+  309541, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "CUNxTime;309526", 
+    "quote_id": 309526, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309541, 
+  [
+   900, 
+   1018, 
+   {
+    "quote_id": 309526, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  385062, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "CUNxTime;385053", 
+    "quote_id": 385053, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309416, 
+  [
+   0, 
+   3221, 
+   {
+    "raw_data": "daewoo;309400", 
+    "quote_id": 309400, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  308015, 
+  [
+   0, 
+   48, 
+   {
+    "quote_id": 307988, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  308017, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Jo Bennett;307988", 
+    "quote_id": 307988, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  309128, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "daewoo;309095", 
+    "quote_id": 309095, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  309051, 
+  [
+   0, 
+   1142, 
+   {
+    "raw_data": "CUNxTime;309000", 
+    "quote_id": 309000, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  308540, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "JakeCJB;308483", 
+    "quote_id": 308483, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  309439, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "CUNxTime;309416", 
+    "quote_id": 309416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  307919, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "bhbcu64;307917", 
+    "quote_id": 307917, 
+    "author": "bhbcu64"
+   }
+  ]
+ ], 
+ [
+  307920, 
+  [
+   0, 
+   855, 
+   {
+    "raw_data": "obvious_child;307876", 
+    "quote_id": 307876, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  307794, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Siegfriedson;306954", 
+    "quote_id": 306954, 
+    "author": "Siegfriedson"
+   }
+  ]
+ ], 
+ [
+  434131, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "CUNxTime;306139", 
+    "quote_id": 306139, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309518, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "CUNxTime;309416", 
+    "quote_id": 309416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  308567, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "JakeCJB;308483", 
+    "quote_id": 308483, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  309084, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "Jo Bennett;309008", 
+    "quote_id": 309008, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  309600, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "Jo Bennett;309543", 
+    "quote_id": 309543, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  309601, 
+  [
+   8, 
+   229, 
+   {
+    "raw_data": "daewoo;309541", 
+    "quote_id": 309541, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  309601, 
+  [
+   332, 
+   533, 
+   {
+    "quote_id": 309541, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  309601, 
+  [
+   882, 
+   1519, 
+   {
+    "quote_id": 309541, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  385083, 
+  [
+   0, 
+   591, 
+   {
+    "raw_data": "CUNxTime;385053", 
+    "quote_id": 385053, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309095, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "CUNxTime;309084", 
+    "quote_id": 309084, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  308586, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "CUNxTime;308567", 
+    "quote_id": 308567, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  384626, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "CUNxTime;309644", 
+    "quote_id": 309644, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  309374, 
+  [
+   0, 
+   762, 
+   {
+    "raw_data": "Jo Bennett;309134", 
+    "quote_id": 309134, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  309631, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "CUNxTime;309600", 
+    "quote_id": 309600, 
+    "author": "CUNxTime"
+   }
+  ]
+ ]
+]

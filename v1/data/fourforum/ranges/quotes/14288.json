@@ -1,0 +1,853 @@
+[
+ [
+  403584, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Steeeeve;403550", 
+    "quote_id": 403550, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  403585, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Winston Smith;403584", 
+    "quote_id": 403584, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403716, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "Winston Smith;403698", 
+    "quote_id": 403698, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403719, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "COBHC;403701", 
+    "quote_id": 403701, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403464, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "gansao;403411", 
+    "quote_id": 403411, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403721, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Winston Smith;403719", 
+    "quote_id": 403719, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403466, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "simone;403464", 
+    "quote_id": 403464, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403724, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Winston Smith;403718", 
+    "quote_id": 403718, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403725, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Winston Smith;403712", 
+    "quote_id": 403712, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403736, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Winston Smith;403712", 
+    "quote_id": 403712, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403603, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Winston Smith;403584", 
+    "quote_id": 403584, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403476, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "gansao;403466", 
+    "quote_id": 403466, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403478, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "Steeeeve;403451", 
+    "quote_id": 403451, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   60, 
+   213, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   268, 
+   482, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   696, 
+   1056, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   1462, 
+   1976, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   2137, 
+   2397, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   2572, 
+   2598, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   2663, 
+   2743, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   2877, 
+   2942, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403479, 
+  [
+   3670, 
+   3722, 
+   {
+    "raw_data": "COBHC;403421", 
+    "quote_id": 403421, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403608, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "Steeeeve;403604", 
+    "quote_id": 403604, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  403610, 
+  [
+   0, 
+   928, 
+   {
+    "raw_data": "daewoo;403608", 
+    "quote_id": 403608, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  403631, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "simone;403629", 
+    "quote_id": 403629, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "simone;403479", 
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   104, 
+   312, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   572, 
+   972, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   1106, 
+   1152, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   1493, 
+   1598, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   1748, 
+   1917, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   2028, 
+   2087, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   2129, 
+   2213, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   2278, 
+   2318, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   2459, 
+   2920, 
+   {}
+  ]
+ ], 
+ [
+  403495, 
+  [
+   4999, 
+   5267, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403495, 
+  [
+   5868, 
+   5896, 
+   {
+    "quote_id": 403479, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403843, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "simone;403819", 
+    "quote_id": 403819, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403502, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "simone;403476", 
+    "quote_id": 403476, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403377, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "simone;403375", 
+    "quote_id": 403375, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403377, 
+  [
+   82, 
+   133, 
+   {
+    "quote_id": 403375, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403377, 
+  [
+   202, 
+   300, 
+   {
+    "quote_id": 403375, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403592, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "COBHC;403585", 
+    "quote_id": 403585, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403515, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "simone;403509", 
+    "quote_id": 403509, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  416700, 
+  [
+   357, 
+   474, 
+   {}
+  ]
+ ], 
+ [
+  403903, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "simone;403819", 
+    "quote_id": 403819, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403520, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "simone;403518", 
+    "quote_id": 403518, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  416844, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "daewoo;416816", 
+    "quote_id": 416816, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  403915, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Winston Smith;403697", 
+    "quote_id": 403697, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403404, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "COBHC;403377", 
+    "quote_id": 403377, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403404, 
+  [
+   289, 
+   348, 
+   {
+    "raw_data": "COBHC;403377", 
+    "quote_id": 403377, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403404, 
+  [
+   546, 
+   688, 
+   {
+    "raw_data": "COBHC;403377", 
+    "quote_id": 403377, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403919, 
+  [
+   0, 
+   1004, 
+   {
+    "raw_data": "daewoo;403915", 
+    "quote_id": 403915, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  403922, 
+  [
+   0, 
+   712, 
+   {
+    "raw_data": "Steeeeve;403919", 
+    "quote_id": 403919, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  403411, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "simone;403368", 
+    "quote_id": 403368, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403623, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "gansao;403520", 
+    "quote_id": 403520, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403421, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "simone;403404", 
+    "quote_id": 403404, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403421, 
+  [
+   82, 
+   274, 
+   {
+    "quote_id": 403404, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403421, 
+  [
+   1020, 
+   1212, 
+   {
+    "quote_id": 403404, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403421, 
+  [
+   2000, 
+   2025, 
+   {
+    "quote_id": 403404, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403421, 
+  [
+   2061, 
+   2168, 
+   {
+    "quote_id": 403404, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403421, 
+  [
+   2258, 
+   2336, 
+   {
+    "quote_id": 403404, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403550, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Winston Smith;403478", 
+    "quote_id": 403478, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403818, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Winston Smith;403719", 
+    "quote_id": 403719, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403563, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "simone;403518", 
+    "quote_id": 403518, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403624, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "gansao;403520", 
+    "quote_id": 403520, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403624, 
+  [
+   324, 
+   827, 
+   {
+    "raw_data": "simone;403623", 
+    "quote_id": 403623, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  403698, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "gansao;403631", 
+    "quote_id": 403631, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403699, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "COBHC;403585", 
+    "quote_id": 403585, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403701, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Winston Smith;403699", 
+    "quote_id": 403699, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403604, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "daewoo;403592", 
+    "quote_id": 403592, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  403902, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "simone;403818", 
+    "quote_id": 403818, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

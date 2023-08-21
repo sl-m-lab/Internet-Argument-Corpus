@@ -1,0 +1,1278 @@
+[
+ [
+  365056, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "sinjin;365039", 
+    "quote_id": 365039, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365058, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "sinjin;365042", 
+    "quote_id": 365042, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365059, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "sinjin;365045", 
+    "quote_id": 365045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365060, 
+  [
+   0, 
+   3090, 
+   {
+    "raw_data": "OldSarge;364964", 
+    "quote_id": 364964, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365062, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "OldSarge;365058", 
+    "quote_id": 365058, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365063, 
+  [
+   0, 
+   864, 
+   {
+    "raw_data": "Doc Jones;365051", 
+    "quote_id": 365051, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365064, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "OldSarge;365059", 
+    "quote_id": 365059, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365065, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "sinjin;365040", 
+    "quote_id": 365040, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365065, 
+  [
+   242, 
+   373, 
+   {
+    "quote_id": 365040, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365065, 
+  [
+   1204, 
+   1225, 
+   {
+    "quote_id": 365043, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365065, 
+  [
+   1266, 
+   1331, 
+   {
+    "quote_id": 365045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365065, 
+  [
+   1593, 
+   1841, 
+   {}
+  ]
+ ], 
+ [
+  365065, 
+  [
+   2305, 
+   2494, 
+   {}
+  ]
+ ], 
+ [
+  365066, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "OldSarge;365056", 
+    "quote_id": 365056, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365068, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "NATO 556;365065", 
+    "quote_id": 365065, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365070, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "sinjin;365063", 
+    "quote_id": 365063, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365071, 
+  [
+   0, 
+   542, 
+   {
+    "raw_data": "Doc Jones;365070", 
+    "quote_id": 365070, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365071, 
+  [
+   657, 
+   1140, 
+   {
+    "quote_id": 365070, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365073, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "NATO 556;365065", 
+    "quote_id": 365065, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365073, 
+  [
+   194, 
+   690, 
+   {}
+  ]
+ ], 
+ [
+  365073, 
+  [
+   830, 
+   1103, 
+   {
+    "quote_id": 365065, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365073, 
+  [
+   1197, 
+   1421, 
+   {
+    "quote_id": 365065, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365074, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "sinjin;365073", 
+    "quote_id": 365073, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365074, 
+  [
+   105, 
+   239, 
+   {
+    "quote_id": 365073, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365074, 
+  [
+   386, 
+   474, 
+   {
+    "quote_id": 365073, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365074, 
+  [
+   632, 
+   638, 
+   {
+    "quote_id": 365073, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365074, 
+  [
+   1165, 
+   1315, 
+   {
+    "quote_id": 365073, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365075, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "NATO 556;365074", 
+    "quote_id": 365074, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365076, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "sinjin;365071", 
+    "quote_id": 365071, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365077, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "OldSarge;364936", 
+    "unknown_quote_id": 364936, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365078, 
+  [
+   0, 
+   629, 
+   {
+    "raw_data": "Doc Jones;365076", 
+    "quote_id": 365076, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365081, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "sinjin;365075", 
+    "quote_id": 365075, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365082, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "sinjin;365077", 
+    "quote_id": 365077, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365083, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "sinjin;365062", 
+    "quote_id": 365062, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365084, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "sinjin;365064", 
+    "quote_id": 365064, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365086, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "OldSarge;365081", 
+    "quote_id": 365081, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365086, 
+  [
+   80, 
+   328, 
+   {
+    "raw_data": "NATO 556;363759", 
+    "quote_id": 365095, 
+    "unknown_quote_id": 363759, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365087, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "OldSarge;365082", 
+    "quote_id": 365082, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365088, 
+  [
+   0, 
+   1273, 
+   {
+    "raw_data": "OldSarge;365084", 
+    "quote_id": 365084, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365089, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "OldSarge;365084", 
+    "quote_id": 365084, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365095, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "sinjin;365086", 
+    "quote_id": 365086, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365096, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "sinjin;365087", 
+    "quote_id": 365087, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365097, 
+  [
+   0, 
+   1460, 
+   {
+    "raw_data": "sinjin;365089", 
+    "quote_id": 365089, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365099, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "sinjin;365094", 
+    "quote_id": 365094, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365115, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "sinjin;365075", 
+    "quote_id": 365075, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365116, 
+  [
+   0, 
+   1502, 
+   {
+    "raw_data": "NATO 556;365115", 
+    "quote_id": 365115, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365117, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "sinjin;365078", 
+    "quote_id": 365078, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365117, 
+  [
+   746, 
+   873, 
+   {
+    "quote_id": 365078, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365117, 
+  [
+   1916, 
+   1928, 
+   {
+    "quote_id": 365078, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365119, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "sinjin;365116", 
+    "quote_id": 365116, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365127, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "NATO 556;365119", 
+    "quote_id": 365119, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365154, 
+  [
+   0, 
+   2417, 
+   {
+    "raw_data": "NATO 556;365117", 
+    "quote_id": 365117, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365156, 
+  [
+   0, 
+   1165, 
+   {
+    "raw_data": "sinjin;365112", 
+    "quote_id": 365112, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365158, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "sinjin;365116", 
+    "quote_id": 365116, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365161, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "OldSarge;365156", 
+    "quote_id": 365156, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365162, 
+  [
+   80, 
+   1848, 
+   {}
+  ]
+ ], 
+ [
+  365165, 
+  [
+   0, 
+   761, 
+   {
+    "raw_data": "Doc Jones;365161", 
+    "quote_id": 365161, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365170, 
+  [
+   0, 
+   1595, 
+   {
+    "raw_data": "Galileo;365165", 
+    "quote_id": 365165, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365173, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Doc Jones;365170", 
+    "quote_id": 365170, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365173, 
+  [
+   406, 
+   522, 
+   {
+    "raw_data": "Doc Jones;365170", 
+    "quote_id": 365170, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365174, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Galileo;365173", 
+    "quote_id": 365173, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365175, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "NATO 556;365119", 
+    "quote_id": 365119, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365176, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "OldSarge;365156", 
+    "quote_id": 365156, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365177, 
+  [
+   0, 
+   792, 
+   {
+    "raw_data": "NATO 556;365174", 
+    "quote_id": 365174, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365178, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "Galileo;365177", 
+    "quote_id": 365177, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365180, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "sinjin;365176", 
+    "quote_id": 365176, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365184, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Galileo;365182", 
+    "quote_id": 365182, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365186, 
+  [
+   317, 
+   1071, 
+   {}
+  ]
+ ], 
+ [
+  365187, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Tither;365186", 
+    "quote_id": 365186, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  365191, 
+  [
+   0, 
+   886, 
+   {
+    "raw_data": "NATO 556;365184", 
+    "quote_id": 365184, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365192, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Tither;365186", 
+    "quote_id": 365186, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  365193, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "Galileo;365191", 
+    "quote_id": 365191, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365194, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Tither;365186", 
+    "quote_id": 365186, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  365196, 
+  [
+   0, 
+   720, 
+   {
+    "raw_data": "NATO 556;365193", 
+    "quote_id": 365193, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365197, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "NATO 556;365193", 
+    "quote_id": 365193, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365198, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Galileo;365197", 
+    "quote_id": 365197, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365199, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Galileo;365197", 
+    "quote_id": 365197, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365202, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "NATO 556;365199", 
+    "quote_id": 365199, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365203, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "Doc Jones;365192", 
+    "quote_id": 365192, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365205, 
+  [
+   0, 
+   783, 
+   {
+    "raw_data": "Galileo;365203", 
+    "quote_id": 365203, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365206, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Doc Jones;365205", 
+    "quote_id": 365205, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365207, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "NATO 556;365199", 
+    "quote_id": 365199, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  365209, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Doc Jones;365206", 
+    "quote_id": 365206, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365211, 
+  [
+   518, 
+   677, 
+   {}
+  ]
+ ], 
+ [
+  365211, 
+  [
+   1216, 
+   1366, 
+   {}
+  ]
+ ], 
+ [
+  365214, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Galileo;365207", 
+    "quote_id": 365207, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365221, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Galileo;365209", 
+    "quote_id": 365209, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365226, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Galileo;365209", 
+    "quote_id": 365209, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365282, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "sinjin;365176", 
+    "quote_id": 365176, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365290, 
+  [
+   405, 
+   1137, 
+   {}
+  ]
+ ], 
+ [
+  365029, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "zsu2357;364966", 
+    "quote_id": 364966, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  365031, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Galileo;365029", 
+    "quote_id": 365029, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365033, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "OldSarge;364994", 
+    "quote_id": 364994, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365035, 
+  [
+   0, 
+   473, 
+   {
+    "raw_data": "OldSarge;364995", 
+    "quote_id": 364995, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365036, 
+  [
+   0, 
+   560, 
+   {
+    "raw_data": "OldSarge;364996", 
+    "quote_id": 364996, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365037, 
+  [
+   0, 
+   4945, 
+   {
+    "raw_data": "OldSarge;364997", 
+    "quote_id": 364997, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365038, 
+  [
+   0, 
+   1790, 
+   {
+    "raw_data": "OldSarge;364998", 
+    "quote_id": 364998, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365039, 
+  [
+   0, 
+   3369, 
+   {
+    "raw_data": "OldSarge;364999", 
+    "quote_id": 364999, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365040, 
+  [
+   0, 
+   1779, 
+   {
+    "raw_data": "OldSarge;365000", 
+    "quote_id": 365000, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365041, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "sinjin;365035", 
+    "quote_id": 365035, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365042, 
+  [
+   0, 
+   1279, 
+   {
+    "raw_data": "OldSarge;365002", 
+    "quote_id": 365002, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365043, 
+  [
+   0, 
+   690, 
+   {
+    "raw_data": "OldSarge;365003", 
+    "quote_id": 365003, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365044, 
+  [
+   0, 
+   871, 
+   {
+    "raw_data": "OldSarge;365004", 
+    "quote_id": 365004, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365045, 
+  [
+   0, 
+   11689, 
+   {
+    "raw_data": "OldSarge;365008", 
+    "quote_id": 365008, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  365047, 
+  [
+   0, 
+   67, 
+   {
+    "quote_id": 365045, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365049, 
+  [
+   0, 
+   465, 
+   {
+    "raw_data": "Doc Jones;365047", 
+    "quote_id": 365047, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  365050, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "sinjin;365033", 
+    "quote_id": 365033, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365051, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "sinjin;365049", 
+    "quote_id": 365049, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  365052, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Galileo;365029", 
+    "quote_id": 365029, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  365054, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "sinjin;365035", 
+    "quote_id": 365035, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

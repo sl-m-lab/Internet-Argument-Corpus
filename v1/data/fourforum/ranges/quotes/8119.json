@@ -1,0 +1,569 @@
+[
+ [
+  213505, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213507, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 213505, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  213515, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213507, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213518, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 213515, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  213531, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213518, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213151, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213151, 
+  [
+   561, 
+   1010, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213151, 
+  [
+   1187, 
+   1644, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213151, 
+  [
+   2446, 
+   2552, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213136, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213152, 
+  [
+   0, 
+   1300, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213136, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213160, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 213152, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  213607, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213556, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213607, 
+  [
+   544, 
+   696, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 213505, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  213555, 
+  [
+   0, 
+   628, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213136, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213556, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 213531, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  213686, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213606, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213686, 
+  [
+   242, 
+   372, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213606, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213686, 
+  [
+   794, 
+   915, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213606, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213688, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Liminus", 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  213433, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213351, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213433, 
+  [
+   536, 
+   1130, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213351, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213433, 
+  [
+   1993, 
+   2654, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213351, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213447, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213433, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213447, 
+  [
+   718, 
+   1044, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213433, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213452, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213447, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213452, 
+  [
+   658, 
+   789, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213447, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213329, 
+  [
+   0, 
+   527, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213219, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213329, 
+  [
+   759, 
+   1068, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213219, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213329, 
+  [
+   1202, 
+   1848, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213331, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213329, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213331, 
+  [
+   509, 
+   633, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213329, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213331, 
+  [
+   1050, 
+   1529, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213329, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213466, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213452, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  214108, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "MTKnight", 
+    "quote_id": 214107, 
+    "author": "MTKnight"
+   }
+  ]
+ ], 
+ [
+  213470, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 213466, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  213474, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213474, 
+  [
+   735, 
+   957, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213219, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213151, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213219, 
+  [
+   784, 
+   953, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213151, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213219, 
+  [
+   1268, 
+   2061, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213151, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213606, 
+  [
+   0, 
+   2371, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 213555, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  213350, 
+  [
+   0, 
+   763, 
+   {
+    "raw_data": "Evan", 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213351, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213331, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213351, 
+  [
+   412, 
+   821, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213331, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213351, 
+  [
+   1428, 
+   1556, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213331, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213352, 
+  [
+   0, 
+   370, 
+   {
+    "raw_data": "Evan", 
+    "quote_id": 213345, 
+    "author": "Evan"
+   }
+  ]
+ ], 
+ [
+  213479, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213474, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  213479, 
+  [
+   1300, 
+   1410, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 213474, 
+    "author": "Matthew S"
+   }
+  ]
+ ]
+]

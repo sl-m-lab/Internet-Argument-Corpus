@@ -1,0 +1,244 @@
+[
+ [
+  199938, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 199931, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  190469, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 190442, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  199944, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 199938, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  190484, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 190469, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  190484, 
+  [
+   599, 
+   1130, 
+   {
+    "quote_id": 190469, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  190486, 
+  [
+   0, 
+   92, 
+   {}
+  ]
+ ], 
+ [
+  190486, 
+  [
+   724, 
+   6001, 
+   {}
+  ]
+ ], 
+ [
+  190365, 
+  [
+   0, 
+   61, 
+   {}
+  ]
+ ], 
+ [
+  190365, 
+  [
+   76, 
+   172, 
+   {}
+  ]
+ ], 
+ [
+  190365, 
+  [
+   376, 
+   468, 
+   {}
+  ]
+ ], 
+ [
+  190367, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 190365, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  190382, 
+  [
+   0, 
+   25, 
+   {}
+  ]
+ ], 
+ [
+  190382, 
+  [
+   724, 
+   897, 
+   {}
+  ]
+ ], 
+ [
+  200136, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 199903, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  200143, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 199944, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  190422, 
+  [
+   0, 
+   689, 
+   {
+    "raw_data": "DamEtel", 
+    "quote_id": 190382, 
+    "author": "DamEtel"
+   }
+  ]
+ ], 
+ [
+  190427, 
+  [
+   0, 
+   1750, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 190422, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  190427, 
+  [
+   1793, 
+   2352, 
+   {}
+  ]
+ ], 
+ [
+  199903, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Cheesejoff", 
+    "quote_id": 199889, 
+    "author": "Cheesejoff"
+   }
+  ]
+ ], 
+ [
+  190436, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  190439, 
+  [
+   0, 
+   1125, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 190436, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  190442, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 190439, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  199931, 
+  [
+   0, 
+   585, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 190608, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,383 @@
+[
+ [
+  432514, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Brutus;432501", 
+    "quote_id": 432501, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432649, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "Freedom;432648", 
+    "quote_id": 432648, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432270, 
+  [
+   44, 
+   930, 
+   {}
+  ]
+ ], 
+ [
+  432270, 
+  [
+   1052, 
+   1478, 
+   {}
+  ]
+ ], 
+ [
+  432655, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Xcaliber;432649", 
+    "quote_id": 432649, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432656, 
+  [
+   0, 
+   237, 
+   {
+    "raw_data": "Steeeeve;432654", 
+    "quote_id": 432654, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  432656, 
+  [
+   664, 
+   1132, 
+   {
+    "raw_data": "Steeeeve;432654", 
+    "quote_id": 432654, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  432791, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "Xcaliber;432725", 
+    "quote_id": 432725, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432791, 
+  [
+   656, 
+   1365, 
+   {}
+  ]
+ ], 
+ [
+  432584, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Xcaliber;432504", 
+    "quote_id": 432504, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432717, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "Xcaliber;432656", 
+    "quote_id": 432656, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432717, 
+  [
+   560, 
+   914, 
+   {
+    "quote_id": 432656, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "simone;432270", 
+    "quote_id": 432270, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   67, 
+   217, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   2131, 
+   2204, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   2435, 
+   2506, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   2739, 
+   2799, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   3192, 
+   3277, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   3325, 
+   3516, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432334, 
+  [
+   3886, 
+   3984, 
+   {
+    "raw_data": "Accipiter;432310", 
+    "quote_id": 432310, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  432591, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Easyrider;432584", 
+    "quote_id": 432584, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  432725, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Steeeeve;432717", 
+    "quote_id": 432717, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  432725, 
+  [
+   437, 
+   597, 
+   {
+    "raw_data": "Steeeeve;432717", 
+    "quote_id": 432717, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  432725, 
+  [
+   2402, 
+   2490, 
+   {
+    "raw_data": "Steeeeve;432717", 
+    "quote_id": 432717, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  432603, 
+  [
+   264, 
+   413, 
+   {
+    "quote_id": 432591, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432623, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Steeeeve;432603", 
+    "quote_id": 432603, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  432623, 
+  [
+   646, 
+   724, 
+   {
+    "raw_data": "Steeeeve;432603", 
+    "quote_id": 432603, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  433009, 
+  [
+   0, 
+   546, 
+   {
+    "raw_data": "Easyrider;432584", 
+    "quote_id": 432584, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  432501, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "simone;432270", 
+    "quote_id": 432270, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  433015, 
+  [
+   0, 
+   1120, 
+   {
+    "raw_data": "Shooterandproud;433009", 
+    "quote_id": 433009, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  432504, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Brutus;432501", 
+    "quote_id": 432501, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432654, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Xcaliber;432623", 
+    "quote_id": 432623, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432654, 
+  [
+   714, 
+   973, 
+   {
+    "quote_id": 432623, 
+    "author": "Xcaliber"
+   }
+  ]
+ ]
+]

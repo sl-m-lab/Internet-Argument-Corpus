@@ -1,0 +1,466 @@
+[
+ [
+  76803, 
+  [
+   1835, 
+   2077, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 76644, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  76803, 
+  [
+   3127, 
+   3227, 
+   {
+    "quote_id": 76644, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  76803, 
+  [
+   6701, 
+   6971, 
+   {}
+  ]
+ ], 
+ [
+  77446, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 77205, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76686, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "georged", 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76686, 
+  [
+   1886, 
+   2036, 
+   {}
+  ]
+ ], 
+ [
+  76686, 
+  [
+   2762, 
+   2905, 
+   {
+    "quote_id": 76602, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76821, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 76760, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76821, 
+  [
+   1387, 
+   1507, 
+   {
+    "quote_id": 76760, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76821, 
+  [
+   2630, 
+   2726, 
+   {
+    "quote_id": 76760, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76823, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 76818, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76570, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 76438, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  76833, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 76821, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76847, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 76438, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  77106, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 76833, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  77106, 
+  [
+   1198, 
+   1289, 
+   {
+    "quote_id": 77446, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  77110, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 76833, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76602, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 76570, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   562, 
+   1342, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   2999, 
+   3533, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   3764, 
+   4303, 
+   {}
+  ]
+ ], 
+ [
+  76872, 
+  [
+   4864, 
+   5452, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   5951, 
+   6546, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   7365, 
+   8447, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   8751, 
+   9521, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   9783, 
+   10222, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   10440, 
+   10596, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   10932, 
+   11266, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   11509, 
+   11843, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   12069, 
+   12522, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76872, 
+  [
+   13500, 
+   14199, 
+   {
+    "quote_id": 76803, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76760, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 76686, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76771, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 76760, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  76644, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 76570, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76644, 
+  [
+   605, 
+   1086, 
+   {
+    "quote_id": 76570, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76644, 
+  [
+   1614, 
+   2785, 
+   {}
+  ]
+ ], 
+ [
+  76644, 
+  [
+   4120, 
+   4290, 
+   {
+    "quote_id": 76570, 
+    "author": "Gator"
+   }
+  ]
+ ], 
+ [
+  76519, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 76438, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  76520, 
+  [
+   127, 
+   935, 
+   {}
+  ]
+ ], 
+ [
+  76521, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 76438, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  77205, 
+  [
+   0, 
+   1474, 
+   {
+    "raw_data": "Gator", 
+    "quote_id": 77110, 
+    "author": "Gator"
+   }
+  ]
+ ]
+]

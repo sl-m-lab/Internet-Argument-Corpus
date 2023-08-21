@@ -1,0 +1,256 @@
+[
+ [
+  68365, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68340, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68368, 
+  [
+   0, 
+   1196, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 68365, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  68374, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68368, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68374, 
+  [
+   1627, 
+   1686, 
+   {
+    "quote_id": 68368, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68652, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68340, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68652, 
+  [
+   1191, 
+   1519, 
+   {
+    "raw_data": "haulingboat", 
+    "quote_id": 68340, 
+    "unknown_author": "haulingboat", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68652, 
+  [
+   1743, 
+   2144, 
+   {
+    "raw_data": "haulingboat", 
+    "quote_id": 68340, 
+    "unknown_author": "haulingboat", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68652, 
+  [
+   2262, 
+   2514, 
+   {
+    "raw_data": "haulingboat", 
+    "quote_id": 68340, 
+    "unknown_author": "haulingboat", 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68269, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 68169, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  68280, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 68273, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  68293, 
+  [
+   0, 
+   436, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 68280, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  68166, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 68163, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  68296, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 68293, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  68298, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68296, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68303, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68296, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68308, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68296, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68309, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68301, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68316, 
+  [
+   0, 
+   438, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68301, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68318, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Haulingboat", 
+    "quote_id": 68296, 
+    "author": "Haulingboat"
+   }
+  ]
+ ], 
+ [
+  68327, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 68309, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  68340, 
+  [
+   0, 
+   904, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 68327, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

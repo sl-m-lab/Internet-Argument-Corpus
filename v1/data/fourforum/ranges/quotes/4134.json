@@ -1,0 +1,104 @@
+[
+ [
+  87680, 
+  [
+   105, 
+   503, 
+   {}
+  ]
+ ], 
+ [
+  87929, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 87847, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  87936, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 87863, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  87720, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 87719, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  87719, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 87705, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  87854, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 87847, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  87695, 
+  [
+   0, 
+   592, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  87863, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 87854, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  87863, 
+  [
+   407, 
+   590, 
+   {
+    "quote_id": 87854, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

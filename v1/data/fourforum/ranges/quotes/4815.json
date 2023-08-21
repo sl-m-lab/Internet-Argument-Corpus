@@ -1,0 +1,618 @@
+[
+ [
+  108800, 
+  [
+   0, 
+   3956, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  109312, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "gamehuis", 
+    "quote_id": 109303, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  109316, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 109312, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  122757, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 122572, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  108294, 
+  [
+   0, 
+   2440, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  108937, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108800, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108937, 
+  [
+   1219, 
+   1238, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 108510, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  108482, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 107988, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  122562, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108516, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  125936, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 122572, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  109087, 
+  [
+   0, 
+   662, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 109011, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109087, 
+  [
+   2241, 
+   2529, 
+   {
+    "quote_id": 109011, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  108065, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108025, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  108066, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108025, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  108208, 
+  [
+   0, 
+   2045, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  108851, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108794, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108212, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108136, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  108510, 
+  [
+   0, 
+   881, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108294, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108510, 
+  [
+   2099, 
+   2616, 
+   {
+    "quote_id": 108294, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108343, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108136, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  108343, 
+  [
+   188, 
+   260, 
+   {
+    "quote_id": 108136, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  108343, 
+  [
+   716, 
+   767, 
+   {
+    "quote_id": 108136, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  109241, 
+  [
+   0, 
+   1013, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  108859, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108208, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  107970, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 107466, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  108483, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108377, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  109252, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 109245, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  108364, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  107988, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Comrade Brian", 
+    "quote_id": 107970, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  108119, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Comrade Brian", 
+    "quote_id": 107117, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  108119, 
+  [
+   636, 
+   821, 
+   {
+    "quote_id": 108016, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 109276, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   1805, 
+   1920, 
+   {
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   2199, 
+   2366, 
+   {
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   2516, 
+   2705, 
+   {
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   3024, 
+   3154, 
+   {
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   3610, 
+   3800, 
+   {
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  109656, 
+  [
+   4488, 
+   4705, 
+   {
+    "quote_id": 109117, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  108377, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108364, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108481, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  108516, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Comrade Brian", 
+    "quote_id": 108482, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  108516, 
+  [
+   236, 
+   453, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108483, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108133, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "Zardoz", 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  121984, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 109252, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  108016, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 107988, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  126184, 
+  [
+   0, 
+   51, 
+   {
+    "quote_id": 125936, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  126184, 
+  [
+   389, 
+   453, 
+   {
+    "quote_id": 125936, 
+    "author": "Comrade Brian"
+   }
+  ]
+ ], 
+ [
+  126184, 
+  [
+   1215, 
+   1395, 
+   {
+    "quote_id": 109656, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  108025, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108016, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  108794, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 108516, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  109296, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 109276, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  108286, 
+  [
+   0, 
+   779, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 108133, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  108286, 
+  [
+   2344, 
+   2374, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 108208, 
+    "author": "StrategosFF"
+   }
+  ]
+ ]
+]

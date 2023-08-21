@@ -1,0 +1,490 @@
+[
+ [
+  399242, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "simone;399215", 
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399252, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "COBHC;399250", 
+    "quote_id": 399250, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  399254, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Bassman;399252", 
+    "quote_id": 399252, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  399517, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Steeeeve;399216", 
+    "quote_id": 399216, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  399517, 
+  [
+   59, 
+   148, 
+   {
+    "raw_data": "bassman", 
+    "quote_id": 399252, 
+    "unknown_author": "bassman", 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  399517, 
+  [
+   154, 
+   408, 
+   {
+    "raw_data": "COBHC", 
+    "quote_id": 399250, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  399529, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Shooterandproud;399517", 
+    "quote_id": 399517, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  399660, 
+  [
+   26, 
+   291, 
+   {
+    "raw_data": "simone;399215", 
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399660, 
+  [
+   839, 
+   967, 
+   {
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399660, 
+  [
+   1047, 
+   1071, 
+   {
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399660, 
+  [
+   1222, 
+   1437, 
+   {
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399662, 
+  [
+   29, 
+   199, 
+   {}
+  ]
+ ], 
+ [
+  399662, 
+  [
+   562, 
+   953, 
+   {}
+  ]
+ ], 
+ [
+  399542, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Archangel;399529", 
+    "quote_id": 399529, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  399561, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Shooterandproud;399553", 
+    "quote_id": 399553, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  399548, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Shooterandproud;399542", 
+    "quote_id": 399542, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  399679, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Archangel;399565", 
+    "quote_id": 399565, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  399679, 
+  [
+   145, 
+   188, 
+   {
+    "quote_id": 399566, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  399679, 
+  [
+   196, 
+   240, 
+   {
+    "quote_id": 399569, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  399679, 
+  [
+   766, 
+   839, 
+   {
+    "quote_id": 399583, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  399553, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Archangel;399548", 
+    "quote_id": 399548, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  399300, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Archangel;399231", 
+    "quote_id": 399231, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  399301, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "simone;399300", 
+    "quote_id": 399300, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399301, 
+  [
+   226, 
+   495, 
+   {
+    "quote_id": 399300, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399301, 
+  [
+   684, 
+   817, 
+   {
+    "quote_id": 399300, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399303, 
+  [
+   0, 
+   167, 
+   {}
+  ]
+ ], 
+ [
+  399304, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "simone;399303", 
+    "quote_id": 399303, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399305, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "NATO 556;399304", 
+    "quote_id": 399304, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  399562, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Archangel;399561", 
+    "quote_id": 399561, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  399307, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "NATO 556;399301", 
+    "quote_id": 399301, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  399307, 
+  [
+   573, 
+   712, 
+   {
+    "raw_data": "NATO 556;399301", 
+    "quote_id": 399301, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  399307, 
+  [
+   1134, 
+   1708, 
+   {}
+  ]
+ ], 
+ [
+  399565, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Shooterandproud;399562", 
+    "quote_id": 399562, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  399566, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Shooterandproud;399517", 
+    "quote_id": 399517, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  399313, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "simone;399305", 
+    "quote_id": 399305, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399313, 
+  [
+   169, 
+   514, 
+   {
+    "raw_data": "simone;399307", 
+    "quote_id": 399307, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399313, 
+  [
+   804, 
+   871, 
+   {
+    "quote_id": 399307, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399583, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Shooterandproud;399517", 
+    "quote_id": 399517, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  399569, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "gansao;399566", 
+    "quote_id": 399566, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  399215, 
+  [
+   45, 
+   1190, 
+   {}
+  ]
+ ], 
+ [
+  399219, 
+  [
+   0, 
+   641, 
+   {
+    "raw_data": "simone;399215", 
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  399228, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "NATO 556;399219", 
+    "quote_id": 399219, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  399231, 
+  [
+   0, 
+   641, 
+   {
+    "raw_data": "simone;399215", 
+    "quote_id": 399215, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,541 @@
+[
+ [
+  43776, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43737, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  45056, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 44725, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45056, 
+  [
+   255, 
+   482, 
+   {
+    "quote_id": 44717, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45056, 
+  [
+   504, 
+   562, 
+   {
+    "quote_id": 44884, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45593, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 45287, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  45145, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 45130, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  45145, 
+  [
+   408, 
+   470, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 45130, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  45145, 
+  [
+   704, 
+   1027, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 45130, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  44441, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43567, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  44591, 
+  [
+   0, 
+   333, 
+   {
+    "quote_id": 44441, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  44457, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 44445, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  44458, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 44451, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  44717, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44665, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  44717, 
+  [
+   508, 
+   887, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44665, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  44717, 
+  [
+   1325, 
+   1522, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44665, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  44722, 
+  [
+   0, 
+   429, 
+   {
+    "quote_id": 44717, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  44725, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44720, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  44725, 
+  [
+   1436, 
+   2286, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44720, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  44599, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "emclean", 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  45243, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 45156, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  44606, 
+  [
+   382, 
+   596, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 44441, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  44996, 
+  [
+   0, 
+   608, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44986, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  45125, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 45056, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  45125, 
+  [
+   435, 
+   1240, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 45056, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  44998, 
+  [
+   62, 
+   256, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  44998, 
+  [
+   586, 
+   690, 
+   {
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  44998, 
+  [
+   798, 
+   918, 
+   {
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45130, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 45125, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45130, 
+  [
+   432, 
+   461, 
+   {
+    "quote_id": 44725, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45130, 
+  [
+   468, 
+   1089, 
+   {
+    "quote_id": 45125, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  44983, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44956, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  45649, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 45627, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  44884, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 44763, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  44537, 
+  [
+   0, 
+   2377, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 44459, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  43737, 
+  [
+   0, 
+   69, 
+   {
+    "quote_id": 43668, 
+    "author": "witzelcheck"
+   }
+  ]
+ ], 
+ [
+  44763, 
+  [
+   0, 
+   387, 
+   {
+    "quote_id": 44725, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45156, 
+  [
+   0, 
+   294, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 45145, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  45033, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45033, 
+  [
+   357, 
+   553, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45033, 
+  [
+   699, 
+   805, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45033, 
+  [
+   1179, 
+   1301, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  45033, 
+  [
+   1378, 
+   1478, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 44996, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  44657, 
+  [
+   0, 
+   1006, 
+   {
+    "raw_data": "Phunting", 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  44658, 
+  [
+   0, 
+   718, 
+   {
+    "raw_data": "emclean", 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  44920, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 44892, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  45181, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 45156, 
+    "author": "Tastyfish"
+   }
+  ]
+ ]
+]

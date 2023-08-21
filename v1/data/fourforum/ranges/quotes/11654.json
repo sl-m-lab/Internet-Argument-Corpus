@@ -1,0 +1,118 @@
+[
+ [
+  325442, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "TRIGGER;325416", 
+    "quote_id": 325416, 
+    "author": "TRIGGER"
+   }
+  ]
+ ], 
+ [
+  325487, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "StephenRG;325466", 
+    "quote_id": 325466, 
+    "author": "StephenRG"
+   }
+  ]
+ ], 
+ [
+  325487, 
+  [
+   577, 
+   750, 
+   {
+    "quote_id": 325466, 
+    "author": "StephenRG"
+   }
+  ]
+ ], 
+ [
+  325487, 
+  [
+   1138, 
+   1380, 
+   {
+    "quote_id": 325466, 
+    "author": "StephenRG"
+   }
+  ]
+ ], 
+ [
+  325487, 
+  [
+   1554, 
+   1663, 
+   {
+    "raw_data": "Penfold;325474", 
+    "quote_id": 325474, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325498, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Penfold;325474", 
+    "quote_id": 325474, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325519, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "StephenRG;325466", 
+    "quote_id": 325466, 
+    "author": "StephenRG"
+   }
+  ]
+ ], 
+ [
+  325519, 
+  [
+   316, 
+   490, 
+   {
+    "quote_id": 325466, 
+    "author": "StephenRG"
+   }
+  ]
+ ], 
+ [
+  325519, 
+  [
+   1134, 
+   1376, 
+   {
+    "quote_id": 325466, 
+    "author": "StephenRG"
+   }
+  ]
+ ], 
+ [
+  325466, 
+  [
+   0, 
+   568, 
+   {
+    "raw_data": "marc9000;325442", 
+    "quote_id": 325442, 
+    "author": "marc9000"
+   }
+  ]
+ ]
+]

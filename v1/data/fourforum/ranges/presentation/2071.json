@@ -1,0 +1,456 @@
+[
+ [
+  42219, 
+  [
+   34, 
+   39, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   43, 
+   48, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   123, 
+   128, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   135, 
+   140, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   178, 
+   226, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   178, 
+   226, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   276, 
+   284, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   316, 
+   323, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42219, 
+  [
+   357, 
+   368, 
+   {
+    "category": "color", 
+    "raw_data": "green"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   34, 
+   39, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   43, 
+   48, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   123, 
+   128, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   135, 
+   140, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   178, 
+   226, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   178, 
+   226, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   276, 
+   284, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   316, 
+   323, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42220, 
+  [
+   357, 
+   368, 
+   {
+    "category": "color", 
+    "raw_data": "green"
+   }
+  ]
+ ], 
+ [
+  43952, 
+  [
+   20, 
+   28, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  43952, 
+  [
+   53, 
+   59, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  43952, 
+  [
+   152, 
+   166, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  43952, 
+  [
+   362, 
+   391, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   34, 
+   39, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   43, 
+   48, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   129, 
+   134, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   153, 
+   158, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   202, 
+   250, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   202, 
+   250, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   300, 
+   308, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   340, 
+   347, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   381, 
+   404, 
+   {
+    "category": "color", 
+    "raw_data": "green"
+   }
+  ]
+ ], 
+ [
+  44112, 
+  [
+   20, 
+   28, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  44112, 
+  [
+   53, 
+   59, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  44112, 
+  [
+   152, 
+   166, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  44112, 
+  [
+   362, 
+   391, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   34, 
+   39, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   43, 
+   48, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   129, 
+   134, 
+   {
+    "category": "color", 
+    "raw_data": "red"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   153, 
+   158, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   202, 
+   250, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   202, 
+   250, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   300, 
+   308, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   340, 
+   347, 
+   {
+    "category": "italic"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   381, 
+   404, 
+   {
+    "category": "color", 
+    "raw_data": "green"
+   }
+  ]
+ ]
+]

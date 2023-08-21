@@ -1,0 +1,81 @@
+[
+ [
+  335360, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "CashBurnRate;335345", 
+    "quote_id": 335345, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335360, 
+  [
+   417, 
+   584, 
+   {}
+  ]
+ ], 
+ [
+  335424, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Archangel;335399", 
+    "quote_id": 335399, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335368, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Huntard;335360", 
+    "quote_id": 335360, 
+    "author": "Huntard"
+   }
+  ]
+ ], 
+ [
+  335408, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "CashBurnRate;335368", 
+    "quote_id": 335368, 
+    "author": "CashBurnRate"
+   }
+  ]
+ ], 
+ [
+  335345, 
+  [
+   123, 
+   260, 
+   {
+    "raw_data": "SickDelirium;335137", 
+    "unknown_quote_id": 335137, 
+    "unknown_author": "SickDelirium"
+   }
+  ]
+ ], 
+ [
+  335452, 
+  [
+   625, 
+   763, 
+   {
+    "raw_data": "SickDelerium (corrections in bold)", 
+    "unknown_author": "SickDelerium (corrections in bold)"
+   }
+  ]
+ ]
+]

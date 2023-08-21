@@ -1,0 +1,95 @@
+[
+ [
+  15692, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11510, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  15692, 
+  [
+   589, 
+   1215, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11510, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  15692, 
+  [
+   1370, 
+   1638, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11510, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  15731, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 15692, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  15731, 
+  [
+   565, 
+   710, 
+   {
+    "quote_id": 15692, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  15731, 
+  [
+   1035, 
+   1248, 
+   {
+    "quote_id": 15692, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  11510, 
+  [
+   0, 
+   436, 
+   {
+    "raw_data": "Morfos", 
+    "quote_id": 11477, 
+    "author": "Morfos"
+   }
+  ]
+ ], 
+ [
+  15767, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ]
+]

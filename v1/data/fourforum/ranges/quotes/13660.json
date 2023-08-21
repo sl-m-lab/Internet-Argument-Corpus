@@ -1,0 +1,1535 @@
+[
+ [
+  380962, 
+  [
+   0, 
+   1063, 
+   {}
+  ]
+ ], 
+ [
+  380966, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12;380878", 
+    "quote_id": 380878, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  380968, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Brady;380962", 
+    "quote_id": 380962, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380973, 
+  [
+   0, 
+   906, 
+   {
+    "raw_data": "NATO 556;380968", 
+    "quote_id": 380968, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380990, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "NATO 556;380968", 
+    "quote_id": 380968, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380994, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Penfold;380990", 
+    "quote_id": 380990, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381000, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Penfold;380990", 
+    "quote_id": 380990, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381002, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Penfold;380990", 
+    "quote_id": 380990, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381010, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Brady;380962", 
+    "quote_id": 380962, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381012, 
+  [
+   0, 
+   842, 
+   {
+    "raw_data": "Doc Jones;381002", 
+    "quote_id": 381002, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381013, 
+  [
+   283, 
+   1581, 
+   {}
+  ]
+ ], 
+ [
+  381013, 
+  [
+   1772, 
+   2011, 
+   {}
+  ]
+ ], 
+ [
+  381016, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Penfold;381012", 
+    "quote_id": 381012, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  381031, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "Doc Jones;381016", 
+    "quote_id": 381016, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381083, 
+  [
+   0, 
+   842, 
+   {
+    "raw_data": "Doc Jones;381002", 
+    "quote_id": 381002, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381085, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "PeterV;381083", 
+    "quote_id": 381083, 
+    "author": "PeterV"
+   }
+  ]
+ ], 
+ [
+  381088, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "PeterV;381083", 
+    "quote_id": 381083, 
+    "author": "PeterV"
+   }
+  ]
+ ], 
+ [
+  381090, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "NATO 556;381088", 
+    "quote_id": 381088, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381094, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "NATO 556;381091", 
+    "quote_id": 381091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381094, 
+  [
+   385, 
+   551, 
+   {
+    "raw_data": "NATO 556;381091", 
+    "quote_id": 381091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381097, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Doc Jones;381093", 
+    "quote_id": 381093, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381097, 
+  [
+   196, 
+   342, 
+   {
+    "raw_data": "Doc Jones;381093", 
+    "quote_id": 381093, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381102, 
+  [
+   0, 
+   856, 
+   {
+    "raw_data": "Brady;381094", 
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381108, 
+  [
+   0, 
+   825, 
+   {
+    "raw_data": "Brady;381097", 
+    "quote_id": 381097, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381114, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Doc Jones;381111", 
+    "quote_id": 381111, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381117, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "OldSarge;381114", 
+    "quote_id": 381114, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  381118, 
+  [
+   95, 
+   1087, 
+   {}
+  ]
+ ], 
+ [
+  381387, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Brady;381370", 
+    "quote_id": 381370, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381125, 
+  [
+   0, 
+   544, 
+   {
+    "raw_data": "Tither;381013", 
+    "quote_id": 381013, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  384199, 
+  [
+   72, 
+   4377, 
+   {}
+  ]
+ ], 
+ [
+  381130, 
+  [
+   0, 
+   408, 
+   {
+    "raw_data": "NATO 556;381091", 
+    "quote_id": 381091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381133, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "zsu2357;381125", 
+    "quote_id": 381125, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  381135, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "Brady;381094", 
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381135, 
+  [
+   55, 
+   174, 
+   {
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381135, 
+  [
+   408, 
+   590, 
+   {
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381135, 
+  [
+   1005, 
+   1388, 
+   {
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381135, 
+  [
+   1699, 
+   1745, 
+   {
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381135, 
+  [
+   2154, 
+   2250, 
+   {
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381137, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "NATO 556;381091", 
+    "quote_id": 381091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381144, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Brady;381097", 
+    "quote_id": 381097, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381144, 
+  [
+   475, 
+   560, 
+   {
+    "quote_id": 381097, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381144, 
+  [
+   883, 
+   1046, 
+   {
+    "quote_id": 381097, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  384228, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "PeterV;381383", 
+    "quote_id": 381383, 
+    "author": "PeterV"
+   }
+  ]
+ ], 
+ [
+  381157, 
+  [
+   598, 
+   1211, 
+   {
+    "quote_id": 381093, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381157, 
+  [
+   1441, 
+   2001, 
+   {}
+  ]
+ ], 
+ [
+  381157, 
+  [
+   0, 
+   2073, 
+   {
+    "raw_data": "Brady;381097", 
+    "quote_id": 381097, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381166, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "NATO 556;381135", 
+    "quote_id": 381135, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381166, 
+  [
+   347, 
+   751, 
+   {
+    "raw_data": "NATO 556;381135", 
+    "quote_id": 381135, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381166, 
+  [
+   899, 
+   1003, 
+   {
+    "raw_data": "NATO 556;381135", 
+    "quote_id": 381135, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381166, 
+  [
+   1094, 
+   1526, 
+   {
+    "raw_data": "NATO 556;381135", 
+    "quote_id": 381135, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381166, 
+  [
+   1607, 
+   1840, 
+   {
+    "raw_data": "NATO 556;381135", 
+    "quote_id": 381135, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381169, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Brady;381166", 
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381169, 
+  [
+   188, 
+   328, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381169, 
+  [
+   511, 
+   592, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381169, 
+  [
+   656, 
+   729, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381169, 
+  [
+   845, 
+   1034, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381170, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Brady;381166", 
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381170, 
+  [
+   409, 
+   548, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381170, 
+  [
+   765, 
+   846, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381170, 
+  [
+   971, 
+   996, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381170, 
+  [
+   1042, 
+   1088, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381170, 
+  [
+   1397, 
+   1530, 
+   {
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381171, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Brady;381166", 
+    "quote_id": 381166, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  384757, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "PeterV;381383", 
+    "quote_id": 381383, 
+    "author": "PeterV"
+   }
+  ]
+ ], 
+ [
+  381177, 
+  [
+   0, 
+   682, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   294, 
+   311, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   382, 
+   477, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   811, 
+   869, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   957, 
+   994, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   1084, 
+   1103, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   1623, 
+   1678, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   1771, 
+   1824, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   1994, 
+   2097, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381178, 
+  [
+   2224, 
+   2260, 
+   {
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381193, 
+  [
+   0, 
+   682, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381200, 
+  [
+   0, 
+   1697, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  384795, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "Doc Jones;384760", 
+    "quote_id": 384760, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381220, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "Doc Jones;381214", 
+    "quote_id": 381214, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  384820, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "OldSarge;384795", 
+    "quote_id": 384795, 
+    "author": "OldSarge"
+   }
+  ]
+ ], 
+ [
+  384833, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "simone;384820", 
+    "quote_id": 384820, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  384837, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "Doc Jones;384760", 
+    "quote_id": 384760, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381254, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Doc Jones;381222", 
+    "quote_id": 381222, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381255, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  384841, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "simone;384820", 
+    "quote_id": 384820, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  381258, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Tim;381255", 
+    "quote_id": 381255, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  381259, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Tim;381255", 
+    "quote_id": 381255, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  384229, 
+  [
+   0, 
+   657, 
+   {
+    "raw_data": "Doc Jones;381436", 
+    "quote_id": 381436, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381286, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Tim;381255", 
+    "quote_id": 381255, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  381286, 
+  [
+   618, 
+   957, 
+   {}
+  ]
+ ], 
+ [
+  381287, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Tim;381254", 
+    "quote_id": 381254, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  381289, 
+  [
+   0, 
+   682, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381300, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Tim;381254", 
+    "quote_id": 381254, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  381307, 
+  [
+   0, 
+   123, 
+   {}
+  ]
+ ], 
+ [
+  381307, 
+  [
+   246, 
+   400, 
+   {}
+  ]
+ ], 
+ [
+  381307, 
+  [
+   732, 
+   805, 
+   {}
+  ]
+ ], 
+ [
+  381307, 
+  [
+   887, 
+   997, 
+   {}
+  ]
+ ], 
+ [
+  381311, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "zsu2357;381304", 
+    "quote_id": 381304, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  381327, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Doc Jones;381313", 
+    "quote_id": 381313, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381332, 
+  [
+   0, 
+   187, 
+   {
+    "quote_id": 381327, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  381337, 
+  [
+   0, 
+   1781, 
+   {
+    "raw_data": "Doc Jones;381332", 
+    "quote_id": 381332, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381340, 
+  [
+   0, 
+   1781, 
+   {
+    "raw_data": "Doc Jones;381332", 
+    "quote_id": 381332, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  384926, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "simone;384820", 
+    "quote_id": 384820, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  381343, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "zsu2357;381340", 
+    "quote_id": 381340, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  381344, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "zsu2357;381337", 
+    "quote_id": 381337, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  384927, 
+  [
+   15, 
+   57, 
+   {
+    "raw_data": "Doc Jones;384926", 
+    "quote_id": 384926, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381356, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "JPSartre12;381344", 
+    "quote_id": 381344, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  381369, 
+  [
+   0, 
+   682, 
+   {
+    "raw_data": "Brady;381175", 
+    "quote_id": 381175, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381369, 
+  [
+   0, 
+   858, 
+   {
+    "raw_data": "Tim;381255", 
+    "quote_id": 381255, 
+    "author": "Tim"
+   }
+  ]
+ ], 
+ [
+  381370, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "Brady;381094", 
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381370, 
+  [
+   576, 
+   785, 
+   {
+    "raw_data": "NATO 556;381170", 
+    "quote_id": 381170, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381371, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Brady;381369", 
+    "quote_id": 381369, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  380869, 
+  [
+   0, 
+   20, 
+   {}
+  ]
+ ], 
+ [
+  380869, 
+  [
+   294, 
+   1023, 
+   {}
+  ]
+ ], 
+ [
+  380869, 
+  [
+   130, 
+   1316, 
+   {}
+  ]
+ ], 
+ [
+  381383, 
+  [
+   0, 
+   432, 
+   {
+    "raw_data": "NATO 556;381135", 
+    "quote_id": 381135, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  380875, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "simone;380869", 
+    "quote_id": 380869, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  381388, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "PeterV;381383", 
+    "quote_id": 381383, 
+    "author": "PeterV"
+   }
+  ]
+ ], 
+ [
+  380878, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "simone;380869", 
+    "quote_id": 380869, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  380880, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12;380878", 
+    "quote_id": 380878, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  380882, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Doc Jones;380880", 
+    "quote_id": 380880, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  381400, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Brady;381370", 
+    "quote_id": 381370, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381401, 
+  [
+   0, 
+   696, 
+   {
+    "raw_data": "NATO 556;381388", 
+    "quote_id": 381388, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381403, 
+  [
+   72, 
+   545, 
+   {
+    "raw_data": "Doc Jones;381286", 
+    "quote_id": 381286, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  380897, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "simone;380869", 
+    "quote_id": 380869, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  380899, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "simone;380869", 
+    "quote_id": 380869, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  380901, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12;380878", 
+    "quote_id": 380878, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  380911, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Doc Jones;380880", 
+    "quote_id": 380880, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  380913, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "zsu2357;380899", 
+    "quote_id": 380899, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  380915, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "JPSartre12;380911", 
+    "quote_id": 380911, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  381432, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "Brady;381094", 
+    "quote_id": 381094, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381432, 
+  [
+   576, 
+   785, 
+   {
+    "raw_data": "NATO 556;381170", 
+    "quote_id": 381170, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381432, 
+  [
+   791, 
+   1117, 
+   {
+    "raw_data": "NATO 556;381387", 
+    "quote_id": 381387, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  381433, 
+  [
+   0, 
+   11, 
+   {
+    "raw_data": "Brady;381432", 
+    "quote_id": 381432, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  381435, 
+  [
+   223, 
+   2699, 
+   {}
+  ]
+ ]
+]

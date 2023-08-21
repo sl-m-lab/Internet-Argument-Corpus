@@ -1,0 +1,847 @@
+[
+ [
+  322817, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "chester;322813", 
+    "quote_id": 322813, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322820, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "GazzaElliott;322817", 
+    "quote_id": 322817, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  322369, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Matthew S;299296", 
+    "quote_id": 299296, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  322829, 
+  [
+   0, 
+   635, 
+   {
+    "raw_data": "chester;322820", 
+    "quote_id": 322820, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322797, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Archangel;322369", 
+    "quote_id": 322369, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  322833, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "JakeCJB;322823", 
+    "quote_id": 322823, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  299310, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Matthew S;299296", 
+    "quote_id": 299296, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  322838, 
+  [
+   0, 
+   540, 
+   {
+    "raw_data": "JakeCJB;322823", 
+    "quote_id": 322823, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  322839, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "chester;322838", 
+    "quote_id": 322838, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325016, 
+  [
+   0, 
+   1568, 
+   {
+    "raw_data": "grizzly6626;325009", 
+    "quote_id": 325009, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  322841, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "Archangel;322839", 
+    "quote_id": 322839, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  322842, 
+  [
+   0, 
+   436, 
+   {
+    "raw_data": "chester;322841", 
+    "quote_id": 322841, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  299035, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "jitobear;299008", 
+    "quote_id": 299008, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  325020, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "grizzly6626;325009", 
+    "quote_id": 325009, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  299482, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Matthew S;299473", 
+    "quote_id": 299473, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299482, 
+  [
+   486, 
+   568, 
+   {
+    "raw_data": "Matthew", 
+    "quote_id": 299473, 
+    "unknown_author": "Matthew", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299038, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "jitobear;299008", 
+    "quote_id": 299008, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  299039, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "Matthew S;299035", 
+    "quote_id": 299035, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299296, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Baron;299245", 
+    "quote_id": 299245, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  322849, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "JakeCJB;322797", 
+    "quote_id": 322797, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  322849, 
+  [
+   425, 
+   924, 
+   {
+    "raw_data": "Archangel;322804", 
+    "quote_id": 322804, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  322849, 
+  [
+   930, 
+   1470, 
+   {
+    "raw_data": "JakeCJB;322823", 
+    "quote_id": 322823, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  299047, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "Matthew S;299035", 
+    "quote_id": 299035, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  322823, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "Archangel;322804", 
+    "quote_id": 322804, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325141, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "grizzly6626;325133", 
+    "quote_id": 325133, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  299565, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Matthew S;299488", 
+    "quote_id": 299488, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299055, 
+  [
+   0, 
+   150, 
+   {
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299056, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Matthew S;299005", 
+    "quote_id": 299005, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299189, 
+  [
+   86, 
+   427, 
+   {
+    "raw_data": "Matthew S;298988", 
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299190, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Matthew S;299189", 
+    "quote_id": 299189, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299191, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "Kronus;299190", 
+    "quote_id": 299190, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  323002, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "Archangel;322849", 
+    "quote_id": 322849, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323002, 
+  [
+   921, 
+   995, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323002, 
+  [
+   1083, 
+   1419, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  322847, 
+  [
+   0, 
+   635, 
+   {
+    "raw_data": "chester;322820", 
+    "quote_id": 322820, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322751, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Penfold;299596", 
+    "quote_id": 299596, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  299073, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "foundit66;299065", 
+    "quote_id": 299065, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  323010, 
+  [
+   0, 
+   411, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323010, 
+  [
+   538, 
+   717, 
+   {
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299587, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Matthew S;299488", 
+    "quote_id": 299488, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299076, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "Matthew S;298988", 
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299078, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "ironcourage;299076", 
+    "quote_id": 299076, 
+    "author": "ironcourage"
+   }
+  ]
+ ], 
+ [
+  299212, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Matthew S;299189", 
+    "quote_id": 299189, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  323022, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Big_Bear_Scot;323010", 
+    "quote_id": 323010, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  323022, 
+  [
+   441, 
+   561, 
+   {
+    "quote_id": 323010, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  299473, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "flygirl;299191", 
+    "quote_id": 299191, 
+    "author": "flygirl"
+   }
+  ]
+ ], 
+ [
+  322386, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Archangel;322369", 
+    "quote_id": 322369, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  299065, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "jitobear;299008", 
+    "quote_id": 299008, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  299065, 
+  [
+   414, 
+   772, 
+   {
+    "raw_data": "lesz", 
+    "quote_id": 299048, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  299226, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Matthew S;299189", 
+    "quote_id": 299189, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299615, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Matthew S;299473", 
+    "quote_id": 299473, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299488, 
+  [
+   0, 
+   680, 
+   {
+    "raw_data": "foundit66;299482", 
+    "quote_id": 299482, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  323003, 
+  [
+   0, 
+   412, 
+   {
+    "raw_data": "Archangel;322839", 
+    "quote_id": 322839, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324969, 
+  [
+   0, 
+   911, 
+   {
+    "raw_data": "grizzly6626;324957", 
+    "quote_id": 324957, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  299245, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Matthew S;298988", 
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299246, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Baron;299245", 
+    "quote_id": 299245, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  322813, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Archangel;322805", 
+    "quote_id": 322805, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  298992, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "Matthew S;298988", 
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  298993, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "Matthew S;298988", 
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299250, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "foundit66;299246", 
+    "quote_id": 299246, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  298995, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "thelmoose;298993", 
+    "quote_id": 298993, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  322804, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Matthew S;298988", 
+    "quote_id": 298988, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  322804, 
+  [
+   160, 
+   341, 
+   {
+    "raw_data": "Baron;299245", 
+    "quote_id": 299245, 
+    "author": "Baron"
+   }
+  ]
+ ], 
+ [
+  322804, 
+  [
+   347, 
+   434, 
+   {
+    "raw_data": "Matthew S;299296", 
+    "quote_id": 299296, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  322804, 
+  [
+   440, 
+   592, 
+   {
+    "raw_data": "Archangel;322369", 
+    "quote_id": 322369, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  322804, 
+  [
+   598, 
+   1017, 
+   {
+    "raw_data": "JakeCJB;322797", 
+    "quote_id": 322797, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  322805, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "chester;322386", 
+    "quote_id": 322386, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324973, 
+  [
+   0, 
+   911, 
+   {
+    "raw_data": "grizzly6626;324957", 
+    "quote_id": 324957, 
+    "author": "grizzly6626"
+   }
+  ]
+ ], 
+ [
+  299644, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Matthew S;299473", 
+    "quote_id": 299473, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  299005, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "flygirl;298992", 
+    "quote_id": 298992, 
+    "author": "flygirl"
+   }
+  ]
+ ], 
+ [
+  299647, 
+  [
+   0, 
+   851, 
+   {
+    "raw_data": "flygirl;299644", 
+    "quote_id": 299644, 
+    "author": "flygirl"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,113 @@
+[
+ [
+  43808, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43554, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  44033, 
+  [
+   319, 
+   642, 
+   {}
+  ]
+ ], 
+ [
+  42220, 
+  [
+   0, 
+   381, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  43470, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "galton", 
+    "quote_id": 42220, 
+    "author": "galton"
+   }
+  ]
+ ], 
+ [
+  43985, 
+  [
+   0, 
+   118, 
+   {
+    "quote_id": 43952, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  42291, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  44112, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 43952, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  43479, 
+  [
+   0, 
+   103, 
+   {
+    "quote_id": 43470, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  43480, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 43268, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  42265, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "rapture", 
+    "author": "rapture"
+   }
+  ]
+ ]
+]

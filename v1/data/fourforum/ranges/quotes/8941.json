@@ -1,0 +1,122 @@
+[
+ [
+  237472, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "electrolyte;237428", 
+    "quote_id": 237428, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  237568, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "DrNo;237472", 
+    "quote_id": 237472, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  237350, 
+  [
+   0, 
+   907, 
+   {
+    "raw_data": "DrNo;237340", 
+    "quote_id": 237340, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  237165, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "led by vampires;232431", 
+    "quote_id": 232431, 
+    "author": "led by vampires"
+   }
+  ]
+ ], 
+ [
+  237166, 
+  [
+   0, 
+   478, 
+   {
+    "raw_data": "electrolyte;237165", 
+    "quote_id": 237165, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  237169, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "zachvac;237166", 
+    "quote_id": 237166, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  237428, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "DrNo;237340", 
+    "quote_id": 237340, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  237428, 
+  [
+   466, 
+   612, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 237340, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  237428, 
+  [
+   877, 
+   1066, 
+   {
+    "raw_data": "DrNo", 
+    "quote_id": 237340, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  237340, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "zachvac;237166", 
+    "quote_id": 237166, 
+    "author": "zachvac"
+   }
+  ]
+ ]
+]

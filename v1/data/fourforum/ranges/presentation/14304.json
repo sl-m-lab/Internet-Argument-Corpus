@@ -1,0 +1,44 @@
+[
+ [
+  403978, 
+  [
+   14, 
+   23, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  403978, 
+  [
+   216, 
+   282, 
+   {
+    "category": "color", 
+    "raw_data": "blue"
+   }
+  ]
+ ], 
+ [
+  403978, 
+  [
+   216, 
+   282, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  405959, 
+  [
+   0, 
+   129, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

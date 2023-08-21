@@ -1,0 +1,38 @@
+[
+ [
+  355370, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "chester;354908", 
+    "quote_id": 354908, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  355798, 
+  [
+   0, 
+   537, 
+   {
+    "raw_data": "Collin;355370", 
+    "quote_id": 355370, 
+    "author": "Collin"
+   }
+  ]
+ ], 
+ [
+  354908, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "CUNxTime;354872", 
+    "quote_id": 354872, 
+    "author": "CUNxTime"
+   }
+  ]
+ ]
+]

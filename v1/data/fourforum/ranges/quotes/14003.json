@@ -1,0 +1,483 @@
+[
+ [
+  393992, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Penfold;393987", 
+    "quote_id": 393987, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  393994, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gansao;393907", 
+    "quote_id": 393907, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  394379, 
+  [
+   0, 
+   2011, 
+   {
+    "raw_data": "Zardoz;394303", 
+    "quote_id": 394303, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  393996, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "trebor;393994", 
+    "quote_id": 393994, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  393998, 
+  [
+   0, 
+   2569, 
+   {
+    "raw_data": "pappillion001;393959", 
+    "quote_id": 393959, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394386, 
+  [
+   112, 
+   129, 
+   {
+    "raw_data": "pappillion001;394357", 
+    "quote_id": 394357, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394264, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "pappillion001;394151", 
+    "quote_id": 394151, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394264, 
+  [
+   276, 
+   460, 
+   {
+    "quote_id": 394151, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394264, 
+  [
+   500, 
+   611, 
+   {
+    "quote_id": 394151, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394264, 
+  [
+   750, 
+   986, 
+   {
+    "quote_id": 394151, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394267, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "pappillion001;394151", 
+    "quote_id": 394151, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394653, 
+  [
+   0, 
+   2150, 
+   {
+    "raw_data": "Esdraelon;394400", 
+    "quote_id": 394400, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394653, 
+  [
+   2915, 
+   3833, 
+   {
+    "raw_data": "Esdraelon;394400", 
+    "quote_id": 394400, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394653, 
+  [
+   4529, 
+   4995, 
+   {
+    "raw_data": "Esdraelon;394400", 
+    "quote_id": 394400, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394653, 
+  [
+   5159, 
+   5564, 
+   {
+    "raw_data": "Esdraelon;394400", 
+    "quote_id": 394400, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394653, 
+  [
+   5870, 
+   6571, 
+   {
+    "raw_data": "Esdraelon;394400", 
+    "quote_id": 394400, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394653, 
+  [
+   6941, 
+   7209, 
+   {
+    "raw_data": "Esdraelon;394400", 
+    "quote_id": 394400, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394400, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "pappillion001;394357", 
+    "quote_id": 394357, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  393891, 
+  [
+   0, 
+   1475, 
+   {
+    "raw_data": "Esdraelon;393886", 
+    "quote_id": 393886, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394151, 
+  [
+   0, 
+   1722, 
+   {
+    "raw_data": "Esdraelon;393998", 
+    "quote_id": 393998, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  393907, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "trebor;393891", 
+    "quote_id": 393891, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  394378, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "snakespit;394364", 
+    "quote_id": 394364, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  394303, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Easyrider;394267", 
+    "quote_id": 394267, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  394318, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Esdraelon;394264", 
+    "quote_id": 394264, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394318, 
+  [
+   980, 
+   1109, 
+   {
+    "raw_data": "Esdraelon;394264", 
+    "quote_id": 394264, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394323, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Zardoz;394303", 
+    "quote_id": 394303, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  394395, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Easyrider;394386", 
+    "quote_id": 394386, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  394327, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "pappillion001;394318", 
+    "quote_id": 394318, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394327, 
+  [
+   141, 
+   222, 
+   {
+    "quote_id": 394318, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394327, 
+  [
+   341, 
+   538, 
+   {
+    "quote_id": 394318, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394327, 
+  [
+   770, 
+   1208, 
+   {
+    "quote_id": 394318, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394327, 
+  [
+   1275, 
+   1372, 
+   {
+    "quote_id": 394318, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  394339, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Easyrider;394328", 
+    "quote_id": 394328, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  394339, 
+  [
+   249, 
+   2617, 
+   {}
+  ]
+ ], 
+ [
+  393959, 
+  [
+   0, 
+   1475, 
+   {
+    "raw_data": "Esdraelon;393886", 
+    "quote_id": 393886, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394345, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "snakespit;394339", 
+    "quote_id": 394339, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  393969, 
+  [
+   0, 
+   1475, 
+   {
+    "raw_data": "Esdraelon;393886", 
+    "quote_id": 393886, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394357, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Easyrider;394328", 
+    "quote_id": 394328, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  394361, 
+  [
+   0, 
+   487, 
+   {
+    "raw_data": "Esdraelon;394345", 
+    "quote_id": 394345, 
+    "author": "Esdraelon"
+   }
+  ]
+ ], 
+ [
+  394364, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "pappillion001;394357", 
+    "quote_id": 394357, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  393982, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Zardoz;393969", 
+    "quote_id": 393969, 
+    "author": "Zardoz"
+   }
+  ]
+ ]
+]

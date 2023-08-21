@@ -1,0 +1,420 @@
+[
+ [
+  200835, 
+  [
+   0, 
+   1080, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 200642, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  200839, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200835, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201352, 
+  [
+   0, 
+   382, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 201027, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  201354, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "pandion", 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  203025, 
+  [
+   0, 
+   582, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 202973, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200985, 
+  [
+   148, 
+   256, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200540, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200985, 
+  [
+   296, 
+   395, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200835, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200985, 
+  [
+   566, 
+   1119, 
+   {}
+  ]
+ ], 
+ [
+  200985, 
+  [
+   1613, 
+   2021, 
+   {}
+  ]
+ ], 
+ [
+  200985, 
+  [
+   2076, 
+   2446, 
+   {
+    "raw_data": "epaphras_faith", 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200985, 
+  [
+   2683, 
+   2889, 
+   {}
+  ]
+ ], 
+ [
+  200985, 
+  [
+   3254, 
+   3557, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200835, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200985, 
+  [
+   3643, 
+   3868, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200835, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200860, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 200839, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  202915, 
+  [
+   0, 
+   966, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 202628, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201132, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 201128, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  201008, 
+  [
+   0, 
+   798, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200996, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201013, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 201008, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202628, 
+  [
+   0, 
+   686, 
+   {
+    "raw_data": "skybolt", 
+    "quote_id": 202598, 
+    "author": "skybolt"
+   }
+  ]
+ ], 
+ [
+  201021, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200973, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200642, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200540, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201027, 
+  [
+   0, 
+   1098, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 201013, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200904, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200904, 
+  [
+   404, 
+   680, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200904, 
+  [
+   1162, 
+   1356, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201426, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 201352, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201175, 
+  [
+   0, 
+   430, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 200985, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  201176, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 201140, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  201179, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 201140, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  201179, 
+  [
+   752, 
+   914, 
+   {
+    "raw_data": "beervolcano", 
+    "quote_id": 201175, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  202973, 
+  [
+   0, 
+   1952, 
+   {
+    "raw_data": "skybolt", 
+    "quote_id": 202915, 
+    "author": "skybolt"
+   }
+  ]
+ ], 
+ [
+  202598, 
+  [
+   0, 
+   1106, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 201453, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  201453, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 201426, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  200943, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200943, 
+  [
+   236, 
+   516, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  200943, 
+  [
+   738, 
+   936, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 200860, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ]
+]

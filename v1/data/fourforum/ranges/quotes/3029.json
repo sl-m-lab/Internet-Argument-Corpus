@@ -1,0 +1,922 @@
+[
+ [
+  64769, 
+  [
+   13, 
+   160, 
+   {}
+  ]
+ ], 
+ [
+  64386, 
+  [
+   0, 
+   1334, 
+   {
+    "raw_data": "JustineCredible", 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  64262, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64214, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64391, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 64386, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64521, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64521, 
+  [
+   98, 
+   184, 
+   {
+    "raw_data": "JustineCredible", 
+    "author": "JustineCredible"
+   }
+  ]
+ ], 
+ [
+  64399, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64214, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   125, 
+   233, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   346, 
+   471, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   1056, 
+   1216, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   1380, 
+   1491, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   1557, 
+   1676, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   1806, 
+   2079, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   2118, 
+   2261, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64785, 
+  [
+   2313, 
+   2394, 
+   {
+    "quote_id": 64728, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64787, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64580, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Ladywolf", 
+    "quote_id": 64532, 
+    "author": "Ladywolf"
+   }
+  ]
+ ], 
+ [
+  64430, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "mana'ia", 
+    "quote_id": 64386, 
+    "author": "mana'ia"
+   }
+  ]
+ ], 
+ [
+  64443, 
+  [
+   16, 
+   76, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   117, 
+   259, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   424, 
+   575, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   934, 
+   1133, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   1200, 
+   1437, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   1609, 
+   1737, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   2115, 
+   2357, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   2696, 
+   2805, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   3891, 
+   4039, 
+   {}
+  ]
+ ], 
+ [
+  64443, 
+  [
+   4140, 
+   4255, 
+   {}
+  ]
+ ], 
+ [
+  64452, 
+  [
+   0, 
+   6459, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64728, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 64391, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64728, 
+  [
+   139, 
+   651, 
+   {
+    "quote_id": 64391, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64728, 
+  [
+   1869, 
+   2484, 
+   {
+    "quote_id": 64391, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  64728, 
+  [
+   3255, 
+   3285, 
+   {
+    "quote_id": 64391, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   387, 
+   463, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   556, 
+   620, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   1083, 
+   1215, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   1257, 
+   1333, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   1400, 
+   1456, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   1694, 
+   1856, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   1968, 
+   2055, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   2644, 
+   2735, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   2976, 
+   3165, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   3393, 
+   3662, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   4326, 
+   4384, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   4541, 
+   4618, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   6750, 
+   6817, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   6870, 
+   7016, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   7397, 
+   7491, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   7587, 
+   7676, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   7799, 
+   8203, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   8306, 
+   8371, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   8440, 
+   8574, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   8763, 
+   9057, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   9133, 
+   9305, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65242, 
+  [
+   9465, 
+   9656, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  65254, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   387, 
+   463, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   556, 
+   620, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   1083, 
+   1215, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   1257, 
+   1333, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   1400, 
+   1456, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   1694, 
+   1856, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   1968, 
+   2055, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   2644, 
+   2735, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   2976, 
+   3165, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   3393, 
+   3662, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   4326, 
+   4384, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   4541, 
+   4618, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   6750, 
+   6817, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   6870, 
+   7016, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   7397, 
+   7491, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   7587, 
+   7676, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   7799, 
+   8203, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   8306, 
+   8371, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   8440, 
+   8574, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   8763, 
+   9057, 
+   {
+    "raw_data": "terral03", 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   9133, 
+   9305, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64502, 
+  [
+   9465, 
+   9656, 
+   {
+    "raw_data": "terral03", 
+    "quote_id": 64443, 
+    "author": "terral03"
+   }
+  ]
+ ], 
+ [
+  64767, 
+  [
+   0, 
+   543, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 64766, 
+    "author": "JakeCJB"
+   }
+  ]
+ ]
+]

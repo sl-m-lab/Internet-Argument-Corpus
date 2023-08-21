@@ -1,0 +1,554 @@
+[
+ [
+  261253, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "jitobear;260934", 
+    "quote_id": 260934, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  261129, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Matthew S;261037", 
+    "quote_id": 261037, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  261259, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Bradamante;260922", 
+    "quote_id": 260922, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  261259, 
+  [
+   422, 
+   742, 
+   {
+    "raw_data": "Bradamante;260922", 
+    "quote_id": 260922, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  261136, 
+  [
+   0, 
+   1940, 
+   {
+    "raw_data": "Zardoz;261129", 
+    "quote_id": 261129, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  261142, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "Matthew S;261136", 
+    "quote_id": 261136, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260771, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "AntDogg;260761", 
+    "quote_id": 260761, 
+    "author": "AntDogg"
+   }
+  ]
+ ], 
+ [
+  261412, 
+  [
+   0, 
+   743, 
+   {
+    "raw_data": "Matthew S;261259", 
+    "quote_id": 261259, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  261084, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Bradamante;260922", 
+    "quote_id": 260922, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  261084, 
+  [
+   118, 
+   436, 
+   {
+    "raw_data": "Bradamante", 
+    "quote_id": 260922, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  261037, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "Zardoz;260940", 
+    "quote_id": 260940, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  260786, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Bradamante;260771", 
+    "quote_id": 260771, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  260919, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "TANSTAAFL'07;260917", 
+    "quote_id": 260917, 
+    "author": "TANSTAAFL'07"
+   }
+  ]
+ ], 
+ [
+  260920, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "AntDogg;260859", 
+    "quote_id": 260859, 
+    "author": "AntDogg"
+   }
+  ]
+ ], 
+ [
+  260922, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Matthew S;260795", 
+    "quote_id": 260795, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260922, 
+  [
+   532, 
+   837, 
+   {
+    "raw_data": "Matthew S;260795", 
+    "quote_id": 260795, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260795, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Bradamante;260771", 
+    "quote_id": 260771, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  260789, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "trebor;260786", 
+    "quote_id": 260786, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  260933, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Bassman;260832", 
+    "quote_id": 260832, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  260933, 
+  [
+   219, 
+   434, 
+   {
+    "raw_data": "Bassman;260855", 
+    "quote_id": 260855, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  260934, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Bradamante;260922", 
+    "quote_id": 260922, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  260935, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "TANSTAAFL'07;260917", 
+    "quote_id": 260917, 
+    "author": "TANSTAAFL'07"
+   }
+  ]
+ ], 
+ [
+  261449, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "AntDogg;261084", 
+    "quote_id": 261084, 
+    "author": "AntDogg"
+   }
+  ]
+ ], 
+ [
+  261449, 
+  [
+   77, 
+   243, 
+   {
+    "raw_data": "AntDogg;261084", 
+    "quote_id": 261084, 
+    "author": "AntDogg"
+   }
+  ]
+ ], 
+ [
+  261495, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Bradamante;261449", 
+    "quote_id": 261449, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  260940, 
+  [
+   0, 
+   679, 
+   {
+    "raw_data": "Matthew S;260852", 
+    "quote_id": 260852, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  261082, 
+  [
+   0, 
+   444, 
+   {
+    "raw_data": "TANSTAAFL'07;260917", 
+    "quote_id": 260917, 
+    "author": "TANSTAAFL'07"
+   }
+  ]
+ ], 
+ [
+  261082, 
+  [
+   1199, 
+   1331, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 260919, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260827, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Matthew S;260795", 
+    "quote_id": 260795, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260828, 
+  [
+   0, 
+   885, 
+   {
+    "raw_data": "jyoshu;260827", 
+    "quote_id": 260827, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  260830, 
+  [
+   0, 
+   885, 
+   {
+    "raw_data": "jyoshu;260827", 
+    "quote_id": 260827, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  260831, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Bassman;260828", 
+    "quote_id": 260828, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  260832, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "Matthew S;260831", 
+    "quote_id": 260831, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260833, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Matthew S;260830", 
+    "quote_id": 260830, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260835, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "Bassman;260832", 
+    "quote_id": 260832, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  260836, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Matthew S;260835", 
+    "quote_id": 260835, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260837, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Matthew S;260835", 
+    "quote_id": 260835, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  261086, 
+  [
+   0, 
+   1830, 
+   {
+    "raw_data": "Matthew S;260920", 
+    "quote_id": 260920, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260978, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Bradamante;260922", 
+    "quote_id": 260922, 
+    "author": "Bradamante"
+   }
+  ]
+ ], 
+ [
+  260852, 
+  [
+   0, 
+   853, 
+   {
+    "raw_data": "Zardoz;260849", 
+    "quote_id": 260849, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  260855, 
+  [
+   0, 
+   679, 
+   {
+    "raw_data": "Matthew S;260852", 
+    "quote_id": 260852, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  260856, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Bassman;260855", 
+    "quote_id": 260855, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  260857, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "ShadowPikachu;260856", 
+    "quote_id": 260856, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  260859, 
+  [
+   0, 
+   594, 
+   {
+    "raw_data": "Bassman;260832", 
+    "quote_id": 260832, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  260859, 
+  [
+   975, 
+   1010, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 260795, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  261118, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "AntDogg;261086", 
+    "quote_id": 261086, 
+    "author": "AntDogg"
+   }
+  ]
+ ]
+]

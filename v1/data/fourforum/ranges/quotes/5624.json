@@ -1,0 +1,832 @@
+[
+ [
+  139852, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 139793, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  139199, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139195, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137005, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "FISHX", 
+    "quote_id": 136942, 
+    "author": "FISHX"
+   }
+  ]
+ ], 
+ [
+  139865, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "Nurglitch", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139865, 
+  [
+   519, 
+   710, 
+   {}
+  ]
+ ], 
+ [
+  139865, 
+  [
+   922, 
+   2845, 
+   {}
+  ]
+ ], 
+ [
+  137610, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 137313, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  141270, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 139961, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  141270, 
+  [
+   691, 
+   738, 
+   {
+    "quote_id": 139961, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139096, 
+  [
+   0, 
+   1846, 
+   {
+    "raw_data": "Nurglitch", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139096, 
+  [
+   1988, 
+   2099, 
+   {
+    "quote_id": 137942, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139671, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 139200, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  137241, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137214, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137241, 
+  [
+   569, 
+   624, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137214, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137241, 
+  [
+   1032, 
+   1124, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137214, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139213, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139195, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139213, 
+  [
+   1118, 
+   1263, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139195, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139213, 
+  [
+   1522, 
+   1616, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 139200, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  137259, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 137241, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  138055, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 138043, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  136887, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 136466, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139961, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139865, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139961, 
+  [
+   500, 
+   544, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139870, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  136890, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 136493, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  138043, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 137929, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  136894, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 136887, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  136894, 
+  [
+   120, 
+   354, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 136890, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  135871, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "09dragonfly06", 
+    "quote_id": 135769, 
+    "author": "09dragonfly06"
+   }
+  ]
+ ], 
+ [
+  139200, 
+  [
+   0, 
+   97, 
+   {
+    "quote_id": 139157, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136898, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Nurglitch", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136898, 
+  [
+   274, 
+   407, 
+   {
+    "quote_id": 136894, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136899, 
+  [
+   0, 
+   61, 
+   {
+    "quote_id": 136898, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  136899, 
+  [
+   79, 
+   306, 
+   {}
+  ]
+ ], 
+ [
+  137925, 
+  [
+   0, 
+   1255, 
+   {
+    "raw_data": "Nurglitch", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136393, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 136203, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  136140, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "09dragonfly06", 
+    "quote_id": 135885, 
+    "author": "09dragonfly06"
+   }
+  ]
+ ], 
+ [
+  136143, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 136060, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136912, 
+  [
+   0, 
+   54, 
+   {
+    "quote_id": 136899, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  137299, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137279, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137557, 
+  [
+   559, 
+   945, 
+   {}
+  ]
+ ], 
+ [
+  137942, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137925, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137942, 
+  [
+   1093, 
+   1269, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137925, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137942, 
+  [
+   1436, 
+   1735, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137925, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137303, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 136959, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  135759, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "09dragonfly06", 
+    "quote_id": 135752, 
+    "author": "09dragonfly06"
+   }
+  ]
+ ], 
+ [
+  137309, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "Voice of Reason", 
+    "quote_id": 137303, 
+    "unknown_author": "Voice of Reason", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  139870, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 139800, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139870, 
+  [
+   130, 
+   585, 
+   {}
+  ]
+ ], 
+ [
+  135903, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "Obvious Child", 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  139157, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139096, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139157, 
+  [
+   237, 
+   470, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 139096, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  136161, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 136060, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139195, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 139157, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139195, 
+  [
+   404, 
+   697, 
+   {
+    "quote_id": 139157, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  139793, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 139671, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  135784, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135781, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  137724, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "JPSartre12", 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137724, 
+  [
+   532, 
+   747, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 136898, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137724, 
+  [
+   923, 
+   1089, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 136899, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  137724, 
+  [
+   1115, 
+   1169, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 137214, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  137929, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 137610, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  136175, 
+  [
+   58, 
+   355, 
+   {
+    "raw_data": "Article", 
+    "quote_id": 136143, 
+    "unknown_author": "Article", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  136175, 
+  [
+   542, 
+   863, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 136161, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  139240, 
+  [
+   0, 
+   254, 
+   {
+    "quote_id": 139213, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  137662, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Nurglitch", 
+    "quote_id": 137565, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136055, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 135910, 
+    "author": "Obvious Child"
+   }
+  ]
+ ], 
+ [
+  139258, 
+  [
+   361, 
+   579, 
+   {
+    "raw_data": "The Article", 
+    "quote_id": 136143, 
+    "unknown_author": "The Article", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  137279, 
+  [
+   0, 
+   1068, 
+   {
+    "raw_data": "Nurglitch", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  137214, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Nurglitch", 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  137214, 
+  [
+   395, 
+   563, 
+   {
+    "quote_id": 136899, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  137214, 
+  [
+   623, 
+   895, 
+   {
+    "quote_id": 136899, 
+    "author": "Nurglitch"
+   }
+  ]
+ ], 
+ [
+  136959, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Voice of Reason", 
+    "quote_id": 136912, 
+    "unknown_author": "Voice of Reason", 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ]
+]

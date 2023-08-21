@@ -1,0 +1,737 @@
+[
+ [
+  240171, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "flaja;240135", 
+    "quote_id": 240135, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  240135, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Kronus;239864", 
+    "quote_id": 239864, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  240313, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Jo Bennett;240312", 
+    "quote_id": 240312, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239244, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "flaja;239209", 
+    "quote_id": 239209, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239244, 
+  [
+   781, 
+   1007, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239209, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239244, 
+  [
+   1135, 
+   1407, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239209, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239244, 
+  [
+   1523, 
+   1686, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239209, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  240021, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12;239772", 
+    "quote_id": 239772, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  240023, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "JPSartre12;239937", 
+    "quote_id": 239937, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239772, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "simone;239697", 
+    "quote_id": 239697, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239776, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "JPSartre12;239772", 
+    "quote_id": 239772, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239271, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "flaja;239209", 
+    "quote_id": 239209, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239406, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "electrolyte;239317", 
+    "quote_id": 239317, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239406, 
+  [
+   295, 
+   368, 
+   {
+    "quote_id": 239317, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239406, 
+  [
+   653, 
+   755, 
+   {
+    "quote_id": 239317, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239406, 
+  [
+   1031, 
+   1104, 
+   {
+    "quote_id": 239317, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239406, 
+  [
+   1173, 
+   1219, 
+   {
+    "quote_id": 239317, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239406, 
+  [
+   1356, 
+   1612, 
+   {
+    "quote_id": 239317, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239664, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "flaja;239209", 
+    "quote_id": 239209, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239665, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "simone;239507", 
+    "quote_id": 239507, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  239287, 
+  [
+   0, 
+   464, 
+   {
+    "quote_id": 239244, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239287, 
+  [
+   594, 
+   716, 
+   {
+    "quote_id": 239244, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239287, 
+  [
+   899, 
+   1009, 
+   {
+    "quote_id": 239244, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  239287, 
+  [
+   1233, 
+   1495, 
+   {
+    "quote_id": 239244, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  240312, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "JPSartre12;240072", 
+    "quote_id": 240072, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239290, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Jo Bennett;239273", 
+    "quote_id": 239273, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239290, 
+  [
+   337, 
+   565, 
+   {
+    "quote_id": 239273, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239290, 
+  [
+   664, 
+   983, 
+   {
+    "quote_id": 239273, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239290, 
+  [
+   1305, 
+   1399, 
+   {
+    "quote_id": 239273, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239806, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "Kronus;239776", 
+    "quote_id": 239776, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  239806, 
+  [
+   551, 
+   1350, 
+   {
+    "quote_id": 239776, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  239937, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Kronus;239864", 
+    "quote_id": 239864, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  240072, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "simone;240021", 
+    "quote_id": 240021, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  240074, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Kronus;240023", 
+    "quote_id": 240023, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  240183, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "flaja;240135", 
+    "quote_id": 240135, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  240078, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "JPSartre12;240072", 
+    "quote_id": 240072, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "flaja;239406", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   631, 
+   695, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   933, 
+   1007, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   1225, 
+   1360, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   1482, 
+   1748, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   2368, 
+   2458, 
+   {}
+  ]
+ ], 
+ [
+  239440, 
+  [
+   2368, 
+   2520, 
+   {
+    "raw_data": "flaja", 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   2553, 
+   2679, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239440, 
+  [
+   3022, 
+   3337, 
+   {
+    "raw_data": "flaja", 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239317, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "flaja;239287", 
+    "quote_id": 239287, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239317, 
+  [
+   202, 
+   416, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239287, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239317, 
+  [
+   843, 
+   1033, 
+   {
+    "raw_data": "flaja", 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239446, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "flaja;239406", 
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239446, 
+  [
+   642, 
+   706, 
+   {
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239446, 
+  [
+   1003, 
+   1077, 
+   {
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239446, 
+  [
+   1326, 
+   1461, 
+   {
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239446, 
+  [
+   1588, 
+   1635, 
+   {
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239446, 
+  [
+   1807, 
+   2006, 
+   {
+    "quote_id": 239406, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239289, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "flaja;239287", 
+    "quote_id": 239287, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239864, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "JPSartre12;239806", 
+    "quote_id": 239806, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239463, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Jo Bennett;239417", 
+    "quote_id": 239417, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  239468, 
+  [
+   0, 
+   656, 
+   {}
+  ]
+ ], 
+ [
+  239468, 
+  [
+   2034, 
+   2249, 
+   {}
+  ]
+ ], 
+ [
+  239600, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "JPSartre12;239529", 
+    "quote_id": 239529, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  239480, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "flaja;239468", 
+    "quote_id": 239468, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239480, 
+  [
+   999, 
+   1075, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239468, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239480, 
+  [
+   1354, 
+   1545, 
+   {
+    "raw_data": "flaja", 
+    "quote_id": 239468, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  239486, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "flaja;239463", 
+    "quote_id": 239463, 
+    "author": "flaja"
+   }
+  ]
+ ]
+]

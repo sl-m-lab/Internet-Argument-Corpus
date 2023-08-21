@@ -1,0 +1,452 @@
+[
+ [
+  94213, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 94127, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  94210, 
+  [
+   0, 
+   730, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 94199, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94222, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 94213, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  94226, 
+  [
+   0, 
+   423, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94210, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94226, 
+  [
+   841, 
+   1319, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94210, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94019, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Jim's trucking", 
+    "quote_id": 93954, 
+    "unknown_author": "Jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  94254, 
+  [
+   0, 
+   471, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94237, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  93976, 
+  [
+   0, 
+   826, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 93954, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  94237, 
+  [
+   0, 
+   622, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 94226, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94159, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "georged", 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94159, 
+  [
+   266, 
+   360, 
+   {
+    "quote_id": 94110, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94159, 
+  [
+   518, 
+   657, 
+   {
+    "quote_id": 94110, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94159, 
+  [
+   734, 
+   1317, 
+   {
+    "quote_id": 94110, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94159, 
+  [
+   1635, 
+   1814, 
+   {
+    "quote_id": 94110, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94122, 
+  [
+   0, 
+   1364, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94110, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94001, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93984, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  94263, 
+  [
+   0, 
+   730, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 94199, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94010, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 93984, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  94268, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 94159, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  94144, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 94122, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  94432, 
+  [
+   0, 
+   1566, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94018, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 94010, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  94023, 
+  [
+   0, 
+   586, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 94022, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  94024, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94023, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94026, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 94024, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  94028, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94001, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94031, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94026, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94288, 
+  [
+   0, 
+   1566, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 94254, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94038, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 94031, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  94296, 
+  [
+   0, 
+   1315, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 94291, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94041, 
+  [
+   0, 
+   612, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94038, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94298, 
+  [
+   0, 
+   8, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  94266, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "jitobear", 
+    "quote_id": 94263, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  94230, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 94225, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  94047, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94043, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94403, 
+  [
+   0, 
+   1311, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94296, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94403, 
+  [
+   2670, 
+   2680, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 94298, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  94189, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 94159, 
+    "author": "marc9000"
+   }
+  ]
+ ]
+]

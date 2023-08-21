@@ -1,0 +1,9187 @@
+[
+ [
+  325633, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Another opinion;325630", 
+    "quote_id": 325630, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325633, 
+  [
+   2614, 
+   2806, 
+   {
+    "raw_data": "chester", 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323589, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Galactababe;323584", 
+    "quote_id": 323584, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323589, 
+  [
+   303, 
+   445, 
+   {
+    "quote_id": 323584, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323589, 
+  [
+   1624, 
+   1672, 
+   {
+    "quote_id": 323584, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325642, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Archangel;325633", 
+    "quote_id": 325633, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325642, 
+  [
+   736, 
+   916, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 325633, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325642, 
+  [
+   1155, 
+   1398, 
+   {
+    "raw_data": "Archangel", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325643, 
+  [
+   0, 
+   694, 
+   {
+    "raw_data": "Archangel;325633", 
+    "quote_id": 325633, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323597, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Galactababe;323584", 
+    "quote_id": 323584, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323597, 
+  [
+   149, 
+   339, 
+   {
+    "quote_id": 323584, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325647, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "yes;325531", 
+    "quote_id": 325531, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323601, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Shooterandproud;323597", 
+    "quote_id": 323597, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323602, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Colonel Ingus;323601", 
+    "quote_id": 323601, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  323604, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Shooterandproud;323602", 
+    "quote_id": 323602, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323609, 
+  [
+   18, 
+   96, 
+   {
+    "quote_id": 323589, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  323625, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Galactababe;323609", 
+    "quote_id": 323609, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323626, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Shooterandproud;322933", 
+    "quote_id": 322933, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323629, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "yes;323626", 
+    "quote_id": 323626, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323630, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Galactababe;323609", 
+    "quote_id": 323609, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323630, 
+  [
+   445, 
+   482, 
+   {
+    "raw_data": "Shooterandproud;323625", 
+    "quote_id": 323625, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323632, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "chester;323629", 
+    "quote_id": 323629, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323633, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Colonel Ingus;323630", 
+    "quote_id": 323630, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  323636, 
+  [
+   0, 
+   589, 
+   {
+    "raw_data": "chester;323635", 
+    "quote_id": 323635, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323638, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "yes;323636", 
+    "quote_id": 323636, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323639, 
+  [
+   73, 
+   164, 
+   {
+    "quote_id": 323635, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323640, 
+  [
+   0, 
+   4, 
+   {
+    "raw_data": "yes;323633", 
+    "quote_id": 323633, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323640, 
+  [
+   213, 
+   283, 
+   {
+    "quote_id": 323633, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323640, 
+  [
+   417, 
+   446, 
+   {
+    "quote_id": 323633, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323640, 
+  [
+   696, 
+   737, 
+   {
+    "quote_id": 323633, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323641, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "chester;323638", 
+    "quote_id": 323638, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323644, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "yes;323626", 
+    "quote_id": 323626, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323644, 
+  [
+   256, 
+   421, 
+   {
+    "quote_id": 323626, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323645, 
+  [
+   0, 
+   543, 
+   {
+    "raw_data": "yes;323642", 
+    "unknown_quote_id": 323642, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  325701, 
+  [
+   0, 
+   853, 
+   {
+    "raw_data": "chester;325643", 
+    "quote_id": 325643, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323656, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Shooterandproud;323645", 
+    "quote_id": 323645, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325710, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "Galactababe;325702", 
+    "unknown_quote_id": 325702, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325711, 
+  [
+   0, 
+   451, 
+   {
+    "raw_data": "Galactababe;325702", 
+    "unknown_quote_id": 325702, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323666, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "yes;323656", 
+    "quote_id": 323656, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323666, 
+  [
+   383, 
+   532, 
+   {
+    "quote_id": 323656, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323666, 
+  [
+   683, 
+   724, 
+   {
+    "quote_id": 323656, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323666, 
+  [
+   944, 
+   1098, 
+   {
+    "quote_id": 323656, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323666, 
+  [
+   1212, 
+   1394, 
+   {
+    "quote_id": 323656, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323666, 
+  [
+   1423, 
+   1586, 
+   {
+    "quote_id": 323656, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  323672, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Penfold;323660", 
+    "quote_id": 323660, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  326660, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Ryuuichi;326638", 
+    "quote_id": 326638, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326660, 
+  [
+   254, 
+   354, 
+   {
+    "quote_id": 326638, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326660, 
+  [
+   544, 
+   596, 
+   {
+    "quote_id": 326638, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Phyllis;325541", 
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   298, 
+   423, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   598, 
+   739, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   852, 
+   881, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   937, 
+   1301, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   1448, 
+   1592, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   1766, 
+   1904, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325649, 
+  [
+   1970, 
+   2455, 
+   {
+    "quote_id": 325541, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  327784, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Galactababe;327634", 
+    "quote_id": 327634, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345790, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Chuz Life;345569", 
+    "quote_id": 345569, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  327811, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Riuuichi", 
+    "quote_id": 327589, 
+    "unknown_author": "Riuuichi", 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  327811, 
+  [
+   63, 
+   264, 
+   {
+    "raw_data": "Ingus", 
+    "quote_id": 327592, 
+    "unknown_author": "Ingus", 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  323717, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "yes;323672", 
+    "quote_id": 323672, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  327818, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Archangel;327811", 
+    "quote_id": 327811, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  327818, 
+  [
+   333, 
+   353, 
+   {
+    "quote_id": 327811, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  327818, 
+  [
+   604, 
+   782, 
+   {}
+  ]
+ ], 
+ [
+  327818, 
+  [
+   788, 
+   1145, 
+   {}
+  ]
+ ], 
+ [
+  323730, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Shooterandproud;323717", 
+    "quote_id": 323717, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323735, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "chester;323730", 
+    "quote_id": 323730, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323735, 
+  [
+   357, 
+   653, 
+   {
+    "quote_id": 323730, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  345796, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Chuz Life;345793", 
+    "quote_id": 345793, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345796, 
+  [
+   267, 
+   329, 
+   {
+    "quote_id": 345793, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  327835, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Ryuuichi;327589", 
+    "quote_id": 327589, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  327835, 
+  [
+   3199, 
+   3443, 
+   {}
+  ]
+ ], 
+ [
+  323741, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Penfold;323740", 
+    "quote_id": 323740, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325794, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Shooterandproud;325649", 
+    "quote_id": 325649, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325794, 
+  [
+   392, 
+   555, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325649, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325794, 
+  [
+   704, 
+   748, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325649, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325794, 
+  [
+   854, 
+   989, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325649, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325794, 
+  [
+   1169, 
+   1235, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325649, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325794, 
+  [
+   1424, 
+   1494, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325649, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  327844, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Archangel;327837", 
+    "quote_id": 327837, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323752, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Penfold;323743", 
+    "quote_id": 323743, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325802, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "yes;325688", 
+    "quote_id": 325688, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Phyllis;325794", 
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   301, 
+   442, 
+   {
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   537, 
+   635, 
+   {
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   667, 
+   767, 
+   {
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   824, 
+   1005, 
+   {
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   1330, 
+   1374, 
+   {
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325804, 
+  [
+   1537, 
+   1614, 
+   {
+    "quote_id": 325794, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323758, 
+  [
+   0, 
+   525, 
+   {
+    "raw_data": "Archangel;323735", 
+    "quote_id": 323735, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325320, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Ryuuichi;325307", 
+    "quote_id": 325307, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  325814, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Phyllis;325809", 
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  345801, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Archangel;345797", 
+    "quote_id": 345797, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345801, 
+  [
+   185, 
+   241, 
+   {
+    "quote_id": 345797, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345801, 
+  [
+   309, 
+   355, 
+   {
+    "quote_id": 345797, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345801, 
+  [
+   465, 
+   532, 
+   {
+    "quote_id": 345797, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323769, 
+  [
+   0, 
+   183, 
+   {
+    "quote_id": 323758, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Phyllis;325809", 
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   462, 
+   562, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   669, 
+   803, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   1013, 
+   1389, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   1526, 
+   1672, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   1889, 
+   2050, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   2159, 
+   2267, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   2333, 
+   2497, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   2593, 
+   3219, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   3699, 
+   3968, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   4200, 
+   4451, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   4656, 
+   5132, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325820, 
+  [
+   5344, 
+   5734, 
+   {
+    "quote_id": 325809, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323773, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "chester;323758", 
+    "quote_id": 323758, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323773, 
+  [
+   1066, 
+   1413, 
+   {
+    "quote_id": 323758, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  327875, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Galactababe;327854", 
+    "quote_id": 327854, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323780, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "Archangel;323773", 
+    "quote_id": 323773, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323783, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Penfold;323780", 
+    "quote_id": 323780, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  323804, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Archangel;323783", 
+    "quote_id": 323783, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345808, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Archangel;345797", 
+    "quote_id": 345797, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  327912, 
+  [
+   0, 
+   579, 
+   {
+    "raw_data": "Ryuuichi;327895", 
+    "quote_id": 327895, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  327917, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "chester;327912", 
+    "quote_id": 327912, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323823, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "chester;323804", 
+    "quote_id": 323804, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323826, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Penfold;323780", 
+    "quote_id": 323780, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  323827, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "Archangel;323773", 
+    "quote_id": 323773, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323828, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Galactababe;323769", 
+    "quote_id": 323769, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Shooterandproud;325156", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   208, 
+   388, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   820, 
+   886, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   1673, 
+   1747, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   1962, 
+   2044, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   2349, 
+   2417, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   2813, 
+   2955, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   3610, 
+   3698, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   4497, 
+   4602, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325165, 
+  [
+   4941, 
+   5424, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325156, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323839, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Archangel;323752", 
+    "quote_id": 323752, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323839, 
+  [
+   298, 
+   509, 
+   {
+    "raw_data": "Galactababe;323769", 
+    "quote_id": 323769, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323839, 
+  [
+   557, 
+   1143, 
+   {
+    "raw_data": "Ryuuichi;323826", 
+    "quote_id": 323826, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328747, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Colonel Ingus;328746", 
+    "quote_id": 328746, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328747, 
+  [
+   645, 
+   1942, 
+   {
+    "raw_data": "Archangel;328556", 
+    "quote_id": 328556, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328747, 
+  [
+   1948, 
+   2717, 
+   {
+    "raw_data": "Archangel;328564", 
+    "quote_id": 328564, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328747, 
+  [
+   2723, 
+   3447, 
+   {
+    "raw_data": "Archangel;328569", 
+    "quote_id": 328569, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323848, 
+  [
+   13, 
+   87, 
+   {
+    "quote_id": 323828, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323850, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Galactababe;323848", 
+    "quote_id": 323848, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323858, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Galactababe;323848", 
+    "quote_id": 323848, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323859, 
+  [
+   0, 
+   526, 
+   {
+    "raw_data": "Archangel;323783", 
+    "quote_id": 323783, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323860, 
+  [
+   0, 
+   356, 
+   {
+    "raw_data": "Penfold;323859", 
+    "quote_id": 323859, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  323862, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Archangel;323860", 
+    "quote_id": 323860, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323863, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Archangel;323860", 
+    "quote_id": 323860, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323866, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Penfold;323863", 
+    "quote_id": 323863, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  323867, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Archangel;323866", 
+    "quote_id": 323866, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  327976, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Ryuuichi;327917", 
+    "quote_id": 327917, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  327978, 
+  [
+   0, 
+   537, 
+   {
+    "raw_data": "chester;327976", 
+    "quote_id": 327976, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  327986, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Ryuuichi;327978", 
+    "quote_id": 327978, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  323899, 
+  [
+   21, 
+   70, 
+   {
+    "quote_id": 323858, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323899, 
+  [
+   97, 
+   336, 
+   {}
+  ]
+ ], 
+ [
+  327213, 
+  [
+   0, 
+   86, 
+   {
+    "quote_id": 327156, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  327213, 
+  [
+   440, 
+   544, 
+   {
+    "raw_data": "Ryuuichi;326847", 
+    "quote_id": 326847, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  323905, 
+  [
+   0, 
+   355, 
+   {
+    "quote_id": 323899, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323907, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "iangb;323905", 
+    "quote_id": 323905, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  345558, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Chuz Life;345543", 
+    "quote_id": 345543, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345558, 
+  [
+   228, 
+   267, 
+   {
+    "quote_id": 345543, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  328016, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Ryuuichi;328014", 
+    "quote_id": 328014, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  325688, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Shooterandproud;325647", 
+    "quote_id": 325647, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  328019, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "sinjin;328016", 
+    "quote_id": 328016, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323943, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Galactababe;323899", 
+    "quote_id": 323899, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323951, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Galactababe;323899", 
+    "quote_id": 323899, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345498, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Colonel Ingus;345497", 
+    "quote_id": 345497, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324003, 
+  [
+   0, 
+   54, 
+   {
+    "quote_id": 324001, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  324011, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Ryuuichi;324009", 
+    "quote_id": 324009, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324013, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Galactababe;324003", 
+    "quote_id": 324003, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328112, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Ryuuichi;328019", 
+    "quote_id": 328019, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  345503, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Chuz Life;345500", 
+    "quote_id": 345500, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345503, 
+  [
+   127, 
+   183, 
+   {
+    "quote_id": 345500, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345503, 
+  [
+   306, 
+   339, 
+   {
+    "quote_id": 345500, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  324028, 
+  [
+   13, 
+   84, 
+   {
+    "quote_id": 324004, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324028, 
+  [
+   194, 
+   230, 
+   {
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324028, 
+  [
+   270, 
+   375, 
+   {
+    "quote_id": 324004, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324028, 
+  [
+   509, 
+   611, 
+   {
+    "quote_id": 324004, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324034, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Galactababe;324028", 
+    "quote_id": 324028, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324037, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Galactababe;324028", 
+    "quote_id": 324028, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325708, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "Archangel;325701", 
+    "quote_id": 325701, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328144, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Ryuuichi;327917", 
+    "quote_id": 327917, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328144, 
+  [
+   169, 
+   212, 
+   {
+    "raw_data": "Ryuuichi;328019", 
+    "quote_id": 328019, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328147, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Colonel Ingus;328144", 
+    "quote_id": 328144, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328148, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Archangel;327836", 
+    "quote_id": 327836, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328148, 
+  [
+   274, 
+   362, 
+   {}
+  ]
+ ], 
+ [
+  328153, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "Ryuuichi;328147", 
+    "quote_id": 328147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324063, 
+  [
+   0, 
+   1090, 
+   {
+    "raw_data": "Ryuuichi;324009", 
+    "quote_id": 324009, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328160, 
+  [
+   0, 
+   630, 
+   {
+    "raw_data": "Colonel Ingus;328153", 
+    "quote_id": 328153, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328160, 
+  [
+   2092, 
+   2681, 
+   {}
+  ]
+ ], 
+ [
+  324081, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Shooterandproud;324063", 
+    "quote_id": 324063, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324089, 
+  [
+   890, 
+   978, 
+   {
+    "quote_id": 324063, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324092, 
+  [
+   64, 
+   1519, 
+   {}
+  ]
+ ], 
+ [
+  324097, 
+  [
+   0, 
+   590, 
+   {
+    "raw_data": "Galactababe;324089", 
+    "quote_id": 324089, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324102, 
+  [
+   0, 
+   115, 
+   {
+    "quote_id": 324097, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  327088, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Ryuuichi;326847", 
+    "quote_id": 326847, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324132, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Galactababe;324089", 
+    "quote_id": 324089, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324133, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Galactababe;324102", 
+    "quote_id": 324102, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345181, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "charlie horse;322516", 
+    "quote_id": 322516, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  324145, 
+  [
+   0, 
+   123, 
+   {
+    "quote_id": 324133, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324147, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Shooterandproud;324063", 
+    "quote_id": 324063, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324150, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Ryuuichi;324147", 
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324151, 
+  [
+   0, 
+   597, 
+   {
+    "raw_data": "Galactababe;324145", 
+    "quote_id": 324145, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324155, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "sinjin;324150", 
+    "quote_id": 324150, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  324162, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "sinjin;324150", 
+    "quote_id": 324150, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  328259, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "gansao;328237", 
+    "quote_id": 328237, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324164, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Phyllis;324162", 
+    "quote_id": 324162, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324167, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Phyllis;324162", 
+    "quote_id": 324162, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328265, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "gansao;328237", 
+    "quote_id": 328237, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324173, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Galactababe;324089", 
+    "quote_id": 324089, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324173, 
+  [
+   49, 
+   174, 
+   {
+    "quote_id": 324089, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324173, 
+  [
+   281, 
+   464, 
+   {
+    "quote_id": 324089, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328270, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "Colonel Ingus;328265", 
+    "quote_id": 328265, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  325389, 
+  [
+   0, 
+   123, 
+   {
+    "quote_id": 325375, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Ryuuichi;324147", 
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   437, 
+   531, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   588, 
+   717, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   803, 
+   919, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   1022, 
+   1234, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   1346, 
+   1551, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   1704, 
+   2097, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   2172, 
+   2555, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   2738, 
+   2875, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   2932, 
+   3448, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324177, 
+  [
+   3868, 
+   4129, 
+   {
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324178, 
+  [
+   0, 
+   789, 
+   {
+    "raw_data": "Ryuuichi;324147", 
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324178, 
+  [
+   1527, 
+   1911, 
+   {
+    "raw_data": "Ryuuichi;324147", 
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324178, 
+  [
+   2364, 
+   2625, 
+   {
+    "raw_data": "Ryuuichi;324147", 
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324178, 
+  [
+   2649, 
+   2775, 
+   {
+    "raw_data": "Ryuuichi;324147", 
+    "quote_id": 324147, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  345529, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Archangel;345517", 
+    "quote_id": 345517, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324186, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "chester;324164", 
+    "quote_id": 324164, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324188, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Phyllis;324186", 
+    "quote_id": 324186, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324189, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "sinjin;324167", 
+    "quote_id": 324167, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  324192, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Sigma;324188", 
+    "quote_id": 324188, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324193, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Phyllis;324192", 
+    "quote_id": 324192, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324193, 
+  [
+   651, 
+   1315, 
+   {
+    "quote_id": 324192, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324195, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Sigma;324193", 
+    "quote_id": 324193, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324195, 
+  [
+   663, 
+   719, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 324193, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324198, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 324193, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324199, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Archangel;324198", 
+    "quote_id": 324198, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328297, 
+  [
+   0, 
+   468, 
+   {
+    "raw_data": "Colonel Ingus;328265", 
+    "quote_id": 328265, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328301, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Colonel Ingus;328288", 
+    "quote_id": 328288, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324206, 
+  [
+   0, 
+   428, 
+   {
+    "raw_data": "Phyllis;324195", 
+    "quote_id": 324195, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324207, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Shooterandproud;324197", 
+    "quote_id": 324197, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324208, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Archangel;324198", 
+    "quote_id": 324198, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324209, 
+  [
+   0, 
+   102, 
+   {
+    "quote_id": 324208, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324209, 
+  [
+   138, 
+   727, 
+   {
+    "raw_data": "5th Amendment", 
+    "unknown_author": "5th Amendment"
+   }
+  ]
+ ], 
+ [
+  324209, 
+  [
+   733, 
+   1211, 
+   {
+    "raw_data": "14th Amendment", 
+    "unknown_author": "14th Amendment"
+   }
+  ]
+ ], 
+ [
+  324210, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Phyllis;324209", 
+    "quote_id": 324209, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324213, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 324210, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324213, 
+  [
+   536, 
+   793, 
+   {
+    "raw_data": "Sigma;324210", 
+    "quote_id": 324210, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324214, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Phyllis;324213", 
+    "quote_id": 324213, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324214, 
+  [
+   677, 
+   816, 
+   {
+    "raw_data": "Phyllis;324213", 
+    "quote_id": 324213, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324214, 
+  [
+   936, 
+   1024, 
+   {
+    "raw_data": "Phyllis;324213", 
+    "quote_id": 324213, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328311, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "gansao;328301", 
+    "quote_id": 328301, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324217, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Phyllis;324186", 
+    "quote_id": 324186, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328314, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Ryuuichi;328160", 
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324221, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "chester;324220", 
+    "quote_id": 324220, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324222, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Sigma;324221", 
+    "quote_id": 324221, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324223, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "chester;324222", 
+    "quote_id": 324222, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324224, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "Sigma;324223", 
+    "quote_id": 324223, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324229, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "Phyllis;324207", 
+    "quote_id": 324207, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324229, 
+  [
+   462, 
+   835, 
+   {
+    "quote_id": 324207, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328326, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "gansao;328316", 
+    "quote_id": 328316, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328326, 
+  [
+   106, 
+   131, 
+   {
+    "quote_id": 328316, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328326, 
+  [
+   167, 
+   319, 
+   {
+    "quote_id": 328320, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328330, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Colonel Ingus;328326", 
+    "quote_id": 328326, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328330, 
+  [
+   106, 
+   135, 
+   {
+    "raw_data": "Colonel Ingus;328326", 
+    "quote_id": 328326, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328330, 
+  [
+   171, 
+   448, 
+   {
+    "raw_data": "Colonel Ingus;328326", 
+    "quote_id": 328326, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328341, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "gansao;328330", 
+    "quote_id": 328330, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328341, 
+  [
+   177, 
+   205, 
+   {
+    "quote_id": 328330, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324246, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Shooterandproud;324229", 
+    "quote_id": 324229, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324250, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Phyllis;324246", 
+    "quote_id": 324246, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324261, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Sigma;324223", 
+    "quote_id": 324223, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324281, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "chester;324224", 
+    "quote_id": 324224, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324282, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "sinjin;324261", 
+    "quote_id": 324261, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  324291, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "chester;324250", 
+    "quote_id": 324250, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324292, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Ryuuichi;324288", 
+    "quote_id": 324288, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324292, 
+  [
+   921, 
+   964, 
+   {
+    "raw_data": "Ryuuichi;324288", 
+    "quote_id": 324288, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324292, 
+  [
+   1374, 
+   1598, 
+   {
+    "raw_data": "Ryuuichi;324288", 
+    "quote_id": 324288, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324296, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "isly ilwott;324294", 
+    "quote_id": 324294, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  324314, 
+  [
+   0, 
+   25, 
+   {
+    "raw_data": "Phyllis;324291", 
+    "quote_id": 324291, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  326779, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Ryuuichi;326663", 
+    "quote_id": 326663, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326779, 
+  [
+   417, 
+   509, 
+   {
+    "quote_id": 326663, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324325, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "Phyllis;324246", 
+    "quote_id": 324246, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324326, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Ryuuichi;324288", 
+    "quote_id": 324288, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328434, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "simone;328429", 
+    "quote_id": 328429, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  324343, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Shooterandproud;324325", 
+    "quote_id": 324325, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  328448, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "simone;328444", 
+    "quote_id": 328444, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  326403, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Ryuuichi;326010", 
+    "quote_id": 326010, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324357, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Phyllis;324343", 
+    "quote_id": 324343, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328455, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "gansao;328346", 
+    "quote_id": 328346, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328455, 
+  [
+   70, 
+   127, 
+   {
+    "quote_id": 328448, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  328459, 
+  [
+   0, 
+   319, 
+   {
+    "raw_data": "Colonel Ingus;328455", 
+    "quote_id": 328455, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  326415, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Ryuuichi;326010", 
+    "quote_id": 326010, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324381, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "simone;324366", 
+    "quote_id": 324366, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  324401, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Colonel Ingus;324381", 
+    "quote_id": 324381, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324408, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Phyllis;324343", 
+    "quote_id": 324343, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324408, 
+  [
+   283, 
+   647, 
+   {
+    "quote_id": 324343, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  324413, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "Galactababe;324410", 
+    "quote_id": 324410, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324417, 
+  [
+   11, 
+   164, 
+   {
+    "quote_id": 324413, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324422, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "Galactababe;324417", 
+    "quote_id": 324417, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345569, 
+  [
+   0, 
+   654, 
+   {
+    "raw_data": "Colonel Ingus;345558", 
+    "quote_id": 345558, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324424, 
+  [
+   0, 
+   571, 
+   {
+    "raw_data": "Galactababe;324417", 
+    "quote_id": 324417, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328543, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "gansao;328459", 
+    "quote_id": 328459, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324454, 
+  [
+   0, 
+   698, 
+   {
+    "raw_data": "Galactababe;324453", 
+    "quote_id": 324453, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324457, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "chester;324454", 
+    "quote_id": 324454, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324457, 
+  [
+   200, 
+   313, 
+   {
+    "raw_data": "chester;324454", 
+    "quote_id": 324454, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324457, 
+  [
+   367, 
+   645, 
+   {
+    "raw_data": "chester;324454", 
+    "quote_id": 324454, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324457, 
+  [
+   835, 
+   989, 
+   {
+    "raw_data": "chester;324454", 
+    "quote_id": 324454, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  328556, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "Colonel Ingus;328543", 
+    "quote_id": 328543, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328564, 
+  [
+   775, 
+   2072, 
+   {
+    "raw_data": "Archangel;328556", 
+    "quote_id": 328556, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328569, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Colonel Ingus;328567", 
+    "quote_id": 328567, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328569, 
+  [
+   1012, 
+   1781, 
+   {
+    "raw_data": "Archangel;328564", 
+    "quote_id": 328564, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  328569, 
+  [
+   1787, 
+   3084, 
+   {
+    "raw_data": "Archangel;328556", 
+    "quote_id": 328556, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324477, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "yes;324457", 
+    "quote_id": 324457, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  324484, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "chester;324477", 
+    "quote_id": 324477, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324484, 
+  [
+   1344, 
+   1478, 
+   {}
+  ]
+ ], 
+ [
+  324485, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Galactababe;324453", 
+    "quote_id": 324453, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324485, 
+  [
+   114, 
+   506, 
+   {
+    "quote_id": 324453, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324487, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "chester;324486", 
+    "quote_id": 324486, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324493, 
+  [
+   0, 
+   1104, 
+   {
+    "raw_data": "yes;324484", 
+    "quote_id": 324484, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  327836, 
+  [
+   0, 
+   3257, 
+   {
+    "raw_data": "Colonel Ingus;327835", 
+    "quote_id": 327835, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324526, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Galactababe;324502", 
+    "quote_id": 324502, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327837, 
+  [
+   0, 
+   521, 
+   {
+    "raw_data": "Colonel Ingus;327818", 
+    "quote_id": 327818, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328626, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "Colonel Ingus;328543", 
+    "quote_id": 328543, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  327156, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Galactababe;327155", 
+    "quote_id": 327155, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325109, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "sinjin;325107", 
+    "quote_id": 325107, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325109, 
+  [
+   234, 
+   292, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 325107, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325109, 
+  [
+   869, 
+   915, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 325107, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  322499, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "VTCruiser;322496", 
+    "quote_id": 322496, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  324552, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "simone;324493", 
+    "quote_id": 324493, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  324562, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Shooterandproud;324549", 
+    "quote_id": 324549, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  322516, 
+  [
+   0, 
+   396, 
+   {
+    "raw_data": "iangb;322514", 
+    "quote_id": 322514, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  324566, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Penfold;324554", 
+    "quote_id": 324554, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  324573, 
+  [
+   0, 
+   488, 
+   {
+    "raw_data": "Galactababe;324571", 
+    "quote_id": 324571, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324574, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "chester;324572", 
+    "quote_id": 324572, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324577, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "gansao;324574", 
+    "quote_id": 324574, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324578, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "gansao;324577", 
+    "quote_id": 324577, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324580, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "chester;324578", 
+    "quote_id": 324578, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324582, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "gansao;324580", 
+    "quote_id": 324580, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  322535, 
+  [
+   19, 
+   64, 
+   {
+    "quote_id": 322516, 
+    "author": "charlie horse"
+   }
+  ]
+ ], 
+ [
+  324585, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "chester;324582", 
+    "quote_id": 324582, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324587, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "chester;324572", 
+    "quote_id": 324572, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  326638, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Colonel Ingus;326415", 
+    "quote_id": 326415, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324595, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "gansao;324593", 
+    "quote_id": 324593, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324596, 
+  [
+   0, 
+   488, 
+   {
+    "raw_data": "Archangel;324594", 
+    "unknown_quote_id": 324594, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324777, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "chester;324613", 
+    "quote_id": 324613, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324777, 
+  [
+   335, 
+   451, 
+   {
+    "raw_data": "chester;324731", 
+    "quote_id": 324731, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324777, 
+  [
+   760, 
+   884, 
+   {
+    "raw_data": "Sigma;324732", 
+    "quote_id": 324732, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324600, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "gansao;324597", 
+    "quote_id": 324597, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324606, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "chester;324596", 
+    "quote_id": 324596, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322563, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "VTCruiser;322496", 
+    "quote_id": 322496, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  322564, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "Galactababe;322535", 
+    "quote_id": 322535, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324613, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "Archangel;324606", 
+    "quote_id": 324606, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  326663, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "Colonel Ingus;326660", 
+    "quote_id": 326660, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  327852, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "foundit66;327844", 
+    "quote_id": 327844, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  325122, 
+  [
+   0, 
+   812, 
+   {
+    "raw_data": "gansao;325108", 
+    "quote_id": 325108, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324622, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "gansao;324574", 
+    "quote_id": 324574, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324628, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Sigma;324622", 
+    "quote_id": 324622, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  327854, 
+  [
+   0, 
+   141, 
+   {
+    "quote_id": 327798, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "Shooterandproud;325804", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   273, 
+   356, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   464, 
+   484, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   626, 
+   671, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   1055, 
+   1207, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   1361, 
+   1418, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   1587, 
+   1686, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   1802, 
+   1955, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   2757, 
+   2816, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325809, 
+  [
+   3348, 
+   3450, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325804, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  328746, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "chester;328622", 
+    "quote_id": 328622, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324651, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "gansao;324628", 
+    "quote_id": 324628, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324665, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "gansao;324657", 
+    "quote_id": 324657, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324674, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gansao;324667", 
+    "quote_id": 324667, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  322641, 
+  [
+   0, 
+   213, 
+   {
+    "quote_id": 322564, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324692, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "gansao;324680", 
+    "quote_id": 324680, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  324697, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "gansao;324695", 
+    "quote_id": 324695, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  322650, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Galactababe;322641", 
+    "quote_id": 322641, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325478, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "yes;325465", 
+    "quote_id": 325465, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  326766, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Ryuuichi;326663", 
+    "quote_id": 326663, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326766, 
+  [
+   111, 
+   178, 
+   {
+    "quote_id": 326663, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326766, 
+  [
+   258, 
+   361, 
+   {
+    "quote_id": 326663, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326766, 
+  [
+   440, 
+   771, 
+   {
+    "quote_id": 326663, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324732, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "chester;324731", 
+    "quote_id": 324731, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  328829, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Colonel Ingus;328746", 
+    "quote_id": 328746, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  327190, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "chester;327185", 
+    "quote_id": 327185, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324751, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Sigma;324732", 
+    "quote_id": 324732, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  324758, 
+  [
+   0, 
+   12, 
+   {
+    "raw_data": "chester;324751", 
+    "quote_id": 324751, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324763, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "Galactababe;324571", 
+    "quote_id": 324571, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  322718, 
+  [
+   90, 
+   139, 
+   {
+    "quote_id": 322564, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  322718, 
+  [
+   241, 
+   290, 
+   {
+    "quote_id": 322650, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  324774, 
+  [
+   0, 
+   2101, 
+   {
+    "raw_data": "Jay56;324772", 
+    "quote_id": 324772, 
+    "author": "Jay56"
+   }
+  ]
+ ], 
+ [
+  322730, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "sinjin;322729", 
+    "quote_id": 322729, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  324787, 
+  [
+   0, 
+   679, 
+   {
+    "raw_data": "chester;324774", 
+    "quote_id": 324774, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322740, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "Galactababe;322718", 
+    "quote_id": 322718, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324803, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "Jay56;324785", 
+    "quote_id": 324785, 
+    "author": "Jay56"
+   }
+  ]
+ ], 
+ [
+  326853, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Ryuuichi;326839", 
+    "quote_id": 326839, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  326853, 
+  [
+   563, 
+   1178, 
+   {}
+  ]
+ ], 
+ [
+  322762, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "unkerpaulie;322761", 
+    "quote_id": 322761, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  326859, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Ryuuichi;326855", 
+    "quote_id": 326855, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  324823, 
+  [
+   0, 
+   1035, 
+   {
+    "raw_data": "Galactababe;324820", 
+    "quote_id": 324820, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327204, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "sinjin;327196", 
+    "quote_id": 327196, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  324828, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "chester;324803", 
+    "quote_id": 324803, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Ryuuichi;328160", 
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   428, 
+   706, 
+   {}
+  ]
+ ], 
+ [
+  328229, 
+  [
+   964, 
+   1010, 
+   {
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   1082, 
+   1134, 
+   {
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   1330, 
+   1435, 
+   {
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   1694, 
+   1732, 
+   {
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   1787, 
+   1862, 
+   {
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  328229, 
+  [
+   1930, 
+   1954, 
+   {
+    "quote_id": 328160, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  322801, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "chester;322730", 
+    "quote_id": 322730, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324853, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Galactababe;324847", 
+    "quote_id": 324847, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  322807, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "chloe;322801", 
+    "quote_id": 322801, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  322810, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "chester;322807", 
+    "quote_id": 322807, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322822, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "chester;322818", 
+    "quote_id": 322818, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322827, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "chloe;322810", 
+    "quote_id": 322810, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  322827, 
+  [
+   593, 
+   1020, 
+   {
+    "quote_id": 322810, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  322827, 
+  [
+   1271, 
+   1593, 
+   {
+    "quote_id": 322810, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  322827, 
+  [
+   1916, 
+   2085, 
+   {
+    "raw_data": "VTCruiser;322822", 
+    "quote_id": 322822, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  322831, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "VTCruiser;322822", 
+    "quote_id": 322822, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  322835, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "VTCruiser;322822", 
+    "quote_id": 322822, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  322835, 
+  [
+   175, 
+   504, 
+   {
+    "raw_data": "chester;322831", 
+    "quote_id": 322831, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322835, 
+  [
+   787, 
+   2664, 
+   {
+    "raw_data": "chloe;322810", 
+    "quote_id": 322810, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  322856, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Galactababe;322851", 
+    "quote_id": 322851, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  324918, 
+  [
+   0, 
+   2336, 
+   {
+    "raw_data": "Archangel;324787", 
+    "quote_id": 324787, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324919, 
+  [
+   141, 
+   160, 
+   {
+    "raw_data": "yes;324777", 
+    "quote_id": 324777, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  324920, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Galactababe;324814", 
+    "quote_id": 324814, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  322886, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Galactababe;322851", 
+    "quote_id": 322851, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345415, 
+  [
+   0, 
+   724, 
+   {
+    "raw_data": "Archangel;328569", 
+    "quote_id": 328569, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345797, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Colonel Ingus;345792", 
+    "quote_id": 345792, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345797, 
+  [
+   136, 
+   299, 
+   {
+    "quote_id": 345792, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  322899, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "chester;322837", 
+    "quote_id": 322837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322899, 
+  [
+   131, 
+   246, 
+   {
+    "raw_data": "chester;322837", 
+    "quote_id": 322837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322899, 
+  [
+   917, 
+   948, 
+   {
+    "raw_data": "chester;322837", 
+    "quote_id": 322837, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  322904, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "chloe;322899", 
+    "quote_id": 322899, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  345435, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Archangel;345414", 
+    "quote_id": 345414, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345435, 
+  [
+   254, 
+   327, 
+   {
+    "raw_data": "Chuz Life;345415", 
+    "quote_id": 345415, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  324968, 
+  [
+   11, 
+   139, 
+   {
+    "quote_id": 324920, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  345450, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "Colonel Ingus;345435", 
+    "quote_id": 345435, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  324980, 
+  [
+   0, 
+   638, 
+   {
+    "raw_data": "Galactababe;324968", 
+    "quote_id": 324968, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  322933, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Chloe", 
+    "quote_id": 322899, 
+    "unknown_author": "Chloe", 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  322933, 
+  [
+   191, 
+   252, 
+   {}
+  ]
+ ], 
+ [
+  327196, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Archangel;327190", 
+    "quote_id": 327190, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324988, 
+  [
+   0, 
+   702, 
+   {
+    "raw_data": "Archangel;324980", 
+    "quote_id": 324980, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  324994, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "chester;324988", 
+    "quote_id": 324988, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  324997, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "Phyllis;324994", 
+    "quote_id": 324994, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325001, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "chester;324988", 
+    "quote_id": 324988, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325002, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "chester;324997", 
+    "quote_id": 324997, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  327575, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Galactababe;327444", 
+    "quote_id": 327444, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327575, 
+  [
+   255, 
+   351, 
+   {
+    "quote_id": 327444, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327575, 
+  [
+   461, 
+   489, 
+   {
+    "quote_id": 327444, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327575, 
+  [
+   736, 
+   772, 
+   {
+    "quote_id": 327444, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327575, 
+  [
+   871, 
+   946, 
+   {
+    "quote_id": 327444, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345489, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Chuz Life;345450", 
+    "quote_id": 345450, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345495, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Chuz Life;345450", 
+    "quote_id": 345450, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345495, 
+  [
+   193, 
+   300, 
+   {
+    "raw_data": "Colonel Ingus;345489", 
+    "quote_id": 345489, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345495, 
+  [
+   1520, 
+   1622, 
+   {
+    "raw_data": "Colonel Ingus;345489", 
+    "quote_id": 345489, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345497, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Chuz Life;345495", 
+    "quote_id": 345495, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345497, 
+  [
+   242, 
+   329, 
+   {
+    "quote_id": 345495, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  325018, 
+  [
+   13, 
+   142, 
+   {
+    "quote_id": 324994, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  345499, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Chuz Life;345498", 
+    "quote_id": 345498, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345500, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Colonel Ingus;345499", 
+    "quote_id": 345499, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345500, 
+  [
+   192, 
+   278, 
+   {
+    "raw_data": "Chuz Life;345495", 
+    "quote_id": 345495, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345500, 
+  [
+   284, 
+   340, 
+   {
+    "raw_data": "Colonel Ingus;345497", 
+    "quote_id": 345497, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  325530, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Galactababe;325258", 
+    "quote_id": 325258, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  345504, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Colonel Ingus;345503", 
+    "quote_id": 345503, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  325034, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Phyllis;325002", 
+    "quote_id": 325002, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328263, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Shooterandproud;328259", 
+    "quote_id": 328259, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  345517, 
+  [
+   0, 
+   465, 
+   {
+    "raw_data": "Chuz Life;345415", 
+    "quote_id": 345415, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345517, 
+  [
+   471, 
+   624, 
+   {
+    "raw_data": "Archangel;345414", 
+    "quote_id": 345414, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345517, 
+  [
+   630, 
+   825, 
+   {
+    "raw_data": "Colonel Ingus;345435", 
+    "quote_id": 345435, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  325038, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "chester;325034", 
+    "quote_id": 325034, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325038, 
+  [
+   474, 
+   584, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 325034, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325038, 
+  [
+   744, 
+   843, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 325034, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325038, 
+  [
+   1007, 
+   1093, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 325034, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325038, 
+  [
+   1507, 
+   1565, 
+   {
+    "raw_data": "chester", 
+    "quote_id": 325034, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325040, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Phyllis;325038", 
+    "quote_id": 325038, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  327592, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Ryuuichi;327589", 
+    "quote_id": 327589, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  327592, 
+  [
+   371, 
+   429, 
+   {
+    "quote_id": 327589, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  325534, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "yes;325531", 
+    "quote_id": 325531, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  325047, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "chester;325040", 
+    "quote_id": 325040, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323000, 
+  [
+   21, 
+   43, 
+   {
+    "quote_id": 322827, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325049, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "chester;325040", 
+    "quote_id": 325040, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323005, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Galactababe;323000", 
+    "quote_id": 323000, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327103, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Ryuuichi;327098", 
+    "quote_id": 327098, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  327104, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Ryuuichi;327098", 
+    "quote_id": 327098, 
+    "author": "Ryuuichi"
+   }
+  ]
+ ], 
+ [
+  345543, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Penfold;345529", 
+    "quote_id": 345529, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  345545, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "simone;345530", 
+    "quote_id": 345530, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  323025, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Galactababe;323000", 
+    "quote_id": 323000, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325075, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "gansao;325049", 
+    "quote_id": 325049, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  325076, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "Phyllis;325047", 
+    "quote_id": 325047, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323030, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "Galactababe;323000", 
+    "quote_id": 323000, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323030, 
+  [
+   540, 
+   641, 
+   {
+    "quote_id": 323000, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323034, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "Archangel;323030", 
+    "quote_id": 323030, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325083, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "gansao;325049", 
+    "quote_id": 325049, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  323036, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "Archangel;323030", 
+    "quote_id": 323030, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323036, 
+  [
+   579, 
+   783, 
+   {
+    "quote_id": 323030, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325085, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "gansao;325078", 
+    "quote_id": 325078, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  327589, 
+  [
+   0, 
+   845, 
+   {
+    "raw_data": "Colonel Ingus;327575", 
+    "quote_id": 327575, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  325089, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "chester;325085", 
+    "quote_id": 325085, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325091, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "gansao;325089", 
+    "quote_id": 325089, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  325095, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "sinjin;325091", 
+    "quote_id": 325091, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325098, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "gansao;325095", 
+    "quote_id": 325095, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  325105, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "sinjin;325098", 
+    "quote_id": 325098, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325107, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Phyllis;325105", 
+    "quote_id": 325105, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325108, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "sinjin;325098", 
+    "quote_id": 325098, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323061, 
+  [
+   21, 
+   151, 
+   {
+    "quote_id": 323025, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323061, 
+  [
+   816, 
+   841, 
+   {
+    "quote_id": 323036, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323061, 
+  [
+   953, 
+   1030, 
+   {}
+  ]
+ ], 
+ [
+  325112, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Phyllis;325109", 
+    "quote_id": 325109, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323067, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "shooterandproud", 
+    "unknown_author": "shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323067, 
+  [
+   81, 
+   416, 
+   {
+    "raw_data": "Galactababe", 
+    "quote_id": 323061, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323068, 
+  [
+   0, 
+   675, 
+   {
+    "raw_data": "Galactababe;323061", 
+    "quote_id": 323061, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325119, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "gansao;325078", 
+    "quote_id": 325078, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  325119, 
+  [
+   1258, 
+   1352, 
+   {
+    "raw_data": "gansao;325078", 
+    "quote_id": 325078, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  325121, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Phyllis;325109", 
+    "quote_id": 325109, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325121, 
+  [
+   425, 
+   689, 
+   {
+    "quote_id": 325109, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325121, 
+  [
+   948, 
+   1249, 
+   {
+    "quote_id": 325109, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325121, 
+  [
+   1364, 
+   1368, 
+   {}
+  ]
+ ], 
+ [
+  323074, 
+  [
+   13, 
+   65, 
+   {
+    "quote_id": 323068, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323076, 
+  [
+   0, 
+   452, 
+   {
+    "raw_data": "Galactababe;323074", 
+    "quote_id": 323074, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323077, 
+  [
+   92, 
+   221, 
+   {
+    "raw_data": "Galactababe;320577", 
+    "unknown_quote_id": 320577, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325132, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Shooterandproud;325122", 
+    "quote_id": 325122, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325132, 
+  [
+   700, 
+   736, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325122, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325132, 
+  [
+   764, 
+   843, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325122, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325132, 
+  [
+   1163, 
+   1301, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325122, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323085, 
+  [
+   13, 
+   150, 
+   {
+    "quote_id": 323076, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323086, 
+  [
+   0, 
+   565, 
+   {
+    "raw_data": "Galactababe;323085", 
+    "quote_id": 323085, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325135, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Galactababe;325134", 
+    "quote_id": 325134, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323091, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Galactababe;323074", 
+    "quote_id": 323074, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325140, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Galactababe;325137", 
+    "quote_id": 325137, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328622, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "simone;328619", 
+    "quote_id": 328619, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  327191, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "yes;327187", 
+    "quote_id": 327187, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  325148, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Galactababe;325142", 
+    "quote_id": 325142, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327197, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "chester;327191", 
+    "quote_id": 327191, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  327198, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "simone;327156", 
+    "quote_id": 327156, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  325151, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Galactababe;325142", 
+    "quote_id": 325142, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325152, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "sinjin;325121", 
+    "quote_id": 325121, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325152, 
+  [
+   341, 
+   479, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 325121, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325152, 
+  [
+   774, 
+   888, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 325121, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325152, 
+  [
+   1353, 
+   1461, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 325121, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325152, 
+  [
+   1714, 
+   1735, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 325121, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323106, 
+  [
+   13, 
+   182, 
+   {
+    "quote_id": 323086, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325156, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Phyllis;325132", 
+    "quote_id": 325132, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325156, 
+  [
+   343, 
+   363, 
+   {
+    "quote_id": 325132, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325156, 
+  [
+   555, 
+   867, 
+   {
+    "quote_id": 325132, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325156, 
+  [
+   1172, 
+   1532, 
+   {
+    "quote_id": 325132, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325156, 
+  [
+   1807, 
+   2103, 
+   {
+    "quote_id": 325132, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325156, 
+  [
+   2307, 
+   2632, 
+   {
+    "quote_id": 325132, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325157, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Galactababe;325134", 
+    "quote_id": 325134, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325157, 
+  [
+   720, 
+   883, 
+   {
+    "raw_data": "Galactababe;325137", 
+    "quote_id": 325137, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328346, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Colonel Ingus;328341", 
+    "quote_id": 328341, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  327208, 
+  [
+   0, 
+   1522, 
+   {
+    "raw_data": "Archangel;327204", 
+    "quote_id": 327204, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323114, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "Galactababe;323105", 
+    "quote_id": 323105, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323115, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "Galactababe;323106", 
+    "quote_id": 323106, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328285, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "gansao;328263", 
+    "quote_id": 328263, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  323122, 
+  [
+   12, 
+   84, 
+   {
+    "quote_id": 323114, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323123, 
+  [
+   11, 
+   90, 
+   {
+    "quote_id": 323117, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Phyllis;325165", 
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   272, 
+   701, 
+   {}
+  ]
+ ], 
+ [
+  325173, 
+  [
+   996, 
+   1076, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   1176, 
+   1401, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   1467, 
+   1936, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   2185, 
+   2392, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   2438, 
+   2540, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   2674, 
+   2865, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   2936, 
+   3324, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   3423, 
+   3673, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   4017, 
+   4410, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   4447, 
+   4897, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   5035, 
+   5366, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   5569, 
+   5752, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325173, 
+  [
+   6087, 
+   6338, 
+   {
+    "quote_id": 325165, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323126, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Galactababe;323122", 
+    "quote_id": 323122, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323130, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Galactababe;323123", 
+    "quote_id": 323123, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  328288, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "gansao;328270", 
+    "quote_id": 328270, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  327252, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "sinjin;327208", 
+    "quote_id": 327208, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323160, 
+  [
+   0, 
+   672, 
+   {
+    "raw_data": "Galactababe;323061", 
+    "quote_id": 323061, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323160, 
+  [
+   977, 
+   1079, 
+   {
+    "quote_id": 323061, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323160, 
+  [
+   1173, 
+   1329, 
+   {
+    "quote_id": 323061, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323160, 
+  [
+   1409, 
+   1537, 
+   {
+    "raw_data": "Galactababe;323085", 
+    "quote_id": 323085, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323160, 
+  [
+   1669, 
+   1836, 
+   {
+    "quote_id": 323085, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323161, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "Archangel;323067", 
+    "quote_id": 323067, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323161, 
+  [
+   831, 
+   974, 
+   {
+    "raw_data": "sinjin;323126", 
+    "quote_id": 323126, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323179, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "Shooterandproud;323161", 
+    "quote_id": 323161, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323182, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "chester;323179", 
+    "quote_id": 323179, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323184, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Archangel;323182", 
+    "quote_id": 323182, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  327275, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Archangel;327252", 
+    "quote_id": 327252, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323206, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Shooterandproud;323184", 
+    "quote_id": 323184, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323210, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "chester;323179", 
+    "quote_id": 323179, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323210, 
+  [
+   163, 
+   246, 
+   {
+    "raw_data": "Archangel;323182", 
+    "quote_id": 323182, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323210, 
+  [
+   252, 
+   315, 
+   {
+    "raw_data": "Shooterandproud;323184", 
+    "quote_id": 323184, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323211, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "chester;323206", 
+    "quote_id": 323206, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323213, 
+  [
+   68, 
+   213, 
+   {
+    "quote_id": 323206, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325262, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Galactababe;325258", 
+    "quote_id": 325258, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323216, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "Galactababe;323213", 
+    "quote_id": 323213, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325266, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "chester;325262", 
+    "quote_id": 325262, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323220, 
+  [
+   0, 
+   573, 
+   {
+    "raw_data": "Galactababe;323213", 
+    "quote_id": 323213, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323221, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Archangel;323211", 
+    "quote_id": 323211, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323227, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "sinjin;323225", 
+    "quote_id": 323225, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  325278, 
+  [
+   11, 
+   58, 
+   {
+    "quote_id": 325259, 
+    "author": "iangb"
+   }
+  ]
+ ], 
+ [
+  325574, 
+  [
+   0, 
+   838, 
+   {
+    "raw_data": "Archangel;325570", 
+    "quote_id": 325570, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323253, 
+  [
+   0, 
+   596, 
+   {
+    "raw_data": "Galactababe;323252", 
+    "quote_id": 323252, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323262, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "chester;323206", 
+    "quote_id": 323206, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323262, 
+  [
+   299, 
+   374, 
+   {
+    "raw_data": "Archangel;323211", 
+    "quote_id": 323211, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323262, 
+  [
+   380, 
+   484, 
+   {
+    "raw_data": "chester;323221", 
+    "quote_id": 323221, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "Colonel Ingus;345790", 
+    "quote_id": 345790, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   564, 
+   1861, 
+   {
+    "raw_data": "Archangel;328556", 
+    "quote_id": 328556, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   1867, 
+   2636, 
+   {
+    "raw_data": "Archangel;328564", 
+    "quote_id": 328564, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   2642, 
+   2919, 
+   {
+    "raw_data": "Colonel Ingus;328567", 
+    "quote_id": 328567, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   2925, 
+   3649, 
+   {
+    "raw_data": "Archangel;328569", 
+    "quote_id": 328569, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   3655, 
+   3802, 
+   {
+    "raw_data": "Colonel Ingus;328746", 
+    "quote_id": 328746, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  345791, 
+  [
+   3808, 
+   4295, 
+   {
+    "raw_data": "Archangel;328747", 
+    "quote_id": 328747, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345792, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Archangel;345791", 
+    "quote_id": 345791, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  345793, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "Colonel Ingus;345790", 
+    "quote_id": 345790, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  323268, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Archangel;323262", 
+    "quote_id": 323262, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323269, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Galactababe;323252", 
+    "quote_id": 323252, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325078, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "Sigma;325075", 
+    "quote_id": 325075, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  323273, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Galactababe;323260", 
+    "quote_id": 323260, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323274, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Galactababe;323260", 
+    "quote_id": 323260, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323277, 
+  [
+   0, 
+   85, 
+   {
+    "quote_id": 323274, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  345806, 
+  [
+   433, 
+   1248, 
+   {
+    "raw_data": "Archangel;345797", 
+    "quote_id": 345797, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323279, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Galactababe;323277", 
+    "quote_id": 323277, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323280, 
+  [
+   272, 
+   335, 
+   {
+    "quote_id": 323273, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  323281, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Galactababe;323277", 
+    "quote_id": 323277, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323282, 
+  [
+   24, 
+   71, 
+   {
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323282, 
+  [
+   254, 
+   306, 
+   {
+    "quote_id": 323281, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  323285, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Galactababe;323282", 
+    "quote_id": 323282, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Shooterandproud;325173", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   594, 
+   877, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   1477, 
+   1531, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   1697, 
+   1934, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   2278, 
+   2365, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   3227, 
+   3559, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   3817, 
+   3842, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   4217, 
+   4341, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   5013, 
+   5204, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325334, 
+  [
+   5410, 
+   5522, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  328313, 
+  [
+   0, 
+   7, 
+   {
+    "raw_data": "gansao;328297", 
+    "quote_id": 328297, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  325344, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "Phyllis;325334", 
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325344, 
+  [
+   1208, 
+   1544, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325344, 
+  [
+   2119, 
+   2289, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325344, 
+  [
+   2750, 
+   4126, 
+   {}
+  ]
+ ], 
+ [
+  325345, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Another opinion;325344", 
+    "quote_id": 325344, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325345, 
+  [
+   613, 
+   789, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 325344, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325345, 
+  [
+   867, 
+   975, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 325344, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325345, 
+  [
+   1600, 
+   1722, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 325344, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325348, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Phyllis;325345", 
+    "quote_id": 325345, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325350, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "Phyllis;325345", 
+    "quote_id": 325345, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325350, 
+  [
+   1122, 
+   1192, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325345, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325350, 
+  [
+   2275, 
+   2892, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325345, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325350, 
+  [
+   3597, 
+   4061, 
+   {
+    "raw_data": "Another Opinion", 
+    "quote_id": 325344, 
+    "unknown_author": "Another Opinion", 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  328316, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Colonel Ingus;328313", 
+    "quote_id": 328313, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  327402, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "Galactababe;327286", 
+    "quote_id": 327286, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325356, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Another opinion;325350", 
+    "quote_id": 325350, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325356, 
+  [
+   449, 
+   520, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 325350, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  325356, 
+  [
+   895, 
+   1359, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 325344, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  322514, 
+  [
+   0, 
+   211, 
+   {
+    "quote_id": 322496, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  323319, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Galactababe;323311", 
+    "quote_id": 323311, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323324, 
+  [
+   11, 
+   115, 
+   {
+    "quote_id": 323319, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323325, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Galactababe;323311", 
+    "quote_id": 323311, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323325, 
+  [
+   157, 
+   232, 
+   {
+    "raw_data": "Galactababe;323280", 
+    "quote_id": 323280, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325375, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Phyllis;325356", 
+    "quote_id": 325356, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  328320, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Colonel Ingus;328311", 
+    "quote_id": 328311, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  328302, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "Shooterandproud;328285", 
+    "quote_id": 328285, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323334, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "Archangel;323210", 
+    "quote_id": 323210, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325384, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "chester;325375", 
+    "quote_id": 325375, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325384, 
+  [
+   533, 
+   672, 
+   {
+    "quote_id": 325375, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325385, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Archangel;325384", 
+    "quote_id": 325384, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325386, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "chester;325385", 
+    "quote_id": 325385, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323340, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Shooterandproud;323334", 
+    "quote_id": 323334, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323340, 
+  [
+   516, 
+   704, 
+   {
+    "quote_id": 323334, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323341, 
+  [
+   99, 
+   619, 
+   {}
+  ]
+ ], 
+ [
+  325391, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Galactababe;325389", 
+    "quote_id": 325389, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327444, 
+  [
+   279, 
+   582, 
+   {
+    "quote_id": 327156, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  323350, 
+  [
+   0, 
+   320, 
+   {
+    "raw_data": "Galactababe;323341", 
+    "quote_id": 323341, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325407, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Galactababe;325389", 
+    "quote_id": 325389, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325408, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Archangel;325386", 
+    "quote_id": 325386, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323363, 
+  [
+   96, 
+   243, 
+   {
+    "quote_id": 323350, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323378, 
+  [
+   55, 
+   170, 
+   {
+    "quote_id": 323363, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323378, 
+  [
+   186, 
+   235, 
+   {
+    "quote_id": 323367, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325428, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "chester;325408", 
+    "quote_id": 325408, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325428, 
+  [
+   342, 
+   440, 
+   {
+    "quote_id": 325408, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325116, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "chester;325112", 
+    "quote_id": 325112, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323383, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Galactababe;323378", 
+    "quote_id": 323378, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325258, 
+  [
+   21, 
+   103, 
+   {
+    "quote_id": 325173, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325438, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "Archangel;325428", 
+    "quote_id": 325428, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325446, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "chester;325438", 
+    "quote_id": 325438, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  345399, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Chuz Life;345181", 
+    "quote_id": 345181, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345399, 
+  [
+   85, 
+   120, 
+   {
+    "quote_id": 345181, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345399, 
+  [
+   195, 
+   293, 
+   {
+    "quote_id": 345181, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  345399, 
+  [
+   549, 
+   626, 
+   {
+    "quote_id": 345181, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  325455, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Archangel;325446", 
+    "quote_id": 325446, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325457, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "smiley;325455", 
+    "quote_id": 325455, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  325460, 
+  [
+   0, 
+   443, 
+   {
+    "raw_data": "Archangel;325457", 
+    "quote_id": 325457, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325463, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "yes;325461", 
+    "quote_id": 325461, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  325465, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Penfold;325463", 
+    "quote_id": 325463, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  323422, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Archangel;323340", 
+    "quote_id": 323340, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323422, 
+  [
+   439, 
+   742, 
+   {
+    "quote_id": 323340, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323426, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Galactababe;323378", 
+    "quote_id": 323378, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325476, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Penfold;325463", 
+    "quote_id": 325463, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  325493, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "chester;325478", 
+    "quote_id": 325478, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325514, 
+  [
+   0, 
+   627, 
+   {
+    "raw_data": "Jay56;325510", 
+    "quote_id": 325510, 
+    "author": "Jay56"
+   }
+  ]
+ ], 
+ [
+  323474, 
+  [
+   11, 
+   138, 
+   {
+    "quote_id": 323383, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323474, 
+  [
+   272, 
+   460, 
+   {
+    "quote_id": 323367, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323475, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Galactababe;323474", 
+    "quote_id": 323474, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323477, 
+  [
+   21, 
+   208, 
+   {
+    "quote_id": 323426, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323478, 
+  [
+   35, 
+   193, 
+   {
+    "quote_id": 323475, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323482, 
+  [
+   0, 
+   673, 
+   {
+    "raw_data": "Galactababe;323478", 
+    "quote_id": 323478, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325531, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Shooterandproud;325530", 
+    "quote_id": 325530, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325532, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Galactababe;325529", 
+    "quote_id": 325529, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Phyllis;325334", 
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   475, 
+   581, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   719, 
+   927, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   1252, 
+   1311, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   1405, 
+   1641, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   1712, 
+   1870, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   2124, 
+   2460, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   2705, 
+   2983, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   3079, 
+   3649, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   3895, 
+   4145, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   4274, 
+   4641, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   4732, 
+   5396, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   5635, 
+   5833, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325533, 
+  [
+   5863, 
+   6143, 
+   {
+    "quote_id": 325334, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323486, 
+  [
+   11, 
+   47, 
+   {
+    "quote_id": 323482, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323486, 
+  [
+   176, 
+   239, 
+   {
+    "quote_id": 323475, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325535, 
+  [
+   0, 
+   813, 
+   {
+    "raw_data": "Jay56;325527", 
+    "quote_id": 325527, 
+    "author": "Jay56"
+   }
+  ]
+ ], 
+ [
+  325538, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "chester;325532", 
+    "quote_id": 325532, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Shooterandproud;325533", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   173, 
+   229, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   362, 
+   431, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   580, 
+   664, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   701, 
+   818, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   1190, 
+   1417, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   1569, 
+   1587, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325541, 
+  [
+   1733, 
+   2047, 
+   {
+    "raw_data": "Shooterandproud", 
+    "quote_id": 325533, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  323495, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Galactababe;323486", 
+    "quote_id": 323486, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325544, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "chester;325534", 
+    "quote_id": 325534, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325546, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "yes;325544", 
+    "quote_id": 325544, 
+    "author": "yes"
+   }
+  ]
+ ], 
+ [
+  325547, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "Archangel;325538", 
+    "quote_id": 325538, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325551, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "Archangel;325538", 
+    "quote_id": 325538, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325551, 
+  [
+   803, 
+   923, 
+   {
+    "raw_data": "chester;325547", 
+    "quote_id": 325547, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325553, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Archangel;325551", 
+    "quote_id": 325551, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325555, 
+  [
+   127, 
+   408, 
+   {
+    "raw_data": "kimaraT", 
+    "quote_id": 325549, 
+    "author": "kimaraT"
+   }
+  ]
+ ], 
+ [
+  325555, 
+  [
+   746, 
+   1263, 
+   {
+    "raw_data": "kimaraT", 
+    "quote_id": 325549, 
+    "author": "kimaraT"
+   }
+  ]
+ ], 
+ [
+  325555, 
+  [
+   1647, 
+   2094, 
+   {
+    "raw_data": "kimaraT", 
+    "quote_id": 325549, 
+    "author": "kimaraT"
+   }
+  ]
+ ], 
+ [
+  325556, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "chester;325535", 
+    "quote_id": 325535, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325557, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "chester;325553", 
+    "quote_id": 325553, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325560, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "chester;325546", 
+    "quote_id": 325546, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325561, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "chester;325553", 
+    "quote_id": 325553, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325562, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "Archangel;325557", 
+    "quote_id": 325557, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  323521, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "chester;322730", 
+    "quote_id": 322730, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323521, 
+  [
+   641, 
+   748, 
+   {
+    "raw_data": "Galactababe", 
+    "quote_id": 323477, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325570, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "chester;325562", 
+    "quote_id": 325562, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325570, 
+  [
+   1259, 
+   1475, 
+   {
+    "quote_id": 325562, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  323526, 
+  [
+   40, 
+   209, 
+   {
+    "quote_id": 323521, 
+    "author": "Colonel Ingus"
+   }
+  ]
+ ], 
+ [
+  323526, 
+  [
+   546, 
+   651, 
+   {
+    "quote_id": 323426, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  325575, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "Phyllis;325356", 
+    "quote_id": 325356, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325575, 
+  [
+   385, 
+   752, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325356, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325575, 
+  [
+   2793, 
+   3109, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325356, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325575, 
+  [
+   3989, 
+   4255, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325356, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  325575, 
+  [
+   4776, 
+   5071, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 325356, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  323529, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Galactababe;323526", 
+    "quote_id": 323526, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323529, 
+  [
+   350, 
+   499, 
+   {
+    "quote_id": 323526, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325583, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "chester;325574", 
+    "quote_id": 325574, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325583, 
+  [
+   2322, 
+   2482, 
+   {
+    "raw_data": "chester", 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325583, 
+  [
+   2512, 
+   3705, 
+   {
+    "raw_data": "Archangel;325570", 
+    "quote_id": 325570, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  327634, 
+  [
+   18, 
+   89, 
+   {}
+  ]
+ ], 
+ [
+  323546, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Galactababe;323530", 
+    "quote_id": 323530, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327655, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Galactababe;327634", 
+    "quote_id": 327634, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327655, 
+  [
+   135, 
+   292, 
+   {
+    "quote_id": 327634, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  327655, 
+  [
+   814, 
+   3107, 
+   {}
+  ]
+ ], 
+ [
+  323561, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "Galactababe;323477", 
+    "quote_id": 323477, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323561, 
+  [
+   548, 
+   709, 
+   {
+    "quote_id": 323477, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323561, 
+  [
+   901, 
+   1452, 
+   {
+    "quote_id": 323477, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323565, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Galactababe;323477", 
+    "quote_id": 323477, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  323565, 
+  [
+   927, 
+   1049, 
+   {
+    "quote_id": 323477, 
+    "author": "Galactababe"
+   }
+  ]
+ ], 
+ [
+  325618, 
+  [
+   38, 
+   542, 
+   {
+    "raw_data": "chester;325574", 
+    "quote_id": 325574, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325618, 
+  [
+   2360, 
+   2520, 
+   {
+    "raw_data": "chester", 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325618, 
+  [
+   2550, 
+   3743, 
+   {
+    "raw_data": "Archangel;325570", 
+    "quote_id": 325570, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325625, 
+  [
+   0, 
+   1040, 
+   {
+    "raw_data": "Archangel;325618", 
+    "quote_id": 325618, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325628, 
+  [
+   0, 
+   784, 
+   {
+    "raw_data": "chester;325625", 
+    "quote_id": 325625, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325628, 
+  [
+   1684, 
+   1843, 
+   {
+    "raw_data": "chester", 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  325628, 
+  [
+   1871, 
+   3064, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 325633, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325630, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Archangel;325628", 
+    "quote_id": 325628, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325631, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "Another opinion;325630", 
+    "quote_id": 325630, 
+    "author": "Another opinion"
+   }
+  ]
+ ]
+]

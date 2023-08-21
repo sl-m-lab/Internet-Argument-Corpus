@@ -1,0 +1,60 @@
+[
+ [
+  295397, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Winston Smith;295388", 
+    "quote_id": 295388, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  295397, 
+  [
+   172, 
+   333, 
+   {
+    "quote_id": 295388, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  295228, 
+  [
+   0, 
+   1979, 
+   {
+    "raw_data": "Zardoz;295212", 
+    "quote_id": 295212, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  295212, 
+  [
+   245, 
+   2356, 
+   {
+    "raw_data": "Original poem", 
+    "unknown_author": "Original poem"
+   }
+  ]
+ ], 
+ [
+  295448, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Archangel;295397", 
+    "quote_id": 295397, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

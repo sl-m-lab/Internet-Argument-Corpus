@@ -1,0 +1,44 @@
+[
+ [
+  300732, 
+  [
+   1001, 
+   1028, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  300732, 
+  [
+   1281, 
+   1324, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Blue&quot;"
+   }
+  ]
+ ], 
+ [
+  300732, 
+  [
+   1281, 
+   1324, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  300732, 
+  [
+   145, 
+   1989, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;blue&quot;"
+   }
+  ]
+ ]
+]

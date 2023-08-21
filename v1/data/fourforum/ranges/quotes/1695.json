@@ -1,0 +1,405 @@
+[
+ [
+  34049, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 34015, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34316, 
+  [
+   0, 
+   385, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34292, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34067, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "kelvin90701", 
+    "quote_id": 34049, 
+    "author": "kelvin90701"
+   }
+  ]
+ ], 
+ [
+  34071, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34068, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34077, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34071, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34077, 
+  [
+   480, 
+   558, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34071, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34077, 
+  [
+   648, 
+   768, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34071, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34077, 
+  [
+   819, 
+   896, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34071, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34210, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34103, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34084, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34077, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34084, 
+  [
+   293, 
+   575, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34084, 
+  [
+   1077, 
+   1159, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34077, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34084, 
+  [
+   1497, 
+   1542, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34077, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34246, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 34200, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34095, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34084, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34095, 
+  [
+   760, 
+   1088, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34084, 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34095, 
+  [
+   1404, 
+   2265, 
+   {
+    "raw_data": "hvozdany", 
+    "author": "hvozdany"
+   }
+  ]
+ ], 
+ [
+  34097, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34095, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34100, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34095, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34103, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34095, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34103, 
+  [
+   427, 
+   613, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34095, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  34110, 
+  [
+   435, 
+   667, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 34099, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34110, 
+  [
+   889, 
+   1246, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 34099, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34110, 
+  [
+   1491, 
+   1615, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 34099, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34110, 
+  [
+   1876, 
+   2043, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34245, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "JustAnotherGuy", 
+    "quote_id": 34210, 
+    "author": "JustAnotherGuy"
+   }
+  ]
+ ], 
+ [
+  33734, 
+  [
+   579, 
+   841, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 33599, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  33734, 
+  [
+   2760, 
+   2925, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 33599, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  33734, 
+  [
+   4076, 
+   4318, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 33599, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  33734, 
+  [
+   5839, 
+   5977, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 33599, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34032, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 34015, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34032, 
+  [
+   563, 
+   934, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34162, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  34292, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "hvozdany", 
+    "quote_id": 34245, 
+    "author": "hvozdany"
+   }
+  ]
+ ]
+]

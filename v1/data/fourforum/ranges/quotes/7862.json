@@ -1,0 +1,82 @@
+[
+ [
+  205185, 
+  [
+   0, 
+   5616, 
+   {}
+  ]
+ ], 
+ [
+  205218, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 205185, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  243431, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "JPSartre12;243278", 
+    "quote_id": 243278, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  243740, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Shooterandproud;243730", 
+    "quote_id": 243730, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  243278, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Shooterandproud;242952", 
+    "quote_id": 242952, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  243730, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Rekhyt2238;243457", 
+    "quote_id": 243457, 
+    "author": "Rekhyt2238"
+   }
+  ]
+ ], 
+ [
+  243457, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Shooterandproud;242952", 
+    "quote_id": 242952, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ]
+]

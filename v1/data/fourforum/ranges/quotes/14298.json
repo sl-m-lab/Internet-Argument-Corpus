@@ -1,0 +1,2177 @@
+[
+ [
+  403968, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Doc Jones;403965", 
+    "quote_id": 403965, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403970, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Jo Bennett;403968", 
+    "quote_id": 403968, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403970, 
+  [
+   199, 
+   394, 
+   {
+    "quote_id": 403968, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403974, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "Jo Bennett;403964", 
+    "quote_id": 403964, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403975, 
+  [
+   262, 
+   421, 
+   {}
+  ]
+ ], 
+ [
+  403975, 
+  [
+   1817, 
+   2163, 
+   {}
+  ]
+ ], 
+ [
+  403995, 
+  [
+   80, 
+   5563, 
+   {}
+  ]
+ ], 
+ [
+  404000, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Doc Jones;403970", 
+    "quote_id": 403970, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404011, 
+  [
+   0, 
+   536, 
+   {
+    "raw_data": "Brady;404005", 
+    "quote_id": 404005, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  404013, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "COBHC;404000", 
+    "quote_id": 404000, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  404019, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Brady;404005", 
+    "quote_id": 404005, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  404019, 
+  [
+   65, 
+   193, 
+   {
+    "quote_id": 404005, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  404019, 
+  [
+   326, 
+   605, 
+   {
+    "quote_id": 404005, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  404025, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "Doc Jones;404011", 
+    "quote_id": 404011, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404028, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Jo Bennett;404025", 
+    "quote_id": 404025, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404028, 
+  [
+   1259, 
+   1629, 
+   {
+    "quote_id": 404025, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404029, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Jo Bennett;404025", 
+    "quote_id": 404025, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404029, 
+  [
+   157, 
+   281, 
+   {}
+  ]
+ ], 
+ [
+  404029, 
+  [
+   577, 
+   819, 
+   {}
+  ]
+ ], 
+ [
+  404031, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "NATO 556;404029", 
+    "quote_id": 404029, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404032, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Jo Bennett;404025", 
+    "quote_id": 404025, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404320, 
+  [
+   114, 
+   1342, 
+   {}
+  ]
+ ], 
+ [
+  404320, 
+  [
+   1348, 
+   2197, 
+   {}
+  ]
+ ], 
+ [
+  404040, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Jo Bennett;404025", 
+    "quote_id": 404025, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404040, 
+  [
+   1064, 
+   1404, 
+   {}
+  ]
+ ], 
+ [
+  404040, 
+  [
+   1740, 
+   1830, 
+   {}
+  ]
+ ], 
+ [
+  404040, 
+  [
+   1898, 
+   1924, 
+   {}
+  ]
+ ], 
+ [
+  404040, 
+  [
+   2036, 
+   2049, 
+   {}
+  ]
+ ], 
+ [
+  404050, 
+  [
+   0, 
+   936, 
+   {
+    "raw_data": "Tither;404040", 
+    "quote_id": 404040, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404050, 
+  [
+   1250, 
+   2173, 
+   {
+    "raw_data": "Tither;404040", 
+    "quote_id": 404040, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404070, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Galileo;404050", 
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404070, 
+  [
+   88, 
+   170, 
+   {
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404070, 
+  [
+   757, 
+   937, 
+   {
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404070, 
+  [
+   1115, 
+   1316, 
+   {
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404070, 
+  [
+   1537, 
+   1965, 
+   {
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404070, 
+  [
+   2065, 
+   2262, 
+   {
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404071, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Winston Smith;404059", 
+    "quote_id": 404059, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  404071, 
+  [
+   159, 
+   247, 
+   {
+    "quote_id": 404059, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  404071, 
+  [
+   281, 
+   409, 
+   {
+    "quote_id": 404059, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  404071, 
+  [
+   499, 
+   1043, 
+   {
+    "quote_id": 404059, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  404074, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Jo Bennett;404053", 
+    "quote_id": 404053, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404077, 
+  [
+   54, 
+   256, 
+   {
+    "raw_data": "Galileo;404050", 
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404079, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "Galileo;404050", 
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404079, 
+  [
+   518, 
+   789, 
+   {}
+  ]
+ ], 
+ [
+  404079, 
+  [
+   904, 
+   1210, 
+   {
+    "raw_data": "Galileo;404050", 
+    "quote_id": 404050, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404079, 
+  [
+   2524, 
+   2707, 
+   {}
+  ]
+ ], 
+ [
+  404079, 
+  [
+   3077, 
+   3227, 
+   {}
+  ]
+ ], 
+ [
+  404084, 
+  [
+   0, 
+   344, 
+   {}
+  ]
+ ], 
+ [
+  404115, 
+  [
+   0, 
+   783, 
+   {
+    "raw_data": "Symbiote;404081", 
+    "quote_id": 404081, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  404116, 
+  [
+   0, 
+   783, 
+   {
+    "raw_data": "Symbiote;404081", 
+    "quote_id": 404081, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  404125, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Winston Smith;404116", 
+    "quote_id": 404116, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  404287, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Tither;404283", 
+    "quote_id": 404283, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404258, 
+  [
+   0, 
+   671, 
+   {
+    "raw_data": "Doc Jones;404253", 
+    "quote_id": 404253, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404194, 
+  [
+   80, 
+   3201, 
+   {}
+  ]
+ ], 
+ [
+  404202, 
+  [
+   0, 
+   494, 
+   {
+    "raw_data": "Tither;404077", 
+    "quote_id": 404077, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404203, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Galileo;404202", 
+    "quote_id": 404202, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404205, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "NATO 556;404203", 
+    "quote_id": 404203, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404210, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "Galileo;404205", 
+    "quote_id": 404205, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404211, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Penfold;404206", 
+    "quote_id": 404206, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  404265, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Jo Bennett;404258", 
+    "quote_id": 404258, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404265, 
+  [
+   562, 
+   3386, 
+   {}
+  ]
+ ], 
+ [
+  404218, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Galileo;404202", 
+    "quote_id": 404202, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  404266, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Penfold;404264", 
+    "quote_id": 404264, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  404222, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "NATO 556;404210", 
+    "quote_id": 404210, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404224, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Jo Bennett;404222", 
+    "quote_id": 404222, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404227, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "NATO 556;404224", 
+    "quote_id": 404224, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404228, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Jo Bennett;404222", 
+    "quote_id": 404222, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404238, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Jo Bennett;404222", 
+    "quote_id": 404222, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404238, 
+  [
+   980, 
+   1312, 
+   {}
+  ]
+ ], 
+ [
+  404241, 
+  [
+   0, 
+   919, 
+   {
+    "raw_data": "Doc Jones;404228", 
+    "quote_id": 404228, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404242, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Jo Bennett;404241", 
+    "quote_id": 404241, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404242, 
+  [
+   430, 
+   582, 
+   {
+    "quote_id": 404241, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404242, 
+  [
+   1123, 
+   1437, 
+   {
+    "quote_id": 404241, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404243, 
+  [
+   0, 
+   1389, 
+   {
+    "raw_data": "Doc Jones;404242", 
+    "quote_id": 404242, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404244, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Jo Bennett;404243", 
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404244, 
+  [
+   771, 
+   1030, 
+   {
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404244, 
+  [
+   1435, 
+   1992, 
+   {
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404244, 
+  [
+   2250, 
+   2371, 
+   {
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404246, 
+  [
+   0, 
+   1036, 
+   {}
+  ]
+ ], 
+ [
+  404247, 
+  [
+   0, 
+   1344, 
+   {
+    "raw_data": "Tither;404238", 
+    "quote_id": 404238, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  404251, 
+  [
+   0, 
+   1163, 
+   {
+    "raw_data": "Doc Jones;404231", 
+    "quote_id": 404231, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404253, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Penfold;404251", 
+    "quote_id": 404251, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  404253, 
+  [
+   151, 
+   298, 
+   {
+    "quote_id": 404251, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403746, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Penfold;403745", 
+    "quote_id": 403745, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403748, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Penfold;403747", 
+    "quote_id": 403747, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403751, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "sinjin;403750", 
+    "quote_id": 403750, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  404264, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Doc Jones;404253", 
+    "quote_id": 404253, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403753, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "gansao;403751", 
+    "quote_id": 403751, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403755, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "sinjin;403753", 
+    "quote_id": 403753, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403758, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "gansao;403755", 
+    "quote_id": 403755, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  403759, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "sinjin;403753", 
+    "quote_id": 403753, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403760, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "Superlite27;403759", 
+    "quote_id": 403759, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  403762, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "sinjin;403758", 
+    "quote_id": 403758, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403763, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Jo Bennett;403760", 
+    "quote_id": 403760, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403764, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Superlite27;403759", 
+    "quote_id": 403759, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  404277, 
+  [
+   199, 
+   627, 
+   {
+    "raw_data": "Jo Bennett;404241", 
+    "quote_id": 404241, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404277, 
+  [
+   840, 
+   1936, 
+   {}
+  ]
+ ], 
+ [
+  404277, 
+  [
+   3396, 
+   4234, 
+   {}
+  ]
+ ], 
+ [
+  404277, 
+  [
+   4528, 
+   4807, 
+   {}
+  ]
+ ], 
+ [
+  404277, 
+  [
+   4881, 
+   6014, 
+   {}
+  ]
+ ], 
+ [
+  403766, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Jo Bennett;403760", 
+    "quote_id": 403760, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404282, 
+  [
+   0, 
+   467, 
+   {
+    "raw_data": "Jo Bennett;404241", 
+    "quote_id": 404241, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403771, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Doc Jones;403766", 
+    "quote_id": 403766, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  404284, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "Tither;404277", 
+    "quote_id": 404277, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403773, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Jo Bennett;403771", 
+    "quote_id": 403771, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403773, 
+  [
+   356, 
+   472, 
+   {
+    "quote_id": 403771, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403773, 
+  [
+   1164, 
+   1280, 
+   {
+    "quote_id": 403771, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403774, 
+  [
+   0, 
+   306, 
+   {
+    "raw_data": "Jo Bennett;403771", 
+    "quote_id": 403771, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403775, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Doc Jones;403754", 
+    "quote_id": 403754, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403776, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Jo Bennett;403760", 
+    "quote_id": 403760, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403777, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "Superlite27;403773", 
+    "quote_id": 403773, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  403779, 
+  [
+   0, 
+   537, 
+   {
+    "raw_data": "Jo Bennett;403777", 
+    "quote_id": 403777, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403780, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Jo Bennett;403777", 
+    "quote_id": 403777, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404293, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "Symbiote;404292", 
+    "quote_id": 404292, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  403783, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Jo Bennett;403777", 
+    "quote_id": 403777, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403783, 
+  [
+   344, 
+   473, 
+   {
+    "quote_id": 403777, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404296, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Jo Bennett;404281", 
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404296, 
+  [
+   453, 
+   701, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404296, 
+  [
+   816, 
+   974, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404296, 
+  [
+   1080, 
+   2053, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404298, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Jo Bennett;404243", 
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404298, 
+  [
+   669, 
+   928, 
+   {
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404298, 
+  [
+   1042, 
+   1599, 
+   {
+    "quote_id": 404243, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404299, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "Jo Bennett;404293", 
+    "quote_id": 404293, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403790, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "sinjin;403788", 
+    "quote_id": 403788, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  404292, 
+  [
+   0, 
+   97, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404313, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "NATO 556;404298", 
+    "quote_id": 404298, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404313, 
+  [
+   1266, 
+   1362, 
+   {
+    "quote_id": 404296, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403803, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "NATO 556;403780", 
+    "quote_id": 403780, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404318, 
+  [
+   0, 
+   1242, 
+   {
+    "raw_data": "Jo Bennett;404313", 
+    "quote_id": 404313, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403808, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Jo Bennett;403803", 
+    "quote_id": 403803, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404283, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Jo Bennett;404281", 
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404283, 
+  [
+   376, 
+   1153, 
+   {}
+  ]
+ ], 
+ [
+  404283, 
+  [
+   1159, 
+   1250, 
+   {
+    "raw_data": "Jo Bennett;404281", 
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404283, 
+  [
+   1311, 
+   1534, 
+   {
+    "raw_data": "Jo Bennett;404281", 
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404283, 
+  [
+   1667, 
+   1736, 
+   {
+    "raw_data": "Jo Bennett;404281", 
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403814, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "NATO 556;403808", 
+    "quote_id": 403808, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403816, 
+  [
+   240, 
+   742, 
+   {}
+  ]
+ ], 
+ [
+  403817, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Tither;403816", 
+    "quote_id": 403816, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  403822, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Jo Bennett;403814", 
+    "quote_id": 403814, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403822, 
+  [
+   416, 
+   516, 
+   {
+    "quote_id": 403814, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403822, 
+  [
+   754, 
+   896, 
+   {
+    "quote_id": 403814, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403822, 
+  [
+   1153, 
+   1248, 
+   {
+    "quote_id": 403814, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403822, 
+  [
+   1280, 
+   1509, 
+   {
+    "quote_id": 403814, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403823, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Jo Bennett;403817", 
+    "quote_id": 403817, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403824, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "NATO 556;403822", 
+    "quote_id": 403822, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403827, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "NATO 556;403808", 
+    "quote_id": 403808, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403829, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Superlite27;403759", 
+    "quote_id": 403759, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  403830, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Brady;403827", 
+    "quote_id": 403827, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  403831, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Brady;403829", 
+    "quote_id": 403829, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  403831, 
+  [
+   158, 
+   2898, 
+   {}
+  ]
+ ], 
+ [
+  403840, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "sinjin;403835", 
+    "quote_id": 403835, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403842, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "NATO 556;403840", 
+    "quote_id": 403840, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404289, 
+  [
+   1011, 
+   2314, 
+   {}
+  ]
+ ], 
+ [
+  404289, 
+  [
+   2739, 
+   4215, 
+   {}
+  ]
+ ], 
+ [
+  403858, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Penfold;403824", 
+    "quote_id": 403824, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  404291, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Jo Bennett;404281", 
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404291, 
+  [
+   519, 
+   767, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404291, 
+  [
+   968, 
+   1102, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404291, 
+  [
+   1229, 
+   1387, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  404291, 
+  [
+   1430, 
+   2403, 
+   {
+    "quote_id": 404281, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403860, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Ripskar;403845", 
+    "quote_id": 403845, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  403863, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "NATO 556;403860", 
+    "quote_id": 403860, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403865, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "NATO 556;403858", 
+    "quote_id": 403858, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403866, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "sinjin;403842", 
+    "quote_id": 403842, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403866, 
+  [
+   396, 
+   461, 
+   {
+    "raw_data": "sinjin;403863", 
+    "quote_id": 403863, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403867, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "NATO 556;403858", 
+    "quote_id": 403858, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403868, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "sinjin;403863", 
+    "quote_id": 403863, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403869, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Penfold;403867", 
+    "quote_id": 403867, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403870, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "NATO 556;403860", 
+    "quote_id": 403860, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403870, 
+  [
+   399, 
+   453, 
+   {
+    "quote_id": 403860, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403874, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "sinjin;403863", 
+    "quote_id": 403863, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403874, 
+  [
+   102, 
+   1490, 
+   {}
+  ]
+ ], 
+ [
+  403876, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Ripskar;403873", 
+    "quote_id": 403873, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  403877, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Doc Jones;403876", 
+    "quote_id": 403876, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403881, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "NATO 556;403866", 
+    "quote_id": 403866, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  403884, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Superlite27;403870", 
+    "quote_id": 403870, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  403884, 
+  [
+   187, 
+   549, 
+   {
+    "quote_id": 403870, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  403884, 
+  [
+   979, 
+   2493, 
+   {
+    "quote_id": 403870, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  403885, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Ripskar;403873", 
+    "quote_id": 403873, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  403885, 
+  [
+   208, 
+   361, 
+   {
+    "quote_id": 403873, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  403887, 
+  [
+   0, 
+   315, 
+   {}
+  ]
+ ], 
+ [
+  403888, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "NATO 556;403885", 
+    "quote_id": 403885, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  404408, 
+  [
+   34, 
+   4087, 
+   {}
+  ]
+ ], 
+ [
+  403901, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "Ripskar;403873", 
+    "quote_id": 403873, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  403942, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Penfold;403745", 
+    "quote_id": 403745, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  403944, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Jo Bennett;403760", 
+    "quote_id": 403760, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403947, 
+  [
+   0, 
+   627, 
+   {
+    "raw_data": "Jo Bennett;403814", 
+    "quote_id": 403814, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403952, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Ripskar;403895", 
+    "quote_id": 403895, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  403953, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "zsu2357;403944", 
+    "quote_id": 403944, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  403962, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Jo Bennett;403953", 
+    "quote_id": 403953, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403963, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Jo Bennett;403953", 
+    "quote_id": 403953, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403964, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Doc Jones;403963", 
+    "quote_id": 403963, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  403965, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Jo Bennett;403964", 
+    "quote_id": 403964, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  403965, 
+  [
+   124, 
+   278, 
+   {
+    "quote_id": 403964, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,74 @@
+[
+ [
+  289800, 
+  [
+   0, 
+   662, 
+   {
+    "raw_data": "viva;118613", 
+    "quote_id": 118613, 
+    "author": "viva"
+   }
+  ]
+ ], 
+ [
+  118766, 
+  [
+   0, 
+   662, 
+   {
+    "raw_data": "viva", 
+    "quote_id": 118613, 
+    "author": "viva"
+   }
+  ]
+ ], 
+ [
+  278579, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "georged;118766", 
+    "quote_id": 118766, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  197529, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "viva", 
+    "quote_id": 118613, 
+    "author": "viva"
+   }
+  ]
+ ], 
+ [
+  281213, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "sam2007;263543", 
+    "quote_id": 263543, 
+    "author": "sam2007"
+   }
+  ]
+ ], 
+ [
+  197535, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Obvious Child", 
+    "quote_id": 197529, 
+    "author": "Obvious Child"
+   }
+  ]
+ ]
+]

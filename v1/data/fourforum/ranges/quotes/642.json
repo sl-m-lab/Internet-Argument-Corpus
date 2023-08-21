@@ -1,0 +1,323 @@
+[
+ [
+  11653, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11624, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11653, 
+  [
+   591, 
+   678, 
+   {
+    "quote_id": 11624, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11653, 
+  [
+   830, 
+   993, 
+   {
+    "quote_id": 11624, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11660, 
+  [
+   0, 
+   141, 
+   {
+    "quote_id": 11653, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11660, 
+  [
+   220, 
+   261, 
+   {
+    "quote_id": 11653, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11551, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11527, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11685, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11603, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11823, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 11734, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  11970, 
+  [
+   81, 
+   184, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11672, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11705, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "gilligan8503", 
+    "quote_id": 11685, 
+    "author": "gilligan8503"
+   }
+  ]
+ ], 
+ [
+  11672, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11660, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11722, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 11714, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  11723, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11705, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  8915, 
+  [
+   0, 
+   638, 
+   {
+    "quote_id": 8769, 
+    "author": "DarKnight"
+   }
+  ]
+ ], 
+ [
+  8915, 
+  [
+   932, 
+   1918, 
+   {
+    "quote_id": 8768, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  11736, 
+  [
+   0, 
+   43, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 11734, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  10463, 
+  [
+   0, 
+   1427, 
+   {}
+  ]
+ ], 
+ [
+  11617, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11603, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11617, 
+  [
+   466, 
+   559, 
+   {
+    "quote_id": 11603, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  11617, 
+  [
+   806, 
+   1018, 
+   {
+    "quote_id": 11603, 
+    "author": "wjim1269"
+   }
+  ]
+ ], 
+ [
+  9361, 
+  [
+   0, 
+   115, 
+   {
+    "quote_id": 9345, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  11624, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11617, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11624, 
+  [
+   330, 
+   536, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11617, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11756, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "enfant terrible", 
+    "quote_id": 11723, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11762, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 11738, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  11603, 
+  [
+   0, 
+   169, 
+   {
+    "quote_id": 11551, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11603, 
+  [
+   207, 
+   320, 
+   {
+    "quote_id": 11551, 
+    "author": "enfant terrible"
+   }
+  ]
+ ], 
+ [
+  11764, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "wjim1269", 
+    "quote_id": 11756, 
+    "author": "wjim1269"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,62 @@
+[
+ [
+  181029, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 181026, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  181032, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 181029, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  181035, 
+  [
+   0, 
+   311, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 181032, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  181036, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 181035, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  181021, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "sanguinekane", 
+    "quote_id": 181015, 
+    "author": "sanguinekane"
+   }
+  ]
+ ]
+]

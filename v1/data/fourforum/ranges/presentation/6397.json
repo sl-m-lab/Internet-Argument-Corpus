@@ -1,0 +1,68 @@
+[
+ [
+  198617, 
+  [
+   0, 
+   60, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;6&quot;"
+   }
+  ]
+ ], 
+ [
+  161506, 
+  [
+   401, 
+   402, 
+   {
+    "category": "color", 
+    "raw_data": "Red"
+   }
+  ]
+ ], 
+ [
+  161506, 
+  [
+   435, 
+   436, 
+   {
+    "category": "color", 
+    "raw_data": "Red"
+   }
+  ]
+ ], 
+ [
+  161506, 
+  [
+   438, 
+   439, 
+   {
+    "category": "color", 
+    "raw_data": "Red"
+   }
+  ]
+ ], 
+ [
+  161656, 
+  [
+   678, 
+   679, 
+   {
+    "category": "color", 
+    "raw_data": "DarkOrange"
+   }
+  ]
+ ], 
+ [
+  161656, 
+  [
+   771, 
+   850, 
+   {
+    "category": "color", 
+    "raw_data": "DarkOrange"
+   }
+  ]
+ ]
+]

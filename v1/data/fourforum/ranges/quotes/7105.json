@@ -1,0 +1,143 @@
+[
+ [
+  186247, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 186233, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  186247, 
+  [
+   650, 
+   908, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 186233, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  186411, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 186292, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  186411, 
+  [
+   438, 
+   1187, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 186292, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  186253, 
+  [
+   0, 
+   389, 
+   {
+    "quote_id": 186247, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  186414, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 186412, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  186256, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 186247, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  186256, 
+  [
+   395, 
+   615, 
+   {
+    "raw_data": "Wraith", 
+    "quote_id": 186253, 
+    "author": "Wraith"
+   }
+  ]
+ ], 
+ [
+  186417, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 186411, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  186417, 
+  [
+   645, 
+   782, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 186411, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  186292, 
+  [
+   0, 
+   137, 
+   {
+    "quote_id": 186256, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  186292, 
+  [
+   407, 
+   659, 
+   {
+    "quote_id": 186256, 
+    "author": "Eddie"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,1385 @@
+[
+ [
+  251224, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "daewoo;251162", 
+    "quote_id": 251162, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251224, 
+  [
+   121, 
+   177, 
+   {
+    "quote_id": 251162, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251224, 
+  [
+   237, 
+   275, 
+   {
+    "quote_id": 251162, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251072, 
+  [
+   0, 
+   641, 
+   {
+    "raw_data": "gamehuis;251019", 
+    "quote_id": 251019, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  250930, 
+  [
+   0, 
+   671, 
+   {
+    "raw_data": "gman;250730", 
+    "quote_id": 250730, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251015, 
+  [
+   0, 
+   768, 
+   {
+    "raw_data": "gman;250976", 
+    "quote_id": 250976, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250765, 
+  [
+   0, 
+   671, 
+   {
+    "raw_data": "gman;250730", 
+    "quote_id": 250730, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250766, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "gman;250730", 
+    "quote_id": 250730, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250766, 
+  [
+   121, 
+   151, 
+   {
+    "raw_data": "gman;250730", 
+    "quote_id": 250730, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  252141, 
+  [
+   0, 
+   2195, 
+   {
+    "raw_data": "obvious_child;252070", 
+    "quote_id": 252070, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  251154, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "daewoo;251123", 
+    "quote_id": 251123, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251154, 
+  [
+   221, 
+   609, 
+   {
+    "raw_data": "daewoo;251123", 
+    "quote_id": 251123, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  250769, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Kronus;250766", 
+    "quote_id": 250766, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  250770, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Kronus;250766", 
+    "quote_id": 250766, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  250774, 
+  [
+   0, 
+   135, 
+   {
+    "quote_id": 250730, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251162, 
+  [
+   0, 
+   514, 
+   {
+    "raw_data": "gamehuis;251154", 
+    "quote_id": 251154, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  251294, 
+  [
+   0, 
+   1402, 
+   {
+    "raw_data": "obvious_child;250999", 
+    "quote_id": 250999, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250784, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "gman;250770", 
+    "quote_id": 250770, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250784, 
+  [
+   166, 
+   251, 
+   {
+    "raw_data": "gman;250770", 
+    "quote_id": 250770, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250913, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "gman;250852", 
+    "quote_id": 250852, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251093, 
+  [
+   0, 
+   429, 
+   {
+    "raw_data": "huckleberry;251072", 
+    "quote_id": 251072, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  252070, 
+  [
+   0, 
+   386, 
+   {
+    "raw_data": "gman;252065", 
+    "quote_id": 252065, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  252070, 
+  [
+   576, 
+   647, 
+   {}
+  ]
+ ], 
+ [
+  252070, 
+  [
+   981, 
+   1152, 
+   {
+    "quote_id": 252065, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  252070, 
+  [
+   1721, 
+   1875, 
+   {
+    "quote_id": 252065, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  252070, 
+  [
+   2520, 
+   2691, 
+   {
+    "quote_id": 252065, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  252070, 
+  [
+   2886, 
+   3299, 
+   {
+    "quote_id": 252065, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  252070, 
+  [
+   3524, 
+   3664, 
+   {
+    "quote_id": 252065, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251048, 
+  [
+   0, 
+   641, 
+   {
+    "raw_data": "gamehuis;251019", 
+    "quote_id": 251019, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  250925, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "jim's trucking;250879", 
+    "quote_id": 250879, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  251702, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "obvious_child;251224", 
+    "quote_id": 251224, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  251702, 
+  [
+   223, 
+   273, 
+   {
+    "quote_id": 251224, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  251702, 
+  [
+   355, 
+   502, 
+   {
+    "quote_id": 251224, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250936, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "jim's trucking;250879", 
+    "quote_id": 250879, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  251069, 
+  [
+   0, 
+   786, 
+   {
+    "raw_data": "obvious_child;251001", 
+    "quote_id": 251001, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250942, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Kronus;250766", 
+    "quote_id": 250766, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  250944, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "obvious_child;250856", 
+    "quote_id": 250856, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250947, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "simone;250876", 
+    "quote_id": 250876, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  250693, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;250610", 
+    "quote_id": 250610, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  250950, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "obvious_child;250925", 
+    "quote_id": 250925, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  252065, 
+  [
+   0, 
+   2528, 
+   {
+    "raw_data": "obvious_child;251636", 
+    "quote_id": 251636, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250953, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "gman;250947", 
+    "quote_id": 250947, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   0, 
+   39, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   504, 
+   568, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   690, 
+   779, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   988, 
+   1024, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   1145, 
+   1207, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   1277, 
+   1375, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   1890, 
+   1977, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250955, 
+  [
+   2149, 
+   2199, 
+   {
+    "quote_id": 250942, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251085, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "daewoo;251048", 
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251085, 
+  [
+   184, 
+   666, 
+   {
+    "raw_data": "daewoo;251048", 
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251085, 
+  [
+   1235, 
+   1685, 
+   {
+    "raw_data": "daewoo;251048", 
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251064, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "daewoo;251048", 
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251064, 
+  [
+   231, 
+   388, 
+   {
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251064, 
+  [
+   513, 
+   642, 
+   {
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251064, 
+  [
+   794, 
+   1001, 
+   {
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251064, 
+  [
+   1199, 
+   1397, 
+   {
+    "quote_id": 251048, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  251987, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Jim Colyer;251985", 
+    "quote_id": 251985, 
+    "author": "Jim Colyer"
+   }
+  ]
+ ], 
+ [
+  250966, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "gman;250944", 
+    "quote_id": 250944, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250966, 
+  [
+   490, 
+   614, 
+   {
+    "quote_id": 250944, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251095, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "huckleberry;251069", 
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251095, 
+  [
+   222, 
+   311, 
+   {
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251095, 
+  [
+   375, 
+   453, 
+   {
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251095, 
+  [
+   1038, 
+   1126, 
+   {}
+  ]
+ ], 
+ [
+  251095, 
+  [
+   1283, 
+   1391, 
+   {
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251095, 
+  [
+   1480, 
+   1625, 
+   {}
+  ]
+ ], 
+ [
+  251095, 
+  [
+   1981, 
+   2165, 
+   {
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251095, 
+  [
+   2703, 
+   2845, 
+   {
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251082, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "huckleberry;251069", 
+    "quote_id": 251069, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  252890, 
+  [
+   0, 
+   1140, 
+   {
+    "raw_data": "Waxy;251082", 
+    "quote_id": 251082, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  252123, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Jim Colyer;251985", 
+    "quote_id": 251985, 
+    "author": "Jim Colyer"
+   }
+  ]
+ ], 
+ [
+  250976, 
+  [
+   0, 
+   1076, 
+   {
+    "raw_data": "obvious_child;250966", 
+    "quote_id": 250966, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   543, 
+   656, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   782, 
+   982, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   1533, 
+   1645, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   1668, 
+   1729, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   2460, 
+   2966, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   4441, 
+   4604, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  250977, 
+  [
+   5041, 
+   5485, 
+   {
+    "raw_data": "GazzaElliott;250955", 
+    "quote_id": 250955, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  251096, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "gamehuis;251089", 
+    "quote_id": 251089, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  251096, 
+  [
+   155, 
+   297, 
+   {
+    "quote_id": 251089, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  251096, 
+  [
+   516, 
+   606, 
+   {
+    "quote_id": 251089, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  250852, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Kronus;250784", 
+    "quote_id": 250784, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  251089, 
+  [
+   0, 
+   776, 
+   {
+    "raw_data": "obvious_child;251064", 
+    "quote_id": 251064, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  250856, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "gman;250769", 
+    "quote_id": 250769, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250732, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "gman;250730", 
+    "quote_id": 250730, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250863, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "gamehuis;250861", 
+    "quote_id": 250861, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  251123, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "gamehuis;251085", 
+    "quote_id": 251085, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  251123, 
+  [
+   1081, 
+   1422, 
+   {
+    "quote_id": 251085, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "gman;251294", 
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   266, 
+   324, 
+   {
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   645, 
+   878, 
+   {
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   1749, 
+   1804, 
+   {
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   1955, 
+   2074, 
+   {
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   2209, 
+   2232, 
+   {
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   2266, 
+   2384, 
+   {
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251636, 
+  [
+   2835, 
+   2912, 
+   {
+    "quote_id": 251294, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250999, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "gman;250976", 
+    "quote_id": 250976, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250999, 
+  [
+   135, 
+   220, 
+   {
+    "quote_id": 250976, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250999, 
+  [
+   315, 
+   413, 
+   {
+    "quote_id": 250976, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250999, 
+  [
+   449, 
+   635, 
+   {
+    "quote_id": 250976, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  250999, 
+  [
+   992, 
+   1192, 
+   {
+    "quote_id": 250976, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  251001, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "huckleberry;250977", 
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251001, 
+  [
+   608, 
+   643, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250876, 
+  [
+   0, 
+   15, 
+   {
+    "raw_data": "jim's trucking;250765", 
+    "quote_id": 250765, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   107, 
+   222, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   430, 
+   861, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   1289, 
+   1394, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   1734, 
+   1767, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   1917, 
+   2021, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   2502, 
+   2569, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   2804, 
+   2829, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   3039, 
+   3159, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   3569, 
+   3669, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   4101, 
+   4195, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   4234, 
+   4365, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  251006, 
+  [
+   5072, 
+   5114, 
+   {
+    "quote_id": 250977, 
+    "author": "huckleberry"
+   }
+  ]
+ ], 
+ [
+  250879, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "simone;250876", 
+    "quote_id": 250876, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

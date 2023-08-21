@@ -1,0 +1,61 @@
+[
+ [
+  104809, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 104680, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  104813, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 104809, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  104942, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 104898, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  105425, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 104942, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  105425, 
+  [
+   1309, 
+   1379, 
+   {
+    "quote_id": 104942, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ]
+]

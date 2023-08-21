@@ -1,0 +1,38 @@
+[
+ [
+  233861, 
+  [
+   20, 
+   112, 
+   {
+    "raw_data": "zachvac;223187", 
+    "quote_id": 223187, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  296157, 
+  [
+   0, 
+   672, 
+   {
+    "raw_data": "marquez;223143", 
+    "quote_id": 223143, 
+    "author": "marquez"
+   }
+  ]
+ ], 
+ [
+  223187, 
+  [
+   0, 
+   775, 
+   {
+    "raw_data": "marquez", 
+    "quote_id": 223143, 
+    "author": "marquez"
+   }
+  ]
+ ]
+]

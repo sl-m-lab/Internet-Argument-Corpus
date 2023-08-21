@@ -1,0 +1,832 @@
+[
+ [
+  290561, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "obvious_child;290471", 
+    "quote_id": 290471, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290565, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "peteratwar;290478", 
+    "quote_id": 290478, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  290565, 
+  [
+   542, 
+   671, 
+   {
+    "quote_id": 290478, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  290567, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "nate895;290561", 
+    "quote_id": 290561, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290567, 
+  [
+   469, 
+   567, 
+   {
+    "quote_id": 290561, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290567, 
+  [
+   801, 
+   864, 
+   {
+    "quote_id": 290561, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290567, 
+  [
+   1090, 
+   1206, 
+   {
+    "quote_id": 290561, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290570, 
+  [
+   0, 
+   1218, 
+   {
+    "raw_data": "obvious_child;290567", 
+    "quote_id": 290567, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "nate895;290570", 
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   352, 
+   596, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   637, 
+   834, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   943, 
+   1104, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   1335, 
+   1409, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   1642, 
+   1706, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   2114, 
+   2190, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290574, 
+  [
+   2706, 
+   2836, 
+   {
+    "quote_id": 290570, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290575, 
+  [
+   0, 
+   2097, 
+   {
+    "raw_data": "obvious_child;290574", 
+    "quote_id": 290574, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290576, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "obvious_child;290565", 
+    "quote_id": 290565, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290460, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "nate895;290354", 
+    "quote_id": 290354, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290460, 
+  [
+   675, 
+   1440, 
+   {
+    "quote_id": 290354, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290465, 
+  [
+   0, 
+   816, 
+   {
+    "raw_data": "Phunting;290460", 
+    "quote_id": 290460, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  290465, 
+  [
+   928, 
+   1014, 
+   {}
+  ]
+ ], 
+ [
+  290213, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Phunting;290205", 
+    "quote_id": 290205, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  290342, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "gamehuis;290213", 
+    "quote_id": 290213, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  290342, 
+  [
+   828, 
+   1153, 
+   {
+    "raw_data": "nate895", 
+    "quote_id": 290221, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290346, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Symbiote;290343", 
+    "quote_id": 290343, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  290221, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Phunting;290205", 
+    "quote_id": 290205, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  290354, 
+  [
+   0, 
+   941, 
+   {
+    "raw_data": "Phunting;290342", 
+    "quote_id": 290342, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  360118, 
+  [
+   0, 
+   411, 
+   {
+    "raw_data": "flaja;359820", 
+    "quote_id": 359820, 
+    "author": "flaja"
+   }
+  ]
+ ], 
+ [
+  290360, 
+  [
+   0, 
+   541, 
+   {
+    "raw_data": "Matthew S;290356", 
+    "quote_id": 290356, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  290356, 
+  [
+   0, 
+   668, 
+   {
+    "raw_data": "nate895;289844", 
+    "quote_id": 289844, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290618, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "peteratwar;290576", 
+    "quote_id": 290576, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "nate895;290575", 
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   269, 
+   422, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   807, 
+   1056, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   1438, 
+   1579, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   1992, 
+   2100, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   2565, 
+   2710, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   3223, 
+   3409, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290619, 
+  [
+   3810, 
+   4193, 
+   {
+    "quote_id": 290575, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   758, 
+   931, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   997, 
+   1039, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   1069, 
+   1152, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   1299, 
+   1413, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   1473, 
+   1619, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   1765, 
+   1791, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   2149, 
+   2219, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290371, 
+  [
+   2869, 
+   2917, 
+   {
+    "raw_data": "nate895;290360", 
+    "quote_id": 290360, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290632, 
+  [
+   0, 
+   2916, 
+   {
+    "raw_data": "obvious_child;290619", 
+    "quote_id": 290619, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "nate895;290632", 
+    "quote_id": 290632, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   355, 
+   452, 
+   {
+    "quote_id": 290632, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   632, 
+   842, 
+   {
+    "quote_id": 290632, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   1127, 
+   1196, 
+   {
+    "quote_id": 290632, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   1226, 
+   1467, 
+   {
+    "quote_id": 290632, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   2065, 
+   2280, 
+   {
+    "quote_id": 290632, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290633, 
+  [
+   2841, 
+   2881, 
+   {}
+  ]
+ ], 
+ [
+  290635, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "obvious_child;290633", 
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   228, 
+   406, 
+   {}
+  ]
+ ], 
+ [
+  290635, 
+  [
+   433, 
+   603, 
+   {
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   738, 
+   1015, 
+   {
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   1311, 
+   1331, 
+   {
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   1350, 
+   1735, 
+   {
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   2145, 
+   2192, 
+   {
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   2365, 
+   2564, 
+   {
+    "quote_id": 290633, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  290635, 
+  [
+   2650, 
+   3269, 
+   {}
+  ]
+ ], 
+ [
+  290641, 
+  [
+   0, 
+   826, 
+   {
+    "raw_data": "Steeeeve;290640", 
+    "quote_id": 290640, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  290646, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "obvious_child;290618", 
+    "quote_id": 290618, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  359820, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "nate895;290221", 
+    "quote_id": 290221, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  290395, 
+  [
+   0, 
+   2148, 
+   {
+    "raw_data": "Matthew S;290371", 
+    "quote_id": 290371, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  361488, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "DrNo;356726", 
+    "quote_id": 356726, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  290471, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "nate895;290395", 
+    "quote_id": 290395, 
+    "author": "nate895"
+   }
+  ]
+ ], 
+ [
+  356726, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "chester;356600", 
+    "quote_id": 356600, 
+    "author": "chester"
+   }
+  ]
+ ]
+]

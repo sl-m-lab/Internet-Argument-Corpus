@@ -1,0 +1,971 @@
+[
+ [
+  353428, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "CUNxTime;353416", 
+    "quote_id": 353416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353428, 
+  [
+   127, 
+   302, 
+   {
+    "raw_data": "CUNxTime;353416", 
+    "quote_id": 353416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353428, 
+  [
+   436, 
+   638, 
+   {
+    "raw_data": "CUNxTime;353416", 
+    "quote_id": 353416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353428, 
+  [
+   827, 
+   1021, 
+   {
+    "raw_data": "CUNxTime;353416", 
+    "quote_id": 353416, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  354819, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "CUNxTime;353572", 
+    "quote_id": 353572, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  355077, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Chuz Life;355061", 
+    "quote_id": 355061, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353542, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "CUNxTime;353441", 
+    "quote_id": 353441, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353542, 
+  [
+   511, 
+   598, 
+   {
+    "raw_data": "CUNxTime;353441", 
+    "quote_id": 353441, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353542, 
+  [
+   771, 
+   1036, 
+   {
+    "raw_data": "CUNxTime;353441", 
+    "quote_id": 353441, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353542, 
+  [
+   1042, 
+   1404, 
+   {}
+  ]
+ ], 
+ [
+  353542, 
+  [
+   1682, 
+   1926, 
+   {
+    "raw_data": "CUNxTime;353441", 
+    "quote_id": 353441, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353543, 
+  [
+   8, 
+   79, 
+   {
+    "raw_data": "Chuz Life;353542", 
+    "quote_id": 353542, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353543, 
+  [
+   111, 
+   369, 
+   {
+    "quote_id": 353542, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353543, 
+  [
+   744, 
+   783, 
+   {
+    "quote_id": 353542, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353543, 
+  [
+   834, 
+   997, 
+   {
+    "quote_id": 353542, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353543, 
+  [
+   1124, 
+   1392, 
+   {
+    "quote_id": 353542, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353543, 
+  [
+   1523, 
+   1779, 
+   {
+    "quote_id": 353542, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353416, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Chuz Life;353315", 
+    "quote_id": 353315, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353416, 
+  [
+   322, 
+   745, 
+   {
+    "quote_id": 353315, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353416, 
+  [
+   930, 
+   1011, 
+   {
+    "quote_id": 353315, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353416, 
+  [
+   1222, 
+   1313, 
+   {
+    "quote_id": 353315, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353416, 
+  [
+   1363, 
+   1635, 
+   {}
+  ]
+ ], 
+ [
+  353441, 
+  [
+   8, 
+   334, 
+   {
+    "raw_data": "Chuz Life;353439", 
+    "quote_id": 353439, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353441, 
+  [
+   3486, 
+   3899, 
+   {
+    "quote_id": 353439, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353441, 
+  [
+   4160, 
+   4254, 
+   {}
+  ]
+ ], 
+ [
+  353441, 
+  [
+   4394, 
+   4405, 
+   {}
+  ]
+ ], 
+ [
+  353546, 
+  [
+   8, 
+   32, 
+   {
+    "raw_data": "Chuz Life;353545", 
+    "quote_id": 353545, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353546, 
+  [
+   159, 
+   409, 
+   {
+    "quote_id": 353545, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353546, 
+  [
+   559, 
+   863, 
+   {
+    "quote_id": 353545, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353546, 
+  [
+   1062, 
+   1513, 
+   {}
+  ]
+ ], 
+ [
+  353548, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "CUNxTime;353546", 
+    "quote_id": 353546, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353169, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Chuz Life;353066", 
+    "quote_id": 353066, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353169, 
+  [
+   142, 
+   306, 
+   {}
+  ]
+ ], 
+ [
+  353172, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "antonia;353169", 
+    "quote_id": 353169, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  353431, 
+  [
+   8, 
+   38, 
+   {
+    "raw_data": "Chuz Life;353428", 
+    "quote_id": 353428, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353431, 
+  [
+   150, 
+   276, 
+   {
+    "quote_id": 353428, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353431, 
+  [
+   480, 
+   659, 
+   {
+    "quote_id": 353428, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353431, 
+  [
+   728, 
+   826, 
+   {
+    "quote_id": 353428, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353439, 
+  [
+   24, 
+   129, 
+   {
+    "quote_id": 353431, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353439, 
+  [
+   461, 
+   656, 
+   {
+    "raw_data": "CUNxTime;353431", 
+    "quote_id": 353431, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353439, 
+  [
+   1113, 
+   1171, 
+   {
+    "raw_data": "CUNxTime;353431", 
+    "quote_id": 353431, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353439, 
+  [
+   1272, 
+   1462, 
+   {
+    "raw_data": "CUNxTime;353431", 
+    "quote_id": 353431, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353313, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "simone;353209", 
+    "quote_id": 353209, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  353315, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "CUNxTime;353313", 
+    "quote_id": 353313, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353190, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "antonia;353169", 
+    "quote_id": 353169, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  354856, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "CUNxTime;354824", 
+    "quote_id": 354824, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353066, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "antonia;353063", 
+    "quote_id": 353063, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  354861, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "CUNxTime;354858", 
+    "quote_id": 354858, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353544, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "antonia;353443", 
+    "quote_id": 353443, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  353544, 
+  [
+   1094, 
+   2063, 
+   {
+    "raw_data": "CUNxTime;353441", 
+    "quote_id": 353441, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353545, 
+  [
+   24, 
+   47, 
+   {}
+  ]
+ ], 
+ [
+  353545, 
+  [
+   79, 
+   305, 
+   {
+    "raw_data": "CUNxTime;353543", 
+    "quote_id": 353543, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353545, 
+  [
+   565, 
+   702, 
+   {
+    "raw_data": "CUNxTime;353543", 
+    "quote_id": 353543, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353545, 
+  [
+   1016, 
+   1126, 
+   {
+    "raw_data": "CUNxTime;353543", 
+    "quote_id": 353543, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353545, 
+  [
+   1148, 
+   1300, 
+   {
+    "raw_data": "CUNxTime;353543", 
+    "quote_id": 353543, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  353600, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "Chuz Life;353544", 
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353600, 
+  [
+   604, 
+   666, 
+   {
+    "raw_data": "Chuz Life;353544", 
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353345, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "antonia;353340", 
+    "quote_id": 353340, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  354888, 
+  [
+   0, 
+   1013, 
+   {
+    "raw_data": "Chuz Life;353262", 
+    "quote_id": 353262, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  354892, 
+  [
+   0, 
+   693, 
+   {
+    "raw_data": "Anthony321;354888", 
+    "quote_id": 354888, 
+    "author": "Anthony321"
+   }
+  ]
+ ], 
+ [
+  353101, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "CUNxTime;353097", 
+    "quote_id": 353097, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  354901, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Chuz Life;354892", 
+    "quote_id": 354892, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  355030, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Chuz Life;355017", 
+    "quote_id": 355017, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  355016, 
+  [
+   0, 
+   776, 
+   {
+    "raw_data": "Chuz Life;354923", 
+    "quote_id": 354923, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  352868, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "chloe;352848", 
+    "quote_id": 352848, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  353572, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Chuz Life;353548", 
+    "quote_id": 353548, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   133, 
+   190, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   259, 
+   437, 
+   {
+    "quote_id": 353443, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   456, 
+   576, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   1584, 
+   1730, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   1879, 
+   2176, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   2382, 
+   2499, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   2705, 
+   2777, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  353640, 
+  [
+   2843, 
+   2866, 
+   {
+    "quote_id": 353544, 
+    "author": "Chuz Life"
+   }
+  ]
+ ], 
+ [
+  355017, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Anthony321;355016", 
+    "quote_id": 355016, 
+    "author": "Anthony321"
+   }
+  ]
+ ], 
+ [
+  354923, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "Anthony321;354901", 
+    "quote_id": 354901, 
+    "author": "Anthony321"
+   }
+  ]
+ ], 
+ [
+  354923, 
+  [
+   263, 
+   397, 
+   {
+    "raw_data": "Anthony321;354888", 
+    "quote_id": 354888, 
+    "author": "Anthony321"
+   }
+  ]
+ ], 
+ [
+  354923, 
+  [
+   462, 
+   720, 
+   {
+    "raw_data": "Anthony321;354888", 
+    "quote_id": 354888, 
+    "author": "Anthony321"
+   }
+  ]
+ ], 
+ [
+  354923, 
+  [
+   1178, 
+   1467, 
+   {
+    "raw_data": "Anthony321;354888", 
+    "quote_id": 354888, 
+    "author": "Anthony321"
+   }
+  ]
+ ], 
+ [
+  355081, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "chester;355077", 
+    "quote_id": 355077, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  353262, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "antonia;353169", 
+    "quote_id": 353169, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  353262, 
+  [
+   182, 
+   486, 
+   {
+    "raw_data": "antonia;353169", 
+    "quote_id": 353169, 
+    "author": "antonia"
+   }
+  ]
+ ], 
+ [
+  355061, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "chester;355030", 
+    "quote_id": 355030, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  352889, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Penfold;352857", 
+    "quote_id": 352857, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  353276, 
+  [
+   0, 
+   309, 
+   {
+    "raw_data": "Chuz Life;353262", 
+    "quote_id": 353262, 
+    "author": "Chuz Life"
+   }
+  ]
+ ]
+]

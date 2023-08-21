@@ -1,0 +1,1326 @@
+[
+ [
+  21505, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21503, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21513, 
+  [
+   0, 
+   490, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21505, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21517, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21513, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21517, 
+  [
+   528, 
+   668, 
+   {
+    "quote_id": 21513, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21526, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21517, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21526, 
+  [
+   1188, 
+   1469, 
+   {
+    "quote_id": 21517, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  22551, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 22519, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21530, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21526, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21530, 
+  [
+   421, 
+   976, 
+   {
+    "quote_id": 21526, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21530, 
+  [
+   1013, 
+   1330, 
+   {
+    "quote_id": 21526, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21530, 
+  [
+   1375, 
+   1492, 
+   {
+    "quote_id": 21526, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21530, 
+  [
+   1606, 
+   1809, 
+   {
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  22559, 
+  [
+   0, 
+   689, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 22558, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22561, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Mackers", 
+    "quote_id": 22559, 
+    "author": "Mackers"
+   }
+  ]
+ ], 
+ [
+  22562, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 22561, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22562, 
+  [
+   280, 
+   437, 
+   {
+    "quote_id": 22561, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22562, 
+  [
+   781, 
+   864, 
+   {
+    "quote_id": 22561, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22563, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Mackers", 
+    "quote_id": 22562, 
+    "author": "Mackers"
+   }
+  ]
+ ], 
+ [
+  22563, 
+  [
+   346, 
+   490, 
+   {
+    "quote_id": 22562, 
+    "author": "Mackers"
+   }
+  ]
+ ], 
+ [
+  22564, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 22561, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22566, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 22563, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22566, 
+  [
+   273, 
+   397, 
+   {
+    "quote_id": 22563, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  22567, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 22565, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  21553, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21530, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21553, 
+  [
+   459, 
+   486, 
+   {
+    "quote_id": 21530, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21553, 
+  [
+   543, 
+   576, 
+   {
+    "quote_id": 21530, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21553, 
+  [
+   650, 
+   732, 
+   {}
+  ]
+ ], 
+ [
+  21553, 
+  [
+   868, 
+   1112, 
+   {
+    "quote_id": 21530, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  26164, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 25834, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  26168, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "iamthetruth", 
+    "quote_id": 26164, 
+    "author": "iamthetruth"
+   }
+  ]
+ ], 
+ [
+  21565, 
+  [
+   0, 
+   68, 
+   {
+    "quote_id": 21503, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21565, 
+  [
+   418, 
+   505, 
+   {
+    "quote_id": 21513, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21565, 
+  [
+   748, 
+   792, 
+   {
+    "quote_id": 21526, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21565, 
+  [
+   1085, 
+   1191, 
+   {
+    "quote_id": 21526, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21565, 
+  [
+   1371, 
+   1474, 
+   {
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21574, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21517, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21347, 
+  [
+   0, 
+   201, 
+   {
+    "quote_id": 21345, 
+    "author": "JJones68"
+   }
+  ]
+ ], 
+ [
+  26210, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 26166, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  33925, 
+  [
+   0, 
+   1125, 
+   {
+    "raw_data": "JJones68", 
+    "quote_id": 21335, 
+    "author": "JJones68"
+   }
+  ]
+ ], 
+ [
+  21657, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "lazserus", 
+    "quote_id": 21565, 
+    "author": "lazserus"
+   }
+  ]
+ ], 
+ [
+  21661, 
+  [
+   0, 
+   164, 
+   {
+    "quote_id": 21657, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21661, 
+  [
+   431, 
+   488, 
+   {
+    "quote_id": 21657, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21661, 
+  [
+   669, 
+   744, 
+   {
+    "quote_id": 21657, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  25775, 
+  [
+   0, 
+   1125, 
+   {
+    "raw_data": "JJones68", 
+    "quote_id": 21335, 
+    "author": "JJones68"
+   }
+  ]
+ ], 
+ [
+  24778, 
+  [
+   19, 
+   92, 
+   {
+    "quote_id": 22558, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  21707, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "lurch", 
+    "quote_id": 21661, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  21709, 
+  [
+   0, 
+   164, 
+   {
+    "quote_id": 21657, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  24785, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Chuffy", 
+    "quote_id": 24764, 
+    "author": "Chuffy"
+   }
+  ]
+ ], 
+ [
+  21715, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "lurch", 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  21715, 
+  [
+   676, 
+   763, 
+   {
+    "raw_data": "lurch", 
+    "quote_id": 21661, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  24788, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Chuffy", 
+    "quote_id": 24764, 
+    "author": "Chuffy"
+   }
+  ]
+ ], 
+ [
+  21722, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21553, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21722, 
+  [
+   484, 
+   549, 
+   {
+    "quote_id": 21553, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21722, 
+  [
+   585, 
+   713, 
+   {
+    "quote_id": 21553, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21722, 
+  [
+   890, 
+   1249, 
+   {
+    "quote_id": 21553, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21722, 
+  [
+   1324, 
+   1564, 
+   {
+    "quote_id": 21553, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21723, 
+  [
+   0, 
+   616, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 21574, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  21724, 
+  [
+   0, 
+   6, 
+   {}
+  ]
+ ], 
+ [
+  24805, 
+  [
+   0, 
+   150, 
+   {
+    "quote_id": 24764, 
+    "author": "Chuffy"
+   }
+  ]
+ ], 
+ [
+  24805, 
+  [
+   289, 
+   494, 
+   {
+    "quote_id": 24764, 
+    "author": "Chuffy"
+   }
+  ]
+ ], 
+ [
+  24805, 
+  [
+   1533, 
+   1598, 
+   {
+    "quote_id": 24764, 
+    "author": "Chuffy"
+   }
+  ]
+ ], 
+ [
+  24809, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "Morfos", 
+    "quote_id": 24750, 
+    "author": "Morfos"
+   }
+  ]
+ ], 
+ [
+  24810, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "lurch", 
+    "quote_id": 24805, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  21764, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21723, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21769, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21723, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21769, 
+  [
+   493, 
+   617, 
+   {
+    "quote_id": 21723, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21771, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 21769, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  34180, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 34021, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  34180, 
+  [
+   204, 
+   783, 
+   {
+    "raw_data": "JJones68", 
+    "quote_id": 21335, 
+    "author": "JJones68"
+   }
+  ]
+ ], 
+ [
+  21795, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 21764, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  21796, 
+  [
+   0, 
+   420, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21769, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21796, 
+  [
+   584, 
+   1241, 
+   {
+    "quote_id": 21769, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21797, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "lazserus", 
+    "quote_id": 21771, 
+    "author": "lazserus"
+   }
+  ]
+ ], 
+ [
+  21807, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21796, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21807, 
+  [
+   586, 
+   644, 
+   {
+    "quote_id": 21796, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21809, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21807, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21809, 
+  [
+   289, 
+   362, 
+   {
+    "quote_id": 21807, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21809, 
+  [
+   560, 
+   646, 
+   {
+    "quote_id": 21807, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21811, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21811, 
+  [
+   436, 
+   624, 
+   {
+    "quote_id": 21809, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21811, 
+  [
+   706, 
+   777, 
+   {
+    "quote_id": 21809, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21815, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21811, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21815, 
+  [
+   554, 
+   626, 
+   {
+    "quote_id": 21811, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21815, 
+  [
+   808, 
+   839, 
+   {
+    "quote_id": 21811, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21817, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21815, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21822, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 21709, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  21824, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21817, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21824, 
+  [
+   432, 
+   676, 
+   {
+    "quote_id": 21817, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21826, 
+  [
+   0, 
+   460, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21822, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21827, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21722, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21827, 
+  [
+   940, 
+   1108, 
+   {
+    "quote_id": 21722, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21827, 
+  [
+   1172, 
+   1298, 
+   {}
+  ]
+ ], 
+ [
+  21828, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21826, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21829, 
+  [
+   0, 
+   880, 
+   {
+    "raw_data": "Robbie", 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21831, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21828, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21835, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21831, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21839, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21795, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21841, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21835, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  21843, 
+  [
+   0, 
+   1052, 
+   {
+    "raw_data": "TheoMorphic", 
+    "quote_id": 21839, 
+    "author": "TheoMorphic"
+   }
+  ]
+ ], 
+ [
+  34021, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Meatros", 
+    "quote_id": 33925, 
+    "author": "Meatros"
+   }
+  ]
+ ], 
+ [
+  21859, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21843, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  21357, 
+  [
+   0, 
+   201, 
+   {
+    "quote_id": 21345, 
+    "author": "JJones68"
+   }
+  ]
+ ], 
+ [
+  21357, 
+  [
+   518, 
+   578, 
+   {
+    "quote_id": 21335, 
+    "author": "JJones68"
+   }
+  ]
+ ], 
+ [
+  21883, 
+  [
+   156, 
+   223, 
+   {}
+  ]
+ ], 
+ [
+  25834, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "scott7", 
+    "quote_id": 25775, 
+    "author": "scott7"
+   }
+  ]
+ ], 
+ [
+  21892, 
+  [
+   0, 
+   511, 
+   {
+    "raw_data": "lurch", 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  31120, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "wja", 
+    "quote_id": 25084, 
+    "author": "wja"
+   }
+  ]
+ ], 
+ [
+  21394, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Mr Jack", 
+    "quote_id": 21381, 
+    "author": "Mr Jack"
+   }
+  ]
+ ], 
+ [
+  31134, 
+  [
+   0, 
+   1230, 
+   {
+    "raw_data": "Void", 
+    "quote_id": 31124, 
+    "author": "Void"
+   }
+  ]
+ ], 
+ [
+  25000, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Chuffy", 
+    "quote_id": 24989, 
+    "author": "Chuffy"
+   }
+  ]
+ ], 
+ [
+  21430, 
+  [
+   0, 
+   88, 
+   {
+    "quote_id": 21428, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  34232, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "mizmaxx", 
+    "quote_id": 34180, 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  21490, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 21441, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  22519, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Mackers", 
+    "quote_id": 22269, 
+    "author": "Mackers"
+   }
+  ]
+ ], 
+ [
+  21498, 
+  [
+   0, 
+   206, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 21490, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  21503, 
+  [
+   0, 
+   869, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 21485, 
+    "author": "Charchuk"
+   }
+  ]
+ ]
+]

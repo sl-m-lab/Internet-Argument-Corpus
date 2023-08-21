@@ -1,0 +1,192 @@
+[
+ [
+  101314, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 101302, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  101865, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "trs", 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  101865, 
+  [
+   625, 
+   731, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 101591, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  101865, 
+  [
+   775, 
+   837, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 101591, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  101285, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "wilted_laughter", 
+    "quote_id": 100477, 
+    "author": "wilted_laughter"
+   }
+  ]
+ ], 
+ [
+  101320, 
+  [
+   0, 
+   180, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 99981, 
+    "author": "trs"
+   }
+  ]
+ ], 
+ [
+  101794, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "wsm2506", 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  101874, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Cahuella", 
+    "quote_id": 99983, 
+    "author": "Cahuella"
+   }
+  ]
+ ], 
+ [
+  101363, 
+  [
+   0, 
+   182, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 101314, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  101363, 
+  [
+   217, 
+   2405, 
+   {}
+  ]
+ ], 
+ [
+  101363, 
+  [
+   2498, 
+   3165, 
+   {}
+  ]
+ ], 
+ [
+  101363, 
+  [
+   3184, 
+   4553, 
+   {}
+  ]
+ ], 
+ [
+  101363, 
+  [
+   4673, 
+   4835, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 101314, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  102115, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 101865, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  101302, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 101285, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  101591, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "johnhanks", 
+    "quote_id": 101563, 
+    "author": "johnhanks"
+   }
+  ]
+ ], 
+ [
+  101563, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "trs", 
+    "quote_id": 101363, 
+    "author": "trs"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,391 @@
+[
+ [
+  292352, 
+  [
+   0, 
+   1224, 
+   {
+    "raw_data": "smiley;292346", 
+    "quote_id": 292346, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  292354, 
+  [
+   0, 
+   620, 
+   {
+    "raw_data": "electrolyte;292347", 
+    "quote_id": 292347, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  292358, 
+  [
+   3, 
+   1230, 
+   {
+    "raw_data": "smiley", 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  292358, 
+  [
+   0, 
+   1429, 
+   {
+    "raw_data": "gman", 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292353, 
+  [
+   0, 
+   732, 
+   {
+    "raw_data": "obvious_child;292348", 
+    "quote_id": 292348, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  292363, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "gman;292354", 
+    "quote_id": 292354, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292363, 
+  [
+   334, 
+   466, 
+   {
+    "raw_data": "gman;292354", 
+    "quote_id": 292354, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292363, 
+  [
+   589, 
+   663, 
+   {
+    "raw_data": "gman;292354", 
+    "quote_id": 292354, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292247, 
+  [
+   0, 
+   564, 
+   {
+    "raw_data": "obvious_child;292244", 
+    "quote_id": 292244, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  292376, 
+  [
+   0, 
+   723, 
+   {
+    "raw_data": "ChristAscended;292353", 
+    "quote_id": 292353, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292376, 
+  [
+   846, 
+   932, 
+   {
+    "quote_id": 291968, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292258, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "ChristAscended;292247", 
+    "quote_id": 292247, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292258, 
+  [
+   145, 
+   376, 
+   {}
+  ]
+ ], 
+ [
+  292258, 
+  [
+   382, 
+   483, 
+   {
+    "quote_id": 292247, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292519, 
+  [
+   14, 
+   339, 
+   {
+    "quote_id": 292337, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292348, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "ChristAscended;292329", 
+    "quote_id": 292329, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292348, 
+  [
+   345, 
+   492, 
+   {}
+  ]
+ ], 
+ [
+  292348, 
+  [
+   761, 
+   842, 
+   {
+    "quote_id": 292329, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292348, 
+  [
+   963, 
+   1192, 
+   {
+    "quote_id": 292329, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292419, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "gman;292337", 
+    "quote_id": 292337, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292298, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "obvious_child;292258", 
+    "quote_id": 292258, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  292298, 
+  [
+   245, 
+   385, 
+   {}
+  ]
+ ], 
+ [
+  292174, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "ChristAscended;292078", 
+    "quote_id": 292078, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292184, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "obvious_child;292174", 
+    "quote_id": 292174, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  292329, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "obvious_child;292325", 
+    "quote_id": 292325, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  292078, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "obvious_child;292059", 
+    "quote_id": 292059, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  292207, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "ChristAscended;291968", 
+    "quote_id": 291968, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292207, 
+  [
+   501, 
+   867, 
+   {
+    "raw_data": "ChristAscended;291968", 
+    "quote_id": 291968, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292207, 
+  [
+   1339, 
+   1426, 
+   {
+    "raw_data": "ChristAscended;291968", 
+    "quote_id": 291968, 
+    "author": "ChristAscended"
+   }
+  ]
+ ], 
+ [
+  292337, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "thelmoose;292184", 
+    "quote_id": 292184, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  292346, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "gman;292337", 
+    "quote_id": 292337, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292347, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "gman;292337", 
+    "quote_id": 292337, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292347, 
+  [
+   392, 
+   588, 
+   {
+    "raw_data": "gman;292337", 
+    "quote_id": 292337, 
+    "author": "gman"
+   }
+  ]
+ ], 
+ [
+  292347, 
+  [
+   866, 
+   959, 
+   {
+    "raw_data": "gman;292337", 
+    "quote_id": 292337, 
+    "author": "gman"
+   }
+  ]
+ ]
+]

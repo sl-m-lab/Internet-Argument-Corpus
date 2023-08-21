@@ -1,0 +1,59 @@
+[
+ [
+  60161, 
+  [
+   0, 
+   529, 
+   {
+    "quote_id": 60078, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60078, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 60060, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  60049, 
+  [
+   0, 
+   60, 
+   {
+    "quote_id": 59974, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60052, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 60049, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  60060, 
+  [
+   0, 
+   87, 
+   {
+    "quote_id": 60052, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

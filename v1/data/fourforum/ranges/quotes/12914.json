@@ -1,0 +1,362 @@
+[
+ [
+  358592, 
+  [
+   0, 
+   2013, 
+   {}
+  ]
+ ], 
+ [
+  358658, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "foundit66;358646", 
+    "quote_id": 358646, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358658, 
+  [
+   102, 
+   166, 
+   {
+    "quote_id": 358646, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358678, 
+  [
+   600, 
+   678, 
+   {
+    "quote_id": 358672, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358678, 
+  [
+   738, 
+   781, 
+   {
+    "quote_id": 358672, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358662, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Symbiote;358658", 
+    "quote_id": 358658, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358662, 
+  [
+   259, 
+   371, 
+   {
+    "raw_data": "Symbiote", 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358666, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "Symbiote;358665", 
+    "quote_id": 358665, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358666, 
+  [
+   255, 
+   373, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358665, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358668, 
+  [
+   0, 
+   80, 
+   {
+    "quote_id": 358666, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358668, 
+  [
+   180, 
+   255, 
+   {
+    "quote_id": 358666, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358670, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Symbiote;358668", 
+    "quote_id": 358668, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358670, 
+  [
+   141, 
+   484, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358668, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358670, 
+  [
+   1171, 
+   1276, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358668, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358671, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "foundit66;358670", 
+    "quote_id": 358670, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358671, 
+  [
+   765, 
+   844, 
+   {
+    "quote_id": 358670, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358672, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Symbiote;358668", 
+    "quote_id": 358668, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358672, 
+  [
+   784, 
+   951, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358668, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358674, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Symbiote;358671", 
+    "quote_id": 358671, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358674, 
+  [
+   294, 
+   368, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358671, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358676, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "foundit66;358672", 
+    "quote_id": 358672, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358677, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "jyoshu;358676", 
+    "quote_id": 358676, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  358677, 
+  [
+   445, 
+   523, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 358676, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  358646, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "Symbiote;358641", 
+    "quote_id": 358641, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358665, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "foundit66;358662", 
+    "quote_id": 358662, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358665, 
+  [
+   356, 
+   447, 
+   {
+    "quote_id": 358662, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  358682, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Symbiote;358678", 
+    "quote_id": 358678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358682, 
+  [
+   628, 
+   1003, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358682, 
+  [
+   1283, 
+   1333, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358682, 
+  [
+   1530, 
+   1629, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 358678, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  358620, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Symbiote;358603", 
+    "quote_id": 358603, 
+    "author": "Symbiote"
+   }
+  ]
+ ]
+]

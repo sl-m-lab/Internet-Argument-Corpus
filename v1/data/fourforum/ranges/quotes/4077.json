@@ -1,0 +1,429 @@
+[
+ [
+  86144, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86120, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86144, 
+  [
+   114, 
+   267, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86120, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86144, 
+  [
+   365, 
+   447, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86120, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86405, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86394, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86405, 
+  [
+   477, 
+   577, 
+   {
+    "raw_data": "Duck", 
+    "quote_id": 86394, 
+    "unknown_author": "Duck", 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86405, 
+  [
+   591, 
+   721, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86394, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86405, 
+  [
+   801, 
+   907, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86394, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86405, 
+  [
+   1142, 
+   1277, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86394, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86696, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86620, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  88619, 
+  [
+   0, 
+   1586, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86120, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  87086, 
+  [
+   0, 
+   233, 
+   {
+    "quote_id": 87003, 
+    "author": "sakura"
+   }
+  ]
+ ], 
+ [
+  87087, 
+  [
+   0, 
+   68, 
+   {
+    "author": "xeiah"
+   }
+  ]
+ ], 
+ [
+  88624, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86854, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  88624, 
+  [
+   88, 
+   220, 
+   {
+    "quote_id": 86854, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  88624, 
+  [
+   402, 
+   1225, 
+   {
+    "quote_id": 86854, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  87347, 
+  [
+   793, 
+   1134, 
+   {}
+  ]
+ ], 
+ [
+  86840, 
+  [
+   0, 
+   1586, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86120, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86589, 
+  [
+   0, 
+   270, 
+   {
+    "quote_id": 86405, 
+    "author": "Jessica"
+   }
+  ]
+ ], 
+ [
+  86589, 
+  [
+   422, 
+   426, 
+   {
+    "quote_id": 86405, 
+    "author": "Jessica"
+   }
+  ]
+ ], 
+ [
+  86589, 
+  [
+   454, 
+   473, 
+   {
+    "quote_id": 86405, 
+    "author": "Jessica"
+   }
+  ]
+ ], 
+ [
+  86589, 
+  [
+   523, 
+   574, 
+   {
+    "quote_id": 86405, 
+    "author": "Jessica"
+   }
+  ]
+ ], 
+ [
+  86589, 
+  [
+   616, 
+   841, 
+   {
+    "quote_id": 86405, 
+    "author": "Jessica"
+   }
+  ]
+ ], 
+ [
+  86854, 
+  [
+   0, 
+   53, 
+   {
+    "quote_id": 86840, 
+    "author": "sakura"
+   }
+  ]
+ ], 
+ [
+  86854, 
+  [
+   92, 
+   241, 
+   {
+    "quote_id": 86840, 
+    "author": "sakura"
+   }
+  ]
+ ], 
+ [
+  86854, 
+  [
+   372, 
+   759, 
+   {
+    "quote_id": 86840, 
+    "author": "sakura"
+   }
+  ]
+ ], 
+ [
+  86854, 
+  [
+   1585, 
+   1690, 
+   {
+    "quote_id": 86840, 
+    "author": "sakura"
+   }
+  ]
+ ], 
+ [
+  86605, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "duck", 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  87118, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 87086, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  87003, 
+  [
+   0, 
+   1700, 
+   {
+    "raw_data": "duck", 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  86621, 
+  [
+   0, 
+   68, 
+   {
+    "quote_id": 86605, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86623, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 86120, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  87392, 
+  [
+   790, 
+   861, 
+   {
+    "quote_id": 87347, 
+    "author": "pnac=ww3"
+   }
+  ]
+ ], 
+ [
+  88422, 
+  [
+   0, 
+   441, 
+   {
+    "quote_id": 87412, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  88422, 
+  [
+   1148, 
+   1605, 
+   {
+    "quote_id": 87412, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  87412, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 86605, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  86394, 
+  [
+   0, 
+   6, 
+   {}
+  ]
+ ], 
+ [
+  86394, 
+  [
+   404, 
+   492, 
+   {
+    "quote_id": 86144, 
+    "author": "Jessica"
+   }
+  ]
+ ], 
+ [
+  86394, 
+  [
+   643, 
+   839, 
+   {
+    "quote_id": 86144, 
+    "author": "Jessica"
+   }
+  ]
+ ]
+]

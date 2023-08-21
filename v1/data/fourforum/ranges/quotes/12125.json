@@ -1,0 +1,410 @@
+[
+ [
+  341632, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "simone;341291", 
+    "quote_id": 341291, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341632, 
+  [
+   722, 
+   935, 
+   {
+    "quote_id": 341291, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  337926, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Winston Smith;337921", 
+    "quote_id": 337921, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  337928, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "chester;337926", 
+    "quote_id": 337926, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  356239, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "simone;337951", 
+    "quote_id": 337951, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  356240, 
+  [
+   0, 
+   75, 
+   {
+    "quote_id": 337951, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  337951, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Winston Smith;337921", 
+    "quote_id": 337921, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  341287, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "chester;341242", 
+    "quote_id": 341242, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  341640, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Ethmi;341633", 
+    "quote_id": 341633, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341291, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Ethmi;341287", 
+    "quote_id": 341287, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341296, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Ethmi;341287", 
+    "quote_id": 341287, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341681, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "chester;341640", 
+    "quote_id": 341640, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  341681, 
+  [
+   239, 
+   331, 
+   {
+    "quote_id": 341640, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  341821, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "simone;341809", 
+    "quote_id": 341809, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341821, 
+  [
+   205, 
+   329, 
+   {
+    "quote_id": 341809, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341821, 
+  [
+   527, 
+   924, 
+   {}
+  ]
+ ], 
+ [
+  341821, 
+  [
+   1036, 
+   1262, 
+   {
+    "quote_id": 341809, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341821, 
+  [
+   1290, 
+   1566, 
+   {
+    "quote_id": 341809, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341821, 
+  [
+   1657, 
+   1707, 
+   {
+    "quote_id": 341809, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341190, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "subaru;340823", 
+    "quote_id": 340823, 
+    "author": "subaru"
+   }
+  ]
+ ], 
+ [
+  341191, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "chester;340991", 
+    "quote_id": 340991, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  340816, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Winston Smith;337921", 
+    "quote_id": 337921, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  341843, 
+  [
+   0, 
+   721, 
+   {
+    "raw_data": "Ethmi;341821", 
+    "quote_id": 341821, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  340823, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Ethmi;340733", 
+    "quote_id": 340733, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341633, 
+  [
+   0, 
+   365, 
+   {
+    "raw_data": "chester;341296", 
+    "quote_id": 341296, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  343773, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "simone;337951", 
+    "quote_id": 337951, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  356304, 
+  [
+   0, 
+   2740, 
+   {
+    "raw_data": "Ethmi;341632", 
+    "quote_id": 341632, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  356323, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Lakrite;356240", 
+    "quote_id": 356240, 
+    "author": "Lakrite"
+   }
+  ]
+ ], 
+ [
+  341865, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "resist arrest;337583", 
+    "quote_id": 337583, 
+    "author": "resist arrest"
+   }
+  ]
+ ], 
+ [
+  341865, 
+  [
+   734, 
+   993, 
+   {
+    "quote_id": 337583, 
+    "author": "resist arrest"
+   }
+  ]
+ ], 
+ [
+  341242, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "Ethmi;341191", 
+    "quote_id": 341191, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341809, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Ethmi;341632", 
+    "quote_id": 341632, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341809, 
+  [
+   287, 
+   593, 
+   {
+    "raw_data": "Ethmi;341632", 
+    "quote_id": 341632, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341809, 
+  [
+   725, 
+   1261, 
+   {
+    "raw_data": "Ethmi;341632", 
+    "quote_id": 341632, 
+    "author": "Ethmi"
+   }
+  ]
+ ], 
+ [
+  341809, 
+  [
+   1666, 
+   2537, 
+   {
+    "raw_data": "Ethmi;341632", 
+    "quote_id": 341632, 
+    "author": "Ethmi"
+   }
+  ]
+ ]
+]

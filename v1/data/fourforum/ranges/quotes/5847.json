@@ -1,0 +1,109 @@
+[
+ [
+  143844, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 143750, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  143862, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Diogenes99", 
+    "quote_id": 143658, 
+    "author": "Diogenes99"
+   }
+  ]
+ ], 
+ [
+  143658, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "RedMoon", 
+    "quote_id": 143538, 
+    "author": "RedMoon"
+   }
+  ]
+ ], 
+ [
+  146589, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "Diogenes99", 
+    "quote_id": 146218, 
+    "author": "Diogenes99"
+   }
+  ]
+ ], 
+ [
+  146857, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "Diogenes99", 
+    "quote_id": 146681, 
+    "author": "Diogenes99"
+   }
+  ]
+ ], 
+ [
+  143896, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Diogenes99", 
+    "quote_id": 143889, 
+    "author": "Diogenes99"
+   }
+  ]
+ ], 
+ [
+  146681, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 146589, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  146218, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Close_slave_can", 
+    "quote_id": 143932, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ], 
+ [
+  146218, 
+  [
+   483, 
+   736, 
+   {
+    "quote_id": 143932, 
+    "author": "Close_slave_can"
+   }
+  ]
+ ]
+]

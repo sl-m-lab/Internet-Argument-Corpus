@@ -1,0 +1,86 @@
+[
+ [
+  100675, 
+  [
+   165, 
+   195, 
+   {
+    "category": "color", 
+    "raw_data": "DarkGreen"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   165, 
+   195, 
+   {
+    "category": "size", 
+    "raw_data": "3"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   165, 
+   196, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   233, 
+   255, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   463, 
+   555, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   556, 
+   565, 
+   {
+    "category": "color", 
+    "raw_data": "DarkGreen"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   2815, 
+   2835, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  100675, 
+  [
+   2815, 
+   2835, 
+   {
+    "category": "color", 
+    "raw_data": "Sienna"
+   }
+  ]
+ ]
+]

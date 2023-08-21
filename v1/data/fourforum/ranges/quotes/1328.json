@@ -1,0 +1,270 @@
+[
+ [
+  25346, 
+  [
+   0, 
+   2079, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 25111, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  25369, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 25346, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  24845, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 24840, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  25235, 
+  [
+   0, 
+   44, 
+   {
+    "quote_id": 25111, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  25237, 
+  [
+   0, 
+   76, 
+   {
+    "quote_id": 25235, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  25111, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 25083, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  25395, 
+  [
+   0, 
+   893, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 25369, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  25395, 
+  [
+   1178, 
+   1824, 
+   {}
+  ]
+ ], 
+ [
+  24881, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 24845, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  35127, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 35123, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  25019, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 24949, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  35140, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 35127, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  24923, 
+  [
+   0, 
+   12, 
+   {
+    "quote_id": 24881, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  35425, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 35194, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  35425, 
+  [
+   1846, 
+   1902, 
+   {
+    "quote_id": 35194, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  35425, 
+  [
+   2121, 
+   2425, 
+   {
+    "raw_data": "tastyfish", 
+    "quote_id": 35361, 
+    "unknown_author": "tastyfish", 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  25059, 
+  [
+   0, 
+   1249, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 25019, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  25064, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 25059, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  24939, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "sundowner", 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  24949, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 24939, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  35193, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 35140, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  35194, 
+  [
+   0, 
+   743, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 35140, 
+    "author": "step314"
+   }
+  ]
+ ], 
+ [
+  25083, 
+  [
+   0, 
+   624, 
+   {
+    "raw_data": "step314", 
+    "quote_id": 25064, 
+    "author": "step314"
+   }
+  ]
+ ]
+]

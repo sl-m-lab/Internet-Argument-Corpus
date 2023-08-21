@@ -1,0 +1,2801 @@
+[
+ [
+  176129, 
+  [
+   0, 
+   353, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176130, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176129, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176131, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176129, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176131, 
+  [
+   546, 
+   598, 
+   {
+    "raw_data": "Admin Rules", 
+    "unknown_author": "Admin Rules"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   11, 
+   509, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   932, 
+   1104, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   1195, 
+   1317, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   1523, 
+   1621, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   1759, 
+   2051, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   2327, 
+   2542, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176134, 
+  [
+   2706, 
+   2861, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176136, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 176130, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176137, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176136, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176137, 
+  [
+   274, 
+   307, 
+   {
+    "quote_id": 175733, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176137, 
+  [
+   476, 
+   894, 
+   {
+    "quote_id": 176136, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176139, 
+  [
+   0, 
+   418, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176140, 
+  [
+   0, 
+   1020, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176143, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 176139, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  176146, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176140, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176151, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176134, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176153, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176151, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176815, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176735, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176815, 
+  [
+   1154, 
+   1335, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176735, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176815, 
+  [
+   1790, 
+   2017, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176735, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176815, 
+  [
+   2456, 
+   2685, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176727, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176815, 
+  [
+   2701, 
+   3204, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176735, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176156, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176153, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176160, 
+  [
+   71, 
+   192, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176134, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176160, 
+  [
+   1110, 
+   1242, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176134, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176673, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 176319, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  177700, 
+  [
+   0, 
+   552, 
+   {
+    "raw_data": "cell_death", 
+    "quote_id": 177078, 
+    "author": "cell_death"
+   }
+  ]
+ ], 
+ [
+  176817, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 176806, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  176169, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176156, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177717, 
+  [
+   0, 
+   756, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176185, 
+  [
+   0, 
+   865, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176169, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176702, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176665, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176702, 
+  [
+   563, 
+   744, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176665, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176702, 
+  [
+   826, 
+   1313, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176665, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176702, 
+  [
+   1336, 
+   1802, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176665, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176702, 
+  [
+   2773, 
+   2809, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176665, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176151, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   563, 
+   643, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   745, 
+   889, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   970, 
+   1075, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   1209, 
+   1296, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   1531, 
+   1623, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   1640, 
+   1851, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   2246, 
+   2440, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176191, 
+  [
+   2476, 
+   2616, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176160, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176212, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176191, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176212, 
+  [
+   219, 
+   315, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176191, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176212, 
+  [
+   525, 
+   754, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176191, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176212, 
+  [
+   1051, 
+   1440, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176191, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176212, 
+  [
+   1511, 
+   1994, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176191, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176727, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176702, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176727, 
+  [
+   297, 
+   373, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176702, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176727, 
+  [
+   500, 
+   783, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176702, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176727, 
+  [
+   910, 
+   995, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176702, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176216, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176217, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176217, 
+  [
+   345, 
+   551, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176217, 
+  [
+   896, 
+   1189, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176217, 
+  [
+   1553, 
+   1620, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176217, 
+  [
+   1645, 
+   1762, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176217, 
+  [
+   1934, 
+   2136, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176212, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176732, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176675, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176221, 
+  [
+   14, 
+   53, 
+   {
+    "quote_id": 176185, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176221, 
+  [
+   153, 
+   467, 
+   {
+    "quote_id": 176185, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176221, 
+  [
+   930, 
+   1252, 
+   {
+    "quote_id": 176185, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  175710, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 175696, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176735, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176727, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176735, 
+  [
+   558, 
+   681, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176727, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176735, 
+  [
+   868, 
+   991, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176727, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176735, 
+  [
+   1224, 
+   1746, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176727, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  175723, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175710, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  175723, 
+  [
+   300, 
+   498, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 175696, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175733, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175710, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176319, 
+  [
+   0, 
+   2280, 
+   {
+    "raw_data": "oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176253, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176100, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176665, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176311, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176665, 
+  [
+   546, 
+   654, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176311, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176665, 
+  [
+   839, 
+   867, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176311, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176665, 
+  [
+   1823, 
+   2026, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176311, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176265, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 176253, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  175761, 
+  [
+   0, 
+   15, 
+   {
+    "raw_data": "chloe", 
+    "quote_id": 175739, 
+    "author": "chloe"
+   }
+  ]
+ ], 
+ [
+  175767, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 175733, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175767, 
+  [
+   129, 
+   393, 
+   {
+    "raw_data": "Bell", 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  175773, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175767, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176799, 
+  [
+   0, 
+   290, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176673, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176799, 
+  [
+   505, 
+   935, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176673, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  175781, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175767, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176806, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176665, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  175783, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 175773, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  176296, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176265, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175785, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Adept", 
+    "quote_id": 175781, 
+    "author": "Adept"
+   }
+  ]
+ ], 
+ [
+  176299, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 176296, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176302, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176217, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176302, 
+  [
+   267, 
+   481, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176217, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176302, 
+  [
+   555, 
+   612, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176217, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176302, 
+  [
+   2774, 
+   2851, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176217, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  175792, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175767, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  175792, 
+  [
+   228, 
+   300, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175710, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  175792, 
+  [
+   340, 
+   433, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 175696, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175560, 
+  [
+   0, 
+   1193, 
+   {
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176818, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 176806, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  176819, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  177844, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  177844, 
+  [
+   289, 
+   313, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 177696, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  177844, 
+  [
+   514, 
+   739, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  177844, 
+  [
+   779, 
+   1141, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   434, 
+   504, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   733, 
+   1246, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   1335, 
+   1843, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   2084, 
+   2149, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   2263, 
+   2820, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   2854, 
+   3020, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   3252, 
+   3593, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176311, 
+  [
+   3893, 
+   4015, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176302, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176316, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176299, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  177853, 
+  [
+   10, 
+   76, 
+   {
+    "quote_id": 177844, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  177853, 
+  [
+   511, 
+   706, 
+   {
+    "quote_id": 177844, 
+    "author": "Cone"
+   }
+  ]
+ ], 
+ [
+  177853, 
+  [
+   1497, 
+   1731, 
+   {}
+  ]
+ ], 
+ [
+  177853, 
+  [
+   1497, 
+   1768, 
+   {}
+  ]
+ ], 
+ [
+  177853, 
+  [
+   2385, 
+   2776, 
+   {}
+  ]
+ ], 
+ [
+  177853, 
+  [
+   2385, 
+   2821, 
+   {}
+  ]
+ ], 
+ [
+  175807, 
+  [
+   0, 
+   88, 
+   {
+    "quote_id": 175792, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  177696, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 177694, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  177696, 
+  [
+   297, 
+   341, 
+   {
+    "quote_id": 177694, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  177696, 
+  [
+   369, 
+   513, 
+   {
+    "quote_id": 177694, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  177696, 
+  [
+   708, 
+   873, 
+   {
+    "quote_id": 177694, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176325, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 176296, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176325, 
+  [
+   184, 
+   437, 
+   {}
+  ]
+ ], 
+ [
+  176325, 
+  [
+   184, 
+   487, 
+   {}
+  ]
+ ], 
+ [
+  175739, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 175733, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176869, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176819, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176081, 
+  [
+   11, 
+   61, 
+   {
+    "quote_id": 176026, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  175931, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175807, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   478, 
+   724, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   856, 
+   1055, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   1451, 
+   1772, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   1928, 
+   2008, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   2221, 
+   2335, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176815, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   2350, 
+   2466, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   2614, 
+   2661, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   3101, 
+   3377, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   3944, 
+   4390, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  176959, 
+  [
+   4509, 
+   4862, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176831, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  175936, 
+  [
+   0, 
+   507, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 175931, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  176962, 
+  [
+   0, 
+   746, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 176869, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   1056, 
+   1184, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   1386, 
+   1778, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   1977, 
+   2129, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   2292, 
+   2490, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   2630, 
+   2774, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   3037, 
+   3473, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   3966, 
+   4529, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   4623, 
+   4738, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176972, 
+  [
+   5490, 
+   5547, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176959, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  175975, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175936, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  175980, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 175975, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175980, 
+  [
+   170, 
+   353, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175936, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176493, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176325, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175987, 
+  [
+   14, 
+   51, 
+   {
+    "quote_id": 175980, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  175990, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  175990, 
+  [
+   478, 
+   661, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175936, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  175990, 
+  [
+   437, 
+   823, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   1531, 
+   1844, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   1984, 
+   2180, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   2269, 
+   2462, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   2731, 
+   2888, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   3407, 
+   3541, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   3727, 
+   3984, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   3995, 
+   4482, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   4585, 
+   4673, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   4738, 
+   4769, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   4853, 
+   5032, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   5248, 
+   5790, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177021, 
+  [
+   5946, 
+   6043, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 176972, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   87, 
+   204, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   362, 
+   684, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   1260, 
+   1396, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   1471, 
+   1556, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   1624, 
+   1889, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   2271, 
+   2341, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   2724, 
+   2840, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   2984, 
+   3166, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   3638, 
+   3645, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   3706, 
+   3805, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   3856, 
+   4068, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177024, 
+  [
+   4449, 
+   4601, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 177021, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176005, 
+  [
+   0, 
+   556, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 175936, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176014, 
+  [
+   0, 
+   274, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176004, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176016, 
+  [
+   0, 
+   868, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 176005, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  176529, 
+  [
+   154, 
+   372, 
+   {
+    "quote_id": 176493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176529, 
+  [
+   422, 
+   974, 
+   {
+    "quote_id": 176493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176529, 
+  [
+   1155, 
+   1696, 
+   {
+    "quote_id": 176493, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176018, 
+  [
+   0, 
+   1193, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176020, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 176014, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176023, 
+  [
+   0, 
+   624, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 176016, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176026, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176026, 
+  [
+   361, 
+   458, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176026, 
+  [
+   477, 
+   517, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176026, 
+  [
+   604, 
+   771, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176026, 
+  [
+   917, 
+   1057, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 175399, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177052, 
+  [
+   0, 
+   719, 
+   {
+    "raw_data": "oliphant", 
+    "quote_id": 176962, 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  177078, 
+  [
+   0, 
+   1510, 
+   {
+    "raw_data": "unkerpaulie", 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176584, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176529, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176584, 
+  [
+   204, 
+   427, 
+   {
+    "raw_data": "howard", 
+    "unknown_author": "howard"
+   }
+  ]
+ ], 
+ [
+  176584, 
+  [
+   625, 
+   1457, 
+   {
+    "raw_data": "howard", 
+    "quote_id": 176529, 
+    "unknown_author": "howard", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176601, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 176593, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  176090, 
+  [
+   0, 
+   624, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 176016, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176096, 
+  [
+   7, 
+   282, 
+   {
+    "quote_id": 176090, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  176097, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176020, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176099, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176020, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176108, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 176099, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176109, 
+  [
+   0, 
+   614, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 176090, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  176109, 
+  [
+   832, 
+   1012, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 176097, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  175600, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 175560, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  176113, 
+  [
+   14, 
+   71, 
+   {}
+  ]
+ ], 
+ [
+  176114, 
+  [
+   0, 
+   480, 
+   {
+    "raw_data": "Howard Beale", 
+    "quote_id": 176108, 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176114, 
+  [
+   701, 
+   734, 
+   {
+    "raw_data": "Beale Twisting facts", 
+    "quote_id": 175733, 
+    "unknown_author": "Beale Twisting facts", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176116, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "Howard Beale", 
+    "author": "Howard Beale"
+   }
+  ]
+ ], 
+ [
+  176116, 
+  [
+   286, 
+   380, 
+   {
+    "raw_data": "What Steve really said", 
+    "quote_id": 176109, 
+    "unknown_author": "What Steve really said", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  176116, 
+  [
+   384, 
+   441, 
+   {
+    "raw_data": "What Beale Quoted me as saying", 
+    "unknown_author": "What Beale Quoted me as saying"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   733, 
+   1156, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   1408, 
+   1859, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   2465, 
+   2577, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   2699, 
+   3010, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   3063, 
+   3549, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176831, 
+  [
+   4277, 
+   4629, 
+   {
+    "raw_data": "Oliphant", 
+    "quote_id": 176815, 
+    "unknown_author": "Oliphant", 
+    "author": "oliphant"
+   }
+  ]
+ ], 
+ [
+  176127, 
+  [
+   311, 
+   522, 
+   {
+    "quote_id": 176114, 
+    "author": "Steeeeve"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,2209 @@
+[
+ [
+  274006, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "thelmoose;274003", 
+    "quote_id": 274003, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  274006, 
+  [
+   456, 
+   680, 
+   {
+    "raw_data": "thelmoose;274003", 
+    "quote_id": 274003, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273939, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Big_Bear_Scot;273796", 
+    "quote_id": 273796, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  273939, 
+  [
+   380, 
+   548, 
+   {
+    "raw_data": "Big_Bear_Scot;273796", 
+    "quote_id": 273796, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  273941, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "JPSartre12;273894", 
+    "quote_id": 273894, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273942, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "James;273938", 
+    "quote_id": 273938, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273946, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "lesz;273942", 
+    "quote_id": 273942, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  273949, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "James;273946", 
+    "quote_id": 273946, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273442, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "Archangel;273400", 
+    "quote_id": 273400, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273442, 
+  [
+   457, 
+   631, 
+   {
+    "raw_data": "Archangle", 
+    "quote_id": 273400, 
+    "unknown_author": "Archangle", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273442, 
+  [
+   662, 
+   968, 
+   {
+    "raw_data": "arch", 
+    "quote_id": 273400, 
+    "unknown_author": "arch", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273453, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "thelmoose;273399", 
+    "quote_id": 273399, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273458, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "thelmoose;273399", 
+    "quote_id": 273399, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273458, 
+  [
+   418, 
+   651, 
+   {
+    "quote_id": 273399, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273465, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "JPSartre12;273458", 
+    "quote_id": 273458, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273465, 
+  [
+   581, 
+   712, 
+   {
+    "quote_id": 273458, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273466, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "JPSartre12;273458", 
+    "quote_id": 273458, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273759, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Matthew S;273752", 
+    "quote_id": 273752, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273470, 
+  [
+   0, 
+   524, 
+   {
+    "raw_data": "jyoshu;273466", 
+    "quote_id": 273466, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273983, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "James;273939", 
+    "quote_id": 273939, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273985, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "JPSartre12;273894", 
+    "quote_id": 273894, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  275018, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "Archangel;274973", 
+    "quote_id": 274973, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273477, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "jyoshu;273453", 
+    "quote_id": 273453, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273990, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "thelmoose;273983", 
+    "quote_id": 273983, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273991, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "James;273990", 
+    "quote_id": 273990, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273481, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Ohioprof;273477", 
+    "quote_id": 273477, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273482, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "jyoshu;273481", 
+    "quote_id": 273481, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273483, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "samiinh;273470", 
+    "quote_id": 273470, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273484, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Ohioprof;273477", 
+    "quote_id": 273477, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273998, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "thelmoose;273991", 
+    "quote_id": 273991, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273491, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "jim's trucking;273489", 
+    "quote_id": 273489, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273492, 
+  [
+   0, 
+   1009, 
+   {
+    "raw_data": "samiinh;273488", 
+    "quote_id": 273488, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273496, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "thelmoose;273494", 
+    "quote_id": 273494, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273497, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "JPSartre12;273496", 
+    "quote_id": 273496, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  274010, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "samiinh;273803", 
+    "quote_id": 273803, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  274011, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "James;274006", 
+    "quote_id": 274006, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274011, 
+  [
+   747, 
+   894, 
+   {
+    "quote_id": 274006, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274030, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "samiinh;274025", 
+    "quote_id": 274025, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  275047, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "Ohioprof;275003", 
+    "quote_id": 275003, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  274024, 
+  [
+   0, 
+   705, 
+   {
+    "raw_data": "jim's trucking;274001", 
+    "quote_id": 274001, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  274025, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Archangel;274024", 
+    "quote_id": 274024, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  275051, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "jyoshu;275047", 
+    "quote_id": 275047, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273938, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "ShadowPikachu;273862", 
+    "quote_id": 273862, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273518, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "JPSartre12;273496", 
+    "quote_id": 273496, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273519, 
+  [
+   0, 
+   165, 
+   {
+    "raw_data": "JPSartre12;273484", 
+    "quote_id": 273484, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273520, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "jim's trucking;273489", 
+    "quote_id": 273489, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273521, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "ShadowPikachu;273497", 
+    "quote_id": 273497, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  275173, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "lesz;275157", 
+    "quote_id": 275157, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  274038, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "samiinh;274032", 
+    "quote_id": 274032, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  274039, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Archangel;274038", 
+    "quote_id": 274038, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273531, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Ohioprof;273521", 
+    "quote_id": 273521, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  274965, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "JPSartre12;273894", 
+    "quote_id": 273894, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  275003, 
+  [
+   0, 
+   302, 
+   {
+    "raw_data": "jyoshu;273985", 
+    "quote_id": 273985, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  274966, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "James;273939", 
+    "quote_id": 273939, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274064, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "samiinh;274039", 
+    "quote_id": 274039, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273045, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Matthew S;273042", 
+    "quote_id": 273042, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273047, 
+  [
+   0, 
+   1657, 
+   {
+    "raw_data": "Ohioprof;273038", 
+    "quote_id": 273038, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273048, 
+  [
+   0, 
+   953, 
+   {
+    "raw_data": "Archangel;273047", 
+    "quote_id": 273047, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273050, 
+  [
+   0, 
+   1657, 
+   {
+    "raw_data": "Ohioprof;273038", 
+    "quote_id": 273038, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  275100, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "JPSartre12;273801", 
+    "quote_id": 273801, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273058, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "JPSartre12;273050", 
+    "quote_id": 273050, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273060, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "samiinh;273051", 
+    "quote_id": 273051, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273060, 
+  [
+   273, 
+   866, 
+   {
+    "raw_data": "Ohioprof;273058", 
+    "quote_id": 273058, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  274085, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "samiinh;274081", 
+    "quote_id": 274081, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  274089, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "James;273938", 
+    "quote_id": 273938, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274092, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "James;273939", 
+    "quote_id": 273939, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273070, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "Ohioprof;273058", 
+    "quote_id": 273058, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  274973, 
+  [
+   0, 
+   158, 
+   {
+    "raw_data": "samiinh;274094", 
+    "quote_id": 274094, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273608, 
+  [
+   0, 
+   488, 
+   {
+    "raw_data": "ShadowPikachu;273531", 
+    "quote_id": 273531, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273075, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Steeeeve;273070", 
+    "quote_id": 273070, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  273085, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Steeeeve;273070", 
+    "quote_id": 273070, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  273605, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "samiinh;273518", 
+    "quote_id": 273518, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273606, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Ohioprof;273519", 
+    "quote_id": 273519, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273096, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "Ohioprof;273085", 
+    "quote_id": 273085, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273098, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "samiinh;273096", 
+    "quote_id": 273096, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273613, 
+  [
+   0, 
+   1268, 
+   {
+    "raw_data": "Ohioprof;273610", 
+    "quote_id": 273610, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273102, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "MrWriteLA;273098", 
+    "quote_id": 273098, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  273618, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Archangel;273613", 
+    "quote_id": 273613, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273618, 
+  [
+   153, 
+   272, 
+   {
+    "raw_data": "Archangel;273613", 
+    "quote_id": 273613, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273618, 
+  [
+   380, 
+   627, 
+   {
+    "raw_data": "Archangel;273613", 
+    "quote_id": 273613, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273107, 
+  [
+   0, 
+   1657, 
+   {
+    "raw_data": "Ohioprof;273038", 
+    "quote_id": 273038, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273108, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "Archangel;273107", 
+    "quote_id": 273107, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273109, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Kronus;273108", 
+    "quote_id": 273108, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  275158, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "MrWriteLA;275106", 
+    "quote_id": 275106, 
+    "author": "MrWriteLA"
+   }
+  ]
+ ], 
+ [
+  273623, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Matthew S;273618", 
+    "quote_id": 273618, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273623, 
+  [
+   244, 
+   342, 
+   {
+    "quote_id": 273618, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273623, 
+  [
+   615, 
+   1015, 
+   {
+    "quote_id": 273618, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273627, 
+  [
+   0, 
+   1268, 
+   {
+    "raw_data": "Ohioprof;273610", 
+    "quote_id": 273610, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273116, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "JPSartre12;273050", 
+    "quote_id": 273050, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273629, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "JPSartre12;273608", 
+    "quote_id": 273608, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273120, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "samiinh;273114", 
+    "quote_id": 273114, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273633, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "ShadowPikachu;273629", 
+    "quote_id": 273629, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273124, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "Ohioprof;273085", 
+    "quote_id": 273085, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273125, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "Steeeeve;273070", 
+    "quote_id": 273070, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  273126, 
+  [
+   0, 
+   24, 
+   {
+    "raw_data": "Steeeeve;273124", 
+    "quote_id": 273124, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  273128, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "samiinh", 
+    "quote_id": 273114, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273129, 
+  [
+   0, 
+   26, 
+   {
+    "raw_data": "samiinh;273126", 
+    "quote_id": 273126, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273130, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "Ohioprof;273085", 
+    "quote_id": 273085, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273132, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Steeeeve;273129", 
+    "quote_id": 273129, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  273133, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Steeeeve;273129", 
+    "quote_id": 273129, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  275182, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "jyoshu;275173", 
+    "quote_id": 275173, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273137, 
+  [
+   321, 
+   525, 
+   {}
+  ]
+ ], 
+ [
+  273137, 
+  [
+   531, 
+   724, 
+   {}
+  ]
+ ], 
+ [
+  273145, 
+  [
+   0, 
+   284, 
+   {
+    "raw_data": "samiinh;273131", 
+    "quote_id": 273131, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  275157, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "jyoshu;275047", 
+    "quote_id": 275047, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273153, 
+  [
+   0, 
+   593, 
+   {
+    "raw_data": "Ohioprof;273058", 
+    "quote_id": 273058, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273155, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "JPSartre12;273153", 
+    "quote_id": 273153, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273156, 
+  [
+   0, 
+   266, 
+   {
+    "raw_data": "JPSartre12;273153", 
+    "quote_id": 273153, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273157, 
+  [
+   0, 
+   911, 
+   {
+    "raw_data": "ShadowPikachu;273155", 
+    "quote_id": 273155, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273158, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Matthew S;273042", 
+    "quote_id": 273042, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273167, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Archangel;273145", 
+    "quote_id": 273145, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273168, 
+  [
+   0, 
+   162, 
+   {
+    "raw_data": "JPSartre12;273158", 
+    "quote_id": 273158, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273610, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "JPSartre12;273606", 
+    "quote_id": 273606, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273177, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "Ohioprof;273156", 
+    "quote_id": 273156, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273181, 
+  [
+   0, 
+   492, 
+   {
+    "raw_data": "Matthew S;273167", 
+    "quote_id": 273167, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273182, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Matthew S;273168", 
+    "quote_id": 273168, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273182, 
+  [
+   481, 
+   1260, 
+   {}
+  ]
+ ], 
+ [
+  273628, 
+  [
+   0, 
+   142, 
+   {
+    "raw_data": "JPSartre12;273627", 
+    "quote_id": 273627, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273714, 
+  [
+   187, 
+   537, 
+   {}
+  ]
+ ], 
+ [
+  273203, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Matthew S;273168", 
+    "quote_id": 273168, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273722, 
+  [
+   0, 
+   399, 
+   {
+    "raw_data": "thelmoose;273714", 
+    "quote_id": 273714, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273225, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Archangel;273181", 
+    "quote_id": 273181, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273230, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "Kronus;273225", 
+    "quote_id": 273225, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  273234, 
+  [
+   0, 
+   519, 
+   {
+    "raw_data": "samiinh;273232", 
+    "quote_id": 273232, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273236, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "samiinh;273232", 
+    "quote_id": 273232, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273752, 
+  [
+   0, 
+   772, 
+   {
+    "raw_data": "Archangel;273722", 
+    "quote_id": 273722, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273241, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "JPSartre12;273234", 
+    "quote_id": 273234, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273241, 
+  [
+   239, 
+   692, 
+   {
+    "raw_data": "Archangel;273236", 
+    "quote_id": 273236, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273244, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Archangel;273203", 
+    "quote_id": 273203, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273978, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "samiinh;273949", 
+    "quote_id": 273949, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273246, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "thelmoose;273241", 
+    "quote_id": 273241, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  273247, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Matthew S;273244", 
+    "quote_id": 273244, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273760, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Matthew S;273752", 
+    "quote_id": 273752, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273251, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Archangel;273246", 
+    "quote_id": 273246, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273764, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Ohioprof;273520", 
+    "quote_id": 273520, 
+    "author": "Ohioprof"
+   }
+  ]
+ ], 
+ [
+  273256, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "samiinh;273255", 
+    "quote_id": 273255, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273771, 
+  [
+   0, 
+   983, 
+   {
+    "raw_data": "jim's trucking;273764", 
+    "quote_id": 273764, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273773, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "samiinh;273771", 
+    "quote_id": 273771, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273776, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "jim's trucking;273773", 
+    "quote_id": 273773, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273640, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Archangel;273623", 
+    "quote_id": 273623, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273640, 
+  [
+   304, 
+   569, 
+   {
+    "raw_data": "Archangel;273623", 
+    "quote_id": 273623, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273640, 
+  [
+   740, 
+   969, 
+   {
+    "raw_data": "Archangel;273623", 
+    "quote_id": 273623, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273779, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "samiinh;273776", 
+    "quote_id": 273776, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273785, 
+  [
+   0, 
+   624, 
+   {
+    "raw_data": "jim's trucking;273779", 
+    "quote_id": 273779, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273787, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "JPSartre12;273760", 
+    "quote_id": 273760, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273788, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "samiinh;273785", 
+    "quote_id": 273785, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273789, 
+  [
+   0, 
+   983, 
+   {
+    "raw_data": "jim's trucking;273764", 
+    "quote_id": 273764, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273796, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "James;273794", 
+    "quote_id": 273794, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273800, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "samiinh;273762", 
+    "quote_id": 273762, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273801, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "ShadowPikachu;273787", 
+    "quote_id": 273787, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273803, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "JPSartre12;273800", 
+    "quote_id": 273800, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273805, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "JPSartre12;273801", 
+    "quote_id": 273801, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273807, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "JPSartre12;273801", 
+    "quote_id": 273801, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273819, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "samiinh;273762", 
+    "quote_id": 273762, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273819, 
+  [
+   154, 
+   237, 
+   {
+    "quote_id": 273803, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273819, 
+  [
+   283, 
+   340, 
+   {
+    "quote_id": 273808, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  273820, 
+  [
+   0, 
+   624, 
+   {
+    "raw_data": "ShadowPikachu;273789", 
+    "quote_id": 273789, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273828, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "jim's trucking;273820", 
+    "quote_id": 273820, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273840, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "ShadowPikachu;273828", 
+    "quote_id": 273828, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273840, 
+  [
+   118, 
+   1927, 
+   {
+    "raw_data": "OP", 
+    "unknown_author": "OP"
+   }
+  ]
+ ], 
+ [
+  273843, 
+  [
+   0, 
+   885, 
+   {
+    "raw_data": "James;273794", 
+    "quote_id": 273794, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273846, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "JPSartre12;273801", 
+    "quote_id": 273801, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273338, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "JPSartre12;273234", 
+    "quote_id": 273234, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273853, 
+  [
+   0, 
+   785, 
+   {
+    "raw_data": "jim's trucking;273840", 
+    "quote_id": 273840, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  273860, 
+  [
+   0, 
+   1248, 
+   {
+    "raw_data": "Matthew S;273843", 
+    "quote_id": 273843, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  273861, 
+  [
+   0, 
+   1090, 
+   {
+    "raw_data": "Foxtuba;273860", 
+    "quote_id": 273860, 
+    "author": "Foxtuba"
+   }
+  ]
+ ], 
+ [
+  273862, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "James;273794", 
+    "quote_id": 273794, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274081, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "JSDKoeln;274064", 
+    "quote_id": 274064, 
+    "author": "JSDKoeln"
+   }
+  ]
+ ], 
+ [
+  275020, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "ShadowPikachu;274089", 
+    "quote_id": 274089, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273911, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Archangel;273900", 
+    "quote_id": 273900, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273886, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "samiinh;273866", 
+    "quote_id": 273866, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  274094, 
+  [
+   0, 
+   409, 
+   {
+    "raw_data": "ShadowPikachu;274092", 
+    "quote_id": 274092, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273894, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Matthew S;273846", 
+    "quote_id": 273846, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  274001, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Archangel;273858", 
+    "quote_id": 273858, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  274001, 
+  [
+   326, 
+   1056, 
+   {
+    "raw_data": "ShadowPikachu;273853", 
+    "quote_id": 273853, 
+    "author": "ShadowPikachu"
+   }
+  ]
+ ], 
+ [
+  273897, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Archangel;273861", 
+    "quote_id": 273861, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  273900, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Matthew S;273897", 
+    "quote_id": 273897, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  274003, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "James;273998", 
+    "quote_id": 273998, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274003, 
+  [
+   419, 
+   565, 
+   {
+    "quote_id": 273998, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274003, 
+  [
+   669, 
+   926, 
+   {
+    "quote_id": 273998, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  274003, 
+  [
+   1057, 
+   1143, 
+   {
+    "quote_id": 273998, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  273397, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "jyoshu;273338", 
+    "quote_id": 273338, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273399, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "jyoshu;273338", 
+    "quote_id": 273338, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  273399, 
+  [
+   77, 
+   165, 
+   {
+    "raw_data": "JPSartre12;273397", 
+    "quote_id": 273397, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  273400, 
+  [
+   0, 
+   537, 
+   {
+    "raw_data": "thelmoose;273399", 
+    "quote_id": 273399, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  275199, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "lesz;275182", 
+    "quote_id": 275182, 
+    "author": "lesz"
+   }
+  ]
+ ]
+]

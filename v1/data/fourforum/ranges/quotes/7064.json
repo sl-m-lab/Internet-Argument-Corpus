@@ -1,0 +1,180 @@
+[
+ [
+  185492, 
+  [
+   0, 
+   622, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 185461, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  185649, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 185544, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  185544, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 185492, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  185544, 
+  [
+   796, 
+   1472, 
+   {
+    "quote_id": 185492, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  185669, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 185657, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  185676, 
+  [
+   0, 
+   272, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 185669, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  185293, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 185288, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  185303, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 185287, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  185573, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 185544, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  185446, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 185430, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  185446, 
+  [
+   1077, 
+   1267, 
+   {
+    "quote_id": 185430, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  185322, 
+  [
+   0, 
+   625, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 185303, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  185452, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 185446, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  185456, 
+  [
+   0, 
+   430, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 185446, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  185461, 
+  [
+   0, 
+   630, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 185456, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ]
+]

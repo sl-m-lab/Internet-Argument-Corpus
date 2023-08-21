@@ -1,0 +1,4681 @@
+[
+ [
+  58371, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58285, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58371, 
+  [
+   460, 
+   574, 
+   {
+    "quote_id": 58285, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58372, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58324, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58372, 
+  [
+   481, 
+   657, 
+   {
+    "quote_id": 58324, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58563, 
+  [
+   0, 
+   1723, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   357, 
+   572, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   1184, 
+   1250, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   1318, 
+   1523, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   1529, 
+   1740, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   2024, 
+   2058, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   2064, 
+   2149, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   2204, 
+   2277, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   3280, 
+   3495, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   3499, 
+   3851, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   4211, 
+   4436, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   4440, 
+   4611, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   4694, 
+   4991, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   4997, 
+   5112, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   5432, 
+   5724, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   5780, 
+   5844, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   5848, 
+   6078, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   6160, 
+   6337, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   6341, 
+   6426, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   6505, 
+   6619, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   6623, 
+   6671, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   6852, 
+   7013, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   7017, 
+   7064, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   7280, 
+   7604, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 57895, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58376, 
+  [
+   7608, 
+   7856, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58377, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 58372, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  57358, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57337, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58384, 
+  [
+   0, 
+   235, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58285, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59074, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59071, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58388, 
+  [
+   0, 
+   892, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 58313, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58389, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58382, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  59075, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 59074, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58397, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58388, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58397, 
+  [
+   261, 
+   373, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58388, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58397, 
+  [
+   835, 
+   888, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58388, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58402, 
+  [
+   0, 
+   1057, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   263, 
+   1168, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   1306, 
+   1596, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   1958, 
+   2257, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   2336, 
+   2460, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   2675, 
+   2748, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   2792, 
+   2839, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   3060, 
+   3321, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   3545, 
+   3939, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   3953, 
+   4303, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   4537, 
+   4581, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   4633, 
+   4970, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   5560, 
+   5677, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   5983, 
+   6132, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   6247, 
+   6297, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   6371, 
+   6417, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   6603, 
+   6726, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   6849, 
+   7015, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   7100, 
+   7243, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57895, 
+  [
+   7413, 
+   7601, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57786, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57896, 
+  [
+   0, 
+   996, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57748, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57905, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 57901, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  58419, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58384, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58932, 
+  [
+   0, 
+   1096, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58929, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 59583, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   45, 
+   345, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59822, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   498, 
+   703, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 59583, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   708, 
+   793, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59822, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   1007, 
+   1246, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 59583, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   1250, 
+   1511, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59822, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  60471, 
+  [
+   1709, 
+   1858, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59822, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  59962, 
+  [
+   12, 
+   312, 
+   {
+    "quote_id": 59822, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  57921, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57748, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57921, 
+  [
+   72, 
+   165, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57748, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57921, 
+  [
+   191, 
+   329, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57748, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57921, 
+  [
+   355, 
+   756, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57748, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59973, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 59962, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  59973, 
+  [
+   277, 
+   735, 
+   {
+    "quote_id": 59962, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  59466, 
+  [
+   0, 
+   3168, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 59135, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  61368, 
+  [
+   11, 
+   92, 
+   {
+    "quote_id": 60061, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  61368, 
+  [
+   192, 
+   788, 
+   {
+    "quote_id": 60061, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58505, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58497, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58382, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 58372, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  57943, 
+  [
+   0, 
+   618, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57921, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57435, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57337, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57445, 
+  [
+   0, 
+   1848, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57270, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57446, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57313, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57447, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57334, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57961, 
+  [
+   0, 
+   629, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 57943, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  57961, 
+  [
+   1112, 
+   1483, 
+   {
+    "raw_data": "whistler", 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  57965, 
+  [
+   0, 
+   996, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57748, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  61550, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "mizmaxx", 
+    "quote_id": 60647, 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  57969, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 57961, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  57971, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "whistler", 
+    "quote_id": 57969, 
+    "author": "whistler"
+   }
+  ]
+ ], 
+ [
+  59071, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57981, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58497, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 58408, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58497, 
+  [
+   279, 
+   675, 
+   {
+    "quote_id": 58408, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59215, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59209, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59215, 
+  [
+   221, 
+   500, 
+   {
+    "quote_id": 59209, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57988, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57965, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57988, 
+  [
+   402, 
+   523, 
+   {
+    "quote_id": 57723, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57991, 
+  [
+   0, 
+   640, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57480, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57446, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57480, 
+  [
+   155, 
+   311, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57446, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57480, 
+  [
+   631, 
+   750, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57446, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57993, 
+  [
+   0, 
+   1255, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  60061, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  60061, 
+  [
+   242, 
+   702, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 59962, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58000, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57992, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58002, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57997, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58003, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57993, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58005, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 58003, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  58008, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58005, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58009, 
+  [
+   0, 
+   362, 
+   {
+    "raw_data": "billsco", 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  59034, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58844, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58011, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58009, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  59583, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59291, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  59583, 
+  [
+   1106, 
+   1194, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59291, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  58525, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58324, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   544, 
+   606, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   610, 
+   680, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   854, 
+   1132, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   1304, 
+   1419, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   1567, 
+   1921, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   2215, 
+   2292, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   2578, 
+   2765, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   2899, 
+   2949, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   3060, 
+   3136, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   3247, 
+   3320, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58528, 
+  [
+   3374, 
+   3549, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58376, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58018, 
+  [
+   0, 
+   504, 
+   {
+    "raw_data": "billsco", 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  59043, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 59037, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  61553, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Anastasia", 
+    "quote_id": 61550, 
+    "author": "Anastasia"
+   }
+  ]
+ ], 
+ [
+  59048, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59043, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57516, 
+  [
+   655, 
+   739, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57480, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57516, 
+  [
+   795, 
+   1105, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57480, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57516, 
+  [
+   2765, 
+   2860, 
+   {
+    "raw_data": "Apathy", 
+    "quote_id": 57480, 
+    "unknown_author": "Apathy", 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57517, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57485, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  61616, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 61553, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  59057, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 59048, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57525, 
+  [
+   0, 
+   1019, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 57522, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  59062, 
+  [
+   0, 
+   275, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59057, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59063, 
+  [
+   0, 
+   391, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 59062, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58041, 
+  [
+   0, 
+   559, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58002, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   496, 
+   671, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   735, 
+   826, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   900, 
+   1027, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   1109, 
+   1262, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   1327, 
+   1415, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   1461, 
+   1699, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   1755, 
+   2030, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57532, 
+  [
+   2085, 
+   2521, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57516, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58045, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58018, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58045, 
+  [
+   844, 
+   956, 
+   {
+    "quote_id": 58018, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57534, 
+  [
+   0, 
+   551, 
+   {
+    "raw_data": "apathy", 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57535, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57534, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57535, 
+  [
+   404, 
+   769, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57534, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57535, 
+  [
+   893, 
+   1072, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57525, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58562, 
+  [
+   11, 
+   168, 
+   {
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58562, 
+  [
+   329, 
+   1107, 
+   {
+    "quote_id": 57780, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   103, 
+   167, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   236, 
+   273, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   561, 
+   728, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   908, 
+   970, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   1195, 
+   1414, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   1732, 
+   1897, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   2210, 
+   2432, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   3174, 
+   3278, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   3532, 
+   3756, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   3926, 
+   3987, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   4055, 
+   4118, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57539, 
+  [
+   4805, 
+   4967, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58566, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58324, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58566, 
+  [
+   126, 
+   562, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58525, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  59079, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59075, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58568, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58568, 
+  [
+   354, 
+   637, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58562, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58568, 
+  [
+   1099, 
+   1193, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58562, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  59082, 
+  [
+   0, 
+   437, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 59076, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58059, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58045, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58419, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   128, 
+   171, 
+   {
+    "raw_data": "Jim's Trucking", 
+    "quote_id": 58500, 
+    "unknown_author": "Jim's Trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   388, 
+   660, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58419, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   666, 
+   921, 
+   {
+    "raw_data": "Jim's Trucking", 
+    "unknown_author": "Jim's Trucking"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   1181, 
+   1371, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58419, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   1377, 
+   1670, 
+   {
+    "raw_data": "Jim's Trucking", 
+    "quote_id": 58500, 
+    "unknown_author": "Jim's Trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   3379, 
+   3528, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58419, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58574, 
+  [
+   3534, 
+   3607, 
+   {
+    "raw_data": "Jim's Trucking", 
+    "quote_id": 58500, 
+    "unknown_author": "Jim's Trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   338, 
+   381, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   491, 
+   646, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   851, 
+   909, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   913, 
+   979, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58353, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   985, 
+   1081, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   1169, 
+   1236, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   1281, 
+   1556, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   1561, 
+   1723, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   1839, 
+   1951, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   1956, 
+   2094, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   2154, 
+   2506, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   2510, 
+   2794, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   3054, 
+   3128, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   3133, 
+   3409, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58528, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   3805, 
+   3990, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   3994, 
+   4120, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   4310, 
+   4383, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   4387, 
+   4487, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   4830, 
+   4900, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   4905, 
+   4948, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58577, 
+  [
+   5004, 
+   5175, 
+   {
+    "raw_data": "Montalban", 
+    "quote_id": 58376, 
+    "unknown_author": "Montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58582, 
+  [
+   11, 
+   190, 
+   {
+    "quote_id": 58568, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58582, 
+  [
+   484, 
+   938, 
+   {
+    "quote_id": 58568, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58582, 
+  [
+   1416, 
+   1814, 
+   {
+    "quote_id": 58568, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  60638, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 60061, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  60638, 
+  [
+   279, 
+   318, 
+   {
+    "quote_id": 60061, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  60638, 
+  [
+   372, 
+   931, 
+   {
+    "quote_id": 60061, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  60647, 
+  [
+   416, 
+   511, 
+   {
+    "raw_data": "jim", 
+    "quote_id": 60638, 
+    "unknown_author": "jim", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  60647, 
+  [
+   893, 
+   1348, 
+   {}
+  ]
+ ], 
+ [
+  60647, 
+  [
+   1515, 
+   1622, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 60061, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  59065, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59063, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58092, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 58000, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   0, 
+   636, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   642, 
+   754, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   923, 
+   1310, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   2092, 
+   2321, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   2579, 
+   2638, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   3045, 
+   3275, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57991, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58095, 
+  [
+   4588, 
+   4819, 
+   {
+    "raw_data": "kronus", 
+    "unknown_author": "kronus"
+   }
+  ]
+ ], 
+ [
+  58408, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58402, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58408, 
+  [
+   383, 
+   723, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58402, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58571, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58563, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58571, 
+  [
+   602, 
+   1133, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58563, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58571, 
+  [
+   2050, 
+   2230, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58103, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58018, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58324, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58295, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  58324, 
+  [
+   375, 
+   541, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58295, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57594, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57535, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57595, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57534, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58622, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58622, 
+  [
+   202, 
+   319, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58583, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58622, 
+  [
+   471, 
+   562, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58583, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58622, 
+  [
+   588, 
+   722, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58583, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58622, 
+  [
+   1037, 
+   1219, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  59135, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 59048, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  59137, 
+  [
+   0, 
+   718, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  59212, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  59212, 
+  [
+   699, 
+   1181, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 59211, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  57603, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 57594, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  57605, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57539, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57606, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59143, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59071, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57608, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58583, 
+  [
+   11, 
+   483, 
+   {
+    "quote_id": 58571, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58583, 
+  [
+   708, 
+   1617, 
+   {
+    "quote_id": 58571, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58583, 
+  [
+   1846, 
+   2137, 
+   {
+    "quote_id": 58571, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58132, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 58103, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  58134, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 58041, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58136, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "Phunting", 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  58136, 
+  [
+   2262, 
+   2388, 
+   {
+    "raw_data": "Phunting", 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  58500, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58419, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58500, 
+  [
+   172, 
+   445, 
+   {}
+  ]
+ ], 
+ [
+  58500, 
+  [
+   708, 
+   898, 
+   {
+    "quote_id": 58419, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58500, 
+  [
+   1199, 
+   1349, 
+   {
+    "quote_id": 58419, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59165, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 59143, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59166, 
+  [
+   0, 
+   887, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 59137, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  59168, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "Big Orn", 
+    "quote_id": 59166, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  57633, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57608, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59170, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Phunting", 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  57635, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57633, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58929, 
+  [
+   0, 
+   1842, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58664, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57640, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57635, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59178, 
+  [
+   0, 
+   4, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59176, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  57646, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57640, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58160, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58136, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58160, 
+  [
+   301, 
+   409, 
+   {
+    "quote_id": 58136, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57992, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59186, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  58167, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   345, 
+   381, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   464, 
+   632, 
+   {
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   859, 
+   923, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   963, 
+   1183, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   1440, 
+   1605, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   1682, 
+   1714, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   1816, 
+   1863, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   1899, 
+   2079, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   2124, 
+   2196, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   2347, 
+   2407, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   2602, 
+   2828, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   2897, 
+   3017, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   3279, 
+   3313, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57656, 
+  [
+   3445, 
+   3513, 
+   {
+    "quote_id": 57459, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57659, 
+  [
+   993, 
+   1060, 
+   {
+    "quote_id": 57656, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57659, 
+  [
+   1131, 
+   1198, 
+   {
+    "quote_id": 57656, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57659, 
+  [
+   1287, 
+   1558, 
+   {}
+  ]
+ ], 
+ [
+  57659, 
+  [
+   1636, 
+   1836, 
+   {
+    "quote_id": 57656, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  59205, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59186, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59209, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  59211, 
+  [
+   0, 
+   520, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 59188, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  57676, 
+  [
+   0, 
+   392, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57570, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57677, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 57595, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  57678, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57605, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57997, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57992, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   127, 
+   255, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   372, 
+   435, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   870, 
+   951, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   1469, 
+   1690, 
+   {
+    "raw_data": "Kronous", 
+    "unknown_author": "Kronous"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   1924, 
+   2147, 
+   {
+    "raw_data": "Kronous", 
+    "quote_id": 57659, 
+    "unknown_author": "Kronous", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57680, 
+  [
+   2626, 
+   2836, 
+   {
+    "raw_data": "Montalban", 
+    "unknown_author": "Montalban"
+   }
+  ]
+ ], 
+ [
+  59219, 
+  [
+   0, 
+   596, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  57684, 
+  [
+   0, 
+   488, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  59224, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 59219, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  59216, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 59212, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  59216, 
+  [
+   228, 
+   409, 
+   {
+    "quote_id": 59212, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  59244, 
+  [
+   11, 
+   166, 
+   {
+    "quote_id": 58619, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  59244, 
+  [
+   1312, 
+   1629, 
+   {
+    "quote_id": 58619, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  59246, 
+  [
+   0, 
+   146, 
+   {}
+  ]
+ ], 
+ [
+  59763, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59291, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  59766, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 59763, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  57720, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57603, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57720, 
+  [
+   111, 
+   565, 
+   {
+    "quote_id": 57603, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57720, 
+  [
+   829, 
+   1331, 
+   {
+    "quote_id": 57603, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57721, 
+  [
+   0, 
+   648, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 57644, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   0, 
+   785, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   840, 
+   909, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   934, 
+   1064, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   1157, 
+   1222, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   1238, 
+   1321, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   1348, 
+   1420, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   1554, 
+   1777, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57723, 
+  [
+   1936, 
+   2161, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57736, 
+  [
+   0, 
+   225, 
+   {
+    "quote_id": 57659, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57736, 
+  [
+   231, 
+   492, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57723, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57740, 
+  [
+   0, 
+   329, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57748, 
+  [
+   0, 
+   154, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57740, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58664, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 58622, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  59289, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 59287, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  59037, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "zachvac", 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  58792, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58018, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58792, 
+  [
+   346, 
+   385, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58018, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58285, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 58160, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  58285, 
+  [
+   960, 
+   1221, 
+   {
+    "raw_data": "Phunting", 
+    "quote_id": 58160, 
+    "author": "Phunting"
+   }
+  ]
+ ], 
+ [
+  59822, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 59583, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59822, 
+  [
+   42, 
+   425, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  59822, 
+  [
+   733, 
+   938, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 59583, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  59822, 
+  [
+   1031, 
+   1269, 
+   {
+    "quote_id": 59583, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58799, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "billsco", 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  57265, 
+  [
+   0, 
+   564, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57258, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  57266, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 57213, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  57267, 
+  [
+   0, 
+   552, 
+   {
+    "raw_data": "manuel", 
+    "quote_id": 57266, 
+    "author": "manuel"
+   }
+  ]
+ ], 
+ [
+  58816, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58566, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58820, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58799, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57287, 
+  [
+   0, 
+   1849, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58313, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58134, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57300, 
+  [
+   0, 
+   459, 
+   {
+    "raw_data": "jim's trucking", 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57300, 
+  [
+   1489, 
+   1560, 
+   {
+    "quote_id": 57287, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57300, 
+  [
+   1618, 
+   1835, 
+   {
+    "quote_id": 57287, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58838, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 58828, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  58327, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 58313, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58327, 
+  [
+   1153, 
+   1660, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 58313, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58840, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58838, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58840, 
+  [
+   221, 
+   361, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 58838, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57307, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "sinjin", 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  58844, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "billsco", 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  57314, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57307, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  58619, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58619, 
+  [
+   600, 
+   1074, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58582, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58619, 
+  [
+   1237, 
+   1755, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58582, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  58920, 
+  [
+   0, 
+   549, 
+   {
+    "raw_data": "apathy", 
+    "quote_id": 58816, 
+    "author": "apathy"
+   }
+  ]
+ ], 
+ [
+  57324, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 57314, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  58962, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 58920, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57326, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 57324, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  59176, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Big Orn", 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  59176, 
+  [
+   468, 
+   501, 
+   {
+    "quote_id": 59170, 
+    "author": "Big Orn"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   0, 
+   256, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   417, 
+   773, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   1063, 
+   1136, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   1289, 
+   1498, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   1717, 
+   1755, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   1850, 
+   2065, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   2186, 
+   2404, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   2768, 
+   2996, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   3179, 
+   3479, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   3602, 
+   3711, 
+   {
+    "raw_data": "montalban", 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   4011, 
+   4079, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   4317, 
+   4497, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   4592, 
+   4709, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   4848, 
+   5012, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  58353, 
+  [
+   5087, 
+   5415, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 57895, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  57334, 
+  [
+   0, 
+   90, 
+   {
+    "quote_id": 57324, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  57336, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 57326, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  57337, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 57334, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  58794, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 58583, 
+    "author": "maximus"
+   }
+  ]
+ ]
+]

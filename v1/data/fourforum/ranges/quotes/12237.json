@@ -1,0 +1,616 @@
+[
+ [
+  342016, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "chester;342002", 
+    "quote_id": 342002, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  342934, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Matthew;342930", 
+    "quote_id": 342930, 
+    "author": "Matthew"
+   }
+  ]
+ ], 
+ [
+  342023, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "daewoo;342016", 
+    "quote_id": 342016, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  342665, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "simone;341468", 
+    "quote_id": 341468, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342665, 
+  [
+   85, 
+   141, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 341673, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342538, 
+  [
+   0, 
+   1785, 
+   {
+    "raw_data": "marc9000;342509", 
+    "quote_id": 342509, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  342540, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Jo Bennett;342538", 
+    "quote_id": 342538, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  341777, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "simone;341673", 
+    "quote_id": 341673, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342546, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Symbiote;342540", 
+    "quote_id": 342540, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  341267, 
+  [
+   0, 
+   1058, 
+   {
+    "raw_data": "isly ilwott;341254", 
+    "quote_id": 341254, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  342676, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "snakespit;342665", 
+    "quote_id": 342665, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  341275, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "Charliegone;341267", 
+    "quote_id": 341267, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  342941, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "Steeeeve;342934", 
+    "quote_id": 342934, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  341920, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "simone;341811", 
+    "quote_id": 341811, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342433, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Jo Bennett;342366", 
+    "quote_id": 342366, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  342433, 
+  [
+   696, 
+   915, 
+   {}
+  ]
+ ], 
+ [
+  342433, 
+  [
+   948, 
+   1115, 
+   {}
+  ]
+ ], 
+ [
+  342433, 
+  [
+   1311, 
+   1504, 
+   {}
+  ]
+ ], 
+ [
+  341283, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "isly ilwott;341275", 
+    "quote_id": 341275, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  342726, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Jo Bennett;342546", 
+    "quote_id": 342546, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  341159, 
+  [
+   0, 
+   269, 
+   {
+    "raw_data": "simone;341145", 
+    "quote_id": 341145, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342059, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "chester;342002", 
+    "quote_id": 342002, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  341936, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "simone;341673", 
+    "quote_id": 341673, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341169, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "snakespit;341159", 
+    "quote_id": 341159, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  341682, 
+  [
+   48, 
+   560, 
+   {}
+  ]
+ ], 
+ [
+  341811, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "marc9000;341682", 
+    "quote_id": 341682, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  341174, 
+  [
+   0, 
+   1614, 
+   {
+    "raw_data": "Steeeeve;341107", 
+    "quote_id": 341107, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  342712, 
+  [
+   0, 
+   111, 
+   {
+    "raw_data": "simone;342672", 
+    "quote_id": 342672, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342930, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Steeeeve;342921", 
+    "quote_id": 342921, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  341058, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Bassman;340904", 
+    "quote_id": 340904, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  341572, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "simone;341468", 
+    "quote_id": 341468, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342342, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "simone;342295", 
+    "quote_id": 342295, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342342, 
+  [
+   156, 
+   193, 
+   {
+    "quote_id": 342295, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342342, 
+  [
+   268, 
+   1615, 
+   {}
+  ]
+ ], 
+ [
+  342945, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Matthew;342941", 
+    "quote_id": 342941, 
+    "author": "Matthew"
+   }
+  ]
+ ], 
+ [
+  341320, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "chester;341283", 
+    "quote_id": 341283, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  341450, 
+  [
+   0, 
+   432, 
+   {
+    "raw_data": "snakespit;341232", 
+    "quote_id": 341232, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  342475, 
+  [
+   83, 
+   958, 
+   {}
+  ]
+ ], 
+ [
+  342102, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "Jo Bennett;341758", 
+    "quote_id": 341758, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  342105, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "simone;341811", 
+    "quote_id": 341811, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342105, 
+  [
+   398, 
+   592, 
+   {}
+  ]
+ ], 
+ [
+  342746, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Symbiote;342726", 
+    "quote_id": 342726, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  341988, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "snakespit;341936", 
+    "quote_id": 341936, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  342252, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "simone;342198", 
+    "quote_id": 342198, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342509, 
+  [
+   0, 
+   515, 
+   {
+    "raw_data": "Jo Bennett;342455", 
+    "quote_id": 342455, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  342509, 
+  [
+   992, 
+   1267, 
+   {
+    "quote_id": 342455, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  342509, 
+  [
+   2024, 
+   2155, 
+   {
+    "quote_id": 342455, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  342511, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "simone;342475", 
+    "quote_id": 342475, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342511, 
+  [
+   85, 
+   227, 
+   {
+    "quote_id": 342475, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342511, 
+  [
+   368, 
+   444, 
+   {
+    "quote_id": 342475, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  342511, 
+  [
+   806, 
+   832, 
+   {
+    "quote_id": 342475, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  341232, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Steeeeve;341169", 
+    "quote_id": 341169, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  342002, 
+  [
+   0, 
+   384, 
+   {
+    "raw_data": "daewoo;341988", 
+    "quote_id": 341988, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  342921, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "Matthew;342918", 
+    "quote_id": 342918, 
+    "author": "Matthew"
+   }
+  ]
+ ]
+]

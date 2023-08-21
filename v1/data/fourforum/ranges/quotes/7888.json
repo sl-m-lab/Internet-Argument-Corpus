@@ -1,0 +1,251 @@
+[
+ [
+  206758, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 206749, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  206764, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 206758, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  205613, 
+  [
+   0, 
+   1133, 
+   {
+    "raw_data": "Inyx", 
+    "quote_id": 205609, 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  205745, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 205622, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205745, 
+  [
+   455, 
+   568, 
+   {
+    "quote_id": 205622, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205746, 
+  [
+   0, 
+   1048, 
+   {
+    "raw_data": "Inyx", 
+    "quote_id": 205745, 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  205619, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 205613, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205622, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "Inyx", 
+    "quote_id": 205619, 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  206771, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 206764, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  206020, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "BirchTree", 
+    "quote_id": 206005, 
+    "author": "BirchTree"
+   }
+  ]
+ ], 
+ [
+  205765, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 205756, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  205768, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Inyx", 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  205781, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 205770, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  205788, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 205770, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  206558, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 206062, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  206558, 
+  [
+   870, 
+   1058, 
+   {
+    "quote_id": 206062, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  206562, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 205756, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  206057, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Inyx", 
+    "quote_id": 206020, 
+    "author": "Inyx"
+   }
+  ]
+ ], 
+ [
+  206062, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "BirchTree", 
+    "quote_id": 206005, 
+    "author": "BirchTree"
+   }
+  ]
+ ], 
+ [
+  205940, 
+  [
+   0, 
+   734, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 205765, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  206585, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 206579, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

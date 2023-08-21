@@ -1,0 +1,75 @@
+[
+ [
+  104006, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 101597, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  101880, 
+  [
+   0, 
+   245, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 101864, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  187767, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "banned Duo_Maxwell", 
+    "quote_id": 103796, 
+    "unknown_author": "banned Duo_Maxwell", 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  394616, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "wsm2506;101597", 
+    "quote_id": 101597, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  103803, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Duo_Maxwell", 
+    "quote_id": 103796, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  103804, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 103803, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

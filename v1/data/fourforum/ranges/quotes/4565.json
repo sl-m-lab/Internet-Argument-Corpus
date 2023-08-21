@@ -1,0 +1,326 @@
+[
+ [
+  99458, 
+  [
+   0, 
+   1054, 
+   {
+    "raw_data": "Kaill", 
+    "quote_id": 99276, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   0, 
+   3, 
+   {
+    "raw_data": "Kaill", 
+    "quote_id": 99428, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   156, 
+   187, 
+   {
+    "quote_id": 99428, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   488, 
+   503, 
+   {
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   584, 
+   807, 
+   {
+    "quote_id": 99428, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   851, 
+   948, 
+   {
+    "quote_id": 99428, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   1013, 
+   1184, 
+   {
+    "quote_id": 99428, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99564, 
+  [
+   1325, 
+   1440, 
+   {
+    "quote_id": 99428, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99599, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99564, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99312, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99283, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99312, 
+  [
+   128, 
+   309, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99283, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99312, 
+  [
+   332, 
+   506, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99283, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99312, 
+  [
+   560, 
+   651, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99283, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99346, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "Kaill", 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99346, 
+  [
+   125, 
+   169, 
+   {
+    "quote_id": 99312, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99346, 
+  [
+   653, 
+   820, 
+   {
+    "quote_id": 99312, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99346, 
+  [
+   950, 
+   1057, 
+   {
+    "quote_id": 99312, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99346, 
+  [
+   1132, 
+   1390, 
+   {
+    "quote_id": 99312, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99346, 
+  [
+   1504, 
+   1696, 
+   {
+    "quote_id": 99312, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99283, 
+  [
+   0, 
+   1017, 
+   {
+    "raw_data": "Kaill", 
+    "quote_id": 99276, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99254, 
+  [
+   0, 
+   497, 
+   {
+    "raw_data": "Kaill", 
+    "quote_id": 98950, 
+    "author": "Kaill"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99346, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   105, 
+   574, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99346, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   1311, 
+   1427, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99346, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   1452, 
+   1509, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99346, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   1742, 
+   1837, 
+   {
+    "raw_data": "Heavenbound", 
+    "quote_id": 99346, 
+    "unknown_author": "Heavenbound", 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   2250, 
+   2333, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99346, 
+    "author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  99428, 
+  [
+   2514, 
+   2648, 
+   {
+    "raw_data": "HeavenBound", 
+    "quote_id": 99346, 
+    "author": "HeavenBound"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,57 @@
+[
+ [
+  77449, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 77331, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  77322, 
+  [
+   54, 
+   578, 
+   {}
+  ]
+ ], 
+ [
+  77451, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 77449, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  77326, 
+  [
+   0, 
+   456, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  77435, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 77345, 
+    "author": "Mach"
+   }
+  ]
+ ]
+]

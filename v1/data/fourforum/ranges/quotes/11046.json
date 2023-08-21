@@ -1,0 +1,104 @@
+[
+ [
+  305090, 
+  [
+   0, 
+   509, 
+   {
+    "raw_data": "snakespit;305085", 
+    "quote_id": 305085, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  305204, 
+  [
+   0, 
+   224, 
+   {
+    "raw_data": "snakespit;305182", 
+    "quote_id": 305182, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  312566, 
+  [
+   25, 
+   310, 
+   {
+    "raw_data": "snakespit;305085", 
+    "quote_id": 305085, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  312535, 
+  [
+   89, 
+   121, 
+   {
+    "quote_id": 305085, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  312535, 
+  [
+   213, 
+   625, 
+   {
+    "quote_id": 305085, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  312569, 
+  [
+   20, 
+   139, 
+   {
+    "raw_data": "snakespit;312535", 
+    "quote_id": 312535, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  312571, 
+  [
+   0, 
+   1421, 
+   {
+    "raw_data": "snakespit;312569", 
+    "quote_id": 312569, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  305085, 
+  [
+   0, 
+   3503, 
+   {}
+  ]
+ ], 
+ [
+  305182, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Ghost Rider;305114", 
+    "unknown_quote_id": 305114, 
+    "unknown_author": "Ghost Rider"
+   }
+  ]
+ ]
+]

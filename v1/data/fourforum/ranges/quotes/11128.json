@@ -1,0 +1,525 @@
+[
+ [
+  308898, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308898, 
+  [
+   269, 
+   386, 
+   {
+    "raw_data": "obvious_child;308305", 
+    "quote_id": 308305, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308898, 
+  [
+   782, 
+   1155, 
+   {
+    "raw_data": "o_c", 
+    "quote_id": 308305, 
+    "unknown_author": "o_c", 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308898, 
+  [
+   1321, 
+   1877, 
+   {
+    "raw_data": "child", 
+    "quote_id": 308305, 
+    "unknown_author": "child", 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308898, 
+  [
+   3705, 
+   4222, 
+   {
+    "raw_data": "child", 
+    "quote_id": 308305, 
+    "unknown_author": "child", 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308277, 
+  [
+   0, 
+   475, 
+   {
+    "raw_data": "obvious_child;307992", 
+    "quote_id": 307992, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308287, 
+  [
+   0, 
+   475, 
+   {
+    "raw_data": "obvious_child;307992", 
+    "quote_id": 307992, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308287, 
+  [
+   481, 
+   641, 
+   {
+    "raw_data": "SoupNazi;308277", 
+    "quote_id": 308277, 
+    "author": "SoupNazi"
+   }
+  ]
+ ], 
+ [
+  308289, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Mucusaur;308288", 
+    "quote_id": 308288, 
+    "author": "Mucusaur"
+   }
+  ]
+ ], 
+ [
+  308290, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Archangel;308289", 
+    "quote_id": 308289, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308293, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Archangel;308287", 
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308293, 
+  [
+   66, 
+   121, 
+   {
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308293, 
+  [
+   153, 
+   212, 
+   {
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308293, 
+  [
+   366, 
+   424, 
+   {
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308293, 
+  [
+   448, 
+   584, 
+   {
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308293, 
+  [
+   862, 
+   881, 
+   {}
+  ]
+ ], 
+ [
+  308939, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Archangel;308898", 
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   145, 
+   384, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   776, 
+   921, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   1061, 
+   1217, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   2215, 
+   2383, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   2729, 
+   2979, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   3095, 
+   3395, 
+   {
+    "quote_id": 308305, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   3481, 
+   3635, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   3925, 
+   4067, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   4475, 
+   4698, 
+   {}
+  ]
+ ], 
+ [
+  308939, 
+  [
+   4950, 
+   5091, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308939, 
+  [
+   5186, 
+   5426, 
+   {
+    "quote_id": 308898, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308304, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "SoupNazi;308277", 
+    "quote_id": 308277, 
+    "author": "SoupNazi"
+   }
+  ]
+ ], 
+ [
+  308304, 
+  [
+   263, 
+   357, 
+   {}
+  ]
+ ], 
+ [
+  308305, 
+  [
+   0, 
+   368, 
+   {
+    "raw_data": "Archangel;308287", 
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308949, 
+  [
+   0, 
+   170, 
+   {
+    "quote_id": 308287, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308952, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Archangel;308946", 
+    "quote_id": 308946, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308952, 
+  [
+   472, 
+   650, 
+   {
+    "quote_id": 308946, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308952, 
+  [
+   1229, 
+   1369, 
+   {
+    "quote_id": 308946, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308952, 
+  [
+   1570, 
+   1728, 
+   {
+    "quote_id": 308946, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308952, 
+  [
+   1937, 
+   2138, 
+   {
+    "quote_id": 308946, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308952, 
+  [
+   2850, 
+   2972, 
+   {
+    "quote_id": 308946, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308954, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "T.Q;308949", 
+    "quote_id": 308949, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  308955, 
+  [
+   0, 
+   680, 
+   {
+    "raw_data": "thelmoose;308953", 
+    "quote_id": 308953, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  308956, 
+  [
+   0, 
+   446, 
+   {
+    "raw_data": "obvious_child;308955", 
+    "quote_id": 308955, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  309856, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "obvious_child;309844", 
+    "quote_id": 309844, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  308327, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "SoupNazi;308277", 
+    "quote_id": 308277, 
+    "author": "SoupNazi"
+   }
+  ]
+ ], 
+ [
+  308967, 
+  [
+   0, 
+   563, 
+   {
+    "raw_data": "Archangel;308961", 
+    "quote_id": 308961, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  308306, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Archangel;308289", 
+    "quote_id": 308289, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  309103, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Archangel;308961", 
+    "quote_id": 308961, 
+    "author": "Archangel"
+   }
+  ]
+ ]
+]

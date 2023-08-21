@@ -1,0 +1,61 @@
+[
+ [
+  100871, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100854, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100874, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100871, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100879, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100874, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100879, 
+  [
+   339, 
+   422, 
+   {
+    "quote_id": 100874, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100854, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Jeffersonian", 
+    "quote_id": 100686, 
+    "author": "Jeffersonian"
+   }
+  ]
+ ]
+]

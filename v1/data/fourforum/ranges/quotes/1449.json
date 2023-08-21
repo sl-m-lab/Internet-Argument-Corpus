@@ -1,0 +1,481 @@
+[
+ [
+  30593, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 30571, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29291, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 28893, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  28805, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 28616, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  28805, 
+  [
+   140, 
+   277, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 28616, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  28296, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 28253, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29324, 
+  [
+   0, 
+   461, 
+   {}
+  ]
+ ], 
+ [
+  29324, 
+  [
+   520, 
+   537, 
+   {
+    "quote_id": 29291, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29324, 
+  [
+   597, 
+   694, 
+   {
+    "quote_id": 29291, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  37670, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 30571, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  28893, 
+  [
+   0, 
+   93, 
+   {}
+  ]
+ ], 
+ [
+  28893, 
+  [
+   386, 
+   565, 
+   {
+    "quote_id": 28805, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  28616, 
+  [
+   0, 
+   251, 
+   {}
+  ]
+ ], 
+ [
+  28616, 
+  [
+   320, 
+   354, 
+   {
+    "quote_id": 28276, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29648, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29523, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29648, 
+  [
+   82, 
+   93, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29523, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29648, 
+  [
+   244, 
+   279, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29523, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29648, 
+  [
+   748, 
+   884, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29523, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29648, 
+  [
+   1085, 
+   1117, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29523, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29523, 
+  [
+   0, 
+   60, 
+   {}
+  ]
+ ], 
+ [
+  29523, 
+  [
+   141, 
+   215, 
+   {
+    "quote_id": 29421, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29523, 
+  [
+   239, 
+   350, 
+   {
+    "quote_id": 29421, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29523, 
+  [
+   394, 
+   537, 
+   {
+    "quote_id": 29421, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29523, 
+  [
+   683, 
+   804, 
+   {
+    "quote_id": 29421, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   18, 
+   162, 
+   {
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   193, 
+   230, 
+   {
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   252, 
+   377, 
+   {
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   442, 
+   677, 
+   {
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   752, 
+   818, 
+   {
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   847, 
+   1042, 
+   {
+    "quote_id": 29648, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29785, 
+  [
+   1110, 
+   1289, 
+   {}
+  ]
+ ], 
+ [
+  29661, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "dreamweaver", 
+    "quote_id": 29658, 
+    "author": "dreamweaver"
+   }
+  ]
+ ], 
+ [
+  30559, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Hank", 
+    "quote_id": 29823, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  30571, 
+  [
+   0, 
+   60, 
+   {
+    "quote_id": 29823, 
+    "author": "Hank"
+   }
+  ]
+ ], 
+ [
+  30571, 
+  [
+   133, 
+   218, 
+   {
+    "quote_id": 30559, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  29421, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29324, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29421, 
+  [
+   170, 
+   220, 
+   {
+    "quote_id": 29324, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  28529, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 28276, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  28529, 
+  [
+   380, 
+   415, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 28296, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  28529, 
+  [
+   456, 
+   479, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 28253, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  28276, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 28253, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  29823, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 29523, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  30591, 
+  [
+   0, 
+   668, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 30559, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ]
+]

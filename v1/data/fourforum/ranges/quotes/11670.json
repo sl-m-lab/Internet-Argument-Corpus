@@ -1,0 +1,209 @@
+[
+ [
+  325891, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "T.Q;325884", 
+    "quote_id": 325884, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  327015, 
+  [
+   0, 
+   2345, 
+   {
+    "raw_data": "Archangel;325852", 
+    "quote_id": 325852, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325865, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Archangel;325852", 
+    "quote_id": 325852, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325867, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "T.Q;325865", 
+    "quote_id": 325865, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  325874, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Archangel;325867", 
+    "quote_id": 325867, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325874, 
+  [
+   36, 
+   1077, 
+   {
+    "raw_data": "Archie, just a few short minutes ago...", 
+    "quote_id": 325852, 
+    "unknown_author": "Archie, just a few short minutes ago...", 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325874, 
+  [
+   1083, 
+   1333, 
+   {}
+  ]
+ ], 
+ [
+  325874, 
+  [
+   1379, 
+   1481, 
+   {
+    "quote_id": 325867, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325884, 
+  [
+   0, 
+   305, 
+   {
+    "raw_data": "Archangel;325878", 
+    "quote_id": 325878, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325878, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "tq", 
+    "quote_id": 325874, 
+    "unknown_author": "tq", 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  325880, 
+  [
+   0, 
+   74, 
+   {
+    "quote_id": 325878, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  325849, 
+  [
+   0, 
+   163, 
+   {
+    "quote_id": 325723, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  325849, 
+  [
+   182, 
+   252, 
+   {
+    "quote_id": 325723, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  325849, 
+  [
+   338, 
+   509, 
+   {
+    "quote_id": 325723, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  325849, 
+  [
+   523, 
+   844, 
+   {
+    "quote_id": 325723, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  325849, 
+  [
+   876, 
+   1216, 
+   {
+    "quote_id": 325723, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  325723, 
+  [
+   0, 
+   2315, 
+   {
+    "raw_data": "DrD;325662", 
+    "quote_id": 325662, 
+    "author": "DrD"
+   }
+  ]
+ ], 
+ [
+  325852, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "DrD", 
+    "quote_id": 325849, 
+    "author": "DrD"
+   }
+  ]
+ ]
+]

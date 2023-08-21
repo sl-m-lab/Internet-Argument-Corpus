@@ -1,0 +1,26 @@
+[
+ [
+  42153, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42118, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  42203, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 42193, 
+    "author": "Broker"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,328 @@
+[
+ [
+  422276, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "sinjin;422270", 
+    "quote_id": 422270, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422279, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "sinjin;422270", 
+    "quote_id": 422270, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422280, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Doc Jones;422279", 
+    "quote_id": 422279, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  422283, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Pietro;422276", 
+    "quote_id": 422276, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422286, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "sinjin;422283", 
+    "quote_id": 422283, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422289, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "sinjin;422283", 
+    "quote_id": 422283, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422289, 
+  [
+   1336, 
+   1406, 
+   {
+    "quote_id": 422283, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422293, 
+  [
+   0, 
+   321, 
+   {
+    "raw_data": "Pietro;422289", 
+    "quote_id": 422289, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422293, 
+  [
+   334, 
+   692, 
+   {
+    "quote_id": 422289, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422293, 
+  [
+   768, 
+   1239, 
+   {
+    "quote_id": 422289, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422293, 
+  [
+   1296, 
+   1387, 
+   {
+    "quote_id": 422289, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422293, 
+  [
+   1556, 
+   1646, 
+   {
+    "raw_data": "Pietro;422267", 
+    "quote_id": 422267, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422295, 
+  [
+   0, 
+   303, 
+   {
+    "raw_data": "sinjin;422293", 
+    "quote_id": 422293, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422316, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "Xcaliber;422297", 
+    "quote_id": 422297, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  422390, 
+  [
+   95, 
+   314, 
+   {
+    "raw_data": "Brady;422388", 
+    "quote_id": 422388, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422346, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Galileo;422265", 
+    "quote_id": 422265, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  422347, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Pietro;422276", 
+    "quote_id": 422276, 
+    "author": "Pietro"
+   }
+  ]
+ ], 
+ [
+  422347, 
+  [
+   439, 
+   1045, 
+   {}
+  ]
+ ], 
+ [
+  422348, 
+  [
+   259, 
+   750, 
+   {}
+  ]
+ ], 
+ [
+  422247, 
+  [
+   0, 
+   298, 
+   {
+    "raw_data": "Brady;422243", 
+    "quote_id": 422243, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422260, 
+  [
+   0, 
+   1415, 
+   {
+    "raw_data": "Brady;422243", 
+    "quote_id": 422243, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422261, 
+  [
+   63, 
+   1145, 
+   {}
+  ]
+ ], 
+ [
+  422262, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "sinjin;422259", 
+    "quote_id": 422259, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  422265, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Tither;422261", 
+    "quote_id": 422261, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  422267, 
+  [
+   328, 
+   732, 
+   {
+    "raw_data": "Brady;422243", 
+    "quote_id": 422243, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422267, 
+  [
+   1279, 
+   1425, 
+   {
+    "quote_id": 422243, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422267, 
+  [
+   2402, 
+   2698, 
+   {
+    "quote_id": 422243, 
+    "author": "Brady"
+   }
+  ]
+ ], 
+ [
+  422267, 
+  [
+   5830, 
+   6389, 
+   {}
+  ]
+ ], 
+ [
+  422270, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "Pietro;422267", 
+    "quote_id": 422267, 
+    "author": "Pietro"
+   }
+  ]
+ ]
+]

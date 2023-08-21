@@ -1,0 +1,112 @@
+[
+ [
+  199653, 
+  [
+   0, 
+   350, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 199572, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  199653, 
+  [
+   482, 
+   756, 
+   {
+    "raw_data": "OccamsRazor", 
+    "quote_id": 199579, 
+    "author": "OccamsRazor"
+   }
+  ]
+ ], 
+ [
+  199656, 
+  [
+   0, 
+   787, 
+   {
+    "raw_data": "prschuster", 
+    "quote_id": 199628, 
+    "author": "prschuster"
+   }
+  ]
+ ], 
+ [
+  199445, 
+  [
+   864, 
+   1004, 
+   {}
+  ]
+ ], 
+ [
+  199445, 
+  [
+   1180, 
+   1276, 
+   {}
+  ]
+ ], 
+ [
+  199445, 
+  [
+   1383, 
+   1747, 
+   {}
+  ]
+ ], 
+ [
+  199445, 
+  [
+   2007, 
+   2222, 
+   {}
+  ]
+ ], 
+ [
+  199445, 
+  [
+   2421, 
+   2479, 
+   {}
+  ]
+ ], 
+ [
+  199579, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "beervolcano", 
+    "quote_id": 199445, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  199579, 
+  [
+   424, 
+   554, 
+   {
+    "quote_id": 199445, 
+    "author": "beervolcano"
+   }
+  ]
+ ], 
+ [
+  199453, 
+  [
+   0, 
+   3539, 
+   {
+    "raw_data": "beervolcano", 
+    "author": "beervolcano"
+   }
+  ]
+ ]
+]

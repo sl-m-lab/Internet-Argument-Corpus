@@ -1,0 +1,61 @@
+[
+ [
+  139882, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 139879, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  139884, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 139882, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  139895, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 139884, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  139900, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 139895, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  139900, 
+  [
+   138, 
+   327, 
+   {
+    "quote_id": 139895, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

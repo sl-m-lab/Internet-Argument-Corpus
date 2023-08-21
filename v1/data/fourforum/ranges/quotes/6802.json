@@ -1,0 +1,72 @@
+[
+ [
+  178007, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 178000, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  177998, 
+  [
+   0, 
+   276, 
+   {
+    "raw_data": "lord tammerlain", 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  178000, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 177975, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  178006, 
+  [
+   0, 
+   1052, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 177981, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  178006, 
+  [
+   1907, 
+   2244, 
+   {
+    "quote_id": 177998, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  178012, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 178007, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

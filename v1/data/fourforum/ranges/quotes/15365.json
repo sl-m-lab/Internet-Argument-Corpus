@@ -1,0 +1,2399 @@
+[
+ [
+  430605, 
+  [
+   0, 
+   47, 
+   {
+    "quote_id": 430603, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430609, 
+  [
+   0, 
+   96, 
+   {
+    "raw_data": "Iuris;430605", 
+    "quote_id": 430605, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430611, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Brutus;430603", 
+    "quote_id": 430603, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430613, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Brutus;430609", 
+    "quote_id": 430609, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432663, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "st.blues;432005", 
+    "quote_id": 432005, 
+    "unknown_author": "st.blues", 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  430623, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Iuris;430615", 
+    "quote_id": 430615, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430625, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "Iuris;430615", 
+    "quote_id": 430615, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430626, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "poet;430611", 
+    "quote_id": 430611, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  430627, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "poet;430613", 
+    "quote_id": 430613, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  430631, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Brutus;430623", 
+    "quote_id": 430623, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430631, 
+  [
+   536, 
+   829, 
+   {
+    "quote_id": 430625, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430631, 
+  [
+   881, 
+   1130, 
+   {
+    "quote_id": 430625, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430631, 
+  [
+   1200, 
+   1401, 
+   {
+    "quote_id": 430626, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "gansao;432618", 
+    "quote_id": 432618, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   225, 
+   373, 
+   {
+    "raw_data": "gansao;432618", 
+    "quote_id": 432618, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   1400, 
+   1515, 
+   {
+    "raw_data": "gansao;432618", 
+    "quote_id": 432618, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   1644, 
+   1898, 
+   {
+    "raw_data": "gansao;432618", 
+    "quote_id": 432618, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   3501, 
+   3629, 
+   {
+    "raw_data": "gansao;432618", 
+    "quote_id": 432618, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   5186, 
+   5405, 
+   {
+    "raw_data": "gansao;432618", 
+    "quote_id": 432618, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432680, 
+  [
+   5623, 
+   5806, 
+   {
+    "raw_data": "Brutus;432628", 
+    "quote_id": 432628, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430635, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "Iuris;430631", 
+    "quote_id": 430631, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430635, 
+  [
+   662, 
+   774, 
+   {
+    "raw_data": "Iuris;430631", 
+    "quote_id": 430631, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430635, 
+  [
+   794, 
+   877, 
+   {
+    "raw_data": "Iuris;430631", 
+    "quote_id": 430631, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430639, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "smiley;430638", 
+    "quote_id": 430638, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  430640, 
+  [
+   0, 
+   381, 
+   {
+    "quote_id": 430635, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430640, 
+  [
+   582, 
+   730, 
+   {}
+  ]
+ ], 
+ [
+  430640, 
+  [
+   582, 
+   743, 
+   {}
+  ]
+ ], 
+ [
+  430640, 
+  [
+   830, 
+   959, 
+   {}
+  ]
+ ], 
+ [
+  430640, 
+  [
+   830, 
+   1005, 
+   {}
+  ]
+ ], 
+ [
+  430640, 
+  [
+   1072, 
+   1153, 
+   {
+    "raw_data": "smiley;430638", 
+    "quote_id": 430638, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  430643, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Iuris;430640", 
+    "quote_id": 430640, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430646, 
+  [
+   0, 
+   48, 
+   {
+    "quote_id": 430640, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  430650, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "smiley;430646", 
+    "quote_id": 430646, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "poet;432663", 
+    "quote_id": 432663, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   113, 
+   267, 
+   {
+    "raw_data": "gansao;432693", 
+    "quote_id": 432693, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   376, 
+   794, 
+   {
+    "raw_data": "gansao;432693", 
+    "quote_id": 432693, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   1017, 
+   1093, 
+   {
+    "quote_id": 432693, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   1211, 
+   1417, 
+   {
+    "raw_data": "gansao;432693", 
+    "quote_id": 432693, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   1667, 
+   1693, 
+   {
+    "raw_data": "gansao;432693", 
+    "quote_id": 432693, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432703, 
+  [
+   1893, 
+   2098, 
+   {
+    "raw_data": "gansao;432693", 
+    "quote_id": 432693, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431627, 
+  [
+   0, 
+   1660, 
+   {
+    "raw_data": "Freedom;431553", 
+    "quote_id": 431553, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  430660, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Brutus;430639", 
+    "quote_id": 430639, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   92, 
+   194, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   379, 
+   478, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   655, 
+   771, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   834, 
+   945, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   1035, 
+   1278, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   1420, 
+   1613, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432726, 
+  [
+   1796, 
+   1919, 
+   {
+    "raw_data": "Freedom;432703", 
+    "quote_id": 432703, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  430730, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Xcaliber;430660", 
+    "quote_id": 430660, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430730, 
+  [
+   308, 
+   356, 
+   {
+    "raw_data": "Xcaliber;430660", 
+    "quote_id": 430660, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430615, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Brutus;430609", 
+    "quote_id": 430609, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430739, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "Brutus;430730", 
+    "quote_id": 430730, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430739, 
+  [
+   632, 
+   737, 
+   {
+    "raw_data": "Brutus;430730", 
+    "quote_id": 430730, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430740, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Xcaliber;430739", 
+    "quote_id": 430739, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432789, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "gansao;432630", 
+    "quote_id": 432630, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432789, 
+  [
+   396, 
+   563, 
+   {
+    "raw_data": "gansao;432630", 
+    "quote_id": 432630, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432789, 
+  [
+   618, 
+   872, 
+   {
+    "raw_data": "gansao;432630", 
+    "quote_id": 432630, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430742, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Xcaliber;430739", 
+    "quote_id": 430739, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430742, 
+  [
+   447, 
+   677, 
+   {
+    "raw_data": "Xcaliber;430739", 
+    "quote_id": 430739, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430742, 
+  [
+   833, 
+   960, 
+   {
+    "raw_data": "Xcaliber;430739", 
+    "quote_id": 430739, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430742, 
+  [
+   1145, 
+   1256, 
+   {
+    "raw_data": "Xcaliber;430739", 
+    "quote_id": 430739, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430744, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "gansao;430740", 
+    "quote_id": 430740, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430745, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "Brutus;430744", 
+    "quote_id": 430744, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430747, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "gansao;430745", 
+    "quote_id": 430745, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430750, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Brutus;430747", 
+    "quote_id": 430747, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431778, 
+  [
+   0, 
+   324, 
+   {
+    "raw_data": "Brutus;430603", 
+    "quote_id": 430603, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430755, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "gansao;430750", 
+    "quote_id": 430750, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430756, 
+  [
+   0, 
+   144, 
+   {
+    "raw_data": "Brutus;430742", 
+    "quote_id": 430742, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430757, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Brutus;430755", 
+    "quote_id": 430755, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430760, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Xcaliber;430756", 
+    "quote_id": 430756, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430761, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Xcaliber;430757", 
+    "quote_id": 430757, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  430763, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Brutus;430755", 
+    "quote_id": 430755, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430765, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "gansao;430763", 
+    "quote_id": 430763, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430765, 
+  [
+   441, 
+   518, 
+   {
+    "raw_data": "gansao;430763", 
+    "quote_id": 430763, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430765, 
+  [
+   557, 
+   845, 
+   {
+    "raw_data": "gansao;430763", 
+    "quote_id": 430763, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430765, 
+  [
+   1041, 
+   1094, 
+   {
+    "raw_data": "gansao;430763", 
+    "quote_id": 430763, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430765, 
+  [
+   1137, 
+   1303, 
+   {
+    "raw_data": "gansao;430763", 
+    "quote_id": 430763, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431803, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Consistant;431778", 
+    "quote_id": 431778, 
+    "author": "Consistant"
+   }
+  ]
+ ], 
+ [
+  431311, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "Freedom;430902", 
+    "quote_id": 430902, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  430807, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Brutus;430761", 
+    "quote_id": 430761, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430811, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "Brutus;430765", 
+    "quote_id": 430765, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430812, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "poet;430806", 
+    "quote_id": 430806, 
+    "author": "poet"
+   }
+  ]
+ ], 
+ [
+  431336, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Brutus;431311", 
+    "quote_id": 431311, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   0, 
+   34, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   106, 
+   195, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   412, 
+   553, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   1967, 
+   2057, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   2211, 
+   2365, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   2485, 
+   2646, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   3296, 
+   3457, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   4785, 
+   4951, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   4995, 
+   5283, 
+   {
+    "raw_data": "gansao;431627", 
+    "quote_id": 431627, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431655, 
+  [
+   5526, 
+   5678, 
+   {
+    "raw_data": "gansao;431642", 
+    "quote_id": 431642, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431361, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Brutus;431311", 
+    "quote_id": 431311, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431659, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "gansao;431614", 
+    "quote_id": 431614, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432907, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Brutus;432789", 
+    "quote_id": 432789, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432907, 
+  [
+   623, 
+   666, 
+   {
+    "raw_data": "Brutus;432789", 
+    "quote_id": 432789, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432907, 
+  [
+   749, 
+   869, 
+   {
+    "raw_data": "Brutus;432789", 
+    "quote_id": 432789, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431377, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "gansao;431361", 
+    "quote_id": 431361, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431377, 
+  [
+   118, 
+   367, 
+   {
+    "raw_data": "gansao;431361", 
+    "quote_id": 431361, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432914, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "Freedom;432792", 
+    "quote_id": 432792, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432914, 
+  [
+   264, 
+   578, 
+   {
+    "raw_data": "Freedom;432792", 
+    "quote_id": 432792, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432914, 
+  [
+   1008, 
+   1554, 
+   {
+    "raw_data": "Freedom;432792", 
+    "quote_id": 432792, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432914, 
+  [
+   1820, 
+   1969, 
+   {
+    "raw_data": "Freedom;432792", 
+    "quote_id": 432792, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432914, 
+  [
+   2214, 
+   5068, 
+   {
+    "raw_data": "Freedom;432792", 
+    "quote_id": 432792, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  431380, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "gansao;431361", 
+    "quote_id": 431361, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  430889, 
+  [
+   0, 
+   632, 
+   {
+    "raw_data": "Xcaliber;430807", 
+    "quote_id": 430807, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432950, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Brutus;432789", 
+    "quote_id": 432789, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432953, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "pappillion001;432950", 
+    "quote_id": 432950, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  432953, 
+  [
+   358, 
+   818, 
+   {
+    "raw_data": "pappillion001;432950", 
+    "quote_id": 432950, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  432953, 
+  [
+   955, 
+   1137, 
+   {
+    "raw_data": "pappillion001;432950", 
+    "quote_id": 432950, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  432953, 
+  [
+   1317, 
+   1566, 
+   {
+    "raw_data": "pappillion001;432950", 
+    "quote_id": 432950, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  432953, 
+  [
+   1616, 
+   1837, 
+   {
+    "raw_data": "pappillion001;432950", 
+    "quote_id": 432950, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  432954, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "gansao;432952", 
+    "quote_id": 432952, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   416, 
+   499, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   1007, 
+   1081, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   1325, 
+   1584, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   1733, 
+   1989, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   2188, 
+   2472, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   2743, 
+   3003, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   4097, 
+   4237, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432955, 
+  [
+   4294, 
+   4780, 
+   {
+    "raw_data": "gansao;432914", 
+    "quote_id": 432914, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432956, 
+  [
+   0, 
+   116, 
+   {
+    "raw_data": "Brutus;432954", 
+    "quote_id": 432954, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   356, 
+   856, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   928, 
+   1165, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   1473, 
+   1615, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   1752, 
+   1942, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   2006, 
+   2270, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   2339, 
+   3426, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432960, 
+  [
+   3694, 
+   3744, 
+   {
+    "raw_data": "Freedom;432955", 
+    "quote_id": 432955, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  430902, 
+  [
+   0, 
+   360, 
+   {
+    "raw_data": "Brutus;430744", 
+    "quote_id": 430744, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  430902, 
+  [
+   623, 
+   912, 
+   {
+    "raw_data": "Brutus;430755", 
+    "quote_id": 430755, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   255, 
+   270, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   327, 
+   391, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   465, 
+   509, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   840, 
+   874, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   951, 
+   999, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432967, 
+  [
+   1088, 
+   1220, 
+   {
+    "raw_data": "Freedom;432965", 
+    "quote_id": 432965, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   123, 
+   170, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   221, 
+   285, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   300, 
+   400, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   443, 
+   510, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   697, 
+   776, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   816, 
+   897, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   1148, 
+   1220, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432975, 
+  [
+   1527, 
+   1596, 
+   {
+    "raw_data": "gansao;432967", 
+    "quote_id": 432967, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432992, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "Brutus;432953", 
+    "quote_id": 432953, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432992, 
+  [
+   482, 
+   607, 
+   {
+    "quote_id": 432953, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432992, 
+  [
+   827, 
+   995, 
+   {
+    "quote_id": 432953, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432992, 
+  [
+   2309, 
+   2349, 
+   {
+    "quote_id": 432953, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432992, 
+  [
+   2411, 
+   2454, 
+   {
+    "quote_id": 432953, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431479, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "gansao;431361", 
+    "quote_id": 431361, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431339, 
+  [
+   0, 
+   21, 
+   {
+    "raw_data": "Xcaliber;431336", 
+    "quote_id": 431336, 
+    "author": "Xcaliber"
+   }
+  ]
+ ], 
+ [
+  432005, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Brutus;430609", 
+    "quote_id": 430609, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431502, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Atlas;431479", 
+    "quote_id": 431479, 
+    "author": "Atlas"
+   }
+  ]
+ ], 
+ [
+  431503, 
+  [
+   0, 
+   1275, 
+   {
+    "raw_data": "Freedom;431377", 
+    "quote_id": 431377, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  431504, 
+  [
+   0, 
+   529, 
+   {
+    "raw_data": "Brutus;431380", 
+    "quote_id": 431380, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  432792, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "gansao;432726", 
+    "quote_id": 432726, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432792, 
+  [
+   305, 
+   476, 
+   {
+    "raw_data": "gansao;432726", 
+    "quote_id": 432726, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432792, 
+  [
+   512, 
+   569, 
+   {
+    "raw_data": "gansao;432726", 
+    "quote_id": 432726, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432792, 
+  [
+   890, 
+   970, 
+   {
+    "raw_data": "gansao;432726", 
+    "quote_id": 432726, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432792, 
+  [
+   1523, 
+   1698, 
+   {
+    "raw_data": "gansao;432726", 
+    "quote_id": 432726, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432792, 
+  [
+   1855, 
+   2177, 
+   {
+    "raw_data": "gansao;432726", 
+    "quote_id": 432726, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   282, 
+   344, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   366, 
+   413, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   484, 
+   733, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   784, 
+   913, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   954, 
+   1015, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   1070, 
+   1117, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432965, 
+  [
+   1256, 
+   1308, 
+   {
+    "raw_data": "gansao;432960", 
+    "quote_id": 432960, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431521, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "gansao;431503", 
+    "quote_id": 431503, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431521, 
+  [
+   747, 
+   852, 
+   {
+    "raw_data": "gansao;431503", 
+    "quote_id": 431503, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431521, 
+  [
+   1687, 
+   1752, 
+   {
+    "raw_data": "gansao;431503", 
+    "quote_id": 431503, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431521, 
+  [
+   1874, 
+   1996, 
+   {
+    "raw_data": "gansao;431503", 
+    "quote_id": 431503, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431524, 
+  [
+   0, 
+   1433, 
+   {
+    "raw_data": "Freedom;431521", 
+    "quote_id": 431521, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  433072, 
+  [
+   0, 
+   4519, 
+   {
+    "raw_data": "Freedom;432975", 
+    "quote_id": 432975, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  431539, 
+  [
+   0, 
+   339, 
+   {
+    "raw_data": "gansao;431361", 
+    "quote_id": 431361, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432051, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "sinjin;431803", 
+    "quote_id": 431803, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "gansao;431524", 
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   53, 
+   259, 
+   {
+    "raw_data": "gansao;431524", 
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   756, 
+   867, 
+   {
+    "raw_data": "gansao;431524", 
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   990, 
+   1061, 
+   {
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   1074, 
+   1265, 
+   {
+    "raw_data": "gansao;431524", 
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   1510, 
+   1696, 
+   {
+    "raw_data": "gansao;431524", 
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  431553, 
+  [
+   2440, 
+   2558, 
+   {
+    "raw_data": "gansao;431524", 
+    "quote_id": 431524, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432579, 
+  [
+   0, 
+   1139, 
+   {
+    "raw_data": "pappillion001;431659", 
+    "quote_id": 431659, 
+    "author": "pappillion001"
+   }
+  ]
+ ], 
+ [
+  432581, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "Freedom;431655", 
+    "quote_id": 431655, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432609, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "gansao;432581", 
+    "quote_id": 432581, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432611, 
+  [
+   0, 
+   10, 
+   {
+    "raw_data": "Freedom;432609", 
+    "quote_id": 432609, 
+    "author": "Freedom"
+   }
+  ]
+ ], 
+ [
+  432613, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "gansao;432611", 
+    "quote_id": 432611, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432613, 
+  [
+   3106, 
+   3172, 
+   {
+    "raw_data": "gansao;432611", 
+    "quote_id": 432611, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432613, 
+  [
+   4059, 
+   4139, 
+   {
+    "raw_data": "gansao;432611", 
+    "quote_id": 432611, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432628, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "gansao;432579", 
+    "quote_id": 432579, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  432630, 
+  [
+   0, 
+   332, 
+   {
+    "raw_data": "Brutus;432628", 
+    "quote_id": 432628, 
+    "author": "Brutus"
+   }
+  ]
+ ], 
+ [
+  431614, 
+  [
+   0, 
+   737, 
+   {
+    "raw_data": "pappillion001;431539", 
+    "quote_id": 431539, 
+    "author": "pappillion001"
+   }
+  ]
+ ]
+]

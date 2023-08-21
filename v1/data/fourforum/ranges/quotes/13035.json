@@ -1,0 +1,505 @@
+[
+ [
+  363914, 
+  [
+   0, 
+   75, 
+   {
+    "raw_data": "CUNxTime;363524", 
+    "quote_id": 363524, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   673, 
+   961, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   1477, 
+   1703, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   1707, 
+   2337, 
+   {}
+  ]
+ ], 
+ [
+  364436, 
+  [
+   2408, 
+   2622, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   3004, 
+   3334, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   3678, 
+   3915, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   4152, 
+   4347, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   4520, 
+   4759, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   5162, 
+   5490, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   5796, 
+   6325, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364436, 
+  [
+   6567, 
+   6576, 
+   {
+    "raw_data": "CUNxTime;364311", 
+    "quote_id": 364311, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   8, 
+   365, 
+   {
+    "raw_data": "simone;364279", 
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   704, 
+   1078, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   1372, 
+   1664, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   1895, 
+   2740, 
+   {}
+  ]
+ ], 
+ [
+  364311, 
+  [
+   2746, 
+   2824, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   3043, 
+   3122, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   3457, 
+   3539, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   3781, 
+   4055, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   4253, 
+   4440, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   4688, 
+   4958, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   4972, 
+   5784, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364311, 
+  [
+   6648, 
+   6690, 
+   {
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364063, 
+  [
+   8, 
+   162, 
+   {
+    "raw_data": "Jo Bennett;363986", 
+    "quote_id": 363986, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  364063, 
+  [
+   350, 
+   433, 
+   {
+    "quote_id": 363986, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  364063, 
+  [
+   919, 
+   1214, 
+   {
+    "quote_id": 363986, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  364451, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "simone;364279", 
+    "quote_id": 364279, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  363955, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Jo Bennett;363914", 
+    "quote_id": 363914, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  364469, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "simone;364460", 
+    "quote_id": 364460, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364835, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "simone;364730", 
+    "quote_id": 364730, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364009, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Jo Bennett;363914", 
+    "quote_id": 363914, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   8, 
+   345, 
+   {
+    "raw_data": "simone;364436", 
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   546, 
+   1056, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   2087, 
+   2166, 
+   {}
+  ]
+ ], 
+ [
+  364525, 
+  [
+   2273, 
+   2649, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   2906, 
+   3244, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   3616, 
+   3846, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   4043, 
+   4321, 
+   {}
+  ]
+ ], 
+ [
+  364525, 
+  [
+   4399, 
+   4657, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   4957, 
+   5257, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   5615, 
+   5727, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   5982, 
+   6102, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  364525, 
+  [
+   6234, 
+   6389, 
+   {
+    "quote_id": 364436, 
+    "author": "simone"
+   }
+  ]
+ ]
+]

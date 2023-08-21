@@ -1,0 +1,272 @@
+[
+ [
+  264364, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "daewoo;264310", 
+    "quote_id": 264310, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264364, 
+  [
+   674, 
+   931, 
+   {
+    "raw_data": "daewoo;264310", 
+    "quote_id": 264310, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264362, 
+  [
+   0, 
+   782, 
+   {
+    "raw_data": "E Mutz;264297", 
+    "quote_id": 264297, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  264236, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "James;264170", 
+    "quote_id": 264170, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  264247, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "Kronus;264236", 
+    "quote_id": 264236, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  264377, 
+  [
+   0, 
+   366, 
+   {
+    "raw_data": "Kronus;264364", 
+    "quote_id": 264364, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  264377, 
+  [
+   442, 
+   605, 
+   {
+    "quote_id": 264364, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  264377, 
+  [
+   634, 
+   1350, 
+   {}
+  ]
+ ], 
+ [
+  264383, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "daewoo;264377", 
+    "quote_id": 264377, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264383, 
+  [
+   134, 
+   427, 
+   {
+    "raw_data": "daewoo;264377", 
+    "quote_id": 264377, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264383, 
+  [
+   656, 
+   864, 
+   {
+    "raw_data": "daewoo;264377", 
+    "quote_id": 264377, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264268, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "E Mutz;264241", 
+    "quote_id": 264241, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  264269, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "E Mutz;264241", 
+    "quote_id": 264241, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  264271, 
+  [
+   0, 
+   755, 
+   {
+    "raw_data": "Zardoz;264269", 
+    "quote_id": 264269, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  264276, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "James;264247", 
+    "quote_id": 264247, 
+    "author": "James"
+   }
+  ]
+ ], 
+ [
+  264279, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "E Mutz;264241", 
+    "quote_id": 264241, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  264288, 
+  [
+   0, 
+   1423, 
+   {
+    "raw_data": "E Mutz;264285", 
+    "quote_id": 264285, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  264293, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Kronus;264279", 
+    "quote_id": 264279, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  264296, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "daewoo;264293", 
+    "quote_id": 264293, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264296, 
+  [
+   657, 
+   779, 
+   {
+    "raw_data": "daewoo;264293", 
+    "quote_id": 264293, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  264297, 
+  [
+   0, 
+   496, 
+   {
+    "raw_data": "Kronus;264288", 
+    "quote_id": 264288, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  264310, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Kronus;264296", 
+    "quote_id": 264296, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  264310, 
+  [
+   1194, 
+   1679, 
+   {
+    "quote_id": 264296, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

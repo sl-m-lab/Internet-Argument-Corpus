@@ -1,0 +1,86 @@
+[
+ [
+  130103, 
+  [
+   0, 
+   32, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   0, 
+   33, 
+   {
+    "category": "size", 
+    "raw_data": "4"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   0, 
+   34, 
+   {
+    "category": "color", 
+    "raw_data": "DarkRed"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   0, 
+   35, 
+   {
+    "category": "center"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   370, 
+   386, 
+   {
+    "category": "size", 
+    "raw_data": "5"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   370, 
+   386, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   370, 
+   386, 
+   {
+    "category": "font", 
+    "raw_data": "Book Antiqua"
+   }
+  ]
+ ], 
+ [
+  130103, 
+  [
+   370, 
+   386, 
+   {
+    "category": "center"
+   }
+  ]
+ ]
+]

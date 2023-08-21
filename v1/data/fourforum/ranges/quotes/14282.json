@@ -1,0 +1,58 @@
+[
+ [
+  403264, 
+  [
+   83, 
+   2231, 
+   {}
+  ]
+ ], 
+ [
+  403331, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "COBHC;403325", 
+    "quote_id": 403325, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  403289, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "sinjin;403271", 
+    "quote_id": 403271, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  403325, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "Winston Smith;403319", 
+    "quote_id": 403319, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  403295, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "NATO 556;403264", 
+    "quote_id": 403264, 
+    "author": "NATO 556"
+   }
+  ]
+ ]
+]

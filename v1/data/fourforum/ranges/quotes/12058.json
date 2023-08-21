@@ -1,0 +1,406 @@
+[
+ [
+  337794, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "Ripskar;335578", 
+    "quote_id": 335578, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  337794, 
+  [
+   1176, 
+   1358, 
+   {
+    "quote_id": 335578, 
+    "author": "Ripskar"
+   }
+  ]
+ ], 
+ [
+  337801, 
+  [
+   0, 
+   425, 
+   {
+    "quote_id": 337794, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  337801, 
+  [
+   910, 
+   1145, 
+   {
+    "quote_id": 337794, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  337804, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "Archangel;337794", 
+    "quote_id": 337794, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  337804, 
+  [
+   906, 
+   1050, 
+   {
+    "quote_id": 337794, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  337804, 
+  [
+   1204, 
+   1352, 
+   {
+    "quote_id": 337794, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335629, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "supersport;335557", 
+    "quote_id": 335557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335629, 
+  [
+   1171, 
+   1362, 
+   {
+    "quote_id": 335557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  337731, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "The Barbarian;337640", 
+    "quote_id": 337640, 
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  337731, 
+  [
+   202, 
+   419, 
+   {
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  337731, 
+  [
+   528, 
+   698, 
+   {
+    "author": "The Barbarian"
+   }
+  ]
+ ], 
+ [
+  335636, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "supersport;335557", 
+    "quote_id": 335557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335636, 
+  [
+   865, 
+   1056, 
+   {
+    "raw_data": "supersport", 
+    "quote_id": 335557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335667, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "marc9000;335630", 
+    "quote_id": 335630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335667, 
+  [
+   357, 
+   408, 
+   {
+    "quote_id": 335630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335667, 
+  [
+   537, 
+   654, 
+   {
+    "quote_id": 335630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335811, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "marc9000;335630", 
+    "quote_id": 335630, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335557, 
+  [
+   0, 
+   1196, 
+   {
+    "raw_data": "foundit66;335494", 
+    "quote_id": 335494, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  335821, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "obvious_child;335811", 
+    "quote_id": 335811, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  335821, 
+  [
+   338, 
+   419, 
+   {
+    "quote_id": 335811, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  335825, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "marc9000;335821", 
+    "quote_id": 335821, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335825, 
+  [
+   690, 
+   824, 
+   {
+    "quote_id": 335821, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335630, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "lesz;335577", 
+    "quote_id": 335577, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  335630, 
+  [
+   182, 
+   381, 
+   {
+    "quote_id": 335577, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  335630, 
+  [
+   442, 
+   496, 
+   {
+    "quote_id": 335577, 
+    "author": "lesz"
+   }
+  ]
+ ], 
+ [
+  337752, 
+  [
+   0, 
+   54, 
+   {
+    "quote_id": 335821, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335577, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "supersport;335557", 
+    "quote_id": 335557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  337754, 
+  [
+   342, 
+   436, 
+   {
+    "quote_id": 337731, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  337754, 
+  [
+   690, 
+   779, 
+   {
+    "quote_id": 337731, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  337754, 
+  [
+   1088, 
+   1124, 
+   {
+    "quote_id": 337731, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  335709, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "supersport;335697", 
+    "quote_id": 335697, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335582, 
+  [
+   0, 
+   499, 
+   {
+    "raw_data": "supersport;335557", 
+    "quote_id": 335557, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  335697, 
+  [
+   123, 
+   252, 
+   {
+    "raw_data": "marc9000;335629", 
+    "quote_id": 335629, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  337640, 
+  [
+   0, 
+   290, 
+   {}
+  ]
+ ], 
+ [
+  337640, 
+  [
+   613, 
+   965, 
+   {}
+  ]
+ ]
+]

@@ -1,0 +1,400 @@
+[
+ [
+  39685, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Alex", 
+    "quote_id": 39617, 
+    "author": "Alex"
+   }
+  ]
+ ], 
+ [
+  61845, 
+  [
+   0, 
+   485, 
+   {
+    "raw_data": "Alex", 
+    "quote_id": 39617, 
+    "author": "Alex"
+   }
+  ]
+ ], 
+ [
+  61851, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 61845, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  62236, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 62154, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  62238, 
+  [
+   0, 
+   44, 
+   {
+    "quote_id": 62171, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  62245, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 62238, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  62247, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 62245, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  22453, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Yukon", 
+    "quote_id": 5602, 
+    "author": "Yukon"
+   }
+  ]
+ ], 
+ [
+  62267, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 62247, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  152142, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152126, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  152126, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 151979, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  152003, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "faeden", 
+    "quote_id": 75965, 
+    "author": "faeden"
+   }
+  ]
+ ], 
+ [
+  62150, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 61851, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  62154, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 62150, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  62283, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Sigma", 
+    "quote_id": 62267, 
+    "author": "Sigma"
+   }
+  ]
+ ], 
+ [
+  74310, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "kickin50", 
+    "quote_id": 64625, 
+    "author": "kickin50"
+   }
+  ]
+ ], 
+ [
+  39522, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "AKonsen", 
+    "quote_id": 5674, 
+    "author": "AKonsen"
+   }
+  ]
+ ], 
+ [
+  75854, 
+  [
+   0, 
+   652, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 75801, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  74317, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 62238, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  26448, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "SmokingRabbit", 
+    "author": "SmokingRabbit"
+   }
+  ]
+ ], 
+ [
+  62298, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "duck", 
+    "quote_id": 62283, 
+    "author": "duck"
+   }
+  ]
+ ], 
+ [
+  31453, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "AKonsen", 
+    "quote_id": 4577, 
+    "author": "AKonsen"
+   }
+  ]
+ ], 
+ [
+  28256, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "unkerpaulie", 
+    "quote_id": 28019, 
+    "author": "unkerpaulie"
+   }
+  ]
+ ], 
+ [
+  5602, 
+  [
+   0, 
+   62, 
+   {}
+  ]
+ ], 
+ [
+  153187, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 152127, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  152170, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 152142, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  28269, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "superbuddhaman", 
+    "quote_id": 28256, 
+    "author": "superbuddhaman"
+   }
+  ]
+ ], 
+ [
+  28269, 
+  [
+   1306, 
+   1551, 
+   {
+    "raw_data": "superbuddhaman", 
+    "quote_id": 28256, 
+    "author": "superbuddhaman"
+   }
+  ]
+ ], 
+ [
+  22461, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "admin", 
+    "quote_id": 12, 
+    "author": "admin"
+   }
+  ]
+ ], 
+ [
+  64625, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "admin", 
+    "quote_id": 12, 
+    "author": "admin"
+   }
+  ]
+ ], 
+ [
+  28019, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "superbuddhaman", 
+    "quote_id": 26448, 
+    "author": "superbuddhaman"
+   }
+  ]
+ ], 
+ [
+  152127, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Pravda", 
+    "quote_id": 151930, 
+    "author": "Pravda"
+   }
+  ]
+ ], 
+ [
+  73978, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "AKonsen", 
+    "quote_id": 6066, 
+    "author": "AKonsen"
+   }
+  ]
+ ], 
+ [
+  5883, 
+  [
+   0, 
+   62, 
+   {}
+  ]
+ ]
+]

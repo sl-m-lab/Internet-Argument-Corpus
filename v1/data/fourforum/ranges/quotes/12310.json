@@ -1,0 +1,74 @@
+[
+ [
+  342755, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Penfold;342753", 
+    "quote_id": 342753, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  342861, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "sinjin;342766", 
+    "quote_id": 342766, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  342766, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Penfold;342753", 
+    "quote_id": 342753, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  342862, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "snakespit;342861", 
+    "quote_id": 342861, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  342878, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "sinjin;342862", 
+    "quote_id": 342862, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  342879, 
+  [
+   0, 
+   12, 
+   {
+    "raw_data": "snakespit;342878", 
+    "quote_id": 342878, 
+    "author": "snakespit"
+   }
+  ]
+ ]
+]

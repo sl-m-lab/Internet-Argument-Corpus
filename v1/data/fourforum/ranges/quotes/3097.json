@@ -1,0 +1,285 @@
+[
+ [
+  65600, 
+  [
+   0, 
+   677, 
+   {
+    "raw_data": "Rick", 
+    "quote_id": 65455, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65602, 
+  [
+   8, 
+   178, 
+   {
+    "raw_data": "Rick", 
+    "quote_id": 65533, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65602, 
+  [
+   425, 
+   603, 
+   {
+    "quote_id": 65533, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65602, 
+  [
+   1194, 
+   1418, 
+   {
+    "quote_id": 65533, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65602, 
+  [
+   1601, 
+   1923, 
+   {
+    "quote_id": 65533, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65602, 
+  [
+   2416, 
+   2549, 
+   {
+    "quote_id": 65533, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65651, 
+  [
+   13, 
+   254, 
+   {
+    "quote_id": 65602, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65651, 
+  [
+   316, 
+   899, 
+   {
+    "quote_id": 65602, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65651, 
+  [
+   1346, 
+   1518, 
+   {
+    "quote_id": 65602, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65651, 
+  [
+   1820, 
+   2286, 
+   {
+    "quote_id": 65602, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65651, 
+  [
+   2933, 
+   3233, 
+   {}
+  ]
+ ], 
+ [
+  65451, 
+  [
+   0, 
+   2403, 
+   {
+    "raw_data": "Rick", 
+    "quote_id": 65427, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65634, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "emclean", 
+    "quote_id": 65556, 
+    "author": "emclean"
+   }
+  ]
+ ], 
+ [
+  65458, 
+  [
+   0, 
+   819, 
+   {
+    "raw_data": "Rick", 
+    "quote_id": 65455, 
+    "author": "Rick"
+   }
+  ]
+ ], 
+ [
+  65556, 
+  [
+   0, 
+   178, 
+   {}
+  ]
+ ], 
+ [
+  65556, 
+  [
+   245, 
+   279, 
+   {
+    "quote_id": 65537, 
+    "author": "Duo_Maxwell"
+   }
+  ]
+ ], 
+ [
+  76867, 
+  [
+   0, 
+   584, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65602, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65867, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "theLIBERTARIAN", 
+    "quote_id": 65845, 
+    "author": "theLIBERTARIAN"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   367, 
+   439, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   629, 
+   1029, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   1273, 
+   1469, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   1825, 
+   2123, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   2270, 
+   2477, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  65533, 
+  [
+   2693, 
+   2918, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 65451, 
+    "author": "Mach"
+   }
+  ]
+ ]
+]

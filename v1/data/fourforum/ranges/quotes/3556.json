@@ -1,0 +1,72 @@
+[
+ [
+  74496, 
+  [
+   201, 
+   221, 
+   {
+    "raw_data": "Siegfriedson", 
+    "quote_id": 74068, 
+    "author": "Siegfriedson"
+   }
+  ]
+ ], 
+ [
+  74496, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Famous Amos", 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  74562, 
+  [
+   0, 
+   183, 
+   {
+    "raw_data": "Siegfriedson", 
+    "quote_id": 74496, 
+    "author": "Siegfriedson"
+   }
+  ]
+ ], 
+ [
+  74067, 
+  [
+   0, 
+   2271, 
+   {
+    "raw_data": "Siegfriedson", 
+    "quote_id": 74063, 
+    "author": "Siegfriedson"
+   }
+  ]
+ ], 
+ [
+  74068, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Famous Amos", 
+    "quote_id": 74067, 
+    "author": "Famous Amos"
+   }
+  ]
+ ], 
+ [
+  74068, 
+  [
+   110, 
+   243, 
+   {
+    "quote_id": 74067, 
+    "author": "Famous Amos"
+   }
+  ]
+ ]
+]

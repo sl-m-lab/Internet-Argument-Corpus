@@ -1,0 +1,60 @@
+[
+ [
+  36385, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 35648, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  38711, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 36385, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  35619, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "Morfos", 
+    "quote_id": 35568, 
+    "author": "Morfos"
+   }
+  ]
+ ], 
+ [
+  38580, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Broker", 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  39571, 
+  [
+   0, 
+   83, 
+   {
+    "quote_id": 35648, 
+    "author": "Broker"
+   }
+  ]
+ ]
+]

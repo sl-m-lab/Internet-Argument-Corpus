@@ -1,0 +1,2818 @@
+[
+ [
+  410113, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Galileo;410093", 
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410113, 
+  [
+   366, 
+   495, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410113, 
+  [
+   761, 
+   837, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410118, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "COBHC;410113", 
+    "quote_id": 410113, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  410118, 
+  [
+   416, 
+   527, 
+   {
+    "quote_id": 410113, 
+    "author": "COBHC"
+   }
+  ]
+ ], 
+ [
+  410119, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Penfold;410118", 
+    "quote_id": 410118, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  410125, 
+  [
+   0, 
+   251, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410643, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Steeeeve;410631", 
+    "quote_id": 410631, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410643, 
+  [
+   147, 
+   318, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   0, 
+   2022, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   2340, 
+   4326, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   4397, 
+   4572, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   4622, 
+   5016, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   5065, 
+   5090, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   5293, 
+   6132, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   6200, 
+   7060, 
+   {}
+  ]
+ ], 
+ [
+  410141, 
+  [
+   8683, 
+   8965, 
+   {}
+  ]
+ ], 
+ [
+  410654, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Doc Jones;410643", 
+    "quote_id": 410643, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410654, 
+  [
+   173, 
+   320, 
+   {
+    "quote_id": 410643, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410659, 
+  [
+   44, 
+   171, 
+   {
+    "raw_data": "Steeeeve;410511", 
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410659, 
+  [
+   465, 
+   583, 
+   {
+    "raw_data": "Steeeeve;410511", 
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410630, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Tither;410586", 
+    "quote_id": 410586, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410631, 
+  [
+   0, 
+   13, 
+   {
+    "raw_data": "Doc Jones;410598", 
+    "quote_id": 410598, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410631, 
+  [
+   85, 
+   147, 
+   {
+    "quote_id": 410598, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410631, 
+  [
+   207, 
+   236, 
+   {
+    "quote_id": 410598, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410156, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Penfold;410118", 
+    "quote_id": 410118, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  410156, 
+  [
+   902, 
+   2978, 
+   {}
+  ]
+ ], 
+ [
+  410159, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Penfold;410118", 
+    "quote_id": 410118, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  410673, 
+  [
+   0, 
+   358, 
+   {
+    "raw_data": "Steeeeve;410654", 
+    "quote_id": 410654, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410674, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Tither;410659", 
+    "quote_id": 410659, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410674, 
+  [
+   1291, 
+   1462, 
+   {
+    "quote_id": 410659, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410679, 
+  [
+   45, 
+   233, 
+   {
+    "raw_data": "Steeeeve;410674", 
+    "quote_id": 410674, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410679, 
+  [
+   402, 
+   615, 
+   {
+    "raw_data": "Steeeeve;410511", 
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410679, 
+  [
+   1375, 
+   2198, 
+   {}
+  ]
+ ], 
+ [
+  410679, 
+  [
+   3252, 
+   3819, 
+   {}
+  ]
+ ], 
+ [
+  410679, 
+  [
+   3908, 
+   3939, 
+   {}
+  ]
+ ], 
+ [
+  410681, 
+  [
+   0, 
+   425, 
+   {
+    "raw_data": "Steeeeve;410674", 
+    "quote_id": 410674, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410681, 
+  [
+   605, 
+   908, 
+   {
+    "quote_id": 410674, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410681, 
+  [
+   1085, 
+   1333, 
+   {
+    "quote_id": 410674, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410681, 
+  [
+   1458, 
+   1902, 
+   {
+    "quote_id": 410674, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410683, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "Tither;410679", 
+    "quote_id": 410679, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410683, 
+  [
+   332, 
+   411, 
+   {
+    "quote_id": 410679, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410683, 
+  [
+   441, 
+   911, 
+   {
+    "quote_id": 410679, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410683, 
+  [
+   1883, 
+   2024, 
+   {
+    "quote_id": 410679, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410684, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Doc Jones;410681", 
+    "quote_id": 410681, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410684, 
+  [
+   143, 
+   219, 
+   {
+    "quote_id": 410681, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410685, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "Doc Jones;410673", 
+    "quote_id": 410673, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410685, 
+  [
+   296, 
+   385, 
+   {
+    "quote_id": 410673, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410685, 
+  [
+   424, 
+   491, 
+   {
+    "quote_id": 410673, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410183, 
+  [
+   0, 
+   190, 
+   {
+    "raw_data": "Doc Jones;410178", 
+    "quote_id": 410178, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410696, 
+  [
+   37, 
+   157, 
+   {
+    "raw_data": "Steeeeve;410511", 
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410696, 
+  [
+   1041, 
+   1212, 
+   {}
+  ]
+ ], 
+ [
+  410696, 
+  [
+   1750, 
+   1900, 
+   {}
+  ]
+ ], 
+ [
+  410187, 
+  [
+   0, 
+   1340, 
+   {
+    "raw_data": "Superlite27;410186", 
+    "quote_id": 410186, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  410700, 
+  [
+   0, 
+   259, 
+   {
+    "raw_data": "Tither;410696", 
+    "quote_id": 410696, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410700, 
+  [
+   476, 
+   562, 
+   {
+    "quote_id": 410696, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410700, 
+  [
+   643, 
+   665, 
+   {
+    "quote_id": 410696, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410718, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Steeeeve;410684", 
+    "quote_id": 410684, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410718, 
+  [
+   87, 
+   277, 
+   {
+    "quote_id": 410684, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410718, 
+  [
+   688, 
+   701, 
+   {
+    "quote_id": 410684, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410719, 
+  [
+   0, 
+   433, 
+   {
+    "raw_data": "Steeeeve;410683", 
+    "quote_id": 410683, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410720, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Steeeeve;410685", 
+    "quote_id": 410685, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410720, 
+  [
+   157, 
+   296, 
+   {
+    "quote_id": 410685, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410720, 
+  [
+   341, 
+   376, 
+   {
+    "quote_id": 410685, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410720, 
+  [
+   587, 
+   663, 
+   {
+    "quote_id": 410685, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410721, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Doc Jones;410718", 
+    "quote_id": 410718, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410721, 
+  [
+   133, 
+   277, 
+   {
+    "quote_id": 410718, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410721, 
+  [
+   406, 
+   418, 
+   {}
+  ]
+ ], 
+ [
+  410210, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "Winston Smith;410208", 
+    "unknown_quote_id": 410208, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410723, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Doc Jones;410720", 
+    "quote_id": 410720, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410723, 
+  [
+   344, 
+   376, 
+   {
+    "quote_id": 410720, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410724, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Doc Jones;410719", 
+    "quote_id": 410719, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410725, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Steeeeve;410721", 
+    "quote_id": 410721, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410726, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "Steeeeve;410700", 
+    "quote_id": 410700, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410215, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Winston Smith;410211", 
+    "unknown_quote_id": 410211, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410215, 
+  [
+   185, 
+   239, 
+   {}
+  ]
+ ], 
+ [
+  410215, 
+  [
+   292, 
+   435, 
+   {}
+  ]
+ ], 
+ [
+  410730, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Tither;410726", 
+    "quote_id": 410726, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410732, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Tither;410726", 
+    "quote_id": 410726, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410733, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "sinjin;410730", 
+    "quote_id": 410730, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410734, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Steeeeve;410732", 
+    "quote_id": 410732, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410743, 
+  [
+   0, 
+   326, 
+   {
+    "raw_data": "Tither;410734", 
+    "quote_id": 410734, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410236, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "Winston Smith;410211", 
+    "unknown_quote_id": 410211, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410237, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "Winston Smith;410211", 
+    "unknown_quote_id": 410211, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410754, 
+  [
+   80, 
+   150, 
+   {
+    "raw_data": "&quot;Tither&quot;", 
+    "quote_id": 410679, 
+    "unknown_author": "&quot", 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410754, 
+  [
+   210, 
+   637, 
+   {
+    "raw_data": "Steeeeve;410683", 
+    "quote_id": 410683, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410755, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "Tither;410754", 
+    "quote_id": 410754, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410755, 
+  [
+   119, 
+   401, 
+   {
+    "quote_id": 410754, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410756, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Steeeeve;410755", 
+    "quote_id": 410755, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410246, 
+  [
+   0, 
+   3787, 
+   {
+    "raw_data": "Winston Smith;410244", 
+    "unknown_quote_id": 410244, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410246, 
+  [
+   5121, 
+   5606, 
+   {}
+  ]
+ ], 
+ [
+  410250, 
+  [
+   0, 
+   357, 
+   {
+    "raw_data": "Winston Smith;410211", 
+    "unknown_quote_id": 410211, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410251, 
+  [
+   175, 
+   549, 
+   {}
+  ]
+ ], 
+ [
+  410251, 
+  [
+   620, 
+   940, 
+   {}
+  ]
+ ], 
+ [
+  410251, 
+  [
+   1229, 
+   1646, 
+   {}
+  ]
+ ], 
+ [
+  410251, 
+  [
+   1022, 
+   1647, 
+   {}
+  ]
+ ], 
+ [
+  410251, 
+  [
+   1722, 
+   2436, 
+   {}
+  ]
+ ], 
+ [
+  410251, 
+  [
+   2496, 
+   2641, 
+   {}
+  ]
+ ], 
+ [
+  410252, 
+  [
+   0, 
+   512, 
+   {
+    "raw_data": "Tither;410251", 
+    "quote_id": 410251, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410768, 
+  [
+   0, 
+   316, 
+   {
+    "raw_data": "Steeeeve;410764", 
+    "quote_id": 410764, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410768, 
+  [
+   464, 
+   681, 
+   {
+    "raw_data": "&quot;Tither&quot;", 
+    "unknown_author": "&quot"
+   }
+  ]
+ ], 
+ [
+  410768, 
+  [
+   807, 
+   869, 
+   {}
+  ]
+ ], 
+ [
+  410768, 
+  [
+   1148, 
+   1251, 
+   {}
+  ]
+ ], 
+ [
+  410768, 
+  [
+   1330, 
+   1383, 
+   {}
+  ]
+ ], 
+ [
+  410770, 
+  [
+   0, 
+   610, 
+   {
+    "raw_data": "sinjin;410725", 
+    "quote_id": 410725, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410772, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "sinjin;410725", 
+    "quote_id": 410725, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410772, 
+  [
+   319, 
+   824, 
+   {
+    "quote_id": 410725, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410264, 
+  [
+   0, 
+   3787, 
+   {
+    "raw_data": "Winston Smith;410244", 
+    "unknown_quote_id": 410244, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410781, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "Tither;410768", 
+    "quote_id": 410768, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410782, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "sinjin;410776", 
+    "quote_id": 410776, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410784, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "Bryan;410770", 
+    "quote_id": 410770, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  410785, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Doc Jones;410782", 
+    "quote_id": 410782, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410788, 
+  [
+   0, 
+   279, 
+   {
+    "raw_data": "sinjin;410776", 
+    "quote_id": 410776, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410789, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Steeeeve;410784", 
+    "quote_id": 410784, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410791, 
+  [
+   0, 
+   699, 
+   {
+    "raw_data": "Bryan;410788", 
+    "quote_id": 410788, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  410792, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Steeeeve;410781", 
+    "quote_id": 410781, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410792, 
+  [
+   281, 
+   430, 
+   {
+    "raw_data": "Tither;410768", 
+    "quote_id": 410768, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410793, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "Tither;410792", 
+    "quote_id": 410792, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410794, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Tither;410792", 
+    "quote_id": 410792, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410794, 
+  [
+   116, 
+   169, 
+   {
+    "quote_id": 410792, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410795, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "sinjin;410793", 
+    "quote_id": 410793, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410796, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Doc Jones;410789", 
+    "quote_id": 410789, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410800, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Steeeeve;410796", 
+    "quote_id": 410796, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410802, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Steeeeve;410796", 
+    "quote_id": 410796, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410808, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Steeeeve;410794", 
+    "quote_id": 410794, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410808, 
+  [
+   1694, 
+   2517, 
+   {}
+  ]
+ ], 
+ [
+  410809, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "sinjin;410791", 
+    "quote_id": 410791, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410813, 
+  [
+   0, 
+   343, 
+   {
+    "raw_data": "Bryan;410809", 
+    "quote_id": 410809, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  410814, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Tither;410808", 
+    "quote_id": 410808, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410305, 
+  [
+   83, 
+   222, 
+   {
+    "raw_data": "Winston Smith;410295", 
+    "unknown_quote_id": 410295, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410305, 
+  [
+   289, 
+   791, 
+   {}
+  ]
+ ], 
+ [
+  410312, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Winston Smith;410294", 
+    "unknown_quote_id": 410294, 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410826, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "sinjin;410813", 
+    "quote_id": 410813, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410826, 
+  [
+   692, 
+   865, 
+   {}
+  ]
+ ], 
+ [
+  410318, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Winston Smith", 
+    "unknown_author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  410320, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Steeeeve;410317", 
+    "quote_id": 410317, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410320, 
+  [
+   268, 
+   394, 
+   {
+    "quote_id": 410317, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410834, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Bryan;410832", 
+    "quote_id": 410832, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  410835, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Bryan;410832", 
+    "quote_id": 410832, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  410836, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "NATO 556;410834", 
+    "quote_id": 410834, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410325, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Doc Jones;410320", 
+    "quote_id": 410320, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410840, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "sinjin;410835", 
+    "quote_id": 410835, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410840, 
+  [
+   415, 
+   448, 
+   {
+    "quote_id": 410835, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410841, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "sinjin;410835", 
+    "quote_id": 410835, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410845, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "sinjin;410835", 
+    "quote_id": 410835, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410848, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Bryan;410845", 
+    "quote_id": 410845, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  410832, 
+  [
+   0, 
+   347, 
+   {
+    "raw_data": "sinjin;410813", 
+    "quote_id": 410813, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  410340, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Steeeeve;410325", 
+    "quote_id": 410325, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410340, 
+  [
+   240, 
+   347, 
+   {
+    "quote_id": 410325, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410340, 
+  [
+   700, 
+   989, 
+   {
+    "quote_id": 410325, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410347, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Steeeeve;410325", 
+    "quote_id": 410325, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410861, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Doc Jones;410559", 
+    "quote_id": 410559, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410861, 
+  [
+   736, 
+   875, 
+   {
+    "raw_data": "Doc Jones;410559", 
+    "quote_id": 410559, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410876, 
+  [
+   0, 
+   1120, 
+   {
+    "raw_data": "Tither;410849", 
+    "quote_id": 410849, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410369, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Steeeeve;410317", 
+    "quote_id": 410317, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410369, 
+  [
+   375, 
+   503, 
+   {
+    "quote_id": 410317, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410909, 
+  [
+   158, 
+   291, 
+   {}
+  ]
+ ], 
+ [
+  410909, 
+  [
+   316, 
+   445, 
+   {}
+  ]
+ ], 
+ [
+  410909, 
+  [
+   2365, 
+   2964, 
+   {}
+  ]
+ ], 
+ [
+  410913, 
+  [
+   1003, 
+   1306, 
+   {
+    "quote_id": 410861, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410913, 
+  [
+   1545, 
+   1605, 
+   {
+    "quote_id": 410861, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410758, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "NATO 556;410756", 
+    "quote_id": 410756, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410761, 
+  [
+   0, 
+   500, 
+   {
+    "raw_data": "Steeeeve;410755", 
+    "quote_id": 410755, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410761, 
+  [
+   667, 
+   969, 
+   {
+    "raw_data": "&quot;Tither&quot;", 
+    "quote_id": 410754, 
+    "unknown_author": "&quot", 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410764, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "Tither;410761", 
+    "quote_id": 410761, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410448, 
+  [
+   0, 
+   126, 
+   {
+    "raw_data": "Steeeeve;410317", 
+    "quote_id": 410317, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410452, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "zsu2357;410369", 
+    "quote_id": 410369, 
+    "author": "zsu2357"
+   }
+  ]
+ ], 
+ [
+  410452, 
+  [
+   402, 
+   584, 
+   {}
+  ]
+ ], 
+ [
+  410453, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Tither;410448", 
+    "quote_id": 410448, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410453, 
+  [
+   235, 
+   284, 
+   {
+    "quote_id": 410448, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410457, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Doc Jones;410340", 
+    "quote_id": 410340, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410457, 
+  [
+   359, 
+   386, 
+   {
+    "quote_id": 410340, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410457, 
+  [
+   421, 
+   457, 
+   {
+    "quote_id": 410340, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410457, 
+  [
+   569, 
+   604, 
+   {
+    "quote_id": 410340, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410457, 
+  [
+   638, 
+   815, 
+   {
+    "quote_id": 410340, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410459, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Steeeeve;410453", 
+    "quote_id": 410453, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410459, 
+  [
+   152, 
+   197, 
+   {
+    "raw_data": "&quot;Steeeve&quot;", 
+    "quote_id": 410317, 
+    "unknown_author": "&quot", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410459, 
+  [
+   383, 
+   581, 
+   {
+    "raw_data": "Steeeeve;410453", 
+    "quote_id": 410453, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410459, 
+  [
+   890, 
+   1020, 
+   {}
+  ]
+ ], 
+ [
+  410459, 
+  [
+   1173, 
+   1194, 
+   {}
+  ]
+ ], 
+ [
+  410461, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Tither;410459", 
+    "quote_id": 410459, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410461, 
+  [
+   443, 
+   562, 
+   {
+    "quote_id": 410459, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410464, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "Steeeeve;410461", 
+    "quote_id": 410461, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410468, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "Steeeeve;410461", 
+    "quote_id": 410461, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410086, 
+  [
+   0, 
+   996, 
+   {
+    "raw_data": "Tither;410001", 
+    "quote_id": 410001, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410086, 
+  [
+   1383, 
+   2352, 
+   {
+    "raw_data": "Tither;410001", 
+    "quote_id": 410001, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410086, 
+  [
+   2404, 
+   3334, 
+   {
+    "raw_data": "Tither;410001", 
+    "quote_id": 410001, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410513, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Doc Jones;410477", 
+    "quote_id": 410477, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410477, 
+  [
+   0, 
+   943, 
+   {
+    "raw_data": "NATO 556;410468", 
+    "quote_id": 410468, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410776, 
+  [
+   0, 
+   2951, 
+   {
+    "raw_data": "Bryan;410770", 
+    "quote_id": 410770, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  409997, 
+  [
+   0, 
+   11, 
+   {
+    "raw_data": "Galileo;409990", 
+    "quote_id": 409990, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  409997, 
+  [
+   397, 
+   1184, 
+   {}
+  ]
+ ], 
+ [
+  409997, 
+  [
+   1240, 
+   2200, 
+   {}
+  ]
+ ], 
+ [
+  409997, 
+  [
+   2206, 
+   3519, 
+   {}
+  ]
+ ], 
+ [
+  410511, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "Tither;410464", 
+    "quote_id": 410464, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410512, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "NATO 556;410468", 
+    "quote_id": 410468, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410001, 
+  [
+   23, 
+   1019, 
+   {}
+  ]
+ ], 
+ [
+  410001, 
+  [
+   1242, 
+   2211, 
+   {}
+  ]
+ ], 
+ [
+  410001, 
+  [
+   2265, 
+   3195, 
+   {}
+  ]
+ ], 
+ [
+  410001, 
+  [
+   3240, 
+   3495, 
+   {}
+  ]
+ ], 
+ [
+  410002, 
+  [
+   0, 
+   2006, 
+   {
+    "raw_data": "Galileo;409990", 
+    "quote_id": 409990, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410521, 
+  [
+   0, 
+   213, 
+   {}
+  ]
+ ], 
+ [
+  410521, 
+  [
+   453, 
+   560, 
+   {
+    "quote_id": 410452, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410522, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Doc Jones;410477", 
+    "quote_id": 410477, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410525, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "Tither;410464", 
+    "quote_id": 410464, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  410527, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Galileo;410522", 
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410528, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Galileo;410525", 
+    "quote_id": 410525, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410534, 
+  [
+   0, 
+   463, 
+   {
+    "raw_data": "NATO 556;410527", 
+    "quote_id": 410527, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410538, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "NATO 556;410535", 
+    "quote_id": 410535, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410538, 
+  [
+   274, 
+   604, 
+   {
+    "raw_data": "NATO 556;410535", 
+    "quote_id": 410535, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410027, 
+  [
+   0, 
+   2006, 
+   {
+    "raw_data": "Galileo;409990", 
+    "quote_id": 409990, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410546, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Steeeeve;410511", 
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410547, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Galileo;410525", 
+    "quote_id": 410525, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410547, 
+  [
+   396, 
+   730, 
+   {}
+  ]
+ ], 
+ [
+  410549, 
+  [
+   0, 
+   520, 
+   {
+    "raw_data": "Steeeeve;410511", 
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410549, 
+  [
+   874, 
+   1149, 
+   {
+    "quote_id": 410511, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410552, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Steeeeve;410513", 
+    "quote_id": 410513, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410553, 
+  [
+   503, 
+   677, 
+   {
+    "quote_id": 410539, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410559, 
+  [
+   0, 
+   548, 
+   {
+    "raw_data": "Galileo;410522", 
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410559, 
+  [
+   716, 
+   857, 
+   {
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410559, 
+  [
+   1295, 
+   1448, 
+   {
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410559, 
+  [
+   1763, 
+   1889, 
+   {
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410559, 
+  [
+   2103, 
+   2482, 
+   {
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410559, 
+  [
+   2850, 
+   3209, 
+   {
+    "quote_id": 410522, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410561, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Doc Jones;410552", 
+    "quote_id": 410552, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410564, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Steeeeve;410561", 
+    "quote_id": 410561, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410564, 
+  [
+   246, 
+   445, 
+   {
+    "quote_id": 410561, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410564, 
+  [
+   882, 
+   961, 
+   {
+    "quote_id": 410561, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410566, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Doc Jones;410549", 
+    "quote_id": 410549, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410566, 
+  [
+   135, 
+   339, 
+   {
+    "quote_id": 410549, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410568, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Doc Jones;410564", 
+    "quote_id": 410564, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410568, 
+  [
+   388, 
+   454, 
+   {
+    "quote_id": 410564, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410568, 
+  [
+   495, 
+   504, 
+   {
+    "quote_id": 410564, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410586, 
+  [
+   71, 
+   106, 
+   {
+    "raw_data": "Steeeeve;410568", 
+    "quote_id": 410568, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410085, 
+  [
+   0, 
+   781, 
+   {
+    "raw_data": "NATO 556;409997", 
+    "quote_id": 409997, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410085, 
+  [
+   1433, 
+   2394, 
+   {
+    "raw_data": "NATO 556;409997", 
+    "quote_id": 409997, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410085, 
+  [
+   2590, 
+   3904, 
+   {
+    "raw_data": "NATO 556;409997", 
+    "quote_id": 409997, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410085, 
+  [
+   4570, 
+   4631, 
+   {
+    "raw_data": "NATO 556;409997", 
+    "quote_id": 409997, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410598, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "Steeeeve;410561", 
+    "quote_id": 410561, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410598, 
+  [
+   214, 
+   413, 
+   {
+    "quote_id": 410561, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410598, 
+  [
+   524, 
+   603, 
+   {
+    "quote_id": 410561, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  410087, 
+  [
+   0, 
+   1253, 
+   {
+    "raw_data": "Doc Jones;410027", 
+    "quote_id": 410027, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  410093, 
+  [
+   0, 
+   447, 
+   {
+    "raw_data": "NATO 556;410091", 
+    "quote_id": 410091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410093, 
+  [
+   487, 
+   1109, 
+   {
+    "raw_data": "NATO 556;410091", 
+    "quote_id": 410091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410093, 
+  [
+   1228, 
+   1648, 
+   {
+    "raw_data": "NATO 556;410091", 
+    "quote_id": 410091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410093, 
+  [
+   1893, 
+   2230, 
+   {
+    "raw_data": "NATO 556;410091", 
+    "quote_id": 410091, 
+    "author": "NATO 556"
+   }
+  ]
+ ], 
+ [
+  410097, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "Galileo;410093", 
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410097, 
+  [
+   674, 
+   785, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410097, 
+  [
+   874, 
+   1113, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410097, 
+  [
+   1460, 
+   1590, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410097, 
+  [
+   1841, 
+   1990, 
+   {}
+  ]
+ ], 
+ [
+  410097, 
+  [
+   2380, 
+   2551, 
+   {
+    "quote_id": 410093, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410099, 
+  [
+   0, 
+   213, 
+   {
+    "raw_data": "Galileo;410087", 
+    "quote_id": 410087, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  410106, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "Penfold;410099", 
+    "quote_id": 410099, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  410107, 
+  [
+   720, 
+   891, 
+   {}
+  ]
+ ], 
+ [
+  410107, 
+  [
+   1429, 
+   1579, 
+   {}
+  ]
+ ]
+]

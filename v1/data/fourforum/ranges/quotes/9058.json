@@ -1,0 +1,760 @@
+[
+ [
+  236162, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "lucaspa;236159", 
+    "quote_id": 236159, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236162, 
+  [
+   330, 
+   495, 
+   {
+    "quote_id": 236159, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236162, 
+  [
+   679, 
+   1040, 
+   {
+    "quote_id": 236159, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235781, 
+  [
+   0, 
+   797, 
+   {
+    "raw_data": "Kronus;235720", 
+    "quote_id": 235720, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  235913, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "electrolyte;235781", 
+    "quote_id": 235781, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235913, 
+  [
+   685, 
+   844, 
+   {
+    "quote_id": 235781, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235913, 
+  [
+   2782, 
+   3032, 
+   {
+    "quote_id": 235781, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235913, 
+  [
+   3569, 
+   3805, 
+   {
+    "quote_id": 235781, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235915, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "electrolyte;235867", 
+    "quote_id": 235867, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235915, 
+  [
+   224, 
+   391, 
+   {
+    "quote_id": 235867, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235916, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "trebor;235854", 
+    "quote_id": 235854, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236194, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "Kronus;236151", 
+    "quote_id": 236151, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236194, 
+  [
+   1114, 
+   1342, 
+   {
+    "quote_id": 236151, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236194, 
+  [
+   3144, 
+   3281, 
+   {
+    "quote_id": 236151, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236194, 
+  [
+   4268, 
+   4510, 
+   {
+    "quote_id": 236151, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236194, 
+  [
+   5101, 
+   5293, 
+   {
+    "quote_id": 236151, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  235867, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "lucaspa;235849", 
+    "quote_id": 235849, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236196, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "trebor;236162", 
+    "quote_id": 236162, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236196, 
+  [
+   3272, 
+   3447, 
+   {
+    "quote_id": 236162, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236196, 
+  [
+   3986, 
+   4182, 
+   {
+    "quote_id": 236162, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236196, 
+  [
+   4290, 
+   4348, 
+   {
+    "quote_id": 236162, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236196, 
+  [
+   4558, 
+   4617, 
+   {
+    "quote_id": 236162, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236205, 
+  [
+   0, 
+   475, 
+   {
+    "raw_data": "lucaspa;236124", 
+    "quote_id": 236124, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235967, 
+  [
+   0, 
+   475, 
+   {
+    "raw_data": "lucaspa;235916", 
+    "quote_id": 235916, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "lucaspa;235913", 
+    "quote_id": 235913, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   480, 
+   703, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235913, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   1211, 
+   1602, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235913, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   2214, 
+   2287, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235913, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   2319, 
+   2715, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235913, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   3030, 
+   3091, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235913, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   3333, 
+   3523, 
+   {
+    "raw_data": "lucaspa;235915", 
+    "quote_id": 235915, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   3729, 
+   4021, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235915, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   4370, 
+   4681, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235915, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   4769, 
+   4819, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235915, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   5069, 
+   5124, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235915, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235968, 
+  [
+   5381, 
+   5746, 
+   {
+    "raw_data": "lucaspa", 
+    "quote_id": 235915, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235849, 
+  [
+   0, 
+   589, 
+   {
+    "raw_data": "Kronus;235720", 
+    "quote_id": 235720, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  235854, 
+  [
+   0, 
+   1031, 
+   {
+    "raw_data": "lucaspa;235849", 
+    "quote_id": 235849, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236278, 
+  [
+   615, 
+   714, 
+   {
+    "raw_data": "lucaspa;236148", 
+    "quote_id": 236148, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236123, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "trebor;235967", 
+    "quote_id": 235967, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236123, 
+  [
+   740, 
+   831, 
+   {
+    "quote_id": 235967, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236124, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "Kronus;235973", 
+    "quote_id": 235973, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236124, 
+  [
+   1122, 
+   1270, 
+   {
+    "quote_id": 235973, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236124, 
+  [
+   2338, 
+   2501, 
+   {
+    "quote_id": 235973, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  236132, 
+  [
+   0, 
+   1511, 
+   {
+    "raw_data": "lucaspa;236123", 
+    "quote_id": 236123, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236402, 
+  [
+   0, 
+   65, 
+   {
+    "quote_id": 236374, 
+    "author": "Jim Colyer"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "electrolyte;235968", 
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   1504, 
+   1787, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   2314, 
+   2453, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   2918, 
+   3118, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   3521, 
+   3546, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   4360, 
+   4550, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   4853, 
+   4940, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   5329, 
+   5559, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   5757, 
+   5955, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   6914, 
+   7192, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   7373, 
+   7453, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   8291, 
+   8376, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   8690, 
+   8760, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   9311, 
+   9330, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236148, 
+  [
+   9392, 
+   9494, 
+   {
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236150, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "electrolyte;235968", 
+    "quote_id": 235968, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  236151, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "lucaspa;236124", 
+    "quote_id": 236124, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  236159, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "trebor;236132", 
+    "quote_id": 236132, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236159, 
+  [
+   258, 
+   415, 
+   {
+    "quote_id": 236132, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  236159, 
+  [
+   947, 
+   1043, 
+   {
+    "quote_id": 236132, 
+    "author": "trebor"
+   }
+  ]
+ ]
+]

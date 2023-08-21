@@ -1,0 +1,323 @@
+[
+ [
+  139011, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139006, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139014, 
+  [
+   0, 
+   414, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 139011, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139052, 
+  [
+   0, 
+   643, 
+   {
+    "raw_data": "georged", 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139052, 
+  [
+   688, 
+   947, 
+   {
+    "raw_data": "georged", 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139052, 
+  [
+   1156, 
+   2546, 
+   {
+    "raw_data": "Desaix", 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  139275, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 139253, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139021, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139014, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139025, 
+  [
+   0, 
+   489, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 139021, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139288, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  139301, 
+  [
+   0, 
+   455, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 139288, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  139180, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 139131, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139056, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 139028, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  139078, 
+  [
+   146, 
+   743, 
+   {
+    "raw_data": "USA Today", 
+    "unknown_author": "USA Today"
+   }
+  ]
+ ], 
+ [
+  139208, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139180, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139277, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 139028, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  139224, 
+  [
+   0, 
+   18, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 139208, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  138969, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 138964, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  139279, 
+  [
+   0, 
+   731, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 139277, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  138984, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 138975, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  138984, 
+  [
+   77, 
+   154, 
+   {
+    "quote_id": 138964, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  138992, 
+  [
+   0, 
+   134, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 138969, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  139253, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 139224, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139131, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  139006, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "Desaix", 
+    "quote_id": 138984, 
+    "author": "Desaix"
+   }
+  ]
+ ], 
+ [
+  139006, 
+  [
+   492, 
+   880, 
+   {}
+  ]
+ ], 
+ [
+  139006, 
+  [
+   1013, 
+   1466, 
+   {}
+  ]
+ ], 
+ [
+  139006, 
+  [
+   1641, 
+   2242, 
+   {}
+  ]
+ ], 
+ [
+  139006, 
+  [
+   2279, 
+   2506, 
+   {}
+  ]
+ ], 
+ [
+  139006, 
+  [
+   2545, 
+   3342, 
+   {}
+  ]
+ ]
+]

@@ -1,0 +1,38 @@
+[
+ [
+  100219, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 100217, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  100217, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "thebootfitter", 
+    "quote_id": 100215, 
+    "author": "thebootfitter"
+   }
+  ]
+ ], 
+ [
+  100215, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 100209, 
+    "author": "jim's trucking"
+   }
+  ]
+ ]
+]

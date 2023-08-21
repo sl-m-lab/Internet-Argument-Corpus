@@ -1,0 +1,837 @@
+[
+ [
+  299520, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "sinjin;299508", 
+    "quote_id": 299508, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  299478, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "sinjin;299475", 
+    "quote_id": 299475, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  240474, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Forrest Gump;240453", 
+    "quote_id": 240453, 
+    "author": "Forrest Gump"
+   }
+  ]
+ ], 
+ [
+  236908, 
+  [
+   0, 
+   171, 
+   {
+    "quote_id": 236781, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  299703, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Zardoz;299529", 
+    "quote_id": 299529, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  236781, 
+  [
+   0, 
+   117, 
+   {}
+  ]
+ ], 
+ [
+  236781, 
+  [
+   152, 
+   231, 
+   {
+    "quote_id": 232419, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  236781, 
+  [
+   413, 
+   857, 
+   {}
+  ]
+ ], 
+ [
+  20113, 
+  [
+   0, 
+   876, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 20003, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  20113, 
+  [
+   1880, 
+   2533, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 20003, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  298331, 
+  [
+   0, 
+   242, 
+   {
+    "raw_data": "jamesfreedman;256887", 
+    "quote_id": 256887, 
+    "author": "jamesfreedman"
+   }
+  ]
+ ], 
+ [
+  19998, 
+  [
+   0, 
+   56, 
+   {
+    "raw_data": "Abraxas", 
+    "quote_id": 19985, 
+    "author": "Abraxas"
+   }
+  ]
+ ], 
+ [
+  240453, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "Shooterandproud;236910", 
+    "quote_id": 236910, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  20003, 
+  [
+   0, 
+   352, 
+   {
+    "raw_data": "Abraxas", 
+    "quote_id": 20001, 
+    "author": "Abraxas"
+   }
+  ]
+ ], 
+ [
+  256198, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "jim's trucking;236817", 
+    "quote_id": 236817, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  250918, 
+  [
+   0, 
+   397, 
+   {
+    "raw_data": "Yossarian;250687", 
+    "quote_id": 250687, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  250665, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "E Mutz;250292", 
+    "quote_id": 250292, 
+    "author": "E Mutz"
+   }
+  ]
+ ], 
+ [
+  299701, 
+  [
+   0, 
+   277, 
+   {
+    "raw_data": "Galileo;299697", 
+    "quote_id": 299697, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  299701, 
+  [
+   386, 
+   554, 
+   {
+    "quote_id": 299697, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  299701, 
+  [
+   801, 
+   1070, 
+   {
+    "quote_id": 299697, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  299701, 
+  [
+   1232, 
+   1511, 
+   {
+    "quote_id": 299697, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  299501, 
+  [
+   0, 
+   233, 
+   {
+    "raw_data": "Ghost Rider;299491", 
+    "quote_id": 299491, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  299491, 
+  [
+   0, 
+   59, 
+   {
+    "raw_data": "sinjin;299483", 
+    "quote_id": 299483, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  299697, 
+  [
+   0, 
+   318, 
+   {
+    "raw_data": "Ghost Rider;299451", 
+    "quote_id": 299451, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  299697, 
+  [
+   775, 
+   869, 
+   {
+    "raw_data": "Ghost Rider;299451", 
+    "quote_id": 299451, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  299697, 
+  [
+   1146, 
+   1538, 
+   {
+    "raw_data": "Ghost Rider;299451", 
+    "quote_id": 299451, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  299700, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Ghost Rider;299466", 
+    "quote_id": 299466, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  234292, 
+  [
+   0, 
+   811, 
+   {
+    "raw_data": "sundowner;32099", 
+    "quote_id": 32099, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  33310, 
+  [
+   0, 
+   354, 
+   {
+    "raw_data": "Abraxas", 
+    "author": "Abraxas"
+   }
+  ]
+ ], 
+ [
+  33310, 
+  [
+   950, 
+   1395, 
+   {}
+  ]
+ ], 
+ [
+  33310, 
+  [
+   1846, 
+   2030, 
+   {}
+  ]
+ ], 
+ [
+  33310, 
+  [
+   2209, 
+   2544, 
+   {}
+  ]
+ ], 
+ [
+  33310, 
+  [
+   4385, 
+   4519, 
+   {
+    "raw_data": "Abraxas", 
+    "quote_id": 32230, 
+    "author": "Abraxas"
+   }
+  ]
+ ], 
+ [
+  299529, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "sinjin;299508", 
+    "quote_id": 299508, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  18362, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Johnnis", 
+    "quote_id": 18329, 
+    "author": "Johnnis"
+   }
+  ]
+ ], 
+ [
+  299451, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Galileo;256198", 
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  299451, 
+  [
+   452, 
+   622, 
+   {
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  299451, 
+  [
+   724, 
+   896, 
+   {
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  18493, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Johnnis", 
+    "quote_id": 18492, 
+    "author": "Johnnis"
+   }
+  ]
+ ], 
+ [
+  234293, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "splinter99;33374", 
+    "quote_id": 33374, 
+    "author": "splinter99"
+   }
+  ]
+ ], 
+ [
+  300198, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "AMD4EVER;18362", 
+    "quote_id": 18362, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  28485, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 18362, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  28486, 
+  [
+   0, 
+   1526, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 20003, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  28487, 
+  [
+   0, 
+   924, 
+   {
+    "raw_data": "cblan88", 
+    "quote_id": 25969, 
+    "author": "cblan88"
+   }
+  ]
+ ], 
+ [
+  299464, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Ghost Rider;299452", 
+    "quote_id": 299452, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  28489, 
+  [
+   0, 
+   463, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 18493, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  299466, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "sinjin;299464", 
+    "quote_id": 299464, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  299483, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Ghost Rider;299478", 
+    "quote_id": 299478, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  232419, 
+  [
+   0, 
+   3367, 
+   {
+    "raw_data": "lurch;33310", 
+    "quote_id": 33310, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  18390, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Johnnis", 
+    "quote_id": 18329, 
+    "author": "Johnnis"
+   }
+  ]
+ ], 
+ [
+  18394, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 18390, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  247311, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "bud095;25581", 
+    "quote_id": 25581, 
+    "author": "bud095"
+   }
+  ]
+ ], 
+ [
+  234332, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "DrNo;234293", 
+    "quote_id": 234293, 
+    "author": "DrNo"
+   }
+  ]
+ ], 
+ [
+  256221, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Galileo;256198", 
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  256221, 
+  [
+   498, 
+   606, 
+   {}
+  ]
+ ], 
+ [
+  256221, 
+  [
+   746, 
+   869, 
+   {
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  256229, 
+  [
+   0, 
+   348, 
+   {
+    "raw_data": "Galileo;256198", 
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  256229, 
+  [
+   1173, 
+   1346, 
+   {
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  256229, 
+  [
+   1478, 
+   1707, 
+   {
+    "quote_id": 256198, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  232417, 
+  [
+   0, 
+   811, 
+   {
+    "raw_data": "sundowner;32099", 
+    "quote_id": 32099, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  32099, 
+  [
+   0, 
+   471, 
+   {
+    "quote_id": 20113, 
+    "author": "Abraxas"
+   }
+  ]
+ ], 
+ [
+  32230, 
+  [
+   0, 
+   811, 
+   {
+    "raw_data": "sundowner", 
+    "quote_id": 32099, 
+    "author": "sundowner"
+   }
+  ]
+ ], 
+ [
+  18406, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 18394, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19985, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "AMD4EVER", 
+    "quote_id": 18362, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  299452, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "sinjin;298331", 
+    "quote_id": 298331, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  25581, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "Johnnis", 
+    "quote_id": 18329, 
+    "author": "Johnnis"
+   }
+  ]
+ ], 
+ [
+  236910, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "jitobear;236854", 
+    "quote_id": 236854, 
+    "author": "jitobear"
+   }
+  ]
+ ], 
+ [
+  25969, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "bud095", 
+    "quote_id": 25581, 
+    "author": "bud095"
+   }
+  ]
+ ], 
+ [
+  299506, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "sinjin;299501", 
+    "quote_id": 299501, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  299475, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "Ghost Rider;299466", 
+    "quote_id": 299466, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  299508, 
+  [
+   0, 
+   555, 
+   {
+    "raw_data": "Ghost Rider;299506", 
+    "quote_id": 299506, 
+    "author": "Ghost Rider"
+   }
+  ]
+ ], 
+ [
+  250687, 
+  [
+   16, 
+   81, 
+   {
+    "quote_id": 236908, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  250687, 
+  [
+   200, 
+   317, 
+   {}
+  ]
+ ]
+]

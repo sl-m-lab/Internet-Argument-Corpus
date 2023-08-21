@@ -1,0 +1,537 @@
+[
+ [
+  100097, 
+  [
+   0, 
+   773, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 100073, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  101121, 
+  [
+   0, 
+   389, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 101010, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  101010, 
+  [
+   0, 
+   681, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 100951, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100254, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100218, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100390, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Mach", 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100263, 
+  [
+   0, 
+   570, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100254, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100779, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 100691, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  100913, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 100907, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  100787, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100683, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  99998, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 99967, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  100030, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 99967, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  100030, 
+  [
+   1983, 
+   2070, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 99967, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  100032, 
+  [
+   0, 
+   214, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 100012, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  100032, 
+  [
+   3226, 
+   3615, 
+   {}
+  ]
+ ], 
+ [
+  100037, 
+  [
+   0, 
+   189, 
+   {
+    "raw_data": "pandion", 
+    "quote_id": 100034, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  100037, 
+  [
+   224, 
+   773, 
+   {
+    "quote_id": 100032, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100037, 
+  [
+   1041, 
+   1186, 
+   {
+    "quote_id": 100034, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  100037, 
+  [
+   1206, 
+   1608, 
+   {
+    "quote_id": 100030, 
+    "author": "pandion"
+   }
+  ]
+ ], 
+ [
+  100683, 
+  [
+   1010, 
+   1366, 
+   {
+    "quote_id": 100316, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100683, 
+  [
+   1933, 
+   2048, 
+   {
+    "quote_id": 100316, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100683, 
+  [
+   2290, 
+   2842, 
+   {
+    "quote_id": 100316, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100949, 
+  [
+   0, 
+   341, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100683, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100949, 
+  [
+   602, 
+   809, 
+   {
+    "quote_id": 100683, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100949, 
+  [
+   1453, 
+   2010, 
+   {
+    "quote_id": 100683, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100949, 
+  [
+   2310, 
+   2540, 
+   {
+    "quote_id": 100683, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100949, 
+  [
+   2667, 
+   2991, 
+   {
+    "quote_id": 100683, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100951, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100390, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100316, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100191, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100316, 
+  [
+   1254, 
+   1330, 
+   {
+    "quote_id": 100191, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100316, 
+  [
+   1453, 
+   2107, 
+   {
+    "quote_id": 100191, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  100191, 
+  [
+   0, 
+   187, 
+   {
+    "quote_id": 100073, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100191, 
+  [
+   416, 
+   535, 
+   {
+    "quote_id": 100073, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100191, 
+  [
+   838, 
+   947, 
+   {
+    "quote_id": 100073, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100191, 
+  [
+   1348, 
+   1685, 
+   {
+    "quote_id": 100073, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "Mach", 
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   404, 
+   641, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   2106, 
+   2394, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   2650, 
+   2937, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   3082, 
+   3199, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   4011, 
+   4221, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   4953, 
+   5282, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100964, 
+  [
+   5575, 
+   5700, 
+   {
+    "quote_id": 100949, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  100203, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 100191, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  101487, 
+  [
+   0, 
+   546, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 101473, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  100691, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100390, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100218, 
+  [
+   0, 
+   364, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 100203, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  100218, 
+  [
+   1001, 
+   1355, 
+   {
+    "quote_id": 100203, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

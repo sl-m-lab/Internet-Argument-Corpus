@@ -1,0 +1,5528 @@
+[
+ [
+  144384, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "peddler8111", 
+    "unknown_author": "peddler8111"
+   }
+  ]
+ ], 
+ [
+  144384, 
+  [
+   181, 
+   327, 
+   {
+    "raw_data": "HeavenBound", 
+    "unknown_author": "HeavenBound"
+   }
+  ]
+ ], 
+ [
+  144384, 
+  [
+   331, 
+   730, 
+   {
+    "raw_data": "stormboy", 
+    "unknown_author": "stormboy"
+   }
+  ]
+ ], 
+ [
+  144384, 
+  [
+   734, 
+   866, 
+   {
+    "raw_data": "Waxy", 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  144388, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 144384, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145376, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 145327, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  145376, 
+  [
+   525, 
+   673, 
+   {
+    "quote_id": 145327, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  130566, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130484, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130566, 
+  [
+   307, 
+   434, 
+   {
+    "quote_id": 130484, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130566, 
+  [
+   581, 
+   797, 
+   {
+    "quote_id": 130484, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130566, 
+  [
+   913, 
+   3372, 
+   {
+    "quote_id": 130484, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  157191, 
+  [
+   0, 
+   951, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 157095, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  144393, 
+  [
+   0, 
+   35, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 144388, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  144393, 
+  [
+   164, 
+   311, 
+   {
+    "quote_id": 144388, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130570, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130566, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130570, 
+  [
+   457, 
+   594, 
+   {
+    "quote_id": 130566, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130570, 
+  [
+   734, 
+   824, 
+   {
+    "quote_id": 130566, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130570, 
+  [
+   962, 
+   1061, 
+   {
+    "quote_id": 130566, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130576, 
+  [
+   0, 
+   403, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130570, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130576, 
+  [
+   1313, 
+   1441, 
+   {
+    "quote_id": 130570, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130576, 
+  [
+   1609, 
+   1907, 
+   {
+    "quote_id": 130570, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   157, 
+   226, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   277, 
+   380, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   544, 
+   903, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   990, 
+   1148, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   1162, 
+   1707, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   1993, 
+   2147, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   2289, 
+   2431, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130581, 
+  [
+   2617, 
+   2705, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  146967, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 146845, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  146967, 
+  [
+   198, 
+   609, 
+   {
+    "quote_id": 146845, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  146967, 
+  [
+   845, 
+   961, 
+   {
+    "quote_id": 146845, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  141338, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "Devils Advocate", 
+    "quote_id": 141315, 
+    "author": "Devils Advocate"
+   }
+  ]
+ ], 
+ [
+  130590, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130526, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130592, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130590, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  131623, 
+  [
+   0, 
+   1317, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 130691, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  131637, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 131623, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  147552, 
+  [
+   115, 
+   1828, 
+   {}
+  ]
+ ], 
+ [
+  155205, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 155112, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  155205, 
+  [
+   2130, 
+   2475, 
+   {
+    "quote_id": 155112, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  130118, 
+  [
+   129, 
+   987, 
+   {}
+  ]
+ ], 
+ [
+  150602, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  150602, 
+  [
+   2452, 
+   2625, 
+   {
+    "quote_id": 150193, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  150602, 
+  [
+   4253, 
+   4935, 
+   {
+    "quote_id": 150193, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  150602, 
+  [
+   5378, 
+   5964, 
+   {
+    "quote_id": 150193, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  164941, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 130316, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  151636, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 151176, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  134750, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130309, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130655, 
+  [
+   0, 
+   731, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130309, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  142946, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142834, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  142947, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142834, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  130661, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 130656, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  155248, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130673, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130514, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  142452, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Waxy", 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130679, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130581, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130679, 
+  [
+   64, 
+   218, 
+   {
+    "quote_id": 130581, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130679, 
+  [
+   256, 
+   334, 
+   {
+    "quote_id": 130581, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130679, 
+  [
+   501, 
+   777, 
+   {
+    "quote_id": 130581, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  142456, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 142451, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  130685, 
+  [
+   0, 
+   278, 
+   {
+    "raw_data": "Black Aces", 
+    "quote_id": 130655, 
+    "author": "Black Aces"
+   }
+  ]
+ ], 
+ [
+  130685, 
+  [
+   395, 
+   1134, 
+   {
+    "quote_id": 130217, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130685, 
+  [
+   1175, 
+   1486, 
+   {
+    "quote_id": 130655, 
+    "author": "Black Aces"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   0, 
+   172, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 155271, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   325, 
+   491, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   668, 
+   754, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   1133, 
+   1263, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   1453, 
+   1661, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   1792, 
+   1843, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155473, 
+  [
+   1894, 
+   2039, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130687, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 130656, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  130687, 
+  [
+   734, 
+   1375, 
+   {
+    "quote_id": 130656, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  151176, 
+  [
+   833, 
+   954, 
+   {}
+  ]
+ ], 
+ [
+  151176, 
+  [
+   1578, 
+   1795, 
+   {}
+  ]
+ ], 
+ [
+  151176, 
+  [
+   1933, 
+   2346, 
+   {}
+  ]
+ ], 
+ [
+  152202, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 151996, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152202, 
+  [
+   288, 
+   624, 
+   {
+    "quote_id": 151996, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152202, 
+  [
+   876, 
+   1062, 
+   {
+    "quote_id": 151996, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152202, 
+  [
+   1437, 
+   1600, 
+   {
+    "quote_id": 151996, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154904, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152988, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130710, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130679, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130710, 
+  [
+   92, 
+   209, 
+   {
+    "quote_id": 130576, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130710, 
+  [
+   215, 
+   282, 
+   {
+    "quote_id": 130679, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130711, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130685, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130210, 
+  [
+   0, 
+   520, 
+   {
+    "raw_data": "Missouri Mule", 
+    "quote_id": 130197, 
+    "author": "Missouri Mule"
+   }
+  ]
+ ], 
+ [
+  130723, 
+  [
+   0, 
+   327, 
+   {}
+  ]
+ ], 
+ [
+  130725, 
+  [
+   0, 
+   69, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130711, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  143014, 
+  [
+   0, 
+   280, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142947, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "Eddie", 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   517, 
+   559, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   621, 
+   701, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   741, 
+   1041, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   1136, 
+   1189, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   1378, 
+   1470, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   1794, 
+   2027, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   2433, 
+   2621, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   2761, 
+   2912, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   2955, 
+   3150, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   3460, 
+   3722, 
+   {}
+  ]
+ ], 
+ [
+  148331, 
+  [
+   3730, 
+   4044, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   4277, 
+   4314, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148331, 
+  [
+   4396, 
+   4621, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  130733, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130725, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  143024, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 143017, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  150193, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148666, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  145523, 
+  [
+   0, 
+   477, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145523, 
+  [
+   942, 
+   1325, 
+   {}
+  ]
+ ], 
+ [
+  144414, 
+  [
+   0, 
+   123, 
+   {
+    "quote_id": 144393, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  144414, 
+  [
+   204, 
+   982, 
+   {
+    "quote_id": 144393, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143030, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 143017, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  143476, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 143335, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   0, 
+   227, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   349, 
+   516, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   820, 
+   1367, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   1538, 
+   1547, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   2064, 
+   2180, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   2704, 
+   2844, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   3126, 
+   3170, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   3286, 
+   3408, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   3557, 
+   3566, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   4259, 
+   4393, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   4442, 
+   4483, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   4648, 
+   4784, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   5430, 
+   5459, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   5526, 
+   5729, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   5924, 
+   5998, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   6286, 
+   6408, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   7476, 
+   7603, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   7812, 
+   7980, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   8128, 
+   8177, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   8342, 
+   8450, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   8619, 
+   8884, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   9258, 
+   9610, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   10127, 
+   10414, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   10577, 
+   10748, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   10933, 
+   11213, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   11242, 
+   11309, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   11331, 
+   11494, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   11664, 
+   11899, 
+   {}
+  ]
+ ], 
+ [
+  148666, 
+  [
+   11924, 
+   11997, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   12138, 
+   12157, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   12350, 
+   12579, 
+   {}
+  ]
+ ], 
+ [
+  148666, 
+  [
+   12831, 
+   13066, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   13249, 
+   13368, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   13688, 
+   13873, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   14202, 
+   14521, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148666, 
+  [
+   14672, 
+   14868, 
+   {
+    "quote_id": 148354, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146107, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 145691, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  155083, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "GreenMtnBoy", 
+    "quote_id": 154904, 
+    "author": "GreenMtnBoy"
+   }
+  ]
+ ], 
+ [
+  143041, 
+  [
+   0, 
+   922, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 143024, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143043, 
+  [
+   0, 
+   655, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 143030, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143043, 
+  [
+   798, 
+   1133, 
+   {
+    "quote_id": 143030, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143046, 
+  [
+   0, 
+   567, 
+   {
+    "quote_id": 143041, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130761, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130730, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130762, 
+  [
+   0, 
+   83, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130733, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  143051, 
+  [
+   0, 
+   11, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 143043, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  143051, 
+  [
+   506, 
+   624, 
+   {
+    "quote_id": 143043, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  143051, 
+  [
+   1054, 
+   1137, 
+   {
+    "quote_id": 143043, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155271, 
+  [
+   0, 
+   1361, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 155250, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154488, 
+  [
+   118, 
+   3608, 
+   {}
+  ]
+ ], 
+ [
+  145639, 
+  [
+   13, 
+   274, 
+   {}
+  ]
+ ], 
+ [
+  153127, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  153127, 
+  [
+   669, 
+   801, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  153127, 
+  [
+   953, 
+   1040, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  153127, 
+  [
+   1508, 
+   1746, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  153127, 
+  [
+   1830, 
+   2007, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  153127, 
+  [
+   3059, 
+   3155, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155375, 
+  [
+   0, 
+   498, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 155250, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  155375, 
+  [
+   1181, 
+   1437, 
+   {
+    "quote_id": 155250, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  155375, 
+  [
+   1571, 
+   1674, 
+   {
+    "quote_id": 155250, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  155375, 
+  [
+   1890, 
+   2116, 
+   {
+    "quote_id": 155250, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  155375, 
+  [
+   2173, 
+   2449, 
+   {
+    "quote_id": 155250, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  142064, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 141994, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  136435, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "Nwarth", 
+    "quote_id": 136372, 
+    "author": "Nwarth"
+   }
+  ]
+ ], 
+ [
+  136435, 
+  [
+   258, 
+   321, 
+   {
+    "quote_id": 136372, 
+    "author": "Nwarth"
+   }
+  ]
+ ], 
+ [
+  136435, 
+  [
+   364, 
+   518, 
+   {
+    "quote_id": 136372, 
+    "author": "Nwarth"
+   }
+  ]
+ ], 
+ [
+  136435, 
+  [
+   579, 
+   967, 
+   {
+    "quote_id": 136372, 
+    "author": "Nwarth"
+   }
+  ]
+ ], 
+ [
+  136435, 
+  [
+   1018, 
+   1131, 
+   {
+    "quote_id": 136372, 
+    "author": "Nwarth"
+   }
+  ]
+ ], 
+ [
+  136435, 
+  [
+   1258, 
+   1278, 
+   {
+    "quote_id": 136372, 
+    "author": "Nwarth"
+   }
+  ]
+ ], 
+ [
+  155494, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "billsco", 
+    "quote_id": 155438, 
+    "author": "billsco"
+   }
+  ]
+ ], 
+ [
+  142070, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 141994, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  145655, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 145639, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  130312, 
+  [
+   27, 
+   766, 
+   {
+    "quote_id": 130217, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130314, 
+  [
+   0, 
+   1015, 
+   {
+    "quote_id": 130217, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   291, 
+   411, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   648, 
+   790, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   946, 
+   1276, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   1453, 
+   1543, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   2100, 
+   2126, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   2149, 
+   2338, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   2771, 
+   2787, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   2810, 
+   2883, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   3027, 
+   3101, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   3152, 
+   3176, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   3322, 
+   3465, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   3504, 
+   3735, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   3948, 
+   4199, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   4579, 
+   4788, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   4968, 
+   5087, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   5420, 
+   5676, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   5949, 
+   6137, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   6499, 
+   6566, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   7038, 
+   7604, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   7896, 
+   8029, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148302, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   8104, 
+   8475, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   8646, 
+   8703, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   8863, 
+   8897, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   8988, 
+   9170, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   9253, 
+   9311, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   9338, 
+   9417, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   9566, 
+   9885, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   9983, 
+   10116, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   10361, 
+   10401, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   10530, 
+   10694, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   10887, 
+   11115, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   11686, 
+   11762, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  148354, 
+  [
+   12087, 
+   12419, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 148331, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130319, 
+  [
+   0, 
+   450, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 130316, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  145685, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 145683, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  145685, 
+  [
+   850, 
+   1144, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 145683, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  145685, 
+  [
+   1616, 
+   1976, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 145683, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  145691, 
+  [
+   0, 
+   463, 
+   {
+    "quote_id": 145685, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152862, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152400, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144671, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 144414, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130338, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 130210, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   298, 
+   343, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   517, 
+   543, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   1453, 
+   1569, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   1721, 
+   1849, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   2073, 
+   2276, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   2536, 
+   2720, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   3006, 
+   3311, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   3382, 
+   3550, 
+   {}
+  ]
+ ], 
+ [
+  147240, 
+  [
+   3933, 
+   4207, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   4550, 
+   4659, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   4852, 
+   5189, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   5633, 
+   5735, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   5982, 
+   6207, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   6551, 
+   6620, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   6720, 
+   6852, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   7140, 
+   7390, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   8026, 
+   8254, 
+   {
+    "quote_id": 146830, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  147240, 
+  [
+   8437, 
+   8648, 
+   {}
+  ]
+ ], 
+ [
+  146731, 
+  [
+   0, 
+   2351, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 145543, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146731, 
+  [
+   2513, 
+   3907, 
+   {}
+  ]
+ ], 
+ [
+  146731, 
+  [
+   4174, 
+   5106, 
+   {}
+  ]
+ ], 
+ [
+  130349, 
+  [
+   0, 
+   2679, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 130346, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  130354, 
+  [
+   0, 
+   239, 
+   {
+    "raw_data": "Symbiote", 
+    "quote_id": 130351, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  145375, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Squawker", 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  145375, 
+  [
+   469, 
+   567, 
+   {
+    "quote_id": 145258, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  145375, 
+  [
+   1050, 
+   1228, 
+   {
+    "quote_id": 145258, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   1068, 
+   1209, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   1881, 
+   2339, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   3361, 
+   3586, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   3602, 
+   3691, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   3712, 
+   3794, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   3813, 
+   3879, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   6063, 
+   6135, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   6391, 
+   6552, 
+   {
+    "quote_id": 153127, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  154428, 
+  [
+   6804, 
+   11239, 
+   {}
+  ]
+ ], 
+ [
+  130366, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "Waxy", 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130369, 
+  [
+   0, 
+   119, 
+   {
+    "quote_id": 130365, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  130369, 
+  [
+   727, 
+   935, 
+   {
+    "quote_id": 130365, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  147245, 
+  [
+   0, 
+   771, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 146839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  152391, 
+  [
+   179, 
+   614, 
+   {}
+  ]
+ ], 
+ [
+  152393, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152202, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  152393, 
+  [
+   296, 
+   540, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152202, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  152393, 
+  [
+   703, 
+   1070, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152202, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  152393, 
+  [
+   1212, 
+   1416, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152202, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  152393, 
+  [
+   1677, 
+   1813, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152202, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  152393, 
+  [
+   1892, 
+   2045, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 152202, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   113, 
+   159, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   175, 
+   430, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   440, 
+   785, 
+   {
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   843, 
+   990, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   1137, 
+   2041, 
+   {}
+  ]
+ ], 
+ [
+  145226, 
+  [
+   2045, 
+   2132, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   2204, 
+   2279, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   2373, 
+   2488, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   3189, 
+   3300, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  145226, 
+  [
+   3553, 
+   3673, 
+   {
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   246, 
+   421, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   549, 
+   4052, 
+   {}
+  ]
+ ], 
+ [
+  148302, 
+  [
+   4058, 
+   4174, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   4384, 
+   4583, 
+   {}
+  ]
+ ], 
+ [
+  148302, 
+  [
+   4657, 
+   4723, 
+   {}
+  ]
+ ], 
+ [
+  148302, 
+  [
+   4962, 
+   5068, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   5159, 
+   5384, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   5632, 
+   5923, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   6020, 
+   6092, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   6122, 
+   6295, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   6487, 
+   7047, 
+   {}
+  ]
+ ], 
+ [
+  148302, 
+  [
+   7182, 
+   7300, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   7541, 
+   7639, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   7662, 
+   7880, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   7958, 
+   8022, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   8101, 
+   8156, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   8553, 
+   8582, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   8652, 
+   8798, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   8947, 
+   8988, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   9059, 
+   9164, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   9243, 
+   9330, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   9451, 
+   9823, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   10060, 
+   10207, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   10596, 
+   10669, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   10926, 
+   11269, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   11365, 
+   11593, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   11809, 
+   12137, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   12876, 
+   12975, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   13035, 
+   13199, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   13470, 
+   13518, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   13663, 
+   13714, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   13977, 
+   14175, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  148302, 
+  [
+   14438, 
+   14641, 
+   {
+    "quote_id": 147450, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  142949, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 142718, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  142949, 
+  [
+   299, 
+   488, 
+   {}
+  ]
+ ], 
+ [
+  142949, 
+  [
+   1050, 
+   1267, 
+   {
+    "quote_id": 142718, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  142949, 
+  [
+   1320, 
+   1677, 
+   {
+    "quote_id": 142718, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  142949, 
+  [
+   2034, 
+   2091, 
+   {
+    "quote_id": 142718, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   285, 
+   1620, 
+   {}
+  ]
+ ], 
+ [
+  152400, 
+  [
+   1626, 
+   1781, 
+   {
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   2100, 
+   2234, 
+   {
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   2464, 
+   2715, 
+   {
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   2808, 
+   2881, 
+   {
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   3306, 
+   3364, 
+   {
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  152400, 
+  [
+   3398, 
+   3617, 
+   {
+    "quote_id": 152393, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  142161, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142064, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  142161, 
+  [
+   421, 
+   664, 
+   {
+    "quote_id": 142070, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   0, 
+   273, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   351, 
+   421, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   476, 
+   671, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   949, 
+   1505, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   1714, 
+   1813, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   2003, 
+   2275, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   2590, 
+   2660, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   2840, 
+   3105, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   3391, 
+   3544, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   3665, 
+   3784, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   4129, 
+   4264, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   4598, 
+   4933, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   5010, 
+   5166, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   5306, 
+   5634, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   5793, 
+   6683, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   6941, 
+   6983, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146830, 
+  [
+   7221, 
+   7391, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146793, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130905, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130762, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130402, 
+  [
+   0, 
+   81, 
+   {
+    "quote_id": 130399, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  142183, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 142161, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  145258, 
+  [
+   16, 
+   351, 
+   {
+    "quote_id": 143030, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  146749, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146731, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146749, 
+  [
+   694, 
+   823, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146731, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  146749, 
+  [
+   997, 
+   1144, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 146731, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130424, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130366, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130426, 
+  [
+   0, 
+   133, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130424, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155515, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 155505, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  142718, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142452, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  142718, 
+  [
+   297, 
+   403, 
+   {
+    "quote_id": 142452, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  142718, 
+  [
+   762, 
+   968, 
+   {
+    "quote_id": 142452, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  142718, 
+  [
+   1193, 
+   1554, 
+   {
+    "quote_id": 142452, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  142718, 
+  [
+   1919, 
+   2009, 
+   {
+    "quote_id": 142452, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  130431, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130424, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  146818, 
+  [
+   14, 
+   361, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  164995, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 164958, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  130438, 
+  [
+   0, 
+   491, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 130431, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  144705, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 144671, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  130442, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 130399, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  145803, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Squawker", 
+    "quote_id": 145639, 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  155533, 
+  [
+   0, 
+   94, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 155379, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155533, 
+  [
+   1126, 
+   1493, 
+   {
+    "quote_id": 155379, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155533, 
+  [
+   2249, 
+   2493, 
+   {
+    "quote_id": 155379, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155533, 
+  [
+   2597, 
+   2620, 
+   {
+    "quote_id": 155379, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  143758, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 143476, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143758, 
+  [
+   561, 
+   653, 
+   {}
+  ]
+ ], 
+ [
+  143758, 
+  [
+   1177, 
+   1280, 
+   {}
+  ]
+ ], 
+ [
+  143758, 
+  [
+   1534, 
+   1742, 
+   {}
+  ]
+ ], 
+ [
+  143758, 
+  [
+   2138, 
+   2710, 
+   {
+    "quote_id": 143476, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143758, 
+  [
+   3198, 
+   3629, 
+   {
+    "quote_id": 143476, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143758, 
+  [
+   4034, 
+   4209, 
+   {}
+  ]
+ ], 
+ [
+  143018, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 143014, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155538, 
+  [
+   0, 
+   657, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155533, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155538, 
+  [
+   1060, 
+   1277, 
+   {
+    "quote_id": 155533, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155538, 
+  [
+   1608, 
+   1746, 
+   {
+    "quote_id": 155533, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155538, 
+  [
+   2176, 
+   3024, 
+   {}
+  ]
+ ], 
+ [
+  142228, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142064, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  146839, 
+  [
+   0, 
+   1379, 
+   {
+    "raw_data": "Squawker", 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  157085, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 157061, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  146845, 
+  [
+   56, 
+   211, 
+   {
+    "quote_id": 146839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146845, 
+  [
+   365, 
+   727, 
+   {
+    "quote_id": 146839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146845, 
+  [
+   1145, 
+   1232, 
+   {
+    "quote_id": 146839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  146845, 
+  [
+   1354, 
+   1511, 
+   {
+    "quote_id": 146839, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  155553, 
+  [
+   0, 
+   393, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 155538, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155553, 
+  [
+   601, 
+   924, 
+   {
+    "quote_id": 155538, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155553, 
+  [
+   1524, 
+   1789, 
+   {
+    "quote_id": 155538, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155553, 
+  [
+   1872, 
+   2027, 
+   {
+    "quote_id": 155538, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155553, 
+  [
+   3146, 
+   3409, 
+   {
+    "quote_id": 155538, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155553, 
+  [
+   3461, 
+   3667, 
+   {
+    "quote_id": 155538, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155548, 
+  [
+   0, 
+   600, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 155515, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   458, 
+   1050, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   1204, 
+   1279, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   1479, 
+   1634, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   1852, 
+   2022, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   2207, 
+   2361, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   2568, 
+   3190, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   3457, 
+   3499, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155562, 
+  [
+   3580, 
+   3790, 
+   {
+    "quote_id": 155553, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  156523, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "Devils Advocate", 
+    "quote_id": 141315, 
+    "author": "Devils Advocate"
+   }
+  ]
+ ], 
+ [
+  145327, 
+  [
+   0, 
+   486, 
+   {
+    "raw_data": "Squawker", 
+    "author": "Squawker"
+   }
+  ]
+ ], 
+ [
+  155379, 
+  [
+   0, 
+   675, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155379, 
+  [
+   779, 
+   820, 
+   {
+    "quote_id": 155375, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130484, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130438, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130484, 
+  [
+   178, 
+   314, 
+   {
+    "quote_id": 130438, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  151996, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 150602, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  151996, 
+  [
+   544, 
+   991, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 150602, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  151996, 
+  [
+   1337, 
+   1420, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 150602, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  151996, 
+  [
+   1616, 
+   1746, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 150602, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   0, 
+   344, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   783, 
+   1041, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   1481, 
+   1522, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   1781, 
+   1817, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   2166, 
+   2331, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   2686, 
+   2800, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   2951, 
+   3092, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   3183, 
+   3451, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  144322, 
+  [
+   3646, 
+   3667, 
+   {
+    "quote_id": 143758, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  155081, 
+  [
+   0, 
+   1595, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 154643, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Eddie", 
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   503, 
+   622, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   1381, 
+   1642, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   2285, 
+   2449, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   2836, 
+   2913, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   3410, 
+   4861, 
+   {}
+  ]
+ ], 
+ [
+  146793, 
+  [
+   5787, 
+   5898, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  146793, 
+  [
+   6234, 
+   6390, 
+   {
+    "quote_id": 146749, 
+    "author": "Eddie"
+   }
+  ]
+ ], 
+ [
+  130511, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 130411, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  130513, 
+  [
+   0, 
+   491, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 130431, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  130514, 
+  [
+   0, 
+   836, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130438, 
+    "author": "Waxy"
+   }
+  ]
+ ], 
+ [
+  130516, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130514, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  130521, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130514, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  130522, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130511, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  130523, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "Redratio1", 
+    "quote_id": 130521, 
+    "author": "Redratio1"
+   }
+  ]
+ ], 
+ [
+  130526, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130523, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143327, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142949, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  130528, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 130523, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  145377, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  143335, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "Clive14", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143335, 
+  [
+   454, 
+   488, 
+   {
+    "quote_id": 143051, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143335, 
+  [
+   603, 
+   735, 
+   {
+    "quote_id": 143051, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143335, 
+  [
+   782, 
+   858, 
+   {
+    "quote_id": 143051, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143335, 
+  [
+   1031, 
+   1636, 
+   {}
+  ]
+ ], 
+ [
+  143335, 
+  [
+   1790, 
+   2158, 
+   {}
+  ]
+ ], 
+ [
+  143335, 
+  [
+   2206, 
+   2352, 
+   {}
+  ]
+ ], 
+ [
+  143335, 
+  [
+   2393, 
+   2567, 
+   {}
+  ]
+ ], 
+ [
+  165360, 
+  [
+   0, 
+   619, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 165218, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  142834, 
+  [
+   0, 
+   1028, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142183, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143017, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 142949, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143017, 
+  [
+   279, 
+   835, 
+   {
+    "quote_id": 142949, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143017, 
+  [
+   1034, 
+   1081, 
+   {
+    "quote_id": 142949, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  143017, 
+  [
+   1138, 
+   1417, 
+   {
+    "quote_id": 142949, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  144377, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 144322, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   180, 
+   301, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   486, 
+   652, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   780, 
+   938, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   1573, 
+   1825, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   2080, 
+   2203, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   2647, 
+   2793, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   3258, 
+   3476, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   3573, 
+   3827, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   4209, 
+   4369, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   4526, 
+   4640, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   4723, 
+   4788, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   5141, 
+   5407, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   5645, 
+   5751, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   6091, 
+   6158, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   6348, 
+   6612, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   6681, 
+   6868, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   6977, 
+   7417, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   7591, 
+   7832, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   8175, 
+   8269, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   8558, 
+   8834, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   8941, 
+   9278, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   9707, 
+   9835, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   10224, 
+   10388, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   10934, 
+   11107, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  147450, 
+  [
+   11431, 
+   11716, 
+   {
+    "raw_data": "gnojek", 
+    "quote_id": 147240, 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  130730, 
+  [
+   0, 
+   286, 
+   {
+    "raw_data": "Waxy", 
+    "quote_id": 130723, 
+    "author": "Waxy"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,615 @@
+[
+ [
+  28301, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Crim", 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  26626, 
+  [
+   0, 
+   13295, 
+   {
+    "raw_data": "Charchuk", 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  27273, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27258, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27273, 
+  [
+   144, 
+   235, 
+   {
+    "quote_id": 27258, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27273, 
+  [
+   375, 
+   517, 
+   {
+    "quote_id": 27258, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27273, 
+  [
+   549, 
+   636, 
+   {
+    "quote_id": 27258, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27273, 
+  [
+   813, 
+   1114, 
+   {
+    "quote_id": 27258, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27273, 
+  [
+   1161, 
+   1335, 
+   {
+    "quote_id": 27258, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  26636, 
+  [
+   0, 
+   951, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 26548, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  26637, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 26578, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  28302, 
+  [
+   0, 
+   380, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28238, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  28305, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 28282, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28305, 
+  [
+   613, 
+   804, 
+   {
+    "quote_id": 28282, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28305, 
+  [
+   888, 
+   979, 
+   {
+    "quote_id": 28282, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  179097, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "lord tammerlain", 
+    "quote_id": 179089, 
+    "author": "lord tammerlain"
+   }
+  ]
+ ], 
+ [
+  28228, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 28216, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  173210, 
+  [
+   0, 
+   951, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 26548, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28317, 
+  [
+   0, 
+   96, 
+   {
+    "quote_id": 28302, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  28317, 
+  [
+   204, 
+   240, 
+   {
+    "quote_id": 28302, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  28063, 
+  [
+   0, 
+   322, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 28052, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  28320, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Crim", 
+    "quote_id": 28317, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  28080, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 28063, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  173414, 
+  [
+   0, 
+   33, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 173224, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  27048, 
+  [
+   0, 
+   76, 
+   {
+    "quote_id": 26820, 
+    "author": "mizmaxx"
+   }
+  ]
+ ], 
+ [
+  28201, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "Robbie", 
+    "quote_id": 28142, 
+    "author": "Robbie"
+   }
+  ]
+ ], 
+ [
+  28062, 
+  [
+   0, 
+   156, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27986, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  26554, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 26552, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  173246, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Mr. Anderson", 
+    "quote_id": 173210, 
+    "author": "Mr. Anderson"
+   }
+  ]
+ ], 
+ [
+  28405, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 28302, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  26820, 
+  [
+   0, 
+   33, 
+   {
+    "quote_id": 26578, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  28229, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28228, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  28102, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 28080, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  179015, 
+  [
+   0, 
+   268, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 173353, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  179063, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 179041, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  28236, 
+  [
+   0, 
+   93, 
+   {
+    "quote_id": 28216, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  28236, 
+  [
+   116, 
+   199, 
+   {
+    "quote_id": 28216, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  28238, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Crim", 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  27087, 
+  [
+   0, 
+   611, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 26973, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27087, 
+  [
+   707, 
+   938, 
+   {
+    "quote_id": 26973, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27087, 
+  [
+   985, 
+   1225, 
+   {
+    "quote_id": 26973, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  28216, 
+  [
+   0, 
+   14, 
+   {
+    "raw_data": "Crim", 
+    "quote_id": 28214, 
+    "author": "Crim"
+   }
+  ]
+ ], 
+ [
+  28247, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 28201, 
+    "author": "Charchuk"
+   }
+  ]
+ ], 
+ [
+  26716, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 26672, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27233, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 27125, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27233, 
+  [
+   159, 
+   434, 
+   {
+    "quote_id": 27125, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27233, 
+  [
+   681, 
+   786, 
+   {
+    "quote_id": 27125, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27233, 
+  [
+   939, 
+   1089, 
+   {
+    "quote_id": 27125, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27233, 
+  [
+   1298, 
+   1543, 
+   {
+    "quote_id": 27125, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  27237, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Parcum", 
+    "quote_id": 27048, 
+    "author": "Parcum"
+   }
+  ]
+ ], 
+ [
+  26854, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Broker", 
+    "quote_id": 26840, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  26854, 
+  [
+   414, 
+   481, 
+   {
+    "quote_id": 26840, 
+    "author": "Broker"
+   }
+  ]
+ ], 
+ [
+  179089, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "coolcodemn3", 
+    "quote_id": 179015, 
+    "author": "coolcodemn3"
+   }
+  ]
+ ], 
+ [
+  173224, 
+  [
+   0, 
+   36, 
+   {
+    "raw_data": "Charchuk", 
+    "quote_id": 26636, 
+    "author": "Charchuk"
+   }
+  ]
+ ]
+]

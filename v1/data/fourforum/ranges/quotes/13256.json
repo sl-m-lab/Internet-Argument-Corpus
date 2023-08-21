@@ -1,0 +1,681 @@
+[
+ [
+  370048, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Easyrider;369950", 
+    "quote_id": 369950, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370433, 
+  [
+   0, 
+   32, 
+   {
+    "raw_data": "JPSartre12;370419", 
+    "quote_id": 370419, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  369410, 
+  [
+   0, 
+   502, 
+   {
+    "raw_data": "Mosheh Thezion;369326", 
+    "quote_id": 369326, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  370051, 
+  [
+   0, 
+   493, 
+   {
+    "raw_data": "jazyjason;370048", 
+    "quote_id": 370048, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  370180, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "JPSartre12;370051", 
+    "quote_id": 370051, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370439, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "gansao;370433", 
+    "quote_id": 370433, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369672, 
+  [
+   0, 
+   38, 
+   {
+    "quote_id": 369618, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  370441, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "JPSartre12;370439", 
+    "quote_id": 370439, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  369674, 
+  [
+   0, 
+   38, 
+   {
+    "raw_data": "smiley;369618", 
+    "quote_id": 369618, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  371479, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "trebor;370642", 
+    "quote_id": 370642, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  371479, 
+  [
+   110, 
+   205, 
+   {
+    "raw_data": "jazyjason;370666", 
+    "quote_id": 370666, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  371479, 
+  [
+   370, 
+   443, 
+   {
+    "raw_data": "jazyjason;370667", 
+    "quote_id": 370667, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  369676, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "Iuris;369672", 
+    "quote_id": 369672, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  370318, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gansao;370308", 
+    "quote_id": 370308, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  370449, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "gansao;370441", 
+    "quote_id": 370441, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  370324, 
+  [
+   0, 
+   152, 
+   {
+    "raw_data": "trebor;370282", 
+    "quote_id": 370282, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  370326, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "gansao;370308", 
+    "quote_id": 370308, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369562, 
+  [
+   0, 
+   647, 
+   {
+    "raw_data": "Mosheh Thezion;369485", 
+    "quote_id": 369485, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  370465, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "JPSartre12;370463", 
+    "quote_id": 370463, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  369950, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;369731", 
+    "quote_id": 369731, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  370463, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "gansao;370457", 
+    "quote_id": 370457, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369568, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "Accipiter;369524", 
+    "quote_id": 369524, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  370416, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "trebor;370371", 
+    "quote_id": 370371, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  370467, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "gansao;370465", 
+    "quote_id": 370465, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369317, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Easyrider;369255", 
+    "quote_id": 369255, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  369745, 
+  [
+   104, 
+   1112, 
+   {}
+  ]
+ ], 
+ [
+  370471, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "JPSartre12;370467", 
+    "quote_id": 370467, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370216, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "JPSartre12;370051", 
+    "quote_id": 370051, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  369326, 
+  [
+   0, 
+   271, 
+   {
+    "raw_data": "jazyjason;369317", 
+    "quote_id": 369317, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  369969, 
+  [
+   0, 
+   250, 
+   {
+    "raw_data": "Easyrider;369950", 
+    "quote_id": 369950, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370483, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "trebor;370481", 
+    "quote_id": 370481, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  369981, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "trebor;369969", 
+    "quote_id": 369969, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  369735, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;369731", 
+    "quote_id": 369731, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  369736, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone;369731", 
+    "quote_id": 369731, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  371529, 
+  [
+   651, 
+   691, 
+   {
+    "raw_data": "jazyjason;371450", 
+    "quote_id": 371450, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  369485, 
+  [
+   0, 
+   729, 
+   {
+    "raw_data": "jazyjason;369410", 
+    "quote_id": 369410, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  369617, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "Iuris;369513", 
+    "quote_id": 369513, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  369618, 
+  [
+   0, 
+   430, 
+   {
+    "raw_data": "Mosheh Thezion;369617", 
+    "quote_id": 369617, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ], 
+ [
+  369619, 
+  [
+   0, 
+   1180, 
+   {
+    "raw_data": "jazyjason;369562", 
+    "quote_id": 369562, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  370371, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Easyrider;370324", 
+    "quote_id": 370324, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370265, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "trebor;370180", 
+    "quote_id": 370180, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  370265, 
+  [
+   170, 
+   217, 
+   {
+    "raw_data": "jazyjason;370216", 
+    "quote_id": 370216, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  371450, 
+  [
+   0, 
+   651, 
+   {
+    "raw_data": "Easyrider;371448", 
+    "quote_id": 371448, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370666, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Easyrider;370416", 
+    "quote_id": 370416, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  371560, 
+  [
+   0, 
+   678, 
+   {
+    "raw_data": "Easyrider;371529", 
+    "quote_id": 371529, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370282, 
+  [
+   0, 
+   261, 
+   {
+    "raw_data": "JPSartre12;370265", 
+    "quote_id": 370265, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370667, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "JPSartre12;370483", 
+    "quote_id": 370483, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370642, 
+  [
+   0, 
+   16, 
+   {
+    "raw_data": "JPSartre12;370483", 
+    "quote_id": 370483, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  369520, 
+  [
+   0, 
+   175, 
+   {
+    "raw_data": "Accipiter;369426", 
+    "quote_id": 369426, 
+    "author": "Accipiter"
+   }
+  ]
+ ], 
+ [
+  370419, 
+  [
+   0, 
+   17, 
+   {
+    "raw_data": "gansao;370326", 
+    "quote_id": 370326, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  369524, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Easyrider;369520", 
+    "quote_id": 369520, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  370423, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Easyrider;370416", 
+    "quote_id": 370416, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  371448, 
+  [
+   120, 
+   215, 
+   {
+    "raw_data": "jazyjason;370666", 
+    "quote_id": 370666, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  370452, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "gansao;370441", 
+    "quote_id": 370441, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  370426, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "trebor;370423", 
+    "quote_id": 370423, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  370481, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "JPSartre12;370463", 
+    "quote_id": 370463, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  370047, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "Mosheh Thezion;369619", 
+    "quote_id": 369619, 
+    "author": "Mosheh Thezion"
+   }
+  ]
+ ]
+]

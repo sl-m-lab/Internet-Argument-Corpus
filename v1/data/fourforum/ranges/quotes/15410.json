@@ -1,0 +1,810 @@
+[
+ [
+  432770, 
+  [
+   61, 
+   136, 
+   {
+    "quote_id": 432785, 
+    "author": "xsnipe"
+   }
+  ]
+ ], 
+ [
+  432771, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "simone;432770", 
+    "quote_id": 432770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432773, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "simone;432770", 
+    "quote_id": 432770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432833, 
+  [
+   0, 
+   432, 
+   {
+    "raw_data": "Doc Jones;432827", 
+    "quote_id": 432827, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  432834, 
+  [
+   0, 
+   301, 
+   {
+    "raw_data": "Galileo;432833", 
+    "quote_id": 432833, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432838, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "Galileo;432836", 
+    "quote_id": 432836, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432785, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "simone;432770", 
+    "quote_id": 432770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432835, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "Doc Jones;432834", 
+    "quote_id": 432834, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  432278, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "sinjin;432215", 
+    "quote_id": 432215, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  432278, 
+  [
+   376, 
+   444, 
+   {
+    "raw_data": "Galileo;432240", 
+    "quote_id": 432240, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432279, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "Galileo;432244", 
+    "quote_id": 432244, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432817, 
+  [
+   0, 
+   518, 
+   {
+    "raw_data": "Doc Jones;432810", 
+    "quote_id": 432810, 
+    "author": "Doc Jones"
+   }
+  ]
+ ], 
+ [
+  432284, 
+  [
+   0, 
+   1259, 
+   {
+    "raw_data": "Tither;432278", 
+    "quote_id": 432278, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432284, 
+  [
+   2726, 
+   3370, 
+   {
+    "raw_data": "Tither;432279", 
+    "quote_id": 432279, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432289, 
+  [
+   0, 
+   1597, 
+   {
+    "raw_data": "Galileo;432284", 
+    "quote_id": 432284, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432290, 
+  [
+   0, 
+   413, 
+   {
+    "raw_data": "Charlie_XT;432287", 
+    "quote_id": 432287, 
+    "author": "Charlie_XT"
+   }
+  ]
+ ], 
+ [
+  432292, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Galileo;432284", 
+    "quote_id": 432284, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432292, 
+  [
+   129, 
+   200, 
+   {
+    "quote_id": 432278, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432292, 
+  [
+   1631, 
+   1904, 
+   {
+    "raw_data": "Bryan;418909", 
+    "unknown_quote_id": 418909, 
+    "unknown_author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  432165, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "IRSC;432154", 
+    "quote_id": 432154, 
+    "author": "IRSC"
+   }
+  ]
+ ], 
+ [
+  432843, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "Galileo;432836", 
+    "quote_id": 432836, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432807, 
+  [
+   61, 
+   136, 
+   {
+    "quote_id": 432785, 
+    "author": "xsnipe"
+   }
+  ]
+ ], 
+ [
+  432807, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "simone;432770", 
+    "quote_id": 432770, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432810, 
+  [
+   0, 
+   832, 
+   {
+    "raw_data": "Galileo;432807", 
+    "quote_id": 432807, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432711, 
+  [
+   0, 
+   729, 
+   {
+    "raw_data": "simone;432111", 
+    "quote_id": 432111, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432175, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Charlie_XT;432114", 
+    "quote_id": 432114, 
+    "author": "Charlie_XT"
+   }
+  ]
+ ], 
+ [
+  432176, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Tither;432165", 
+    "quote_id": 432165, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432176, 
+  [
+   122, 
+   622, 
+   {}
+  ]
+ ], 
+ [
+  432177, 
+  [
+   0, 
+   439, 
+   {
+    "raw_data": "IRSC;432154", 
+    "quote_id": 432154, 
+    "author": "IRSC"
+   }
+  ]
+ ], 
+ [
+  432820, 
+  [
+   116, 
+   1077, 
+   {}
+  ]
+ ], 
+ [
+  432181, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "simone;432175", 
+    "quote_id": 432175, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432181, 
+  [
+   317, 
+   448, 
+   {
+    "quote_id": 432175, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432181, 
+  [
+   564, 
+   689, 
+   {
+    "quote_id": 432175, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432181, 
+  [
+   1212, 
+   1359, 
+   {
+    "quote_id": 432175, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432181, 
+  [
+   1518, 
+   1564, 
+   {
+    "raw_data": "simone;432177", 
+    "quote_id": 432177, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432311, 
+  [
+   711, 
+   1651, 
+   {}
+  ]
+ ], 
+ [
+  432825, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Galileo;432823", 
+    "quote_id": 432823, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432825, 
+  [
+   155, 
+   1319, 
+   {
+    "quote_id": 432823, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432829, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Galileo;432823", 
+    "quote_id": 432823, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432821, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Galileo;432817", 
+    "quote_id": 432817, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432832, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Galileo;432817", 
+    "quote_id": 432817, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432193, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "Charlie_XT;432181", 
+    "quote_id": 432181, 
+    "author": "Charlie_XT"
+   }
+  ]
+ ], 
+ [
+  432195, 
+  [
+   0, 
+   66, 
+   {
+    "raw_data": "simone;432188", 
+    "quote_id": 432188, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432837, 
+  [
+   0, 
+   64, 
+   {
+    "raw_data": "Galileo;432817", 
+    "quote_id": 432817, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432837, 
+  [
+   188, 
+   1028, 
+   {}
+  ]
+ ], 
+ [
+  432198, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "simone;432196", 
+    "quote_id": 432196, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432198, 
+  [
+   176, 
+   394, 
+   {
+    "raw_data": "simone;396219", 
+    "unknown_quote_id": 396219, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432198, 
+  [
+   426, 
+   559, 
+   {
+    "quote_id": 432196, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432198, 
+  [
+   663, 
+   799, 
+   {
+    "quote_id": 432196, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432840, 
+  [
+   0, 
+   388, 
+   {
+    "raw_data": "Galileo;432836", 
+    "quote_id": 432836, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432201, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "simone;432199", 
+    "quote_id": 432199, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432823, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Tither;432820", 
+    "quote_id": 432820, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432211, 
+  [
+   510, 
+   669, 
+   {
+    "quote_id": 432278, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432211, 
+  [
+   1139, 
+   1289, 
+   {}
+  ]
+ ], 
+ [
+  432349, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Tither;432165", 
+    "quote_id": 432165, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432228, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "sinjin;432215", 
+    "quote_id": 432215, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  432230, 
+  [
+   142, 
+   181, 
+   {}
+  ]
+ ], 
+ [
+  432230, 
+  [
+   684, 
+   1003, 
+   {}
+  ]
+ ], 
+ [
+  432230, 
+  [
+   1109, 
+   1168, 
+   {}
+  ]
+ ], 
+ [
+  432304, 
+  [
+   0, 
+   208, 
+   {
+    "raw_data": "Galileo;432244", 
+    "quote_id": 432244, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432238, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "simone;432206", 
+    "quote_id": 432206, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432240, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "sinjin;432215", 
+    "quote_id": 432215, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  432241, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Galileo;432240", 
+    "quote_id": 432240, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432114, 
+  [
+   74, 
+   134, 
+   {
+    "raw_data": "simone;432111", 
+    "quote_id": 432111, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432114, 
+  [
+   140, 
+   438, 
+   {
+    "quote_id": 432111, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432114, 
+  [
+   687, 
+   973, 
+   {
+    "quote_id": 432111, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  432244, 
+  [
+   145, 
+   183, 
+   {}
+  ]
+ ], 
+ [
+  432244, 
+  [
+   690, 
+   1003, 
+   {}
+  ]
+ ], 
+ [
+  432244, 
+  [
+   1110, 
+   1166, 
+   {}
+  ]
+ ], 
+ [
+  432244, 
+  [
+   0, 
+   1222, 
+   {
+    "raw_data": "Tither;432230", 
+    "quote_id": 432230, 
+    "author": "Tither"
+   }
+  ]
+ ], 
+ [
+  432246, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Galileo;432244", 
+    "quote_id": 432244, 
+    "author": "Galileo"
+   }
+  ]
+ ], 
+ [
+  432247, 
+  [
+   0, 
+   1668, 
+   {
+    "raw_data": "Superlite27;432229", 
+    "quote_id": 432229, 
+    "author": "Superlite27"
+   }
+  ]
+ ]
+]

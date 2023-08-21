@@ -1,0 +1,2225 @@
+[
+ [
+  217601, 
+  [
+   0, 
+   53, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217505, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217601, 
+  [
+   200, 
+   445, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217505, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217601, 
+  [
+   565, 
+   579, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217505, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217602, 
+  [
+   0, 
+   137, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217601, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217602, 
+  [
+   322, 
+   434, 
+   {
+    "quote_id": 217601, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217602, 
+  [
+   654, 
+   665, 
+   {
+    "quote_id": 217601, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217602, 
+  [
+   681, 
+   726, 
+   {
+    "quote_id": 217452, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217603, 
+  [
+   0, 
+   995, 
+   {
+    "raw_data": "Prototype", 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  216150, 
+  [
+   0, 
+   441, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216037, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  217607, 
+  [
+   0, 
+   337, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217429, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217607, 
+  [
+   726, 
+   1178, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217429, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217607, 
+  [
+   2385, 
+   2466, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217429, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217607, 
+  [
+   2580, 
+   2930, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217494, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217607, 
+  [
+   3434, 
+   3454, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217494, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  222738, 
+  [
+   0, 
+   205, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222609, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222739, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 222619, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  222740, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 222669, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216597, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Phyllis", 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  216608, 
+  [
+   0, 
+   31, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216597, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  222755, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222738, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222763, 
+  [
+   0, 
+   184, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222755, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222766, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222763, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222609, 
+  [
+   0, 
+   359, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222603, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217267, 
+  [
+   0, 
+   201, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217062, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217267, 
+  [
+   1395, 
+   1906, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217256, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217267, 
+  [
+   3315, 
+   3480, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 217063, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216140, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 216125, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216140, 
+  [
+   90, 
+   186, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 216125, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216140, 
+  [
+   219, 
+   277, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 216125, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216140, 
+  [
+   310, 
+   347, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 216125, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  218190, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217939, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  218190, 
+  [
+   1864, 
+   2020, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217939, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217168, 
+  [
+   0, 
+   933, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216866, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217168, 
+  [
+   1442, 
+   1680, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216866, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222803, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222766, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  217174, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217081, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217174, 
+  [
+   788, 
+   1683, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217081, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217174, 
+  [
+   2342, 
+   2814, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217081, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  216151, 
+  [
+   0, 
+   260, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 216125, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  222810, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222803, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217692, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217602, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217692, 
+  [
+   795, 
+   1006, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217602, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217692, 
+  [
+   1099, 
+   1151, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217602, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  216158, 
+  [
+   0, 
+   646, 
+   {
+    "raw_data": "Phyllis", 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  216680, 
+  [
+   0, 
+   20, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216608, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  222832, 
+  [
+   0, 
+   58, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222810, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  216692, 
+  [
+   0, 
+   100, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216680, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216692, 
+  [
+   401, 
+   428, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216680, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  222848, 
+  [
+   0, 
+   1237, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222832, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222853, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222848, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222855, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222853, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222865, 
+  [
+   0, 
+   288, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222855, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222876, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222865, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222876, 
+  [
+   86, 
+   226, 
+   {
+    "quote_id": 222865, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222876, 
+  [
+   248, 
+   432, 
+   {
+    "quote_id": 222865, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  225958, 
+  [
+   0, 
+   234, 
+   {
+    "raw_data": "masterjedishane", 
+    "quote_id": 225839, 
+    "author": "masterjedishane"
+   }
+  ]
+ ], 
+ [
+  216744, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216692, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  217257, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217174, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217257, 
+  [
+   427, 
+   1076, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217174, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217259, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217168, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  222895, 
+  [
+   0, 
+   285, 
+   {
+    "raw_data": "Steeeeve", 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222895, 
+  [
+   466, 
+   1905, 
+   {}
+  ]
+ ], 
+ [
+  216752, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 216744, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  216752, 
+  [
+   450, 
+   559, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 216744, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  216243, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 216158, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216243, 
+  [
+   208, 
+   425, 
+   {
+    "quote_id": 216158, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216760, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216692, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  222909, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222895, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  216779, 
+  [
+   0, 
+   363, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216752, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  216779, 
+  [
+   468, 
+   849, 
+   {
+    "quote_id": 216752, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  216779, 
+  [
+   901, 
+   1337, 
+   {
+    "quote_id": 216752, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  217294, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  223181, 
+  [
+   0, 
+   99, 
+   {
+    "quote_id": 223142, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  216787, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216760, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216787, 
+  [
+   310, 
+   456, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216760, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216787, 
+  [
+   744, 
+   841, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216779, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216787, 
+  [
+   1085, 
+   1128, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216779, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  222587, 
+  [
+   0, 
+   89, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222558, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  216804, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216458, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  216804, 
+  [
+   465, 
+   1068, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216458, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  216817, 
+  [
+   0, 
+   1453, 
+   {
+    "raw_data": "Phyllis", 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  217848, 
+  [
+   0, 
+   167, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217691, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217848, 
+  [
+   795, 
+   1701, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217691, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217337, 
+  [
+   0, 
+   846, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216883, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217340, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 217337, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  217354, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217354, 
+  [
+   474, 
+   547, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217377, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  216866, 
+  [
+   0, 
+   2409, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 216804, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217393, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217340, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  222515, 
+  [
+   0, 
+   76, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 214321, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  214316, 
+  [
+   15, 
+   162, 
+   {}
+  ]
+ ], 
+ [
+  214316, 
+  [
+   282, 
+   351, 
+   {}
+  ]
+ ], 
+ [
+  216877, 
+  [
+   0, 
+   236, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216787, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  216883, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "Phyllis", 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  222521, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222515, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217914, 
+  [
+   2, 
+   127, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217691, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217914, 
+  [
+   313, 
+   414, 
+   {
+    "quote_id": 217692, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217914, 
+  [
+   509, 
+   591, 
+   {
+    "quote_id": 217692, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217914, 
+  [
+   891, 
+   1414, 
+   {
+    "quote_id": 217692, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  222534, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222522, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217417, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217420, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217420, 
+  [
+   164, 
+   260, 
+   {
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217938, 
+  [
+   0, 
+   177, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217914, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217938, 
+  [
+   1639, 
+   1725, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217914, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217938, 
+  [
+   1988, 
+   2278, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217914, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217938, 
+  [
+   3042, 
+   3707, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217914, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217939, 
+  [
+   0, 
+   623, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217848, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217939, 
+  [
+   821, 
+   1728, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217848, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217429, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217429, 
+  [
+   543, 
+   828, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217429, 
+  [
+   1437, 
+   1592, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217429, 
+  [
+   2226, 
+   2411, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217402, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  222553, 
+  [
+   0, 
+   157, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222534, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  217434, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217256, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217434, 
+  [
+   683, 
+   1195, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217256, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  217434, 
+  [
+   1601, 
+   1687, 
+   {
+    "raw_data": "thelmoose", 
+    "quote_id": 217256, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  223579, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 223215, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223579, 
+  [
+   361, 
+   430, 
+   {
+    "quote_id": 223215, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223579, 
+  [
+   444, 
+   507, 
+   {
+    "quote_id": 223215, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222558, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222553, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  223205, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 223197, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  223205, 
+  [
+   230, 
+   284, 
+   {
+    "quote_id": 223197, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  223205, 
+  [
+   418, 
+   584, 
+   {
+    "quote_id": 223197, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  223205, 
+  [
+   650, 
+   879, 
+   {
+    "quote_id": 223197, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217442, 
+  [
+   0, 
+   453, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217257, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217442, 
+  [
+   770, 
+   1430, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217257, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217442, 
+  [
+   1796, 
+   2130, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 217257, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217449, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217442, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217452, 
+  [
+   0, 
+   544, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217452, 
+  [
+   759, 
+   1254, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217452, 
+  [
+   1654, 
+   2349, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  223098, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222739, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217467, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217452, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217980, 
+  [
+   0, 
+   202, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217938, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217980, 
+  [
+   365, 
+   1611, 
+   {
+    "quote_id": 217938, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217980, 
+  [
+   1755, 
+   2008, 
+   {
+    "quote_id": 217938, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217980, 
+  [
+   2300, 
+   3054, 
+   {
+    "quote_id": 217938, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217980, 
+  [
+   3115, 
+   3749, 
+   {
+    "quote_id": 217938, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  222594, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222587, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222595, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222594, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222595, 
+  [
+   518, 
+   5775, 
+   {}
+  ]
+ ], 
+ [
+  222599, 
+  [
+   0, 
+   572, 
+   {
+    "raw_data": "happygrl35", 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  222603, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222599, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  214417, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Mickey Shane", 
+    "quote_id": 214412, 
+    "author": "Mickey Shane"
+   }
+  ]
+ ], 
+ [
+  216467, 
+  [
+   0, 
+   768, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216458, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  217494, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217267, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217494, 
+  [
+   444, 
+   540, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217607, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  222619, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "happygrl35", 
+    "quote_id": 222522, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217505, 
+  [
+   0, 
+   849, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217452, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  223142, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222909, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  217513, 
+  [
+   0, 
+   27, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217452, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   183, 
+   318, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   463, 
+   746, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   1020, 
+   1072, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   1097, 
+   1283, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   1328, 
+   1769, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  218030, 
+  [
+   1982, 
+   2108, 
+   {
+    "raw_data": "Bell", 
+    "quote_id": 217980, 
+    "author": "Bell"
+   }
+  ]
+ ], 
+ [
+  217529, 
+  [
+   0, 
+   850, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217452, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217529, 
+  [
+   1020, 
+   1200, 
+   {
+    "raw_data": "1 Kings chapter 18 verse 40", 
+    "unknown_author": "1 Kings chapter 18 verse 40"
+   }
+  ]
+ ], 
+ [
+  222668, 
+  [
+   0, 
+   212, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 222599, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  222670, 
+  [
+   0, 
+   263, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 222619, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  216529, 
+  [
+   0, 
+   85, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216467, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216537, 
+  [
+   0, 
+   466, 
+   {
+    "raw_data": "Phyllis", 
+    "quote_id": 216529, 
+    "author": "Phyllis"
+   }
+  ]
+ ], 
+ [
+  223197, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 223181, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  216033, 
+  [
+   13, 
+   160, 
+   {}
+  ]
+ ], 
+ [
+  216033, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "simone", 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216033, 
+  [
+   372, 
+   482, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 214316, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  217059, 
+  [
+   0, 
+   168, 
+   {
+    "raw_data": "Another opinion", 
+    "quote_id": 216883, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  216037, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 214424, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  216037, 
+  [
+   277, 
+   640, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 215887, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217062, 
+  [
+   0, 
+   146, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217059, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217063, 
+  [
+   0, 
+   143, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217059, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  216552, 
+  [
+   0, 
+   51, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216537, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  216552, 
+  [
+   61, 
+   108, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 216537, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  223210, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "Steeeeve", 
+    "quote_id": 223205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223210, 
+  [
+   302, 
+   429, 
+   {
+    "quote_id": 223205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223210, 
+  [
+   550, 
+   611, 
+   {
+    "quote_id": 223205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223210, 
+  [
+   629, 
+   747, 
+   {
+    "quote_id": 223205, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  223215, 
+  [
+   0, 
+   157, 
+   {
+    "quote_id": 223210, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  223215, 
+  [
+   313, 
+   428, 
+   {
+    "quote_id": 223210, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  223215, 
+  [
+   502, 
+   565, 
+   {
+    "quote_id": 223210, 
+    "author": "happygrl35"
+   }
+  ]
+ ], 
+ [
+  217256, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 217174, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217256, 
+  [
+   491, 
+   688, 
+   {
+    "raw_data": "prototype", 
+    "quote_id": 217174, 
+    "unknown_author": "prototype", 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217081, 
+  [
+   0, 
+   1043, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217059, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  222522, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Prototype", 
+    "quote_id": 222521, 
+    "author": "Prototype"
+   }
+  ]
+ ], 
+ [
+  217599, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217529, 
+    "author": "wallninja"
+   }
+  ]
+ ], 
+ [
+  217599, 
+  [
+   546, 
+   1043, 
+   {
+    "raw_data": "wallninja", 
+    "quote_id": 217529, 
+    "author": "wallninja"
+   }
+  ]
+ ]
+]

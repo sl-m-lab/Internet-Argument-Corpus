@@ -1,0 +1,609 @@
+[
+ [
+  10754, 
+  [
+   0, 
+   102, 
+   {
+    "quote_id": 10730, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  10754, 
+  [
+   182, 
+   312, 
+   {
+    "quote_id": 10730, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  14878, 
+  [
+   0, 
+   1878, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 14856, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14879, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "lurch", 
+    "quote_id": 14878, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  10530, 
+  [
+   0, 
+   260, 
+   {}
+  ]
+ ], 
+ [
+  10545, 
+  [
+   0, 
+   260, 
+   {}
+  ]
+ ], 
+ [
+  12980, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 12933, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  12980, 
+  [
+   321, 
+   483, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 12933, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  12980, 
+  [
+   906, 
+   1050, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 12933, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  12980, 
+  [
+   1331, 
+   1560, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 12933, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  14905, 
+  [
+   0, 
+   52, 
+   {
+    "raw_data": "lurch", 
+    "quote_id": 14896, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  14905, 
+  [
+   390, 
+   686, 
+   {
+    "quote_id": 14896, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  14905, 
+  [
+   1294, 
+   1449, 
+   {
+    "quote_id": 14896, 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  14790, 
+  [
+   156, 
+   306, 
+   {
+    "quote_id": 14768, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14790, 
+  [
+   979, 
+   1044, 
+   {
+    "quote_id": 14769, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   0, 
+   26, 
+   {
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   97, 
+   111, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   179, 
+   271, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   387, 
+   451, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   511, 
+   603, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   664, 
+   815, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   1031, 
+   1187, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   1364, 
+   1640, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   1917, 
+   2013, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   2349, 
+   2392, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   2545, 
+   2609, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  14793, 
+  [
+   2882, 
+   2918, 
+   {
+    "quote_id": 14771, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  11214, 
+  [
+   0, 
+   1030, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 11210, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13392, 
+  [
+   0, 
+   1514, 
+   {
+    "raw_data": "lurch", 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  13266, 
+  [
+   0, 
+   118, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 13217, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13266, 
+  [
+   381, 
+   407, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 13217, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13266, 
+  [
+   498, 
+   540, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 13217, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13266, 
+  [
+   698, 
+   750, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 13217, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13266, 
+  [
+   842, 
+   974, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 13217, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13266, 
+  [
+   1652, 
+   1836, 
+   {
+    "raw_data": "lappster", 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "notsofast", 
+    "quote_id": 13392, 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   224, 
+   260, 
+   {
+    "raw_data": "badinformation", 
+    "quote_id": 13392, 
+    "unknown_author": "badinformation", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   624, 
+   701, 
+   {
+    "raw_data": "justsostory", 
+    "quote_id": 13392, 
+    "unknown_author": "justsostory", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   803, 
+   838, 
+   {
+    "raw_data": "itmustbeamiracle", 
+    "quote_id": 13392, 
+    "unknown_author": "itmustbeamiracle", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   934, 
+   1045, 
+   {
+    "raw_data": "finallysomethingtrue", 
+    "quote_id": 13392, 
+    "unknown_author": "finallysomethingtrue", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   1679, 
+   2028, 
+   {
+    "raw_data": "emotionalclaptrap", 
+    "quote_id": 13392, 
+    "unknown_author": "emotionalclaptrap", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   2219, 
+   2325, 
+   {
+    "raw_data": "emotionalclaptrap", 
+    "quote_id": 13392, 
+    "unknown_author": "emotionalclaptrap", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   2372, 
+   2519, 
+   {
+    "raw_data": "confusessciencewithmorality", 
+    "quote_id": 13392, 
+    "unknown_author": "confusessciencewithmorality", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   2625, 
+   2800, 
+   {
+    "raw_data": "misstatementoftheory", 
+    "quote_id": 13392, 
+    "unknown_author": "misstatementoftheory", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   3214, 
+   3580, 
+   {
+    "raw_data": "moreclaptrap", 
+    "quote_id": 13392, 
+    "unknown_author": "moreclaptrap", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13399, 
+  [
+   3886, 
+   4033, 
+   {
+    "raw_data": "confused", 
+    "quote_id": 13392, 
+    "unknown_author": "confused", 
+    "author": "notsofast"
+   }
+  ]
+ ], 
+ [
+  13407, 
+  [
+   0, 
+   2706, 
+   {
+    "raw_data": "lurch", 
+    "author": "lurch"
+   }
+  ]
+ ], 
+ [
+  10081, 
+  [
+   0, 
+   750, 
+   {
+    "quote_id": 9996, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  14896, 
+  [
+   0, 
+   228, 
+   {
+    "quote_id": 14879, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  14896, 
+  [
+   286, 
+   493, 
+   {
+    "quote_id": 14879, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  14896, 
+  [
+   1402, 
+   1504, 
+   {
+    "quote_id": 14879, 
+    "author": "AMD4EVER"
+   }
+  ]
+ ], 
+ [
+  10602, 
+  [
+   0, 
+   131, 
+   {}
+  ]
+ ], 
+ [
+  10603, 
+  [
+   0, 
+   110, 
+   {
+    "quote_id": 10600, 
+    "author": "lappster"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,918 @@
+[
+ [
+  284179, 
+  [
+   0, 
+   1110, 
+   {
+    "raw_data": "Winston Smith;284053", 
+    "quote_id": 284053, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  281691, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Winston Smith;281623", 
+    "quote_id": 281623, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  268325, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "smiley;268117", 
+    "quote_id": 268117, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  283996, 
+  [
+   0, 
+   227, 
+   {
+    "raw_data": "Winston Smith;281623", 
+    "quote_id": 281623, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  268348, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "chemist99a;268294", 
+    "quote_id": 268294, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  268348, 
+  [
+   324, 
+   491, 
+   {
+    "quote_id": 268294, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284231, 
+  [
+   0, 
+   241, 
+   {}
+  ]
+ ], 
+ [
+  284232, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "chemist99a;284230", 
+    "quote_id": 284230, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284242, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "peteratwar;284227", 
+    "quote_id": 284227, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  284243, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "peteratwar;284232", 
+    "quote_id": 284232, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  284245, 
+  [
+   0, 
+   218, 
+   {
+    "raw_data": "Winston Smith;284243", 
+    "quote_id": 284243, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  270095, 
+  [
+   0, 
+   289, 
+   {
+    "raw_data": "snakespit;270014", 
+    "quote_id": 270014, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  268382, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Shooterandproud;268285", 
+    "quote_id": 268285, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  268385, 
+  [
+   0, 
+   881, 
+   {
+    "raw_data": "VTCruiser;268108", 
+    "quote_id": 268108, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  270014, 
+  [
+   0, 
+   378, 
+   {
+    "raw_data": "Another opinion;269969", 
+    "quote_id": 269969, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  271481, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Winston Smith;271326", 
+    "quote_id": 271326, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  284287, 
+  [
+   0, 
+   127, 
+   {
+    "raw_data": "chemist99a;284230", 
+    "quote_id": 284230, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  268419, 
+  [
+   0, 
+   680, 
+   {
+    "raw_data": "VTCruiser;268042", 
+    "quote_id": 268042, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  269958, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "snakespit;268961", 
+    "quote_id": 268961, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  284298, 
+  [
+   0, 
+   153, 
+   {
+    "quote_id": 284287, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  284303, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "chemist99a;284298", 
+    "quote_id": 284298, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  271504, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Winston Smith;271490", 
+    "quote_id": 271490, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  269969, 
+  [
+   0, 
+   454, 
+   {
+    "raw_data": "snakespit;268952", 
+    "quote_id": 268952, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  268952, 
+  [
+   0, 
+   725, 
+   {
+    "raw_data": "Another opinion;268638", 
+    "quote_id": 268638, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  268954, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "Shooterandproud;268285", 
+    "quote_id": 268285, 
+    "author": "Shooterandproud"
+   }
+  ]
+ ], 
+ [
+  284317, 
+  [
+   0, 
+   153, 
+   {
+    "raw_data": "JPSartre12;284287", 
+    "quote_id": 284287, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  284319, 
+  [
+   0, 
+   550, 
+   {
+    "quote_id": 284303, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  268961, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "Another opinion;268636", 
+    "quote_id": 268636, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  271526, 
+  [
+   0, 
+   81, 
+   {
+    "raw_data": "JPSartre12;271481", 
+    "quote_id": 271481, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  271529, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "Winston Smith;271490", 
+    "quote_id": 271490, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  271033, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Another opinion;270095", 
+    "quote_id": 270095, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  270012, 
+  [
+   0, 
+   382, 
+   {
+    "raw_data": "Another opinion;269958", 
+    "quote_id": 269958, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  270012, 
+  [
+   1053, 
+   1254, 
+   {
+    "quote_id": 269958, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  270012, 
+  [
+   1260, 
+   1572, 
+   {
+    "raw_data": "snakespit", 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  284350, 
+  [
+   0, 
+   15, 
+   {
+    "raw_data": "peteratwar;284245", 
+    "quote_id": 284245, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  284351, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "peteratwar;284244", 
+    "quote_id": 284244, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  271560, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "snakespit;271526", 
+    "quote_id": 271526, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  288473, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "chemist99a;284319", 
+    "quote_id": 284319, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284394, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "Winston Smith;284351", 
+    "quote_id": 284351, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  270092, 
+  [
+   0, 
+   663, 
+   {
+    "raw_data": "snakespit;270012", 
+    "quote_id": 270012, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  270092, 
+  [
+   1262, 
+   1296, 
+   {
+    "raw_data": "snakespit", 
+    "quote_id": 270012, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  288527, 
+  [
+   0, 
+   203, 
+   {
+    "raw_data": "thecap0;288514", 
+    "quote_id": 288514, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  268071, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "chemist99a;268056", 
+    "quote_id": 268056, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  281392, 
+  [
+   0, 
+   63, 
+   {
+    "raw_data": "Winston Smith;281322", 
+    "quote_id": 281322, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  270129, 
+  [
+   0, 
+   307, 
+   {
+    "raw_data": "Another opinion;270092", 
+    "quote_id": 270092, 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  270129, 
+  [
+   978, 
+   1263, 
+   {
+    "raw_data": "A o", 
+    "quote_id": 270092, 
+    "unknown_author": "A o", 
+    "author": "Another opinion"
+   }
+  ]
+ ], 
+ [
+  270129, 
+  [
+   2291, 
+   2766, 
+   {}
+  ]
+ ], 
+ [
+  288569, 
+  [
+   0, 
+   220, 
+   {
+    "raw_data": "thecap0;288567", 
+    "quote_id": 288567, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  288569, 
+  [
+   724, 
+   934, 
+   {
+    "quote_id": 288567, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  283968, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "samiinh;281774", 
+    "quote_id": 281774, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  288577, 
+  [
+   0, 
+   187, 
+   {
+    "raw_data": "thecap0;288575", 
+    "quote_id": 288575, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  283970, 
+  [
+   0, 
+   726, 
+   {
+    "raw_data": "Axolotl;281658", 
+    "quote_id": 281658, 
+    "author": "Axolotl"
+   }
+  ]
+ ], 
+ [
+  283973, 
+  [
+   0, 
+   84, 
+   {
+    "raw_data": "Steeeeve;281691", 
+    "quote_id": 281691, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  268108, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "chemist99a;268056", 
+    "quote_id": 268056, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  268117, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "snakespit;268071", 
+    "quote_id": 268071, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  268636, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "snakespit;268071", 
+    "quote_id": 268071, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  268639, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "Steeeeve;268325", 
+    "quote_id": 268325, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  268129, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "Symbiote;268066", 
+    "quote_id": 268066, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  268129, 
+  [
+   687, 
+   866, 
+   {
+    "quote_id": 268066, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  268129, 
+  [
+   1097, 
+   1874, 
+   {
+    "quote_id": 268066, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  284517, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "samiinh;284317", 
+    "quote_id": 284317, 
+    "author": "samiinh"
+   }
+  ]
+ ], 
+ [
+  284517, 
+  [
+   468, 
+   1166, 
+   {
+    "raw_data": "chemist99a;284319", 
+    "quote_id": 284319, 
+    "author": "chemist99a"
+   }
+  ]
+ ], 
+ [
+  284517, 
+  [
+   1383, 
+   1708, 
+   {
+    "raw_data": "Winston Smith;284350", 
+    "quote_id": 284350, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  284519, 
+  [
+   0, 
+   84, 
+   {
+    "quote_id": 284517, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  281322, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "peteratwar;271529", 
+    "quote_id": 271529, 
+    "author": "peteratwar"
+   }
+  ]
+ ], 
+ [
+  288646, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "thecap0;288593", 
+    "quote_id": 288593, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  268174, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "smiley;268117", 
+    "quote_id": 268117, 
+    "author": "smiley"
+   }
+  ]
+ ], 
+ [
+  268715, 
+  [
+   0, 
+   61, 
+   {
+    "raw_data": "VTCruiser;268385", 
+    "quote_id": 268385, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  288730, 
+  [
+   0, 
+   207, 
+   {
+    "raw_data": "thecap0;288665", 
+    "quote_id": 288665, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  288730, 
+  [
+   456, 
+   534, 
+   {
+    "quote_id": 288665, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  271326, 
+  [
+   0, 
+   1876, 
+   {
+    "raw_data": "snakespit;270129", 
+    "quote_id": 270129, 
+    "author": "snakespit"
+   }
+  ]
+ ], 
+ [
+  268285, 
+  [
+   0, 
+   6704, 
+   {
+    "raw_data": "VTCruiser;268042", 
+    "quote_id": 268042, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  288758, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "thecap0;288734", 
+    "quote_id": 288734, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  288764, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "thecap0;288733", 
+    "quote_id": 288733, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  288764, 
+  [
+   228, 
+   420, 
+   {
+    "quote_id": 288733, 
+    "author": "thecap0"
+   }
+  ]
+ ], 
+ [
+  284157, 
+  [
+   0, 
+   179, 
+   {
+    "raw_data": "VTCruiser;284137", 
+    "quote_id": 284137, 
+    "author": "VTCruiser"
+   }
+  ]
+ ], 
+ [
+  268287, 
+  [
+   0, 
+   92, 
+   {
+    "quote_id": 268129, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  268287, 
+  [
+   548, 
+   639, 
+   {
+    "quote_id": 268129, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,383 @@
+[
+ [
+  95881, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95788, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95881, 
+  [
+   345, 
+   841, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95788, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95881, 
+  [
+   1131, 
+   1802, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95788, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95788, 
+  [
+   0, 
+   251, 
+   {
+    "raw_data": "voiceofreason", 
+    "quote_id": 95609, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  95788, 
+  [
+   469, 
+   856, 
+   {
+    "quote_id": 95609, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  95788, 
+  [
+   1360, 
+   2016, 
+   {
+    "quote_id": 95609, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  95788, 
+  [
+   2217, 
+   3187, 
+   {
+    "quote_id": 95609, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  95790, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "voiceofreason", 
+    "quote_id": 95608, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  95790, 
+  [
+   270, 
+   729, 
+   {}
+  ]
+ ], 
+ [
+  95790, 
+  [
+   1336, 
+   1528, 
+   {}
+  ]
+ ], 
+ [
+  95790, 
+  [
+   1571, 
+   1750, 
+   {}
+  ]
+ ], 
+ [
+  95535, 
+  [
+   0, 
+   315, 
+   {
+    "quote_id": 95230, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  95888, 
+  [
+   0, 
+   516, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95790, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95888, 
+  [
+   548, 
+   1226, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95888, 
+  [
+   1394, 
+   1789, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95790, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95888, 
+  [
+   2037, 
+   2726, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95790, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  96952, 
+  [
+   0, 
+   1335, 
+   {
+    "raw_data": "voiceofreason", 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  95605, 
+  [
+   0, 
+   316, 
+   {
+    "quote_id": 95603, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  95605, 
+  [
+   1103, 
+   1757, 
+   {
+    "quote_id": 95603, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  95605, 
+  [
+   2768, 
+   3212, 
+   {
+    "quote_id": 95603, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  95605, 
+  [
+   4052, 
+   4430, 
+   {
+    "quote_id": 95603, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  96342, 
+  [
+   0, 
+   430, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 96111, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  96342, 
+  [
+   837, 
+   977, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 96111, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  96342, 
+  [
+   1162, 
+   1478, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 96111, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  96342, 
+  [
+   2065, 
+   3253, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 96119, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  96342, 
+  [
+   3423, 
+   4855, 
+   {}
+  ]
+ ], 
+ [
+  95608, 
+  [
+   0, 
+   581, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95605, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  95608, 
+  [
+   711, 
+   3123, 
+   {}
+  ]
+ ], 
+ [
+  95545, 
+  [
+   0, 
+   601, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 95243, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  96111, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "voiceofreason", 
+    "quote_id": 95888, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  96111, 
+  [
+   1705, 
+   2147, 
+   {
+    "quote_id": 95888, 
+    "author": "voiceofreason"
+   }
+  ]
+ ], 
+ [
+  96111, 
+  [
+   2295, 
+   3302, 
+   {}
+  ]
+ ], 
+ [
+  96111, 
+  [
+   3308, 
+   3752, 
+   {}
+  ]
+ ], 
+ [
+  96119, 
+  [
+   0, 
+   598, 
+   {
+    "raw_data": "Bryan", 
+    "quote_id": 96013, 
+    "author": "Bryan"
+   }
+  ]
+ ], 
+ [
+  95609, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 95545, 
+    "author": "daewoo"
+   }
+  ]
+ ]
+]

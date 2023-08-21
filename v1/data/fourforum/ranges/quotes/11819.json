@@ -1,0 +1,493 @@
+[
+ [
+  329344, 
+  [
+   0, 
+   188, 
+   {
+    "raw_data": "gansao;329339", 
+    "quote_id": 329339, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  329346, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "Archangel;329344", 
+    "quote_id": 329344, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329219, 
+  [
+   0, 
+   104, 
+   {
+    "quote_id": 329213, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  335492, 
+  [
+   0, 
+   1294, 
+   {
+    "raw_data": "obvious_child;335448", 
+    "quote_id": 335448, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  329350, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "gansao;329346", 
+    "quote_id": 329346, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  329481, 
+  [
+   0, 
+   230, 
+   {
+    "quote_id": 329409, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329481, 
+  [
+   288, 
+   844, 
+   {
+    "quote_id": 329215, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329226, 
+  [
+   0, 
+   681, 
+   {
+    "raw_data": "Iuris;329219", 
+    "quote_id": 329219, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329486, 
+  [
+   0, 
+   637, 
+   {
+    "raw_data": "Iuris;329481", 
+    "quote_id": 329481, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329239, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "obvious_child;329205", 
+    "quote_id": 329205, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  329378, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "gansao;329355", 
+    "quote_id": 329355, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  329386, 
+  [
+   0, 
+   547, 
+   {
+    "raw_data": "Archangel;329378", 
+    "quote_id": 329378, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329258, 
+  [
+   0, 
+   652, 
+   {
+    "raw_data": "obvious_child;329244", 
+    "quote_id": 329244, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  329264, 
+  [
+   0, 
+   81, 
+   {
+    "quote_id": 329258, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329400, 
+  [
+   0, 
+   724, 
+   {
+    "raw_data": "gansao;329386", 
+    "quote_id": 329386, 
+    "author": "gansao"
+   }
+  ]
+ ], 
+ [
+  329409, 
+  [
+   0, 
+   674, 
+   {
+    "raw_data": "Iuris;329401", 
+    "quote_id": 329401, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329409, 
+  [
+   1228, 
+   1431, 
+   {
+    "quote_id": 329401, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329409, 
+  [
+   1884, 
+   2567, 
+   {
+    "quote_id": 329401, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  335428, 
+  [
+   0, 
+   604, 
+   {
+    "raw_data": "obvious_child;330330", 
+    "quote_id": 330330, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  335428, 
+  [
+   1127, 
+   19335, 
+   {
+    "raw_data": "Archangel;329239", 
+    "quote_id": 329239, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335428, 
+  [
+   19341, 
+   22595, 
+   {
+    "raw_data": "Archangel;329258", 
+    "quote_id": 329258, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335428, 
+  [
+   22601, 
+   22996, 
+   {
+    "raw_data": "Archangel;329278", 
+    "quote_id": 329278, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335432, 
+  [
+   0, 
+   604, 
+   {
+    "raw_data": "obvious_child;330330", 
+    "quote_id": 330330, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  335438, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Symbiote;335436", 
+    "quote_id": 335436, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  335440, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "chester;335432", 
+    "quote_id": 335432, 
+    "author": "chester"
+   }
+  ]
+ ], 
+ [
+  335445, 
+  [
+   0, 
+   230, 
+   {
+    "raw_data": "Symbiote;335436", 
+    "quote_id": 335436, 
+    "author": "Symbiote"
+   }
+  ]
+ ], 
+ [
+  335447, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "Archangel;335428", 
+    "quote_id": 335428, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335448, 
+  [
+   0, 
+   334, 
+   {
+    "raw_data": "Charliegone;335442", 
+    "quote_id": 335442, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  335448, 
+  [
+   948, 
+   986, 
+   {
+    "quote_id": 335442, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  335448, 
+  [
+   1152, 
+   1193, 
+   {
+    "quote_id": 335442, 
+    "author": "Charliegone"
+   }
+  ]
+ ], 
+ [
+  335449, 
+  [
+   0, 
+   193, 
+   {
+    "raw_data": "Archangel;335440", 
+    "quote_id": 335440, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335449, 
+  [
+   748, 
+   951, 
+   {
+    "quote_id": 335440, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335449, 
+  [
+   1421, 
+   1537, 
+   {
+    "quote_id": 335440, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335449, 
+  [
+   2078, 
+   2202, 
+   {
+    "quote_id": 335440, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  335449, 
+  [
+   2387, 
+   2598, 
+   {
+    "quote_id": 335440, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  330330, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Archangel;329457", 
+    "quote_id": 329457, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329313, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Iuris;329312", 
+    "quote_id": 329312, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329327, 
+  [
+   0, 
+   342, 
+   {
+    "raw_data": "Iuris;329312", 
+    "quote_id": 329312, 
+    "author": "Iuris"
+   }
+  ]
+ ], 
+ [
+  329327, 
+  [
+   431, 
+   647, 
+   {
+    "raw_data": "Archangel", 
+    "quote_id": 329258, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  329327, 
+  [
+   848, 
+   1251, 
+   {
+    "raw_data": "Archangels link above:", 
+    "unknown_author": "Archangels link above:"
+   }
+  ]
+ ], 
+ [
+  329335, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "Penfold;329331", 
+    "quote_id": 329331, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  329213, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "obvious_child;329212", 
+    "quote_id": 329212, 
+    "author": "obvious_child"
+   }
+  ]
+ ]
+]

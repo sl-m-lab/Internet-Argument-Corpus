@@ -1,0 +1,755 @@
+[
+ [
+  172577, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "Clive", 
+    "quote_id": 172459, 
+    "unknown_author": "Clive", 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  172589, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172588, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172596, 
+  [
+   0, 
+   245, 
+   {
+    "quote_id": 172592, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172598, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172406, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172599, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172592, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172609, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172577, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172609, 
+  [
+   121, 
+   251, 
+   {}
+  ]
+ ], 
+ [
+  172609, 
+  [
+   257, 
+   436, 
+   {}
+  ]
+ ], 
+ [
+  172625, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 172622, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  172625, 
+  [
+   123, 
+   337, 
+   {
+    "raw_data": "Tastyfish", 
+    "quote_id": 172622, 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  172642, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "Tastyfish", 
+    "author": "Tastyfish"
+   }
+  ]
+ ], 
+ [
+  172647, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172642, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172650, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 172647, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  172655, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172653, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172658, 
+  [
+   0, 
+   390, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 172655, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  172662, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172657, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172670, 
+  [
+   0, 
+   67, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172625, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172710, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172577, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172718, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172642, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172724, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172660, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172724, 
+  [
+   320, 
+   401, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172660, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172727, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Monster", 
+    "quote_id": 172694, 
+    "author": "Monster"
+   }
+  ]
+ ], 
+ [
+  172747, 
+  [
+   0, 
+   333, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172619, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172756, 
+  [
+   0, 
+   55, 
+   {
+    "raw_data": "Monster", 
+    "quote_id": 172754, 
+    "author": "Monster"
+   }
+  ]
+ ], 
+ [
+  172412, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172406, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172287, 
+  [
+   0, 
+   57, 
+   {}
+  ]
+ ], 
+ [
+  172291, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 172287, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  172294, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172292, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172830, 
+  [
+   0, 
+   140, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172756, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172933, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172924, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172844, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 172836, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  172333, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172299, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172349, 
+  [
+   0, 
+   464, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172340, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172353, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172349, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172364, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 172353, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  172367, 
+  [
+   0, 
+   90, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172349, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172369, 
+  [
+   0, 
+   404, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 172353, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  172372, 
+  [
+   0, 
+   217, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172367, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172375, 
+  [
+   0, 
+   522, 
+   {
+    "raw_data": "Easyrider", 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172385, 
+  [
+   0, 
+   517, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172372, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172386, 
+  [
+   0, 
+   91, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172340, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172390, 
+  [
+   0, 
+   659, 
+   {
+    "raw_data": "emoreno2292", 
+    "quote_id": 172385, 
+    "author": "emoreno2292"
+   }
+  ]
+ ], 
+ [
+  172400, 
+  [
+   0, 
+   375, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 172386, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  172402, 
+  [
+   0, 
+   130, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 172392, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  172408, 
+  [
+   0, 
+   238, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172403, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172409, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172406, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172411, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172408, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172416, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172413, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172423, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172421, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172433, 
+  [
+   0, 
+   308, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172400, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172948, 
+  [
+   0, 
+   124, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172924, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172437, 
+  [
+   0, 
+   503, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172421, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172960, 
+  [
+   0, 
+   283, 
+   {
+    "raw_data": "Big_Bear_Scot", 
+    "quote_id": 172287, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  172962, 
+  [
+   0, 
+   200, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172747, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172967, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 172960, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  172457, 
+  [
+   0, 
+   469, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172369, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  172457, 
+  [
+   1247, 
+   1727, 
+   {
+    "raw_data": "BBC", 
+    "unknown_author": "BBC"
+   }
+  ]
+ ], 
+ [
+  172459, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172406, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172463, 
+  [
+   0, 
+   247, 
+   {
+    "raw_data": "Easyrider", 
+    "quote_id": 172372, 
+    "author": "Easyrider"
+   }
+  ]
+ ], 
+ [
+  172465, 
+  [
+   0, 
+   71, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172413, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172472, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "Bassman", 
+    "quote_id": 172423, 
+    "author": "Bassman"
+   }
+  ]
+ ], 
+ [
+  172479, 
+  [
+   0, 
+   432, 
+   {
+    "raw_data": "Monster", 
+    "quote_id": 172197, 
+    "author": "Monster"
+   }
+  ]
+ ], 
+ [
+  172503, 
+  [
+   0, 
+   196, 
+   {
+    "raw_data": "Master_Shake", 
+    "quote_id": 172437, 
+    "author": "Master_Shake"
+   }
+  ]
+ ], 
+ [
+  172505, 
+  [
+   0, 
+   5199, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 172503, 
+    "author": "joebrummer"
+   }
+  ]
+ ]
+]

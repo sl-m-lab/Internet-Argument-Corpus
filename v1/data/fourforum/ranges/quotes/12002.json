@@ -1,0 +1,418 @@
+[
+ [
+  360340, 
+  [
+   0, 
+   1024, 
+   {
+    "raw_data": "simone;333826", 
+    "quote_id": 333826, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  360341, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "Winston Smith;360275", 
+    "quote_id": 360275, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360345, 
+  [
+   0, 
+   219, 
+   {
+    "raw_data": "CUNxTime;360315", 
+    "quote_id": 360315, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360345, 
+  [
+   935, 
+   994, 
+   {
+    "raw_data": "Winston Smith", 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360347, 
+  [
+   0, 
+   50, 
+   {
+    "raw_data": "Penfold;360346", 
+    "quote_id": 360346, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  360488, 
+  [
+   0, 
+   44, 
+   {
+    "raw_data": "simone;360427", 
+    "quote_id": 360427, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  360363, 
+  [
+   0, 
+   1007, 
+   {
+    "raw_data": "foundit66;360345", 
+    "quote_id": 360345, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360365, 
+  [
+   0, 
+   243, 
+   {
+    "raw_data": "CUNxTime;360363", 
+    "quote_id": 360363, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360365, 
+  [
+   534, 
+   871, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360363, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360365, 
+  [
+   1061, 
+   1145, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360363, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360365, 
+  [
+   1468, 
+   1650, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360363, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360365, 
+  [
+   1845, 
+   2022, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360363, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360378, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "simone;360341", 
+    "quote_id": 360341, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  360255, 
+  [
+   43, 
+   1343, 
+   {}
+  ]
+ ], 
+ [
+  360275, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "simone;360255", 
+    "quote_id": 360255, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  360411, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "foundit66;360365", 
+    "quote_id": 360365, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360411, 
+  [
+   1192, 
+   1372, 
+   {
+    "quote_id": 360365, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360411, 
+  [
+   1475, 
+   1788, 
+   {
+    "quote_id": 360365, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360411, 
+  [
+   1992, 
+   2177, 
+   {
+    "quote_id": 360365, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360411, 
+  [
+   2364, 
+   2639, 
+   {
+    "quote_id": 360365, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360411, 
+  [
+   0, 
+   2640, 
+   {}
+  ]
+ ], 
+ [
+  360415, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "CUNxTime;360411", 
+    "quote_id": 360411, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360415, 
+  [
+   541, 
+   668, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360411, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360415, 
+  [
+   1249, 
+   1322, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360411, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360415, 
+  [
+   2327, 
+   2760, 
+   {
+    "raw_data": "Cheney", 
+    "unknown_author": "Cheney"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   8, 
+   425, 
+   {
+    "raw_data": "foundit66;360415", 
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   720, 
+   787, 
+   {
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   720, 
+   788, 
+   {
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   867, 
+   1158, 
+   {
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   1385, 
+   1592, 
+   {
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   1706, 
+   2440, 
+   {
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   2647, 
+   2869, 
+   {
+    "quote_id": 360415, 
+    "author": "foundit66"
+   }
+  ]
+ ], 
+ [
+  360424, 
+  [
+   3079, 
+   3151, 
+   {}
+  ]
+ ], 
+ [
+  360424, 
+  [
+   720, 
+   3152, 
+   {}
+  ]
+ ], 
+ [
+  360427, 
+  [
+   0, 
+   505, 
+   {
+    "raw_data": "Winston Smith;360378", 
+    "quote_id": 360378, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  360439, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "CUNxTime;360424", 
+    "quote_id": 360424, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  360439, 
+  [
+   1287, 
+   1691, 
+   {
+    "raw_data": "CUNxTime", 
+    "quote_id": 360424, 
+    "author": "CUNxTime"
+   }
+  ]
+ ]
+]

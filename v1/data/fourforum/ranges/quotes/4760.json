@@ -1,0 +1,987 @@
+[
+ [
+  143360, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 143340, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  105480, 
+  [
+   0, 
+   763, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105468, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  137740, 
+  [
+   0, 
+   45, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 137679, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  137740, 
+  [
+   150, 
+   180, 
+   {
+    "quote_id": 137679, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  137740, 
+  [
+   232, 
+   286, 
+   {
+    "quote_id": 137679, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  106525, 
+  [
+   0, 
+   2355, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  136226, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 136169, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  105511, 
+  [
+   0, 
+   913, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105480, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  142892, 
+  [
+   0, 
+   457, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 137792, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  142893, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 142875, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  137792, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 137679, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143429, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 143390, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  105558, 
+  [
+   0, 
+   119, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 105540, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  137314, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Hydra", 
+    "quote_id": 136151, 
+    "author": "Hydra"
+   }
+  ]
+ ], 
+ [
+  106084, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105951, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  106091, 
+  [
+   0, 
+   169, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106084, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  105591, 
+  [
+   0, 
+   223, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105558, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  106115, 
+  [
+   0, 
+   345, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 106091, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  106119, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106115, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106119, 
+  [
+   299, 
+   468, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106084, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106125, 
+  [
+   0, 
+   871, 
+   {
+    "raw_data": "fracas", 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  105619, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 105152, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  105619, 
+  [
+   336, 
+   371, 
+   {
+    "quote_id": 105152, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  105619, 
+  [
+   838, 
+   1066, 
+   {
+    "quote_id": 105152, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  105619, 
+  [
+   1253, 
+   2928, 
+   {}
+  ]
+ ], 
+ [
+  105152, 
+  [
+   0, 
+   816, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105013, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  135876, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 105152, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  135879, 
+  [
+   0, 
+   1361, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 106525, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  137417, 
+  [
+   0, 
+   37, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 137314, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  137437, 
+  [
+   0, 
+   254, 
+   {
+    "raw_data": "Hydra", 
+    "quote_id": 137417, 
+    "author": "Hydra"
+   }
+  ]
+ ], 
+ [
+  105186, 
+  [
+   0, 
+   249, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105013, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  105714, 
+  [
+   0, 
+   310, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  105717, 
+  [
+   0, 
+   312, 
+   {
+    "raw_data": "gnojek", 
+    "author": "gnojek"
+   }
+  ]
+ ], 
+ [
+  105717, 
+  [
+   0, 
+   844, 
+   {
+    "raw_data": "georged", 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  105719, 
+  [
+   0, 
+   531, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105714, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  143104, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Valthonis", 
+    "quote_id": 143078, 
+    "author": "Valthonis"
+   }
+  ]
+ ], 
+ [
+  105223, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105186, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  105231, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105223, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  105248, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105231, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106286, 
+  [
+   0, 
+   678, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 106122, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  106286, 
+  [
+   1731, 
+   2275, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 106125, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  143177, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "jazyjason", 
+    "quote_id": 143137, 
+    "author": "jazyjason"
+   }
+  ]
+ ], 
+ [
+  105806, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 105719, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  105807, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 105806, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  136022, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135976, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  105833, 
+  [
+   0, 
+   49, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 105807, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  136168, 
+  [
+   0, 
+   664, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 136112, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  105844, 
+  [
+   0, 
+   508, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 105842, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  143224, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "Valthonis", 
+    "quote_id": 143078, 
+    "author": "Valthonis"
+   }
+  ]
+ ], 
+ [
+  105851, 
+  [
+   0, 
+   54, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 105844, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  136063, 
+  [
+   0, 
+   131, 
+   {
+    "raw_data": "Hydra", 
+    "quote_id": 136022, 
+    "author": "Hydra"
+   }
+  ]
+ ], 
+ [
+  136063, 
+  [
+   166, 
+   194, 
+   {}
+  ]
+ ], 
+ [
+  105856, 
+  [
+   0, 
+   449, 
+   {
+    "raw_data": "Dzeron", 
+    "quote_id": 105844, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  105856, 
+  [
+   867, 
+   1099, 
+   {}
+  ]
+ ], 
+ [
+  105856, 
+  [
+   3525, 
+   3587, 
+   {
+    "quote_id": 105806, 
+    "author": "Dzeron"
+   }
+  ]
+ ], 
+ [
+  136069, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 136063, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143253, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "Winston Smith", 
+    "quote_id": 143224, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  106397, 
+  [
+   0, 
+   1051, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 106286, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  105377, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105231, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136098, 
+  [
+   0, 
+   166, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 136069, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  143269, 
+  [
+   0, 
+   29, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 143177, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  105387, 
+  [
+   0, 
+   644, 
+   {
+    "raw_data": "jim's trucking", 
+    "quote_id": 105152, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  105388, 
+  [
+   0, 
+   92, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105186, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  143278, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "mae", 
+    "quote_id": 143253, 
+    "author": "mae"
+   }
+  ]
+ ], 
+ [
+  136112, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 136098, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  105409, 
+  [
+   0, 
+   723, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105248, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  137672, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 137670, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  143306, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Truthsayer", 
+    "author": "Truthsayer"
+   }
+  ]
+ ], 
+ [
+  137679, 
+  [
+   0, 
+   407, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 137672, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  143313, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 143306, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  105428, 
+  [
+   0, 
+   693, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105409, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136151, 
+  [
+   0, 
+   104, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135976, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  105947, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105935, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  136157, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 136112, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  105951, 
+  [
+   0, 
+   68, 
+   {
+    "raw_data": "fracas", 
+    "quote_id": 105947, 
+    "author": "fracas"
+   }
+  ]
+ ], 
+ [
+  105448, 
+  [
+   0, 
+   210, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105428, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  136169, 
+  [
+   0, 
+   78, 
+   {
+    "raw_data": "Hydra", 
+    "quote_id": 136151, 
+    "author": "Hydra"
+   }
+  ]
+ ], 
+ [
+  136169, 
+  [
+   86, 
+   115, 
+   {}
+  ]
+ ], 
+ [
+  105963, 
+  [
+   0, 
+   442, 
+   {
+    "raw_data": "StrategosFF", 
+    "quote_id": 105951, 
+    "author": "StrategosFF"
+   }
+  ]
+ ], 
+ [
+  143340, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 143306, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  137713, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 137679, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  105460, 
+  [
+   0, 
+   646, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 105448, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  143349, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "BushAlltheWay", 
+    "quote_id": 143340, 
+    "unknown_author": "BushAlltheWay", 
+    "author": "PoohBear"
+   }
+  ]
+ ], 
+ [
+  105468, 
+  [
+   0, 
+   495, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 105460, 
+    "author": "georged"
+   }
+  ]
+ ]
+]

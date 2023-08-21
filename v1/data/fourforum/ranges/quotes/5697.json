@@ -1,0 +1,49 @@
+[
+ [
+  289769, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "Winston Smith;289722", 
+    "quote_id": 289722, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  289769, 
+  [
+   775, 
+   1111, 
+   {
+    "quote_id": 289722, 
+    "author": "Winston Smith"
+   }
+  ]
+ ], 
+ [
+  289393, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "gamehuis;138315", 
+    "quote_id": 138315, 
+    "author": "gamehuis"
+   }
+  ]
+ ], 
+ [
+  289663, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Winston Smith;289394", 
+    "quote_id": 289394, 
+    "author": "Winston Smith"
+   }
+  ]
+ ]
+]

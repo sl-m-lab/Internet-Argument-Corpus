@@ -1,0 +1,83 @@
+[
+ [
+  342372, 
+  [
+   0, 
+   31, 
+   {
+    "quote_id": 342300, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  342373, 
+  [
+   0, 
+   32, 
+   {
+    "quote_id": 342300, 
+    "author": "isly ilwott"
+   }
+  ]
+ ], 
+ [
+  342300, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Superlite27;342254", 
+    "quote_id": 342254, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  342321, 
+  [
+   0, 
+   204, 
+   {
+    "raw_data": "Superlite27;342254", 
+    "quote_id": 342254, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  342321, 
+  [
+   290, 
+   404, 
+   {
+    "quote_id": 342254, 
+    "author": "Superlite27"
+   }
+  ]
+ ], 
+ [
+  342427, 
+  [
+   0, 
+   62, 
+   {
+    "raw_data": "Zardoz;342332", 
+    "quote_id": 342332, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  342332, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Superlite27;342254", 
+    "quote_id": 342254, 
+    "author": "Superlite27"
+   }
+  ]
+ ]
+]

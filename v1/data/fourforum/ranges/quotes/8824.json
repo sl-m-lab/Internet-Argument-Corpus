@@ -1,0 +1,884 @@
+[
+ [
+  230657, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "daewoo;230649", 
+    "quote_id": 230649, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230274, 
+  [
+   0, 
+   103, 
+   {
+    "raw_data": "Matthew S;230262", 
+    "quote_id": 230262, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230403, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "jyoshu;230362", 
+    "quote_id": 230362, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230277, 
+  [
+   0, 
+   226, 
+   {
+    "raw_data": "JPSartre12;230274", 
+    "quote_id": 230274, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230407, 
+  [
+   0, 
+   178, 
+   {
+    "raw_data": "Matthew S;230403", 
+    "quote_id": 230403, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230408, 
+  [
+   0, 
+   605, 
+   {
+    "raw_data": "Kronus;230397", 
+    "quote_id": 230397, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230537, 
+  [
+   0, 
+   1011, 
+   {
+    "raw_data": "daewoo;230522", 
+    "quote_id": 230522, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230510, 
+  [
+   0, 
+   629, 
+   {
+    "raw_data": "daewoo;230471", 
+    "quote_id": 230471, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230510, 
+  [
+   856, 
+   3143, 
+   {}
+  ]
+ ], 
+ [
+  230542, 
+  [
+   1690, 
+   2032, 
+   {}
+  ]
+ ], 
+ [
+  230543, 
+  [
+   0, 
+   257, 
+   {
+    "raw_data": "JPSartre12;230537", 
+    "quote_id": 230537, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230544, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "JPSartre12;230511", 
+    "quote_id": 230511, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230638, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Matthew S;230428", 
+    "quote_id": 230428, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230702, 
+  [
+   0, 
+   129, 
+   {
+    "raw_data": "Steeeeve;230657", 
+    "quote_id": 230657, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  230382, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "jyoshu;230379", 
+    "quote_id": 230379, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230511, 
+  [
+   0, 
+   395, 
+   {
+    "raw_data": "georged;230506", 
+    "quote_id": 230506, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  230428, 
+  [
+   0, 
+   215, 
+   {
+    "raw_data": "jyoshu;230407", 
+    "quote_id": 230407, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230469, 
+  [
+   0, 
+   287, 
+   {
+    "raw_data": "daewoo;230356", 
+    "quote_id": 230356, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230711, 
+  [
+   0, 
+   569, 
+   {
+    "raw_data": "daewoo;230702", 
+    "quote_id": 230702, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230564, 
+  [
+   0, 
+   97, 
+   {
+    "raw_data": "JPSartre12;230536", 
+    "quote_id": 230536, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230564, 
+  [
+   583, 
+   741, 
+   {
+    "raw_data": "JPSartre12;230536", 
+    "quote_id": 230536, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230440, 
+  [
+   0, 
+   461, 
+   {
+    "raw_data": "jyoshu;230408", 
+    "quote_id": 230408, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230441, 
+  [
+   0, 
+   561, 
+   {
+    "raw_data": "Matthew S;230403", 
+    "quote_id": 230403, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230805, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "daewoo;230771", 
+    "quote_id": 230771, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230574, 
+  [
+   0, 
+   282, 
+   {
+    "raw_data": "Matthew S;230564", 
+    "quote_id": 230564, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230576, 
+  [
+   0, 
+   472, 
+   {
+    "raw_data": "Matthew S;230564", 
+    "quote_id": 230564, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230536, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Matthew S;230517", 
+    "quote_id": 230517, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230536, 
+  [
+   242, 
+   548, 
+   {
+    "quote_id": 230517, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230451, 
+  [
+   0, 
+   30, 
+   {
+    "raw_data": "jyoshu;230408", 
+    "quote_id": 230408, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230451, 
+  [
+   101, 
+   188, 
+   {
+    "raw_data": "jyoshu;230408", 
+    "quote_id": 230408, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230451, 
+  [
+   291, 
+   374, 
+   {
+    "raw_data": "jyoshu;230408", 
+    "quote_id": 230408, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230451, 
+  [
+   466, 
+   730, 
+   {
+    "raw_data": "jyoshu;230408", 
+    "quote_id": 230408, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230750, 
+  [
+   0, 
+   229, 
+   {
+    "raw_data": "JPSartre12;230738", 
+    "quote_id": 230738, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230473, 
+  [
+   0, 
+   41, 
+   {
+    "raw_data": "Big_Bear_Scot;230363", 
+    "quote_id": 230363, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  230473, 
+  [
+   228, 
+   260, 
+   {
+    "quote_id": 230363, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  230473, 
+  [
+   368, 
+   482, 
+   {
+    "quote_id": 230363, 
+    "author": "Big_Bear_Scot"
+   }
+  ]
+ ], 
+ [
+  230503, 
+  [
+   0, 
+   192, 
+   {
+    "raw_data": "Matthew S;230493", 
+    "quote_id": 230493, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  230337, 
+  [
+   0, 
+   171, 
+   {
+    "raw_data": "JPSartre12;230274", 
+    "quote_id": 230274, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230338, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Kronus;230337", 
+    "quote_id": 230337, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230338, 
+  [
+   866, 
+   928, 
+   {
+    "raw_data": "Kronus;230337", 
+    "quote_id": 230337, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230390, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Kronus;230382", 
+    "quote_id": 230382, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230470, 
+  [
+   0, 
+   606, 
+   {
+    "raw_data": "daewoo;230357", 
+    "quote_id": 230357, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230471, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "JPSartre12;230469", 
+    "quote_id": 230469, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230344, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "jyoshu;230338", 
+    "quote_id": 230338, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230345, 
+  [
+   0, 
+   197, 
+   {
+    "raw_data": "georged;230344", 
+    "quote_id": 230344, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  230347, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "jyoshu;230338", 
+    "quote_id": 230338, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230347, 
+  [
+   825, 
+   1240, 
+   {
+    "quote_id": 230338, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230351, 
+  [
+   0, 
+   513, 
+   {
+    "raw_data": "JPSartre12;230254", 
+    "quote_id": 230254, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230738, 
+  [
+   0, 
+   296, 
+   {
+    "raw_data": "georged;230544", 
+    "quote_id": 230544, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  230356, 
+  [
+   0, 
+   379, 
+   {
+    "raw_data": "Kronus;230337", 
+    "quote_id": 230337, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230357, 
+  [
+   0, 
+   349, 
+   {
+    "raw_data": "JPSartre12;230347", 
+    "quote_id": 230347, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230486, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "JPSartre12;230473", 
+    "quote_id": 230473, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230486, 
+  [
+   367, 
+   469, 
+   {
+    "quote_id": 230473, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230486, 
+  [
+   1712, 
+   1874, 
+   {
+    "quote_id": 230473, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230486, 
+  [
+   1957, 
+   2120, 
+   {
+    "quote_id": 230473, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230486, 
+  [
+   2366, 
+   2463, 
+   {
+    "quote_id": 230473, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230363, 
+  [
+   0, 
+   351, 
+   {
+    "raw_data": "JPSartre12;230347", 
+    "quote_id": 230347, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230366, 
+  [
+   0, 
+   424, 
+   {
+    "raw_data": "jyoshu;230362", 
+    "quote_id": 230362, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230755, 
+  [
+   0, 
+   367, 
+   {
+    "raw_data": "daewoo;230649", 
+    "quote_id": 230649, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230375, 
+  [
+   0, 
+   577, 
+   {
+    "raw_data": "daewoo;230366", 
+    "quote_id": 230366, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  230377, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "jyoshu;230372", 
+    "quote_id": 230372, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230378, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "syklopps61;230375", 
+    "quote_id": 230375, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  230379, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "Kronus;230377", 
+    "quote_id": 230377, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230380, 
+  [
+   0, 
+   297, 
+   {
+    "raw_data": "syklopps61;230375", 
+    "quote_id": 230375, 
+    "author": "syklopps61"
+   }
+  ]
+ ], 
+ [
+  230383, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "Kronus;230377", 
+    "quote_id": 230377, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  230768, 
+  [
+   0, 
+   578, 
+   {
+    "raw_data": "jyoshu;230755", 
+    "quote_id": 230755, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230769, 
+  [
+   0, 
+   299, 
+   {
+    "raw_data": "jyoshu;230755", 
+    "quote_id": 230755, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230769, 
+  [
+   412, 
+   988, 
+   {
+    "quote_id": 230755, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230771, 
+  [
+   0, 
+   1054, 
+   {
+    "raw_data": "georged;230768", 
+    "quote_id": 230768, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  230771, 
+  [
+   1499, 
+   1704, 
+   {
+    "quote_id": 230768, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  230517, 
+  [
+   0, 
+   405, 
+   {
+    "raw_data": "JPSartre12;230511", 
+    "quote_id": 230511, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230649, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "jyoshu;230638", 
+    "quote_id": 230638, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230522, 
+  [
+   0, 
+   216, 
+   {
+    "raw_data": "JPSartre12;230510", 
+    "quote_id": 230510, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  230397, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "jyoshu;230390", 
+    "quote_id": 230390, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  230506, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "JPSartre12;230473", 
+    "quote_id": 230473, 
+    "author": "JPSartre12"
+   }
+  ]
+ ]
+]

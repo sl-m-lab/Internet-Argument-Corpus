@@ -1,0 +1,952 @@
+[
+ [
+  93291, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 93176, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  93334, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 93176, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  92806, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 92802, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  92935, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 92909, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93676, 
+  [
+   0, 
+   214, 
+   {
+    "quote_id": 93599, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93676, 
+  [
+   835, 
+   1246, 
+   {
+    "quote_id": 93611, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93377, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93371, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93371, 
+  [
+   0, 
+   120, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 93365, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  93371, 
+  [
+   158, 
+   476, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 93365, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  93371, 
+  [
+   1389, 
+   1586, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 93365, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  93201, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93172, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93143, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "BobNelson2", 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  93143, 
+  [
+   157, 
+   256, 
+   {
+    "quote_id": 93141, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  92828, 
+  [
+   0, 
+   228, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 92821, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92700, 
+  [
+   0, 
+   603, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 92578, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93599, 
+  [
+   0, 
+   86, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93590, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93599, 
+  [
+   1021, 
+   1176, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93590, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93599, 
+  [
+   1404, 
+   1481, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93590, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93599, 
+  [
+   1574, 
+   1680, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93590, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93446, 
+  [
+   0, 
+   112, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93133, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93446, 
+  [
+   346, 
+   615, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93133, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93604, 
+  [
+   0, 
+   115, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93599, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93604, 
+  [
+   392, 
+   876, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93599, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93604, 
+  [
+   1098, 
+   1181, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93599, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93604, 
+  [
+   1247, 
+   1460, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93599, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92965, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 92935, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  93395, 
+  [
+   0, 
+   138, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93391, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92967, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 92915, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93224, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93212, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  92585, 
+  [
+   0, 
+   603, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 92578, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93611, 
+  [
+   0, 
+   264, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93501, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93611, 
+  [
+   683, 
+   1282, 
+   {
+    "quote_id": 93501, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93212, 
+  [
+   0, 
+   281, 
+   {
+    "raw_data": "joebrummer", 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  93615, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 93378, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  93489, 
+  [
+   0, 
+   109, 
+   {
+    "quote_id": 93133, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93340, 
+  [
+   0, 
+   541, 
+   {
+    "raw_data": "Jaxian", 
+    "quote_id": 93329, 
+    "author": "Jaxian"
+   }
+  ]
+ ], 
+ [
+  93365, 
+  [
+   0, 
+   479, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93340, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  92603, 
+  [
+   0, 
+   387, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 92585, 
+    "author": "sinjin"
+   }
+  ]
+ ], 
+ [
+  92348, 
+  [
+   0, 
+   435, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 92346, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  93501, 
+  [
+   0, 
+   60, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93292, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92351, 
+  [
+   0, 
+   73, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 92348, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  92993, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 92965, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92358, 
+  [
+   0, 
+   23, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 92351, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  92358, 
+  [
+   50, 
+   607, 
+   {}
+  ]
+ ], 
+ [
+  93385, 
+  [
+   0, 
+   934, 
+   {
+    "raw_data": "jyoshu", 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93385, 
+  [
+   1270, 
+   1653, 
+   {
+    "raw_data": "Luke 9:52-56", 
+    "unknown_author": "Luke 9:52-56"
+   }
+  ]
+ ], 
+ [
+  93385, 
+  [
+   1659, 
+   1832, 
+   {
+    "raw_data": "1 Corinthians 10:31-32", 
+    "unknown_author": "1 Corinthians 10:31-32"
+   }
+  ]
+ ], 
+ [
+  93385, 
+  [
+   2112, 
+   3122, 
+   {
+    "quote_id": 93371, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93385, 
+  [
+   3524, 
+   3703, 
+   {
+    "quote_id": 93371, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93132, 
+  [
+   42, 
+   208, 
+   {
+    "quote_id": 92345, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93132, 
+  [
+   541, 
+   662, 
+   {
+    "quote_id": 92345, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93132, 
+  [
+   1026, 
+   1121, 
+   {
+    "quote_id": 92345, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93132, 
+  [
+   1269, 
+   1440, 
+   {
+    "quote_id": 92345, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93133, 
+  [
+   0, 
+   431, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 92935, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  93262, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 92806, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93391, 
+  [
+   0, 
+   70, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 93377, 
+    "author": "wsm2506"
+   }
+  ]
+ ], 
+ [
+  92497, 
+  [
+   0, 
+   22, 
+   {
+    "raw_data": "Jaaaman", 
+    "quote_id": 92358, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  92372, 
+  [
+   0, 
+   314, 
+   {
+    "raw_data": "wordnetdaily.com", 
+    "quote_id": 92345, 
+    "unknown_author": "wordnetdaily.com", 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  92372, 
+  [
+   318, 
+   878, 
+   {
+    "raw_data": "jaaman", 
+    "unknown_author": "jaaman"
+   }
+  ]
+ ], 
+ [
+  93141, 
+  [
+   0, 
+   222, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93133, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93141, 
+  [
+   313, 
+   411, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93133, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  92921, 
+  [
+   0, 
+   98, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 92915, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93626, 
+  [
+   0, 
+   128, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93611, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  92386, 
+  [
+   0, 
+   191, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 92376, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  92899, 
+  [
+   0, 
+   575, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 92800, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  92899, 
+  [
+   581, 
+   841, 
+   {
+    "quote_id": 92345, 
+    "author": "Jaaaman"
+   }
+  ]
+ ], 
+ [
+  93137, 
+  [
+   0, 
+   221, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93133, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93329, 
+  [
+   0, 
+   265, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93291, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93159, 
+  [
+   0, 
+   75, 
+   {
+    "quote_id": 93143, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  93292, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93262, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  92909, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "zachvac", 
+    "quote_id": 92802, 
+    "author": "zachvac"
+   }
+  ]
+ ], 
+ [
+  93552, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93501, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93552, 
+  [
+   942, 
+   1402, 
+   {
+    "raw_data": "JakeCJB", 
+    "quote_id": 93501, 
+    "author": "JakeCJB"
+   }
+  ]
+ ], 
+ [
+  93172, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "Socialist", 
+    "quote_id": 93159, 
+    "author": "Socialist"
+   }
+  ]
+ ], 
+ [
+  93176, 
+  [
+   0, 
+   72, 
+   {
+    "raw_data": "JPSartre12", 
+    "quote_id": 93143, 
+    "author": "JPSartre12"
+   }
+  ]
+ ], 
+ [
+  92537, 
+  [
+   0, 
+   163, 
+   {
+    "raw_data": "BobNelson2", 
+    "quote_id": 92497, 
+    "author": "BobNelson2"
+   }
+  ]
+ ], 
+ [
+  93590, 
+  [
+   0, 
+   823, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93552, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93590, 
+  [
+   1650, 
+   1823, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93552, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93590, 
+  [
+   2474, 
+   2823, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93552, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93590, 
+  [
+   2877, 
+   3038, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 93552, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  93436, 
+  [
+   0, 
+   292, 
+   {
+    "raw_data": "sinjin", 
+    "quote_id": 93378, 
+    "author": "sinjin"
+   }
+  ]
+ ]
+]

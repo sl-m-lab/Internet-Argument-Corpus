@@ -1,0 +1,109 @@
+[
+ [
+  135264, 
+  [
+   0, 
+   293, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 135223, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  135266, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135264, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  135203, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135199, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  135274, 
+  [
+   0, 
+   139, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 135266, 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  138481, 
+  [
+   0, 
+   231, 
+   {
+    "raw_data": "Kronus", 
+    "author": "Kronus"
+   }
+  ]
+ ], 
+ [
+  138548, 
+  [
+   0, 
+   262, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 138481, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  135356, 
+  [
+   0, 
+   114, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135261, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  135356, 
+  [
+   254, 
+   347, 
+   {
+    "raw_data": "Voice Of Reason", 
+    "quote_id": 135274, 
+    "author": "Voice Of Reason"
+   }
+  ]
+ ], 
+ [
+  135261, 
+  [
+   0, 
+   82, 
+   {
+    "raw_data": "Kronus", 
+    "quote_id": 135203, 
+    "author": "Kronus"
+   }
+  ]
+ ]
+]

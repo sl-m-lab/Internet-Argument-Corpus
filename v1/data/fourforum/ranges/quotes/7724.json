@@ -1,0 +1,381 @@
+[
+ [
+  202241, 
+  [
+   0, 
+   355, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202227, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202241, 
+  [
+   960, 
+   1185, 
+   {
+    "quote_id": 202227, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202244, 
+  [
+   0, 
+   149, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 202234, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202244, 
+  [
+   199, 
+   575, 
+   {
+    "quote_id": 202234, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202119, 
+  [
+   0, 
+   136, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202102, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202505, 
+  [
+   0, 
+   458, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 202492, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202251, 
+  [
+   0, 
+   295, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202241, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202128, 
+  [
+   0, 
+   470, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 202119, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202564, 
+  [
+   0, 
+   576, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202505, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202162, 
+  [
+   0, 
+   406, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202128, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202314, 
+  [
+   0, 
+   328, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202302, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202443, 
+  [
+   0, 
+   415, 
+   {
+    "raw_data": "Scactha", 
+    "quote_id": 202436, 
+    "author": "Scactha"
+   }
+  ]
+ ], 
+ [
+  202061, 
+  [
+   0, 
+   554, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 201927, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202578, 
+  [
+   0, 
+   373, 
+   {
+    "raw_data": "georged", 
+    "quote_id": 202564, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202578, 
+  [
+   1087, 
+   1443, 
+   {
+    "quote_id": 202564, 
+    "author": "georged"
+   }
+  ]
+ ], 
+ [
+  202579, 
+  [
+   0, 
+   619, 
+   {
+    "raw_data": "daewoo", 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202068, 
+  [
+   0, 
+   270, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202061, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202584, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 202580, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202586, 
+  [
+   0, 
+   676, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202584, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202490, 
+  [
+   0, 
+   440, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202437, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202490, 
+  [
+   876, 
+   1252, 
+   {
+    "quote_id": 202437, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202591, 
+  [
+   0, 
+   612, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 202586, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202211, 
+  [
+   0, 
+   541, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202162, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202492, 
+  [
+   0, 
+   426, 
+   {
+    "raw_data": "daewoo", 
+    "quote_id": 202490, 
+    "author": "daewoo"
+   }
+  ]
+ ], 
+ [
+  202220, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202102, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202220, 
+  [
+   903, 
+   1166, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202211, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202220, 
+  [
+   1571, 
+   1739, 
+   {
+    "raw_data": "Alan Ryan", 
+    "quote_id": 202211, 
+    "author": "Alan Ryan"
+   }
+  ]
+ ], 
+ [
+  202220, 
+  [
+   2674, 
+   2961, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 202215, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  202220, 
+  [
+   3086, 
+   3138, 
+   {
+    "raw_data": "Maineiac", 
+    "quote_id": 202218, 
+    "author": "Maineiac"
+   }
+  ]
+ ], 
+ [
+  202227, 
+  [
+   0, 
+   331, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 202220, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202102, 
+  [
+   0, 
+   693, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 202068, 
+    "author": "Liminus"
+   }
+  ]
+ ], 
+ [
+  202236, 
+  [
+   0, 
+   123, 
+   {
+    "raw_data": "Liminus", 
+    "quote_id": 202234, 
+    "author": "Liminus"
+   }
+  ]
+ ]
+]

@@ -1,0 +1,397 @@
+[
+ [
+  302464, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "HonestAbe;302293", 
+    "quote_id": 302293, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302210, 
+  [
+   0, 
+   232, 
+   {
+    "raw_data": "Jo Bennett;302204", 
+    "quote_id": 302204, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  302212, 
+  [
+   0, 
+   240, 
+   {
+    "raw_data": "CUNxTime;302189", 
+    "quote_id": 302189, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  302212, 
+  [
+   385, 
+   704, 
+   {
+    "raw_data": "thelmoose;302210", 
+    "quote_id": 302210, 
+    "author": "thelmoose"
+   }
+  ]
+ ], 
+ [
+  302216, 
+  [
+   0, 
+   1042, 
+   {
+    "raw_data": "jyoshu;302212", 
+    "quote_id": 302212, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  302222, 
+  [
+   0, 
+   899, 
+   {
+    "raw_data": "jyoshu;302212", 
+    "quote_id": 302212, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  302227, 
+  [
+   0, 
+   258, 
+   {
+    "raw_data": "HonestAbe;302216", 
+    "quote_id": 302216, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302231, 
+  [
+   0, 
+   253, 
+   {
+    "raw_data": "jyoshu;302227", 
+    "quote_id": 302227, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  302233, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "HonestAbe;302231", 
+    "quote_id": 302231, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302362, 
+  [
+   0, 
+   417, 
+   {
+    "raw_data": "Penfold;302315", 
+    "quote_id": 302315, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302235, 
+  [
+   0, 
+   325, 
+   {
+    "raw_data": "HonestAbe;302231", 
+    "quote_id": 302231, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302236, 
+  [
+   0, 
+   246, 
+   {
+    "raw_data": "CUNxTime;302235", 
+    "quote_id": 302235, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  302495, 
+  [
+   0, 
+   327, 
+   {
+    "raw_data": "Archangel;302464", 
+    "quote_id": 302464, 
+    "author": "Archangel"
+   }
+  ]
+ ], 
+ [
+  302495, 
+  [
+   333, 
+   438, 
+   {
+    "raw_data": "Zardoz", 
+    "quote_id": 302362, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  302769, 
+  [
+   0, 
+   252, 
+   {
+    "raw_data": "Dane;302529", 
+    "quote_id": 302529, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302012, 
+  [
+   0, 
+   176, 
+   {
+    "raw_data": "HonestAbe;301934", 
+    "quote_id": 301934, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302269, 
+  [
+   0, 
+   141, 
+   {
+    "raw_data": "jyoshu;302212", 
+    "quote_id": 302212, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  302269, 
+  [
+   266, 
+   608, 
+   {
+    "quote_id": 302212, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  302529, 
+  [
+   0, 
+   416, 
+   {
+    "raw_data": "Zardoz;302495", 
+    "quote_id": 302495, 
+    "author": "Zardoz"
+   }
+  ]
+ ], 
+ [
+  302024, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "bmittking;302012", 
+    "quote_id": 302012, 
+    "author": "bmittking"
+   }
+  ]
+ ], 
+ [
+  302035, 
+  [
+   0, 
+   65, 
+   {
+    "raw_data": "Penfold;302030", 
+    "quote_id": 302030, 
+    "author": "Penfold"
+   }
+  ]
+ ], 
+ [
+  302286, 
+  [
+   0, 
+   346, 
+   {
+    "raw_data": "Dane;302269", 
+    "quote_id": 302269, 
+    "author": "Dane"
+   }
+  ]
+ ], 
+ [
+  302293, 
+  [
+   0, 
+   313, 
+   {
+    "raw_data": "jyoshu;302286", 
+    "quote_id": 302286, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  302055, 
+  [
+   0, 
+   122, 
+   {
+    "raw_data": "bmittking;302035", 
+    "quote_id": 302035, 
+    "author": "bmittking"
+   }
+  ]
+ ], 
+ [
+  302315, 
+  [
+   0, 
+   160, 
+   {
+    "raw_data": "HonestAbe;302293", 
+    "quote_id": 302293, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302189, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "bmittking;302012", 
+    "quote_id": 302012, 
+    "author": "bmittking"
+   }
+  ]
+ ], 
+ [
+  301934, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "bmittking;301932", 
+    "quote_id": 301932, 
+    "author": "bmittking"
+   }
+  ]
+ ], 
+ [
+  301937, 
+  [
+   0, 
+   828, 
+   {
+    "raw_data": "HonestAbe;301928", 
+    "quote_id": 301928, 
+    "author": "HonestAbe"
+   }
+  ]
+ ], 
+ [
+  302196, 
+  [
+   0, 
+   443, 
+   {
+    "raw_data": "CUNxTime;302189", 
+    "quote_id": 302189, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  301941, 
+  [
+   0, 
+   105, 
+   {
+    "raw_data": "bmittking;301932", 
+    "quote_id": 301932, 
+    "author": "bmittking"
+   }
+  ]
+ ], 
+ [
+  302199, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "Jo Bennett;302196", 
+    "quote_id": 302196, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  302204, 
+  [
+   0, 
+   315, 
+   {
+    "raw_data": "CUNxTime;302199", 
+    "quote_id": 302199, 
+    "author": "CUNxTime"
+   }
+  ]
+ ], 
+ [
+  302207, 
+  [
+   0, 
+   422, 
+   {
+    "raw_data": "Jo Bennett;302204", 
+    "quote_id": 302204, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ]
+]

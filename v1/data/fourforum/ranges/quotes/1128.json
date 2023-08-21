@@ -1,0 +1,616 @@
+[
+ [
+  20353, 
+  [
+   0, 
+   2507, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20335, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  22792, 
+  [
+   0, 
+   102, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 22773, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  19853, 
+  [
+   0, 
+   110, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 19758, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20622, 
+  [
+   14, 
+   438, 
+   {
+    "quote_id": 20422, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20622, 
+  [
+   545, 
+   1226, 
+   {
+    "quote_id": 20422, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20622, 
+  [
+   1268, 
+   1399, 
+   {
+    "quote_id": 20422, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20622, 
+  [
+   1531, 
+   2500, 
+   {
+    "quote_id": 20422, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20622, 
+  [
+   2755, 
+   2917, 
+   {
+    "quote_id": 20422, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20498, 
+  [
+   41, 
+   592, 
+   {
+    "quote_id": 20353, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20498, 
+  [
+   696, 
+   852, 
+   {
+    "quote_id": 20353, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20498, 
+  [
+   2184, 
+   2452, 
+   {
+    "quote_id": 20270, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20498, 
+  [
+   2782, 
+   3142, 
+   {
+    "quote_id": 20353, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19859, 
+  [
+   0, 
+   46, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 19853, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  20270, 
+  [
+   0, 
+   1228, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20268, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20889, 
+  [
+   0, 
+   293, 
+   {
+    "quote_id": 20842, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20889, 
+  [
+   606, 
+   888, 
+   {
+    "quote_id": 20842, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20889, 
+  [
+   1270, 
+   1445, 
+   {
+    "quote_id": 20842, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20889, 
+  [
+   1549, 
+   2141, 
+   {
+    "quote_id": 20842, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19743, 
+  [
+   0, 
+   369, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 19671, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  19489, 
+  [
+   0, 
+   155, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19885, 
+  [
+   0, 
+   1795, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 19859, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  19758, 
+  [
+   0, 
+   47, 
+   {
+    "raw_data": "rapture", 
+    "quote_id": 19756, 
+    "author": "rapture"
+   }
+  ]
+ ], 
+ [
+  20795, 
+  [
+   0, 
+   88, 
+   {
+    "raw_data": "montalban", 
+    "quote_id": 20577, 
+    "author": "montalban"
+   }
+  ]
+ ], 
+ [
+  22205, 
+  [
+   0, 
+   125, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 21738, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20931, 
+  [
+   0, 
+   304, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20931, 
+  [
+   485, 
+   857, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20889, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20931, 
+  [
+   1085, 
+   1179, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20889, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20931, 
+  [
+   1280, 
+   1334, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20889, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20931, 
+  [
+   1389, 
+   1446, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20889, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20422, 
+  [
+   0, 
+   830, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  22241, 
+  [
+   0, 
+   827, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 22205, 
+    "author": "lappster"
+   }
+  ]
+ ], 
+ [
+  20682, 
+  [
+   0, 
+   633, 
+   {
+    "raw_data": "maximus", 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  19535, 
+  [
+   0, 
+   1550, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19671, 
+  [
+   0, 
+   383, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 19554, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19554, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 19489, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   445, 
+   519, 
+   {}
+  ]
+ ], 
+ [
+  20838, 
+  [
+   808, 
+   867, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   1150, 
+   1210, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   1433, 
+   1515, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   1634, 
+   1696, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   1861, 
+   1925, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   2433, 
+   2606, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   2939, 
+   3043, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   3665, 
+   3730, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   3921, 
+   3999, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   4302, 
+   4430, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   4571, 
+   4649, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   4791, 
+   4878, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  20838, 
+  [
+   5159, 
+   5275, 
+   {
+    "quote_id": 19473, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  19814, 
+  [
+   0, 
+   361, 
+   {
+    "raw_data": "SilentPoet", 
+    "quote_id": 19489, 
+    "author": "SilentPoet"
+   }
+  ]
+ ], 
+ [
+  20842, 
+  [
+   0, 
+   173, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 20839, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  20335, 
+  [
+   0, 
+   997, 
+   {
+    "raw_data": "epaphras_faith", 
+    "quote_id": 20270, 
+    "author": "epaphras_faith"
+   }
+  ]
+ ], 
+ [
+  22773, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "maximus", 
+    "quote_id": 22241, 
+    "author": "maximus"
+   }
+  ]
+ ], 
+ [
+  21738, 
+  [
+   0, 
+   199, 
+   {
+    "raw_data": "lappster", 
+    "quote_id": 21684, 
+    "author": "lappster"
+   }
+  ]
+ ]
+]

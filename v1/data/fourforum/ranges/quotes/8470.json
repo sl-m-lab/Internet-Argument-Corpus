@@ -1,0 +1,339 @@
+[
+ [
+  301154, 
+  [
+   0, 
+   186, 
+   {
+    "raw_data": "jim's trucking;301149", 
+    "quote_id": 301149, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  301154, 
+  [
+   788, 
+   835, 
+   {
+    "raw_data": "jim's trucking;301149", 
+    "quote_id": 301149, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  301251, 
+  [
+   0, 
+   639, 
+   {
+    "raw_data": "Steeeeve;301239", 
+    "quote_id": 301239, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  301303, 
+  [
+   0, 
+   57, 
+   {
+    "raw_data": "GiantOreo;301157", 
+    "quote_id": 301157, 
+    "author": "GiantOreo"
+   }
+  ]
+ ], 
+ [
+  301282, 
+  [
+   0, 
+   323, 
+   {
+    "raw_data": "Steeeeve;301239", 
+    "quote_id": 301239, 
+    "author": "Steeeeve"
+   }
+  ]
+ ], 
+ [
+  301168, 
+  [
+   0, 
+   564, 
+   {
+    "raw_data": "GiantOreo;301157", 
+    "quote_id": 301157, 
+    "author": "GiantOreo"
+   }
+  ]
+ ], 
+ [
+  301315, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "jim's trucking;301303", 
+    "quote_id": 301303, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  301157, 
+  [
+   0, 
+   108, 
+   {
+    "raw_data": "jim's trucking;301149", 
+    "quote_id": 301149, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  301157, 
+  [
+   284, 
+   362, 
+   {
+    "raw_data": "jim's trucking;301149", 
+    "quote_id": 301149, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  301157, 
+  [
+   933, 
+   982, 
+   {
+    "raw_data": "jim's trucking;301149", 
+    "quote_id": 301149, 
+    "author": "jim's trucking"
+   }
+  ]
+ ], 
+ [
+  221590, 
+  [
+   0, 
+   371, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221590, 
+  [
+   390, 
+   902, 
+   {}
+  ]
+ ], 
+ [
+  221590, 
+  [
+   1083, 
+   1334, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 221501, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221590, 
+  [
+   1365, 
+   2018, 
+   {}
+  ]
+ ], 
+ [
+  221590, 
+  [
+   2270, 
+   2489, 
+   {
+    "raw_data": "electrolyte", 
+    "quote_id": 221501, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221590, 
+  [
+   2518, 
+   2958, 
+   {}
+  ]
+ ], 
+ [
+  301239, 
+  [
+   0, 
+   174, 
+   {
+    "raw_data": "electrolyte;301148", 
+    "quote_id": 301148, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221599, 
+  [
+   0, 
+   113, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221599, 
+  [
+   424, 
+   617, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221599, 
+  [
+   1302, 
+   1549, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221599, 
+  [
+   2043, 
+   2134, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 221590, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221599, 
+  [
+   2276, 
+   2439, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221599, 
+  [
+   2615, 
+   2914, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221501, 
+  [
+   196, 
+   298, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221501, 
+  [
+   326, 
+   656, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221501, 
+  [
+   696, 
+   776, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221501, 
+  [
+   804, 
+   1238, 
+   {
+    "raw_data": "electrolyte", 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  221501, 
+  [
+   1285, 
+   1751, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  221695, 
+  [
+   0, 
+   87, 
+   {
+    "raw_data": "T.Q", 
+    "quote_id": 221605, 
+    "author": "T.Q"
+   }
+  ]
+ ], 
+ [
+  221695, 
+  [
+   147, 
+   235, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 221590, 
+    "author": "marc9000"
+   }
+  ]
+ ]
+]

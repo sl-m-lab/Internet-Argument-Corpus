@@ -1,0 +1,785 @@
+[
+ [
+  235030, 
+  [
+   0, 
+   76, 
+   {
+    "quote_id": 235022, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235910, 
+  [
+   0, 
+   185, 
+   {
+    "raw_data": "marc9000;235898", 
+    "quote_id": 235898, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235910, 
+  [
+   335, 
+   399, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 235898, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235910, 
+  [
+   549, 
+   684, 
+   {
+    "raw_data": "marc9000", 
+    "quote_id": 235898, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235021, 
+  [
+   0, 
+   135, 
+   {
+    "raw_data": "obvious_child;235009", 
+    "quote_id": 235009, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  235022, 
+  [
+   0, 
+   402, 
+   {
+    "raw_data": "GazzaElliott;235020", 
+    "quote_id": 235020, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  234769, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "obvious_child;233878", 
+    "quote_id": 233878, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234770, 
+  [
+   0, 
+   209, 
+   {
+    "raw_data": "supersport;234769", 
+    "quote_id": 234769, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  234772, 
+  [
+   0, 
+   372, 
+   {
+    "raw_data": "obvious_child;234770", 
+    "quote_id": 234770, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234775, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "supersport;234772", 
+    "quote_id": 234772, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  234775, 
+  [
+   187, 
+   231, 
+   {
+    "raw_data": "Supersport", 
+    "quote_id": 234769, 
+    "unknown_author": "Supersport", 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  234910, 
+  [
+   0, 
+   211, 
+   {
+    "raw_data": "obvious_child;234876", 
+    "quote_id": 234876, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234783, 
+  [
+   0, 
+   99, 
+   {
+    "raw_data": "supersport;234769", 
+    "quote_id": 234769, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  234783, 
+  [
+   223, 
+   334, 
+   {
+    "raw_data": "supersport;234769", 
+    "quote_id": 234769, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  234787, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "Yossarian;234779", 
+    "quote_id": 234779, 
+    "author": "Yossarian"
+   }
+  ]
+ ], 
+ [
+  234918, 
+  [
+   0, 
+   28, 
+   {
+    "raw_data": "obvious_child;234912", 
+    "quote_id": 234912, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234919, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "obvious_child;233878", 
+    "quote_id": 233878, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234920, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "supersport;234769", 
+    "quote_id": 234769, 
+    "author": "supersport"
+   }
+  ]
+ ], 
+ [
+  235307, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "lucaspa;235196", 
+    "quote_id": 235196, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235307, 
+  [
+   343, 
+   995, 
+   {
+    "quote_id": 235196, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235307, 
+  [
+   1443, 
+   1513, 
+   {
+    "quote_id": 235196, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235307, 
+  [
+   1760, 
+   1898, 
+   {
+    "quote_id": 235196, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235307, 
+  [
+   1998, 
+   2098, 
+   {
+    "quote_id": 235196, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235307, 
+  [
+   2208, 
+   2486, 
+   {
+    "quote_id": 235196, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235315, 
+  [
+   0, 
+   106, 
+   {
+    "raw_data": "lucaspa;235198", 
+    "quote_id": 235198, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235060, 
+  [
+   0, 
+   48, 
+   {
+    "raw_data": "GazzaElliott;235020", 
+    "quote_id": 235020, 
+    "author": "GazzaElliott"
+   }
+  ]
+ ], 
+ [
+  235062, 
+  [
+   0, 
+   155, 
+   {
+    "raw_data": "marc9000;235021", 
+    "quote_id": 235021, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  234228, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Mach;234209", 
+    "quote_id": 234209, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  235196, 
+  [
+   0, 
+   336, 
+   {
+    "raw_data": "marc9000;234979", 
+    "quote_id": 234979, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235197, 
+  [
+   0, 
+   148, 
+   {
+    "raw_data": "obvious_child;235060", 
+    "quote_id": 235060, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  235198, 
+  [
+   0, 
+   101, 
+   {
+    "raw_data": "marc9000;235021", 
+    "quote_id": 235021, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242623, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "marc9000;235898", 
+    "quote_id": 235898, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242626, 
+  [
+   0, 
+   255, 
+   {
+    "raw_data": "marc9000;235898", 
+    "quote_id": 235898, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242626, 
+  [
+   747, 
+   883, 
+   {
+    "quote_id": 235898, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235190, 
+  [
+   0, 
+   74, 
+   {
+    "raw_data": "obvious_child;235060", 
+    "quote_id": 235060, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  235190, 
+  [
+   102, 
+   300, 
+   {
+    "raw_data": "marc9000", 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235190, 
+  [
+   536, 
+   606, 
+   {
+    "quote_id": 235060, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234186, 
+  [
+   0, 
+   445, 
+   {
+    "raw_data": "obvious_child;233878", 
+    "quote_id": 233878, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  235212, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "lucaspa;235197", 
+    "quote_id": 235197, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  235601, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "marc9000;235307", 
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235601, 
+  [
+   399, 
+   837, 
+   {
+    "raw_data": "marc9000;235307", 
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235601, 
+  [
+   980, 
+   1072, 
+   {
+    "raw_data": "marc9000;235307", 
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  235601, 
+  [
+   1089, 
+   1144, 
+   {
+    "raw_data": "marc9000;235307", 
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  234962, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "Hi_Its_Me;234960", 
+    "quote_id": 234960, 
+    "author": "Hi_Its_Me"
+   }
+  ]
+ ], 
+ [
+  234331, 
+  [
+   0, 
+   335, 
+   {
+    "raw_data": "Mach;234209", 
+    "quote_id": 234209, 
+    "author": "Mach"
+   }
+  ]
+ ], 
+ [
+  234331, 
+  [
+   358, 
+   697, 
+   {
+    "raw_data": "obvious_child", 
+    "quote_id": 234228, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234715, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "electrolyte;234366", 
+    "quote_id": 234366, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  235898, 
+  [
+   0, 
+   161, 
+   {
+    "raw_data": "sublime;235601", 
+    "quote_id": 235601, 
+    "author": "sublime"
+   }
+  ]
+ ], 
+ [
+  235898, 
+  [
+   582, 
+   716, 
+   {
+    "quote_id": 235601, 
+    "author": "sublime"
+   }
+  ]
+ ], 
+ [
+  235898, 
+  [
+   866, 
+   872, 
+   {
+    "quote_id": 235601, 
+    "author": "sublime"
+   }
+  ]
+ ], 
+ [
+  235898, 
+  [
+   896, 
+   1009, 
+   {
+    "quote_id": 235601, 
+    "author": "sublime"
+   }
+  ]
+ ], 
+ [
+  234208, 
+  [
+   0, 
+   39, 
+   {
+    "raw_data": "obvious_child;234187", 
+    "quote_id": 234187, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234979, 
+  [
+   0, 
+   614, 
+   {
+    "raw_data": "lucaspa;234910", 
+    "quote_id": 234910, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  234979, 
+  [
+   640, 
+   822, 
+   {}
+  ]
+ ], 
+ [
+  234868, 
+  [
+   0, 
+   109, 
+   {
+    "raw_data": "obvious_child;234866", 
+    "quote_id": 234866, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   0, 
+   225, 
+   {
+    "raw_data": "marc9000;235307", 
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   464, 
+   820, 
+   {
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   1204, 
+   1441, 
+   {
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   1517, 
+   1607, 
+   {
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   1841, 
+   1866, 
+   {
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   1890, 
+   1941, 
+   {
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  242622, 
+  [
+   2355, 
+   2476, 
+   {
+    "quote_id": 235307, 
+    "author": "marc9000"
+   }
+  ]
+ ], 
+ [
+  234487, 
+  [
+   0, 
+   150, 
+   {
+    "raw_data": "electrolyte;234366", 
+    "quote_id": 234366, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234233, 
+  [
+   0, 
+   338, 
+   {
+    "raw_data": "obvious_child;234228", 
+    "quote_id": 234228, 
+    "author": "obvious_child"
+   }
+  ]
+ ], 
+ [
+  234960, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "lucaspa;234919", 
+    "quote_id": 234919, 
+    "author": "lucaspa"
+   }
+  ]
+ ], 
+ [
+  234876, 
+  [
+   0, 
+   170, 
+   {
+    "raw_data": "electrolyte;234868", 
+    "quote_id": 234868, 
+    "author": "electrolyte"
+   }
+  ]
+ ], 
+ [
+  234366, 
+  [
+   0, 
+   77, 
+   {
+    "raw_data": "marc9000;234331", 
+    "quote_id": 234331, 
+    "author": "marc9000"
+   }
+  ]
+ ]
+]

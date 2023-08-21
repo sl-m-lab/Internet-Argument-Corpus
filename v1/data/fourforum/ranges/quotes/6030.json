@@ -1,0 +1,361 @@
+[
+ [
+  149513, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Matthew S", 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  149515, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "biccat", 
+    "quote_id": 149513, 
+    "author": "biccat"
+   }
+  ]
+ ], 
+ [
+  149516, 
+  [
+   0, 
+   42, 
+   {
+    "raw_data": "biccat", 
+    "quote_id": 149513, 
+    "author": "biccat"
+   }
+  ]
+ ], 
+ [
+  149517, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 149516, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  149520, 
+  [
+   0, 
+   340, 
+   {
+    "raw_data": "Clive14", 
+    "quote_id": 149516, 
+    "author": "Clive14"
+   }
+  ]
+ ], 
+ [
+  149661, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149569, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149665, 
+  [
+   0, 
+   244, 
+   {
+    "raw_data": "biccat", 
+    "quote_id": 149520, 
+    "author": "biccat"
+   }
+  ]
+ ], 
+ [
+  149665, 
+  [
+   391, 
+   1064, 
+   {
+    "raw_data": "biccat", 
+    "quote_id": 149520, 
+    "author": "biccat"
+   }
+  ]
+ ], 
+ [
+  149538, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149667, 
+  [
+   0, 
+   195, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149645, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149671, 
+  [
+   0, 
+   79, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149645, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149674, 
+  [
+   0, 
+   421, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149645, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149679, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149645, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149553, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 149538, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  149558, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "melsucceeds", 
+    "quote_id": 149553, 
+    "author": "melsucceeds"
+   }
+  ]
+ ], 
+ [
+  149569, 
+  [
+   0, 
+   107, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 149538, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  149573, 
+  [
+   0, 
+   300, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149569, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149537, 
+  [
+   0, 
+   181, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 149515, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  149666, 
+  [
+   0, 
+   419, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149645, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149645, 
+  [
+   0, 
+   330, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 149618, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  149645, 
+  [
+   759, 
+   904, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 149625, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  149844, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149589, 
+  [
+   0, 
+   151, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 149573, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  150349, 
+  [
+   0, 
+   95, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 149844, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  149617, 
+  [
+   0, 
+   921, 
+   {
+    "raw_data": "biccat", 
+    "quote_id": 149520, 
+    "author": "biccat"
+   }
+  ]
+ ], 
+ [
+  149618, 
+  [
+   0, 
+   1273, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149589, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149624, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149537, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149625, 
+  [
+   0, 
+   117, 
+   {
+    "raw_data": "jyoshu", 
+    "quote_id": 149589, 
+    "author": "jyoshu"
+   }
+  ]
+ ], 
+ [
+  149628, 
+  [
+   0, 
+   194, 
+   {
+    "raw_data": "joebrummer", 
+    "quote_id": 149625, 
+    "author": "joebrummer"
+   }
+  ]
+ ], 
+ [
+  149631, 
+  [
+   0, 
+   93, 
+   {
+    "raw_data": "wsm2506", 
+    "quote_id": 149628, 
+    "author": "wsm2506"
+   }
+  ]
+ ]
+]

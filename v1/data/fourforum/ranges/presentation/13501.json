@@ -1,0 +1,44 @@
+[
+ [
+  375657, 
+  [
+   2, 
+   50, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;4&quot;"
+   }
+  ]
+ ], 
+ [
+  375657, 
+  [
+   2, 
+   50, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;DarkRed&quot;"
+   }
+  ]
+ ], 
+ [
+  375657, 
+  [
+   4034, 
+   4237, 
+   {
+    "category": "underline"
+   }
+  ]
+ ], 
+ [
+  375657, 
+  [
+   4034, 
+   4237, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

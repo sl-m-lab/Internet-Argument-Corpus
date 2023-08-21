@@ -1,0 +1,66 @@
+[
+ [
+  326625, 
+  [
+   0, 
+   13, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  326625, 
+  [
+   0, 
+   13, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  326625, 
+  [
+   0, 
+   13, 
+   {
+    "category": "bold"
+   }
+  ]
+ ], 
+ [
+  326625, 
+  [
+   770, 
+   781, 
+   {
+    "category": "color", 
+    "raw_data": "&quot;Red&quot;"
+   }
+  ]
+ ], 
+ [
+  326625, 
+  [
+   770, 
+   781, 
+   {
+    "category": "size", 
+    "raw_data": "&quot;5&quot;"
+   }
+  ]
+ ], 
+ [
+  326625, 
+  [
+   770, 
+   815, 
+   {
+    "category": "bold"
+   }
+  ]
+ ]
+]

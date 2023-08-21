@@ -1,0 +1,286 @@
+[
+ [
+  227456, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226575, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226698, 
+  [
+   0, 
+   248, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 226664, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  226578, 
+  [
+   0, 
+   89, 
+   {
+    "quote_id": 226577, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  226707, 
+  [
+   0, 
+   377, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 226639, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  226711, 
+  [
+   0, 
+   164, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 226705, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  226712, 
+  [
+   0, 
+   40, 
+   {
+    "raw_data": "simone", 
+    "quote_id": 226608, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  226713, 
+  [
+   0, 
+   198, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 226712, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  226716, 
+  [
+   0, 
+   159, 
+   {
+    "raw_data": "trebor", 
+    "quote_id": 226713, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  226592, 
+  [
+   0, 
+   291, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226578, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  227497, 
+  [
+   0, 
+   145, 
+   {
+    "raw_data": "Joe@actsii", 
+    "quote_id": 227494, 
+    "author": "Joe@actsii"
+   }
+  ]
+ ], 
+ [
+  227501, 
+  [
+   0, 
+   267, 
+   {
+    "raw_data": "Joe@actsii", 
+    "quote_id": 227454, 
+    "author": "Joe@actsii"
+   }
+  ]
+ ], 
+ [
+  226614, 
+  [
+   0, 
+   147, 
+   {
+    "quote_id": 226581, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227512, 
+  [
+   0, 
+   80, 
+   {
+    "raw_data": "simone;227501", 
+    "quote_id": 227501, 
+    "author": "simone"
+   }
+  ]
+ ], 
+ [
+  226618, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 226581, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  227516, 
+  [
+   0, 
+   132, 
+   {
+    "raw_data": "trebor;227497", 
+    "quote_id": 227497, 
+    "author": "trebor"
+   }
+  ]
+ ], 
+ [
+  226751, 
+  [
+   0, 
+   218, 
+   {
+    "quote_id": 226716, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  226751, 
+  [
+   222, 
+   325, 
+   {
+    "quote_id": 226716, 
+    "author": "Matthew S"
+   }
+  ]
+ ], 
+ [
+  227488, 
+  [
+   0, 
+   121, 
+   {
+    "raw_data": "Joe@actsii", 
+    "quote_id": 227456, 
+    "author": "Joe@actsii"
+   }
+  ]
+ ], 
+ [
+  227524, 
+  [
+   0, 
+   1724, 
+   {
+    "raw_data": "Joe@actsii;227516", 
+    "quote_id": 227516, 
+    "author": "Joe@actsii"
+   }
+  ]
+ ], 
+ [
+  226765, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226751, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226639, 
+  [
+   0, 
+   147, 
+   {
+    "raw_data": "Jo Bennett", 
+    "quote_id": 226581, 
+    "author": "Jo Bennett"
+   }
+  ]
+ ], 
+ [
+  226771, 
+  [
+   0, 
+   501, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226751, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  226577, 
+  [
+   0, 
+   317, 
+   {
+    "raw_data": "lunchmoney", 
+    "quote_id": 226575, 
+    "author": "lunchmoney"
+   }
+  ]
+ ], 
+ [
+  227454, 
+  [
+   0, 
+   398, 
+   {
+    "raw_data": "Matthew S", 
+    "quote_id": 226716, 
+    "author": "Matthew S"
+   }
+  ]
+ ]
+]
